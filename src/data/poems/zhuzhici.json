@@ -1,0 +1,147 @@
+{
+  "id": "tang-zhongtang-liuyuxi-zhuzhici",
+  "slug": "zhuzhici",
+  "title": "竹枝词（其一）",
+  "titlePinyin": "zhú zhī cí",
+  "dynasty": "tangshi",
+  "era": "zhongtang",
+  "genre": "shi",
+  "form": "七言绝句",
+  "authorId": "liuyuxi",
+  "gradeBand": "g3-4",
+  "tags": [
+    "民歌",
+    "爱情",
+    "天气",
+    "七言绝句"
+  ],
+  "difficulty": 2,
+  "writtenYear": 822,
+  "writtenLabel": "公元 822 年（刘禹锡 50 岁）",
+  "orderInAuthor": 2,
+  "famousLines": [
+    "东边日出西边雨，道是无晴却有晴。"
+  ],
+  "lines": [
+    {
+      "text": "杨柳青青江水平，",
+      "pinyin": [
+        "yáng",
+        "liǔ",
+        "qīng",
+        "qīng",
+        "jiāng",
+        "shuǐ",
+        "píng"
+      ],
+      "translation": "岸边杨柳青青，江面平平缓缓。",
+      "noteIds": []
+    },
+    {
+      "text": "闻郎江上唱歌声。",
+      "pinyin": [
+        "wén",
+        "láng",
+        "jiāng",
+        "shàng",
+        "chàng",
+        "gē",
+        "shēng"
+      ],
+      "translation": "姑娘听见江上传来心上人的歌声。",
+      "noteIds": [
+        "n-wenlang"
+      ]
+    },
+    {
+      "text": "东边日出西边雨，",
+      "pinyin": [
+        "dōng",
+        "biān",
+        "rì",
+        "chū",
+        "xī",
+        "biān",
+        "yǔ"
+      ],
+      "translation": "东边太阳出来了，西边却还在下雨。",
+      "noteIds": []
+    },
+    {
+      "text": "道是无晴却有晴。",
+      "pinyin": [
+        "dào",
+        "shì",
+        "wú",
+        "qíng",
+        "què",
+        "yǒu",
+        "qíng"
+      ],
+      "translation": "说它不是晴天吧，可它又好像有晴。",
+      "noteIds": [
+        "n-daoshi",
+        "n-qing"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-wenlang",
+      "word": "闻郎",
+      "pinyin": "wén láng",
+      "meaning": "听见心上人的声音。郎指姑娘喜欢的那位少年。"
+    },
+    {
+      "id": "n-daoshi",
+      "word": "道是",
+      "pinyin": "dào shì",
+      "meaning": "说它是。"
+    },
+    {
+      "id": "n-qing",
+      "word": "晴（情）",
+      "pinyin": "qíng",
+      "meaning": "“晴”和“情”读音相同。表面说天气半晴半雨，其实暗指姑娘说不清的心意。"
+    }
+  ],
+  "translation": "岸边杨柳青青，江面平平缓缓。姑娘听见江上传来心上人的歌声。东边太阳出来了，西边却还在下雨。说它不是晴天吧，可它又好像有晴。",
+  "appreciation": "这首诗像一首好听的山歌。前两句画风景：杨柳绿，江水平。接着写姑娘听见歌声，心里一动。最好玩的是后两句：东边出太阳，西边下着雨。天气说不清是晴是雨，姑娘的心意也说不清是喜是愁。“晴”和“情”读音相同，一句诗藏着两句话，这就是双关的小魔法。",
+  "background": "公元 822 年，刘禹锡在夔州做官。那里的人们爱唱山歌，边劳动边唱。刘禹锡越听越喜欢，就把民歌的味道学了下来，写成一组《竹枝词》。这是其中的第一首。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "江边好风光",
+      "text": "春天江边，杨柳青青，江面平平的，像一面镜子。"
+    },
+    {
+      "step": 2,
+      "title": "歌声飘过来",
+      "text": "江上传来少年的歌声，姑娘一听，心里悄悄一动。"
+    },
+    {
+      "step": 3,
+      "title": "东日西雨",
+      "text": "奇怪的事来了：东边出太阳，西边却在下雨。"
+    },
+    {
+      "step": 4,
+      "title": "心意难猜",
+      "text": "天气半晴半雨，姑娘的心意也说不清，像天气一样忽明忽暗。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "晴",
+      "reading": "qíng",
+      "reason": "这里读晴天的晴，还谐音“情”。",
+      "standard": "注意不是“情”字，写的是“晴”"
+    }
+  ],
+  "sources": [
+    "《刘禹锡集》",
+    "《全唐诗》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-24"
+}

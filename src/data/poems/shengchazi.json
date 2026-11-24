@@ -1,0 +1,202 @@
+{
+  "id": "song-beisong-ouyangxiu-shengchazi",
+  "slug": "shengchazi",
+  "title": "生查子·元夕",
+  "titlePinyin": "shēng zhā zǐ · yuán xī",
+  "dynasty": "songci",
+  "era": "beisong",
+  "genre": "ci",
+  "form": "词（小令）",
+  "authorId": "ouyangxiu",
+  "gradeBand": "g5-6",
+  "tags": [
+    "元宵",
+    "思念",
+    "对比",
+    "词"
+  ],
+  "difficulty": 1,
+  "writtenYear": 1035,
+  "writtenLabel": "约公元 1035 年（欧阳修 28 岁）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "月上柳梢头，人约黄昏后。"
+  ],
+  "lines": [
+    {
+      "text": "去年元夜时，",
+      "pinyin": [
+        "qù",
+        "nián",
+        "yuán",
+        "yè",
+        "shí"
+      ],
+      "translation": "去年元宵节的晚上，",
+      "noteIds": [
+        "n-yuanye"
+      ]
+    },
+    {
+      "text": "花市灯如昼。",
+      "pinyin": [
+        "huā",
+        "shì",
+        "dēng",
+        "rú",
+        "zhòu"
+      ],
+      "translation": "热闹的花市上，灯亮得像白天一样。",
+      "noteIds": [
+        "n-zhou"
+      ]
+    },
+    {
+      "text": "月上柳梢头，",
+      "pinyin": [
+        "yuè",
+        "shàng",
+        "liǔ",
+        "shāo",
+        "tóu"
+      ],
+      "translation": "月亮爬上柳树的树梢，",
+      "noteIds": []
+    },
+    {
+      "text": "人约黄昏后。",
+      "pinyin": [
+        "rén",
+        "yuē",
+        "huáng",
+        "hūn",
+        "hòu"
+      ],
+      "translation": "两个人约好了，黄昏后见面。",
+      "noteIds": [
+        "n-yue"
+      ]
+    },
+    {
+      "text": "今年元夜时，",
+      "pinyin": [
+        "jīn",
+        "nián",
+        "yuán",
+        "yè",
+        "shí"
+      ],
+      "translation": "今年元宵节的晚上，",
+      "noteIds": []
+    },
+    {
+      "text": "月与灯依旧。",
+      "pinyin": [
+        "yuè",
+        "yǔ",
+        "dēng",
+        "yī",
+        "jiù"
+      ],
+      "translation": "月亮和花灯，还是和去年一样。",
+      "noteIds": []
+    },
+    {
+      "text": "不见去年人，",
+      "pinyin": [
+        "bú",
+        "jiàn",
+        "qù",
+        "nián",
+        "rén"
+      ],
+      "translation": "却再也见不到去年那个人，",
+      "noteIds": []
+    },
+    {
+      "text": "泪湿春衫袖。",
+      "pinyin": [
+        "lèi",
+        "shī",
+        "chūn",
+        "shān",
+        "xiù"
+      ],
+      "translation": "眼泪打湿了春衫的袖子。",
+      "noteIds": [
+        "n-shanxiu"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-yuanye",
+      "word": "元夜",
+      "pinyin": "yuán yè",
+      "meaning": "元宵节的夜晚，就是正月十五。"
+    },
+    {
+      "id": "n-zhou",
+      "word": "昼",
+      "pinyin": "zhòu",
+      "meaning": "白天。灯如昼，是说灯亮得像白天一样。"
+    },
+    {
+      "id": "n-yue",
+      "word": "约",
+      "pinyin": "yuē",
+      "meaning": "约定。人约黄昏后，是说约好黄昏以后见面。"
+    },
+    {
+      "id": "n-shanxiu",
+      "word": "春衫袖",
+      "pinyin": "chūn shān xiù",
+      "meaning": "春天穿的衣衫的袖子。"
+    }
+  ],
+  "translation": "去年元宵节的晚上，热闹的花市上灯亮得像白天一样。月亮爬上柳树的树梢，两个人约好了黄昏后见面。今年元宵节的晚上，月亮和花灯还是和去年一样，却再也见不到去年那个人，眼泪打湿了春衫的袖子。",
+  "appreciation": "这首词用了最聪明的比法：去年比今年。去年，灯亮月圆，还有个约定，满满都是甜。今年，灯还是那么亮，月亮还是那么圆，人却不见了。一样的东西越像，不一样的地方就越疼。没有大段大段的哭诉，只有袖子上一点点泪痕。读完你也会懂：元宵还是那个元宵，少的那个人，谁也替不了。",
+  "background": "约公元 1035 年，欧阳修写下这首小词。元宵节是古时候最热闹的夜晚，年轻人可以出门赏灯。词里写了两次元宵：去年相约，今年空等。有人说词里藏着一个动人的故事，也有人说他是在怀念往事。这首词也因此流传了千年。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "去年灯如昼",
+      "text": "去年元宵夜，花市的花灯亮得像白天。"
+    },
+    {
+      "step": 2,
+      "title": "柳下有约定",
+      "text": "月亮爬上柳梢，两个人约好黄昏后见面。"
+    },
+    {
+      "step": 3,
+      "title": "今年灯依旧",
+      "text": "今年又是元宵，灯和月亮都和去年一样亮。"
+    },
+    {
+      "step": 4,
+      "title": "人不见了",
+      "text": "等到最后，那个人还是没有来，眼泪湿了袖子。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "查",
+      "reading": "zhā",
+      "reason": "“生查子”是词牌名，这里的查读 zhā。",
+      "standard": "检查的查读 chá，这里是特例"
+    },
+    {
+      "char": "昼",
+      "reading": "zhòu",
+      "reason": "“昼”是白天的意思。",
+      "standard": "注意是第四声，和“夜”意思相反"
+    }
+  ],
+  "sources": [
+    "《欧阳文忠公集》",
+    "《宋词三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-24"
+}

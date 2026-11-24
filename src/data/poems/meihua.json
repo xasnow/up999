@@ -1,0 +1,140 @@
+{
+  "id": "song-beisong-wanganshi-meihua",
+  "slug": "meihua",
+  "title": "梅花",
+  "titlePinyin": "méi huā",
+  "dynasty": "songci",
+  "era": "beisong",
+  "genre": "shi",
+  "form": "五言绝句",
+  "authorId": "wanganshi",
+  "gradeBand": "g1-2",
+  "tags": [
+    "冬天",
+    "梅花",
+    "品格",
+    "五言绝句"
+  ],
+  "difficulty": 1,
+  "writtenYear": 1075,
+  "writtenLabel": "约公元 1075 年（王安石 54 岁）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "遥知不是雪，为有暗香来。"
+  ],
+  "lines": [
+    {
+      "text": "墙角数枝梅，",
+      "pinyin": [
+        "qiáng",
+        "jiǎo",
+        "shù",
+        "zhī",
+        "méi"
+      ],
+      "translation": "墙角有几枝梅花，静静地开着。",
+      "noteIds": [
+        "n-shu"
+      ]
+    },
+    {
+      "text": "凌寒独自开。",
+      "pinyin": [
+        "líng",
+        "hán",
+        "dú",
+        "zì",
+        "kāi"
+      ],
+      "translation": "它们冒着严寒，独自开放。",
+      "noteIds": [
+        "n-ling"
+      ]
+    },
+    {
+      "text": "遥知不是雪，",
+      "pinyin": [
+        "yáo",
+        "zhī",
+        "bú",
+        "shì",
+        "xuě"
+      ],
+      "translation": "远远望去就知道那不是积雪，",
+      "noteIds": []
+    },
+    {
+      "text": "为有暗香来。",
+      "pinyin": [
+        "wèi",
+        "yǒu",
+        "àn",
+        "xiāng",
+        "lái"
+      ],
+      "translation": "因为有一阵淡淡的清香飘过来。",
+      "noteIds": [
+        "n-an"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-shu",
+      "word": "数",
+      "pinyin": "shù",
+      "meaning": "几、好几个。数枝梅，就是几枝梅花。"
+    },
+    {
+      "id": "n-ling",
+      "word": "凌寒",
+      "pinyin": "líng hán",
+      "meaning": "冒着严寒的天气。凌，有冒着、顶着的意思。"
+    },
+    {
+      "id": "n-an",
+      "word": "暗香",
+      "pinyin": "àn xiāng",
+      "meaning": "幽幽的、淡淡的香气，不凑近也能闻到。"
+    }
+  ],
+  "translation": "墙角有几枝梅花，静静地开着。它们冒着严寒，独自开放。远远望去就知道那不是积雪，因为有一阵淡淡的清香飘过来。",
+  "appreciation": "这首诗像猜谜一样好玩。远远望去，一丛白色，是雪吗？鼻子先给出了答案：有香味飘来，那是梅花！雪是白的，梅花也是白的，可雪没有香气。诗人用鼻子认出了梅花，也夸了它的勇敢：天这么冷，别的花都躲着，只有梅花独自开放。短短二十个字，有颜色，有香味，还有一股子不服输的劲儿。",
+  "background": "约公元 1075 年，王安石推行的变法遇到很大困难，他的处境也很艰难。冬天里，他看见墙角的梅花冒着严寒开放，写下这首小诗。梅花就像他自己：不怕冷，也不怕难。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "墙角一丛白",
+      "text": "冬天墙角，有几枝白白的梅花静静开着。"
+    },
+    {
+      "step": 2,
+      "title": "顶着寒冷开",
+      "text": "天这么冷，它们不躲，偏偏独自开放。"
+    },
+    {
+      "step": 3,
+      "title": "是雪吗",
+      "text": "远远望去像积雪，诗人却摇摇头说：不是。"
+    },
+    {
+      "step": 4,
+      "title": "香味来报信",
+      "text": "一阵淡淡的花香飘来，原来那是勇敢的梅花。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "凌",
+      "reading": "líng",
+      "reason": "“凌寒”是冒着寒冷的意思。",
+      "standard": "注意是第二声，左边是两点水"
+    }
+  ],
+  "sources": [
+    "《王安石全集》",
+    "《临川先生文集》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-24"
+}

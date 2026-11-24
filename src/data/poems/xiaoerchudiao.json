@@ -1,0 +1,180 @@
+{
+  "id": "tang-zhongtang-hulingneng-xiaoerchudiao",
+  "slug": "xiaoerchudiao",
+  "title": "小儿垂钓",
+  "titlePinyin": "xiǎo ér chuí diào",
+  "dynasty": "tangshi",
+  "era": "zhongtang",
+  "genre": "shi",
+  "form": "七言绝句",
+  "authorId": "hulingneng",
+  "gradeBand": "g1-2",
+  "tags": [
+    "儿童",
+    "钓鱼",
+    "童趣",
+    "七言绝句"
+  ],
+  "difficulty": 2,
+  "writtenYear": 785,
+  "writtenLabel": "约公元 785 年（胡令能乡居时期）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "路人借问遥招手，怕得鱼惊不应人。"
+  ],
+  "lines": [
+    {
+      "text": "蓬头稚子学垂纶，",
+      "pinyin": [
+        "péng",
+        "tóu",
+        "zhì",
+        "zǐ",
+        "xué",
+        "chuí",
+        "lún"
+      ],
+      "translation": "一个头发乱蓬蓬的小孩在学钓鱼，",
+      "noteIds": [
+        "n-chuilun"
+      ]
+    },
+    {
+      "text": "侧坐莓苔草映身。",
+      "pinyin": [
+        "cè",
+        "zuò",
+        "méi",
+        "tái",
+        "cǎo",
+        "yìng",
+        "shēn"
+      ],
+      "translation": "他侧身坐在长青苔的石头边，野草掩住了身影。",
+      "noteIds": [
+        "n-meitai"
+      ]
+    },
+    {
+      "text": "路人借问遥招手，",
+      "pinyin": [
+        "lù",
+        "rén",
+        "jiè",
+        "wèn",
+        "yáo",
+        "zhāo",
+        "shǒu"
+      ],
+      "translation": "过路人向他打听，他远远地摆手不让靠近，",
+      "noteIds": [
+        "n-jiewen"
+      ]
+    },
+    {
+      "text": "怕得鱼惊不应人。",
+      "pinyin": [
+        "pà",
+        "dé",
+        "yú",
+        "jīng",
+        "bú",
+        "yìng",
+        "rén"
+      ],
+      "translation": "他怕惊跑了鱼，不敢回答别人。",
+      "noteIds": [
+        "n-buying"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-chuilun",
+      "word": "垂纶",
+      "pinyin": "chuí lún",
+      "meaning": "钓鱼。纶是钓鱼用的丝线。"
+    },
+    {
+      "id": "n-meitai",
+      "word": "莓苔",
+      "pinyin": "méi tái",
+      "meaning": "阴湿地方长的青苔。"
+    },
+    {
+      "id": "n-jiewen",
+      "word": "借问",
+      "pinyin": "jiè wèn",
+      "meaning": "向别人打听、询问。"
+    },
+    {
+      "id": "n-buying",
+      "word": "不应",
+      "pinyin": "bù yìng",
+      "meaning": "不答应、不回答，怕吓跑了鱼。"
+    }
+  ],
+  "translation": "一个头发乱蓬蓬的小孩在学钓鱼，他侧身坐在长青苔的石头边，野草掩住了身影。过路人向他打听，他远远地摆手不让靠近，他怕惊跑了鱼，不敢回答别人。",
+  "appreciation": "这首诗像一张抓拍的照片：蓬头小孩、侧身坐姿、远远招手，每个动作都写活了。最妙的是招手这个细节：大人来问路，他不回答，也不走开，只是摆摆手。为什么？怕吓跑鱼呀。一个“怕”字，小孩的认真劲儿全出来了。",
+  "background": "胡令能住在乡下，平时帮人修补锅碗。有一天，他看见一个小孩在水边学钓鱼，那认真的样子实在太可爱了，就写下了这首诗。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "学钓鱼",
+      "text": "一个头发乱蓬蓬的小孩，学着大人的样子钓鱼。"
+    },
+    {
+      "step": 2,
+      "title": "侧身藏草",
+      "text": "他侧身坐在青苔石边，野草遮住了身子。"
+    },
+    {
+      "step": 3,
+      "title": "摆手别问",
+      "text": "有人来问路，他远远摆手，不敢出声。"
+    },
+    {
+      "step": 4,
+      "title": "怕惊鱼儿",
+      "text": "他怕说话声吓跑鱼，眼睛一直盯着水面。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "稚",
+      "reading": "zhì",
+      "reason": "稚子就是小孩子。",
+      "standard": "注意读 zhì"
+    },
+    {
+      "char": "纶",
+      "reading": "lún",
+      "reason": "垂纶就是钓鱼，纶指钓鱼的丝线。",
+      "standard": "“纶巾”的纶读 guān"
+    },
+    {
+      "char": "莓",
+      "reading": "méi",
+      "reason": "莓苔是阴湿地方的青苔。",
+      "standard": "和“草莓”的莓一样，读 méi"
+    },
+    {
+      "char": "应",
+      "reading": "yìng",
+      "reason": "不应人是回答、回应的意思。",
+      "standard": "“应该”的应读 yīng"
+    },
+    {
+      "char": "不",
+      "reading": "bú",
+      "reason": "“不应人”的“应”读第四声，“不”变调读 bú。",
+      "standard": "单独念时读 bù"
+    }
+  ],
+  "sources": [
+    "《全唐诗》胡令能卷",
+    "《唐诗鉴赏辞典》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-24"
+}

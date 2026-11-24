@@ -1,0 +1,160 @@
+{
+  "id": "song-beisong-sushi-huichongchunjiang",
+  "slug": "huichongchunjiang",
+  "title": "惠崇春江晚景",
+  "titlePinyin": "huì chóng chūn jiāng wǎn jǐng",
+  "dynasty": "songci",
+  "era": "beisong",
+  "genre": "shi",
+  "form": "七言绝句",
+  "authorId": "sushi",
+  "gradeBand": "g3-4",
+  "textbook": "部编版三年级下册",
+  "tags": [
+    "春天",
+    "题画诗",
+    "鸭子",
+    "七言绝句"
+  ],
+  "difficulty": 4,
+  "writtenYear": 1085,
+  "writtenLabel": "公元 1085 年（苏轼 48 岁）",
+  "orderInAuthor": 4,
+  "famousLines": [
+    "竹外桃花三两枝，春江水暖鸭先知。"
+  ],
+  "lines": [
+    {
+      "text": "竹外桃花三两枝，",
+      "pinyin": [
+        "zhú",
+        "wài",
+        "táo",
+        "huā",
+        "sān",
+        "liǎng",
+        "zhī"
+      ],
+      "translation": "竹林外有两三枝桃花，悄悄开放了。",
+      "noteIds": []
+    },
+    {
+      "text": "春江水暖鸭先知。",
+      "pinyin": [
+        "chūn",
+        "jiāng",
+        "shuǐ",
+        "nuǎn",
+        "yā",
+        "xiān",
+        "zhī"
+      ],
+      "translation": "春天的江水变暖了，鸭子最先知道。",
+      "noteIds": []
+    },
+    {
+      "text": "蒌蒿满地芦芽短，",
+      "pinyin": [
+        "lóu",
+        "hāo",
+        "mǎn",
+        "dì",
+        "lú",
+        "yá",
+        "duǎn"
+      ],
+      "translation": "蒌蒿长满一地，芦苇刚冒出短短的嫩芽。",
+      "noteIds": [
+        "n-louhao",
+        "n-luya"
+      ]
+    },
+    {
+      "text": "正是河豚欲上时。",
+      "pinyin": [
+        "zhèng",
+        "shì",
+        "hé",
+        "tún",
+        "yù",
+        "shàng",
+        "shí"
+      ],
+      "translation": "这正是河豚逆流而上、快要游来的时候。",
+      "noteIds": [
+        "n-hetun"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-louhao",
+      "word": "蒌蒿",
+      "pinyin": "lóu hāo",
+      "meaning": "一种春天生长的野草，嫩嫩的，可以当菜吃。"
+    },
+    {
+      "id": "n-luya",
+      "word": "芦芽",
+      "pinyin": "lú yá",
+      "meaning": "芦苇刚长出来的嫩芽，短短的，像小竹笋。"
+    },
+    {
+      "id": "n-hetun",
+      "word": "河豚",
+      "pinyin": "hé tún",
+      "meaning": "一种味道鲜美但有毒的鱼。春天它会成群逆流而上。"
+    }
+  ],
+  "translation": "竹林外有两三枝桃花，悄悄开放了。春天的江水变暖了，鸭子最先知道。蒌蒿长满一地，芦苇刚冒出短短的嫩芽。这正是河豚逆流而上、快要游来的时候。",
+  "appreciation": "这幅画里本来没有声音，苏轼一提笔，春天就动起来了。桃花冒出来，鸭子跳下水，蒌蒿挤满地，芦芽探出头。最妙的是那句“春江水暖鸭先知”：水暖不暖，人不知道，天天游水的鸭子最清楚。这首诗还是“题画诗”——惠崇画了一幅画，苏轼用诗给它配上了声音和动感。画加上诗，春天就活了。",
+  "background": "公元 1085 年，僧人惠崇画了一幅《春江晚景》。苏轼看到后很喜欢，就在画上题了这首诗。这类为画题写的诗叫“题画诗”。惠崇的画早已不见了，苏轼的诗却流传至今。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "桃花冒出来",
+      "text": "竹林外面，两三枝桃花悄悄开放了。"
+    },
+    {
+      "step": 2,
+      "title": "鸭子先下水",
+      "text": "江水悄悄变暖，天天游泳的鸭子最先知道。"
+    },
+    {
+      "step": 3,
+      "title": "草地冒新芽",
+      "text": "蒌蒿长满一地，短短的芦芽也探出了头。"
+    },
+    {
+      "step": 4,
+      "title": "河豚要来了",
+      "text": "春天一到，河豚成群结队，正往上游赶来。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "蒌",
+      "reading": "lóu",
+      "reason": "“蒌蒿”是一种春天的野草。",
+      "standard": "注意是第二声"
+    },
+    {
+      "char": "蒿",
+      "reading": "hāo",
+      "reason": "“蒿”指蒿草一类的植物。",
+      "standard": "注意是第一声"
+    },
+    {
+      "char": "豚",
+      "reading": "tún",
+      "reason": "“河豚”是一种鱼的名字。",
+      "standard": "注意是第二声，不读 tún 以外的音"
+    }
+  ],
+  "sources": [
+    "部编版语文三年级下册",
+    "《苏轼诗集》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-24"
+}

@@ -1,0 +1,153 @@
+{
+  "id": "tang-zhongtang-baijuyi-wenliushijiu",
+  "slug": "wenliushijiu",
+  "title": "问刘十九",
+  "titlePinyin": "wèn liú shí jiǔ",
+  "dynasty": "tangshi",
+  "era": "zhongtang",
+  "genre": "shi",
+  "form": "五言绝句",
+  "authorId": "baijuyi",
+  "gradeBand": "g1-2",
+  "tags": [
+    "冬天",
+    "友情",
+    "邀请",
+    "五言绝句"
+  ],
+  "difficulty": 2,
+  "writtenYear": 815,
+  "writtenLabel": "约公元 815 年（白居易贬官江州前后）",
+  "orderInAuthor": 2,
+  "famousLines": [
+    "晚来天欲雪，能饮一杯无。"
+  ],
+  "lines": [
+    {
+      "text": "绿蚁新醅酒，",
+      "pinyin": [
+        "lǜ",
+        "yǐ",
+        "xīn",
+        "pēi",
+        "jiǔ"
+      ],
+      "translation": "新酿的酒上浮着淡淡的绿沫，",
+      "noteIds": [
+        "n-lvyl",
+        "n-pei"
+      ]
+    },
+    {
+      "text": "红泥小火炉。",
+      "pinyin": [
+        "hóng",
+        "ní",
+        "xiǎo",
+        "huǒ",
+        "lú"
+      ],
+      "translation": "红泥砌的小火炉烧得正旺。",
+      "noteIds": []
+    },
+    {
+      "text": "晚来天欲雪，",
+      "pinyin": [
+        "wǎn",
+        "lái",
+        "tiān",
+        "yù",
+        "xuě"
+      ],
+      "translation": "傍晚天色阴沉，眼看要下雪了，",
+      "noteIds": [
+        "n-yu"
+      ]
+    },
+    {
+      "text": "能饮一杯无。",
+      "pinyin": [
+        "néng",
+        "yǐn",
+        "yì",
+        "bēi",
+        "wú"
+      ],
+      "translation": "朋友，能来喝上一杯吗？",
+      "noteIds": [
+        "n-wu"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-lvyl",
+      "word": "绿蚁",
+      "pinyin": "lǜ yǐ",
+      "meaning": "新酒没过滤，酒面浮着淡绿色的小泡沫，像小蚂蚁。"
+    },
+    {
+      "id": "n-pei",
+      "word": "醅",
+      "pinyin": "pēi",
+      "meaning": "没有过滤的酒。"
+    },
+    {
+      "id": "n-yu",
+      "word": "欲",
+      "pinyin": "yù",
+      "meaning": "将要，快要。"
+    },
+    {
+      "id": "n-wu",
+      "word": "无",
+      "pinyin": "wú",
+      "meaning": "疑问语气词，相当于“吗”。"
+    }
+  ],
+  "translation": "新酿的酒上浮着淡淡的绿沫，红泥砌的小火炉烧得正旺。傍晚天色阴沉，眼看要下雪了，朋友，能来喝上一杯吗？",
+  "appreciation": "这可能是古诗里最温暖的一份邀请。绿酒、红炉、暮雪，摆在一起，屋里暖，屋外冷，一暖一冷，更显出朋友的情谊。最后一句不喊“快来”，只轻轻地问：能来喝一杯吗？读着读着，仿佛已经闻到酒香了。",
+  "background": "白居易当时在江州做官。冬天的傍晚，新酒酿好了，小火炉烧得正旺，天又快要下雪。他写了一张“请柬”，邀请朋友刘十九来喝一杯。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "新酒酿好",
+      "text": "冬天的傍晚，白居易家的新酒刚刚酿好。"
+    },
+    {
+      "step": 2,
+      "title": "炉火烧旺",
+      "text": "红泥小炉的火苗跳着，屋里暖烘烘的。"
+    },
+    {
+      "step": 3,
+      "title": "天要下雪",
+      "text": "他抬头一看，天色暗下来，快要下雪了。"
+    },
+    {
+      "step": 4,
+      "title": "邀友喝酒",
+      "text": "他写下请柬问刘十九：能来喝一杯吗？"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "醅",
+      "reading": "pēi",
+      "reason": "醅是没有过滤的新酒。",
+      "standard": "注意读 pēi"
+    },
+    {
+      "char": "饮",
+      "reading": "yǐn",
+      "reason": "“能饮一杯无”的饮是喝的意思。",
+      "standard": "“饮马”的饮读 yìn"
+    }
+  ],
+  "sources": [
+    "《白氏长庆集》",
+    "《全唐诗》白居易卷"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-24"
+}

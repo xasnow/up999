@@ -1,0 +1,111 @@
+{
+  "id": "tang-zhongtang-mengjiao-youziyin",
+  "slug": "youziyin",
+  "title": "游子吟",
+  "titlePinyin": "yóu zǐ yín",
+  "dynasty": "tangshi",
+  "era": "zhongtang",
+  "genre": "shi",
+  "form": "五言古诗",
+  "authorId": "mengjiao",
+  "gradeBand": "g3-4",
+  "textbook": "课外经典诵读篇目",
+  "tags": ["母爱", "感恩", "亲情", "五言古诗"],
+  "difficulty": 2,
+  "writtenYear": 796,
+  "writtenLabel": "公元 796 年（孟郊考中进士后，迎养母亲时所作）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "谁言寸草心，报得三春晖。"
+  ],
+  "lines": [
+    {
+      "text": "慈母手中线，",
+      "pinyin": ["cí", "mǔ", "shǒu", "zhōng", "xiàn"],
+      "translation": "慈爱的母亲手里拿着针线，",
+      "noteIds": []
+    },
+    {
+      "text": "游子身上衣。",
+      "pinyin": ["yóu", "zǐ", "shēn", "shàng", "yī"],
+      "translation": "为要出远门的游子缝制衣裳。",
+      "noteIds": []
+    },
+    {
+      "text": "临行密密缝，",
+      "pinyin": ["lín", "xíng", "mì", "mì", "féng"],
+      "translation": "临走前，她一针一针缝得又密又实，",
+      "noteIds": ["n-feng"]
+    },
+    {
+      "text": "意恐迟迟归。",
+      "pinyin": ["yì", "kǒng", "chí", "chí", "guī"],
+      "translation": "心里担心儿子迟迟回不来。",
+      "noteIds": []
+    },
+    {
+      "text": "谁言寸草心，",
+      "pinyin": ["shuí", "yán", "cùn", "cǎo", "xīn"],
+      "translation": "谁说小草般微小的孝心，",
+      "noteIds": ["n-cuncao"]
+    },
+    {
+      "text": "报得三春晖。",
+      "pinyin": ["bào", "dé", "sān", "chūn", "huī"],
+      "translation": "报答得了春天阳光般温暖的母爱呢？",
+      "noteIds": ["n-hui"]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-feng",
+      "word": "缝",
+      "pinyin": "féng",
+      "meaning": "用针线把东西连起来。这里读 féng。"
+    },
+    {
+      "id": "n-cuncao",
+      "word": "寸草",
+      "pinyin": "cùn cǎo",
+      "meaning": "小草。诗人把自己比作小草。"
+    },
+    {
+      "id": "n-hui",
+      "word": "三春晖",
+      "pinyin": "sān chūn huī",
+      "meaning": "春天阳光的温暖。诗人用来比喻母亲的爱。"
+    }
+  ],
+  "translation": "慈爱的母亲手里拿着针线，为要出远门的游子缝制衣裳。临走前，她一针一针缝得又密又实，心里担心儿子迟迟回不来。谁说小草般微小的孝心，报答得了春天阳光般温暖的母爱呢？",
+  "appreciation": "诗里只有一件小事：妈妈为儿子缝衣服。临行前，她缝得又密又结实。为什么缝这么密？她怕儿子出门太久，衣服破了没人补。针针线线，全是牵挂。最后诗人问：小草能报答春天的太阳吗？这一问，让全天下读诗的孩子，都想起了自己的妈妈。",
+  "background": "公元 796 年，孟郊考中进士，把母亲接到身边生活。想起多年离家在外，一直是母亲在牵挂自己，他写下这首《游子吟》。诗题下面，还有他写的一行小注：迎母溧上作。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "儿子要出门",
+      "text": "游子要出远门了，妈妈连夜为他准备行装。"
+    },
+    {
+      "step": 2,
+      "title": "一针一线",
+      "text": "妈妈坐在灯下，手里拿着针线，把衣服缝得又密又结实。"
+    },
+    {
+      "step": 3,
+      "title": "心里的小担心",
+      "text": "她一边缝一边想：这一走，不知道什么时候才能回来呀。"
+    },
+    {
+      "step": 4,
+      "title": "小草和太阳",
+      "text": "儿子看着妈妈，心想：母爱像春天的太阳，我怎么报答得完呢？"
+    }
+  ],
+  "pinyinNotes": [],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗鉴赏辞典》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-24"
+}

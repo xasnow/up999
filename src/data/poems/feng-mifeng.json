@@ -1,0 +1,148 @@
+{
+  "id": "tang-wantang-luoyin-feng-mifeng",
+  "slug": "feng-mifeng",
+  "title": "蜂",
+  "titlePinyin": "fēng",
+  "dynasty": "tangshi",
+  "era": "wantang",
+  "genre": "shi",
+  "form": "七言绝句",
+  "authorId": "luoyin",
+  "gradeBand": "g1-2",
+  "tags": [
+    "动物",
+    "勤劳",
+    "咏物",
+    "七言绝句"
+  ],
+  "difficulty": 1,
+  "writtenYear": 870,
+  "writtenLabel": "约公元 870 年（罗隐 37 岁）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "采得百花成蜜后，为谁辛苦为谁甜？"
+  ],
+  "lines": [
+    {
+      "text": "不论平地与山尖，",
+      "pinyin": [
+        "bù",
+        "lùn",
+        "píng",
+        "dì",
+        "yǔ",
+        "shān",
+        "jiān"
+      ],
+      "translation": "不管是平地，还是高高的山顶，",
+      "noteIds": [
+        "n-lun"
+      ]
+    },
+    {
+      "text": "无限风光尽被占。",
+      "pinyin": [
+        "wú",
+        "xiàn",
+        "fēng",
+        "guāng",
+        "jìn",
+        "bèi",
+        "zhàn"
+      ],
+      "translation": "所有的好风光，都被小蜜蜂占了。",
+      "noteIds": [
+        "n-zhan"
+      ]
+    },
+    {
+      "text": "采得百花成蜜后，",
+      "pinyin": [
+        "cǎi",
+        "dé",
+        "bǎi",
+        "huā",
+        "chéng",
+        "mì",
+        "hòu"
+      ],
+      "translation": "小蜜蜂采了千朵万朵花，酿成甜甜的蜂蜜，",
+      "noteIds": []
+    },
+    {
+      "text": "为谁辛苦为谁甜？",
+      "pinyin": [
+        "wèi",
+        "shuí",
+        "xīn",
+        "kǔ",
+        "wèi",
+        "shuí",
+        "tián"
+      ],
+      "translation": "可它这么辛苦，到底是为了谁，甜了谁呢？",
+      "noteIds": [
+        "n-wei"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-lun",
+      "word": "论",
+      "pinyin": "lùn",
+      "meaning": "说、计较。“不论”就是不管、不挑地方。"
+    },
+    {
+      "id": "n-zhan",
+      "word": "占",
+      "pinyin": "zhàn",
+      "meaning": "占有、占据。这句说好风光都被蜜蜂跑了个遍。"
+    },
+    {
+      "id": "n-wei",
+      "word": "为",
+      "pinyin": "wèi",
+      "meaning": "为了。为谁辛苦为谁甜，是问：这份辛苦到底为了谁。"
+    }
+  ],
+  "translation": "不管是平地，还是高高的山顶，所有的好风光，都被小蜜蜂占了。小蜜蜂采了千朵万朵花，酿成甜甜的蜂蜜。可它这么辛苦，到底是为了谁，甜了谁呢？",
+  "appreciation": "小蜜蜂是这首诗的主角。它不挑地方，平地去，山顶也去。哪里有花，哪里就有它忙碌的小身影。最后诗人问了一个问题：蜜这么甜，是为了谁酿的？这个问题没有答案，却让人想起许多像蜜蜂一样的人。他们辛苦干活，把甜留给了别人。小小的诗，装着大大的心意。",
+  "background": "大约公元 870 年，罗隐四处奔波，日子过得很不容易。他看见蜜蜂在花丛里忙个不停，忽然想到了自己，也想到了天下辛苦的劳动者，于是写下这首《蜂》。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "哪里都去",
+      "text": "小蜜蜂不挑地方，平地去，高高的山顶也去。"
+    },
+    {
+      "step": 2,
+      "title": "占尽风光",
+      "text": "哪儿的花开得好，哪儿就有它忙碌的小身影。"
+    },
+    {
+      "step": 3,
+      "title": "酿出甜蜜",
+      "text": "它采了千朵万朵花，酿出金黄的蜂蜜。"
+    },
+    {
+      "step": 4,
+      "title": "一个问题",
+      "text": "诗人问：蜜这么甜，小蜜蜂到底为谁辛苦、为谁酿甜呢？"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "占",
+      "reading": "zhàn",
+      "reason": "“尽被占”是被占据的意思，读第四声。",
+      "standard": "占卜的占才读 zhān"
+    }
+  ],
+  "sources": [
+    "《罗隐集》",
+    "《全唐诗》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-24"
+}

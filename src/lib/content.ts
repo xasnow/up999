@@ -1,4 +1,13 @@
 import dynastiesData from '../data/dynasties.json';
+import siteConfig from '../data/site-config.json';
+
+/** 全站配图开关（src/data/site-config.json）：false 隐藏封面/分镜，代码与数据保留 */
+export const IMAGES_ENABLED = siteConfig.imagesEnabled !== false;
+
+/** 取作品封面；配图关闭时返回 null，页面自动退回文字占位 */
+export function getCover(poem: any): any {
+  return IMAGES_ENABLED ? (poem.images?.cover ?? null) : null;
+}
 
 // 构建期一次性读取全部数据，生成索引（作者→作品、时期→作者、上一首/下一首）
 const authorModules = import.meta.glob('../data/authors/*.json', {

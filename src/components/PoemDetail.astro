@@ -1,6 +1,6 @@
 ---
 // 作品详情：封面 → 原文 → 讲解 → 拓展，移动端优先
-import { authorPath, getAuthor, getDynasty, getEra, gradeLabel, poemNeighbors } from '../lib/content';
+import { authorPath, getAuthor, getCover, getDynasty, getEra, gradeLabel, IMAGES_ENABLED, poemNeighbors } from '../lib/content';
 import PinyinText from './PinyinText.astro';
 import TimelineStory from './TimelineStory.astro';
 import AudioButton from './AudioButton.astro';
@@ -12,7 +12,7 @@ const era = getEra(poem.dynasty, poem.era);
 const { prev, next } = poemNeighbors(poem);
 const authorNoun = poem.dynasty === 'songci' ? '词人' : '诗人';
 const fullText = poem.lines.map((l) => l.text).join('');
-const cover = poem.images?.cover;
+const cover = getCover(poem);
 ---
 
 <div class="container">
@@ -103,7 +103,7 @@ const cover = poem.images?.cover;
 
   <section class="block">
     <h2>一步一步读懂</h2>
-    <TimelineStory storyline={poem.storyline} panels={poem.images?.panels ?? []} />
+    <TimelineStory storyline={poem.storyline} panels={IMAGES_ENABLED ? poem.images?.panels ?? [] : []} />
   </section>
 
   <section class="block">

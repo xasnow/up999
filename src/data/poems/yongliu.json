@@ -1,0 +1,99 @@
+{
+  "id": "tang-shengtang-hezhizhang-yongliu",
+  "slug": "yongliu",
+  "title": "咏柳",
+  "titlePinyin": "yǒng liǔ",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "七言绝句",
+  "authorId": "hezhizhang",
+  "gradeBand": "g1-2",
+  "textbook": "部编版语文二年级下册",
+  "tags": ["春天", "柳树", "比喻", "七言绝句"],
+  "difficulty": 1,
+  "writtenYear": 745,
+  "writtenLabel": "约公元 745 年（贺知章晚年咏春柳之作）",
+  "orderInAuthor": 2,
+  "famousLines": [
+    "不知细叶谁裁出，二月春风似剪刀。"
+  ],
+  "lines": [
+    {
+      "text": "碧玉妆成一树高，",
+      "pinyin": ["bì", "yù", "zhuāng", "chéng", "yī", "shù", "gāo"],
+      "translation": "高高的柳树，像用碧玉打扮过一样，",
+      "noteIds": ["n-zhuang"]
+    },
+    {
+      "text": "万条垂下绿丝绦。",
+      "pinyin": ["wàn", "tiáo", "chuí", "xià", "lǜ", "sī", "tāo"],
+      "translation": "千万条柳枝垂下来，像绿色的丝带。",
+      "noteIds": ["n-tao"]
+    },
+    {
+      "text": "不知细叶谁裁出，",
+      "pinyin": ["bù", "zhī", "xì", "yè", "shuí", "cái", "chū"],
+      "translation": "不知道细细的柳叶是谁裁剪出来的，",
+      "noteIds": []
+    },
+    {
+      "text": "二月春风似剪刀。",
+      "pinyin": ["èr", "yuè", "chūn", "fēng", "sì", "jiǎn", "dāo"],
+      "translation": "原来二月的春风，就像一把剪刀。",
+      "noteIds": ["n-si"]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-zhuang",
+      "word": "妆",
+      "pinyin": "zhuāng",
+      "meaning": "打扮、装扮。诗里说柳树像打扮过的美人。"
+    },
+    {
+      "id": "n-tao",
+      "word": "绦",
+      "pinyin": "tāo",
+      "meaning": "用丝线编成的带子。绿丝绦，就是绿色的丝带。"
+    },
+    {
+      "id": "n-si",
+      "word": "似",
+      "pinyin": "sì",
+      "meaning": "好像，像。"
+    }
+  ],
+  "translation": "高高的柳树像用碧玉打扮过一样，千万条柳枝垂下来，像绿色的丝带。不知道细细的柳叶是谁裁剪出来的，原来二月的春风就像一把剪刀。",
+  "appreciation": "整棵柳树，像穿了碧玉的衣服。柳枝垂下来，像绿色的丝带。柳叶细细的，像有人剪出来的。是谁剪的呢？诗人说，是二月的春风。把春风比作剪刀，这个比喻真妙！春风一吹，满树的叶子就剪好了。读着诗，眼前就像有一幅春天的画。",
+  "background": "这首诗写于贺知章晚年。春天的柳树刚发芽，满树都是嫩绿。诗人越看越觉得柳树像打扮过的姑娘，就写下了这首《咏柳》。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "走近一棵柳树",
+      "text": "春天到了，贺知章看见一棵高高的柳树，满树都是嫩绿的颜色。"
+    },
+    {
+      "step": 2,
+      "title": "绿丝带飘起来",
+      "text": "千万条柳枝垂下来，风一吹，轻轻摆动，像绿色的丝带。"
+    },
+    {
+      "step": 3,
+      "title": "细叶是谁剪的",
+      "text": "他看着细细的柳叶想：是谁的手艺这么好，把叶子裁得这么齐？"
+    },
+    {
+      "step": 4,
+      "title": "春风是剪刀",
+      "text": "他找到了答案：原来是二月的春风，它就像一把看不见的剪刀。"
+    }
+  ],
+  "pinyinNotes": [],
+  "sources": [
+    "部编版语文二年级下册",
+    "《全唐诗》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-24"
+}

@@ -11,6 +11,9 @@ const ROOT = path.resolve(path.dirname(url.fileURLToPath(import.meta.url)), '..'
 const DATA = path.join(ROOT, 'src', 'data');
 const PUBLIC = path.join(ROOT, 'public');
 
+// 全站配图开关（src/data/site-config.json）：false 时不强制 published 带封面
+const IMAGES_ENABLED = JSON.parse(fs.readFileSync(path.join(DATA, 'site-config.json'), 'utf8')).imagesEnabled !== false;
+
 const errors = [];
 const err = (file, msg) => errors.push(`[${file}] ${msg}`);
 
@@ -138,7 +141,7 @@ for (const { file, data: p } of poemFiles) {
         err(file, `status=published 缺少 ${key}`);
       }
     }
-    if (!p.images?.cover) err(file, 'status=published 缺少 images.cover');
+    if (IMAGES_ENABLED && !p.images?.cover) err(file, 'status=published 缺少 images.cover');
   }
 
   // 规则 7：writtenYear / orderInAuthor 为数字且同作者不重复

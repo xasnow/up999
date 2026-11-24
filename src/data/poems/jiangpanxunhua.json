@@ -1,0 +1,161 @@
+{
+  "id": "tang-shengtang-dufu-jiangpanxunhua",
+  "slug": "jiangpanxunhua",
+  "title": "江畔独步寻花（其五）",
+  "titlePinyin": "jiāng pàn dú bù xún huā",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "七言绝句",
+  "authorId": "dufu",
+  "gradeBand": "g3-4",
+  "tags": [
+    "春天",
+    "桃花",
+    "江边",
+    "七言绝句"
+  ],
+  "difficulty": 2,
+  "writtenYear": 760,
+  "writtenLabel": "公元 760 年（杜甫定居成都草堂初期）",
+  "orderInAuthor": 6,
+  "famousLines": [
+    "桃花一簇开无主，可爱深红爱浅红？"
+  ],
+  "lines": [
+    {
+      "text": "黄师塔前江水东，",
+      "pinyin": [
+        "huáng",
+        "shī",
+        "tǎ",
+        "qián",
+        "jiāng",
+        "shuǐ",
+        "dōng"
+      ],
+      "translation": "黄师塔前，江水滚滚向东流去，",
+      "noteIds": [
+        "n-shita"
+      ]
+    },
+    {
+      "text": "春光懒困倚微风，",
+      "pinyin": [
+        "chūn",
+        "guāng",
+        "lǎn",
+        "kùn",
+        "yǐ",
+        "wēi",
+        "fēng"
+      ],
+      "translation": "温暖的春光让人又懒又困，靠着微风歇一歇。",
+      "noteIds": [
+        "n-yi"
+      ]
+    },
+    {
+      "text": "桃花一簇开无主，",
+      "pinyin": [
+        "táo",
+        "huā",
+        "yí",
+        "cù",
+        "kāi",
+        "wú",
+        "zhǔ"
+      ],
+      "translation": "江边一丛桃花开得正艳，却没人欣赏、没人照料，",
+      "noteIds": [
+        "n-cu",
+        "n-wuzhu"
+      ]
+    },
+    {
+      "text": "可爱深红爱浅红？",
+      "pinyin": [
+        "kě",
+        "ài",
+        "shēn",
+        "hóng",
+        "ài",
+        "qiǎn",
+        "hóng"
+      ],
+      "translation": "是爱这深红，还是爱那浅红呢？",
+      "noteIds": []
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-shita",
+      "word": "黄师塔",
+      "pinyin": "huáng shī tǎ",
+      "meaning": "姓黄的和尚的墓塔。师是对和尚的称呼。"
+    },
+    {
+      "id": "n-yi",
+      "word": "倚",
+      "pinyin": "yǐ",
+      "meaning": "靠着。这里是说人靠着春风歇息。"
+    },
+    {
+      "id": "n-cu",
+      "word": "一簇",
+      "pinyin": "yí cù",
+      "meaning": "一团，一丛。"
+    },
+    {
+      "id": "n-wuzhu",
+      "word": "无主",
+      "pinyin": "wú zhǔ",
+      "meaning": "没有人照管，自己开放着。"
+    }
+  ],
+  "translation": "黄师塔前，江水滚滚向东流去，温暖的春光让人又懒又困，真想靠着微风歇一歇。江边一丛桃花开得正艳，没人欣赏也没人照料：是爱这深红，还是爱那浅红呢？",
+  "appreciation": "这首诗写的是找花的快乐。春风把人吹得懒洋洋的，本来是“困”，一丛桃花出现，眼睛马上亮了。最有趣的是最后一句：深红可爱，浅红也可爱，挑哪个好呢？这种看什么都喜欢的样子，正是春天给的好心情。",
+  "background": "杜甫住在成都草堂时，生活安稳，心情难得的好。春天，他独自沿着锦江边散步，一路上寻找好看的花，一口气写下七首诗，这是第五首。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "独步江边",
+      "text": "春天，杜甫一个人沿江散步，找花看。"
+    },
+    {
+      "step": 2,
+      "title": "春光困人",
+      "text": "暖暖的春风吹得人懒洋洋，只想靠着歇歇。"
+    },
+    {
+      "step": 3,
+      "title": "一簇桃花",
+      "text": "忽然，他看见一丛没人管的桃花开得正好。"
+    },
+    {
+      "step": 4,
+      "title": "深红浅红",
+      "text": "深红好看，浅红也好看，眼睛都忙不过来啦！"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "簇",
+      "reading": "cù",
+      "reason": "一簇是一丛桃花。",
+      "standard": "注意读 cù，不读 zú"
+    },
+    {
+      "char": "倚",
+      "reading": "yǐ",
+      "reason": "倚是靠着的意思。",
+      "standard": "注意读 yǐ"
+    }
+  ],
+  "sources": [
+    "《杜工部集》",
+    "《全唐诗》杜甫卷"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-24"
+}

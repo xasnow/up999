@@ -1,0 +1,148 @@
+{
+  "id": "tang-zhongtang-liuyuxi-wuyixiang",
+  "slug": "wuyixiang",
+  "title": "乌衣巷",
+  "titlePinyin": "wū yī xiàng",
+  "dynasty": "tangshi",
+  "era": "zhongtang",
+  "genre": "shi",
+  "form": "七言绝句",
+  "authorId": "liuyuxi",
+  "gradeBand": "g5-6",
+  "tags": [
+    "怀古",
+    "今昔对比",
+    "南京",
+    "七言绝句"
+  ],
+  "difficulty": 4,
+  "writtenYear": 826,
+  "writtenLabel": "公元 826 年（刘禹锡 54 岁）",
+  "orderInAuthor": 4,
+  "famousLines": [
+    "旧时王谢堂前燕，飞入寻常百姓家。"
+  ],
+  "lines": [
+    {
+      "text": "朱雀桥边野草花，",
+      "pinyin": [
+        "zhū",
+        "què",
+        "qiáo",
+        "biān",
+        "yě",
+        "cǎo",
+        "huā"
+      ],
+      "translation": "朱雀桥边长满野草，开出零星小花。",
+      "noteIds": [
+        "n-zhuque"
+      ]
+    },
+    {
+      "text": "乌衣巷口夕阳斜，",
+      "pinyin": [
+        "wū",
+        "yī",
+        "xiàng",
+        "kǒu",
+        "xī",
+        "yáng",
+        "xié"
+      ],
+      "translation": "乌衣巷口，落山的太阳斜斜地照着。",
+      "noteIds": []
+    },
+    {
+      "text": "旧时王谢堂前燕，",
+      "pinyin": [
+        "jiù",
+        "shí",
+        "wáng",
+        "xiè",
+        "táng",
+        "qián",
+        "yàn"
+      ],
+      "translation": "从前在王、谢两家高大厅堂前筑巢的燕子，",
+      "noteIds": [
+        "n-wangxie"
+      ]
+    },
+    {
+      "text": "飞入寻常百姓家。",
+      "pinyin": [
+        "fēi",
+        "rù",
+        "xún",
+        "cháng",
+        "bǎi",
+        "xìng",
+        "jiā"
+      ],
+      "translation": "如今飞进了普通老百姓的家里。",
+      "noteIds": [
+        "n-xunchang"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-zhuque",
+      "word": "朱雀桥",
+      "pinyin": "zhū què qiáo",
+      "meaning": "秦淮河上的一座大桥，就在乌衣巷附近，当年非常热闹。"
+    },
+    {
+      "id": "n-wangxie",
+      "word": "王谢",
+      "pinyin": "wáng xiè",
+      "meaning": "东晋时王家、谢家两大家族。他们住在这里，出了很多大官。"
+    },
+    {
+      "id": "n-xunchang",
+      "word": "寻常",
+      "pinyin": "xún cháng",
+      "meaning": "普通、平常，指普通老百姓。"
+    }
+  ],
+  "translation": "朱雀桥边长满野草，开出零星小花。乌衣巷口，落山的太阳斜斜地照着。从前在王、谢两家高大厅堂前筑巢的燕子，如今飞进了普通老百姓的家里。",
+  "appreciation": "这首诗在讲一个悄悄发生的大变化。野草和夕阳，把昔日最热闹的地方衬得很安静。最有味道的是那群燕子：几百年前，它们住在王、谢两家的大堂前。如今大宅不见了，燕子飞进了普通人家。燕子还是那些燕子，屋子却换了主人。不喊不叫，只看燕子搬家，就让人明白了：热闹会过去，日子一直在变。",
+  "background": "公元 826 年，刘禹锡从外地返回洛阳，路过金陵（今南京）。他和好友白居易一起游览，写下了一组怀古诗《金陵五题》，《乌衣巷》是其中第二首。乌衣巷在秦淮河边，东晋时是王、谢两大家族住的地方，曾经显赫一时。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "桥边野草花",
+      "text": "朱雀桥边长满野草，零星开着几朵小花。"
+    },
+    {
+      "step": 2,
+      "title": "巷口夕阳斜",
+      "text": "乌衣巷口，夕阳斜斜地照着，巷子安安静静。"
+    },
+    {
+      "step": 3,
+      "title": "想起旧时燕",
+      "text": "诗人想起：这里的燕子，从前住在王、谢两家的大堂前。"
+    },
+    {
+      "step": 4,
+      "title": "燕子搬新家",
+      "text": "如今大宅不见了，燕子飞进普通百姓家，忙忙碌碌地筑巢。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "斜",
+      "reading": "xié",
+      "reason": "“夕阳斜”指阳光斜着照下来。",
+      "standard": "现在统读 xié"
+    }
+  ],
+  "sources": [
+    "《刘禹锡集》",
+    "《金陵五题》组诗"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-24"
+}

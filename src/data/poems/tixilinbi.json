@@ -1,0 +1,148 @@
+{
+  "id": "song-beisong-sushi-tixilinbi",
+  "slug": "tixilinbi",
+  "title": "题西林壁",
+  "titlePinyin": "tí xī lín bì",
+  "dynasty": "songci",
+  "era": "beisong",
+  "genre": "shi",
+  "form": "七言绝句",
+  "authorId": "sushi",
+  "gradeBand": "g3-4",
+  "textbook": "部编版四年级上册",
+  "tags": [
+    "庐山",
+    "哲理",
+    "游记",
+    "七言绝句"
+  ],
+  "difficulty": 3,
+  "writtenYear": 1084,
+  "writtenLabel": "公元 1084 年（苏轼 47 岁）",
+  "orderInAuthor": 3,
+  "famousLines": [
+    "不识庐山真面目，只缘身在此山中。"
+  ],
+  "lines": [
+    {
+      "text": "横看成岭侧成峰，",
+      "pinyin": [
+        "héng",
+        "kàn",
+        "chéng",
+        "lǐng",
+        "cè",
+        "chéng",
+        "fēng"
+      ],
+      "translation": "横着看，庐山是连绵的山岭；侧着看，又变成高高的山峰。",
+      "noteIds": [
+        "n-hengkan"
+      ]
+    },
+    {
+      "text": "远近高低各不同。",
+      "pinyin": [
+        "yuǎn",
+        "jìn",
+        "gāo",
+        "dī",
+        "gè",
+        "bù",
+        "tóng"
+      ],
+      "translation": "从远处、近处、高处、低处看，样子都不一样。",
+      "noteIds": []
+    },
+    {
+      "text": "不识庐山真面目，",
+      "pinyin": [
+        "bù",
+        "shí",
+        "lú",
+        "shān",
+        "zhēn",
+        "miàn",
+        "mù"
+      ],
+      "translation": "看不清庐山真正的样子，",
+      "noteIds": []
+    },
+    {
+      "text": "只缘身在此山中。",
+      "pinyin": [
+        "zhǐ",
+        "yuán",
+        "shēn",
+        "zài",
+        "cǐ",
+        "shān",
+        "zhōng"
+      ],
+      "translation": "只因为自己就站在这座大山里面。",
+      "noteIds": [
+        "n-yuan",
+        "n-cishan"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-hengkan",
+      "word": "横看",
+      "pinyin": "héng kàn",
+      "meaning": "从正面横着看。横着看是长长的山岭，侧着看是尖尖的山峰。"
+    },
+    {
+      "id": "n-yuan",
+      "word": "缘",
+      "pinyin": "yuán",
+      "meaning": "因为。只缘，就是只是因为。"
+    },
+    {
+      "id": "n-cishan",
+      "word": "此山",
+      "pinyin": "cǐ shān",
+      "meaning": "这座山，指庐山。"
+    }
+  ],
+  "translation": "横着看，庐山是连绵的山岭；侧着看，又变成高高的山峰。从远处、近处、高处、低处看，样子都不一样。看不清庐山真正的样子，只因为自己就站在这座大山里面。",
+  "appreciation": "这首诗是苏轼在庐山里“探险”的记录。同一座山，横着看是长岭，侧着看是尖峰，换个方向就变了样。诗人走着走着，忽然明白了一个大道理：在山里走来走去，反而看不清整座山。看山是这样，看事情也是这样。钻在里面转来转去，常常理不清头绪；跳出来看，一下子就清楚了。这就是“当局者迷”的道理。",
+  "background": "公元 1084 年，苏轼去汝州上任，途中特地游览了庐山。他在山里走了十多天，从各个方向看山，越看越觉得新鲜。最后他在西林寺，把感受写在寺院的墙上，这就是《题西林壁》。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "横看侧看",
+      "text": "横着看是长长的山岭，侧着看又变成尖尖的高峰。"
+    },
+    {
+      "step": 2,
+      "title": "样样不同",
+      "text": "远看、近看、高看、低看，庐山每次都换一副模样。"
+    },
+    {
+      "step": 3,
+      "title": "越看越糊涂",
+      "text": "走了十多天，诗人发现自己还是说不清庐山全貌。"
+    },
+    {
+      "step": 4,
+      "title": "明白了道理",
+      "text": "原来自己就在山里呀！在山里转，当然看不全整座山。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "缘",
+      "reading": "yuán",
+      "reason": "“只缘”是“只是因为”的意思。",
+      "standard": "注意是第二声"
+    }
+  ],
+  "sources": [
+    "部编版语文四年级上册",
+    "《苏轼诗集》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-24"
+}

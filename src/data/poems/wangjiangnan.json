@@ -1,0 +1,174 @@
+{
+  "id": "tang-wantang-wendingyun-wangjiangnan",
+  "slug": "wangjiangnan",
+  "title": "望江南·梳洗罢",
+  "titlePinyin": "wàng jiāng nán · shū xǐ bà",
+  "dynasty": "tangshi",
+  "era": "wantang",
+  "genre": "ci",
+  "form": "词（小令）",
+  "authorId": "wendingyun",
+  "gradeBand": "g5-6",
+  "tags": [
+    "等待",
+    "江景",
+    "思念",
+    "词"
+  ],
+  "difficulty": 1,
+  "writtenYear": 850,
+  "writtenLabel": "约公元 850 年（温庭筠约 38 岁）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "过尽千帆皆不是，斜晖脉脉水悠悠。"
+  ],
+  "lines": [
+    {
+      "text": "梳洗罢，",
+      "pinyin": [
+        "shū",
+        "xǐ",
+        "bà"
+      ],
+      "translation": "姑娘早早梳好头、洗好脸，",
+      "noteIds": []
+    },
+    {
+      "text": "独倚望江楼。",
+      "pinyin": [
+        "dú",
+        "yǐ",
+        "wàng",
+        "jiāng",
+        "lóu"
+      ],
+      "translation": "一个人靠着栏杆，站在望江楼上。",
+      "noteIds": [
+        "n-du"
+      ]
+    },
+    {
+      "text": "过尽千帆皆不是，",
+      "pinyin": [
+        "guò",
+        "jìn",
+        "qiān",
+        "fān",
+        "jiē",
+        "bù",
+        "shì"
+      ],
+      "translation": "几百只船过去了，都不是她等的那一只。",
+      "noteIds": [
+        "n-qianfan"
+      ]
+    },
+    {
+      "text": "斜晖脉脉水悠悠。",
+      "pinyin": [
+        "xié",
+        "huī",
+        "mò",
+        "mò",
+        "shuǐ",
+        "yōu",
+        "yōu"
+      ],
+      "translation": "夕阳含情地照着，江水慢慢地流着。",
+      "noteIds": [
+        "n-mo"
+      ]
+    },
+    {
+      "text": "肠断白蘋洲。",
+      "pinyin": [
+        "cháng",
+        "duàn",
+        "bái",
+        "pín",
+        "zhōu"
+      ],
+      "translation": "开满白蘋的小洲，让人伤心得说不出话来。",
+      "noteIds": [
+        "n-pin"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-du",
+      "word": "倚",
+      "pinyin": "yǐ",
+      "meaning": "靠着。独倚望江楼，是一个人倚着楼上的栏杆。"
+    },
+    {
+      "id": "n-qianfan",
+      "word": "千帆",
+      "pinyin": "qiān fān",
+      "meaning": "很多只船。帆是船上的白布，借指船。"
+    },
+    {
+      "id": "n-mo",
+      "word": "脉脉",
+      "pinyin": "mò mò",
+      "meaning": "默默地看着，含着感情，好像夕阳也在陪着姑娘等待。"
+    },
+    {
+      "id": "n-pin",
+      "word": "白蘋洲",
+      "pinyin": "bái pín zhōu",
+      "meaning": "开满白色蘋花的小洲。蘋是一种长在水里的草。"
+    }
+  ],
+  "translation": "姑娘早早梳好头、洗好脸，一个人靠着栏杆，站在望江楼上。几百只船过去了，都不是她等的那一只。夕阳含情地照着，江水慢慢地流着。开满白蘋的小洲，让人伤心得说不出话来。",
+  "appreciation": "这首词只有二十七个字，却像一部小小的电影。开头姑娘梳洗得干干净净，心里装满盼望。中间一千只船过去，又有一千次失望。“过尽”和“皆不是”六个字，把一天的等待都装下了。最后夕阳慢慢落，江水慢慢流，只有她还在等。没有喊，没有哭，读着读着，心却酸酸的。",
+  "background": "大约公元 850 年，温庭筠写下一组《望江南》词。江边楼上，常有女子盼望出门的人早日回家。温庭筠把这样一天的等待写了下来，短短几句，成了一直流传的名篇。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "早早梳妆",
+      "text": "天一亮，姑娘就梳好头、洗好脸，打扮得整整齐齐。"
+    },
+    {
+      "step": 2,
+      "title": "上楼张望",
+      "text": "她一个人靠着栏杆，在望江楼上盯着江面。"
+    },
+    {
+      "step": 3,
+      "title": "船船落空",
+      "text": "几百只船过去了，一只也不是她等的那只。"
+    },
+    {
+      "step": 4,
+      "title": "夕阳还在等",
+      "text": "太阳斜斜地落下去，江水慢慢地流，她还在那里伤心。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "倚",
+      "reading": "yǐ",
+      "reason": "“倚”是靠着的意思。",
+      "standard": "注意是第三声"
+    },
+    {
+      "char": "脉",
+      "reading": "mò",
+      "reason": "“脉脉”指含情不语的样子，读 mò。",
+      "standard": "脉搏的脉才读 mài"
+    },
+    {
+      "char": "蘋",
+      "reading": "pín",
+      "reason": "“白蘋”是一种水草。",
+      "standard": "注意读 pín，不读 píng"
+    }
+  ],
+  "sources": [
+    "《花间集》",
+    "《温庭筠全集校注》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-24"
+}

@@ -1,0 +1,99 @@
+{
+  "id": "tang-zhongtang-jiadao-xunyinzhebuyu",
+  "slug": "xunyinzhebuyu",
+  "title": "寻隐者不遇",
+  "titlePinyin": "xún yǐn zhě bù yù",
+  "dynasty": "tangshi",
+  "era": "zhongtang",
+  "genre": "shi",
+  "form": "五言绝句",
+  "authorId": "jiadao",
+  "gradeBand": "g1-2",
+  "textbook": "课外经典诵读篇目",
+  "tags": ["问答", "隐士", "山景", "五言绝句"],
+  "difficulty": 1,
+  "writtenYear": 780,
+  "writtenLabel": "约公元 780 年（贾岛游访山中隐者，未遇而作）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "只在此山中，云深不知处。"
+  ],
+  "lines": [
+    {
+      "text": "松下问童子，",
+      "pinyin": ["sōng", "xià", "wèn", "tóng", "zǐ"],
+      "translation": "松树下，我问隐者的小徒弟，",
+      "noteIds": ["n-tongzi"]
+    },
+    {
+      "text": "言师采药去。",
+      "pinyin": ["yán", "shī", "cǎi", "yào", "qù"],
+      "translation": "他说：师父采药去了。",
+      "noteIds": ["n-yan"]
+    },
+    {
+      "text": "只在此山中，",
+      "pinyin": ["zhǐ", "zài", "cǐ", "shān", "zhōng"],
+      "translation": "师父就在这座大山里，",
+      "noteIds": []
+    },
+    {
+      "text": "云深不知处。",
+      "pinyin": ["yún", "shēn", "bù", "zhī", "chù"],
+      "translation": "可山上云雾深深，不知道到底在哪儿。",
+      "noteIds": ["n-chu"]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-tongzi",
+      "word": "童子",
+      "pinyin": "tóng zǐ",
+      "meaning": "小孩。这里是隐者的小徒弟。"
+    },
+    {
+      "id": "n-yan",
+      "word": "言",
+      "pinyin": "yán",
+      "meaning": "说，回答。"
+    },
+    {
+      "id": "n-chu",
+      "word": "处",
+      "pinyin": "chù",
+      "meaning": "地方，所在。不知处，就是不知道在哪儿。"
+    }
+  ],
+  "translation": "松树下，我问隐者的小徒弟：师父去哪儿了？小徒弟说：师父采药去了。他就在这座大山里，可山上云雾深深，不知道到底在哪儿。",
+  "appreciation": "这首诗像一段小对话。问的人是诗人，答的人是童子。一问一答里，藏着三次变化：人不在，去采药；就在山里，又找不到。白云深处有人家，多像神仙住的地方！没见到隐者，反而让人更想见了。短短二十个字，讲了一个完整的寻人故事。",
+  "background": "贾岛年轻时当过和尚，最喜欢寻访山里的隐士。这一次，他专门进山拜访一位隐者，结果没有遇到。他把这次经历写成一首问答小诗，就是《寻隐者不遇》。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "松树下找人",
+      "text": "贾岛走进深山，在松树下见到了隐者的小徒弟。"
+    },
+    {
+      "step": 2,
+      "title": "师父采药去了",
+      "text": "他问：你师父呢？童子说：师父采药去了。"
+    },
+    {
+      "step": 3,
+      "title": "就在这座山里",
+      "text": "童子说：师父没走远，就在这座大山里。"
+    },
+    {
+      "step": 4,
+      "title": "云太深了",
+      "text": "可是山里云雾一层又一层，谁也说不清师父到底在哪里。"
+    }
+  ],
+  "pinyinNotes": [],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗鉴赏辞典》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-24"
+}

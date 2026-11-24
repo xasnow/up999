@@ -1,0 +1,151 @@
+{
+  "id": "tang-shengtang-libai-qiupuge",
+  "slug": "qiupuge",
+  "title": "秋浦歌（其十五）",
+  "titlePinyin": "qiū pǔ gē",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "五言绝句",
+  "authorId": "libai",
+  "gradeBand": "g3-4",
+  "tags": [
+    "白发",
+    "忧愁",
+    "夸张",
+    "五言绝句"
+  ],
+  "difficulty": 2,
+  "writtenYear": 746,
+  "writtenLabel": "约公元 746 年（李白漫游秋浦时期）",
+  "orderInAuthor": 9,
+  "famousLines": [
+    "白发三千丈，缘愁似个长。"
+  ],
+  "lines": [
+    {
+      "text": "白发三千丈，",
+      "pinyin": [
+        "bái",
+        "fà",
+        "sān",
+        "qiān",
+        "zhàng"
+      ],
+      "translation": "白发长达三千丈，",
+      "noteIds": []
+    },
+    {
+      "text": "缘愁似个长。",
+      "pinyin": [
+        "yuán",
+        "chóu",
+        "sì",
+        "gè",
+        "cháng"
+      ],
+      "translation": "原来是因为心里的愁绪有这么长。",
+      "noteIds": [
+        "n-yuan",
+        "n-sige"
+      ]
+    },
+    {
+      "text": "不知明镜里，",
+      "pinyin": [
+        "bù",
+        "zhī",
+        "míng",
+        "jìng",
+        "lǐ"
+      ],
+      "translation": "我不知道明亮的镜子里，",
+      "noteIds": []
+    },
+    {
+      "text": "何处得秋霜。",
+      "pinyin": [
+        "hé",
+        "chù",
+        "dé",
+        "qiū",
+        "shuāng"
+      ],
+      "translation": "那秋霜一样的白发是从哪儿来的。",
+      "noteIds": [
+        "n-qiushuang"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-yuan",
+      "word": "缘",
+      "pinyin": "yuán",
+      "meaning": "因为。缘愁就是因为发愁。"
+    },
+    {
+      "id": "n-sige",
+      "word": "似个",
+      "pinyin": "sì gè",
+      "meaning": "个是“这样”。似个长就是像这样长。"
+    },
+    {
+      "id": "n-qiushuang",
+      "word": "秋霜",
+      "pinyin": "qiū shuāng",
+      "meaning": "秋天的霜，这里比喻白发。"
+    }
+  ],
+  "translation": "白发长达三千丈，原来是因为心里的愁绪有这么长。我不知道明亮的镜子里，那秋霜一样的白发是从哪儿来的。",
+  "appreciation": "“白发三千丈”，是李白出了名的夸张。头发哪能有三千丈？可这五个字一出来，心里的大愁事就有了形状。原来每一根白发，都是愁事熬出来的。夸张不是吹牛，而是把心里的难过放大给大家看，这就是李白写诗的魔法。",
+  "background": "李白漫游到秋浦，就是今天安徽的贵池。他在那里写了一组诗，一共十七首，这是第十五首。看着水中的倒影，他写下了这首关于白发的诗。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "照见白发",
+      "text": "李白在秋浦游玩，一天对着镜子照了照。"
+    },
+    {
+      "step": 2,
+      "title": "白发好长",
+      "text": "他吓了一跳：白发好像有三千丈那么长！"
+    },
+    {
+      "step": 3,
+      "title": "愁生白发",
+      "text": "他想：一定是心里的愁事，把头发熬长熬白了。"
+    },
+    {
+      "step": 4,
+      "title": "镜里秋霜",
+      "text": "镜子里那秋霜一样的白发，就是他的忧愁呀。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "缘",
+      "reading": "yuán",
+      "reason": "缘愁是因为发愁。",
+      "standard": "注意读 yuán"
+    },
+    {
+      "char": "发",
+      "reading": "fà",
+      "reason": "白发是白头发，发读第四声。",
+      "standard": "“出发”的发读 fā"
+    },
+    {
+      "char": "霜",
+      "reading": "shuāng",
+      "reason": "秋霜比喻白发，霜读 shuāng。",
+      "standard": "注意读 shuāng"
+    }
+  ],
+  "sources": [
+    "《李太白全集》",
+    "《全唐诗》李白卷"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-24"
+}

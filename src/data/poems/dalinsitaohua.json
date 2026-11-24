@@ -1,0 +1,154 @@
+{
+  "id": "tang-zhongtang-baijuyi-dalinsitaohua",
+  "slug": "dalinsitaohua",
+  "title": "大林寺桃花",
+  "titlePinyin": "dà lín sì táo huā",
+  "dynasty": "tangshi",
+  "era": "zhongtang",
+  "genre": "shi",
+  "form": "七言绝句",
+  "authorId": "baijuyi",
+  "gradeBand": "g3-4",
+  "tags": [
+    "春天",
+    "桃花",
+    "山寺",
+    "七言绝句"
+  ],
+  "difficulty": 2,
+  "writtenYear": 817,
+  "writtenLabel": "公元 817 年（白居易游庐山大林寺）",
+  "orderInAuthor": 3,
+  "famousLines": [
+    "长恨春归无觅处，不知转入此中来。"
+  ],
+  "lines": [
+    {
+      "text": "人间四月芳菲尽，",
+      "pinyin": [
+        "rén",
+        "jiān",
+        "sì",
+        "yuè",
+        "fāng",
+        "fēi",
+        "jìn"
+      ],
+      "translation": "四月里，山下的春花已经开谢了，",
+      "noteIds": [
+        "n-fangfei"
+      ]
+    },
+    {
+      "text": "山寺桃花始盛开。",
+      "pinyin": [
+        "shān",
+        "sì",
+        "táo",
+        "huā",
+        "shǐ",
+        "shèng",
+        "kāi"
+      ],
+      "translation": "高山古寺里的桃花才刚刚盛开。",
+      "noteIds": [
+        "n-shi"
+      ]
+    },
+    {
+      "text": "长恨春归无觅处，",
+      "pinyin": [
+        "cháng",
+        "hèn",
+        "chūn",
+        "guī",
+        "wú",
+        "mì",
+        "chù"
+      ],
+      "translation": "我常常遗憾春天走了没处寻找，",
+      "noteIds": [
+        "n-changhen"
+      ]
+    },
+    {
+      "text": "不知转入此中来。",
+      "pinyin": [
+        "bù",
+        "zhī",
+        "zhuǎn",
+        "rù",
+        "cǐ",
+        "zhōng",
+        "lái"
+      ],
+      "translation": "却不知道它已经转到这座山里来了。",
+      "noteIds": []
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-fangfei",
+      "word": "芳菲",
+      "pinyin": "fāng fēi",
+      "meaning": "花草的香气，这里指春天开的花。"
+    },
+    {
+      "id": "n-shi",
+      "word": "始",
+      "pinyin": "shǐ",
+      "meaning": "才，刚刚。"
+    },
+    {
+      "id": "n-changhen",
+      "word": "长恨",
+      "pinyin": "cháng hèn",
+      "meaning": "常常遗憾。长在这里读 cháng。"
+    }
+  ],
+  "translation": "四月里，山下的春花已经开谢了，高山古寺里的桃花才刚刚盛开。我常常遗憾春天走了没处寻找，却不知道它已经转到这座山里来了。",
+  "appreciation": "山下花谢了，山上的桃花才刚开，这个发现太惊喜了。诗人先“长恨”春天找不着，再“不知”春天原来在这儿，一急一喜，像捉迷藏一样有趣。原来春天没有走远，只是换了个地方，这个想法又浪漫又聪明，大人小孩都会喜欢。",
+  "background": "公元 817 年四月，白居易和朋友游庐山。山下的花都谢了，他们爬到大林寺，却看见桃花开得正旺。他惊喜地发现春天原来躲在山里，就写下了这首诗。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "春天走了",
+      "text": "四月里，山下的春花开完了，春天不见了。"
+    },
+    {
+      "step": 2,
+      "title": "走进山寺",
+      "text": "白居易爬上高山，走进大林寺歇脚。"
+    },
+    {
+      "step": 3,
+      "title": "桃花盛开",
+      "text": "寺里的桃花刚刚开放，红得像一片朝霞。"
+    },
+    {
+      "step": 4,
+      "title": "春天在这儿",
+      "text": "他高兴地说：原来春天没走，躲到山里来啦！"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "菲",
+      "reading": "fēi",
+      "reason": "芳菲指春天的花草香气。",
+      "standard": "“菲薄”的菲读 fěi"
+    },
+    {
+      "char": "长",
+      "reading": "cháng",
+      "reason": "长恨是常常遗憾的意思。",
+      "standard": "“长大”的长读 zhǎng"
+    }
+  ],
+  "sources": [
+    "《白氏长庆集》",
+    "《全唐诗》白居易卷"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-24"
+}

@@ -1,0 +1,99 @@
+{
+  "id": "tang-chutang-liqiao-feng",
+  "slug": "feng",
+  "title": "风",
+  "titlePinyin": "fēng",
+  "dynasty": "tangshi",
+  "era": "chutang",
+  "genre": "shi",
+  "form": "五言绝句",
+  "authorId": "liqiao",
+  "gradeBand": "g1-2",
+  "textbook": "课外经典诵读篇目",
+  "tags": ["咏物", "风", "谜语诗", "五言绝句"],
+  "difficulty": 1,
+  "writtenYear": 680,
+  "writtenLabel": "约公元 680 年（李峤早年咏物之作）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "过江千尺浪，入竹万竿斜。"
+  ],
+  "lines": [
+    {
+      "text": "解落三秋叶，",
+      "pinyin": ["jiě", "luò", "sān", "qiū", "yè"],
+      "translation": "它吹落了深秋的树叶，",
+      "noteIds": ["n-jie"]
+    },
+    {
+      "text": "能开二月花。",
+      "pinyin": ["néng", "kāi", "èr", "yuè", "huā"],
+      "translation": "也能吹开早春二月的鲜花。",
+      "noteIds": []
+    },
+    {
+      "text": "过江千尺浪，",
+      "pinyin": ["guò", "jiāng", "qiān", "chǐ", "làng"],
+      "translation": "它吹过江面，掀起千尺巨浪，",
+      "noteIds": []
+    },
+    {
+      "text": "入竹万竿斜。",
+      "pinyin": ["rù", "zhú", "wàn", "gān", "xié"],
+      "translation": "吹进竹林，把万根竹子吹得歪向一边。",
+      "noteIds": ["n-gan", "n-xie"]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-jie",
+      "word": "解",
+      "pinyin": "jiě",
+      "meaning": "这里指吹开、使东西落下。"
+    },
+    {
+      "id": "n-gan",
+      "word": "竿",
+      "pinyin": "gān",
+      "meaning": "竹子的量词，一根竹子叫一竿。"
+    },
+    {
+      "id": "n-xie",
+      "word": "斜",
+      "pinyin": "xié",
+      "meaning": "歪，倒。风吹得竹子都歪向了一边。"
+    }
+  ],
+  "translation": "风能吹落深秋的树叶，也能吹开早春二月的鲜花。它吹过江面，掀起千尺巨浪；吹进竹林，把万根竹子吹得歪向一边。",
+  "appreciation": "全诗没有一个“风”字，却句句都在写风。四个本领，全是风的：吹落秋叶，吹开春花，掀大浪，歪竹林。前两句温柔，后两句厉害。读着读着，就像看见一位看不见的大力士。这首诗还像一道谜语，谜底要你自己猜出来。",
+  "background": "李峤爱写咏物诗，风、云、月这些事物都能入诗。这首《风》大约写于公元 680 年前后。全诗二十个字，一个“风”字都没有，却把风写得活灵活现。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "秋天，叶落了",
+      "text": "一阵风吹过，树上的秋叶纷纷落下来。是谁干的？"
+    },
+    {
+      "step": 2,
+      "title": "春天，花开了",
+      "text": "又是这阵风，轻轻一吹，二月的花全开了。"
+    },
+    {
+      "step": 3,
+      "title": "江上起大浪",
+      "text": "风跑过江面，江水一下子掀起千尺高的大浪。"
+    },
+    {
+      "step": 4,
+      "title": "竹林全弯腰",
+      "text": "风钻进竹林，万根竹子一起歪向一边。谜底就是风。"
+    }
+  ],
+  "pinyinNotes": [],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗鉴赏辞典》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-24"
+}

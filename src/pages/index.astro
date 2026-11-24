@@ -1,6 +1,6 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
-import { getDynasty, gradeLabel, poems, todayPoem, poemPath, getAuthor } from '../lib/content';
+import { getDynasty, getCover, gradeLabel, poems, todayPoem, poemPath, getAuthor } from '../lib/content';
 
 const today = todayPoem();
 const todayAuthor = getAuthor(today.authorId);
@@ -26,7 +26,7 @@ const GRADES = ['g1-2', 'g3-4', 'g5-6'];
       </div>
       <a class="today-card" href={poemPath(today)}>
         <div class="today-cover" aria-hidden="true">
-          {today.images?.cover ? <img src={today.images.cover.src} width={today.images.cover.width} height={today.images.cover.height} alt={today.images.cover.alt} /> : today.title}
+          {getCover(today) ? <img src={today.images.cover.src} width={today.images.cover.width} height={today.images.cover.height} alt={today.images.cover.alt} /> : today.title}
         </div>
         <div class="today-body">
           <h3>{today.title}</h3>

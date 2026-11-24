@@ -1,0 +1,145 @@
+{
+  "id": "tang-shengtang-wangwei-zashi",
+  "slug": "zashi",
+  "title": "杂诗（其二）",
+  "titlePinyin": "zá shī",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "五言绝句",
+  "authorId": "wangwei",
+  "gradeBand": "g3-4",
+  "tags": [
+    "思乡",
+    "梅花",
+    "问候",
+    "五言绝句"
+  ],
+  "difficulty": 2,
+  "writtenYear": 750,
+  "writtenLabel": "约公元 750 年（王维隐居辋川时期）",
+  "orderInAuthor": 8,
+  "famousLines": [
+    "来日绮窗前，寒梅著花未。"
+  ],
+  "lines": [
+    {
+      "text": "君自故乡来，",
+      "pinyin": [
+        "jūn",
+        "zì",
+        "gù",
+        "xiāng",
+        "lái"
+      ],
+      "translation": "你刚从家乡来，",
+      "noteIds": []
+    },
+    {
+      "text": "应知故乡事。",
+      "pinyin": [
+        "yīng",
+        "zhī",
+        "gù",
+        "xiāng",
+        "shì"
+      ],
+      "translation": "一定知道家乡的事情吧。",
+      "noteIds": []
+    },
+    {
+      "text": "来日绮窗前，",
+      "pinyin": [
+        "lái",
+        "rì",
+        "qǐ",
+        "chuāng",
+        "qián"
+      ],
+      "translation": "请问，你动身那天，雕花的窗子前，",
+      "noteIds": [
+        "n-lairi",
+        "n-qi"
+      ]
+    },
+    {
+      "text": "寒梅著花未。",
+      "pinyin": [
+        "hán",
+        "méi",
+        "zhuó",
+        "huā",
+        "wèi"
+      ],
+      "translation": "那株梅花开了没有？",
+      "noteIds": [
+        "n-zhuo"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-lairi",
+      "word": "来日",
+      "pinyin": "lái rì",
+      "meaning": "出发的那一天，动身的时候。"
+    },
+    {
+      "id": "n-qi",
+      "word": "绮窗",
+      "pinyin": "qǐ chuāng",
+      "meaning": "雕着好看花纹的窗子。绮是有花纹的丝织品。"
+    },
+    {
+      "id": "n-zhuo",
+      "word": "著花",
+      "pinyin": "zhuó huā",
+      "meaning": "开花。著在这里是“开”的意思。"
+    }
+  ],
+  "translation": "你刚从家乡来，一定知道家乡的事情吧。请问，你动身那天，我家的雕花窗前，那株梅花开了没有？",
+  "appreciation": "这首诗只有二十个字，却像一次真正的对话。朋友从家乡来，要问的事有千件万件，诗人偏偏只问窗前的梅花开花了没有。问得越少，想得越多，一个小问题，装满了大大的乡愁。小朋友读完，也会想起自己惦记的那件事。",
+  "background": "王维离开家乡很多年。有一天，一位朋友刚好从他的家乡来，他一开口就问起了家乡的事。千头万绪，他最后只问了一句窗前的梅花，这首诗就这样记下了他的想念。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "故人来啦",
+      "text": "有个朋友刚从王维的家乡来，他赶紧迎上去。"
+    },
+    {
+      "step": 2,
+      "title": "追问家乡",
+      "text": "他急急地问：你一定知道家乡的事情吧？"
+    },
+    {
+      "step": 3,
+      "title": "想起绮窗",
+      "text": "他想起离家那天，雕花窗前的梅花还在眼前。"
+    },
+    {
+      "step": 4,
+      "title": "一句问候",
+      "text": "他只问了一句：梅花开了没有？想念全在里面。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "绮",
+      "reading": "qǐ",
+      "reason": "绮窗是有花纹的漂亮窗子。",
+      "standard": "注意读 qǐ"
+    },
+    {
+      "char": "著",
+      "reading": "zhuó",
+      "reason": "著花是开花，著在这里是“开”的意思。",
+      "standard": "平常“著名”的著读 zhù"
+    }
+  ],
+  "sources": [
+    "《王右丞集笺注》",
+    "《全唐诗》王维卷"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-24"
+}

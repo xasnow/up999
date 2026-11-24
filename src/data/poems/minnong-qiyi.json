@@ -1,0 +1,154 @@
+{
+  "id": "tang-zhongtang-lishen-minnong-qiyi",
+  "slug": "minnong-qiyi",
+  "title": "悯农（其一）",
+  "titlePinyin": "mǐn nóng",
+  "dynasty": "tangshi",
+  "era": "zhongtang",
+  "genre": "shi",
+  "form": "五言古诗",
+  "authorId": "lishen",
+  "gradeBand": "g1-2",
+  "tags": [
+    "农民",
+    "丰收",
+    "同情",
+    "五言古诗"
+  ],
+  "difficulty": 1,
+  "writtenYear": 798,
+  "writtenLabel": "约公元 798 年（李绅青年时期）",
+  "orderInAuthor": 2,
+  "famousLines": [
+    "四海无闲田，农夫犹饿死。"
+  ],
+  "lines": [
+    {
+      "text": "春种一粒粟，",
+      "pinyin": [
+        "chūn",
+        "zhòng",
+        "yí",
+        "lì",
+        "sù"
+      ],
+      "translation": "春天种下一粒粒粟谷，",
+      "noteIds": [
+        "n-su"
+      ]
+    },
+    {
+      "text": "秋收万颗子。",
+      "pinyin": [
+        "qiū",
+        "shōu",
+        "wàn",
+        "kē",
+        "zǐ"
+      ],
+      "translation": "秋天就能收下万颗粮食。",
+      "noteIds": [
+        "n-zi"
+      ]
+    },
+    {
+      "text": "四海无闲田，",
+      "pinyin": [
+        "sì",
+        "hǎi",
+        "wú",
+        "xián",
+        "tián"
+      ],
+      "translation": "四海之内没有一块荒废的田地，",
+      "noteIds": [
+        "n-xiantian"
+      ]
+    },
+    {
+      "text": "农夫犹饿死。",
+      "pinyin": [
+        "nóng",
+        "fū",
+        "yóu",
+        "è",
+        "sǐ"
+      ],
+      "translation": "可还是有农夫被饿死。",
+      "noteIds": [
+        "n-you"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-su",
+      "word": "粟",
+      "pinyin": "sù",
+      "meaning": "小米，北方的一种粮食作物。"
+    },
+    {
+      "id": "n-zi",
+      "word": "子",
+      "pinyin": "zǐ",
+      "meaning": "这里指粮食的颗粒。"
+    },
+    {
+      "id": "n-xiantian",
+      "word": "闲田",
+      "pinyin": "xián tián",
+      "meaning": "荒废了、没人种的田。"
+    },
+    {
+      "id": "n-you",
+      "word": "犹",
+      "pinyin": "yóu",
+      "meaning": "还，仍然。"
+    }
+  ],
+  "translation": "春天种下一粒粒粟谷，秋天就能收下万颗粮食。四海之内没有一块荒废的田地，可还是有农夫被饿死。",
+  "appreciation": "种一粒粟，收万颗子，田里明明是大丰收。可是前两句写得越热闹，后两句就越让人难过：天下没有荒田，农民却会饿死。这首诗像一道问答题，丰收的粮食去哪儿了？诗人没有直接回答，却让人越想越心疼。",
+  "background": "李绅年轻时看到农民种田很辛苦，粮食来得不容易。他写下两首《悯农》诗，这是第一首，说的是粮食丰收了，农民却还是吃不饱，让人读了心里难受。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "春天播种",
+      "text": "春天，农民往田里播下一粒粒小小的种子。"
+    },
+    {
+      "step": 2,
+      "title": "秋天丰收",
+      "text": "到了秋天，田里收下了万颗粮食，堆得满满的。"
+    },
+    {
+      "step": 3,
+      "title": "田田都在种",
+      "text": "普天之下，几乎没有一块田是荒着的。"
+    },
+    {
+      "step": 4,
+      "title": "农夫饿死",
+      "text": "可还是有农夫吃不饱，甚至饿死，多让人心疼啊！"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "粟",
+      "reading": "sù",
+      "reason": "粟是小米，一种粮食。",
+      "standard": "注意读 sù"
+    },
+    {
+      "char": "犹",
+      "reading": "yóu",
+      "reason": "犹是还、仍然的意思。",
+      "standard": "注意读 yóu"
+    }
+  ],
+  "sources": [
+    "《全唐诗》李绅卷",
+    "《云溪友议》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-24"
+}

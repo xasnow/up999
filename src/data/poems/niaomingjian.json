@@ -1,0 +1,99 @@
+{
+  "id": "tang-shengtang-wangwei-niaomingjian",
+  "slug": "niaomingjian",
+  "title": "鸟鸣涧",
+  "titlePinyin": "niǎo míng jiàn",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "五言绝句",
+  "authorId": "wangwei",
+  "gradeBand": "g3-4",
+  "textbook": "课外经典诵读篇目",
+  "tags": ["春夜", "月夜", "安静", "五言绝句"],
+  "difficulty": 2,
+  "writtenYear": 750,
+  "writtenLabel": "约公元 750 年（王维客居友人山庄时所作）",
+  "orderInAuthor": 5,
+  "famousLines": [
+    "月出惊山鸟，时鸣春涧中。"
+  ],
+  "lines": [
+    {
+      "text": "人闲桂花落，",
+      "pinyin": ["rén", "xián", "guì", "huā", "luò"],
+      "translation": "人心安静悠闲，连桂花轻轻落下都听得见，",
+      "noteIds": ["n-xian"]
+    },
+    {
+      "text": "夜静春山空。",
+      "pinyin": ["yè", "jìng", "chūn", "shān", "kōng"],
+      "translation": "夜深了，春天的山里一片安静。",
+      "noteIds": []
+    },
+    {
+      "text": "月出惊山鸟，",
+      "pinyin": ["yuè", "chū", "jīng", "shān", "niǎo"],
+      "translation": "月亮升起来，惊动了山里的小鸟，",
+      "noteIds": ["n-jing"]
+    },
+    {
+      "text": "时鸣春涧中。",
+      "pinyin": ["shí", "míng", "chūn", "jiàn", "zhōng"],
+      "translation": "它们时不时在小溪边叫上几声。",
+      "noteIds": ["n-jian"]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-xian",
+      "word": "闲",
+      "pinyin": "xián",
+      "meaning": "安静、悠闲。人闲，指心里没有烦心事。"
+    },
+    {
+      "id": "n-jing",
+      "word": "惊",
+      "pinyin": "jīng",
+      "meaning": "惊动，吓到。"
+    },
+    {
+      "id": "n-jian",
+      "word": "涧",
+      "pinyin": "jiàn",
+      "meaning": "山间的小水沟，两山之间的流水。"
+    }
+  ],
+  "translation": "人心安静悠闲，连桂花轻轻落下都听得见。夜深了，春天的山里一片安静。月亮升起来，惊动了山里的小鸟，它们时不时在小溪边叫上几声。",
+  "appreciation": "这首诗写的全是“静”。桂花落下，多轻呀，只有心静的人才听得见。月亮出来，光并不响，小鸟却被惊醒了。夜越静，鸟叫声越清楚。诗人像悄悄站在夜里，把春天的夜晚轻轻记了下来。读这首诗，连声音都是安静的。",
+  "background": "王维常去朋友皇甫岳的山庄做客。山庄在云溪边，春天的夜晚特别安静。大约公元 750 年，他在那里写下一组小诗，《鸟鸣涧》是其中最有名的一首。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "桂花轻轻落",
+      "text": "春天的夜晚，王维坐在山庄里，心无杂念，连桂花飘落都听见了。"
+    },
+    {
+      "step": 2,
+      "title": "春山空空的",
+      "text": "夜深了，山里静悄悄的，好像什么都没有。"
+    },
+    {
+      "step": 3,
+      "title": "月亮升起来",
+      "text": "月亮爬上山头，清亮的光洒进树林。"
+    },
+    {
+      "step": 4,
+      "title": "小鸟叫起来",
+      "text": "光一亮，小鸟被惊醒了，在小溪边时不时叫上几声。"
+    }
+  ],
+  "pinyinNotes": [],
+  "sources": [
+    "《全唐诗》",
+    "《王右丞集笺注》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-24"
+}

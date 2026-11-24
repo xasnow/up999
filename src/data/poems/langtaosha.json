@@ -1,0 +1,162 @@
+{
+  "id": "tang-zhongtang-liuyuxi-langtaosha",
+  "slug": "langtaosha",
+  "title": "浪淘沙（其一）",
+  "titlePinyin": "làng táo shā",
+  "dynasty": "tangshi",
+  "era": "zhongtang",
+  "genre": "shi",
+  "form": "七言绝句",
+  "authorId": "liuyuxi",
+  "gradeBand": "g3-4",
+  "textbook": "部编版四年级下册",
+  "tags": [
+    "黄河",
+    "想象",
+    "神话",
+    "七言绝句"
+  ],
+  "difficulty": 3,
+  "writtenYear": 822,
+  "writtenLabel": "公元 822 年（刘禹锡 50 岁）",
+  "orderInAuthor": 3,
+  "famousLines": [
+    "九曲黄河万里沙，浪淘风簸自天涯。"
+  ],
+  "lines": [
+    {
+      "text": "九曲黄河万里沙，",
+      "pinyin": [
+        "jiǔ",
+        "qū",
+        "huáng",
+        "hé",
+        "wàn",
+        "lǐ",
+        "shā"
+      ],
+      "translation": "弯弯曲曲的黄河，卷着万里黄沙奔涌而来。",
+      "noteIds": [
+        "n-jiuqu"
+      ]
+    },
+    {
+      "text": "浪淘风簸自天涯。",
+      "pinyin": [
+        "làng",
+        "táo",
+        "fēng",
+        "bǒ",
+        "zì",
+        "tiān",
+        "yá"
+      ],
+      "translation": "波浪翻滚，大风颠簸，泥沙好像从天边冲来。",
+      "noteIds": [
+        "n-bo",
+        "n-tianya"
+      ]
+    },
+    {
+      "text": "如今直上银河去，",
+      "pinyin": [
+        "rú",
+        "jīn",
+        "zhí",
+        "shàng",
+        "yín",
+        "hé",
+        "qù"
+      ],
+      "translation": "现在我要顺着黄河，一直走到天上的银河去。",
+      "noteIds": []
+    },
+    {
+      "text": "同到牵牛织女家。",
+      "pinyin": [
+        "tóng",
+        "dào",
+        "qiān",
+        "niú",
+        "zhī",
+        "nǚ",
+        "jiā"
+      ],
+      "translation": "再去牵牛星和织女星的家里做客。",
+      "noteIds": [
+        "n-qianniu"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-jiuqu",
+      "word": "九曲",
+      "pinyin": "jiǔ qū",
+      "meaning": "弯弯曲曲，形容黄河的河道弯道特别多。"
+    },
+    {
+      "id": "n-bo",
+      "word": "簸",
+      "pinyin": "bǒ",
+      "meaning": "颠簸、摇动，这里指大风把泥沙掀得上下翻飞。"
+    },
+    {
+      "id": "n-tianya",
+      "word": "天涯",
+      "pinyin": "tiān yá",
+      "meaning": "天边，形容非常遥远的地方。"
+    },
+    {
+      "id": "n-qianniu",
+      "word": "牵牛织女",
+      "pinyin": "qiān niú zhī nǚ",
+      "meaning": "银河两边的两颗星。传说里是牛郎和织女，一年只在七夕相会一次。"
+    }
+  ],
+  "translation": "弯弯曲曲的黄河，卷着万里黄沙奔涌而来。波浪翻滚，大风颠簸，泥沙好像从天边冲来。现在我要顺着黄河，一直走到天上的银河去，再去牵牛星和织女星的家里做客。",
+  "appreciation": "黄河像一条发脾气的大龙，卷着沙子冲下来。可诗人一点都不怕，反而想说：我要顺着它一直走到银河去！天上的银河和地上的黄河连在了一起，想象一下子飞出了万里。去哪儿做客呢？去牵牛星和织女星的家。读这首诗，就像坐上了一艘冲天的大船，又刺激又开心。",
+  "background": "公元 822 年，刘禹锡在夔州做官。他从民歌里学到新的写法，写成一组《浪淘沙》。古人传说黄河的源头连着天上的银河，有人顺着河水到了银河边。刘禹锡把这个传说写进诗里，让黄河一直流到了天上。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "黄河冲过来",
+      "text": "弯弯曲曲的黄河卷着万里黄沙，滚滚地冲下来。"
+    },
+    {
+      "step": 2,
+      "title": "风浪一片哗啦",
+      "text": "大浪翻滚，大风把泥沙掀得上下乱飞，像从天边来的。"
+    },
+    {
+      "step": 3,
+      "title": "我要上天啦",
+      "text": "诗人说：我要顺着黄河，一直走到天上的银河去。"
+    },
+    {
+      "step": 4,
+      "title": "去星星家做客",
+      "text": "他敲响牛郎织女家的门，要在星星家里坐一坐。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "曲",
+      "reading": "qū",
+      "reason": "“九曲”指河道弯曲，读第一声。",
+      "standard": "歌曲的曲才读 qǔ"
+    },
+    {
+      "char": "簸",
+      "reading": "bǒ",
+      "reason": "“簸”是颠簸、摇动的意思。",
+      "standard": "注意是第三声，不读 bò"
+    }
+  ],
+  "sources": [
+    "部编版语文四年级下册",
+    "《刘禹锡集》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-24"
+}

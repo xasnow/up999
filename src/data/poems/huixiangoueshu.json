@@ -1,0 +1,99 @@
+{
+  "id": "tang-shengtang-hezhizhang-huixiangoueshu",
+  "slug": "huixiangoueshu",
+  "title": "回乡偶书",
+  "titlePinyin": "huí xiāng ǒu shū",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "七言绝句",
+  "authorId": "hezhizhang",
+  "gradeBand": "g1-2",
+  "textbook": "部编版语文二年级上册",
+  "tags": ["思乡", "回乡", "老人", "七言绝句"],
+  "difficulty": 1,
+  "writtenYear": 742,
+  "writtenLabel": "约公元 742 年（贺知章八十多岁，辞官回乡时）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "儿童相见不相识，笑问客从何处来。"
+  ],
+  "lines": [
+    {
+      "text": "少小离家老大回，",
+      "pinyin": ["shào", "xiǎo", "lí", "jiā", "lǎo", "dà", "huí"],
+      "translation": "年少时离开家乡，老了才回来，",
+      "noteIds": []
+    },
+    {
+      "text": "乡音无改鬓毛衰。",
+      "pinyin": ["xiāng", "yīn", "wú", "gǎi", "bìn", "máo", "cuī"],
+      "translation": "家乡的口音没有变，两边的头发却已经又少又白。",
+      "noteIds": ["n-bin", "n-shuai"]
+    },
+    {
+      "text": "儿童相见不相识，",
+      "pinyin": ["ér", "tóng", "xiāng", "jiàn", "bù", "xiāng", "shí"],
+      "translation": "孩子们见了我，没有一个人认识，",
+      "noteIds": []
+    },
+    {
+      "text": "笑问客从何处来。",
+      "pinyin": ["xiào", "wèn", "kè", "cóng", "hé", "chù", "lái"],
+      "translation": "笑着问我：客人，您从哪里来呀？",
+      "noteIds": ["n-ke"]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-bin",
+      "word": "鬓",
+      "pinyin": "bìn",
+      "meaning": "脸旁边靠近耳朵的头发。"
+    },
+    {
+      "id": "n-shuai",
+      "word": "衰",
+      "pinyin": "cuī",
+      "meaning": "这里读 cuī，指头发稀疏、变白。老人两边的头发少了、白了。"
+    },
+    {
+      "id": "n-ke",
+      "word": "客",
+      "pinyin": "kè",
+      "meaning": "客人。孩子们把回乡的老爷爷当成了外来的客人。"
+    }
+  ],
+  "translation": "我年少时离开家乡，老了才回来。家乡的口音没有变，可两边的头发已经又少又白。孩子们见了我都不认识，笑着问我：客人，您从哪里来呀？",
+  "appreciation": "一位老爷爷回到家乡，孩子们把他当成了客人。他不但不生气，还把这件小事写成一首诗。前两句写自己的变化：乡音还在，头发却白了。后两句写孩子们的天真发问。一个“笑”字，让诗变得又温暖又好笑。想家的人读到它，心里都会轻轻一酸。",
+  "background": "公元 742 年，八十多岁的贺知章辞官回乡。他离开家乡已经五十多年了。走进村里，孩子们都不认识这位白发老爷爷。他把这段有趣的经历，写成了《回乡偶书》。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "少小离家",
+      "text": "贺知章很小就离开家乡，外出读书、做官，一去就是五十多年。"
+    },
+    {
+      "step": 2,
+      "title": "老大回",
+      "text": "八十多岁，他终于辞官回家。口音没变，头发却白了一半。"
+    },
+    {
+      "step": 3,
+      "title": "孩子不认识",
+      "text": "村里的小孩围着看他，没有一个认识这位老爷爷。"
+    },
+    {
+      "step": 4,
+      "title": "笑问客从何处来",
+      "text": "一个小孩笑着问：老爷爷，您是哪来的客人呀？他听了哈哈大笑。"
+    }
+  ],
+  "pinyinNotes": [],
+  "sources": [
+    "部编版语文二年级上册",
+    "《全唐诗》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-24"
+}

@@ -1,0 +1,162 @@
+{
+  "id": "tang-shengtang-wangchangling-cailianqu",
+  "slug": "cailianqu",
+  "title": "采莲曲",
+  "titlePinyin": "cǎi lián qǔ",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "七言绝句",
+  "authorId": "wangchangling",
+  "gradeBand": "g3-4",
+  "tags": [
+    "夏天",
+    "荷花",
+    "采莲",
+    "七言绝句"
+  ],
+  "difficulty": 2,
+  "writtenYear": 748,
+  "writtenLabel": "约公元 748 年（王昌龄贬官龙标时期）",
+  "orderInAuthor": 3,
+  "famousLines": [
+    "荷叶罗裙一色裁，芙蓉向脸两边开。"
+  ],
+  "lines": [
+    {
+      "text": "荷叶罗裙一色裁，",
+      "pinyin": [
+        "hé",
+        "yè",
+        "luó",
+        "qún",
+        "yí",
+        "sè",
+        "cái"
+      ],
+      "translation": "采莲姑娘的绿罗裙和荷叶一个颜色，像用同一块布裁成的，",
+      "noteIds": [
+        "n-luoqun"
+      ]
+    },
+    {
+      "text": "芙蓉向脸两边开。",
+      "pinyin": [
+        "fú",
+        "róng",
+        "xiàng",
+        "liǎn",
+        "liǎng",
+        "biān",
+        "kāi"
+      ],
+      "translation": "荷花对着姑娘的脸，在两边开放。",
+      "noteIds": [
+        "n-furong"
+      ]
+    },
+    {
+      "text": "乱入池中看不见，",
+      "pinyin": [
+        "luàn",
+        "rù",
+        "chí",
+        "zhōng",
+        "kàn",
+        "bú",
+        "jiàn"
+      ],
+      "translation": "她们划进池塘深处，就看不见了，",
+      "noteIds": [
+        "n-luanru"
+      ]
+    },
+    {
+      "text": "闻歌始觉有人来。",
+      "pinyin": [
+        "wén",
+        "gē",
+        "shǐ",
+        "jué",
+        "yǒu",
+        "rén",
+        "lái"
+      ],
+      "translation": "听到歌声，才知道有人正划船过来。",
+      "noteIds": [
+        "n-shijue"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-luoqun",
+      "word": "罗裙",
+      "pinyin": "luó qún",
+      "meaning": "用轻软丝织品做的裙子。"
+    },
+    {
+      "id": "n-furong",
+      "word": "芙蓉",
+      "pinyin": "fú róng",
+      "meaning": "荷花。"
+    },
+    {
+      "id": "n-luanru",
+      "word": "乱入",
+      "pinyin": "luàn rù",
+      "meaning": "混进去。姑娘们的小船混进了荷叶丛中。"
+    },
+    {
+      "id": "n-shijue",
+      "word": "始觉",
+      "pinyin": "shǐ jué",
+      "meaning": "这才知道，才发现。"
+    }
+  ],
+  "translation": "采莲姑娘的绿罗裙和荷叶一个颜色，像用同一块布裁成的。荷花对着姑娘的脸，在两边开放。她们划进池塘深处就看不见了，听到歌声，才知道有人正划船过来。",
+  "appreciation": "这首诗像在玩捉迷藏。绿裙子混进绿荷叶，人一下子“消失”了；看不见人，还能听见歌声；听见歌声，才找到人。诗人不直接写姑娘们多美，而是让她们躲进荷塘里，只留下声音。这样的画面，比直接描写生动一百倍。",
+  "background": "王昌龄被贬到龙标时，看到当地人采莲的情景。采莲的姑娘穿着绿裙子，混在荷叶里几乎看不见，只有歌声传来才知道有人在。他把这幅画面写成了这首诗。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "荷塘采莲",
+      "text": "荷塘里，采莲的姑娘们划着小船采莲子。"
+    },
+    {
+      "step": 2,
+      "title": "荷裙一色",
+      "text": "绿裙子映着绿荷叶，颜色一样，分不清了。"
+    },
+    {
+      "step": 3,
+      "title": "转眼不见",
+      "text": "小船拐进荷叶深处，姑娘们看不见了。"
+    },
+    {
+      "step": 4,
+      "title": "闻歌见人",
+      "text": "忽然传来歌声，王昌龄才知道她们还在塘里。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "裁",
+      "reading": "cái",
+      "reason": "一色裁是说裙子和荷叶像同一块料裁成的。",
+      "standard": "注意读 cái"
+    },
+    {
+      "char": "不",
+      "reading": "bú",
+      "reason": "“看不见”的“见”读第四声，“不”变调读 bú。",
+      "standard": "单独念时读 bù"
+    }
+  ],
+  "sources": [
+    "《全唐诗》王昌龄卷",
+    "《唐诗鉴赏辞典》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-24"
+}

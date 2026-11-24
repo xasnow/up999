@@ -1,0 +1,140 @@
+{
+  "id": "tang-shengtang-wangwei-songbie",
+  "slug": "songbie",
+  "title": "山中送别",
+  "titlePinyin": "shān zhōng sòng bié",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "五言绝句",
+  "authorId": "wangwei",
+  "gradeBand": "g3-4",
+  "tags": [
+    "送别",
+    "朋友",
+    "春草",
+    "五言绝句"
+  ],
+  "difficulty": 2,
+  "writtenYear": 750,
+  "writtenLabel": "约公元 750 年（王维隐居辋川时期）",
+  "orderInAuthor": 7,
+  "famousLines": [
+    "春草明年绿，王孙归不归。"
+  ],
+  "lines": [
+    {
+      "text": "山中相送罢，",
+      "pinyin": [
+        "shān",
+        "zhōng",
+        "xiāng",
+        "sòng",
+        "bà"
+      ],
+      "translation": "在山里送别了朋友，",
+      "noteIds": [
+        "n-ba"
+      ]
+    },
+    {
+      "text": "日暮掩柴扉。",
+      "pinyin": [
+        "rì",
+        "mù",
+        "yǎn",
+        "chái",
+        "fēi"
+      ],
+      "translation": "天黑回到家，我掩上了柴门。",
+      "noteIds": [
+        "n-chaifei"
+      ]
+    },
+    {
+      "text": "春草明年绿，",
+      "pinyin": [
+        "chūn",
+        "cǎo",
+        "míng",
+        "nián",
+        "lǜ"
+      ],
+      "translation": "明年春天，春草又会变绿，",
+      "noteIds": []
+    },
+    {
+      "text": "王孙归不归。",
+      "pinyin": [
+        "wáng",
+        "sūn",
+        "guī",
+        "bù",
+        "guī"
+      ],
+      "translation": "朋友啊，那时你回不回来呢？",
+      "noteIds": [
+        "n-wangsun"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-ba",
+      "word": "罢",
+      "pinyin": "bà",
+      "meaning": "完了，结束。相送罢就是送别结束了。"
+    },
+    {
+      "id": "n-chaifei",
+      "word": "柴扉",
+      "pinyin": "chái fēi",
+      "meaning": "用树枝、木条编成的简陋的门。"
+    },
+    {
+      "id": "n-wangsun",
+      "word": "王孙",
+      "pinyin": "wáng sūn",
+      "meaning": "贵族的子孙，这里借指诗人的朋友。"
+    }
+  ],
+  "translation": "在山里送别了朋友，天黑回到家，我掩上了柴门。明年春天，春草又会变绿，朋友啊，那时你回不回来呢？",
+  "appreciation": "送别朋友，最难过的不是告别那一刻，而是回家以后。诗人不说“再见”，只写轻轻关上柴门的动作，离别的冷清全在里面。后两句更妙：不说想念，只问明年春草绿了，你回不回来？把想念藏在一个问题里，读起来特别动人。",
+  "background": "王维住在辋川的山里。这一天，他把来访的朋友送到路口，看着朋友走远。回到住处时天已经黑了，他心里还惦记着朋友，就写下了这首诗。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "山中送客",
+      "text": "在山里，王维送朋友离开，一直送到路口。"
+    },
+    {
+      "step": 2,
+      "title": "掩上柴门",
+      "text": "天黑了，他回到住处，轻轻关上了柴门。"
+    },
+    {
+      "step": 3,
+      "title": "春草又绿",
+      "text": "他想到明年春天，山里的春草又会绿起来。"
+    },
+    {
+      "step": 4,
+      "title": "盼你回来",
+      "text": "他望着门外想：朋友明年会不会回来呢？"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "扉",
+      "reading": "fēi",
+      "reason": "柴扉是用树枝、木条编成的门。",
+      "standard": "注意读 fēi，不读 fěi"
+    }
+  ],
+  "sources": [
+    "《王右丞集笺注》",
+    "《全唐诗》王维卷"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-24"
+}

@@ -1,0 +1,155 @@
+{
+  "id": "song-beisong-sushi-liuyuewanghu",
+  "slug": "liuyuewanghu",
+  "title": "六月二十七日望湖楼醉书",
+  "titlePinyin": "liù yuè èr shí qī rì wàng hú lóu zuì shū",
+  "dynasty": "songci",
+  "era": "beisong",
+  "genre": "shi",
+  "form": "七言绝句",
+  "authorId": "sushi",
+  "gradeBand": "g3-4",
+  "textbook": "部编版六年级上册",
+  "tags": [
+    "夏天",
+    "暴雨",
+    "西湖",
+    "七言绝句"
+  ],
+  "difficulty": 5,
+  "writtenYear": 1072,
+  "writtenLabel": "公元 1072 年（苏轼 35 岁）",
+  "orderInAuthor": 5,
+  "famousLines": [
+    "黑云翻墨未遮山，白雨跳珠乱入船。"
+  ],
+  "lines": [
+    {
+      "text": "黑云翻墨未遮山，",
+      "pinyin": [
+        "hēi",
+        "yún",
+        "fān",
+        "mò",
+        "wèi",
+        "zhē",
+        "shān"
+      ],
+      "translation": "黑云像打翻的墨水，还没来得及遮住远山，",
+      "noteIds": [
+        "n-fanmo"
+      ]
+    },
+    {
+      "text": "白雨跳珠乱入船。",
+      "pinyin": [
+        "bái",
+        "yǔ",
+        "tiào",
+        "zhū",
+        "luàn",
+        "rù",
+        "chuán"
+      ],
+      "translation": "白亮的雨点像跳动的珍珠，乱蹦乱跳地落进船里。",
+      "noteIds": [
+        "n-tiaozhu"
+      ]
+    },
+    {
+      "text": "卷地风来忽吹散，",
+      "pinyin": [
+        "juǎn",
+        "dì",
+        "fēng",
+        "lái",
+        "hū",
+        "chuī",
+        "sàn"
+      ],
+      "translation": "忽然一阵大风贴着地面卷来，把云雨一下子吹散。",
+      "noteIds": [
+        "n-juandi"
+      ]
+    },
+    {
+      "text": "望湖楼下水如天。",
+      "pinyin": [
+        "wàng",
+        "hú",
+        "lóu",
+        "xià",
+        "shuǐ",
+        "rú",
+        "tiān"
+      ],
+      "translation": "望湖楼下的湖水，又平静得像天空一样。",
+      "noteIds": []
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-fanmo",
+      "word": "翻墨",
+      "pinyin": "fān mò",
+      "meaning": "打翻的墨水。乌云又黑又乱，像墨汁泼洒开来。"
+    },
+    {
+      "id": "n-tiaozhu",
+      "word": "跳珠",
+      "pinyin": "tiào zhū",
+      "meaning": "跳动的珍珠。雨点又大又急，在船上乱蹦乱跳。"
+    },
+    {
+      "id": "n-juandi",
+      "word": "卷地",
+      "pinyin": "juǎn dì",
+      "meaning": "贴着地面卷过来，形容风来得又猛又快。"
+    }
+  ],
+  "translation": "黑云像打翻的墨水，还没来得及遮住远山，白亮的雨点像跳动的珍珠，乱蹦乱跳地落进船里。忽然一阵大风贴着地面卷来，把云雨一下子吹散。望湖楼下的湖水，又平静得像天空一样。",
+  "appreciation": "这场雨下得又快又好玩。前一秒还是大晴天，下一秒黑云就泼开了墨。雨点蹦进船里，像一颗颗白色的小珍珠。可大风一吹，云散雨停，湖水又亮得像镜子。整首诗只有四个镜头，却像一部特快的动画：来也匆匆，去也匆匆。苏轼喝了点酒，看到这场好戏，笑着把它记了下来。",
+  "background": "公元 1072 年六月二十七日，苏轼在杭州做官。这天他到西湖边，登上望湖楼喝酒看景。一场夏天的大雨说来就来，说走就走。苏轼趁兴在楼上写下这首诗，把这场雨的快节奏记了下来。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "黑云泼墨",
+      "text": "乌云像打翻的墨水涌来，一下子遮住半边天。"
+    },
+    {
+      "step": 2,
+      "title": "雨点跳进船",
+      "text": "大雨哗啦落下，白亮的雨点像珍珠在船里乱跳。"
+    },
+    {
+      "step": 3,
+      "title": "大风来救场",
+      "text": "忽然一阵大风贴地卷来，把云和雨一起吹散。"
+    },
+    {
+      "step": 4,
+      "title": "湖水亮如天",
+      "text": "雨停了，望湖楼下的湖水又平静得像天空。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "墨",
+      "reading": "mò",
+      "reason": "“翻墨”指打翻的墨水。",
+      "standard": "注意是第四声"
+    },
+    {
+      "char": "散",
+      "reading": "sàn",
+      "reason": "“吹散”是吹开、散开的意思，读第四声。",
+      "standard": "松散的散读 sǎn"
+    }
+  ],
+  "sources": [
+    "部编版语文六年级上册",
+    "《苏轼诗集》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-24"
+}

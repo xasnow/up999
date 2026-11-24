@@ -1,0 +1,99 @@
+{
+  "id": "tang-zhongtang-jiadao-jianke",
+  "slug": "jianke",
+  "title": "剑客",
+  "titlePinyin": "jiàn kè",
+  "dynasty": "tangshi",
+  "era": "zhongtang",
+  "genre": "shi",
+  "form": "五言绝句",
+  "authorId": "jiadao",
+  "gradeBand": "g5-6",
+  "textbook": "课外经典诵读篇目",
+  "tags": ["剑客", "志向", "豪气", "五言绝句"],
+  "difficulty": 2,
+  "writtenYear": 810,
+  "writtenLabel": "约公元 810 年（贾岛在长安求仕不顺时所作）",
+  "orderInAuthor": 2,
+  "famousLines": [
+    "十年磨一剑，霜刃未曾试。"
+  ],
+  "lines": [
+    {
+      "text": "十年磨一剑，",
+      "pinyin": ["shí", "nián", "mó", "yī", "jiàn"],
+      "translation": "花了十年功夫，磨出一把宝剑，",
+      "noteIds": []
+    },
+    {
+      "text": "霜刃未曾试。",
+      "pinyin": ["shuāng", "rèn", "wèi", "céng", "shì"],
+      "translation": "剑刃闪着寒光，还从来没有试过。",
+      "noteIds": ["n-ren"]
+    },
+    {
+      "text": "今日把示君，",
+      "pinyin": ["jīn", "rì", "bǎ", "shì", "jūn"],
+      "translation": "今天拿出来给您看一看，",
+      "noteIds": ["n-shi"]
+    },
+    {
+      "text": "谁有不平事。",
+      "pinyin": ["shuí", "yǒu", "bù", "píng", "shì"],
+      "translation": "天下谁有冤屈不平的事？",
+      "noteIds": ["n-bupingshi"]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-ren",
+      "word": "刃",
+      "pinyin": "rèn",
+      "meaning": "刀剑最锋利的部分。霜刃，形容剑锋利得闪着寒光。"
+    },
+    {
+      "id": "n-shi",
+      "word": "示",
+      "pinyin": "shì",
+      "meaning": "给……看。把示君，就是拿出来给您看。"
+    },
+    {
+      "id": "n-bupingshi",
+      "word": "不平事",
+      "pinyin": "bù píng shì",
+      "meaning": "不公平、让人委屈的事情。"
+    }
+  ],
+  "translation": "花了十年功夫，磨出一把宝剑。剑刃闪着寒光，还从来没有试过。今天拿出来给您看一看：天下谁有冤屈不平的事？我可以为他挺身而出。",
+  "appreciation": "诗人把自己当成一位剑客。十年磨一剑，磨的不只是剑，也是本事。霜刃没试过，是在等一个机会。最后一句像在喊话：谁有不平事？说出来，我来管！短短二十个字，喊出了一身豪气。贾岛虽是苦吟诗人，这首诗却写得干脆响亮。",
+  "background": "贾岛在长安求官多年，一直不顺利，生活很清苦。大约在公元 810 年前后，他写下这首《剑客》。他把自己比作磨了十年的宝剑，盼着有人赏识，好施展本领。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "十年磨一剑",
+      "text": "剑客花了整整十年，磨出一把锋利的宝剑。"
+    },
+    {
+      "step": 2,
+      "title": "剑刃闪寒光",
+      "text": "剑刃白亮亮的，像结了一层霜，一次也没有试过。"
+    },
+    {
+      "step": 3,
+      "title": "拿出来给您看",
+      "text": "今天，剑客把宝剑拿出来，请大家看一看。"
+    },
+    {
+      "step": 4,
+      "title": "谁有不平事",
+      "text": "他大声问：天下谁有冤屈不平的事？我来替他出头！"
+    }
+  ],
+  "pinyinNotes": [],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗鉴赏辞典》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-24"
+}

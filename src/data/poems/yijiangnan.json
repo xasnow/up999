@@ -1,0 +1,166 @@
+{
+  "id": "tang-zhongtang-baijuyi-yijiangnan",
+  "slug": "yijiangnan",
+  "title": "忆江南（其一）",
+  "titlePinyin": "yì jiāng nán",
+  "dynasty": "tangshi",
+  "era": "zhongtang",
+  "genre": "ci",
+  "form": "词（小令）",
+  "authorId": "baijuyi",
+  "gradeBand": "g3-4",
+  "tags": [
+    "江南",
+    "回忆",
+    "风景",
+    "词"
+  ],
+  "difficulty": 2,
+  "writtenYear": 838,
+  "writtenLabel": "约公元 838 年（白居易晚年回忆江南）",
+  "orderInAuthor": 4,
+  "famousLines": [
+    "日出江花红胜火，春来江水绿如蓝。"
+  ],
+  "lines": [
+    {
+      "text": "江南好，",
+      "pinyin": [
+        "jiāng",
+        "nán",
+        "hǎo"
+      ],
+      "translation": "江南真美好，",
+      "noteIds": []
+    },
+    {
+      "text": "风景旧曾谙。",
+      "pinyin": [
+        "fēng",
+        "jǐng",
+        "jiù",
+        "céng",
+        "ān"
+      ],
+      "translation": "那里的风景我早已很熟悉。",
+      "noteIds": [
+        "n-an"
+      ]
+    },
+    {
+      "text": "日出江花红胜火，",
+      "pinyin": [
+        "rì",
+        "chū",
+        "jiāng",
+        "huā",
+        "hóng",
+        "shèng",
+        "huǒ"
+      ],
+      "translation": "太阳升起时，江边的花开得比火还红，",
+      "noteIds": [
+        "n-jianghua"
+      ]
+    },
+    {
+      "text": "春来江水绿如蓝。",
+      "pinyin": [
+        "chūn",
+        "lái",
+        "jiāng",
+        "shuǐ",
+        "lǜ",
+        "rú",
+        "lán"
+      ],
+      "translation": "春天来到时，江水碧绿，绿得像蓝草。",
+      "noteIds": [
+        "n-lan"
+      ]
+    },
+    {
+      "text": "能不忆江南？",
+      "pinyin": [
+        "néng",
+        "bú",
+        "yì",
+        "jiāng",
+        "nán"
+      ],
+      "translation": "这样的江南，怎能不让人想念？",
+      "noteIds": []
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-an",
+      "word": "谙",
+      "pinyin": "ān",
+      "meaning": "熟悉。旧曾谙就是过去就很熟悉。"
+    },
+    {
+      "id": "n-jianghua",
+      "word": "江花",
+      "pinyin": "jiāng huā",
+      "meaning": "江边的花，也有人说是江里的浪花。"
+    },
+    {
+      "id": "n-lan",
+      "word": "蓝",
+      "pinyin": "lán",
+      "meaning": "蓝草，叶子能做蓝色染料，颜色比绿更深艳。"
+    }
+  ],
+  "translation": "江南真美好，那里的风景我早已很熟悉。太阳升起时，江边的花开得比火还红；春天来到时，江水碧绿，绿得像蓝草。这样的江南，怎能不让人想念？",
+  "appreciation": "词一开头就大声说“江南好”，像一声快乐的招呼。然后用两种最亮的颜色作比：江花比火红，江水比蓝草还绿。最后反问一句“能不忆江南”，把想念问得理直气壮。短短二十七个字，江南的美全被装进去了。",
+  "background": "白居易年轻时在杭州、苏州做官，对江南很熟悉。晚年他住在洛阳，常常想起江南的风景，一口气写了三首《忆江南》，这是第一首。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "夸江南好",
+      "text": "白居易想起江南，忍不住说：江南真好啊！"
+    },
+    {
+      "step": 2,
+      "title": "旧景熟悉",
+      "text": "那里的风景，他在江南做官时早就看熟了。"
+    },
+    {
+      "step": 3,
+      "title": "花红如火",
+      "text": "太阳一出来，江边的花开得比火还要红。"
+    },
+    {
+      "step": 4,
+      "title": "水绿如蓝",
+      "text": "春天江水碧绿，他怎能不想念江南呢？"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "谙",
+      "reading": "ān",
+      "reason": "谙是熟悉的意思。",
+      "standard": "注意读 ān"
+    },
+    {
+      "char": "曾",
+      "reading": "céng",
+      "reason": "旧曾谙是曾经很熟悉。",
+      "standard": "“姓曾”的曾读 zēng"
+    },
+    {
+      "char": "不",
+      "reading": "bú",
+      "reason": "“能不忆江南”的“忆”读第四声，“不”变调读 bú。",
+      "standard": "单独念时读 bù"
+    }
+  ],
+  "sources": [
+    "《白氏长庆集》",
+    "《唐宋词鉴赏辞典》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-24"
+}

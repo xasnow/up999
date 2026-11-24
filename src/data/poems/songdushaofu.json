@@ -1,0 +1,129 @@
+{
+  "id": "tang-chutang-wangbo-songdushaofu",
+  "slug": "songdushaofu",
+  "title": "送杜少府之任蜀州",
+  "titlePinyin": "sòng dù shào fǔ zhī rèn shǔ zhōu",
+  "dynasty": "tangshi",
+  "era": "chutang",
+  "genre": "shi",
+  "form": "五言律诗",
+  "authorId": "wangbo",
+  "gradeBand": "g5-6",
+  "textbook": "部编版语文八年级下册（课外古诗词诵读）",
+  "tags": ["送别", "友情", "五言律诗"],
+  "difficulty": 3,
+  "writtenYear": 676,
+  "writtenLabel": "约公元 676 年（王勃在长安送友人赴蜀州）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "海内存知己，天涯若比邻。"
+  ],
+  "lines": [
+    {
+      "text": "城阙辅三秦，",
+      "pinyin": ["chéng", "què", "fǔ", "sān", "qín"],
+      "translation": "三秦大地护卫着长安城，",
+      "noteIds": ["n-que"]
+    },
+    {
+      "text": "风烟望五津。",
+      "pinyin": ["fēng", "yān", "wàng", "wǔ", "jīn"],
+      "translation": "透过迷茫的风烟，望见蜀州的五个渡口。",
+      "noteIds": []
+    },
+    {
+      "text": "与君离别意，",
+      "pinyin": ["yǔ", "jūn", "lí", "bié", "yì"],
+      "translation": "和你分别的心情，",
+      "noteIds": []
+    },
+    {
+      "text": "同是宦游人。",
+      "pinyin": ["tóng", "shì", "huàn", "yóu", "rén"],
+      "translation": "咱们都一样，因为都是离乡在外做官的人。",
+      "noteIds": ["n-huan"]
+    },
+    {
+      "text": "海内存知己，",
+      "pinyin": ["hǎi", "nèi", "cún", "zhī", "jǐ"],
+      "translation": "只要四海之内有知心的朋友，",
+      "noteIds": []
+    },
+    {
+      "text": "天涯若比邻。",
+      "pinyin": ["tiān", "yá", "ruò", "bǐ", "lín"],
+      "translation": "即使远在天边，也像邻居一样近。",
+      "noteIds": ["n-ya"]
+    },
+    {
+      "text": "无为在歧路，",
+      "pinyin": ["wú", "wéi", "zài", "qí", "lù"],
+      "translation": "不要在分手的岔路口，",
+      "noteIds": ["n-qi"]
+    },
+    {
+      "text": "儿女共沾巾。",
+      "pinyin": ["ér", "nǚ", "gòng", "zhān", "jīn"],
+      "translation": "像小孩子一样，哭湿了手巾。",
+      "noteIds": []
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-que",
+      "word": "城阙",
+      "pinyin": "chéng què",
+      "meaning": "皇宫门前两边的楼，这里指京城长安。"
+    },
+    {
+      "id": "n-huan",
+      "word": "宦游",
+      "pinyin": "huàn yóu",
+      "meaning": "离开家乡，到外地去做官。"
+    },
+    {
+      "id": "n-ya",
+      "word": "涯",
+      "pinyin": "yá",
+      "meaning": "边际，尽头。天涯，就是天的尽头，指很远的地方。"
+    },
+    {
+      "id": "n-qi",
+      "word": "歧路",
+      "pinyin": "qí lù",
+      "meaning": "岔路口，分岔的小路，指分别的地方。"
+    }
+  ],
+  "translation": "三秦大地护卫着长安城，透过迷茫的风烟，望见蜀州的五个渡口。和你分别的心情，咱们都一样，因为都是离乡在外做官的人。只要四海之内有知心朋友，即使远在天边，也像邻居一样近。不要在岔路口分手时，像小孩子一样哭湿了手巾。",
+  "appreciation": "这是一首送别诗，却不哭哭啼啼。一开篇，先看壮阔的风景：三秦护长安，风烟连五津。诗人说：我们都是宦游的人，分别没什么大不了。只要心意相通，天涯也像隔壁。最后还叮嘱朋友：别哭鼻子啦！少年人的豪气，全都藏在诗里了。",
+  "background": "公元 676 年前后，王勃的好朋友杜少府要去蜀州做官。分别的时候，王勃写下这首诗送他。两人都远离家乡在外奔波，最能懂得离别的心情。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "朋友要去四川",
+      "text": "好朋友杜少府要去蜀州做官了，王勃特地来送他。"
+    },
+    {
+      "step": 2,
+      "title": "望一眼远方",
+      "text": "两人站在长安城头，望着风烟里的五津，那边就是朋友要去的地方。"
+    },
+    {
+      "step": 3,
+      "title": "你我都一样",
+      "text": "王勃说：咱们都是宦游的人，离别不必太难过。"
+    },
+    {
+      "step": 4,
+      "title": "知己像邻居",
+      "text": "只要四海之内有知己，隔得再远也像邻居。擦干眼泪，笑一笑再分手吧。"
+    }
+  ],
+  "pinyinNotes": [],
+  "sources": [
+    "部编版语文八年级下册",
+    "《全唐诗》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-24"
+}

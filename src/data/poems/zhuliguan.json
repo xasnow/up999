@@ -1,0 +1,146 @@
+{
+  "id": "tang-shengtang-wangwei-zhuliguan",
+  "slug": "zhuliguan",
+  "title": "竹里馆",
+  "titlePinyin": "zhú lǐ guǎn",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "五言绝句",
+  "authorId": "wangwei",
+  "gradeBand": "g3-4",
+  "tags": [
+    "竹林",
+    "弹琴",
+    "月亮",
+    "五言绝句"
+  ],
+  "difficulty": 2,
+  "writtenYear": 751,
+  "writtenLabel": "约公元 751 年（王维隐居辋川时期）",
+  "orderInAuthor": 6,
+  "famousLines": [
+    "深林人不知，明月来相照。"
+  ],
+  "lines": [
+    {
+      "text": "独坐幽篁里，",
+      "pinyin": [
+        "dú",
+        "zuò",
+        "yōu",
+        "huáng",
+        "lǐ"
+      ],
+      "translation": "我独自坐在幽深的竹林里，",
+      "noteIds": [
+        "n-huang"
+      ]
+    },
+    {
+      "text": "弹琴复长啸。",
+      "pinyin": [
+        "tán",
+        "qín",
+        "fù",
+        "cháng",
+        "xiào"
+      ],
+      "translation": "一会儿弹琴，一会儿放声长啸。",
+      "noteIds": [
+        "n-xiao"
+      ]
+    },
+    {
+      "text": "深林人不知，",
+      "pinyin": [
+        "shēn",
+        "lín",
+        "rén",
+        "bù",
+        "zhī"
+      ],
+      "translation": "竹林深处没有人知道我在这里，",
+      "noteIds": []
+    },
+    {
+      "text": "明月来相照。",
+      "pinyin": [
+        "míng",
+        "yuè",
+        "lái",
+        "xiāng",
+        "zhào"
+      ],
+      "translation": "只有一轮明月来照着我，陪伴我。",
+      "noteIds": [
+        "n-xiangzhao"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-huang",
+      "word": "篁",
+      "pinyin": "huáng",
+      "meaning": "成片的竹林。幽篁就是幽深的竹林。"
+    },
+    {
+      "id": "n-xiao",
+      "word": "长啸",
+      "pinyin": "cháng xiào",
+      "meaning": "撮起嘴发出又长又清亮的声音，是古人抒发心情的一种方式。"
+    },
+    {
+      "id": "n-xiangzhao",
+      "word": "相照",
+      "pinyin": "xiāng zhào",
+      "meaning": "月亮照着诗人，诗人也望着月亮，像在互相陪伴。"
+    }
+  ],
+  "translation": "我独自坐在幽深的竹林里，一会儿弹琴，一会儿放声长啸。竹林深处没有人知道我在这里，只有一轮明月来照着我，陪伴我。",
+  "appreciation": "这首诗像一段安静的小视频。诗人一个人坐在竹林里，弹琴，长啸，没人来打扰。最妙的是最后一句：明月像朋友一样来陪伴他。一个“照”字，让月亮活了过来。全诗只有二十个字，却写出了独处的自在和快乐。",
+  "background": "王维晚年住在辋川，那里有一片竹林。他在竹林里建了一座小馆，取名竹里馆。他常常一个人在竹林里弹琴、吟唱，把这份快乐写成了这首诗。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "走进竹林",
+      "text": "王维独自走进幽深的竹林，找了个地方坐下。"
+    },
+    {
+      "step": 2,
+      "title": "弹琴长啸",
+      "text": "他弹起了琴，又放声长啸，声音在林子里飘荡。"
+    },
+    {
+      "step": 3,
+      "title": "没人打扰",
+      "text": "竹林深处静悄悄的，没有人知道他在这里。"
+    },
+    {
+      "step": 4,
+      "title": "月亮作伴",
+      "text": "晚上，一轮明月升起来，静静地照着他，陪着他。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "篁",
+      "reading": "huáng",
+      "reason": "幽篁就是幽深的竹林，篁指竹林。",
+      "standard": "注意读 huáng"
+    },
+    {
+      "char": "啸",
+      "reading": "xiào",
+      "reason": "长啸是撮口发出悠长清亮的声音。",
+      "standard": "注意读 xiào"
+    }
+  ],
+  "sources": [
+    "《王右丞集笺注》",
+    "《全唐诗》王维卷"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-24"
+}

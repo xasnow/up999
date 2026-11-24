@@ -300,10 +300,10 @@ h1, h2, h3, h4 {
 @media (min-width: 560px) {
   .today-cover {
     /* 桌面端固定宽度，把空间留给右侧文字 */
-    flex: 0 0 300px;
-    width: 300px;
+    flex: 0 0 360px;
+    width: 360px;
     aspect-ratio: auto;
-    min-height: 230px;
+    min-height: 250px;
   }
 }
 
@@ -693,8 +693,8 @@ h1, h2, h3, h4 {
   overflow: hidden;
   box-shadow: var(--shadow);
   margin: 16px auto 0;
-  /* A5 横放观感：约 400px 宽 */
-  max-width: 400px;
+  /* A5 横放观感：约 400px 宽 → 放大到 660px 充分利用原图 */
+  max-width: 660px;
   background: linear-gradient(140deg, #274156, #3a5568);
   color: var(--moon);
   display: flex;

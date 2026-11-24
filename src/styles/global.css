@@ -286,7 +286,8 @@ h1, h2, h3, h4 {
 }
 
 .today-cover {
-  min-height: 180px;
+  width: 100%;
+  aspect-ratio: 5 / 3;
   background: linear-gradient(140deg, #274156, #3a5568);
   display: flex;
   align-items: center;
@@ -294,6 +295,16 @@ h1, h2, h3, h4 {
   color: var(--moon);
   font-size: 40px;
   letter-spacing: 6px;
+}
+
+@media (min-width: 560px) {
+  .today-cover {
+    /* 桌面端固定宽度，把空间留给右侧文字 */
+    flex: 0 0 300px;
+    width: 300px;
+    aspect-ratio: auto;
+    min-height: 230px;
+  }
 }
 
 .today-cover img {
@@ -696,7 +707,8 @@ h1, h2, h3, h4 {
 
 .poem-cover img {
   width: 100%;
-  object-fit: cover;
+  /* height:auto 让浏览器按 width/height 属性比例缩放，修复窄竖条 */
+  height: auto;
 }
 
 .cover-caption {

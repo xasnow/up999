@@ -1,0 +1,59 @@
+---
+// 全站目录树：大类 → 时期 → 作者，当前所在分支默认展开并高亮
+import { dynasties, authorsOfEra, poemsOfAuthor } from '../lib/content';
+
+const path = Astro.url.pathname;
+const inBranch = (prefix: string) => path === prefix || path.startsWith(prefix);
+
+const tree = dynasties.map((d) => ({
+  d,
+  eras: (d.eras ?? []).map((e) => ({
+    e,
+    authors: authorsOfEra(d.id, e.id)
+  }))
+}));
+---
+
+<nav class="site-tree" aria-label="全站目录">
+  <p class="side-title">全站目录</p>
+  {
+    tree.map(({ d, eras }) => (
+      <details class="tree-group" open={inBranch(`/${d.id}/`)}>
+        <summary>
+          <span>{d.label}</span>
+          {d.status === 'coming' && <em class="tree-tag">待上线</em>}
+        </summary>
+        <div class="tree-body">
+          <a class="tree-overview" href={`/${d.id}/`}>进入{d.label}总览 →</a>
+          {eras.map(({ e, authors }) => (
+            <details class="tree-group tree-sub" open={inBranch(`/${d.id}/${e.id}/`)}>
+              <summary>
+                <span>{e.label}</span>
+                <span class="tree-num">{authors.length}</span>
+              </summary>
+              <div class="tree-body">
+                {authors.length === 0 ? (
+                  <p class="tree-empty">还在整理中</p>
+                ) : (
+                  <ul class="tree-authors">
+                    {authors.map((a) => (
+                      <li>
+                        <a
+                          class:list={[{ active: inBranch(`/${d.id}/${e.id}/${a.slug}/`) }]}
+                          href={`/${d.id}/${e.id}/${a.slug}/`}
+                        >
+                          <span>{a.name}</span>
+                          <span class="tree-num">{poemsOfAuthor(a.id).length}</span>
+                        </a>
+                      </li>
+                    ))}
+                  </ul>
+                )}
+              </div>
+            </details>
+          ))}
+        </div>
+      </details>
+    ))
+  }
+</nav>

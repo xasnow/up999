@@ -1017,3 +1017,359 @@ body.hide-pinyin .line-text rt {
     animation: none !important;
   }
 }
+
+/* ========= 双侧导航：左全站目录 / 右本页目录 ========= */
+html {
+  scroll-padding-top: 72px;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  html {
+    scroll-behavior: smooth;
+  }
+}
+
+.layout-shell {
+  position: relative;
+}
+
+.side-left,
+.page-toc {
+  font-size: 13px;
+  line-height: 1.6;
+}
+
+.side-title {
+  margin: 0 0 8px;
+  font-size: 12px;
+  letter-spacing: 2px;
+  color: var(--pinyin-color);
+}
+
+/* --- 全站目录树 --- */
+.site-tree details {
+  margin: 0;
+}
+
+.site-tree summary {
+  list-style: none;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  padding: 6px 8px;
+  border-radius: 8px;
+  cursor: pointer;
+  font-weight: 600;
+  color: var(--ink);
+}
+
+.site-tree summary::-webkit-details-marker {
+  display: none;
+}
+
+.site-tree summary::before {
+  content: '▸';
+  font-size: 11px;
+  color: var(--pinyin-color);
+  transition: transform 0.15s ease;
+}
+
+.site-tree details[open] > summary::before {
+  transform: rotate(90deg);
+}
+
+.site-tree summary:hover {
+  background: #fff;
+}
+
+.site-tree summary > span:first-of-type {
+  flex: 1;
+}
+
+.site-tree .tree-tag {
+  font-style: normal;
+  font-size: 11px;
+  font-weight: 400;
+  color: var(--ink-soft);
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  padding: 0 6px;
+}
+
+.site-tree .tree-num {
+  font-size: 11px;
+  font-weight: 400;
+  color: var(--pinyin-color);
+}
+
+.tree-body {
+  margin: 2px 0 6px 14px;
+  padding-left: 8px;
+  border-left: 1px solid var(--line);
+}
+
+.tree-sub > summary {
+  font-weight: 400;
+  color: var(--ink-soft);
+}
+
+.tree-overview {
+  display: block;
+  font-size: 12px;
+  color: var(--moon-deep);
+  padding: 4px 8px;
+  border-radius: 6px;
+}
+
+.tree-overview:hover {
+  background: #fff;
+}
+
+.tree-authors {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.tree-authors a {
+  display: flex;
+  justify-content: space-between;
+  gap: 6px;
+  padding: 4px 8px;
+  border-radius: 6px;
+  color: var(--ink-soft);
+}
+
+.tree-authors a:hover {
+  background: #fff;
+  color: var(--ink);
+}
+
+.tree-authors a.active {
+  background: var(--ink);
+  color: var(--moon);
+}
+
+.tree-authors a.active .tree-num {
+  color: var(--moon);
+}
+
+.tree-empty {
+  margin: 0;
+  padding: 4px 8px;
+  font-size: 12px;
+  color: var(--pinyin-color);
+}
+
+/* --- 本页目录 --- */
+.page-toc-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  border-left: 2px solid var(--line);
+}
+
+.page-toc-list a {
+  display: block;
+  margin-left: -2px;
+  padding: 5px 10px;
+  border-left: 2px solid transparent;
+  color: var(--ink-soft);
+  transition: color 0.15s ease, border-color 0.15s ease;
+}
+
+.page-toc-list a:hover {
+  color: var(--ink);
+}
+
+.page-toc-list a.active {
+  color: var(--tang);
+  border-left-color: var(--moon-deep);
+  font-weight: 600;
+  background: linear-gradient(90deg, rgba(233, 168, 60, 0.14), transparent);
+}
+
+@media (min-width: 1280px) {
+  .layout-shell:not(.no-nav) {
+    display: grid;
+    grid-template-columns: 208px minmax(0, 1fr) 184px;
+    gap: 24px;
+    align-items: start;
+    max-width: 1380px;
+    margin: 0 auto;
+    padding: 0 20px;
+  }
+
+  .layout-shell:not(.no-nav) .side-left {
+    grid-column: 1;
+  }
+
+  .layout-shell:not(.no-nav) .page-main {
+    grid-column: 2;
+    min-width: 0;
+  }
+
+  .layout-shell:not(.no-nav) .page-toc {
+    grid-column: 3;
+  }
+
+  .side-left,
+  .page-toc {
+    position: sticky;
+    top: 76px;
+    max-height: calc(100vh - 96px);
+    overflow-y: auto;
+    overscroll-behavior: contain;
+  }
+
+  /* 顶部导航内宽与三栏对齐 */
+  .site-header .header-inner {
+    max-width: 1380px;
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+}
+
+@media (max-width: 1279px) {
+  .side-left,
+  .page-toc {
+    display: none;
+  }
+}
+
+/* --- 移动端浮动目录按钮与抽屉 --- */
+.mobile-nav {
+  display: none;
+}
+
+@media (max-width: 1279px) {
+  .mobile-nav {
+    display: block;
+  }
+
+  .toc-fab {
+    position: fixed;
+    right: 16px;
+    bottom: 20px;
+    z-index: 40;
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    min-height: 48px;
+    padding: 0 18px;
+    border: none;
+    border-radius: 999px;
+    background: var(--ink);
+    color: var(--moon);
+    font-size: 15px;
+    font-weight: 600;
+    box-shadow: 0 6px 18px rgba(28, 43, 58, 0.32);
+    cursor: pointer;
+  }
+
+  .toc-fab-icon {
+    font-size: 16px;
+  }
+
+  .mobile-drawer {
+    position: fixed;
+    inset: 0;
+    z-index: 70;
+    display: none;
+  }
+
+  .mobile-drawer.open {
+    display: block;
+  }
+
+  .drawer-mask {
+    position: absolute;
+    inset: 0;
+    background: rgba(15, 24, 33, 0.45);
+  }
+
+  .drawer-panel {
+    position: absolute;
+    inset: 0 auto 0 0;
+    width: min(86vw, 340px);
+    display: flex;
+    flex-direction: column;
+    background: var(--paper);
+    box-shadow: 4px 0 24px rgba(0, 0, 0, 0.2);
+    animation: drawer-in 0.2s ease;
+  }
+
+  @keyframes drawer-in {
+    from {
+      transform: translateX(-100%);
+    }
+    to {
+      transform: none;
+    }
+  }
+
+  .drawer-head {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    padding: 10px 12px;
+    background: var(--card);
+    border-bottom: 1px solid var(--line);
+  }
+
+  .drawer-tabs {
+    display: flex;
+    flex: 1;
+    gap: 4px;
+  }
+
+  .drawer-tab {
+    min-height: 40px;
+    padding: 8px 14px;
+    border: none;
+    border-radius: 999px;
+    background: transparent;
+    font-size: 14px;
+    color: var(--ink-soft);
+    cursor: pointer;
+  }
+
+  .drawer-tab.active {
+    background: var(--ink);
+    color: var(--moon);
+  }
+
+  .drawer-close {
+    width: 40px;
+    height: 40px;
+    border: none;
+    background: transparent;
+    font-size: 24px;
+    line-height: 1;
+    color: var(--ink-soft);
+    cursor: pointer;
+  }
+
+  .drawer-body {
+    flex: 1;
+    overflow-y: auto;
+    padding: 12px 14px 32px;
+  }
+
+  .drawer-pane {
+    display: none;
+  }
+
+  .drawer-pane.active {
+    display: block;
+  }
+
+  .drawer-pane .page-toc-list {
+    margin-top: 4px;
+  }
+
+  body.drawer-open {
+    overflow: hidden;
+  }
+}
+

@@ -1,12 +1,21 @@
 ---
 import '../styles/global.css';
 import SiteHeader from '../components/SiteHeader.astro';
+import SiteTree from '../components/SiteTree.astro';
+import PageToc from '../components/PageToc.astro';
+import MobileNav from '../components/MobileNav.astro';
 
 interface Props {
   title: string;
   description?: string;
+  /** 是否显示双侧目录（首页/关于/404 用 false） */
+  nav?: boolean;
 }
-const { title, description = '为小学生做的古诗词学习网站：带拼音、有漫画、跟着时间线读懂每一首诗。' } = Astro.props;
+const {
+  title,
+  description = '为小学生做的古诗词学习网站：带拼音、有漫画、跟着时间线读懂每一首诗。',
+  nav = true
+} = Astro.props;
 ---
 
 <!doctype html>
@@ -21,9 +30,18 @@ const { title, description = '为小学生做的古诗词学习网站：带拼�
   </head>
   <body>
     <SiteHeader />
-    <main class="page-main">
-      <slot />
-    </main>
+    <div class:list={['layout-shell', { 'no-nav': !nav }]}>
+      {nav && (
+        <div class="side-left">
+          <SiteTree />
+        </div>
+      )}
+      <main class="page-main" id="page-main">
+        <slot />
+      </main>
+      {nav && <PageToc />}
+    </div>
+    {nav && <MobileNav />}
     <footer class="site-footer">
       <nav class="footer-nav">
         <a href="/">首页</a>
@@ -38,6 +56,105 @@ const { title, description = '为小学生做的古诗词学习网站：带拼�
       // 拼音开关状态全站记忆（localStorage）
       const saved = localStorage.getItem('up999-pinyin');
       if (saved === 'off') document.body.classList.add('hide-pinyin');
+    </script>
+    <script>
+      // 本页目录：采集正文 h2 生成锚点，滚动时高亮当前章节
+      const main = document.getElementById('page-main');
+      const tocLists = document.querySelectorAll('[data-page-toc]');
+      if (main && tocLists.length) {
+        const headings = Array.from(main.querySelectorAll('h2'));
+        const labelOf = (h) => {
+          const clone = h.cloneNode(true);
+          clone.querySelectorAll('small, em').forEach((n) => n.remove());
+          return clone.textContent?.trim() || '';
+        };
+
+        headings.forEach((h, i) => {
+          if (!h.id) h.id = `sec-${i + 1}`;
+        });
+
+        const items = headings.map((h) => ({ id: h.id, text: labelOf(h) }));
+        tocLists.forEach((list) => {
+          list.innerHTML = items
+            .map((it) => `<li><a href="#${it.id}">${it.text}</a></li>`)
+            .join('');
+        });
+
+        // 没有足够章节时不显示目录列
+        if (headings.length < 2) {
+          document.querySelectorAll('.page-toc').forEach((el) => el.remove());
+          document.querySelectorAll('.drawer-tab[data-tab="toc"]').forEach((el) => el.remove());
+        }
+
+        const links = Array.from(document.querySelectorAll('[data-page-toc] a'));
+        let currentId = '';
+        const setActive = (id) => {
+          if (id === currentId) return;
+          currentId = id;
+          links.forEach((a) => a.classList.toggle('active', a.getAttribute('href') === `#${id}`));
+        };
+
+        let ticking = false;
+        const onScroll = () => {
+          let cur = headings[0]?.id ?? '';
+          for (const h of headings) {
+            if (h.getBoundingClientRect().top <= 120) cur = h.id;
+          }
+          // 已经滚到底部时，最后几节可能永远到不了顶部，直接高亮最后一节
+          const atBottom =
+            window.innerHeight + window.scrollY >=
+            document.documentElement.scrollHeight - 4;
+          if (atBottom && headings.length) cur = headings[headings.length - 1].id;
+          if (cur) setActive(cur);
+        };
+        window.addEventListener(
+          'scroll',
+          () => {
+            if (ticking) return;
+            ticking = true;
+            requestAnimationFrame(() => {
+              onScroll();
+              ticking = false;
+            });
+          },
+          { passive: true }
+        );
+        onScroll();
+      }
+
+      // 移动端抽屉
+      const fab = document.getElementById('toc-fab');
+      const drawer = document.getElementById('mobile-drawer');
+      if (fab && drawer) {
+        const setOpen = (open) => {
+          drawer.classList.toggle('open', open);
+          document.body.classList.toggle('drawer-open', open);
+          fab.setAttribute('aria-expanded', String(open));
+        };
+        const toggle = () => setOpen(!drawer.classList.contains('open'));
+
+        fab.addEventListener('click', toggle);
+        drawer.querySelectorAll('[data-close]').forEach((el) => {
+          el.addEventListener('click', () => setOpen(false));
+        });
+        drawer.querySelectorAll('.drawer-tab').forEach((tab) => {
+          tab.addEventListener('click', () => {
+            drawer
+              .querySelectorAll('.drawer-tab')
+              .forEach((t) => t.classList.toggle('active', t === tab));
+            drawer
+              .querySelectorAll('.drawer-pane')
+              .forEach((p) => p.classList.toggle('active', p.dataset.pane === tab.dataset.tab));
+          });
+        });
+        // 点击目录里的链接后自动收起抽屉
+        drawer.querySelectorAll('a').forEach((a) => {
+          a.addEventListener('click', () => setOpen(false));
+        });
+        document.addEventListener('keydown', (e) => {
+          if (e.key === 'Escape') setOpen(false);
+        });
+      }
     </script>
   </body>
 </html>

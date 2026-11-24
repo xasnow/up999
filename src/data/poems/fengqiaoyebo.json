@@ -1,0 +1,170 @@
+{
+  "id": "tang-zhongtang-zhangji-fengqiaoyebo",
+  "slug": "fengqiaoyebo",
+  "title": "枫桥夜泊",
+  "titlePinyin": "fēng qiáo yè bó",
+  "dynasty": "tangshi",
+  "era": "zhongtang",
+  "genre": "shi",
+  "form": "七言绝句",
+  "authorId": "zhangji",
+  "gradeBand": "g3-4",
+  "tags": [
+    "秋天",
+    "夜景",
+    "思乡",
+    "七言绝句"
+  ],
+  "difficulty": 2,
+  "writtenYear": 756,
+  "writtenLabel": "约公元 756 年（张继 41 岁，秋天船停枫桥）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "姑苏城外寒山寺，夜半钟声到客船。"
+  ],
+  "lines": [
+    {
+      "text": "月落乌啼霜满天，",
+      "pinyin": [
+        "yuè",
+        "luò",
+        "wū",
+        "tí",
+        "shuāng",
+        "mǎn",
+        "tiān"
+      ],
+      "translation": "月亮落下去，乌鸦叫着，寒气像霜一样满天。",
+      "noteIds": [
+        "n-wuti",
+        "n-shuang"
+      ]
+    },
+    {
+      "text": "江枫渔火对愁眠。",
+      "pinyin": [
+        "jiāng",
+        "fēng",
+        "yú",
+        "huǒ",
+        "duì",
+        "chóu",
+        "mián"
+      ],
+      "translation": "江边的枫树和渔船灯火，陪着我发愁，睡不着。",
+      "noteIds": [
+        "n-jiangfeng"
+      ]
+    },
+    {
+      "text": "姑苏城外寒山寺，",
+      "pinyin": [
+        "gū",
+        "sū",
+        "chéng",
+        "wài",
+        "hán",
+        "shān",
+        "sì"
+      ],
+      "translation": "姑苏城外，有一座寒山寺。",
+      "noteIds": [
+        "n-gusu"
+      ]
+    },
+    {
+      "text": "夜半钟声到客船。",
+      "pinyin": [
+        "yè",
+        "bàn",
+        "zhōng",
+        "shēng",
+        "dào",
+        "kè",
+        "chuán"
+      ],
+      "translation": "半夜里，寺里的钟声传到了我的船上。",
+      "noteIds": []
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-wuti",
+      "word": "乌啼",
+      "pinyin": "wū tí",
+      "meaning": "乌鸦的叫声。"
+    },
+    {
+      "id": "n-shuang",
+      "word": "霜",
+      "pinyin": "shuāng",
+      "meaning": "这里指夜里很冷，像下了霜。"
+    },
+    {
+      "id": "n-jiangfeng",
+      "word": "江枫",
+      "pinyin": "jiāng fēng",
+      "meaning": "江边的枫树。"
+    },
+    {
+      "id": "n-gusu",
+      "word": "姑苏",
+      "pinyin": "gū sū",
+      "meaning": "苏州的旧称。"
+    }
+  ],
+  "translation": "月亮落下去，乌鸦叫着，寒气像霜一样满天。江边的枫树和渔船灯火，陪着我发愁，睡不着。姑苏城外，有一座寒山寺。半夜里，寺里的钟声传到了我的船上。",
+  "appreciation": "这首诗写的是一夜没睡的人眼里的景色。月亮落下，乌鸦在叫，江边有枫树和渔火。诗人心里发愁，怎么也睡不着。忽然，寒山寺的钟声穿过夜色，传到船上。钟声一响，安静的夜更深了，想家的心情也更浓了。",
+  "background": "公元 756 年秋天，张继坐船经过苏州，夜里把船停在枫桥边。那时他离家在外，心里装着许多心事，翻来覆去睡不着。半夜里，寒山寺的钟声传来，他听着钟声，写下了这首诗。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "船停枫桥",
+      "text": "秋天的夜里，张继把小船停在苏州枫桥边。"
+    },
+    {
+      "step": 2,
+      "title": "夜深难眠",
+      "text": "他心里发愁，躺在船上怎么也睡不着。"
+    },
+    {
+      "step": 3,
+      "title": "看见夜色",
+      "text": "月亮落下，乌鸦叫着，江边亮着几点渔火。"
+    },
+    {
+      "step": 4,
+      "title": "钟声传来",
+      "text": "半夜里，寒山寺的钟声一声声传到船上。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "泊",
+      "reading": "bó",
+      "reason": "“夜泊”是夜里把船停下，“泊”读 bó。",
+      "standard": "不要读成 pō"
+    },
+    {
+      "char": "啼",
+      "reading": "tí",
+      "reason": "“乌啼”是乌鸦叫，“啼”读 tí。"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗鉴赏辞典》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-24",
+  "images": {
+    "cover": {
+      "src": "/assets/img/poems/fengqiaoyebo-story.jpg",
+      "width": 2560,
+      "height": 1440,
+      "alt": "《枫桥夜泊》四格分镜：船停枫桥、夜深难眠、看见夜色、钟声传来",
+      "credit": "AI 辅助生成 · up999.cn",
+      "aiGenerated": true
+    }
+  }
+}

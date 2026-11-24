@@ -1,0 +1,229 @@
+{
+  "id": "song-nansong-xinqiji-xijiangyue",
+  "slug": "xijiangyue",
+  "title": "西江月·夜行黄沙道中",
+  "titlePinyin": "xī jiāng yuè · yè xíng huáng shā dào zhōng",
+  "dynasty": "songci",
+  "era": "nansong",
+  "genre": "ci",
+  "form": "词（小令）",
+  "authorId": "xinqiji",
+  "gradeBand": "g5-6",
+  "tags": [
+    "田园",
+    "夏夜",
+    "丰收",
+    "词"
+  ],
+  "difficulty": 3,
+  "writtenYear": 1180,
+  "writtenLabel": "约公元 1180 年（辛弃疾 40 岁左右）",
+  "orderInAuthor": 2,
+  "famousLines": [
+    "稻花香里说丰年，听取蛙声一片。"
+  ],
+  "lines": [
+    {
+      "text": "明月别枝惊鹊，",
+      "pinyin": [
+        "míng",
+        "yuè",
+        "bié",
+        "zhī",
+        "jīng",
+        "què"
+      ],
+      "translation": "明月升起来，惊动了枝头的喜鹊。",
+      "noteIds": [
+        "n-biezhi"
+      ]
+    },
+    {
+      "text": "清风半夜鸣蝉。",
+      "pinyin": [
+        "qīng",
+        "fēng",
+        "bàn",
+        "yè",
+        "míng",
+        "chán"
+      ],
+      "translation": "半夜里清风阵阵，蝉在树上鸣叫。",
+      "noteIds": []
+    },
+    {
+      "text": "稻花香里说丰年，",
+      "pinyin": [
+        "dào",
+        "huā",
+        "xiāng",
+        "lǐ",
+        "shuō",
+        "fēng",
+        "nián"
+      ],
+      "translation": "稻花的香气里，人们说着丰收的年景。",
+      "noteIds": [
+        "n-fengnian"
+      ]
+    },
+    {
+      "text": "听取蛙声一片。",
+      "pinyin": [
+        "tīng",
+        "qǔ",
+        "wā",
+        "shēng",
+        "yī",
+        "piàn"
+      ],
+      "translation": "耳边是一片片的青蛙叫声。",
+      "noteIds": []
+    },
+    {
+      "text": "七八个星天外，",
+      "pinyin": [
+        "qī",
+        "bā",
+        "gè",
+        "xīng",
+        "tiān",
+        "wài"
+      ],
+      "translation": "天边挂着七八颗星星。",
+      "noteIds": []
+    },
+    {
+      "text": "两三点雨山前。",
+      "pinyin": [
+        "liǎng",
+        "sān",
+        "diǎn",
+        "yǔ",
+        "shān",
+        "qián"
+      ],
+      "translation": "山前落下两三点小雨。",
+      "noteIds": []
+    },
+    {
+      "text": "旧时茅店社林边，",
+      "pinyin": [
+        "jiù",
+        "shí",
+        "máo",
+        "diàn",
+        "shè",
+        "lín",
+        "biān"
+      ],
+      "translation": "从前那家小店，就在土地庙旁的树林边。",
+      "noteIds": [
+        "n-maodian",
+        "n-she"
+      ]
+    },
+    {
+      "text": "路转溪桥忽见。",
+      "pinyin": [
+        "lù",
+        "zhuǎn",
+        "xī",
+        "qiáo",
+        "hū",
+        "xiàn"
+      ],
+      "translation": "路一转弯，溪上的小桥忽然出现在眼前。",
+      "noteIds": [
+        "n-jian"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-biezhi",
+      "word": "别枝",
+      "pinyin": "bié zhī",
+      "meaning": "斜着伸出去的树枝。"
+    },
+    {
+      "id": "n-fengnian",
+      "word": "丰年",
+      "pinyin": "fēng nián",
+      "meaning": "庄稼收成很好的年份。"
+    },
+    {
+      "id": "n-maodian",
+      "word": "茅店",
+      "pinyin": "máo diàn",
+      "meaning": "茅草盖顶的小客店，赶路的人可以歇脚。"
+    },
+    {
+      "id": "n-she",
+      "word": "社林",
+      "pinyin": "shè lín",
+      "meaning": "土地庙旁边的树林，“社”指土地庙。"
+    },
+    {
+      "id": "n-jian",
+      "word": "见",
+      "pinyin": "xiàn",
+      "meaning": "这里同“现”，是出现的意思。"
+    }
+  ],
+  "translation": "明月升起来，惊动了枝头的喜鹊。半夜里清风阵阵，蝉在鸣叫。稻花的香气里，人们说着丰收的年景，耳边是一片蛙声。天边挂着七八颗星星，山前落下两三点小雨。从前那家小店，就在土地庙旁的树林边。路一转弯，溪上的小桥忽然出现在眼前。",
+  "appreciation": "这首词像一场夏夜的散步。上片先写眼睛看到的月亮、喜鹊和蝉，再写鼻子闻到的稻花香，最后写耳朵听到的一片蛙声。下片忽然下起小雨，词人急着找地方躲，一转弯，熟悉的小桥小店就出现了。又惊又喜，全在这一转之间。",
+  "background": "辛弃疾被罢官后，住在江西上饶。这里有大片稻田，也有山有溪。一个夏天的晚上，他从外面走夜路回家，一路看见月亮、听见蛙声，还淋了几点小雨。回到家后，他把路上的见闻写成了这首词。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "月出惊鹊",
+      "text": "夏夜，明月升起来，把枝头的喜鹊惊动了。"
+    },
+    {
+      "step": 2,
+      "title": "蝉鸣蛙叫",
+      "text": "清风里蝉在叫，稻田边传来一片蛙声。"
+    },
+    {
+      "step": 3,
+      "title": "闻到稻香",
+      "text": "人们闻着稻花香，笑着说今年又是丰收年。"
+    },
+    {
+      "step": 4,
+      "title": "转过溪桥",
+      "text": "下了几点小雨，一转弯，熟悉的小桥出现了。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "见",
+      "reading": "xiàn",
+      "reason": "“忽见”是忽然出现，同“现”。",
+      "standard": "这里不读 jiàn"
+    },
+    {
+      "char": "鹊",
+      "reading": "què",
+      "reason": "“惊鹊”指喜鹊，是鸟名。",
+      "standard": "注意是第四声，不读 qiè"
+    }
+  ],
+  "sources": [
+    "部编版语文六年级上册",
+    "《稼轩长短句》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-24",
+  "images": {
+    "cover": {
+      "src": "/assets/img/poems/xijiangyue-story.jpg",
+      "width": 2560,
+      "height": 1440,
+      "alt": "《西江月·夜行黄沙道中》四格分镜：月出惊鹊、蝉鸣蛙叫、闻到稻香、转过溪桥",
+      "credit": "AI 辅助生成 · up999.cn",
+      "aiGenerated": true
+    }
+  }
+}

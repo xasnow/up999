@@ -1,0 +1,171 @@
+{
+  "id": "tang-zhongtang-liuyuxi-wangdongting",
+  "slug": "wangdongting",
+  "title": "望洞庭",
+  "titlePinyin": "wàng dòng tíng",
+  "dynasty": "tangshi",
+  "era": "zhongtang",
+  "genre": "shi",
+  "form": "七言绝句",
+  "authorId": "liuyuxi",
+  "gradeBand": "g3-4",
+  "tags": [
+    "秋天",
+    "洞庭湖",
+    "山水",
+    "七言绝句"
+  ],
+  "difficulty": 2,
+  "writtenYear": 824,
+  "writtenLabel": "约公元 824 年（刘禹锡 52 岁，路过洞庭湖）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "遥望洞庭山水翠，白银盘里一青螺。"
+  ],
+  "lines": [
+    {
+      "text": "湖光秋月两相和，",
+      "pinyin": [
+        "hú",
+        "guāng",
+        "qiū",
+        "yuè",
+        "liǎng",
+        "xiāng",
+        "hé"
+      ],
+      "translation": "湖水和秋夜的月光，融在一起，很和谐。",
+      "noteIds": [
+        "n-he"
+      ]
+    },
+    {
+      "text": "潭面无风镜未磨。",
+      "pinyin": [
+        "tán",
+        "miàn",
+        "wú",
+        "fēng",
+        "jìng",
+        "wèi",
+        "mó"
+      ],
+      "translation": "湖面没有风，像一面没有磨过的镜子。",
+      "noteIds": [
+        "n-tan",
+        "n-mo"
+      ]
+    },
+    {
+      "text": "遥望洞庭山水翠，",
+      "pinyin": [
+        "yáo",
+        "wàng",
+        "dòng",
+        "tíng",
+        "shān",
+        "shuǐ",
+        "cuì"
+      ],
+      "translation": "远远望去，洞庭湖和君山一片青翠。",
+      "noteIds": []
+    },
+    {
+      "text": "白银盘里一青螺。",
+      "pinyin": [
+        "bái",
+        "yín",
+        "pán",
+        "lǐ",
+        "yī",
+        "qīng",
+        "luó"
+      ],
+      "translation": "就像白银盘子里，放着一只小小的青螺。",
+      "noteIds": [
+        "n-luo"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-he",
+      "word": "和",
+      "pinyin": "hé",
+      "meaning": "和谐，融在一起。"
+    },
+    {
+      "id": "n-tan",
+      "word": "潭",
+      "pinyin": "tán",
+      "meaning": "深水，这里指洞庭湖。"
+    },
+    {
+      "id": "n-mo",
+      "word": "磨",
+      "pinyin": "mó",
+      "meaning": "打磨，摩擦。"
+    },
+    {
+      "id": "n-luo",
+      "word": "青螺",
+      "pinyin": "qīng luó",
+      "meaning": "青色的螺，这里比喻湖中的君山。"
+    }
+  ],
+  "translation": "湖水和秋夜的月光，融在一起，很和谐。湖面没有风，像一面没有磨过的镜子。远远望去，洞庭湖和君山一片青翠。就像白银盘子里，放着一只小小的青螺。",
+  "appreciation": "诗人把洞庭湖写成了一件宝贝。月光照在湖面上，湖水亮亮的，像一面没磨过的镜子。远处的君山绿绿的，像白银盘里的一只小青螺。这样的比喻又新鲜又可爱，读起来好像在看一幅会发光的画。",
+  "background": "公元 824 年秋天，刘禹锡坐船经过洞庭湖。那天晚上没有风，湖面很平静。月光洒在水上，远处的君山绿得像一块玉。他被这景色吸引，写下了这首《望洞庭》。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "秋夜湖边",
+      "text": "秋天的夜里，刘禹锡来到洞庭湖边。"
+    },
+    {
+      "step": 2,
+      "title": "湖水平静",
+      "text": "湖面没有风，像一面没有磨过的镜子。"
+    },
+    {
+      "step": 3,
+      "title": "月光相融",
+      "text": "月光和湖水融在一起，亮亮的，很温柔。"
+    },
+    {
+      "step": 4,
+      "title": "君山如螺",
+      "text": "远处的君山，像白银盘里的一只小青螺。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "和",
+      "reading": "hé",
+      "reason": "“相和”是互相融和，“和”读 hé。",
+      "standard": "表示和面时读 huó"
+    },
+    {
+      "char": "磨",
+      "reading": "mó",
+      "reason": "“镜未磨”是没有打磨过，“磨”读 mó。",
+      "standard": "表示石磨时读 mò"
+    }
+  ],
+  "sources": [
+    "《刘禹锡集》",
+    "《唐诗鉴赏辞典》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-24",
+  "images": {
+    "cover": {
+      "src": "/assets/img/poems/wangdongting-story.jpg",
+      "width": 2560,
+      "height": 1440,
+      "alt": "《望洞庭》四格分镜：秋夜湖边、湖水平静、月光相融、君山如螺",
+      "credit": "AI 辅助生成 · up999.cn",
+      "aiGenerated": true
+    }
+  }
+}

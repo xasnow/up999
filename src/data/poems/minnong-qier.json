@@ -1,0 +1,150 @@
+{
+  "id": "tang-zhongtang-lishen-minnong-qier",
+  "slug": "minnong-qier",
+  "title": "悯农（其二）",
+  "titlePinyin": "mǐn nóng",
+  "dynasty": "tangshi",
+  "era": "zhongtang",
+  "genre": "shi",
+  "form": "五言古诗",
+  "authorId": "lishen",
+  "gradeBand": "g1-2",
+  "textbook": "部编版二年级上册",
+  "tags": [
+    "农民",
+    "劳动",
+    "爱惜粮食",
+    "五言古诗"
+  ],
+  "difficulty": 1,
+  "writtenYear": 799,
+  "writtenLabel": "约公元 799 年（李绅青年时期）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "谁知盘中餐，粒粒皆辛苦。"
+  ],
+  "lines": [
+    {
+      "text": "锄禾日当午，",
+      "pinyin": [
+        "chú",
+        "hé",
+        "rì",
+        "dāng",
+        "wǔ"
+      ],
+      "translation": "农民在正午的太阳下给禾苗锄草，",
+      "noteIds": [
+        "n-chu",
+        "n-dang"
+      ]
+    },
+    {
+      "text": "汗滴禾下土。",
+      "pinyin": [
+        "hàn",
+        "dī",
+        "hé",
+        "xià",
+        "tǔ"
+      ],
+      "translation": "汗水一滴滴落进禾苗下的泥土里。",
+      "noteIds": []
+    },
+    {
+      "text": "谁知盘中餐，",
+      "pinyin": [
+        "shuí",
+        "zhī",
+        "pán",
+        "zhōng",
+        "cān"
+      ],
+      "translation": "谁知道碗里的每一口饭，",
+      "noteIds": [
+        "n-panzhongcan"
+      ]
+    },
+    {
+      "text": "粒粒皆辛苦。",
+      "pinyin": [
+        "lì",
+        "lì",
+        "jiē",
+        "xīn",
+        "kǔ"
+      ],
+      "translation": "每一粒都来得这样辛苦呢？",
+      "noteIds": []
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-chu",
+      "word": "锄禾",
+      "pinyin": "chú hé",
+      "meaning": "给禾苗松土、除草。"
+    },
+    {
+      "id": "n-dang",
+      "word": "当",
+      "pinyin": "dāng",
+      "meaning": "正对着，正在。"
+    },
+    {
+      "id": "n-panzhongcan",
+      "word": "盘中餐",
+      "pinyin": "pán zhōng cān",
+      "meaning": "盘子里的饭菜，这里指我们吃的饭。"
+    }
+  ],
+  "translation": "农民在中午最热的太阳下锄草，汗水一滴滴落进禾苗下的泥土。谁知道我们碗里的饭，每一粒都来得这么辛苦呢？",
+  "appreciation": "这首诗只有二十个字，却像一张照片。前两句写中午的田里，太阳晒得人直流汗。后两句忽然问了一句：你知道饭是怎么来的吗？问题很轻，分量却很重。“粒粒皆辛苦”五个字，让每一粒米都有了故事。吃饭的时候想一想，就不容易浪费了。",
+  "background": "李绅是唐朝的诗人，他常常走到田边看农民干活。夏天的中午，太阳最毒，农民还在地里锄草。汗水顺着脸往下流，一滴滴落进泥土。李绅看了心里很难受，就写下这首诗，提醒大家爱惜粮食。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "中午的太阳",
+      "text": "夏天的中午，太阳火辣辣的，晒得地面都发烫。"
+    },
+    {
+      "step": 2,
+      "title": "田里的农民",
+      "text": "农民弯着腰，一下一下地锄草，衣服早被汗湿透了。"
+    },
+    {
+      "step": 3,
+      "title": "汗水落进土",
+      "text": "汗珠从脸上滚下来，一滴一滴落进禾苗下的泥土里。"
+    },
+    {
+      "step": 4,
+      "title": "想起碗里的饭",
+      "text": "诗人想：我们碗里的每一粒米，都是这样辛苦换来的。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "当",
+      "reading": "dāng",
+      "reason": "“日当午”的“当”是正对着的意思，读 dāng。",
+      "standard": "上当、典当的“当”读 dàng"
+    }
+  ],
+  "sources": [
+    "部编版语文二年级上册",
+    "《全唐诗》李绅卷"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-24",
+  "images": {
+    "cover": {
+      "src": "/assets/img/poems/minnong-qier-story.jpg",
+      "width": 2560,
+      "height": 1440,
+      "alt": "《悯农（其二）》四格分镜：中午的太阳、田里的农民、汗水落进土、想起碗里的饭",
+      "credit": "AI 辅助生成 · up999.cn",
+      "aiGenerated": true
+    }
+  }
+}

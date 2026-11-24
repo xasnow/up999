@@ -10,60 +10,130 @@
   "authorId": "xinqiji",
   "gradeBand": "g3-4",
   "textbook": "部编版四年级下册",
-  "tags": ["田园", "家庭生活", "温馨", "词"],
+  "tags": [
+    "田园",
+    "家庭生活",
+    "温馨",
+    "词"
+  ],
   "difficulty": 2,
   "writtenYear": 1182,
   "writtenLabel": "约公元 1182 年（辛弃疾闲居江西上饶带湖时期）",
   "orderInAuthor": 1,
-  "famousLines": ["最喜小儿亡赖，溪头卧剥莲蓬。"],
+  "famousLines": [
+    "最喜小儿亡赖，溪头卧剥莲蓬。"
+  ],
   "lines": [
     {
       "text": "茅檐低小，",
-      "pinyin": ["máo", "yán", "dī", "xiǎo"],
+      "pinyin": [
+        "máo",
+        "yán",
+        "dī",
+        "xiǎo"
+      ],
       "translation": "低矮的小茅屋旁，",
       "noteIds": []
     },
     {
       "text": "溪上青青草。",
-      "pinyin": ["xī", "shàng", "qīng", "qīng", "cǎo"],
+      "pinyin": [
+        "xī",
+        "shàng",
+        "qīng",
+        "qīng",
+        "cǎo"
+      ],
       "translation": "小溪边长满了绿绿的青草。",
       "noteIds": []
     },
     {
       "text": "醉里吴音相媚好，",
-      "pinyin": ["zuì", "lǐ", "wú", "yīn", "xiāng", "mèi", "hǎo"],
+      "pinyin": [
+        "zuì",
+        "lǐ",
+        "wú",
+        "yīn",
+        "xiāng",
+        "mèi",
+        "hǎo"
+      ],
       "translation": "带着一点醉意的吴地方言，听起来又温柔又亲热，",
-      "noteIds": ["n-wuyin", "n-meihao"]
+      "noteIds": [
+        "n-wuyin",
+        "n-meihao"
+      ]
     },
     {
       "text": "白发谁家翁媪？",
-      "pinyin": ["bái", "fà", "shéi", "jiā", "wēng", "ǎo"],
+      "pinyin": [
+        "bái",
+        "fà",
+        "shéi",
+        "jiā",
+        "wēng",
+        "ǎo"
+      ],
       "translation": "那是谁家的老爷爷、老奶奶在说说笑笑呢？",
-      "noteIds": ["n-wengao"]
+      "noteIds": [
+        "n-wengao"
+      ]
     },
     {
       "text": "大儿锄豆溪东，",
-      "pinyin": ["dà", "ér", "chú", "dòu", "xī", "dōng"],
+      "pinyin": [
+        "dà",
+        "ér",
+        "chú",
+        "dòu",
+        "xī",
+        "dōng"
+      ],
       "translation": "大儿子在小溪东边的豆田里锄草，",
       "noteIds": []
     },
     {
       "text": "中儿正织鸡笼。",
-      "pinyin": ["zhōng", "ér", "zhèng", "zhī", "jī", "lóng"],
+      "pinyin": [
+        "zhōng",
+        "ér",
+        "zhèng",
+        "zhī",
+        "jī",
+        "lóng"
+      ],
       "translation": "二儿子正在院子里编织鸡笼。",
       "noteIds": []
     },
     {
       "text": "最喜小儿亡赖，",
-      "pinyin": ["zuì", "xǐ", "xiǎo", "ér", "wú", "lài"],
+      "pinyin": [
+        "zuì",
+        "xǐ",
+        "xiǎo",
+        "ér",
+        "wú",
+        "lài"
+      ],
       "translation": "最讨人喜欢的是调皮的小儿子，",
-      "noteIds": ["n-wanglai"]
+      "noteIds": [
+        "n-wanglai"
+      ]
     },
     {
       "text": "溪头卧剥莲蓬。",
-      "pinyin": ["xī", "tóu", "wò", "bō", "lián", "péng"],
+      "pinyin": [
+        "xī",
+        "tóu",
+        "wò",
+        "bō",
+        "lián",
+        "péng"
+      ],
       "translation": "他正横躺在小溪边，剥着莲蓬吃呢。",
-      "noteIds": ["n-bo"]
+      "noteIds": [
+        "n-bo"
+      ]
     }
   ],
   "notes": [
@@ -150,15 +220,18 @@
   ],
   "images": {
     "cover": {
-      "src": "/assets/img/poems/qingpingle-cunju-cover.jpg",
+      "src": "/assets/img/poems/qingpingle-cunju-story.jpg",
       "width": 2560,
       "height": 1440,
-      "alt": "溪边茅屋的农家：白发老夫妻坐着说笑，大儿子锄豆、二儿子编鸡笼，小儿子躺在溪边吃莲蓬",
+      "alt": "《清平乐·村居》四格分镜：一间小茅屋、传来说话声、是谁在聊天？、大儿二儿在干活、最可爱的小儿子",
       "credit": "AI 辅助生成 · up999.cn",
       "aiGenerated": true
     }
   },
-  "sources": ["部编版语文四年级下册", "《稼轩长短句》"],
-  "status": "reviewed",
+  "sources": [
+    "部编版语文四年级下册",
+    "《稼轩长短句》"
+  ],
+  "status": "published",
   "updatedAt": "2026-11-24"
 }

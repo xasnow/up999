@@ -1,0 +1,177 @@
+{
+  "id": "tang-shengtang-wangwei-songyuaner",
+  "slug": "songyuaner",
+  "title": "送元二使安西",
+  "titlePinyin": "sòng yuán èr shǐ ān xī",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "七言绝句",
+  "authorId": "wangwei",
+  "gradeBand": "g5-6",
+  "tags": [
+    "送别",
+    "友情",
+    "柳树",
+    "七言绝句"
+  ],
+  "difficulty": 2,
+  "writtenYear": 740,
+  "writtenLabel": "约公元 740 年（王维在渭城送朋友远行）",
+  "orderInAuthor": 2,
+  "famousLines": [
+    "劝君更尽一杯酒，西出阳关无故人。"
+  ],
+  "lines": [
+    {
+      "text": "渭城朝雨浥轻尘，",
+      "pinyin": [
+        "wèi",
+        "chéng",
+        "zhāo",
+        "yǔ",
+        "yì",
+        "qīng",
+        "chén"
+      ],
+      "translation": "渭城早晨下了一场小雨，把路上的灰尘打湿了。",
+      "noteIds": [
+        "n-weicheng",
+        "n-yi"
+      ]
+    },
+    {
+      "text": "客舍青青柳色新。",
+      "pinyin": [
+        "kè",
+        "shè",
+        "qīng",
+        "qīng",
+        "liǔ",
+        "sè",
+        "xīn"
+      ],
+      "translation": "旅店旁的柳树，被雨洗得又青又亮。",
+      "noteIds": [
+        "n-she"
+      ]
+    },
+    {
+      "text": "劝君更尽一杯酒，",
+      "pinyin": [
+        "quàn",
+        "jūn",
+        "gèng",
+        "jìn",
+        "yī",
+        "bēi",
+        "jiǔ"
+      ],
+      "translation": "朋友，请你再喝一杯酒吧。",
+      "noteIds": [
+        "n-geng"
+      ]
+    },
+    {
+      "text": "西出阳关无故人。",
+      "pinyin": [
+        "xī",
+        "chū",
+        "yáng",
+        "guān",
+        "wú",
+        "gù",
+        "rén"
+      ],
+      "translation": "往西出了阳关，就再没有老朋友陪你了。",
+      "noteIds": []
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-weicheng",
+      "word": "渭城",
+      "pinyin": "wèi chéng",
+      "meaning": "在长安西边，是送朋友远行时常到的地方。"
+    },
+    {
+      "id": "n-yi",
+      "word": "浥",
+      "pinyin": "yì",
+      "meaning": "沾湿，打湿。"
+    },
+    {
+      "id": "n-she",
+      "word": "客舍",
+      "pinyin": "kè shè",
+      "meaning": "给赶路的人住的小旅店。"
+    },
+    {
+      "id": "n-geng",
+      "word": "更尽",
+      "pinyin": "gèng jìn",
+      "meaning": "再喝完。"
+    }
+  ],
+  "translation": "渭城早晨下了一场小雨，把路上的灰尘打湿了。旅店旁的柳树，被雨洗得又青又亮。朋友，请你再喝一杯酒吧。往西出了阳关，就再没有老朋友陪你了。",
+  "appreciation": "这首诗像一个小镜头：小雨刚停，柳树很绿，两个朋友在旅店门口举杯。诗人没有说“我舍不得你”，只是劝朋友再喝一杯。因为出了阳关，路很远，老朋友就少了。一杯酒里，装满了说不出口的牵挂。",
+  "background": "公元 740 年前后，王维在渭城送好朋友元二。元二要往西去安西，那里离长安很远，路上要走很久。王维在旅店外摆了酒，看着雨后的柳树，写下这首诗送给他。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "雨后的早晨",
+      "text": "渭城下了一夜小雨，早晨路上湿湿的，空气很清爽。"
+    },
+    {
+      "step": 2,
+      "title": "柳树青青",
+      "text": "旅店旁的柳树被雨洗过，绿得发亮。"
+    },
+    {
+      "step": 3,
+      "title": "再喝一杯",
+      "text": "王维端起酒杯，请元二再喝一杯，慢慢喝。"
+    },
+    {
+      "step": 4,
+      "title": "一路保重",
+      "text": "他轻声说：往西出了阳关，就没有老朋友陪你了。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "浥",
+      "reading": "yì",
+      "reason": "“浥轻尘”是打湿了轻尘，读 yì。",
+      "standard": "不要读成 yí"
+    },
+    {
+      "char": "舍",
+      "reading": "shè",
+      "reason": "“客舍”是旅店，读 shè。",
+      "standard": "不要读成 shě"
+    },
+    {
+      "char": "更",
+      "reading": "gèng",
+      "reason": "“更尽一杯”是再喝完一杯，读 gèng。",
+      "standard": "不要读成 gēng"
+    }
+  ],
+  "sources": [
+    "《王右丞集》",
+    "《唐诗鉴赏辞典》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-24",
+  "images": {
+    "cover": {
+      "src": "/assets/img/poems/songyuaner-story.jpg",
+      "width": 2560,
+      "height": 1440,
+      "alt": "《送元二使安西》四格分镜：雨后的早晨、柳树青青、再喝一杯、一路保重",
+      "credit": "AI 辅助生成 · up999.cn",
+      "aiGenerated": true
+    }
+  }
+}

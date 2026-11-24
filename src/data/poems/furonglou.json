@@ -1,0 +1,171 @@
+{
+  "id": "tang-shengtang-wangchangling-furonglou",
+  "slug": "furonglou",
+  "title": "芙蓉楼送辛渐",
+  "titlePinyin": "fú róng lóu sòng xīn jiàn",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "七言绝句",
+  "authorId": "wangchangling",
+  "gradeBand": "g5-6",
+  "tags": [
+    "送别",
+    "友情",
+    "品格",
+    "七言绝句"
+  ],
+  "difficulty": 3,
+  "writtenYear": 742,
+  "writtenLabel": "约公元 742 年（王昌龄在江南送朋友）",
+  "orderInAuthor": 2,
+  "famousLines": [
+    "洛阳亲友如相问，一片冰心在玉壶。"
+  ],
+  "lines": [
+    {
+      "text": "寒雨连江夜入吴，",
+      "pinyin": [
+        "hán",
+        "yǔ",
+        "lián",
+        "jiāng",
+        "yè",
+        "rù",
+        "wú"
+      ],
+      "translation": "夜里冷雨和江水连成一片，一直下到吴地。",
+      "noteIds": [
+        "n-wu"
+      ]
+    },
+    {
+      "text": "平明送客楚山孤。",
+      "pinyin": [
+        "píng",
+        "míng",
+        "sòng",
+        "kè",
+        "chǔ",
+        "shān",
+        "gū"
+      ],
+      "translation": "天刚亮我送走朋友，只剩楚山孤零零地立着。",
+      "noteIds": [
+        "n-pingming",
+        "n-chushan"
+      ]
+    },
+    {
+      "text": "洛阳亲友如相问，",
+      "pinyin": [
+        "luò",
+        "yáng",
+        "qīn",
+        "yǒu",
+        "rú",
+        "xiāng",
+        "wèn"
+      ],
+      "translation": "到了洛阳，如果亲友问起我。",
+      "noteIds": []
+    },
+    {
+      "text": "一片冰心在玉壶。",
+      "pinyin": [
+        "yī",
+        "piàn",
+        "bīng",
+        "xīn",
+        "zài",
+        "yù",
+        "hú"
+      ],
+      "translation": "就说我的心，还像玉壶里的冰一样干净。",
+      "noteIds": [
+        "n-bingxin"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-wu",
+      "word": "吴",
+      "pinyin": "wú",
+      "meaning": "古时候指长江下游一带，也就是今天的江苏南部。"
+    },
+    {
+      "id": "n-pingming",
+      "word": "平明",
+      "pinyin": "píng míng",
+      "meaning": "天刚亮的时候。"
+    },
+    {
+      "id": "n-chushan",
+      "word": "楚山",
+      "pinyin": "chǔ shān",
+      "meaning": "送别地方附近的山。"
+    },
+    {
+      "id": "n-bingxin",
+      "word": "冰心",
+      "pinyin": "bīng xīn",
+      "meaning": "像冰一样干净的心，说的是人很正直。"
+    }
+  ],
+  "translation": "夜里冷雨和江水连成一片，一直下到吴地。天刚亮我送走朋友，只剩楚山孤零零地立着。到了洛阳，如果亲友问起我，就说我的心还像玉壶里的冰一样干净。",
+  "appreciation": "前两句写送别：雨下了一夜，天亮时朋友走了，山显得格外孤单。后两句不是叮嘱路上小心，而是请朋友带一句话回去。诗人用“冰心”“玉壶”说自己心里干干净净。这样告别，既不哭也不闹，却让人记得很久。",
+  "background": "公元 742 年前后，王昌龄在江南做官。好朋友辛渐要回洛阳，他在芙蓉楼摆酒送行。那一夜下着冷雨，天亮时朋友要走了，他写下这首诗，请朋友把自己的心意带给洛阳的亲友。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "夜雨连江",
+      "text": "夜里下起冷雨，雨和江水连成一片，一直下到吴地。"
+    },
+    {
+      "step": 2,
+      "title": "天亮送别",
+      "text": "天刚亮，王昌龄在芙蓉楼送好朋友辛渐上船。"
+    },
+    {
+      "step": 3,
+      "title": "山也孤单",
+      "text": "朋友走远了，只剩江边的楚山孤零零地立着。"
+    },
+    {
+      "step": 4,
+      "title": "带一句话",
+      "text": "他请朋友捎句话：我的心还像玉壶里的冰一样干净。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "平明",
+      "reading": "píng míng",
+      "reason": "“平明”是天刚亮，读 píng míng。",
+      "standard": "“平”不要读成 pín"
+    },
+    {
+      "char": "冰心",
+      "reading": "bīng xīn",
+      "reason": "“冰心”是像冰一样干净的心。",
+      "standard": "“冰”不要读成 bīn"
+    }
+  ],
+  "sources": [
+    "《王昌龄集》",
+    "《唐诗鉴赏辞典》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-24",
+  "images": {
+    "cover": {
+      "src": "/assets/img/poems/furonglou-story.jpg",
+      "width": 2560,
+      "height": 1440,
+      "alt": "《芙蓉楼送辛渐》四格分镜：夜雨连江、天亮送别、山也孤单、带一句话",
+      "credit": "AI 辅助生成 · up999.cn",
+      "aiGenerated": true
+    }
+  }
+}

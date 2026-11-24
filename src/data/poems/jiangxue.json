@@ -1,0 +1,162 @@
+{
+  "id": "tang-zhongtang-liuzongyuan-jiangxue",
+  "slug": "jiangxue",
+  "title": "江雪",
+  "titlePinyin": "jiāng xuě",
+  "dynasty": "tangshi",
+  "era": "zhongtang",
+  "genre": "shi",
+  "form": "五言绝句",
+  "authorId": "liuzongyuan",
+  "gradeBand": "g3-4",
+  "tags": [
+    "冬天",
+    "山水",
+    "孤独",
+    "五言绝句"
+  ],
+  "difficulty": 2,
+  "writtenYear": 806,
+  "writtenLabel": "约公元 806 年（柳宗元 33 岁，住在永州）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "孤舟蓑笠翁，独钓寒江雪。"
+  ],
+  "lines": [
+    {
+      "text": "千山鸟飞绝，",
+      "pinyin": [
+        "qiān",
+        "shān",
+        "niǎo",
+        "fēi",
+        "jué"
+      ],
+      "translation": "群山之中，一只鸟也看不见了。",
+      "noteIds": [
+        "n-jue"
+      ]
+    },
+    {
+      "text": "万径人踪灭。",
+      "pinyin": [
+        "wàn",
+        "jìng",
+        "rén",
+        "zōng",
+        "miè"
+      ],
+      "translation": "所有小路上，都没有人的脚印。",
+      "noteIds": [
+        "n-jing",
+        "n-zong"
+      ]
+    },
+    {
+      "text": "孤舟蓑笠翁，",
+      "pinyin": [
+        "gū",
+        "zhōu",
+        "suō",
+        "lì",
+        "wēng"
+      ],
+      "translation": "一条小船上，坐着戴斗笠、穿蓑衣的老翁。",
+      "noteIds": [
+        "n-suoli"
+      ]
+    },
+    {
+      "text": "独钓寒江雪。",
+      "pinyin": [
+        "dú",
+        "diào",
+        "hán",
+        "jiāng",
+        "xuě"
+      ],
+      "translation": "他独自在寒冷的江面上，冒着雪钓鱼。",
+      "noteIds": []
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-jue",
+      "word": "绝",
+      "pinyin": "jué",
+      "meaning": "断绝，这里指看不见。"
+    },
+    {
+      "id": "n-jing",
+      "word": "径",
+      "pinyin": "jìng",
+      "meaning": "小路。"
+    },
+    {
+      "id": "n-zong",
+      "word": "踪",
+      "pinyin": "zōng",
+      "meaning": "脚印，踪迹。"
+    },
+    {
+      "id": "n-suoli",
+      "word": "蓑笠",
+      "pinyin": "suō lì",
+      "meaning": "蓑衣和斗笠，都是古人挡雨雪的工具。"
+    }
+  ],
+  "translation": "群山之中，一只鸟也看不见了。所有小路上，都没有人的脚印。一条小船上，坐着戴斗笠、穿蓑衣的老翁。他独自在寒冷的江面上，冒着雪钓鱼。",
+  "appreciation": "这首诗像一幅安静的雪景图。山上看不见鸟，路上看不见人，天地间只剩下一只小船。船上一位老翁，穿着蓑衣、戴着斗笠，在雪里钓鱼。他看起来孤单，却又很从容。诗人用“独”字，把安静和坚强都写了出来。",
+  "background": "柳宗元被派到永州做官，一住就是十年。那里冬天又冷又安静，他常常一个人到江边散步。看着空空的群山和寂静的江水，他写下了这首《江雪》。诗里也有他孤单却不服输的心情。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "大雪封山",
+      "text": "冬天下起大雪，群山和道路都安静下来。"
+    },
+    {
+      "step": 2,
+      "title": "不见人影",
+      "text": "天上没有鸟飞，地上没有人的脚印。"
+    },
+    {
+      "step": 3,
+      "title": "一叶小舟",
+      "text": "江面上只有一条小船，船上坐着一位老翁。"
+    },
+    {
+      "step": 4,
+      "title": "雪中独钓",
+      "text": "他穿着蓑衣、戴着斗笠，独自在江上钓鱼。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "径",
+      "reading": "jìng",
+      "reason": "“万径”是小路的意思，“径”读 jìng。",
+      "standard": "不要读成 jīng"
+    },
+    {
+      "char": "蓑笠",
+      "reading": "suō lì",
+      "reason": "“蓑”读 suō，“笠”读 lì，两个音都要读准。"
+    }
+  ],
+  "sources": [
+    "《柳河东集》",
+    "《唐诗鉴赏辞典》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-24",
+  "images": {
+    "cover": {
+      "src": "/assets/img/poems/jiangxue-story.jpg",
+      "width": 2560,
+      "height": 1440,
+      "alt": "《江雪》四格分镜：大雪封山、不见人影、一叶小舟、雪中独钓",
+      "credit": "AI 辅助生成 · up999.cn",
+      "aiGenerated": true
+    }
+  }
+}

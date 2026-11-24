@@ -10,36 +10,76 @@
   "authorId": "menghaoran",
   "gradeBand": "g1-2",
   "textbook": "部编版一年级下册",
-  "tags": ["春天", "早晨", "爱护花草", "五言绝句"],
+  "tags": [
+    "春天",
+    "早晨",
+    "爱护花草",
+    "五言绝句"
+  ],
   "difficulty": 1,
   "writtenYear": 728,
   "writtenLabel": "约公元 728 年（孟浩然隐居襄阳时期）",
   "orderInAuthor": 1,
-  "famousLines": ["春眠不觉晓，处处闻啼鸟。"],
+  "famousLines": [
+    "春眠不觉晓，处处闻啼鸟。"
+  ],
   "lines": [
     {
       "text": "春眠不觉晓，",
-      "pinyin": ["chūn", "mián", "bù", "jué", "xiǎo"],
+      "pinyin": [
+        "chūn",
+        "mián",
+        "bù",
+        "jué",
+        "xiǎo"
+      ],
       "translation": "春天的觉睡得真香，不知不觉天就亮了。",
-      "noteIds": ["n-jue"]
+      "noteIds": [
+        "n-jue"
+      ]
     },
     {
       "text": "处处闻啼鸟。",
-      "pinyin": ["chù", "chù", "wén", "tí", "niǎo"],
+      "pinyin": [
+        "chù",
+        "chù",
+        "wén",
+        "tí",
+        "niǎo"
+      ],
       "translation": "醒来时，到处都能听到小鸟叽叽喳喳的叫声。",
-      "noteIds": ["n-wen", "n-tiniao"]
+      "noteIds": [
+        "n-wen",
+        "n-tiniao"
+      ]
     },
     {
       "text": "夜来风雨声，",
-      "pinyin": ["yè", "lái", "fēng", "yǔ", "shēng"],
+      "pinyin": [
+        "yè",
+        "lái",
+        "fēng",
+        "yǔ",
+        "shēng"
+      ],
       "translation": "想起昨夜里，风声和雨声一阵接一阵。",
-      "noteIds": ["n-yelai"]
+      "noteIds": [
+        "n-yelai"
+      ]
     },
     {
       "text": "花落知多少。",
-      "pinyin": ["huā", "luò", "zhī", "duō", "shǎo"],
+      "pinyin": [
+        "huā",
+        "luò",
+        "zhī",
+        "duō",
+        "shǎo"
+      ],
       "translation": "不知道有多少花儿，被风雨打落了呀。",
-      "noteIds": ["n-zhiduoshao"]
+      "noteIds": [
+        "n-zhiduoshao"
+      ]
     }
   ],
   "notes": [
@@ -109,15 +149,18 @@
   ],
   "images": {
     "cover": {
-      "src": "/assets/img/poems/chunxiao-cover.jpg",
+      "src": "/assets/img/poems/chunxiao-story.jpg",
       "width": 2560,
       "height": 1440,
-      "alt": "春天清晨的茅屋：诗人推开窗伸懒腰，柳枝上三只小鸟在鸣叫，草地上落满粉色花瓣",
+      "alt": "《春晓》四格分镜：睡到自然醒、鸟叫声叫醒他、想起昨夜风雨、担心花儿落了",
       "credit": "AI 辅助生成 · up999.cn",
       "aiGenerated": true
     }
   },
-  "sources": ["部编版语文一年级下册", "《孟浩然集》"],
-  "status": "reviewed",
+  "sources": [
+    "部编版语文一年级下册",
+    "《孟浩然集》"
+  ],
+  "status": "published",
   "updatedAt": "2026-11-24"
 }

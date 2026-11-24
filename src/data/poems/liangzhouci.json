@@ -1,0 +1,177 @@
+{
+  "id": "tang-shengtang-wangzhihuan-liangzhouci",
+  "slug": "liangzhouci",
+  "title": "凉州词",
+  "titlePinyin": "liáng zhōu cí",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "七言绝句",
+  "authorId": "wangzhihuan",
+  "gradeBand": "g5-6",
+  "tags": [
+    "边塞",
+    "黄河",
+    "想家",
+    "七言绝句"
+  ],
+  "difficulty": 3,
+  "writtenYear": 727,
+  "writtenLabel": "约公元 727 年（王之涣在凉州一带）",
+  "orderInAuthor": 2,
+  "famousLines": [
+    "羌笛何须怨杨柳，春风不度玉门关。"
+  ],
+  "lines": [
+    {
+      "text": "黄河远上白云间，",
+      "pinyin": [
+        "huáng",
+        "hé",
+        "yuǎn",
+        "shàng",
+        "bái",
+        "yún",
+        "jiān"
+      ],
+      "translation": "黄河远远地流上来，好像流进了白云里。",
+      "noteIds": []
+    },
+    {
+      "text": "一片孤城万仞山。",
+      "pinyin": [
+        "yī",
+        "piàn",
+        "gū",
+        "chéng",
+        "wàn",
+        "rèn",
+        "shān"
+      ],
+      "translation": "一座孤零零的城，立在万丈高山之间。",
+      "noteIds": [
+        "n-ren"
+      ]
+    },
+    {
+      "text": "羌笛何须怨杨柳，",
+      "pinyin": [
+        "qiāng",
+        "dí",
+        "hé",
+        "xū",
+        "yuàn",
+        "yáng",
+        "liǔ"
+      ],
+      "translation": "羌笛何必吹那支让人想家的《折杨柳》呢？",
+      "noteIds": [
+        "n-qiangdi",
+        "n-yuan"
+      ]
+    },
+    {
+      "text": "春风不度玉门关。",
+      "pinyin": [
+        "chūn",
+        "fēng",
+        "bù",
+        "dù",
+        "yù",
+        "mén",
+        "guān"
+      ],
+      "translation": "春风本来就吹不到玉门关外呀。",
+      "noteIds": [
+        "n-yumenguan"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-ren",
+      "word": "万仞",
+      "pinyin": "wàn rèn",
+      "meaning": "形容山非常高。“仞”是古时候量长度的一个单位。"
+    },
+    {
+      "id": "n-qiangdi",
+      "word": "羌笛",
+      "pinyin": "qiāng dí",
+      "meaning": "边地人常吹的一种笛子。"
+    },
+    {
+      "id": "n-yuan",
+      "word": "怨",
+      "pinyin": "yuàn",
+      "meaning": "埋怨。这里像是轻轻地问一句。"
+    },
+    {
+      "id": "n-yumenguan",
+      "word": "玉门关",
+      "pinyin": "yù mén guān",
+      "meaning": "古时候西边的一座关口，在今天的甘肃。"
+    }
+  ],
+  "translation": "黄河远远地流上来，好像流进了白云里。一座孤零零的城，立在万丈高山之间。羌笛何必吹那支让人想家的《折杨柳》呢？春风本来就吹不到玉门关外呀。",
+  "appreciation": "前两句写得又大又远：黄河、白云、高山、孤城，像一幅挂在天边的画。后两句忽然转成声音，羌笛一响，守边的人就想家了。诗人没有说“别难过”，只轻轻说春风到不了这里。话很轻，心却很软。",
+  "background": "公元 727 年前后，王之涣来到凉州一带。那里离家乡很远，风沙大，草很少。夜里他听见有人吹羌笛，曲子正是让人想家的《折杨柳》，于是写下了这首诗。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "远望黄河",
+      "text": "王之涣站在高处远望，黄河好像一直流到白云里去了。"
+    },
+    {
+      "step": 2,
+      "title": "一座孤城",
+      "text": "河边只有一座小小的城，四周都是高高的山。"
+    },
+    {
+      "step": 3,
+      "title": "听到笛声",
+      "text": "夜里传来羌笛声，吹的正是让人想家的《折杨柳》。"
+    },
+    {
+      "step": 4,
+      "title": "春风吹不到",
+      "text": "他轻轻叹气：这里太远了，连春风都到不了玉门关外。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "仞",
+      "reading": "rèn",
+      "reason": "“万仞山”是形容山很高，读 rèn。",
+      "standard": "不要读成 rěn"
+    },
+    {
+      "char": "羌",
+      "reading": "qiāng",
+      "reason": "“羌笛”是边地的一种笛子，读 qiāng。",
+      "standard": "不要读成 jiāng"
+    },
+    {
+      "char": "怨",
+      "reading": "yuàn",
+      "reason": "“怨杨柳”是埋怨想家，读 yuàn。",
+      "standard": "不要读成 yuān"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗鉴赏辞典》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-24",
+  "images": {
+    "cover": {
+      "src": "/assets/img/poems/liangzhouci-story.jpg",
+      "width": 2560,
+      "height": 1440,
+      "alt": "《凉州词》四格分镜：远望黄河、一座孤城、听到笛声、春风吹不到",
+      "credit": "AI 辅助生成 · up999.cn",
+      "aiGenerated": true
+    }
+  }
+}

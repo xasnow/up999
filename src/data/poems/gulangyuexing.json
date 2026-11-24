@@ -1,0 +1,150 @@
+{
+  "id": "tang-shengtang-libai-gulangyuexing",
+  "slug": "gulangyuexing",
+  "title": "古朗月行（节选）",
+  "titlePinyin": "gǔ lǎng yuè xíng",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "五言古诗",
+  "authorId": "libai",
+  "gradeBand": "g1-2",
+  "textbook": "部编版一年级上册",
+  "tags": [
+    "月亮",
+    "儿童",
+    "想象",
+    "五言古诗"
+  ],
+  "difficulty": 1,
+  "writtenYear": 730,
+  "writtenLabel": "约公元 730 年（李白回忆童年时）",
+  "orderInAuthor": 3,
+  "famousLines": [
+    "小时不识月，呼作白玉盘。"
+  ],
+  "lines": [
+    {
+      "text": "小时不识月，",
+      "pinyin": [
+        "xiǎo",
+        "shí",
+        "bù",
+        "shí",
+        "yuè"
+      ],
+      "translation": "小时候我不认识月亮，",
+      "noteIds": []
+    },
+    {
+      "text": "呼作白玉盘。",
+      "pinyin": [
+        "hū",
+        "zuò",
+        "bái",
+        "yù",
+        "pán"
+      ],
+      "translation": "把它叫作白玉做的盘子。",
+      "noteIds": [
+        "n-huzuo"
+      ]
+    },
+    {
+      "text": "又疑瑶台镜，",
+      "pinyin": [
+        "yòu",
+        "yí",
+        "yáo",
+        "tái",
+        "jìng"
+      ],
+      "translation": "又怀疑它是瑶台的镜子，",
+      "noteIds": [
+        "n-yi",
+        "n-yaotai"
+      ]
+    },
+    {
+      "text": "飞在青云端。",
+      "pinyin": [
+        "fēi",
+        "zài",
+        "qīng",
+        "yún",
+        "duān"
+      ],
+      "translation": "飞到了青云上面。",
+      "noteIds": []
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-huzuo",
+      "word": "呼作",
+      "pinyin": "hū zuò",
+      "meaning": "叫作，称它作。"
+    },
+    {
+      "id": "n-yi",
+      "word": "疑",
+      "pinyin": "yí",
+      "meaning": "怀疑，以为。"
+    },
+    {
+      "id": "n-yaotai",
+      "word": "瑶台",
+      "pinyin": "yáo tái",
+      "meaning": "传说中神仙住的地方。"
+    }
+  ],
+  "translation": "小时候我不认识月亮，把它叫作白玉做的盘子。又怀疑它是瑶台上的镜子，飞到了青云的上面。",
+  "appreciation": "这首诗写的是小孩子眼里的月亮。不认识，就先起个名字，叫它白玉盘。还嫌不够，又说它是神仙的镜子。两个比喻都很孩子气，也很可爱。李白把自己小时候的好奇心，原原本本写了下来。",
+  "background": "李白小时候在四川长大，晚上常抬头看月亮。小孩子不懂月亮是什么，就自己想办法解释。他觉得月亮像白盘子，又像一面镜子。长大以后，他把这些天真的想法写成了诗。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "抬头看月亮",
+      "text": "小时候的李白，晚上常一个人抬头看天上的月亮。"
+    },
+    {
+      "step": 2,
+      "title": "叫它白玉盘",
+      "text": "他觉得月亮白白圆圆的，像一只白玉做的大盘子。"
+    },
+    {
+      "step": 3,
+      "title": "又想到镜子",
+      "text": "看着看着，他又想：会不会是瑶台的镜子飞上了天？"
+    },
+    {
+      "step": 4,
+      "title": "月亮挂在高空",
+      "text": "那面“镜子”亮亮的，就挂在青青的云上面。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "瑶",
+      "reading": "yáo",
+      "reason": "“瑶台”的“瑶”是美玉的意思，读 yáo。",
+      "standard": "不要读成 yào"
+    }
+  ],
+  "sources": [
+    "部编版语文一年级上册",
+    "《李太白全集》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-24",
+  "images": {
+    "cover": {
+      "src": "/assets/img/poems/gulangyuexing-story.jpg",
+      "width": 2560,
+      "height": 1440,
+      "alt": "《古朗月行（节选）》四格分镜：抬头看月亮、叫它白玉盘、又想到镜子、月亮挂在高空",
+      "credit": "AI 辅助生成 · up999.cn",
+      "aiGenerated": true
+    }
+  }
+}

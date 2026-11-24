@@ -1,0 +1,179 @@
+{
+  "id": "tang-wantang-lishangyin-change",
+  "slug": "change",
+  "title": "嫦娥",
+  "titlePinyin": "cháng é",
+  "dynasty": "tangshi",
+  "era": "wantang",
+  "genre": "shi",
+  "form": "七言绝句",
+  "authorId": "lishangyin",
+  "gradeBand": "g5-6",
+  "tags": [
+    "月亮",
+    "神话",
+    "夜晚",
+    "七言绝句"
+  ],
+  "difficulty": 3,
+  "writtenYear": 840,
+  "writtenLabel": "约公元 840 年（李商隐 27 岁左右）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "嫦娥应悔偷灵药，碧海青天夜夜心。"
+  ],
+  "lines": [
+    {
+      "text": "云母屏风烛影深，",
+      "pinyin": [
+        "yún",
+        "mǔ",
+        "píng",
+        "fēng",
+        "zhú",
+        "yǐng",
+        "shēn"
+      ],
+      "translation": "云母屏风上，烛光投下深深的影子。",
+      "noteIds": [
+        "n-yunmu"
+      ]
+    },
+    {
+      "text": "长河渐落晓星沉。",
+      "pinyin": [
+        "cháng",
+        "hé",
+        "jiàn",
+        "luò",
+        "xiǎo",
+        "xīng",
+        "chén"
+      ],
+      "translation": "银河慢慢西沉，晨星也快落下去了。",
+      "noteIds": [
+        "n-changhe",
+        "n-xiaoxing"
+      ]
+    },
+    {
+      "text": "嫦娥应悔偷灵药，",
+      "pinyin": [
+        "cháng",
+        "é",
+        "yīng",
+        "huǐ",
+        "tōu",
+        "líng",
+        "yào"
+      ],
+      "translation": "嫦娥一定后悔偷吃了那包仙药。",
+      "noteIds": [
+        "n-lingyao"
+      ]
+    },
+    {
+      "text": "碧海青天夜夜心。",
+      "pinyin": [
+        "bì",
+        "hǎi",
+        "qīng",
+        "tiān",
+        "yè",
+        "yè",
+        "xīn"
+      ],
+      "translation": "她在碧海一样的青天里，夜夜想着人间。",
+      "noteIds": [
+        "n-bihai"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-yunmu",
+      "word": "云母屏风",
+      "pinyin": "yún mǔ píng fēng",
+      "meaning": "用云母石装饰的屏风，亮亮的，很漂亮。"
+    },
+    {
+      "id": "n-changhe",
+      "word": "长河",
+      "pinyin": "cháng hé",
+      "meaning": "天上的银河。"
+    },
+    {
+      "id": "n-xiaoxing",
+      "word": "晓星",
+      "pinyin": "xiǎo xīng",
+      "meaning": "天快亮时还在天上的星星。"
+    },
+    {
+      "id": "n-lingyao",
+      "word": "灵药",
+      "pinyin": "líng yào",
+      "meaning": "传说吃了能飞上天的仙药。"
+    },
+    {
+      "id": "n-bihai",
+      "word": "碧海",
+      "pinyin": "bì hǎi",
+      "meaning": "像大海一样又深又蓝的天空。"
+    }
+  ],
+  "translation": "云母屏风上，烛光投下深深的影子。银河慢慢落下，晨星也沉了下去。嫦娥一定后悔偷吃了仙药。她在碧海一样的青天里，夜夜都想着人间。",
+  "appreciation": "诗人半夜睡不着，先看屋里的烛影，再看天上的星星。他想起嫦娥奔月的故事，就猜：嫦娥在月宫里，会不会也想家？全诗没有一个“难过”，可“夜夜心”三个字，让人感到她天天都很孤单。天上的月亮，就这样被写成了一个有心事的人。",
+  "background": "李商隐一生四处奔波，常常一个人看月亮。这天夜里，烛光把屏风的影子拉得很长，银河和晨星也快落下去了。他想起嫦娥的故事，就写下了这首诗。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "深夜烛影",
+      "text": "夜深了，云母屏风上晃着长长的烛影。"
+    },
+    {
+      "step": 2,
+      "title": "星河西沉",
+      "text": "天上的银河慢慢落下，晨星也要不见了。"
+    },
+    {
+      "step": 3,
+      "title": "想起嫦娥",
+      "text": "诗人抬头看月，想起嫦娥偷吃仙药的故事。"
+    },
+    {
+      "step": 4,
+      "title": "月宫孤单",
+      "text": "他猜嫦娥在月宫里，夜夜都在想念人间。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "屏",
+      "reading": "píng",
+      "reason": "“云母屏风”指挡风的屏风。",
+      "standard": "这里不读 bǐng"
+    },
+    {
+      "char": "应",
+      "reading": "yīng",
+      "reason": "“应悔”是猜测的语气，意思是“应该”。",
+      "standard": "这里不读 yìng"
+    }
+  ],
+  "sources": [
+    "《李义山诗集》",
+    "《唐诗三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-24",
+  "images": {
+    "cover": {
+      "src": "/assets/img/poems/change-story.jpg",
+      "width": 2560,
+      "height": 1440,
+      "alt": "《嫦娥》四格分镜：深夜烛影、星河西沉、想起嫦娥、月宫孤单",
+      "credit": "AI 辅助生成 · up999.cn",
+      "aiGenerated": true
+    }
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "id": "tang-chutang-luobinwang-yonge",
+  "slug": "yonge",
+  "title": "咏鹅",
+  "titlePinyin": "yǒng é",
+  "dynasty": "tangshi",
+  "era": "chutang",
+  "genre": "shi",
+  "form": "五言古诗",
+  "authorId": "luobinwang",
+  "gradeBand": "g1-2",
+  "textbook": "部编版一年级上册",
+  "tags": [
+    "白鹅",
+    "池塘",
+    "颜色",
+    "五言古诗"
+  ],
+  "difficulty": 1,
+  "writtenYear": 626,
+  "writtenLabel": "约公元 626 年（骆宾王七岁左右）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "鹅，鹅，鹅，曲项向天歌。"
+  ],
+  "lines": [
+    {
+      "text": "鹅，鹅，鹅，",
+      "pinyin": [
+        "é",
+        "é",
+        "é"
+      ],
+      "translation": "鹅呀，鹅呀，鹅呀，",
+      "noteIds": []
+    },
+    {
+      "text": "曲项向天歌。",
+      "pinyin": [
+        "qū",
+        "xiàng",
+        "xiàng",
+        "tiān",
+        "gē"
+      ],
+      "translation": "弯着脖子，对着天空高声唱歌。",
+      "noteIds": [
+        "n-qu",
+        "n-xiang"
+      ]
+    },
+    {
+      "text": "白毛浮绿水，",
+      "pinyin": [
+        "bái",
+        "máo",
+        "fú",
+        "lǜ",
+        "shuǐ"
+      ],
+      "translation": "雪白的羽毛浮在绿绿的水面上，",
+      "noteIds": []
+    },
+    {
+      "text": "红掌拨清波。",
+      "pinyin": [
+        "hóng",
+        "zhǎng",
+        "bō",
+        "qīng",
+        "bō"
+      ],
+      "translation": "红红的脚掌拨动清清的水波。",
+      "noteIds": [
+        "n-bo"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-qu",
+      "word": "曲",
+      "pinyin": "qū",
+      "meaning": "弯，这里指弯着脖子。"
+    },
+    {
+      "id": "n-xiang",
+      "word": "项",
+      "pinyin": "xiàng",
+      "meaning": "脖子的后部，这里就指脖子。"
+    },
+    {
+      "id": "n-bo",
+      "word": "拨",
+      "pinyin": "bō",
+      "meaning": "用脚掌划水，把水推开。"
+    }
+  ],
+  "translation": "鹅呀，鹅呀，鹅呀，弯着脖子对着天空唱歌。雪白的羽毛浮在绿水上，红红的脚掌拨动清清的水波。",
+  "appreciation": "这首诗是骆宾王七岁时写的。他看见池塘里的白鹅，就把它唱成了一首歌。开头连喊三声“鹅”，像小朋友惊喜地叫起来。“曲项向天歌”写鹅伸着脖子大声叫。后两句用颜色作画：白毛、绿水、红掌、清波。四种颜色放在一起，画面特别鲜亮。读的时候，眼前就像有一只鹅在游水。",
+  "background": "骆宾王小时候住在浙江义乌的村子里。有一天，家里来了客人，想考考这个小孩。客人指着池塘里游泳的白鹅，让他作一首诗。七岁的骆宾王看了一会儿，张嘴就念出了这首诗。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "村里有个池塘",
+      "text": "骆宾王的家门口有一个池塘，水清清的，常有大白鹅在游。"
+    },
+    {
+      "step": 2,
+      "title": "客人来考孩子",
+      "text": "家里来了客人，客人指着池塘里的鹅，让七岁的小宾王作诗。"
+    },
+    {
+      "step": 3,
+      "title": "白鹅仰头唱歌",
+      "text": "大白鹅弯着脖子，对着天空大声叫：鹅，鹅，鹅。"
+    },
+    {
+      "step": 4,
+      "title": "红掌拨着水波",
+      "text": "白羽毛浮在绿水上，红脚掌一下一下地划，水面荡开一圈圈波纹。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "曲",
+      "reading": "qū",
+      "reason": "“曲项”的“曲”是弯曲的意思，读 qū。",
+      "standard": "歌曲的“曲”读 qǔ"
+    }
+  ],
+  "sources": [
+    "部编版语文一年级上册",
+    "《骆宾王集》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-24",
+  "images": {
+    "cover": {
+      "src": "/assets/img/poems/yonge-story.jpg",
+      "width": 2560,
+      "height": 1440,
+      "alt": "《咏鹅》四格分镜：村里有个池塘、客人来考孩子、白鹅仰头唱歌、红掌拨着水波",
+      "credit": "AI 辅助生成 · up999.cn",
+      "aiGenerated": true
+    }
+  }
+}

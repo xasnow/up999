@@ -1,0 +1,165 @@
+{
+  "id": "tang-shengtang-libai-wangtianmenshan",
+  "slug": "wangtianmenshan",
+  "title": "望天门山",
+  "titlePinyin": "wàng tiān mén shān",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "七言绝句",
+  "authorId": "libai",
+  "gradeBand": "g3-4",
+  "tags": [
+    "山水",
+    "长江",
+    "天门山",
+    "七言绝句"
+  ],
+  "difficulty": 2,
+  "writtenYear": 725,
+  "writtenLabel": "约公元 725 年（李白 25 岁，第一次出远门）",
+  "orderInAuthor": 5,
+  "famousLines": [
+    "两岸青山相对出，孤帆一片日边来。"
+  ],
+  "lines": [
+    {
+      "text": "天门中断楚江开，",
+      "pinyin": [
+        "tiān",
+        "mén",
+        "zhōng",
+        "duàn",
+        "chǔ",
+        "jiāng",
+        "kāi"
+      ],
+      "translation": "天门山从中间断开，长江从这里奔流而过。",
+      "noteIds": [
+        "n-tianmen",
+        "n-chujiang"
+      ]
+    },
+    {
+      "text": "碧水东流至此回。",
+      "pinyin": [
+        "bì",
+        "shuǐ",
+        "dōng",
+        "liú",
+        "zhì",
+        "cǐ",
+        "huí"
+      ],
+      "translation": "碧绿的江水一路向东，到这里转了个弯。",
+      "noteIds": [
+        "n-hui"
+      ]
+    },
+    {
+      "text": "两岸青山相对出，",
+      "pinyin": [
+        "liǎng",
+        "àn",
+        "qīng",
+        "shān",
+        "xiāng",
+        "duì",
+        "chū"
+      ],
+      "translation": "两岸的青山面对面立着，好像在迎接小船。",
+      "noteIds": [
+        "n-chu"
+      ]
+    },
+    {
+      "text": "孤帆一片日边来。",
+      "pinyin": [
+        "gū",
+        "fān",
+        "yī",
+        "piàn",
+        "rì",
+        "biān",
+        "lái"
+      ],
+      "translation": "一只小船从太阳升起的地方缓缓驶来。",
+      "noteIds": []
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-tianmen",
+      "word": "天门山",
+      "pinyin": "tiān mén shān",
+      "meaning": "在安徽当涂的长江边，两座山夹着江水，像一扇大门。"
+    },
+    {
+      "id": "n-chujiang",
+      "word": "楚江",
+      "pinyin": "chǔ jiāng",
+      "meaning": "长江流过古代楚国的那一段，这里指长江。"
+    },
+    {
+      "id": "n-hui",
+      "word": "回",
+      "pinyin": "huí",
+      "meaning": "转弯，掉头。江水在这里打了个弯。"
+    },
+    {
+      "id": "n-chu",
+      "word": "出",
+      "pinyin": "chū",
+      "meaning": "出现，露出来。青山一座接一座地映入眼帘。"
+    }
+  ],
+  "translation": "天门山从中间断开，长江从这里奔流而过。碧绿的江水一路向东，到这里转了个弯。两岸的青山面对面立着，好像在迎接小船。一只小船从太阳升起的地方缓缓驶来。",
+  "appreciation": "这首诗像一幅会动的大画。诗人坐在船上，看见天门山被江水劈开。江水转了个弯，两岸青山迎面而来。最后，一只小船从太阳边上驶来，画面一下子亮了。全诗没有一个“美”字，却让人感到长江又宽又壮。天门山又高又险，像一扇守护大江的门。",
+  "background": "公元 725 年，二十多岁的李白第一次离开四川。他坐着小船顺长江东下，路过安徽当涂的天门山。两岸的山又高又陡，江水打着旋儿往前流。他被眼前的景色迷住了，就写下了这首诗。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "小船出发",
+      "text": "年轻的李白坐上小船，顺着长江一路向东。"
+    },
+    {
+      "step": 2,
+      "title": "两山夹江",
+      "text": "船到天门山，两座大山像大门一样夹住江水。"
+    },
+    {
+      "step": 3,
+      "title": "青山迎面",
+      "text": "船往前走，两岸青山一座接一座迎面出现。"
+    },
+    {
+      "step": 4,
+      "title": "孤帆远去",
+      "text": "一只小船从太阳边驶来，慢慢驶向远方。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "中",
+      "reading": "zhōng",
+      "reason": "“中断”是从中间断开，“中”读 zhōng。",
+      "standard": "表示射中目标时读 zhòng"
+    }
+  ],
+  "sources": [
+    "《李太白全集》",
+    "《唐诗鉴赏辞典》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-24",
+  "images": {
+    "cover": {
+      "src": "/assets/img/poems/wangtianmenshan-story.jpg",
+      "width": 2560,
+      "height": 1440,
+      "alt": "《望天门山》四格分镜：小船出发、两山夹江、青山迎面、孤帆远去",
+      "credit": "AI 辅助生成 · up999.cn",
+      "aiGenerated": true
+    }
+  }
+}

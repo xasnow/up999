@@ -1,0 +1,163 @@
+{
+  "id": "tang-shengtang-libai-duzuojingtingshan",
+  "slug": "duzuojingtingshan",
+  "title": "独坐敬亭山",
+  "titlePinyin": "dú zuò jìng tíng shān",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "五言绝句",
+  "authorId": "libai",
+  "gradeBand": "g3-4",
+  "tags": [
+    "山水",
+    "孤独",
+    "敬亭山",
+    "五言绝句"
+  ],
+  "difficulty": 2,
+  "writtenYear": 753,
+  "writtenLabel": "约公元 753 年（李白 53 岁，在宣城游敬亭山）",
+  "orderInAuthor": 7,
+  "famousLines": [
+    "相看两不厌，只有敬亭山。"
+  ],
+  "lines": [
+    {
+      "text": "众鸟高飞尽，",
+      "pinyin": [
+        "zhòng",
+        "niǎo",
+        "gāo",
+        "fēi",
+        "jìn"
+      ],
+      "translation": "一群群鸟儿飞得高高的，全都看不见了。",
+      "noteIds": []
+    },
+    {
+      "text": "孤云独去闲。",
+      "pinyin": [
+        "gū",
+        "yún",
+        "dú",
+        "qù",
+        "xián"
+      ],
+      "translation": "天上那朵孤单的云，也慢慢飘走了。",
+      "noteIds": [
+        "n-gu"
+      ]
+    },
+    {
+      "text": "相看两不厌，",
+      "pinyin": [
+        "xiāng",
+        "kàn",
+        "liǎng",
+        "bù",
+        "yàn"
+      ],
+      "translation": "我和山互相看着，怎么看都看不厌。",
+      "noteIds": [
+        "n-xiangkan",
+        "n-yan"
+      ]
+    },
+    {
+      "text": "只有敬亭山。",
+      "pinyin": [
+        "zhǐ",
+        "yǒu",
+        "jìng",
+        "tíng",
+        "shān"
+      ],
+      "translation": "陪在我身边的，只有这座敬亭山。",
+      "noteIds": [
+        "n-jingtingshan"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-gu",
+      "word": "孤云",
+      "pinyin": "gū yún",
+      "meaning": "天上孤单的一朵云，诗人用它比作自己。"
+    },
+    {
+      "id": "n-xiangkan",
+      "word": "相看",
+      "pinyin": "xiāng kàn",
+      "meaning": "你看着我，我看着你。"
+    },
+    {
+      "id": "n-yan",
+      "word": "厌",
+      "pinyin": "yàn",
+      "meaning": "满足，觉得没意思。这里指看多久都不烦。"
+    },
+    {
+      "id": "n-jingtingshan",
+      "word": "敬亭山",
+      "pinyin": "jìng tíng shān",
+      "meaning": "在今天的安徽宣城，山不高，风景很安静。"
+    }
+  ],
+  "translation": "鸟群飞得高高的，最后一只也看不见了。天上那朵孤单的云，也慢慢飘远。我坐着看山，山也像在看我，我们谁也看不厌。陪我的，只有敬亭山。",
+  "appreciation": "这首诗写的是一个人和一座山做朋友。鸟飞走了，云也走了，只剩下诗人和山。他不说“我很孤单”，只说“相看两不厌”。山不会说话，却像懂他一样陪着他。短短二十个字，把安静写得很暖，也把一个人的心事写得很轻。",
+  "background": "公元 753 年前后，李白来到安徽宣城。那时他已经在外面走了很多年，见过热闹，也碰过钉子。敬亭山很安静，他常常一个人坐在山前看很久。看着鸟飞云走，他写下了这首诗。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "一个人上山",
+      "text": "李白一个人来到敬亭山，找块地方坐下来，静静地看风景。"
+    },
+    {
+      "step": 2,
+      "title": "鸟飞云走",
+      "text": "鸟儿一群群飞远了，天边那朵孤云也慢慢飘走，四周更安静了。"
+    },
+    {
+      "step": 3,
+      "title": "和山对望",
+      "text": "他看着山，觉得山也在看他，看着看着，心里慢慢踏实下来。"
+    },
+    {
+      "step": 4,
+      "title": "山是朋友",
+      "text": "他轻轻说：看得再久也不烦的，只有这座敬亭山了。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "相看",
+      "reading": "xiāng kàn",
+      "reason": "“相”在这里表示互相，读 xiāng。",
+      "standard": "不要读成 xiàng"
+    },
+    {
+      "char": "厌",
+      "reading": "yàn",
+      "reason": "“不厌”是看不厌，读第四声 yàn。",
+      "standard": "不要读成 yán"
+    }
+  ],
+  "sources": [
+    "《李太白全集》",
+    "《唐诗鉴赏辞典》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-24",
+  "images": {
+    "cover": {
+      "src": "/assets/img/poems/duzuojingtingshan-story.jpg",
+      "width": 2560,
+      "height": 1440,
+      "alt": "《独坐敬亭山》四格分镜：一个人上山、鸟飞云走、和山对望、山是朋友",
+      "credit": "AI 辅助生成 · up999.cn",
+      "aiGenerated": true
+    }
+  }
+}

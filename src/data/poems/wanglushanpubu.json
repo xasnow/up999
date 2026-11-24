@@ -1,0 +1,159 @@
+{
+  "id": "tang-shengtang-libai-wanglushanpubu",
+  "slug": "wanglushanpubu",
+  "title": "望庐山瀑布",
+  "titlePinyin": "wàng lú shān pù bù",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "七言绝句",
+  "authorId": "libai",
+  "gradeBand": "g1-2",
+  "textbook": "部编版二年级上册",
+  "tags": [
+    "庐山",
+    "瀑布",
+    "想象",
+    "七言绝句"
+  ],
+  "difficulty": 1,
+  "writtenYear": 725,
+  "writtenLabel": "约公元 725 年（李白游庐山时）",
+  "orderInAuthor": 2,
+  "famousLines": [
+    "飞流直下三千尺，疑是银河落九天。"
+  ],
+  "lines": [
+    {
+      "text": "日照香炉生紫烟，",
+      "pinyin": [
+        "rì",
+        "zhào",
+        "xiāng",
+        "lú",
+        "shēng",
+        "zǐ",
+        "yān"
+      ],
+      "translation": "太阳照在香炉峰上，升起紫色的云烟，",
+      "noteIds": [
+        "n-xianglu"
+      ]
+    },
+    {
+      "text": "遥看瀑布挂前川。",
+      "pinyin": [
+        "yáo",
+        "kàn",
+        "pù",
+        "bù",
+        "guà",
+        "qián",
+        "chuān"
+      ],
+      "translation": "远远看去，瀑布像挂在山前的水帘。",
+      "noteIds": [
+        "n-chuan"
+      ]
+    },
+    {
+      "text": "飞流直下三千尺，",
+      "pinyin": [
+        "fēi",
+        "liú",
+        "zhí",
+        "xià",
+        "sān",
+        "qiān",
+        "chǐ"
+      ],
+      "translation": "水流从高处直冲下来，好像有三千尺长，",
+      "noteIds": []
+    },
+    {
+      "text": "疑是银河落九天。",
+      "pinyin": [
+        "yí",
+        "shì",
+        "yín",
+        "hé",
+        "luò",
+        "jiǔ",
+        "tiān"
+      ],
+      "translation": "让人怀疑是银河从天上掉了下来。",
+      "noteIds": [
+        "n-jiutian"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-xianglu",
+      "word": "香炉",
+      "pinyin": "xiāng lú",
+      "meaning": "香炉峰，庐山的一座山峰。"
+    },
+    {
+      "id": "n-chuan",
+      "word": "川",
+      "pinyin": "chuān",
+      "meaning": "河流。"
+    },
+    {
+      "id": "n-jiutian",
+      "word": "九天",
+      "pinyin": "jiǔ tiān",
+      "meaning": "古人说的最高的一层天。"
+    }
+  ],
+  "translation": "太阳照着香炉峰，升起紫色的云烟。远远望去，瀑布像一条白布挂在山前的河上。水流从高处直冲下来，好像有三千尺长，让人怀疑是银河从天上落了下来。",
+  "appreciation": "这首诗的气势特别大。第一句先写紫色的云烟，把山写得像仙境。第二句一个“挂”字，让流动的水停住了，像一幅画。后两句更敢想：三千尺、银河，一个比一个夸张。李白写诗，最爱这样天马行空地想象。",
+  "background": "李白很喜欢庐山，一生去过好几次。有一年夏天，他站在山脚下抬头看瀑布。瀑布从高处冲下来，水花四溅，声音像打雷。他越看越觉得神奇，就写下了这首诗。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "来到庐山",
+      "text": "夏天，李白来到庐山脚下，抬头往山上看。"
+    },
+    {
+      "step": 2,
+      "title": "香炉峰冒紫烟",
+      "text": "太阳照着香炉峰，山顶升起一层紫色的云雾。"
+    },
+    {
+      "step": 3,
+      "title": "瀑布像白布",
+      "text": "一道白亮亮的水从高处挂下来，一直落到山前的河上。"
+    },
+    {
+      "step": 4,
+      "title": "怀疑是银河",
+      "text": "水声轰隆隆的，李白忍不住想：是不是天上的银河掉下来了？"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "看",
+      "reading": "kàn",
+      "reason": "“遥看”是远远地看，读 kàn。",
+      "standard": "看管的“看”读 kān"
+    }
+  ],
+  "sources": [
+    "部编版语文二年级上册",
+    "《李太白全集》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-24",
+  "images": {
+    "cover": {
+      "src": "/assets/img/poems/wanglushanpubu-story.jpg",
+      "width": 2560,
+      "height": 1440,
+      "alt": "《望庐山瀑布》四格分镜：来到庐山、香炉峰冒紫烟、瀑布像白布、怀疑是银河",
+      "credit": "AI 辅助生成 · up999.cn",
+      "aiGenerated": true
+    }
+  }
+}

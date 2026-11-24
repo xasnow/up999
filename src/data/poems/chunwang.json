@@ -1,0 +1,237 @@
+{
+  "id": "tang-shengtang-dufu-chunwang",
+  "slug": "chunwang",
+  "title": "春望",
+  "titlePinyin": "chūn wàng",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "五言律诗",
+  "authorId": "dufu",
+  "gradeBand": "g5-6",
+  "tags": [
+    "春天",
+    "想家",
+    "盼望和平",
+    "五言律诗"
+  ],
+  "difficulty": 3,
+  "writtenYear": 757,
+  "writtenLabel": "约公元 757 年（杜甫 45 岁，独自留在长安）",
+  "orderInAuthor": 5,
+  "famousLines": [
+    "烽火连三月，家书抵万金。"
+  ],
+  "lines": [
+    {
+      "text": "国破山河在，",
+      "pinyin": [
+        "guó",
+        "pò",
+        "shān",
+        "hé",
+        "zài"
+      ],
+      "translation": "城里被战火扰乱了，山山水水还在。",
+      "noteIds": []
+    },
+    {
+      "text": "城春草木深。",
+      "pinyin": [
+        "chéng",
+        "chūn",
+        "cǎo",
+        "mù",
+        "shēn"
+      ],
+      "translation": "春天来了，城里野草长得又高又密。",
+      "noteIds": []
+    },
+    {
+      "text": "感时花溅泪，",
+      "pinyin": [
+        "gǎn",
+        "shí",
+        "huā",
+        "jiàn",
+        "lèi"
+      ],
+      "translation": "看见花开，我反而掉下了眼泪。",
+      "noteIds": [
+        "n-jian"
+      ]
+    },
+    {
+      "text": "恨别鸟惊心。",
+      "pinyin": [
+        "hèn",
+        "bié",
+        "niǎo",
+        "jīng",
+        "xīn"
+      ],
+      "translation": "听见鸟叫，心里也会猛地一惊。",
+      "noteIds": []
+    },
+    {
+      "text": "烽火连三月，",
+      "pinyin": [
+        "fēng",
+        "huǒ",
+        "lián",
+        "sān",
+        "yuè"
+      ],
+      "translation": "战火一直不停，已经好几个月了。",
+      "noteIds": []
+    },
+    {
+      "text": "家书抵万金。",
+      "pinyin": [
+        "jiā",
+        "shū",
+        "dǐ",
+        "wàn",
+        "jīn"
+      ],
+      "translation": "这时候一封家信，比万两黄金还珍贵。",
+      "noteIds": [
+        "n-di"
+      ]
+    },
+    {
+      "text": "白头搔更短，",
+      "pinyin": [
+        "bái",
+        "tóu",
+        "sāo",
+        "gèng",
+        "duǎn"
+      ],
+      "translation": "我头上的白发，越抓越短了。",
+      "noteIds": [
+        "n-sao"
+      ]
+    },
+    {
+      "text": "浑欲不胜簪。",
+      "pinyin": [
+        "hún",
+        "yù",
+        "bù",
+        "shēng",
+        "zān"
+      ],
+      "translation": "简直连一根簪子都插不住了。",
+      "noteIds": [
+        "n-sheng",
+        "n-zan"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-jian",
+      "word": "溅",
+      "pinyin": "jiàn",
+      "meaning": "液体飞洒出来。这里指眼泪往下掉。"
+    },
+    {
+      "id": "n-di",
+      "word": "抵",
+      "pinyin": "dǐ",
+      "meaning": "比得上，值。"
+    },
+    {
+      "id": "n-sao",
+      "word": "搔",
+      "pinyin": "sāo",
+      "meaning": "用手指轻轻抓。"
+    },
+    {
+      "id": "n-sheng",
+      "word": "不胜",
+      "pinyin": "bù shēng",
+      "meaning": "承受不住，这里指头发太少插不住。"
+    },
+    {
+      "id": "n-zan",
+      "word": "簪",
+      "pinyin": "zān",
+      "meaning": "古人用来把头发别起来的一根长针。"
+    }
+  ],
+  "translation": "城里被战火扰乱了，山山水水还在。春天来了，城里的野草长得又高又密。看见花开，我反而掉下眼泪；听见鸟叫，心里也会猛地一惊。战火一直不停，已经好几个月了。这时候一封家信，比万两黄金还珍贵。我头上的白发越抓越短，简直连一根簪子都插不住了。",
+  "appreciation": "这首诗写春天，却不热闹。花开鸟叫本来是好事，诗人却流泪、心惊，因为他太想家了。最打动人的是“家书抵万金”，一句话就说清了离家在外的人有多盼消息。最后他抓头发，抓得又短又乱，我们仿佛能看见一个发愁的人站在春天的城里。",
+  "background": "公元 757 年春天，杜甫一个人留在长安，和妻子孩子分开了很久。春天照样来了，城里却冷冷清清。他看着花开鸟飞，想起远方的家，写下这首诗，也盼着战火早点停下来。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "春天进城",
+      "text": "春天来到长安，可城里很安静，野草长得很高。"
+    },
+    {
+      "step": 2,
+      "title": "看花流泪",
+      "text": "花开得正好，杜甫却想起了家，眼泪一下子掉下来。"
+    },
+    {
+      "step": 3,
+      "title": "等一封家信",
+      "text": "战火不停，他天天盼着家里来信，觉得那比黄金还珍贵。"
+    },
+    {
+      "step": 4,
+      "title": "抓白了头",
+      "text": "他越想越愁，抓着自己的白发，头发短得连簪子都插不住。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "溅",
+      "reading": "jiàn",
+      "reason": "“溅泪”是泪水飞洒，读 jiàn。",
+      "standard": "不要读成 jiān"
+    },
+    {
+      "char": "抵",
+      "reading": "dǐ",
+      "reason": "“抵万金”是比得上万两黄金，读 dǐ。",
+      "standard": "不要读成 dī"
+    },
+    {
+      "char": "搔",
+      "reading": "sāo",
+      "reason": "“搔”是抓、挠，读 sāo。",
+      "standard": "不要读成 sào"
+    },
+    {
+      "char": "胜",
+      "reading": "shēng",
+      "reason": "“不胜簪”是承受不住，读 shēng。",
+      "standard": "不要读成 shèng"
+    },
+    {
+      "char": "簪",
+      "reading": "zān",
+      "reason": "“簪”是别头发的针，读 zān。",
+      "standard": "不要读成 zǎn"
+    }
+  ],
+  "sources": [
+    "《杜工部集》",
+    "《唐诗鉴赏辞典》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-24",
+  "images": {
+    "cover": {
+      "src": "/assets/img/poems/chunwang-story.jpg",
+      "width": 2560,
+      "height": 1440,
+      "alt": "《春望》四格分镜：春天进城、看花流泪、等一封家信、抓白了头",
+      "credit": "AI 辅助生成 · up999.cn",
+      "aiGenerated": true
+    }
+  }
+}

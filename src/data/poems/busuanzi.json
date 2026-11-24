@@ -1,0 +1,224 @@
+{
+  "id": "song-beisong-wangguang-busuanzi",
+  "slug": "busuanzi",
+  "title": "卜算子·送鲍浩然之浙东",
+  "titlePinyin": "bǔ suàn zǐ · sòng bào hào rán zhī zhè dōng",
+  "dynasty": "songci",
+  "era": "beisong",
+  "genre": "ci",
+  "form": "词（小令）",
+  "authorId": "wangguang",
+  "gradeBand": "g5-6",
+  "tags": [
+    "送别",
+    "春天",
+    "山水",
+    "词"
+  ],
+  "difficulty": 3,
+  "writtenYear": 1080,
+  "writtenLabel": "约公元 1080 年（王观 45 岁左右）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "若到江南赶上春，千万和春住。"
+  ],
+  "lines": [
+    {
+      "text": "水是眼波横，",
+      "pinyin": [
+        "shuǐ",
+        "shì",
+        "yǎn",
+        "bō",
+        "héng"
+      ],
+      "translation": "水波流动，像人含笑的眼睛。",
+      "noteIds": [
+        "n-yanbo"
+      ]
+    },
+    {
+      "text": "山是眉峰聚。",
+      "pinyin": [
+        "shān",
+        "shì",
+        "méi",
+        "fēng",
+        "jù"
+      ],
+      "translation": "远处山峰聚拢，像人皱起的眉毛。",
+      "noteIds": [
+        "n-meifeng"
+      ]
+    },
+    {
+      "text": "欲问行人去那边？",
+      "pinyin": [
+        "yù",
+        "wèn",
+        "xíng",
+        "rén",
+        "qù",
+        "nǎ",
+        "biān"
+      ],
+      "translation": "想问一问远行的人，你要去哪里？",
+      "noteIds": []
+    },
+    {
+      "text": "眉眼盈盈处。",
+      "pinyin": [
+        "méi",
+        "yǎn",
+        "yíng",
+        "yíng",
+        "chù"
+      ],
+      "translation": "就去那山清水秀的好地方。",
+      "noteIds": [
+        "n-yingying"
+      ]
+    },
+    {
+      "text": "才始送春归，",
+      "pinyin": [
+        "cái",
+        "shǐ",
+        "sòng",
+        "chūn",
+        "guī"
+      ],
+      "translation": "刚刚才把春天送走。",
+      "noteIds": [
+        "n-caishi"
+      ]
+    },
+    {
+      "text": "又送君归去。",
+      "pinyin": [
+        "yòu",
+        "sòng",
+        "jūn",
+        "guī",
+        "qù"
+      ],
+      "translation": "现在又要送你回去了。",
+      "noteIds": []
+    },
+    {
+      "text": "若到江南赶上春，",
+      "pinyin": [
+        "ruò",
+        "dào",
+        "jiāng",
+        "nán",
+        "gǎn",
+        "shàng",
+        "chūn"
+      ],
+      "translation": "如果你到江南，还能赶上春天。",
+      "noteIds": []
+    },
+    {
+      "text": "千万和春住。",
+      "pinyin": [
+        "qiān",
+        "wàn",
+        "hé",
+        "chūn",
+        "zhù"
+      ],
+      "translation": "千万要和春天住在一起呀。",
+      "noteIds": [
+        "n-he"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-yanbo",
+      "word": "眼波",
+      "pinyin": "yǎn bō",
+      "meaning": "像水波一样流动的眼神，这里比作春水。"
+    },
+    {
+      "id": "n-meifeng",
+      "word": "眉峰",
+      "pinyin": "méi fēng",
+      "meaning": "皱起的眉头，这里比作远处的山峰。"
+    },
+    {
+      "id": "n-yingying",
+      "word": "盈盈",
+      "pinyin": "yíng yíng",
+      "meaning": "水清亮、样子美好的意思。"
+    },
+    {
+      "id": "n-caishi",
+      "word": "才始",
+      "pinyin": "cái shǐ",
+      "meaning": "刚刚。"
+    },
+    {
+      "id": "n-he",
+      "word": "和",
+      "pinyin": "hé",
+      "meaning": "这里是“跟、与”的意思。"
+    }
+  ],
+  "translation": "水波流动，像人含笑的眼睛。远处山峰聚拢，像人皱起的眉毛。想问一问远行的人，你要去哪里？就去那山清水秀的好地方。刚刚才把春天送走，现在又要送你回去。如果你到江南还能赶上春天，千万要和春天住在一起呀。",
+  "appreciation": "送别词常常写得伤感，这首却很俏皮。开头把水比作眼睛，把山比作眉毛，山水一下子有了表情。词人问朋友要去哪里，答案是“眉眼盈盈处”，就是那山清水秀的地方。最后两句最妙：你到了江南，要是春天还在，就一定要和春天住在一起。祝福说得又轻又暖。",
+  "background": "王观有个好朋友叫鲍浩然，要去浙江东部。那里山清水秀，正是春天最美的地方。王观舍不得朋友走，又希望他一路顺利，就写了这首词送给他。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "水像眼睛",
+      "text": "春水缓缓流动，像人含笑的眼睛。"
+    },
+    {
+      "step": 2,
+      "title": "山像眉毛",
+      "text": "远处的山峰聚在一起，像人皱起的眉毛。"
+    },
+    {
+      "step": 3,
+      "title": "问去哪里",
+      "text": "词人问朋友：你要去什么地方呀？"
+    },
+    {
+      "step": 4,
+      "title": "和春同住",
+      "text": "他叮嘱朋友：到了江南，要和春天住在一起。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "横",
+      "reading": "héng",
+      "reason": "“眼波横”指水波流动的样子。",
+      "standard": "这里不读 hèng"
+    },
+    {
+      "char": "和",
+      "reading": "hé",
+      "reason": "“和春住”是“跟春天住一起”。",
+      "standard": "这里不读 hè 或 huó"
+    }
+  ],
+  "sources": [
+    "部编版语文六年级下册",
+    "《冠柳集》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-24",
+  "images": {
+    "cover": {
+      "src": "/assets/img/poems/busuanzi-story.jpg",
+      "width": 2560,
+      "height": 1440,
+      "alt": "《卜算子·送鲍浩然之浙东》四格分镜：水像眼睛、山像眉毛、问去哪里、和春同住",
+      "credit": "AI 辅助生成 · up999.cn",
+      "aiGenerated": true
+    }
+  }
+}

@@ -10,36 +10,74 @@
   "authorId": "libai",
   "gradeBand": "g1-2",
   "textbook": "部编版一年级下册",
-  "tags": ["思乡", "月夜", "五言绝句"],
+  "tags": [
+    "思乡",
+    "月夜",
+    "五言绝句"
+  ],
   "difficulty": 1,
   "writtenYear": 726,
   "writtenLabel": "约公元 726 年（李白 26 岁）",
   "orderInAuthor": 1,
-  "famousLines": ["举头望明月，低头思故乡。"],
+  "famousLines": [
+    "举头望明月，低头思故乡。"
+  ],
   "lines": [
     {
       "text": "床前明月光，",
-      "pinyin": ["chuáng", "qián", "míng", "yuè", "guāng"],
+      "pinyin": [
+        "chuáng",
+        "qián",
+        "míng",
+        "yuè",
+        "guāng"
+      ],
       "translation": "明亮的月光洒在床前，",
-      "noteIds": ["n-chuang"]
+      "noteIds": [
+        "n-chuang"
+      ]
     },
     {
       "text": "疑是地上霜。",
-      "pinyin": ["yí", "shì", "dì", "shàng", "shuāng"],
+      "pinyin": [
+        "yí",
+        "shì",
+        "dì",
+        "shàng",
+        "shuāng"
+      ],
       "translation": "好像地上铺了一层白白的霜。",
-      "noteIds": ["n-yi"]
+      "noteIds": [
+        "n-yi"
+      ]
     },
     {
       "text": "举头望明月，",
-      "pinyin": ["jǔ", "tóu", "wàng", "míng", "yuè"],
+      "pinyin": [
+        "jǔ",
+        "tóu",
+        "wàng",
+        "míng",
+        "yuè"
+      ],
       "translation": "抬起头，望着天上圆圆的月亮，",
-      "noteIds": ["n-jutou"]
+      "noteIds": [
+        "n-jutou"
+      ]
     },
     {
       "text": "低头思故乡。",
-      "pinyin": ["dī", "tóu", "sī", "gù", "xiāng"],
+      "pinyin": [
+        "dī",
+        "tóu",
+        "sī",
+        "gù",
+        "xiāng"
+      ],
       "translation": "低下头，想起了远方的家乡。",
-      "noteIds": ["n-guxiang"]
+      "noteIds": [
+        "n-guxiang"
+      ]
     }
   ],
   "notes": [
@@ -96,15 +134,18 @@
   "pinyinNotes": [],
   "images": {
     "cover": {
-      "src": "/assets/img/poems/jingyesi-cover.jpg",
+      "src": "/assets/img/poems/jingyesi-story.jpg",
       "width": 2560,
       "height": 1440,
-      "alt": "月光洒进木屋的夜晚：白衣诗人站在窗前抬头望着圆圆的月亮，地上像铺了一层白霜",
+      "alt": "《静夜思》四格分镜：深夜睡不着、一片“白霜”、抬头看月、低头想家",
       "credit": "AI 辅助生成 · up999.cn",
       "aiGenerated": true
     }
   },
-  "sources": ["部编版语文一年级下册", "《李白全集编年注释》"],
-  "status": "reviewed",
+  "sources": [
+    "部编版语文一年级下册",
+    "《李白全集编年注释》"
+  ],
+  "status": "published",
   "updatedAt": "2026-11-24"
 }

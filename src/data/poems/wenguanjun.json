@@ -1,0 +1,254 @@
+{
+  "id": "tang-shengtang-dufu-wenguanjun",
+  "slug": "wenguanjun",
+  "title": "闻官军收河南河北",
+  "titlePinyin": "wén guān jūn shōu hé nán hé běi",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "七言律诗",
+  "authorId": "dufu",
+  "gradeBand": "g5-6",
+  "tags": [
+    "喜讯",
+    "回家",
+    "春天",
+    "七言律诗"
+  ],
+  "difficulty": 3,
+  "writtenYear": 763,
+  "writtenLabel": "约公元 763 年（杜甫 51 岁，在四川听到好消息）",
+  "orderInAuthor": 2,
+  "famousLines": [
+    "白日放歌须纵酒，青春作伴好还乡。"
+  ],
+  "lines": [
+    {
+      "text": "剑外忽传收蓟北，",
+      "pinyin": [
+        "jiàn",
+        "wài",
+        "hū",
+        "chuán",
+        "shōu",
+        "jì",
+        "běi"
+      ],
+      "translation": "剑门关外忽然传来好消息：官兵收回了蓟北。",
+      "noteIds": [
+        "n-jibei"
+      ]
+    },
+    {
+      "text": "初闻涕泪满衣裳。",
+      "pinyin": [
+        "chū",
+        "wén",
+        "tì",
+        "lèi",
+        "mǎn",
+        "yī",
+        "cháng"
+      ],
+      "translation": "刚听到时，我的眼泪把衣服都打湿了。",
+      "noteIds": [
+        "n-yishang"
+      ]
+    },
+    {
+      "text": "却看妻子愁何在，",
+      "pinyin": [
+        "què",
+        "kàn",
+        "qī",
+        "zǐ",
+        "chóu",
+        "hé",
+        "zài"
+      ],
+      "translation": "回头看看妻子和孩子，他们的愁容全没了。",
+      "noteIds": [
+        "n-juankan"
+      ]
+    },
+    {
+      "text": "漫卷诗书喜欲狂。",
+      "pinyin": [
+        "màn",
+        "juǎn",
+        "shī",
+        "shū",
+        "xǐ",
+        "yù",
+        "kuáng"
+      ],
+      "translation": "我随手卷起书本，高兴得快要跳起来。",
+      "noteIds": []
+    },
+    {
+      "text": "白日放歌须纵酒，",
+      "pinyin": [
+        "bái",
+        "rì",
+        "fàng",
+        "gē",
+        "xū",
+        "zòng",
+        "jiǔ"
+      ],
+      "translation": "白天我要放声唱歌，还要痛快地喝点酒。",
+      "noteIds": []
+    },
+    {
+      "text": "青春作伴好还乡。",
+      "pinyin": [
+        "qīng",
+        "chūn",
+        "zuò",
+        "bàn",
+        "hǎo",
+        "huán",
+        "xiāng"
+      ],
+      "translation": "趁着春天好风景，正好一起回老家。",
+      "noteIds": [
+        "n-huanxiang"
+      ]
+    },
+    {
+      "text": "即从巴峡穿巫峡，",
+      "pinyin": [
+        "jí",
+        "cóng",
+        "bā",
+        "xiá",
+        "chuān",
+        "wū",
+        "xiá"
+      ],
+      "translation": "马上从巴峡动身，再穿过巫峡。",
+      "noteIds": [
+        "n-baxia"
+      ]
+    },
+    {
+      "text": "便下襄阳向洛阳。",
+      "pinyin": [
+        "biàn",
+        "xià",
+        "xiāng",
+        "yáng",
+        "xiàng",
+        "luò",
+        "yáng"
+      ],
+      "translation": "顺流到襄阳，再一路走向洛阳。",
+      "noteIds": []
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-jibei",
+      "word": "蓟北",
+      "pinyin": "jì běi",
+      "meaning": "在今天河北北部一带，是诗人一直想回去的地方。"
+    },
+    {
+      "id": "n-yishang",
+      "word": "衣裳",
+      "pinyin": "yī cháng",
+      "meaning": "衣服。这里的“裳”指下身穿的衣服。"
+    },
+    {
+      "id": "n-juankan",
+      "word": "却看",
+      "pinyin": "què kàn",
+      "meaning": "回头看。"
+    },
+    {
+      "id": "n-huanxiang",
+      "word": "还乡",
+      "pinyin": "huán xiāng",
+      "meaning": "回到家乡。"
+    },
+    {
+      "id": "n-baxia",
+      "word": "巴峡",
+      "pinyin": "bā xiá",
+      "meaning": "长江上的峡谷，在四川东部。"
+    }
+  ],
+  "translation": "剑门关外忽然传来好消息：官兵收回了蓟北。刚听到时，我的眼泪把衣服都打湿了。回头看看妻子和孩子，他们的愁容全没了。我随手卷起书本，高兴得快要跳起来。白天我要放声唱歌，还要痛快地喝点酒。趁着春天好风景，正好一起回老家。马上从巴峡动身，穿过巫峡，顺流到襄阳，再一路走向洛阳。",
+  "appreciation": "这是杜甫最开心的一首诗。开头一个“忽”字，说明好消息来得太突然。他先哭，再笑，又是卷书，又是唱歌，最后连回家的路线都想好了。诗人的高兴像小朋友听到放假一样，藏都藏不住。读这首诗，我们能看到一个平时总是发愁的人，忽然变得又快活又心急。",
+  "background": "公元 763 年春天，打了很久的仗终于停了，很多地方又恢复了安稳。杜甫那时住在四川，已经很多年没回老家。他听到这个消息，又惊又喜，眼泪一下子涌了出来，于是写下了这首诗。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "好消息来了",
+      "text": "杜甫在四川的家里，忽然听说远方安定下来了。"
+    },
+    {
+      "step": 2,
+      "title": "又哭又笑",
+      "text": "他眼泪流个不停，把衣服都打湿了，心里却特别高兴。"
+    },
+    {
+      "step": 3,
+      "title": "全家开心",
+      "text": "他回头看妻子和孩子，大家脸上都没有了愁容。"
+    },
+    {
+      "step": 4,
+      "title": "想回家",
+      "text": "他卷起书本，唱着歌，开始盘算回家的路怎么走。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "蓟",
+      "reading": "jì",
+      "reason": "“蓟北”是地名，读 jì。",
+      "standard": "不要读成 ji"
+    },
+    {
+      "char": "裳",
+      "reading": "cháng",
+      "reason": "“衣裳”在这里读 yī cháng，指衣服。",
+      "standard": "不要读成 shang"
+    },
+    {
+      "char": "卷",
+      "reading": "juǎn",
+      "reason": "“漫卷”是随手一卷，读第三声。",
+      "standard": "不要读成 juàn"
+    },
+    {
+      "char": "还",
+      "reading": "huán",
+      "reason": "“还乡”是回故乡，读 huán。",
+      "standard": "不要读成 hái"
+    },
+    {
+      "char": "峡",
+      "reading": "xiá",
+      "reason": "“巴峡”“巫峡”都是峡谷，读 xiá。",
+      "standard": "不要读成 jiá"
+    }
+  ],
+  "sources": [
+    "《杜工部集》",
+    "《唐诗鉴赏辞典》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-24",
+  "images": {
+    "cover": {
+      "src": "/assets/img/poems/wenguanjun-story.jpg",
+      "width": 2560,
+      "height": 1440,
+      "alt": "《闻官军收河南河北》四格分镜：好消息来了、又哭又笑、全家开心、想回家",
+      "credit": "AI 辅助生成 · up999.cn",
+      "aiGenerated": true
+    }
+  }
+}

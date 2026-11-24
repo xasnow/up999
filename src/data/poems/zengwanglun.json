@@ -1,0 +1,167 @@
+{
+  "id": "tang-shengtang-libai-zengwanglun",
+  "slug": "zengwanglun",
+  "title": "赠汪伦",
+  "titlePinyin": "zèng wāng lún",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "七言绝句",
+  "authorId": "libai",
+  "gradeBand": "g1-2",
+  "textbook": "部编版一年级下册",
+  "tags": [
+    "友情",
+    "送别",
+    "桃花潭",
+    "七言绝句"
+  ],
+  "difficulty": 2,
+  "writtenYear": 755,
+  "writtenLabel": "约公元 755 年（李白游桃花潭时）",
+  "orderInAuthor": 4,
+  "famousLines": [
+    "桃花潭水深千尺，不及汪伦送我情。"
+  ],
+  "lines": [
+    {
+      "text": "李白乘舟将欲行，",
+      "pinyin": [
+        "lǐ",
+        "bái",
+        "chéng",
+        "zhōu",
+        "jiāng",
+        "yù",
+        "xíng"
+      ],
+      "translation": "我坐上船，正准备出发，",
+      "noteIds": [
+        "n-jiang"
+      ]
+    },
+    {
+      "text": "忽闻岸上踏歌声。",
+      "pinyin": [
+        "hū",
+        "wén",
+        "àn",
+        "shàng",
+        "tà",
+        "gē",
+        "shēng"
+      ],
+      "translation": "忽然听见岸上传来踏歌的声音。",
+      "noteIds": [
+        "n-ta"
+      ]
+    },
+    {
+      "text": "桃花潭水深千尺，",
+      "pinyin": [
+        "táo",
+        "huā",
+        "tán",
+        "shuǐ",
+        "shēn",
+        "qiān",
+        "chǐ"
+      ],
+      "translation": "桃花潭的水有一千尺那么深，",
+      "noteIds": [
+        "n-tan"
+      ]
+    },
+    {
+      "text": "不及汪伦送我情。",
+      "pinyin": [
+        "bù",
+        "jí",
+        "wāng",
+        "lún",
+        "sòng",
+        "wǒ",
+        "qíng"
+      ],
+      "translation": "也比不上汪伦送我的这份情。",
+      "noteIds": [
+        "n-buji"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-jiang",
+      "word": "将",
+      "pinyin": "jiāng",
+      "meaning": "将要，快要。"
+    },
+    {
+      "id": "n-ta",
+      "word": "踏歌",
+      "pinyin": "tà gē",
+      "meaning": "一边唱歌，一边用脚打着节拍。"
+    },
+    {
+      "id": "n-tan",
+      "word": "潭",
+      "pinyin": "tán",
+      "meaning": "深深的水池。"
+    },
+    {
+      "id": "n-buji",
+      "word": "不及",
+      "pinyin": "bù jí",
+      "meaning": "比不上。"
+    }
+  ],
+  "translation": "我坐上小船正要出发，忽然听见岸上传来踏着节拍的歌声。桃花潭的水就算有一千尺深，也比不上汪伦送我的这份情谊。",
+  "appreciation": "写送别，很多人会写眼泪，李白却先写歌声。“忽闻”两个字，把惊喜写活了。后两句更妙：把看不见的情谊，比成看得见的潭水。潭水再深也量得出，朋友的情却量不完。所以这首诗读起来不伤心，反而暖暖的。",
+  "background": "李白在安徽桃花潭游玩时，住在汪伦家里。汪伦很热情，天天陪他喝酒聊天。李白要走的那天，汪伦带着一群人在岸边唱歌送他。李白很感动，就写下这首诗送给朋友。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "准备离开",
+      "text": "李白在桃花潭玩了几天，这天坐上小船准备回家。"
+    },
+    {
+      "step": 2,
+      "title": "岸上传来歌声",
+      "text": "船刚要开，他忽然听见岸上有人一边唱一边跺脚打拍子。"
+    },
+    {
+      "step": 3,
+      "title": "原来是汪伦",
+      "text": "他回头一看，是好朋友汪伦带着村里人来送他了。"
+    },
+    {
+      "step": 4,
+      "title": "情比潭水还深",
+      "text": "李白心里热热的：这潭水再深，也比不上朋友的情谊深。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "将",
+      "reading": "jiāng",
+      "reason": "“将欲行”的“将”是快要的意思，读 jiāng。",
+      "standard": "将领的“将”读 jiàng"
+    }
+  ],
+  "sources": [
+    "部编版语文一年级下册",
+    "《李太白全集》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-24",
+  "images": {
+    "cover": {
+      "src": "/assets/img/poems/zengwanglun-story.jpg",
+      "width": 2560,
+      "height": 1440,
+      "alt": "《赠汪伦》四格分镜：准备离开、岸上传来歌声、原来是汪伦、情比潭水还深",
+      "credit": "AI 辅助生成 · up999.cn",
+      "aiGenerated": true
+    }
+  }
+}

@@ -1,0 +1,167 @@
+{
+  "id": "tang-zhongtang-lulun-saixiaqu",
+  "slug": "saixiaqu",
+  "title": "塞下曲",
+  "titlePinyin": "sài xià qǔ",
+  "dynasty": "tangshi",
+  "era": "zhongtang",
+  "genre": "shi",
+  "form": "五言绝句",
+  "authorId": "lulun",
+  "gradeBand": "g3-4",
+  "tags": [
+    "边塞",
+    "将士",
+    "守边",
+    "五言绝句"
+  ],
+  "difficulty": 3,
+  "writtenYear": 790,
+  "writtenLabel": "约公元 790 年（卢纶 51 岁，写边塞将士）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "欲将轻骑逐，大雪满弓刀。"
+  ],
+  "lines": [
+    {
+      "text": "月黑雁飞高，",
+      "pinyin": [
+        "yuè",
+        "hēi",
+        "yàn",
+        "fēi",
+        "gāo"
+      ],
+      "translation": "夜里没有月光，大雁高高地飞走了。",
+      "noteIds": []
+    },
+    {
+      "text": "单于夜遁逃。",
+      "pinyin": [
+        "chán",
+        "yú",
+        "yè",
+        "dùn",
+        "táo"
+      ],
+      "translation": "敌人的首领趁着黑夜偷偷逃走。",
+      "noteIds": [
+        "n-chanyu",
+        "n-duntao"
+      ]
+    },
+    {
+      "text": "欲将轻骑逐，",
+      "pinyin": [
+        "yù",
+        "jiāng",
+        "qīng",
+        "jì",
+        "zhú"
+      ],
+      "translation": "将士们想带着轻骑兵去追赶。",
+      "noteIds": [
+        "n-qi",
+        "n-zhu"
+      ]
+    },
+    {
+      "text": "大雪满弓刀。",
+      "pinyin": [
+        "dà",
+        "xuě",
+        "mǎn",
+        "gōng",
+        "dāo"
+      ],
+      "translation": "这时大雪纷飞，落满了弓和刀。",
+      "noteIds": []
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-chanyu",
+      "word": "单于",
+      "pinyin": "chán yú",
+      "meaning": "古代北方民族首领的称号。"
+    },
+    {
+      "id": "n-duntao",
+      "word": "遁逃",
+      "pinyin": "dùn táo",
+      "meaning": "偷偷逃跑。"
+    },
+    {
+      "id": "n-qi",
+      "word": "骑",
+      "pinyin": "jì",
+      "meaning": "骑兵，这里指骑马追赶的人。"
+    },
+    {
+      "id": "n-zhu",
+      "word": "逐",
+      "pinyin": "zhú",
+      "meaning": "追赶。"
+    }
+  ],
+  "translation": "夜里没有月光，大雁高高地飞走了。敌人的首领趁着黑夜偷偷逃走。将士们想带着轻骑兵去追赶。这时大雪纷飞，落满了弓和刀。",
+  "appreciation": "这首诗像一个小故事。诗里只写了四幅小画面。夜很黑，大雁飞得很高。有人趁黑逃跑，将士们准备去追。最后，大雪落满了弓和刀。诗人没有写打斗，只写黑夜、雁群和风雪。守边的日子，又紧张又辛苦。真希望边关早日安宁，大家都能平安回家。",
+  "background": "卢纶在边塞生活过，见过将士们守边的日子。北方的冬夜又黑又冷，将士们要随时准备行动。一个下雪的夜里，他看见大雁惊飞。雪花落满弓刀，他写下了这首《塞下曲》。将士们守着边关，心里也盼着早日太平。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "黑夜雁飞",
+      "text": "边塞的夜里没有月光，大雁忽然高高飞起。"
+    },
+    {
+      "step": 2,
+      "title": "趁夜逃走",
+      "text": "敌人的首领趁着天黑，偷偷逃跑。"
+    },
+    {
+      "step": 3,
+      "title": "准备追赶",
+      "text": "将士们拿起弓箭，准备骑马去追。"
+    },
+    {
+      "step": 4,
+      "title": "大雪满弓刀",
+      "text": "大雪纷纷落下，落满了他们的弓和刀。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "单于",
+      "reading": "chán yú",
+      "reason": "“单于”是古代首领的称号，读 chán yú。",
+      "standard": "不要读成 dān yú"
+    },
+    {
+      "char": "骑",
+      "reading": "jì",
+      "reason": "“轻骑”指轻装骑马的人，“骑”读 jì。",
+      "standard": "表示骑马动作时读 qí"
+    },
+    {
+      "char": "逐",
+      "reading": "zhú",
+      "reason": "“逐”是追赶的意思，读 zhú。"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗鉴赏辞典》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-24",
+  "images": {
+    "cover": {
+      "src": "/assets/img/poems/saixiaqu-story.jpg",
+      "width": 2560,
+      "height": 1440,
+      "alt": "《塞下曲》四格分镜：黑夜雁飞、趁夜逃走、准备追赶、大雪满弓刀",
+      "credit": "AI 辅助生成 · up999.cn",
+      "aiGenerated": true
+    }
+  }
+}

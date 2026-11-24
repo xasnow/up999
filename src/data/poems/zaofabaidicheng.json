@@ -1,0 +1,177 @@
+{
+  "id": "tang-shengtang-libai-zaofabaidicheng",
+  "slug": "zaofabaidicheng",
+  "title": "早发白帝城",
+  "titlePinyin": "zǎo fā bái dì chéng",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "七言绝句",
+  "authorId": "libai",
+  "gradeBand": "g3-4",
+  "tags": [
+    "行船",
+    "长江",
+    "三峡",
+    "七言绝句"
+  ],
+  "difficulty": 2,
+  "writtenYear": 759,
+  "writtenLabel": "约公元 759 年（李白 59 岁，遇赦后坐船回家）",
+  "orderInAuthor": 8,
+  "famousLines": [
+    "两岸猿声啼不住，轻舟已过万重山。"
+  ],
+  "lines": [
+    {
+      "text": "朝辞白帝彩云间，",
+      "pinyin": [
+        "zhāo",
+        "cí",
+        "bái",
+        "dì",
+        "cǎi",
+        "yún",
+        "jiān"
+      ],
+      "translation": "清晨，我告别了彩云环绕的白帝城。",
+      "noteIds": [
+        "n-baidi",
+        "n-zhao"
+      ]
+    },
+    {
+      "text": "千里江陵一日还。",
+      "pinyin": [
+        "qiān",
+        "lǐ",
+        "jiāng",
+        "líng",
+        "yī",
+        "rì",
+        "huán"
+      ],
+      "translation": "千里之外的江陵，坐船一天就能到达。",
+      "noteIds": [
+        "n-huan"
+      ]
+    },
+    {
+      "text": "两岸猿声啼不住，",
+      "pinyin": [
+        "liǎng",
+        "àn",
+        "yuán",
+        "shēng",
+        "tí",
+        "bù",
+        "zhù"
+      ],
+      "translation": "两岸的猿猴叫个不停，声音还在耳边回荡。",
+      "noteIds": []
+    },
+    {
+      "text": "轻舟已过万重山。",
+      "pinyin": [
+        "qīng",
+        "zhōu",
+        "yǐ",
+        "guò",
+        "wàn",
+        "chóng",
+        "shān"
+      ],
+      "translation": "轻快的小船已经驶过了万重青山。",
+      "noteIds": [
+        "n-chong"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-baidi",
+      "word": "白帝城",
+      "pinyin": "bái dì chéng",
+      "meaning": "在重庆奉节，长江边的一座古城。"
+    },
+    {
+      "id": "n-zhao",
+      "word": "朝",
+      "pinyin": "zhāo",
+      "meaning": "早晨。"
+    },
+    {
+      "id": "n-huan",
+      "word": "还",
+      "pinyin": "huán",
+      "meaning": "返回，回到。"
+    },
+    {
+      "id": "n-chong",
+      "word": "重",
+      "pinyin": "chóng",
+      "meaning": "一层又一层。"
+    }
+  ],
+  "translation": "清晨，我告别了彩云环绕的白帝城。千里之外的江陵，坐船一天就能到达。两岸的猿猴叫个不停，声音还在耳边回荡。轻快的小船，已经驶过了万重青山。",
+  "appreciation": "这首诗写的是回家的快乐。彩云、猿声、青山，一样样从船边飞过。诗人不说自己多高兴，只写小船“轻”和“快”。读着读着，我们好像也坐在船上，跟着他一起往家赶。",
+  "background": "公元 759 年，李白被流放到夜郎。走到白帝城时，忽然接到赦免的消息。他又惊又喜，马上坐船回江陵。这首诗就是那时写的，句句都带着轻快的心情。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "突然遇赦",
+      "text": "李白被流放到很远的地方，走到白帝城时，好消息来了。"
+    },
+    {
+      "step": 2,
+      "title": "清早出发",
+      "text": "天刚亮，他就坐上小船，告别彩云里的白帝城。"
+    },
+    {
+      "step": 3,
+      "title": "猿声相伴",
+      "text": "两岸的猿猴叫个不停，叫声一路跟着小船。"
+    },
+    {
+      "step": 4,
+      "title": "顺水回家",
+      "text": "小船又轻又快，不知不觉就过了万重青山。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "朝",
+      "reading": "zhāo",
+      "reason": "“朝辞”是早晨告别，“朝”读 zhāo。",
+      "standard": "表示朝代时读 cháo"
+    },
+    {
+      "char": "还",
+      "reading": "huán",
+      "reason": "“一日还”是当天回到，“还”读 huán。",
+      "standard": "表示还有时读 hái"
+    },
+    {
+      "char": "重",
+      "reading": "chóng",
+      "reason": "“万重山”是一层层的山，“重”读 chóng。",
+      "standard": "表示重量时读 zhòng"
+    }
+  ],
+  "sources": [
+    "《李太白全集》",
+    "《唐诗鉴赏辞典》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-24",
+  "images": {
+    "cover": {
+      "src": "/assets/img/poems/zaofabaidicheng-story.jpg",
+      "width": 2560,
+      "height": 1440,
+      "alt": "《早发白帝城》四格分镜：突然遇赦、清早出发、猿声相伴、顺水回家",
+      "credit": "AI 辅助生成 · up999.cn",
+      "aiGenerated": true
+    }
+  }
+}

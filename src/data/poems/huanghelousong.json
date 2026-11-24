@@ -1,0 +1,165 @@
+{
+  "id": "tang-shengtang-libai-huanghelousong",
+  "slug": "huanghelousong",
+  "title": "黄鹤楼送孟浩然之广陵",
+  "titlePinyin": "huáng hè lóu sòng mèng hào rán zhī guǎng líng",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "七言绝句",
+  "authorId": "libai",
+  "gradeBand": "g3-4",
+  "tags": [
+    "送别",
+    "友情",
+    "长江",
+    "七言绝句"
+  ],
+  "difficulty": 2,
+  "writtenYear": 730,
+  "writtenLabel": "约公元 730 年（李白 30 岁，在江边送别朋友）",
+  "orderInAuthor": 6,
+  "famousLines": [
+    "孤帆远影碧空尽，唯见长江天际流。"
+  ],
+  "lines": [
+    {
+      "text": "故人西辞黄鹤楼，",
+      "pinyin": [
+        "gù",
+        "rén",
+        "xī",
+        "cí",
+        "huáng",
+        "hè",
+        "lóu"
+      ],
+      "translation": "老朋友在西边的黄鹤楼和我告别。",
+      "noteIds": [
+        "n-guren",
+        "n-huanghelou"
+      ]
+    },
+    {
+      "text": "烟花三月下扬州。",
+      "pinyin": [
+        "yān",
+        "huā",
+        "sān",
+        "yuè",
+        "xià",
+        "yáng",
+        "zhōu"
+      ],
+      "translation": "在花开如烟的三月，坐船去扬州。",
+      "noteIds": [
+        "n-yanhua"
+      ]
+    },
+    {
+      "text": "孤帆远影碧空尽，",
+      "pinyin": [
+        "gū",
+        "fān",
+        "yuǎn",
+        "yǐng",
+        "bì",
+        "kōng",
+        "jìn"
+      ],
+      "translation": "一片白帆越走越远，消失在蓝天尽头。",
+      "noteIds": []
+    },
+    {
+      "text": "唯见长江天际流。",
+      "pinyin": [
+        "wéi",
+        "jiàn",
+        "cháng",
+        "jiāng",
+        "tiān",
+        "jì",
+        "liú"
+      ],
+      "translation": "只看见长江水，一直流向天边。",
+      "noteIds": [
+        "n-wei"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-guren",
+      "word": "故人",
+      "pinyin": "gù rén",
+      "meaning": "老朋友，这里指孟浩然。"
+    },
+    {
+      "id": "n-huanghelou",
+      "word": "黄鹤楼",
+      "pinyin": "huáng hè lóu",
+      "meaning": "在武汉长江边的一座名楼。"
+    },
+    {
+      "id": "n-yanhua",
+      "word": "烟花",
+      "pinyin": "yān huā",
+      "meaning": "形容春天花开得像烟雾一样美。"
+    },
+    {
+      "id": "n-wei",
+      "word": "唯",
+      "pinyin": "wéi",
+      "meaning": "只。"
+    }
+  ],
+  "translation": "老朋友在西边的黄鹤楼和我告别。在花开如烟的三月，他坐船去扬州。一片白帆越走越远，消失在蓝天尽头。我只看见长江水，一直流向天边。",
+  "appreciation": "这是一首送别诗，却没有哭哭啼啼。诗人站在江边，看着朋友的船越走越远。帆影不见了，他还在看，只看见长江水向天边流去。短短四句，写尽了舍不得朋友的心情。江水和帆影，都替诗人说着再见。",
+  "background": "公元 730 年春天，李白在武汉的黄鹤楼送好朋友孟浩然。孟浩然要坐船去扬州，那里正是花开最美的季节。李白一直望着朋友的船，直到它消失在天边，才写下这首诗。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "黄鹤楼送别",
+      "text": "春天，李白在黄鹤楼送好朋友孟浩然。"
+    },
+    {
+      "step": 2,
+      "title": "朋友上船",
+      "text": "孟浩然坐上小船，准备顺长江去扬州。"
+    },
+    {
+      "step": 3,
+      "title": "帆影远去",
+      "text": "白帆越来越小，最后消失在蓝天尽头。"
+    },
+    {
+      "step": 4,
+      "title": "江水悠悠",
+      "text": "李白还站在江边，只看见长江水流向天边。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "唯",
+      "reading": "wéi",
+      "reason": "“唯见”是只看见，“唯”读 wéi。",
+      "standard": "不要读成 wěi"
+    }
+  ],
+  "sources": [
+    "《李太白全集》",
+    "《唐诗鉴赏辞典》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-24",
+  "images": {
+    "cover": {
+      "src": "/assets/img/poems/huanghelousong-story.jpg",
+      "width": 2560,
+      "height": 1440,
+      "alt": "《黄鹤楼送孟浩然之广陵》四格分镜：黄鹤楼送别、朋友上船、帆影远去、江水悠悠",
+      "credit": "AI 辅助生成 · up999.cn",
+      "aiGenerated": true
+    }
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "id": "song-beisong-liqingzhao-rumengling",
+  "slug": "rumengling",
+  "title": "如梦令·常记溪亭日暮",
+  "titlePinyin": "rú mèng lìng · cháng jì xī tíng rì mù",
+  "dynasty": "songci",
+  "era": "beisong",
+  "genre": "ci",
+  "form": "词（小令）",
+  "authorId": "liqingzhao",
+  "gradeBand": "g5-6",
+  "tags": [
+    "回忆",
+    "夏日",
+    "荷花",
+    "词"
+  ],
+  "difficulty": 2,
+  "writtenYear": 1100,
+  "writtenLabel": "约公元 1100 年（李清照 16 岁左右）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "争渡，争渡，惊起一滩鸥鹭。"
+  ],
+  "lines": [
+    {
+      "text": "常记溪亭日暮，",
+      "pinyin": [
+        "cháng",
+        "jì",
+        "xī",
+        "tíng",
+        "rì",
+        "mù"
+      ],
+      "translation": "常常想起在溪边亭子玩到日落的时候。",
+      "noteIds": [
+        "n-xiting"
+      ]
+    },
+    {
+      "text": "沉醉不知归路。",
+      "pinyin": [
+        "chén",
+        "zuì",
+        "bù",
+        "zhī",
+        "guī",
+        "lù"
+      ],
+      "translation": "我有点醉了，连回家的路都记不清。",
+      "noteIds": [
+        "n-chenzui"
+      ]
+    },
+    {
+      "text": "兴尽晚回舟，",
+      "pinyin": [
+        "xìng",
+        "jìn",
+        "wǎn",
+        "huí",
+        "zhōu"
+      ],
+      "translation": "玩够了才划船回去，天已经晚了。",
+      "noteIds": [
+        "n-xingjin"
+      ]
+    },
+    {
+      "text": "误入藕花深处。",
+      "pinyin": [
+        "wù",
+        "rù",
+        "ǒu",
+        "huā",
+        "shēn",
+        "chù"
+      ],
+      "translation": "一不小心，小船划进了荷花丛深处。",
+      "noteIds": [
+        "n-ouhua"
+      ]
+    },
+    {
+      "text": "争渡，争渡，",
+      "pinyin": [
+        "zhēng",
+        "dù",
+        "zhēng",
+        "dù"
+      ],
+      "translation": "快划呀，快划呀！",
+      "noteIds": []
+    },
+    {
+      "text": "惊起一滩鸥鹭。",
+      "pinyin": [
+        "jīng",
+        "qǐ",
+        "yī",
+        "tān",
+        "ōu",
+        "lù"
+      ],
+      "translation": "划水声惊起了一滩的鸥鸟和白鹭。",
+      "noteIds": [
+        "n-oulu"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-xiting",
+      "word": "溪亭",
+      "pinyin": "xī tíng",
+      "meaning": "溪边的小亭子，可以坐着休息、看风景。"
+    },
+    {
+      "id": "n-chenzui",
+      "word": "沉醉",
+      "pinyin": "chén zuì",
+      "meaning": "喝得有点醉，也指玩得入了迷。"
+    },
+    {
+      "id": "n-xingjin",
+      "word": "兴尽",
+      "pinyin": "xìng jìn",
+      "meaning": "玩得尽兴了，兴致已经满足。"
+    },
+    {
+      "id": "n-ouhua",
+      "word": "藕花",
+      "pinyin": "ǒu huā",
+      "meaning": "荷花。藕是莲的地下茎。"
+    },
+    {
+      "id": "n-oulu",
+      "word": "鸥鹭",
+      "pinyin": "ōu lù",
+      "meaning": "水边的鸥鸟和白鹭，都是白色的水鸟。"
+    }
+  ],
+  "translation": "我常常想起那次在溪边亭子玩到日落。我有点醉了，连回家的路都记不清。玩够了才划船回去，天已经晚了，小船一不小心划进了荷花丛深处。快划呀，快划呀！划水声惊起了一滩的鸥鸟和白鹭。",
+  "appreciation": "整首词像一段小视频。先回放白天在溪亭玩到日落，再拍喝醉划船、误入荷花丛，最后是“争渡”的慌张和鸥鹭飞起的一瞬。短短几句，有颜色、有声音、有动作。李清照写的是小时候的一次游玩，却让读过的人都想起自己玩到不想回家的傍晚。",
+  "background": "李清照小时候住在济南，家附近有湖，湖里开满荷花。她常和伙伴们划船出去玩。多年以后，那个夏天的傍晚还清清楚楚地留在她心里，于是她写下这首词，把它记了下来。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "玩到日落",
+      "text": "她常想起那次在溪边亭子玩到太阳下山。"
+    },
+    {
+      "step": 2,
+      "title": "醉得迷路",
+      "text": "她喝了点酒，晕乎乎的，忘了回家的路。"
+    },
+    {
+      "step": 3,
+      "title": "误入荷丛",
+      "text": "小船一划，竟然钻进了荷花丛深处。"
+    },
+    {
+      "step": 4,
+      "title": "惊飞鸥鹭",
+      "text": "她使劲划船，惊得一滩鸥鸟白鹭飞起来。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "兴",
+      "reading": "xìng",
+      "reason": "“兴尽”指兴致、兴趣。",
+      "standard": "这里不读 xīng"
+    },
+    {
+      "char": "藕",
+      "reading": "ǒu",
+      "reason": "“藕花”就是荷花，藕是莲的地下茎。",
+      "standard": "注意是第三声"
+    },
+    {
+      "char": "鹭",
+      "reading": "lù",
+      "reason": "“鸥鹭”指白鹭，是一种水鸟。",
+      "standard": "注意是第四声，不读 lǔ"
+    }
+  ],
+  "sources": [
+    "《漱玉词》",
+    "《宋词三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-24",
+  "images": {
+    "cover": {
+      "src": "/assets/img/poems/rumengling-story.jpg",
+      "width": 2560,
+      "height": 1440,
+      "alt": "《如梦令·常记溪亭日暮》四格分镜：玩到日落、醉得迷路、误入荷丛、惊飞鸥鹭",
+      "credit": "AI 辅助生成 · up999.cn",
+      "aiGenerated": true
+    }
+  }
+}

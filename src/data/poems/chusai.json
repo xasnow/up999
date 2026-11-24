@@ -1,0 +1,177 @@
+{
+  "id": "tang-shengtang-wangchangling-chusai",
+  "slug": "chusai",
+  "title": "出塞",
+  "titlePinyin": "chū sài",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "七言绝句",
+  "authorId": "wangchangling",
+  "gradeBand": "g5-6",
+  "tags": [
+    "边塞",
+    "守边",
+    "想家",
+    "七言绝句"
+  ],
+  "difficulty": 3,
+  "writtenYear": 730,
+  "writtenLabel": "约公元 730 年（王昌龄游历西北边塞时）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "但使龙城飞将在，不教胡马度阴山。"
+  ],
+  "lines": [
+    {
+      "text": "秦时明月汉时关，",
+      "pinyin": [
+        "qín",
+        "shí",
+        "míng",
+        "yuè",
+        "hàn",
+        "shí",
+        "guān"
+      ],
+      "translation": "还是秦汉时的那轮月亮，还是那时的边关。",
+      "noteIds": []
+    },
+    {
+      "text": "万里长征人未还。",
+      "pinyin": [
+        "wàn",
+        "lǐ",
+        "cháng",
+        "zhēng",
+        "rén",
+        "wèi",
+        "huán"
+      ],
+      "translation": "守边的战士走了很远很远，一直没有回家。",
+      "noteIds": [
+        "n-haihuan"
+      ]
+    },
+    {
+      "text": "但使龙城飞将在，",
+      "pinyin": [
+        "dàn",
+        "shǐ",
+        "lóng",
+        "chéng",
+        "fēi",
+        "jiàng",
+        "zài"
+      ],
+      "translation": "要是有像李广那样勇敢的将军守在边关。",
+      "noteIds": [
+        "n-feijiang"
+      ]
+    },
+    {
+      "text": "不教胡马度阴山。",
+      "pinyin": [
+        "bù",
+        "jiào",
+        "hú",
+        "mǎ",
+        "dù",
+        "yīn",
+        "shān"
+      ],
+      "translation": "外来的马群就不敢越过阴山了。",
+      "noteIds": [
+        "n-jiao",
+        "n-yinshan"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-haihuan",
+      "word": "未还",
+      "pinyin": "wèi huán",
+      "meaning": "还没有回来。"
+    },
+    {
+      "id": "n-feijiang",
+      "word": "飞将",
+      "pinyin": "fēi jiàng",
+      "meaning": "指汉代的将军李广，他很勇敢，大家叫他“飞将军”。"
+    },
+    {
+      "id": "n-jiao",
+      "word": "不教",
+      "pinyin": "bù jiào",
+      "meaning": "不让。"
+    },
+    {
+      "id": "n-yinshan",
+      "word": "阴山",
+      "pinyin": "yīn shān",
+      "meaning": "北方的一座大山，古时候是边关的一道屏障。"
+    }
+  ],
+  "translation": "还是秦汉时的那轮月亮，还是那时的边关。守边的战士走了很远很远，一直没有回家。要是有像李广那样勇敢的将军守在边关，外来的马群就不敢越过阴山了。",
+  "appreciation": "诗一开头就把人带到很远的古代：月亮还是那个月亮，边关还是那个边关。接着他想起那些离家很久的战士，心里很不好受。最后他希望边关安稳，大家都能平平安安。短短四句，有月亮，有关口，也有对和平的盼望。",
+  "background": "王昌龄年轻的时候到过西北边塞。那里风大、沙多，关口一座连着一座。他看见守着边关的战士一年年不能回家，心里很感动，就写下了这首诗。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "边关的月亮",
+      "text": "夜里，一轮明月照在古老的关口上，安静又明亮。"
+    },
+    {
+      "step": 2,
+      "title": "想起战士",
+      "text": "王昌龄想到，很多守边的战士离家很远，很久没回去了。"
+    },
+    {
+      "step": 3,
+      "title": "盼望良将",
+      "text": "他希望有一位又勇敢又可靠的将军，把边关守得稳稳的。"
+    },
+    {
+      "step": 4,
+      "title": "边关安宁",
+      "text": "这样外来的马群就不敢越过阴山，大家都能安心过日子。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "还",
+      "reading": "huán",
+      "reason": "“未还”是没有回来，读 huán。",
+      "standard": "不要读成 hái"
+    },
+    {
+      "char": "将",
+      "reading": "jiàng",
+      "reason": "“飞将”指将军，读 jiàng。",
+      "standard": "不要读成 jiāng"
+    },
+    {
+      "char": "教",
+      "reading": "jiào",
+      "reason": "“不教”是“不让”，读 jiào。",
+      "standard": "不要读成 jiāo"
+    }
+  ],
+  "sources": [
+    "《王昌龄集》",
+    "《唐诗鉴赏辞典》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-24",
+  "images": {
+    "cover": {
+      "src": "/assets/img/poems/chusai-story.jpg",
+      "width": 2560,
+      "height": 1440,
+      "alt": "《出塞》四格分镜：边关的月亮、想起战士、盼望良将、边关安宁",
+      "credit": "AI 辅助生成 · up999.cn",
+      "aiGenerated": true
+    }
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "id": "tang-shengtang-dufu-jueju-huangli",
+  "slug": "jueju-huangli",
+  "title": "绝句",
+  "titlePinyin": "jué jù",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "七言绝句",
+  "authorId": "dufu",
+  "gradeBand": "g1-2",
+  "textbook": "部编版二年级下册",
+  "tags": [
+    "春天",
+    "景物",
+    "对仗",
+    "七言绝句"
+  ],
+  "difficulty": 2,
+  "writtenYear": 764,
+  "writtenLabel": "约公元 764 年（杜甫居成都草堂时）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "两个黄鹂鸣翠柳，一行白鹭上青天。"
+  ],
+  "lines": [
+    {
+      "text": "两个黄鹂鸣翠柳，",
+      "pinyin": [
+        "liǎng",
+        "gè",
+        "huáng",
+        "lí",
+        "míng",
+        "cuì",
+        "liǔ"
+      ],
+      "translation": "两只黄鹂在绿柳间唱歌，",
+      "noteIds": [
+        "n-li"
+      ]
+    },
+    {
+      "text": "一行白鹭上青天。",
+      "pinyin": [
+        "yì",
+        "háng",
+        "bái",
+        "lù",
+        "shàng",
+        "qīng",
+        "tiān"
+      ],
+      "translation": "一行白鹭飞上蓝蓝的天空。",
+      "noteIds": [
+        "n-yixing"
+      ]
+    },
+    {
+      "text": "窗含西岭千秋雪，",
+      "pinyin": [
+        "chuāng",
+        "hán",
+        "xī",
+        "lǐng",
+        "qiān",
+        "qiū",
+        "xuě"
+      ],
+      "translation": "窗口框住了西岭上千年不化的雪，",
+      "noteIds": [
+        "n-xiling"
+      ]
+    },
+    {
+      "text": "门泊东吴万里船。",
+      "pinyin": [
+        "mén",
+        "bó",
+        "dōng",
+        "wú",
+        "wàn",
+        "lǐ",
+        "chuán"
+      ],
+      "translation": "门前停着从东吴开来的船。",
+      "noteIds": [
+        "n-bo"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-li",
+      "word": "黄鹂",
+      "pinyin": "huáng lí",
+      "meaning": "一种黄色的小鸟，叫声很好听。"
+    },
+    {
+      "id": "n-yixing",
+      "word": "一行",
+      "pinyin": "yì háng",
+      "meaning": "排成一列。"
+    },
+    {
+      "id": "n-xiling",
+      "word": "西岭",
+      "pinyin": "xī lǐng",
+      "meaning": "成都西边的雪山。"
+    },
+    {
+      "id": "n-bo",
+      "word": "泊",
+      "pinyin": "bó",
+      "meaning": "船停靠在水边。"
+    }
+  ],
+  "translation": "两只黄鹂在翠绿的柳树上唱歌，一行白鹭飞向蓝蓝的天空。窗口正好框住西岭上千年不化的雪，门前停着从东吴远道而来的船。",
+  "appreciation": "四句诗像四幅小画，一句一幅。黄、翠、白、青，颜色一样一样排开，特别亮。前两句写会动的鸟，后两句写安静的雪和船。“含”字最巧，窗口像一个画框，把雪山装了进去。读完像看了一本春天的图画书。",
+  "background": "杜甫在成都住过几年，家就在浣花溪边。春天的一个晴天，他坐在屋里往窗外看。近处有柳树和小鸟，远处有雪山，门前还停着船。他心情很好，就写下这首《绝句》。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "坐在窗前",
+      "text": "春天的一个晴天，杜甫坐在成都家里的窗前。"
+    },
+    {
+      "step": 2,
+      "title": "近处有鸟",
+      "text": "柳树绿了，两只黄鹂在枝头叫，白鹭排成一队飞上天。"
+    },
+    {
+      "step": 3,
+      "title": "远处有雪",
+      "text": "从窗口望出去，西边的高山上还盖着白白的雪。"
+    },
+    {
+      "step": 4,
+      "title": "门前有船",
+      "text": "门前的小河里停着船，那是从很远的东吴开来的。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "行",
+      "reading": "háng",
+      "reason": "“一行白鹭”指排成一列，“行”读 háng。",
+      "standard": "行走的“行”读 xíng"
+    },
+    {
+      "char": "泊",
+      "reading": "bó",
+      "reason": "“门泊”是船停靠的意思，读 bó。",
+      "standard": "湖泊的“泊”读 pō"
+    }
+  ],
+  "sources": [
+    "部编版语文二年级下册",
+    "《杜工部集》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-24",
+  "images": {
+    "cover": {
+      "src": "/assets/img/poems/jueju-huangli-story.jpg",
+      "width": 2560,
+      "height": 1440,
+      "alt": "《绝句》四格分镜：坐在窗前、近处有鸟、远处有雪、门前有船",
+      "credit": "AI 辅助生成 · up999.cn",
+      "aiGenerated": true
+    }
+  }
+}

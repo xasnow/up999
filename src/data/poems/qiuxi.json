@@ -1,0 +1,185 @@
+{
+  "id": "tang-wantang-dumu-qiuxi",
+  "slug": "qiuxi",
+  "title": "秋夕",
+  "titlePinyin": "qiū xī",
+  "dynasty": "tangshi",
+  "era": "wantang",
+  "genre": "shi",
+  "form": "七言绝句",
+  "authorId": "dumu",
+  "gradeBand": "g5-6",
+  "tags": [
+    "秋天",
+    "夜晚",
+    "星空",
+    "七言绝句"
+  ],
+  "difficulty": 3,
+  "writtenYear": 845,
+  "writtenLabel": "约公元 845 年（杜牧 42 岁）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "天阶夜色凉如水，卧看牵牛织女星。"
+  ],
+  "lines": [
+    {
+      "text": "银烛秋光冷画屏，",
+      "pinyin": [
+        "yín",
+        "zhú",
+        "qiū",
+        "guāng",
+        "lěng",
+        "huà",
+        "píng"
+      ],
+      "translation": "秋夜里，银白的蜡烛照着画屏。",
+      "noteIds": [
+        "n-huaping"
+      ]
+    },
+    {
+      "text": "轻罗小扇扑流萤。",
+      "pinyin": [
+        "qīng",
+        "luó",
+        "xiǎo",
+        "shàn",
+        "pū",
+        "liú",
+        "yíng"
+      ],
+      "translation": "有人摇着小扇，追扑飞动的萤火虫。",
+      "noteIds": [
+        "n-xiaoshan",
+        "n-liuying"
+      ]
+    },
+    {
+      "text": "天阶夜色凉如水，",
+      "pinyin": [
+        "tiān",
+        "jiē",
+        "yè",
+        "sè",
+        "liáng",
+        "rú",
+        "shuǐ"
+      ],
+      "translation": "石阶上的夜色，凉得像水一样。",
+      "noteIds": [
+        "n-tianjie"
+      ]
+    },
+    {
+      "text": "卧看牵牛织女星。",
+      "pinyin": [
+        "wò",
+        "kàn",
+        "qiān",
+        "niú",
+        "zhī",
+        "nǚ",
+        "xīng"
+      ],
+      "translation": "她躺下来，望着天上的牵牛星和织女星。",
+      "noteIds": [
+        "n-qianniu"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-huaping",
+      "word": "画屏",
+      "pinyin": "huà píng",
+      "meaning": "画着图案的屏风，是屋里挡风的家具。"
+    },
+    {
+      "id": "n-xiaoshan",
+      "word": "小扇",
+      "pinyin": "xiǎo shàn",
+      "meaning": "用轻罗做成的小扇子，又轻又好看。"
+    },
+    {
+      "id": "n-liuying",
+      "word": "流萤",
+      "pinyin": "liú yíng",
+      "meaning": "飞动的萤火虫，尾巴上带着小灯笼。"
+    },
+    {
+      "id": "n-tianjie",
+      "word": "天阶",
+      "pinyin": "tiān jiē",
+      "meaning": "宫殿里的石台阶，夜里又凉又安静。"
+    },
+    {
+      "id": "n-qianniu",
+      "word": "牵牛织女星",
+      "pinyin": "qiān niú zhī nǚ xīng",
+      "meaning": "天上隔着银河的两颗亮星。"
+    }
+  ],
+  "translation": "秋天的夜里，银白的蜡烛照着画屏。有人摇着小扇，去追飞动的萤火虫。石阶上的夜色凉得像水。她躺下来，望着天上的牵牛星和织女星。",
+  "appreciation": "这首诗像一幅秋夜图。前两句有烛光、有画屏、有萤火虫，画面是动的；后两句只剩凉凉的夜色和满天星星，画面慢慢静下来。一热一凉，一忙一闲，读着读着，好像自己也坐在石阶上吹夜风。诗人不说一句心里话，全让景物替他说。",
+  "background": "杜牧很喜欢在夜里看风景。一个秋天的晚上，他看见屋里的蜡烛和屏风，又听见虫鸣，就走到外面去看星星。凉凉的夜色让他想起天上的传说，于是他写下了这首诗。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "秋夜点灯",
+      "text": "秋天的晚上，屋里点着银白的蜡烛，屏风上映着光。"
+    },
+    {
+      "step": 2,
+      "title": "追扑萤火",
+      "text": "有人拿着轻巧的小扇，追着萤火虫跑来跑去。"
+    },
+    {
+      "step": 3,
+      "title": "石阶乘凉",
+      "text": "夜深了，石阶凉得像水，四周静悄悄的。"
+    },
+    {
+      "step": 4,
+      "title": "躺着看星",
+      "text": "她躺下来，看天上的牵牛星和织女星。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "屏",
+      "reading": "píng",
+      "reason": "“画屏”指屏风，是屋里挡风的家具。",
+      "standard": "这里不读 bǐng"
+    },
+    {
+      "char": "扇",
+      "reading": "shàn",
+      "reason": "“小扇”说的是扇子这件东西。",
+      "standard": "表示“扇风”的动作时读 shān"
+    },
+    {
+      "char": "萤",
+      "reading": "yíng",
+      "reason": "“流萤”指飞动的萤火虫。",
+      "standard": "注意是后鼻音，不读 yín"
+    }
+  ],
+  "sources": [
+    "《唐诗三百首》",
+    "《樊川文集》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-24",
+  "images": {
+    "cover": {
+      "src": "/assets/img/poems/qiuxi-story.jpg",
+      "width": 2560,
+      "height": 1440,
+      "alt": "《秋夕》四格分镜：秋夜点灯、追扑萤火、石阶乘凉、躺着看星",
+      "credit": "AI 辅助生成 · up999.cn",
+      "aiGenerated": true
+    }
+  }
+}

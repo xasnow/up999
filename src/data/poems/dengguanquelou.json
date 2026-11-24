@@ -1,0 +1,151 @@
+{
+  "id": "tang-shengtang-wangzhihuan-dengguanquelou",
+  "slug": "dengguanquelou",
+  "title": "登鹳雀楼",
+  "titlePinyin": "dēng guàn què lóu",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "五言绝句",
+  "authorId": "wangzhihuan",
+  "gradeBand": "g1-2",
+  "textbook": "部编版二年级上册",
+  "tags": [
+    "登高",
+    "黄河",
+    "立志",
+    "五言绝句"
+  ],
+  "difficulty": 1,
+  "writtenYear": 727,
+  "writtenLabel": "约公元 727 年（王之涣登楼远望时）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "欲穷千里目，更上一层楼。"
+  ],
+  "lines": [
+    {
+      "text": "白日依山尽，",
+      "pinyin": [
+        "bái",
+        "rì",
+        "yī",
+        "shān",
+        "jìn"
+      ],
+      "translation": "太阳靠着山慢慢落下，",
+      "noteIds": [
+        "n-yi"
+      ]
+    },
+    {
+      "text": "黄河入海流。",
+      "pinyin": [
+        "huáng",
+        "hé",
+        "rù",
+        "hǎi",
+        "liú"
+      ],
+      "translation": "黄河滚滚流向大海。",
+      "noteIds": []
+    },
+    {
+      "text": "欲穷千里目，",
+      "pinyin": [
+        "yù",
+        "qióng",
+        "qiān",
+        "lǐ",
+        "mù"
+      ],
+      "translation": "如果想看得更远，",
+      "noteIds": [
+        "n-qiong"
+      ]
+    },
+    {
+      "text": "更上一层楼。",
+      "pinyin": [
+        "gèng",
+        "shàng",
+        "yī",
+        "céng",
+        "lóu"
+      ],
+      "translation": "就要再往上登一层楼。",
+      "noteIds": [
+        "n-geng"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-yi",
+      "word": "依",
+      "pinyin": "yī",
+      "meaning": "靠着，挨着。"
+    },
+    {
+      "id": "n-qiong",
+      "word": "穷",
+      "pinyin": "qióng",
+      "meaning": "尽，这里指看到尽头。"
+    },
+    {
+      "id": "n-geng",
+      "word": "更",
+      "pinyin": "gèng",
+      "meaning": "再，又。"
+    }
+  ],
+  "translation": "太阳靠着西山慢慢落下去，黄河朝着大海奔流。想要看到更远的风景，就要再登上一层楼。",
+  "appreciation": "前两句写眼睛看到的：落日、高山、黄河、大海。一句往上看，一句往远看，画面很大。后两句写心里想到的：想看得更远，就得站得更高。这句话后来成了很多人的座右铭。它告诉我们：多学一点，多走一步，世界就更大一点。",
+  "background": "鹳雀楼在山西永济的黄河边上，楼很高。传说常有鹳雀停在楼上，所以叫这个名字。有一天傍晚，王之涣登上高楼，看见太阳落山、黄河东流。他心里一动，就写下了这首诗。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "登上高楼",
+      "text": "傍晚，王之涣登上鹳雀楼，站在高处往远处看。"
+    },
+    {
+      "step": 2,
+      "title": "太阳落山",
+      "text": "西边的太阳靠着山慢慢沉下去，天边一片金黄。"
+    },
+    {
+      "step": 3,
+      "title": "黄河奔流",
+      "text": "脚下的黄河哗哗向东流，一直流向远处的大海。"
+    },
+    {
+      "step": 4,
+      "title": "想看得更远",
+      "text": "他想：要看清更远的地方，还得再登上一层楼。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "更",
+      "reading": "gèng",
+      "reason": "“更上一层楼”的“更”是再、又的意思，读 gèng。",
+      "standard": "三更半夜的“更”读 gēng"
+    }
+  ],
+  "sources": [
+    "部编版语文二年级上册",
+    "《全唐诗》王之涣卷"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-24",
+  "images": {
+    "cover": {
+      "src": "/assets/img/poems/dengguanquelou-story.jpg",
+      "width": 2560,
+      "height": 1440,
+      "alt": "《登鹳雀楼》四格分镜：登上高楼、太阳落山、黄河奔流、想看得更远",
+      "credit": "AI 辅助生成 · up999.cn",
+      "aiGenerated": true
+    }
+  }
+}

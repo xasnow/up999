@@ -1,0 +1,183 @@
+{
+  "id": "tang-shengtang-wangwei-jiuyuejiu",
+  "slug": "jiuyuejiu",
+  "title": "九月九日忆山东兄弟",
+  "titlePinyin": "jiǔ yuè jiǔ rì yì shān dōng xiōng dì",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "七言绝句",
+  "authorId": "wangwei",
+  "gradeBand": "g3-4",
+  "tags": [
+    "思乡",
+    "重阳节",
+    "亲情",
+    "七言绝句"
+  ],
+  "difficulty": 2,
+  "writtenYear": 717,
+  "writtenLabel": "约公元 717 年（王维 17 岁，独自在长安）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "每逢佳节倍思亲。"
+  ],
+  "lines": [
+    {
+      "text": "独在异乡为异客，",
+      "pinyin": [
+        "dú",
+        "zài",
+        "yì",
+        "xiāng",
+        "wéi",
+        "yì",
+        "kè"
+      ],
+      "translation": "我一个人住在外地，成了陌生的客人。",
+      "noteIds": [
+        "n-yixiang",
+        "n-wei"
+      ]
+    },
+    {
+      "text": "每逢佳节倍思亲。",
+      "pinyin": [
+        "měi",
+        "féng",
+        "jiā",
+        "jié",
+        "bèi",
+        "sī",
+        "qīn"
+      ],
+      "translation": "每到过节的时候，就更加想念亲人。",
+      "noteIds": [
+        "n-jiajie"
+      ]
+    },
+    {
+      "text": "遥知兄弟登高处，",
+      "pinyin": [
+        "yáo",
+        "zhī",
+        "xiōng",
+        "dì",
+        "dēng",
+        "gāo",
+        "chù"
+      ],
+      "translation": "我远远地想到，兄弟们正在登高。",
+      "noteIds": []
+    },
+    {
+      "text": "遍插茱萸少一人。",
+      "pinyin": [
+        "biàn",
+        "chā",
+        "zhū",
+        "yú",
+        "shǎo",
+        "yī",
+        "rén"
+      ],
+      "translation": "他们插茱萸的时候，会发现少了我一个人。",
+      "noteIds": [
+        "n-zhuyu",
+        "n-shao"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-yixiang",
+      "word": "异乡",
+      "pinyin": "yì xiāng",
+      "meaning": "外地，别人的家乡。"
+    },
+    {
+      "id": "n-wei",
+      "word": "为",
+      "pinyin": "wéi",
+      "meaning": "当作，成为。"
+    },
+    {
+      "id": "n-jiajie",
+      "word": "佳节",
+      "pinyin": "jiā jié",
+      "meaning": "美好的节日，这里指重阳节。"
+    },
+    {
+      "id": "n-zhuyu",
+      "word": "茱萸",
+      "pinyin": "zhū yú",
+      "meaning": "一种有香味的植物，重阳节人们会插在身上。"
+    },
+    {
+      "id": "n-shao",
+      "word": "少",
+      "pinyin": "shǎo",
+      "meaning": "缺少。"
+    }
+  ],
+  "translation": "我一个人住在外地，成了陌生的客人。每到过节的时候，就更加想念亲人。我远远地想到，兄弟们正在登高。他们插茱萸的时候，一定会发现少了我一个人。",
+  "appreciation": "这首诗写的是过节时的想念。前两句说自己孤零零在外地，越到节日越想家。后两句换了个角度，写家里的兄弟登高、插茱萸。他们发现，身边少了一个人。诗人不直接说“我想他们”，而是想象“他们想我”。这样写更让人心里发酸。“每逢佳节倍思亲”也成了人们过节时最常想起的句子。",
+  "background": "王维十七岁那年，一个人离开家乡，到长安求学。重阳节到了，别人家都团聚在一起。他却孤零零地住在客栈里。想起家乡的兄弟登高、插茱萸的热闹场面，他心里很难过。于是他写下这首诗。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "独自离家",
+      "text": "十七岁的王维离开家乡，一个人住在长安。"
+    },
+    {
+      "step": 2,
+      "title": "重阳节到了",
+      "text": "街上很热闹，家家户户都在准备过节。"
+    },
+    {
+      "step": 3,
+      "title": "想起兄弟",
+      "text": "他想起家乡的兄弟，今天一定一起去登高。"
+    },
+    {
+      "step": 4,
+      "title": "少了一个人",
+      "text": "兄弟们插茱萸时，会发现身边少了他。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "为",
+      "reading": "wéi",
+      "reason": "“为异客”是成为外地的客人，“为”读 wéi。",
+      "standard": "表示为了时读 wèi"
+    },
+    {
+      "char": "少",
+      "reading": "shǎo",
+      "reason": "“少一人”是缺少一个人，“少”读 shǎo。",
+      "standard": "表示年纪小时读 shào"
+    },
+    {
+      "char": "茱萸",
+      "reading": "zhū yú",
+      "reason": "“茱萸”是一种植物，两个字连读，读 zhū yú。"
+    }
+  ],
+  "sources": [
+    "《王右丞集》",
+    "《唐诗鉴赏辞典》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-24",
+  "images": {
+    "cover": {
+      "src": "/assets/img/poems/jiuyuejiu-story.jpg",
+      "width": 2560,
+      "height": 1440,
+      "alt": "《九月九日忆山东兄弟》四格分镜：独自离家、重阳节到了、想起兄弟、少了一个人",
+      "credit": "AI 辅助生成 · up999.cn",
+      "aiGenerated": true
+    }
+  }
+}

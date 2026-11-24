@@ -1,0 +1,235 @@
+{
+  "id": "song-beisong-sushi-shuidiaogetou",
+  "slug": "shuidiaogetou",
+  "title": "水调歌头·明月几时有（节选）",
+  "titlePinyin": "shuǐ diào gē tóu · míng yuè jǐ shí yǒu",
+  "dynasty": "songci",
+  "era": "beisong",
+  "genre": "ci",
+  "form": "词（长调·节选）",
+  "authorId": "sushi",
+  "gradeBand": "g5-6",
+  "tags": [
+    "月亮",
+    "中秋",
+    "想象",
+    "词"
+  ],
+  "difficulty": 3,
+  "writtenYear": 1076,
+  "writtenLabel": "公元 1076 年（苏轼 39 岁）",
+  "orderInAuthor": 2,
+  "famousLines": [
+    "明月几时有？把酒问青天。"
+  ],
+  "lines": [
+    {
+      "text": "明月几时有？",
+      "pinyin": [
+        "míng",
+        "yuè",
+        "jǐ",
+        "shí",
+        "yǒu"
+      ],
+      "translation": "天上这轮明月，是从什么时候有的？",
+      "noteIds": []
+    },
+    {
+      "text": "把酒问青天。",
+      "pinyin": [
+        "bǎ",
+        "jiǔ",
+        "wèn",
+        "qīng",
+        "tiān"
+      ],
+      "translation": "我端起酒杯，问一问青天。",
+      "noteIds": [
+        "n-bajiu"
+      ]
+    },
+    {
+      "text": "不知天上宫阙，",
+      "pinyin": [
+        "bù",
+        "zhī",
+        "tiān",
+        "shàng",
+        "gōng",
+        "què"
+      ],
+      "translation": "不知道天上的宫殿里，",
+      "noteIds": [
+        "n-gongque"
+      ]
+    },
+    {
+      "text": "今夕是何年。",
+      "pinyin": [
+        "jīn",
+        "xī",
+        "shì",
+        "hé",
+        "nián"
+      ],
+      "translation": "今天晚上是哪一年。",
+      "noteIds": []
+    },
+    {
+      "text": "我欲乘风归去，",
+      "pinyin": [
+        "wǒ",
+        "yù",
+        "chéng",
+        "fēng",
+        "guī",
+        "qù"
+      ],
+      "translation": "我想乘着风飞回天上去。",
+      "noteIds": []
+    },
+    {
+      "text": "又恐琼楼玉宇，",
+      "pinyin": [
+        "yòu",
+        "kǒng",
+        "qióng",
+        "lóu",
+        "yù",
+        "yǔ"
+      ],
+      "translation": "又怕那玉石做成的楼阁，",
+      "noteIds": [
+        "n-qionglou"
+      ]
+    },
+    {
+      "text": "高处不胜寒。",
+      "pinyin": [
+        "gāo",
+        "chù",
+        "bù",
+        "shèng",
+        "hán"
+      ],
+      "translation": "在高高的天上，一定冷得受不住。",
+      "noteIds": [
+        "n-busheng"
+      ]
+    },
+    {
+      "text": "起舞弄清影，",
+      "pinyin": [
+        "qǐ",
+        "wǔ",
+        "nòng",
+        "qīng",
+        "yǐng"
+      ],
+      "translation": "不如起身跳舞，玩赏自己的影子。",
+      "noteIds": []
+    },
+    {
+      "text": "何似在人间。",
+      "pinyin": [
+        "hé",
+        "sì",
+        "zài",
+        "rén",
+        "jiān"
+      ],
+      "translation": "这哪里比得上留在人间呢。",
+      "noteIds": [
+        "n-hesi"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-bajiu",
+      "word": "把酒",
+      "pinyin": "bǎ jiǔ",
+      "meaning": "端起酒杯。"
+    },
+    {
+      "id": "n-gongque",
+      "word": "宫阙",
+      "pinyin": "gōng què",
+      "meaning": "宫殿。这里指传说中的天上宫殿。"
+    },
+    {
+      "id": "n-qionglou",
+      "word": "琼楼玉宇",
+      "pinyin": "qióng lóu yù yǔ",
+      "meaning": "用美玉做成的楼阁，指月宫里的房子。"
+    },
+    {
+      "id": "n-busheng",
+      "word": "不胜",
+      "pinyin": "bù shèng",
+      "meaning": "经受不住。"
+    },
+    {
+      "id": "n-hesi",
+      "word": "何似",
+      "pinyin": "hé sì",
+      "meaning": "哪里比得上。"
+    }
+  ],
+  "translation": "天上的明月，是从什么时候开始有的？我端起酒杯，问一问青天。不知道天上的宫殿里，今天晚上是哪一年。我想乘着风飞回天上去，又怕那玉石做成的楼阁太高太冷。在高高的天上，一定冷得受不住。不如起身跳舞，玩赏自己的影子。这哪里比得上留在人间呢。",
+  "appreciation": "这是中秋夜写给月亮的词。词人端起酒杯问天：月亮是从什么时候有的？他想飞上天去看看，又怕天上太冷。想来想去，还是人间好。九句里，一会儿想上天，一会儿又舍不得人间，像孩子一样天马行空地想象。读的时候，不妨抬头看看月亮。",
+  "background": "公元 1076 年的中秋节，苏轼在密州做官，已经好几年没见到弟弟苏辙了。那天晚上，他喝酒赏月，心里既想念亲人，又有很多感慨，就写下了这首《水调歌头》，成了写月亮最有名的词之一。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "举杯问月",
+      "text": "中秋夜里，苏轼端起酒杯，问天上的月亮。"
+    },
+    {
+      "step": 2,
+      "title": "想象天宫",
+      "text": "他猜天上的宫殿里，今晚是什么日子。"
+    },
+    {
+      "step": 3,
+      "title": "想飞又怕",
+      "text": "他想乘风上天，又怕高处太冷受不住。"
+    },
+    {
+      "step": 4,
+      "title": "还是人间",
+      "text": "他想来想去，觉得还是人间更温暖。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "阙",
+      "reading": "què",
+      "reason": "“宫阙”指宫殿。",
+      "standard": "不读 quē"
+    },
+    {
+      "char": "胜",
+      "reading": "shèng",
+      "reason": "“不胜寒”是经受不住寒冷。",
+      "standard": "这里不读 shēng"
+    }
+  ],
+  "sources": [
+    "《东坡乐府》",
+    "《宋词三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-24",
+  "images": {
+    "cover": {
+      "src": "/assets/img/poems/shuidiaogetou-story.jpg",
+      "width": 2560,
+      "height": 1440,
+      "alt": "《水调歌头·明月几时有（节选）》四格分镜：举杯问月、想象天宫、想飞又怕、还是人间",
+      "credit": "AI 辅助生成 · up999.cn",
+      "aiGenerated": true
+    }
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "id": "tang-zhongtang-baijuyi-chishang",
+  "slug": "chishang",
+  "title": "池上",
+  "titlePinyin": "chí shàng",
+  "dynasty": "tangshi",
+  "era": "zhongtang",
+  "genre": "shi",
+  "form": "五言绝句",
+  "authorId": "baijuyi",
+  "gradeBand": "g1-2",
+  "textbook": "部编版一年级下册",
+  "tags": [
+    "夏天",
+    "儿童",
+    "池塘",
+    "五言绝句"
+  ],
+  "difficulty": 1,
+  "writtenYear": 830,
+  "writtenLabel": "约公元 830 年（白居易晚年居洛阳）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "不解藏踪迹，浮萍一道开。"
+  ],
+  "lines": [
+    {
+      "text": "小娃撑小艇，",
+      "pinyin": [
+        "xiǎo",
+        "wá",
+        "chēng",
+        "xiǎo",
+        "tǐng"
+      ],
+      "translation": "小娃娃撑着小船，",
+      "noteIds": [
+        "n-cheng"
+      ]
+    },
+    {
+      "text": "偷采白莲回。",
+      "pinyin": [
+        "tōu",
+        "cǎi",
+        "bái",
+        "lián",
+        "huí"
+      ],
+      "translation": "偷偷采了白莲往回划。",
+      "noteIds": []
+    },
+    {
+      "text": "不解藏踪迹，",
+      "pinyin": [
+        "bù",
+        "jiě",
+        "cáng",
+        "zōng",
+        "jì"
+      ],
+      "translation": "他不懂得藏起自己的行踪，",
+      "noteIds": [
+        "n-jie",
+        "n-cang"
+      ]
+    },
+    {
+      "text": "浮萍一道开。",
+      "pinyin": [
+        "fú",
+        "píng",
+        "yī",
+        "dào",
+        "kāi"
+      ],
+      "translation": "浮萍被分开，留下一条水路。",
+      "noteIds": [
+        "n-fuping"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-cheng",
+      "word": "撑",
+      "pinyin": "chēng",
+      "meaning": "用竹竿撑船，让船往前走。"
+    },
+    {
+      "id": "n-jie",
+      "word": "不解",
+      "pinyin": "bù jiě",
+      "meaning": "不懂得，不知道。"
+    },
+    {
+      "id": "n-cang",
+      "word": "藏",
+      "pinyin": "cáng",
+      "meaning": "藏起来，不让人发现。"
+    },
+    {
+      "id": "n-fuping",
+      "word": "浮萍",
+      "pinyin": "fú píng",
+      "meaning": "浮在水面上的一种小草。"
+    }
+  ],
+  "translation": "一个小娃娃撑着小船，偷偷去采白莲花，采完又划回来。他不懂得藏好自己的行踪，水面的浮萍被船分开，留下一条清清楚楚的水路。",
+  "appreciation": "这首诗像一段小视频：一个小孩划船去偷采白莲。他以为自己很小心，其实一路都露了馅。水面的浮萍被船分开，留下一条长长的水路。诗人不批评他，只把这份可爱的“笨拙”写下来。读的时候，好像能看见小孩紧张又得意的样子。",
+  "background": "白居易晚年住在洛阳，常到附近的池塘边散步。有一次，他看见一个小孩偷偷划船采莲，觉得又好笑又可爱。于是写下这首小诗，把这个画面记了下来。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "小娃上船",
+      "text": "夏天的池塘边，一个小娃娃撑起一只小船。"
+    },
+    {
+      "step": 2,
+      "title": "偷采白莲",
+      "text": "他悄悄划进荷花丛，采下一朵白莲花。"
+    },
+    {
+      "step": 3,
+      "title": "以为没人发现",
+      "text": "他急着往回划，觉得自己做得神不知鬼不觉。"
+    },
+    {
+      "step": 4,
+      "title": "浮萍露了行踪",
+      "text": "可小船划过的水面，浮萍分开，留下一条清清楚楚的水路。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "藏",
+      "reading": "cáng",
+      "reason": "“藏踪迹”的“藏”是躲起来的意思，读 cáng。",
+      "standard": "西藏的“藏”读 zàng"
+    }
+  ],
+  "sources": [
+    "部编版语文一年级下册",
+    "《白居易集》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-24",
+  "images": {
+    "cover": {
+      "src": "/assets/img/poems/chishang-story.jpg",
+      "width": 2560,
+      "height": 1440,
+      "alt": "《池上》四格分镜：小娃上船、偷采白莲、以为没人发现、浮萍露了行踪",
+      "credit": "AI 辅助生成 · up999.cn",
+      "aiGenerated": true
+    }
+  }
+}

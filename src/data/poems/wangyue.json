@@ -1,0 +1,237 @@
+{
+  "id": "tang-shengtang-dufu-wangyue",
+  "slug": "wangyue",
+  "title": "望岳",
+  "titlePinyin": "wàng yuè",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "五言古诗",
+  "authorId": "dufu",
+  "gradeBand": "g5-6",
+  "tags": [
+    "泰山",
+    "登高",
+    "志向",
+    "五言古诗"
+  ],
+  "difficulty": 3,
+  "writtenYear": 736,
+  "writtenLabel": "约公元 736 年（杜甫 24 岁，游泰山时）",
+  "orderInAuthor": 4,
+  "famousLines": [
+    "会当凌绝顶，一览众山小。"
+  ],
+  "lines": [
+    {
+      "text": "岱宗夫如何？",
+      "pinyin": [
+        "dài",
+        "zōng",
+        "fú",
+        "rú",
+        "hé"
+      ],
+      "translation": "泰山到底是什么样子呢？",
+      "noteIds": [
+        "n-daizong",
+        "n-fu"
+      ]
+    },
+    {
+      "text": "齐鲁青未了。",
+      "pinyin": [
+        "qí",
+        "lǔ",
+        "qīng",
+        "wèi",
+        "liǎo"
+      ],
+      "translation": "在齐鲁大地上，它的青色望不到头。",
+      "noteIds": [
+        "n-liao"
+      ]
+    },
+    {
+      "text": "造化钟神秀，",
+      "pinyin": [
+        "zào",
+        "huà",
+        "zhōng",
+        "shén",
+        "xiù"
+      ],
+      "translation": "大自然把神奇和秀美都聚到了这里。",
+      "noteIds": []
+    },
+    {
+      "text": "阴阳割昏晓。",
+      "pinyin": [
+        "yīn",
+        "yáng",
+        "gē",
+        "hūn",
+        "xiǎo"
+      ],
+      "translation": "山南亮堂堂，山北暗暗的，像早晚分在两边。",
+      "noteIds": []
+    },
+    {
+      "text": "荡胸生曾云，",
+      "pinyin": [
+        "dàng",
+        "xiōng",
+        "shēng",
+        "céng",
+        "yún"
+      ],
+      "translation": "层层白云在胸前飘动，心里也跟着激荡。",
+      "noteIds": [
+        "n-ceng"
+      ]
+    },
+    {
+      "text": "决眦入归鸟。",
+      "pinyin": [
+        "jué",
+        "zì",
+        "rù",
+        "guī",
+        "niǎo"
+      ],
+      "translation": "我睁大眼睛，一直看着鸟儿飞回山里。",
+      "noteIds": [
+        "n-zi"
+      ]
+    },
+    {
+      "text": "会当凌绝顶，",
+      "pinyin": [
+        "huì",
+        "dāng",
+        "líng",
+        "jué",
+        "dǐng"
+      ],
+      "translation": "总有一天，我要登上最高的山顶。",
+      "noteIds": []
+    },
+    {
+      "text": "一览众山小。",
+      "pinyin": [
+        "yī",
+        "lǎn",
+        "zhòng",
+        "shān",
+        "xiǎo"
+      ],
+      "translation": "到那时再看别的山，它们都变得很小很小。",
+      "noteIds": []
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-daizong",
+      "word": "岱宗",
+      "pinyin": "dài zōng",
+      "meaning": "泰山的另一个名字，古人认为它是群山中最大的。"
+    },
+    {
+      "id": "n-fu",
+      "word": "夫",
+      "pinyin": "fú",
+      "meaning": "用在句中的语气词，读 fú，没有实在意思。"
+    },
+    {
+      "id": "n-liao",
+      "word": "未了",
+      "pinyin": "wèi liǎo",
+      "meaning": "没有完，没有尽头。"
+    },
+    {
+      "id": "n-ceng",
+      "word": "曾云",
+      "pinyin": "céng yún",
+      "meaning": "一层叠一层的云。"
+    },
+    {
+      "id": "n-zi",
+      "word": "眦",
+      "pinyin": "zì",
+      "meaning": "眼角。决眦就是把眼睛睁得大大的。"
+    }
+  ],
+  "translation": "泰山到底是什么样子呢？在齐鲁大地上，它的青色望不到头。大自然把神奇和秀美都聚到了这里。山南亮堂堂，山北暗暗的，像早晚分在两边。层层白云在胸前飘动，心里也跟着激荡。我睁大眼睛，一直看着鸟儿飞回山里。总有一天，我要登上最高的山顶，到那时再看别的山，它们都变得很小很小。",
+  "appreciation": "这首诗从头到尾都在“望”。先远远望，再抬头望，最后心里想着登上去往下望。诗人没有用很多难字，却把泰山写得又高又大。“会当凌绝顶，一览众山小”成了名句，它说的不只是爬山，也说的是人要往高处走，敢去看更大的世界。",
+  "background": "公元 736 年，二十多岁的杜甫到山东一带旅行。他第一次见到高高的泰山，站在山脚下抬头看，心里又惊又喜。他没有真的爬上山，只凭远望就写下了这首诗。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "初见泰山",
+      "text": "年轻的杜甫来到山东，第一次看见远处的泰山。"
+    },
+    {
+      "step": 2,
+      "title": "远远地望",
+      "text": "他看见泰山的青色铺满大地，怎么望也望不到头。"
+    },
+    {
+      "step": 3,
+      "title": "看得出神",
+      "text": "山南亮、山北暗，云在眼前飘，他看得眼睛都不眨。"
+    },
+    {
+      "step": 4,
+      "title": "想登山顶",
+      "text": "他在心里说：总有一天，我要登上最高处看一看。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "岱",
+      "reading": "dài",
+      "reason": "“岱宗”指泰山，读 dài。",
+      "standard": "不要读成 dài 以外的音"
+    },
+    {
+      "char": "夫",
+      "reading": "fú",
+      "reason": "这里的“夫”是语气词，读 fú。",
+      "standard": "不要读成 fū"
+    },
+    {
+      "char": "了",
+      "reading": "liǎo",
+      "reason": "“未了”是没完没了，读 liǎo。",
+      "standard": "不要读成 le"
+    },
+    {
+      "char": "曾",
+      "reading": "céng",
+      "reason": "“曾云”是一层层的云，读 céng。",
+      "standard": "不要读成 zēng"
+    },
+    {
+      "char": "眦",
+      "reading": "zì",
+      "reason": "“眦”是眼角，读 zì。",
+      "standard": "不要读成 cǐ"
+    }
+  ],
+  "sources": [
+    "《杜工部集》",
+    "《唐诗鉴赏辞典》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-24",
+  "images": {
+    "cover": {
+      "src": "/assets/img/poems/wangyue-story.jpg",
+      "width": 2560,
+      "height": 1440,
+      "alt": "《望岳》四格分镜：初见泰山、远远地望、看得出神、想登山顶",
+      "credit": "AI 辅助生成 · up999.cn",
+      "aiGenerated": true
+    }
+  }
+}

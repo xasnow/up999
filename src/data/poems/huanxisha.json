@@ -1,0 +1,225 @@
+{
+  "id": "song-beisong-sushi-huanxisha",
+  "slug": "huanxisha",
+  "title": "浣溪沙·游蕲水清泉寺",
+  "titlePinyin": "huàn xī shā · yóu qí shuǐ qīng quán sì",
+  "dynasty": "songci",
+  "era": "beisong",
+  "genre": "ci",
+  "form": "词（小令）",
+  "authorId": "sushi",
+  "gradeBand": "g5-6",
+  "tags": [
+    "春景",
+    "溪水",
+    "乐观",
+    "词"
+  ],
+  "difficulty": 3,
+  "writtenYear": 1082,
+  "writtenLabel": "约公元 1082 年（苏轼 45 岁左右）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "谁道人生无再少？门前流水尚能西！"
+  ],
+  "lines": [
+    {
+      "text": "山下兰芽短浸溪，",
+      "pinyin": [
+        "shān",
+        "xià",
+        "lán",
+        "yá",
+        "duǎn",
+        "jìn",
+        "xī"
+      ],
+      "translation": "山脚下，兰草的嫩芽短短地泡在溪水里。",
+      "noteIds": [
+        "n-lanya",
+        "n-jin"
+      ]
+    },
+    {
+      "text": "松间沙路净无泥。",
+      "pinyin": [
+        "sōng",
+        "jiān",
+        "shā",
+        "lù",
+        "jìng",
+        "wú",
+        "ní"
+      ],
+      "translation": "松林间的沙路干干净净，没有一点泥。",
+      "noteIds": []
+    },
+    {
+      "text": "萧萧暮雨子规啼。",
+      "pinyin": [
+        "xiāo",
+        "xiāo",
+        "mù",
+        "yǔ",
+        "zǐ",
+        "guī",
+        "tí"
+      ],
+      "translation": "傍晚下起细雨，杜鹃鸟一声声地叫。",
+      "noteIds": [
+        "n-zigui"
+      ]
+    },
+    {
+      "text": "谁道人生无再少？",
+      "pinyin": [
+        "shéi",
+        "dào",
+        "rén",
+        "shēng",
+        "wú",
+        "zài",
+        "shào"
+      ],
+      "translation": "谁说人生不能再回到少年时候？",
+      "noteIds": [
+        "n-zaishao"
+      ]
+    },
+    {
+      "text": "门前流水尚能西！",
+      "pinyin": [
+        "mén",
+        "qián",
+        "liú",
+        "shuǐ",
+        "shàng",
+        "néng",
+        "xī"
+      ],
+      "translation": "你看门前的溪水，还能向西流呢！",
+      "noteIds": []
+    },
+    {
+      "text": "休将白发唱黄鸡。",
+      "pinyin": [
+        "xiū",
+        "jiāng",
+        "bái",
+        "fà",
+        "chàng",
+        "huáng",
+        "jī"
+      ],
+      "translation": "不要对着白头发，唱那叹人变老的歌。",
+      "noteIds": [
+        "n-huangji"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-lanya",
+      "word": "兰芽",
+      "pinyin": "lán yá",
+      "meaning": "兰草刚长出来的嫩芽。"
+    },
+    {
+      "id": "n-jin",
+      "word": "浸",
+      "pinyin": "jìn",
+      "meaning": "泡在水里。"
+    },
+    {
+      "id": "n-zigui",
+      "word": "子规",
+      "pinyin": "zǐ guī",
+      "meaning": "杜鹃鸟，叫声听起来像“不如归去”。"
+    },
+    {
+      "id": "n-zaishao",
+      "word": "再少",
+      "pinyin": "zài shào",
+      "meaning": "再回到年轻的时候。"
+    },
+    {
+      "id": "n-huangji",
+      "word": "唱黄鸡",
+      "pinyin": "chàng huáng jī",
+      "meaning": "古诗里用“唱黄鸡”叹息时光过去、人会变老。"
+    }
+  ],
+  "translation": "山脚下，兰草的嫩芽短短地泡在溪水里。松林间的沙路干干净净，没有一点泥。傍晚下起细雨，杜鹃鸟一声声地叫。谁说人生不能再回到少年时候？你看门前的溪水，还能向西流呢！不要对着白头发，唱那叹人变老的歌。",
+  "appreciation": "这首词从眼前的小景写起：兰芽、沙路、细雨、鸟叫，一切都清清爽爽。忽然笔锋一转，词人问自己：谁说人不能再年轻？你看溪水还能往西流呢！最后一句是给自己打气，不要总对着白头发叹气。景是轻的，心气却是向上的，读完让人也想振作一下。",
+  "background": "苏轼因为写诗被人挑错，被贬到黄州。有一天，他去游览蕲水的清泉寺，看见寺前的溪水居然向西流。这让他很受触动：水都能往西流，人为什么不能振作呢？于是他写下了这首词。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "山下溪水",
+      "text": "山脚下，兰草的嫩芽泡在清清溪水里。"
+    },
+    {
+      "step": 2,
+      "title": "松间沙路",
+      "text": "松林间的沙路干干净净，没有一点泥。"
+    },
+    {
+      "step": 3,
+      "title": "暮雨鸟啼",
+      "text": "傍晚下起小雨，杜鹃鸟一声声地叫。"
+    },
+    {
+      "step": 4,
+      "title": "溪水西流",
+      "text": "苏轼看见溪水向西流，心里一下子亮堂了。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "蕲",
+      "reading": "qí",
+      "reason": "“蕲水”是地名，在今天的湖北。",
+      "standard": "注意是第二声，不读 qīn"
+    },
+    {
+      "char": "浸",
+      "reading": "jìn",
+      "reason": "“短浸溪”指嫩芽泡在溪水里。",
+      "standard": "注意是前鼻音，不读 jìng"
+    },
+    {
+      "char": "少",
+      "reading": "shào",
+      "reason": "“再少”指再年轻，说的是年纪小。",
+      "standard": "这里不读 shǎo"
+    },
+    {
+      "char": "发",
+      "reading": "fà",
+      "reason": "“白发”指头发。",
+      "standard": "这里不读 fā"
+    },
+    {
+      "char": "将",
+      "reading": "jiāng",
+      "reason": "“休将”是“不要用、不要拿”的意思。",
+      "standard": "这里不读 jiàng"
+    }
+  ],
+  "sources": [
+    "部编版语文六年级下册",
+    "《东坡乐府》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-24",
+  "images": {
+    "cover": {
+      "src": "/assets/img/poems/huanxisha-story.jpg",
+      "width": 2560,
+      "height": 1440,
+      "alt": "《浣溪沙·游蕲水清泉寺》四格分镜：山下溪水、松间沙路、暮雨鸟啼、溪水西流",
+      "credit": "AI 辅助生成 · up999.cn",
+      "aiGenerated": true
+    }
+  }
+}

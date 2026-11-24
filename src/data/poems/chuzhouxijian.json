@@ -1,0 +1,171 @@
+{
+  "id": "tang-zhongtang-weiyingwu-chuzhouxijian",
+  "slug": "chuzhouxijian",
+  "title": "滁州西涧",
+  "titlePinyin": "chú zhōu xī jiàn",
+  "dynasty": "tangshi",
+  "era": "zhongtang",
+  "genre": "shi",
+  "form": "七言绝句",
+  "authorId": "weiyingwu",
+  "gradeBand": "g3-4",
+  "tags": [
+    "春天",
+    "山水",
+    "安静",
+    "七言绝句"
+  ],
+  "difficulty": 3,
+  "writtenYear": 781,
+  "writtenLabel": "约公元 781 年（韦应物 44 岁，在滁州做官）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "春潮带雨晚来急，野渡无人舟自横。"
+  ],
+  "lines": [
+    {
+      "text": "独怜幽草涧边生，",
+      "pinyin": [
+        "dú",
+        "lián",
+        "yōu",
+        "cǎo",
+        "jiàn",
+        "biān",
+        "shēng"
+      ],
+      "translation": "我特别喜欢山涧边那些安静生长的小草。",
+      "noteIds": [
+        "n-lian",
+        "n-jian"
+      ]
+    },
+    {
+      "text": "上有黄鹂深树鸣。",
+      "pinyin": [
+        "shàng",
+        "yǒu",
+        "huáng",
+        "lí",
+        "shēn",
+        "shù",
+        "míng"
+      ],
+      "translation": "树丛深处，黄鹂鸟在清脆地唱歌。",
+      "noteIds": [
+        "n-li"
+      ]
+    },
+    {
+      "text": "春潮带雨晚来急，",
+      "pinyin": [
+        "chūn",
+        "cháo",
+        "dài",
+        "yǔ",
+        "wǎn",
+        "lái",
+        "jí"
+      ],
+      "translation": "傍晚下起雨，春潮涨得又急又快。",
+      "noteIds": []
+    },
+    {
+      "text": "野渡无人舟自横。",
+      "pinyin": [
+        "yě",
+        "dù",
+        "wú",
+        "rén",
+        "zhōu",
+        "zì",
+        "héng"
+      ],
+      "translation": "野外渡口没有一个人，小船自己横在水面上。",
+      "noteIds": [
+        "n-heng"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-lian",
+      "word": "怜",
+      "pinyin": "lián",
+      "meaning": "喜爱。"
+    },
+    {
+      "id": "n-jian",
+      "word": "涧",
+      "pinyin": "jiàn",
+      "meaning": "山间的小水沟。"
+    },
+    {
+      "id": "n-li",
+      "word": "黄鹂",
+      "pinyin": "huáng lí",
+      "meaning": "一种黄色的小鸟，叫声很好听。"
+    },
+    {
+      "id": "n-heng",
+      "word": "横",
+      "pinyin": "héng",
+      "meaning": "横着停放。"
+    }
+  ],
+  "translation": "我特别喜欢山涧边那些安静生长的小草。树丛深处，黄鹂鸟在清脆地唱歌。傍晚下起雨，春潮涨得又急又快。野外渡口没有一个人，小船自己横在水面上。",
+  "appreciation": "这首诗写的是滁州西边山涧的春景。诗人先看小草，再听鸟叫，接着写傍晚的春雨和涨起来的潮水。最后一句最有趣：渡口没人，小船就那样横在水面上。四周安安静静。诗人不着急，也不热闹。他把一份清闲的心情，写进了山水里。",
+  "background": "韦应物在滁州做官时，常到城西的山涧边散步。那里有青青的小草，还有唱歌的黄鹂。一条小渡口安安静静。一个春雨过后的傍晚，他看到潮水上涨。小船横在岸边，他写下了这首诗。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "涧边散步",
+      "text": "韦应物来到滁州西边的山涧，慢慢散步。"
+    },
+    {
+      "step": 2,
+      "title": "看见小草",
+      "text": "他喜欢涧边青青的小草，安静地长着。"
+    },
+    {
+      "step": 3,
+      "title": "听见鸟叫",
+      "text": "树丛深处，黄鹂鸟正在清脆地唱歌。"
+    },
+    {
+      "step": 4,
+      "title": "渡口小船",
+      "text": "傍晚春雨落下，没人的渡口停着一条小船。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "涧",
+      "reading": "jiàn",
+      "reason": "“西涧”是西边的山涧，“涧”读 jiàn。",
+      "standard": "不要读成 jiān"
+    },
+    {
+      "char": "横",
+      "reading": "héng",
+      "reason": "“舟自横”是小船横着停，“横”读 héng。",
+      "standard": "表示蛮横时读 hèng"
+    }
+  ],
+  "sources": [
+    "《韦苏州集》",
+    "《唐诗鉴赏辞典》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-24",
+  "images": {
+    "cover": {
+      "src": "/assets/img/poems/chuzhouxijian-story.jpg",
+      "width": 2560,
+      "height": 1440,
+      "alt": "《滁州西涧》四格分镜：涧边散步、看见小草、听见鸟叫、渡口小船",
+      "credit": "AI 辅助生成 · up999.cn",
+      "aiGenerated": true
+    }
+  }
+}

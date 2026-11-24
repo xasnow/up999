@@ -51,6 +51,7 @@ const cover = poem.images?.cover;
       )
     }
   </div>
+  {cover && <p class="cover-caption">四格分镜 · 跟着四个画面读这首诗</p>}
 
   <AudioButton text={fullText} audio={poem.audio} />
 

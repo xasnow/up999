@@ -1,0 +1,113 @@
+{
+  "id": "tang-shengtang-menghaoran-chunxiao",
+  "slug": "chunxiao",
+  "title": "春晓",
+  "titlePinyin": "chūn xiǎo",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "五言绝句",
+  "authorId": "menghaoran",
+  "gradeBand": "g1-2",
+  "textbook": "部编版一年级下册",
+  "tags": ["春天", "早晨", "爱护花草", "五言绝句"],
+  "difficulty": 1,
+  "writtenYear": 728,
+  "writtenLabel": "约公元 728 年（孟浩然隐居襄阳时期）",
+  "orderInAuthor": 1,
+  "famousLines": ["春眠不觉晓，处处闻啼鸟。"],
+  "lines": [
+    {
+      "text": "春眠不觉晓，",
+      "pinyin": ["chūn", "mián", "bù", "jué", "xiǎo"],
+      "translation": "春天的觉睡得真香，不知不觉天就亮了。",
+      "noteIds": ["n-jue"]
+    },
+    {
+      "text": "处处闻啼鸟。",
+      "pinyin": ["chù", "chù", "wén", "tí", "niǎo"],
+      "translation": "醒来时，到处都能听到小鸟叽叽喳喳的叫声。",
+      "noteIds": ["n-wen", "n-tiniao"]
+    },
+    {
+      "text": "夜来风雨声，",
+      "pinyin": ["yè", "lái", "fēng", "yǔ", "shēng"],
+      "translation": "想起昨夜里，风声和雨声一阵接一阵。",
+      "noteIds": ["n-yelai"]
+    },
+    {
+      "text": "花落知多少。",
+      "pinyin": ["huā", "luò", "zhī", "duō", "shǎo"],
+      "translation": "不知道有多少花儿，被风雨打落了呀。",
+      "noteIds": ["n-zhiduoshao"]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-jue",
+      "word": "觉",
+      "pinyin": "jué",
+      "meaning": "这里指睡醒，“不觉”就是不知不觉。"
+    },
+    {
+      "id": "n-wen",
+      "word": "闻",
+      "pinyin": "wén",
+      "meaning": "听见。"
+    },
+    {
+      "id": "n-tiniao",
+      "word": "啼鸟",
+      "pinyin": "tí niǎo",
+      "meaning": "鸟儿啼叫。"
+    },
+    {
+      "id": "n-yelai",
+      "word": "夜来",
+      "pinyin": "yè lái",
+      "meaning": "昨夜里。"
+    },
+    {
+      "id": "n-zhiduoshao",
+      "word": "知多少",
+      "pinyin": "zhī duō shǎo",
+      "meaning": "不知道有多少。"
+    }
+  ],
+  "translation": "春天的夜里睡得又香又甜，不知不觉天就亮了。醒来时，到处都是小鸟欢快的叫声。想起昨夜里潇潇的风声雨声，不知道有多少花儿被风雨打落了呀。",
+  "appreciation": "这首诗像一个春天的早晨日记：睡醒、听鸟、回忆夜雨、惦记落花，四句话连成一条小故事线。诗人不直接写春天多美，而是写“听见”的春天——鸟叫、风声、雨声，最后落在一个轻轻的担心上：“花落知多少”。短短二十个字，有声音、有想象、还有一颗爱花的心，读起来又轻又软。",
+  "background": "孟浩然当时隐居在老家襄阳，春天的一个清晨，他被窗外的鸟叫声唤醒。昨夜的雨声还在耳边，他躺在床上惦记着院子里的花，随口吟出了这首《春晓》。它写的就是每个人都可能经历的、最普通又最美好的春天早晨。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "睡到自然醒",
+      "text": "春天的夜里下过雨，早晨暖洋洋的，诗人睡得特别香，一睁眼天已经亮了。"
+    },
+    {
+      "step": 2,
+      "title": "鸟叫声叫醒他",
+      "text": "屋前屋后到处是叽叽喳喳的鸟叫，像在喊：“快起床，快起床！”"
+    },
+    {
+      "step": 3,
+      "title": "想起昨夜风雨",
+      "text": "他躺在被窝里回忆：昨夜里好像又是刮风、又是下雨，哗啦哗啦响个不停。"
+    },
+    {
+      "step": 4,
+      "title": "担心花儿落了",
+      "text": "他心里想：院子里的那些花，被风雨打落了多少呢？这是一位诗人小小的担心。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "觉",
+      "reading": "jué",
+      "reason": "“春眠不觉晓”的“觉”是睡醒的意思，读 jué。",
+      "standard": "睡觉一词中才读 jiào"
+    }
+  ],
+  "sources": ["部编版语文一年级下册", "《孟浩然集》"],
+  "status": "reviewed",
+  "updatedAt": "2026-11-24"
+}

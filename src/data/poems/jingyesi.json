@@ -1,0 +1,100 @@
+{
+  "id": "tang-shengtang-libai-jingyesi",
+  "slug": "jingyesi",
+  "title": "静夜思",
+  "titlePinyin": "jìng yè sī",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "五言绝句",
+  "authorId": "libai",
+  "gradeBand": "g1-2",
+  "textbook": "部编版一年级下册",
+  "tags": ["思乡", "月夜", "五言绝句"],
+  "difficulty": 1,
+  "writtenYear": 726,
+  "writtenLabel": "约公元 726 年（李白 26 岁）",
+  "orderInAuthor": 1,
+  "famousLines": ["举头望明月，低头思故乡。"],
+  "lines": [
+    {
+      "text": "床前明月光，",
+      "pinyin": ["chuáng", "qián", "míng", "yuè", "guāng"],
+      "translation": "明亮的月光洒在床前，",
+      "noteIds": ["n-chuang"]
+    },
+    {
+      "text": "疑是地上霜。",
+      "pinyin": ["yí", "shì", "dì", "shàng", "shuāng"],
+      "translation": "好像地上铺了一层白白的霜。",
+      "noteIds": ["n-yi"]
+    },
+    {
+      "text": "举头望明月，",
+      "pinyin": ["jǔ", "tóu", "wàng", "míng", "yuè"],
+      "translation": "抬起头，望着天上圆圆的月亮，",
+      "noteIds": ["n-jutou"]
+    },
+    {
+      "text": "低头思故乡。",
+      "pinyin": ["dī", "tóu", "sī", "gù", "xiāng"],
+      "translation": "低下头，想起了远方的家乡。",
+      "noteIds": ["n-guxiang"]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-chuang",
+      "word": "床",
+      "pinyin": "chuáng",
+      "meaning": "睡觉的床。也有学者认为是井边的围栏，小学课本按“睡觉的床”来讲。"
+    },
+    {
+      "id": "n-yi",
+      "word": "疑",
+      "pinyin": "yí",
+      "meaning": "怀疑，好像。诗人恍惚间以为那是地上的霜。"
+    },
+    {
+      "id": "n-jutou",
+      "word": "举头",
+      "pinyin": "jǔ tóu",
+      "meaning": "抬起头。"
+    },
+    {
+      "id": "n-guxiang",
+      "word": "故乡",
+      "pinyin": "gù xiāng",
+      "meaning": "家乡，自己出生和长大的地方。"
+    }
+  ],
+  "translation": "明亮的月光照在床前，好像地上铺了一层白白的霜。我抬起头，望着天上圆圆的月亮；低下头来，想起了远方的家乡。",
+  "appreciation": "这首诗没有难字，也没有华丽的词，却写出了所有人共同的感情——想家。诗人半夜醒来，把月光错看成秋霜，一个“疑”字让安静的夜有了画面。抬头看月，低头想家，一抬一低之间，思念就从月亮落到了心里。全诗只有二十个字，读起来却像看电影一样清楚，是小朋友学“借月亮表达感情”的第一课。",
+  "background": "公元 726 年秋天，二十六岁的李白离开家乡四川，独自在扬州旅行。他钱花光了，又生了病，住在客栈里。深夜抬头看见窗外一轮明月，孤身在外、无人陪伴的滋味涌上心头，于是写下了这首《静夜思》。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "深夜睡不着",
+      "text": "李白离家在外，住在扬州的客栈里，又病又孤单，夜深了还翻来覆去睡不着。"
+    },
+    {
+      "step": 2,
+      "title": "一片“白霜”",
+      "text": "床前的地上忽然一片亮白色，他迷迷糊糊地想：奇怪，怎么地上结霜了？"
+    },
+    {
+      "step": 3,
+      "title": "抬头看月",
+      "text": "他抬起头仔细一看——原来不是霜，是窗外明月照进来的光。"
+    },
+    {
+      "step": 4,
+      "title": "低头想家",
+      "text": "看着月亮，他想起家乡的亲人和朋友：今晚他们那里，也有这样一轮月亮吗？"
+    }
+  ],
+  "pinyinNotes": [],
+  "sources": ["部编版语文一年级下册", "《李白全集编年注释》"],
+  "status": "reviewed",
+  "updatedAt": "2026-11-24"
+}

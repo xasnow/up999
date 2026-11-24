@@ -1,0 +1,95 @@
+---
+// 原文逐字拼音（ruby）+ 逐句译文折叠 + 注释词弹层
+// pinyin[] 与 text 去标点后的字符一一对齐（构建脚本校验长度）
+const { lines, notes = [] } = Astro.props;
+
+const PUNCT = /[，。？！、；：""''《》（）·—…,.?!;:'"()]/;
+
+function escapeHtml(s) {
+  return s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+}
+
+const noteById = Object.fromEntries(notes.map((n) => [n.id, n]));
+
+// 每行渲染数据：字符 + 拼音 + 注释标记，输出安全 HTML
+function renderLineHTML(line) {
+  const chars = [...line.text];
+  let pi = 0;
+  const items = chars.map((ch) => {
+    if (PUNCT.test(ch)) return { ch, pinyin: null, noteId: null };
+    return { ch, pinyin: line.pinyin[pi++] ?? '', noteId: null };
+  });
+
+  // 注释词定位：在去标点文本中查找 note.word，标记对应字符区间
+  const strippedText = chars.filter((c) => !PUNCT.test(c)).join('');
+  for (const nid of line.noteIds ?? []) {
+    const note = noteById[nid];
+    if (!note) continue;
+    const idx = strippedText.indexOf(note.word);
+    if (idx < 0) continue;
+    let si = 0;
+    for (let i = 0; i < items.length; i++) {
+      if (items[i].pinyin === null) continue; // 标点
+      if (si >= idx && si < idx + [...note.word].length) items[i].noteId = nid;
+      si++;
+    }
+  }
+
+  let html = '';
+  let open = null;
+  for (const item of items) {
+    if (item.noteId !== open) {
+      if (open !== null) html += '</span>';
+      if (item.noteId !== null) {
+        const note = noteById[item.noteId];
+        const pop = note
+          ? `<span class="note-pop" role="note">${escapeHtml(`${note.word}（${note.pinyin}）：${note.meaning}`)}</span>`
+          : '';
+        html += `<span class="note-word" data-note="${item.noteId}" tabindex="0">${pop}`;
+      }
+      open = item.noteId;
+    }
+    if (item.pinyin === null) {
+      html += escapeHtml(item.ch);
+    } else {
+      html += `<ruby>${escapeHtml(item.ch)}<rt>${escapeHtml(item.pinyin)}</rt></ruby>`;
+    }
+  }
+  if (open !== null) html += '</span>';
+  return html;
+}
+
+const renderLines = lines.map((line) => ({
+  html: renderLineHTML(line),
+  translation: line.translation
+}));
+---
+
+<div class="poem-body">
+  {
+    renderLines.map((line) => (
+      <div class="poem-line">
+        <p class="line-text" set:html={line.html} />
+        {line.translation && (
+          <details class="line-tr">
+            <summary>这句什么意思？</summary>
+            <p>{line.translation}</p>
+          </details>
+        )}
+      </div>
+    ))
+  }
+</div>
+
+<script>
+  // 注释弹层：点击切换（移动端友好），点击别处收起
+  document.querySelectorAll('.note-word').forEach((el) => {
+    el.addEventListener('click', (e) => {
+      e.stopPropagation();
+      el.classList.toggle('open');
+    });
+  });
+  document.addEventListener('click', () => {
+    document.querySelectorAll('.note-word.open').forEach((el) => el.classList.remove('open'));
+  });
+</script>

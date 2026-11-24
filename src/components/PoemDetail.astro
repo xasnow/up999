@@ -1,0 +1,153 @@
+---
+// 作品详情：封面 → 原文 → 讲解 → 拓展，移动端优先
+import { authorPath, getAuthor, getDynasty, getEra, gradeLabel, poemNeighbors } from '../lib/content';
+import PinyinText from './PinyinText.astro';
+import TimelineStory from './TimelineStory.astro';
+import AudioButton from './AudioButton.astro';
+
+const { poem } = Astro.props;
+const author = getAuthor(poem.authorId);
+const dynasty = getDynasty(poem.dynasty);
+const era = getEra(poem.dynasty, poem.era);
+const { prev, next } = poemNeighbors(poem);
+const authorNoun = poem.dynasty === 'songci' ? '词人' : '诗人';
+const fullText = poem.lines.map((l) => l.text).join('');
+const cover = poem.images?.cover;
+---
+
+<div class="container">
+  <div class="poem-header">
+    <p class="breadcrumb" style="text-align:left">
+      <a href="/">首页</a> / <a href={`/${poem.dynasty}/`}>{dynasty.label}</a> /{' '}
+      <a href={`/${poem.dynasty}/${poem.era}/`}>{era.label}</a> /{' '}
+      <a href={authorPath(author)}>{author.name}</a>
+    </p>
+    <h1>{poem.title}</h1>
+    <p class="poem-title-pinyin">{poem.titlePinyin}</p>
+    <div class="meta-row">
+      <span class="meta-chip">
+        <a href={authorPath(author)}>
+          {author.name} · {author.yearsLabel}
+        </a>
+      </span>
+      <span class="meta-chip">{poem.form}</span>
+      <span class="meta-chip">{gradeLabel(poem.gradeBand)}</span>
+      {poem.textbook && <span class="meta-chip">{poem.textbook}</span>}
+    </div>
+  </div>
+
+  <div class="poem-cover">
+    {
+      cover ? (
+        <img
+          src={cover.src}
+          width={cover.width}
+          height={cover.height}
+          alt={cover.alt}
+          fetchpriority="high"
+        />
+      ) : (
+        <span aria-hidden="true">{poem.title}</span>
+      )
+    }
+  </div>
+
+  <AudioButton text={fullText} audio={poem.audio} />
+
+  <div class="poem-toolbar">
+    <button type="button" id="pinyin-toggle" class="toolbar-btn" aria-pressed="true">拼音：开</button>
+  </div>
+
+  <PinyinText lines={poem.lines} notes={poem.notes} />
+
+  <section class="block">
+    <h2>整首译文</h2>
+    <div class="prose">
+      <p>{poem.translation}</p>
+    </div>
+  </section>
+
+  <section class="block">
+    <h2>注释</h2>
+    <ul class="note-list">
+      {
+        poem.notes.map((n) => (
+          <li>
+            <span class="note-word-label">{n.word}</span>
+            <span class="note-py">{n.pinyin}</span> —— {n.meaning}
+          </li>
+        ))
+      }
+    </ul>
+    {
+      poem.pinyinNotes?.length > 0 && (
+        <div>
+          {poem.pinyinNotes.map((p) => (
+            <p class="pinyin-tip">
+              <strong>读准提示</strong> “{p.char}”读 {p.reading}：{p.reason}
+              {p.standard && <span>（{p.standard}）</span>}
+            </p>
+          ))}
+        </div>
+      )
+    }
+  </section>
+
+  <section class="block">
+    <h2>写作背景</h2>
+    <div class="prose">
+      <p>{poem.background}</p>
+    </div>
+  </section>
+
+  <section class="block">
+    <h2>一步一步读懂</h2>
+    <TimelineStory storyline={poem.storyline} panels={poem.images?.panels ?? []} />
+  </section>
+
+  <section class="block">
+    <h2>赏析</h2>
+    <div class="prose">
+      <p>{poem.appreciation}</p>
+    </div>
+  </section>
+
+  <div class="poem-pager">
+    {
+      prev ? (
+        <a href={`/${prev.dynasty}/${prev.era}/${prev.authorId}/${prev.slug}/`}>
+          <span class="pager-label">上一首</span>
+          <span class="pager-title">{prev.title}</span>
+        </a>
+      ) : (
+        <span class="pager-disabled">这已经是{author.name}的第一首了</span>
+      )
+    }
+    {
+      next ? (
+        <a href={`/${next.dynasty}/${next.era}/${next.authorId}/${next.slug}/`}>
+          <span class="pager-label">下一首</span>
+          <span class="pager-title">{next.title}</span>
+        </a>
+      ) : (
+        <span class="pager-disabled">{author.name}的作品暂时读完了，去别的{authorNoun}看看吧</span>
+      )
+    }
+  </div>
+</div>
+
+<script>
+  // 拼音开关：localStorage 全站记忆
+  const toggle = document.getElementById('pinyin-toggle');
+  if (toggle) {
+    const isOff = document.body.classList.contains('hide-pinyin');
+    toggle.setAttribute('aria-pressed', String(!isOff));
+    toggle.textContent = isOff ? '拼音：关' : '拼音：开';
+    toggle.addEventListener('click', () => {
+      const off = document.body.classList.toggle('hide-pinyin');
+      toggle.setAttribute('aria-pressed', String(!off));
+      toggle.textContent = off ? '拼音：关' : '拼音：开';
+      localStorage.setItem('up999-pinyin', off ? 'off' : 'on');
+    });
+  }
+</script>

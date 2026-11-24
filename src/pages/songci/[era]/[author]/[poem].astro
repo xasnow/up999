@@ -1,0 +1,21 @@
+---
+import BaseLayout from '../../../../layouts/BaseLayout.astro';
+import PoemDetail from '../../../../components/PoemDetail.astro';
+import { poemsOfDynasty, getAuthor } from '../../../../lib/content';
+
+export function getStaticPaths() {
+  return poemsOfDynasty('songci').map((poem) => ({
+    params: { era: poem.era, author: poem.authorId, poem: poem.slug },
+    props: { poem }
+  }));
+}
+const { poem } = Astro.props;
+const author = getAuthor(poem.authorId);
+---
+
+<BaseLayout
+  title={`${poem.title} · ${author.name} · 每天一首小古诗`}
+  description={`${poem.title}（${author.name}）：带拼音、注释、译文和时间线讲解，小学生也能读懂。`}
+>
+  <PoemDetail poem={poem} />
+</BaseLayout>

@@ -1,0 +1,29 @@
+---
+// 时间线讲解：竖向分步卡片；若配置了分镜图（panels + imageStep）则随步插图
+const { storyline, panels = [] } = Astro.props;
+const panelByStep = Object.fromEntries(panels.map((p) => [p.step, p]));
+---
+
+<ol class="storyline">
+  {
+    storyline.map((step) => {
+      const panel = step.imageStep ? panelByStep[step.imageStep] : undefined;
+      return (
+        <li class="story-step">
+          <span class="story-badge">第 {step.step} 步</span>
+          <h3>{step.title}</h3>
+          {panel && (
+            <img
+              src={panel.src}
+              width={panel.width}
+              height={panel.height}
+              alt={panel.alt}
+              loading="lazy"
+            />
+          )}
+          <p>{step.text}</p>
+        </li>
+      );
+    })
+  }
+</ol>

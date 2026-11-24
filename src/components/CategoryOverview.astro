@@ -1,0 +1,55 @@
+---
+// 大类总览：简介 + 时期卡片 + 代表诗人
+import { authorsOfEra, countsOfEra, eraPath, featuredAuthors, getDynasty, poemsOfAuthor } from '../lib/content';
+import AuthorCard from './AuthorCard.astro';
+
+const { dynastyId } = Astro.props;
+const dynasty = getDynasty(dynastyId);
+const featured = featuredAuthors(dynastyId, 6);
+---
+
+<div class="container">
+  <div class="page-head">
+    <p class="breadcrumb"><a href="/">首页</a> / {dynasty.label}</p>
+    <h1>{dynasty.label}</h1>
+    <p class="page-desc">{dynasty.intro}</p>
+  </div>
+
+  <section class="section">
+    <div class="era-grid">
+      {
+        dynasty.eras.map((era) => {
+          const counts = countsOfEra(dynastyId, era.id);
+          return (
+            <a class="era-card" style={`--era-color:${dynasty.themeColor}`} href={eraPath(dynastyId, era.id)}>
+              <h3>
+                {era.label}
+                {era.status === 'coming' && <span class="coming-tag">整理中</span>}
+              </h3>
+              <p>{era.intro}</p>
+              <p class="era-range">
+                {era.range} · {counts.authors} 位{dynastyId === 'songci' ? '词人' : '诗人'} · {counts.poems} 首作品
+              </p>
+            </a>
+          );
+        })
+      }
+    </div>
+  </section>
+
+  {
+    featured.length > 0 && (
+      <section class="section">
+        <div class="section-title">
+          <h2>代表{dynastyId === 'songci' ? '词人' : '诗人'}</h2>
+          <small>按作品数推荐</small>
+        </div>
+        <div class="author-grid">
+          {featured.map((a) => (
+            <AuthorCard author={a} />
+          ))}
+        </div>
+      </section>
+    )
+  }
+</div>

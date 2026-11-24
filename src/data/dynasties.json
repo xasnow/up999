@@ -1,0 +1,109 @@
+[
+  {
+    "id": "tangshi",
+    "label": "唐诗",
+    "intro": "唐朝人写的诗，短短几句，就像一张会说话的画。",
+    "status": "live",
+    "themeColor": "#b4532a",
+    "eras": [
+      {
+        "id": "chutang",
+        "label": "初唐",
+        "sortOrder": 1,
+        "range": "618—712",
+        "intro": "唐诗刚刚长大，句子还带着清新的味道。",
+        "status": "live"
+      },
+      {
+        "id": "shengtang",
+        "label": "盛唐",
+        "sortOrder": 2,
+        "range": "713—766",
+        "intro": "唐诗最热闹的时代，李白、孟浩然、王维都在这里。",
+        "status": "live"
+      },
+      {
+        "id": "zhongtang",
+        "label": "中唐",
+        "sortOrder": 3,
+        "range": "766—835",
+        "intro": "诗人们开始写身边的小事和心里的烦恼。",
+        "status": "live"
+      },
+      {
+        "id": "wantang",
+        "label": "晚唐",
+        "sortOrder": 4,
+        "range": "836—907",
+        "intro": "唐朝快结束了，诗里多了些怀念和叹息。",
+        "status": "live"
+      }
+    ]
+  },
+  {
+    "id": "songci",
+    "label": "宋词",
+    "intro": "宋朝人配着曲子唱的歌词，句子长长短短，读起来像唱歌。",
+    "status": "live",
+    "themeColor": "#2f6e5a",
+    "eras": [
+      {
+        "id": "beisong",
+        "label": "北宋",
+        "sortOrder": 1,
+        "range": "960—1127",
+        "intro": "汴京城里歌声不断，词人们把日子写成了词。",
+        "status": "live"
+      },
+      {
+        "id": "nansong",
+        "label": "南宋",
+        "sortOrder": 2,
+        "range": "1127—1279",
+        "intro": "山河变了模样，词里有了更多的想念和豪情。",
+        "status": "live"
+      }
+    ]
+  },
+  {
+    "id": "qita",
+    "label": "其他朝代",
+    "intro": "更早和更晚的古诗词，正在整理，敬请期待。",
+    "status": "coming",
+    "themeColor": "#4a5568",
+    "eras": [
+      {
+        "id": "xianqin",
+        "label": "先秦",
+        "sortOrder": 1,
+        "range": "先秦时期",
+        "intro": "最早的诗歌，从《诗经》开始。",
+        "status": "coming"
+      },
+      {
+        "id": "hanwei",
+        "label": "汉魏六朝",
+        "sortOrder": 2,
+        "range": "汉—南北朝",
+        "intro": "乐府民歌和山水诗的时代。",
+        "status": "coming"
+      },
+      {
+        "id": "yuandai",
+        "label": "元代",
+        "sortOrder": 3,
+        "range": "1271—1368",
+        "intro": "元曲登上了舞台。",
+        "status": "coming"
+      },
+      {
+        "id": "mingqing",
+        "label": "明清",
+        "sortOrder": 4,
+        "range": "1368—1912",
+        "intro": "诗歌依然在生长。",
+        "status": "coming"
+      }
+    ]
+  }
+]

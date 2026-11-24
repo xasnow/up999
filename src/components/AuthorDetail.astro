@@ -1,0 +1,121 @@
+---
+// 作者详情：画像、生平、事迹、年表、冷知识、作品列表（按写作时间）
+import { getDynasty, getEra, poemsOfAuthor } from '../lib/content';
+import PoemCard from './PoemCard.astro';
+
+const { author } = Astro.props;
+const dynasty = getDynasty(author.dynasty);
+const era = getEra(author.dynasty, author.era);
+const poetPoems = poemsOfAuthor(author.id);
+const poetNoun = author.dynasty === 'songci' ? '词人' : '诗人';
+---
+
+<div class="container">
+  <div class="page-head">
+    <p class="breadcrumb">
+      <a href="/">首页</a> / <a href={`/${author.dynasty}/`}>{dynasty.label}</a> /{' '}
+      <a href={`/${author.dynasty}/${author.era}/`}>{era.label}</a> / {author.name}
+    </p>
+  </div>
+
+  <div class="author-head">
+    <span class="author-avatar">
+      {
+        author.portrait ? (
+          <img
+            src={author.portrait.src}
+            width={author.portrait.width}
+            height={author.portrait.height}
+            alt={author.portrait.alt}
+          />
+        ) : (
+          author.name.slice(0, 1)
+        )
+      }
+    </span>
+    <div>
+      <h1>
+        {author.name}
+        <small style="font-size:15px;color:var(--ink-soft);font-weight:400"> {author.namePinyin}</small>
+      </h1>
+      <p class="alias-row">
+        {author.yearsLabel}
+        {author.courtesyName && <span> · 字{author.courtesyName}</span>}
+        {author.alias?.map((a) => <span> · 号{a}</span>)}
+      </p>
+      <p class="alias-row">{author.hometown}</p>
+    </div>
+  </div>
+
+  <section class="section">
+    <div class="prose">
+      <p style="font-size:18px">{author.summary}</p>
+      {author.biography.map((para) => <p>{para}</p>)}
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="section-title">
+      <h2>主要事迹</h2>
+    </div>
+    <ul class="deed-list">
+      {
+        author.deeds.map((d) => (
+          <li>
+            <h4>{d.title}</h4>
+            <p>{d.text}</p>
+          </li>
+        ))
+      }
+    </ul>
+  </section>
+
+  {
+    author.timeline && (
+      <section class="section">
+        <div class="section-title">
+          <h2>生平年表</h2>
+          <small>和他的作品对照着看</small>
+        </div>
+        <ul class="timeline">
+          {author.timeline.map((t) => (
+            <li>
+              <span class="tl-year">{t.year}</span>
+              {t.age && <span class="tl-age">{t.age} 岁</span>}
+              {t.event}
+            </li>
+          ))}
+        </ul>
+      </section>
+    )
+  }
+
+  {
+    author.funFacts?.length > 0 && (
+      <section class="section">
+        <div class="section-title">
+          <h2>冷知识</h2>
+        </div>
+        <ul class="fact-list">
+          {author.funFacts.map((f) => (
+            <li>
+              <p>{f}</p>
+            </li>
+          ))}
+        </ul>
+      </section>
+    )
+  }
+
+  <section class="section">
+    <div class="section-title">
+      <h2>作品列表</h2>
+      <small>按写作时间排序 · 共 {poetPoems.length} 首</small>
+    </div>
+    <div class="poem-grid">
+      {poetPoems.map((p) => (
+        <PoemCard poem={p} />
+      ))}
+    </div>
+  </section>
+</div>

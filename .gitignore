@@ -1,0 +1,14 @@
+# 依赖与构建产物
+node_modules/
+dist/
+.astro/
+
+# 本地截图与临时文件
+.screenshots/
+
+# 用户本地说明文件（不入库）
+古诗词网站说明.txt
+
+# 系统文件
+Thumbs.db
+.DS_Store

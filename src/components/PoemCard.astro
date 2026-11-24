@@ -1,0 +1,14 @@
+---
+import { getAuthor, gradeLabel, poemPath } from '../lib/content';
+
+const { poem } = Astro.props;
+const author = getAuthor(poem.authorId);
+const cover = poem.images?.cover;
+---
+
+<a class="poem-card" href={poemPath(poem)}>
+  <span class="grade-tag">{gradeLabel(poem.gradeBand)}</span>
+  <h3>{poem.title}</h3>
+  <p class="poem-card-meta">{author ? `${author.name} · ${author.yearsLabel}` : poem.authorId}</p>
+  {poem.famousLines?.[0] && <p class="poem-card-famous">{poem.famousLines[0]}</p>}
+</a>

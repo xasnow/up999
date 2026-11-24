@@ -1,0 +1,35 @@
+{
+  "_comment": "多音字/易错音人工规则表。字段：char（字）、reading（正确读音）、context（语境）、note（说明）。校对新诗时先查此表，发现新错音请追加，避免同类错误重复出现。",
+  "overrides": [
+    {
+      "char": "觉",
+      "reading": "jué",
+      "context": "春眠不觉晓",
+      "note": "睡醒之义读 jué；睡觉读 jiào"
+    },
+    {
+      "char": "亡",
+      "reading": "wú",
+      "context": "最喜小儿亡赖",
+      "note": "通假字，通“无”"
+    },
+    {
+      "char": "剥",
+      "reading": "bō",
+      "context": "溪头卧剥莲蓬",
+      "note": "书面动作读 bō；口语“剥皮”读 bāo"
+    },
+    {
+      "char": "媪",
+      "reading": "ǎo",
+      "context": "白发谁家翁媪",
+      "note": "老年妇女的称呼"
+    },
+    {
+      "char": "发",
+      "reading": "fà",
+      "context": "白发谁家翁媪",
+      "note": "头发之义读 fà；出发、发现读 fā"
+    }
+  ]
+}

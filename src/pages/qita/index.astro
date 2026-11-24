@@ -1,0 +1,33 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getDynasty } from '../../lib/content';
+
+const qita = getDynasty('qita');
+---
+
+<BaseLayout title="其他朝代 · 每天一首小古诗" description="先秦、汉魏六朝、元、明清的古诗词正在整理中。">
+  <div class="container">
+    <div class="page-head">
+      <p class="breadcrumb"><a href="/">首页</a> / 其他朝代</p>
+      <h1>其他朝代</h1>
+      <p class="page-desc">{qita.intro}</p>
+    </div>
+
+    <section class="section">
+      <div class="era-grid">
+        {
+          qita.eras.map((era) => (
+            <div class="era-card" style={`--era-color:${qita.themeColor}`}>
+              <h3>
+                {era.label}
+                <span class="coming-tag">整理中</span>
+              </h3>
+              <p>{era.intro}</p>
+              <p class="era-range">{era.range}</p>
+            </div>
+          ))
+        }
+      </div>
+    </section>
+  </div>
+</BaseLayout>

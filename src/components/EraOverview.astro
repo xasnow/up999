@@ -1,0 +1,38 @@
+---
+// 时期页：简介 + 作者列表（按生年排序）
+import { authorsOfEra, getDynasty, getEra, poemsOfAuthor } from '../lib/content';
+import AuthorCard from './AuthorCard.astro';
+
+const { dynastyId, eraId } = Astro.props;
+const dynasty = getDynasty(dynastyId);
+const era = getEra(dynastyId, eraId);
+const list = authorsOfEra(dynastyId, eraId);
+---
+
+<div class="container">
+  <div class="page-head">
+    <p class="breadcrumb">
+      <a href="/">首页</a> / <a href={`/${dynastyId}/`}>{dynasty.label}</a> / {era.label}
+    </p>
+    <h1>
+      {dynasty.label} · {era.label}
+    </h1>
+    <p class="page-desc">
+      {era.range} —— {era.intro}
+    </p>
+  </div>
+
+  <section class="section">
+    {
+      list.length > 0 ? (
+        <div class="author-grid">
+          {list.map((a) => (
+            <AuthorCard author={a} />
+          ))}
+        </div>
+      ) : (
+        <p class="empty-note">这一时期的{dynastyId === 'songci' ? '词人' : '诗人'}正在整理中，敬请期待。</p>
+      )
+    }
+  </section>
+</div>

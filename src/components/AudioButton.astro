@@ -1,0 +1,63 @@
+---
+// 朗读按钮：优先播放预生成音频，无音频时降级浏览器 TTS（zh-CN），并标注“机器朗读”
+const { text, audio } = Astro.props;
+---
+
+<div class="poem-toolbar">
+  {
+    audio?.src ? (
+      <audio id="poem-audio" src={audio.src} preload="none" />
+    ) : null
+  }
+  <button type="button" id="read-btn" class="toolbar-btn" data-text={text} aria-pressed="false">
+    ▶ 朗读这首诗
+  </button>
+  <span class="read-status" id="read-status">{audio ? '真人朗读' : '机器朗读'}</span>
+</div>
+
+<script>
+  const btn = document.getElementById('read-btn');
+  const status = document.getElementById('read-status');
+  const audioEl = document.getElementById('poem-audio');
+  if (btn) {
+    let playing = false;
+
+    const setUI = (on) => {
+      playing = on;
+      btn.setAttribute('aria-pressed', String(on));
+      btn.textContent = on ? '⏸ 停止朗读' : '▶ 朗读这首诗';
+    };
+
+    if (audioEl) {
+      audioEl.addEventListener('ended', () => setUI(false));
+    }
+
+    btn.addEventListener('click', () => {
+      if (playing) {
+        if (audioEl) audioEl.pause();
+        window.speechSynthesis?.cancel();
+        setUI(false);
+        return;
+      }
+      if (audioEl) {
+        audioEl.currentTime = 0;
+        audioEl.play();
+        setUI(true);
+        return;
+      }
+      // TTS 降级
+      if ('speechSynthesis' in window) {
+        const utter = new SpeechSynthesisUtterance(btn.dataset.text || '');
+        utter.lang = 'zh-CN';
+        utter.rate = 0.85;
+        utter.onend = () => setUI(false);
+        utter.onerror = () => setUI(false);
+        window.speechSynthesis.cancel();
+        window.speechSynthesis.speak(utter);
+        setUI(true);
+      } else {
+        status && (status.textContent = '当前浏览器不支持朗读');
+      }
+    });
+  }
+</script>

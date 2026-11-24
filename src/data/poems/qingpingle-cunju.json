@@ -1,0 +1,154 @@
+{
+  "id": "song-nansong-xinqiji-qingpingle-cunju",
+  "slug": "qingpingle-cunju",
+  "title": "清平乐·村居",
+  "titlePinyin": "qīng píng yuè · cūn jū",
+  "dynasty": "songci",
+  "era": "nansong",
+  "genre": "ci",
+  "form": "词·清平乐",
+  "authorId": "xinqiji",
+  "gradeBand": "g3-4",
+  "textbook": "部编版四年级下册",
+  "tags": ["田园", "家庭生活", "温馨", "词"],
+  "difficulty": 2,
+  "writtenYear": 1182,
+  "writtenLabel": "约公元 1182 年（辛弃疾闲居江西上饶带湖时期）",
+  "orderInAuthor": 1,
+  "famousLines": ["最喜小儿亡赖，溪头卧剥莲蓬。"],
+  "lines": [
+    {
+      "text": "茅檐低小，",
+      "pinyin": ["máo", "yán", "dī", "xiǎo"],
+      "translation": "低矮的小茅屋旁，",
+      "noteIds": []
+    },
+    {
+      "text": "溪上青青草。",
+      "pinyin": ["xī", "shàng", "qīng", "qīng", "cǎo"],
+      "translation": "小溪边长满了绿绿的青草。",
+      "noteIds": []
+    },
+    {
+      "text": "醉里吴音相媚好，",
+      "pinyin": ["zuì", "lǐ", "wú", "yīn", "xiāng", "mèi", "hǎo"],
+      "translation": "带着一点醉意的吴地方言，听起来又温柔又亲热，",
+      "noteIds": ["n-wuyin", "n-meihao"]
+    },
+    {
+      "text": "白发谁家翁媪？",
+      "pinyin": ["bái", "fà", "shéi", "jiā", "wēng", "ǎo"],
+      "translation": "那是谁家的老爷爷、老奶奶在说说笑笑呢？",
+      "noteIds": ["n-wengao"]
+    },
+    {
+      "text": "大儿锄豆溪东，",
+      "pinyin": ["dà", "ér", "chú", "dòu", "xī", "dōng"],
+      "translation": "大儿子在小溪东边的豆田里锄草，",
+      "noteIds": []
+    },
+    {
+      "text": "中儿正织鸡笼。",
+      "pinyin": ["zhōng", "ér", "zhèng", "zhī", "jī", "lóng"],
+      "translation": "二儿子正在院子里编织鸡笼。",
+      "noteIds": []
+    },
+    {
+      "text": "最喜小儿亡赖，",
+      "pinyin": ["zuì", "xǐ", "xiǎo", "ér", "wú", "lài"],
+      "translation": "最讨人喜欢的是调皮的小儿子，",
+      "noteIds": ["n-wanglai"]
+    },
+    {
+      "text": "溪头卧剥莲蓬。",
+      "pinyin": ["xī", "tóu", "wò", "bō", "lián", "péng"],
+      "translation": "他正横躺在小溪边，剥着莲蓬吃呢。",
+      "noteIds": ["n-bo"]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-wuyin",
+      "word": "吴音",
+      "pinyin": "wú yīn",
+      "meaning": "吴地的方言。江西上饶一带古时属吴地，当地人说话自带软软的口音。"
+    },
+    {
+      "id": "n-meihao",
+      "word": "相媚好",
+      "pinyin": "xiāng mèi hǎo",
+      "meaning": "互相逗趣、说笑的样子，形容老两口亲亲热热。"
+    },
+    {
+      "id": "n-wengao",
+      "word": "翁媪",
+      "pinyin": "wēng ǎo",
+      "meaning": "老爷爷和老奶奶。“媪”是对老年妇女的称呼。"
+    },
+    {
+      "id": "n-wanglai",
+      "word": "亡赖",
+      "pinyin": "wú lài",
+      "meaning": "“亡”通“无”，“无赖”在这里是夸奖的话，指调皮、顽皮、天真可爱。"
+    },
+    {
+      "id": "n-bo",
+      "word": "卧剥",
+      "pinyin": "wò bō",
+      "meaning": "躺着剥。“剥”指剥开莲蓬、取莲子，课文中读 bō。"
+    }
+  ],
+  "translation": "低矮的小茅屋旁，小溪边长满了绿绿的青草。带着醉意的吴地方言，听起来又温柔又美好——是谁家的老爷爷、老奶奶在说说笑笑呢？大儿子在小溪东边的豆田里锄草，二儿子正在编织鸡笼。最讨人喜欢的是调皮的小儿子，他横躺在小溪头，剥着莲蓬吃呢。",
+  "appreciation": "这是一幅会动的农村全家福：爷爷奶奶微醺聊天，三个儿子各忙各的，小儿子躺在溪边剥莲蓬。词人像举着相机，从茅屋远景拍到小儿子的特写。最妙的是“亡赖”二字——明明是“无赖”，在这里却是满满的宠爱。没有一句夸赞，可这一家人安安稳稳、自得其乐的日子，比任何赞美都动人。",
+  "background": "辛弃疾一生最想收复北方失地，却屡遭排挤。约公元 1182 年，他被罢官后闲居江西上饶带湖。乡村的安宁和朝廷的纷争形成鲜明对比，走进村里的他，看到一户农家的温馨景象，写下了这首《清平乐·村居》，把对太平生活的向往都藏在了这间小茅屋里。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "一间小茅屋",
+      "text": "镜头从远处开始：低低的茅草屋立在清清的小溪边，溪边长满了青青的草。"
+    },
+    {
+      "step": 2,
+      "title": "传来说话声",
+      "text": "茅屋里传出一阵说笑声，是软软的吴地方言，带着一点点醉意，又温柔又好听。"
+    },
+    {
+      "step": 3,
+      "title": "是谁在聊天？",
+      "text": "原来是白头发的老爷爷和老奶奶，正亲亲热热地互相打趣呢。"
+    },
+    {
+      "step": 4,
+      "title": "大儿二儿在干活",
+      "text": "再看外面：大儿子在溪东的豆田里锄草，二儿子坐在院里编鸡笼，都很勤快。"
+    },
+    {
+      "step": 5,
+      "title": "最可爱的小儿子",
+      "text": "镜头最后给到小儿子：他躺在溪头剥莲蓬吃，调皮又可爱，难怪全家人最喜欢他。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "亡",
+      "reading": "wú",
+      "reason": "“亡赖”通“无赖”，“亡”是通假字。",
+      "standard": "这里不读 wáng"
+    },
+    {
+      "char": "剥",
+      "reading": "bō",
+      "reason": "“剥莲蓬”是书面的动作描写。",
+      "standard": "口语说“剥皮”时读 bāo，课文按教材读 bō"
+    },
+    {
+      "char": "媪",
+      "reading": "ǎo",
+      "reason": "“翁媪”的“媪”是生僻字，指老年妇女。",
+      "standard": "与“翁”（wēng）合指老爷爷老奶奶"
+    }
+  ],
+  "sources": ["部编版语文四年级下册", "《稼轩长短句》"],
+  "status": "reviewed",
+  "updatedAt": "2026-11-24"
+}

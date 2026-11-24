@@ -1,0 +1,29 @@
+---
+// 当前路径（含尾斜杠归一化），用于高亮导航
+const path = Astro.url.pathname.replace(/\/[^/]*$/, '/') || '/';
+const links = [
+  { href: '/', label: '首页' },
+  { href: '/tangshi/', label: '唐诗' },
+  { href: '/songci/', label: '宋词' },
+  { href: '/qita/', label: '其他朝代' }
+];
+const current = links.find((l) => (l.href === '/' ? path === '/' : path.startsWith(l.href)))?.href;
+---
+
+<header class="site-header">
+  <div class="container header-inner">
+    <a class="brand" href="/">
+      <span class="brand-mark" aria-hidden="true">🌙</span>
+      <span class="brand-name">每天一首小古诗</span>
+    </a>
+    <nav class="site-nav" aria-label="主导航">
+      {
+        links.map((l) => (
+          <a href={l.href} class:list={[{ active: current === l.href }]}>
+            {l.label}
+          </a>
+        ))
+      }
+    </nav>
+  </div>
+</header>

@@ -1,0 +1,20 @@
+---
+import BaseLayout from '../../../../layouts/BaseLayout.astro';
+import AuthorDetail from '../../../../components/AuthorDetail.astro';
+import { authorsOfDynasty } from '../../../../lib/content';
+
+export function getStaticPaths() {
+  return authorsOfDynasty('songci').map((author) => ({
+    params: { era: author.era, author: author.slug },
+    props: { author }
+  }));
+}
+const { author } = Astro.props;
+---
+
+<BaseLayout
+  title={`${author.name} · 宋词 · 每天一首小古诗`}
+  description={`${author.name}（${author.yearsLabel}）：${author.summary}`}
+>
+  <AuthorDetail author={author} />
+</BaseLayout>

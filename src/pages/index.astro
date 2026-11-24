@@ -1,0 +1,96 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { getDynasty, gradeLabel, poems, todayPoem, poemPath, getAuthor } from '../lib/content';
+
+const today = todayPoem();
+const todayAuthor = getAuthor(today.authorId);
+const catList = ['tangshi', 'songci', 'qita'].map((id) => getDynasty(id));
+const GRADES = ['g1-2', 'g3-4', 'g5-6'];
+---
+
+<BaseLayout title="每天一首小古诗 · up999.cn" description="为小学生做的古诗词学习网站：唐诗、宋词，带拼音、有漫画、跟着时间线读懂每一首诗。">
+  <section class="hero">
+    <h1>每天一首小古诗</h1>
+    <p>带拼音、有漫画、跟着时间线一步一步读懂唐诗和宋词。</p>
+    <div class="hero-cta">
+      <a class="btn" href={poemPath(today)}>今天读《{today.title}》</a>
+      <a class="btn btn-secondary" href="/tangshi/">浏览唐诗</a>
+    </div>
+  </section>
+
+  <div class="container">
+    <section class="section">
+      <div class="section-title">
+        <h2>今日一诗</h2>
+        <small>每天换一首</small>
+      </div>
+      <a class="today-card" href={poemPath(today)}>
+        <div class="today-cover" aria-hidden="true">
+          {today.images?.cover ? <img src={today.images.cover.src} width={today.images.cover.width} height={today.images.cover.height} alt={today.images.cover.alt} /> : today.title}
+        </div>
+        <div class="today-body">
+          <h3>{today.title}</h3>
+          <p class="poem-card-meta">{todayAuthor?.name} · {todayAuthor?.yearsLabel} · {gradeLabel(today.gradeBand)}</p>
+          <p class="today-famous">{today.famousLines?.[0]}</p>
+          <span class="btn" style="align-self:flex-start;margin-top:8px">读一读 →</span>
+        </div>
+      </a>
+    </section>
+
+    <section class="section">
+      <div class="section-title">
+        <h2>从哪里开始？</h2>
+      </div>
+      <div class="cat-grid">
+        {
+          catList.map((d) => (
+            <a class={`cat-card cat-${d.id}`} href={d.status === 'coming' ? `/${d.id}/` : `/${d.id}/`}>
+              <h3>{d.label}</h3>
+              <p>{d.intro}</p>
+            </a>
+          ))
+        }
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="section-title">
+        <h2>按年级找</h2>
+        <small>点一点，找适合你的诗</small>
+      </div>
+      <div class="grade-pills" id="grade-filter">
+        <button type="button" class="grade-pill active" data-grade="all">全部</button>
+        {GRADES.map((g) => <button type="button" class="grade-pill" data-grade={g}>{gradeLabel(g)}</button>)}
+      </div>
+      <div class="poem-grid" id="poem-grid">
+        {
+          poems.map((p) => (
+            <a class="poem-card" href={poemPath(p)} data-grade={p.gradeBand}>
+              <span class="grade-tag">{gradeLabel(p.gradeBand)}</span>
+              <h3>{p.title}</h3>
+              <p class="poem-card-meta">{getAuthor(p.authorId)?.name}</p>
+              {p.famousLines?.[0] && <p class="poem-card-famous">{p.famousLines[0]}</p>}
+            </a>
+          ))
+        }
+      </div>
+    </section>
+  </div>
+</BaseLayout>
+
+<script>
+  // 学段筛选：本地过滤，无网络请求
+  const pills = document.querySelectorAll('#grade-filter .grade-pill');
+  const cards = document.querySelectorAll('#poem-grid .poem-card');
+  pills.forEach((pill) => {
+    pill.addEventListener('click', () => {
+      pills.forEach((p) => p.classList.remove('active'));
+      pill.classList.add('active');
+      const grade = pill.dataset.grade;
+      cards.forEach((card) => {
+        const show = grade === 'all' || card.dataset.grade === grade;
+        card.style.display = show ? '' : 'none';
+      });
+    });
+  });
+</script>

@@ -1,0 +1,18 @@
+---
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import EraOverview from '../../../components/EraOverview.astro';
+import { getDynasty } from '../../../lib/content';
+
+export function getStaticPaths() {
+  const dynasty = getDynasty('songci');
+  return dynasty.eras.map((era) => ({
+    params: { era: era.id },
+    props: { dynastyId: 'songci', eraId: era.id, eraLabel: era.label }
+  }));
+}
+const { dynastyId, eraId, eraLabel } = Astro.props;
+---
+
+<BaseLayout title={`宋词 · ${eraLabel} · 每天一首小古诗`} description="宋词词人列表，按时期和生年排序。">
+  <EraOverview dynastyId={dynastyId} eraId={eraId} />
+</BaseLayout>

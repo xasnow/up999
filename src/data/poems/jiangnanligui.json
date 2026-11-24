@@ -9,7 +9,12 @@
   "form": "七言绝句",
   "authorId": "dufu",
   "gradeBand": "ext",
-  "tags": ["友情", "感慨", "重逢", "七言绝句"],
+  "tags": [
+    "友情",
+    "感慨",
+    "重逢",
+    "七言绝句"
+  ],
   "difficulty": 4,
   "writtenYear": 770,
   "writtenLabel": "约公元 770 年（杜甫 59 岁）",
@@ -20,27 +25,67 @@
   "lines": [
     {
       "text": "岐王宅里寻常见，",
-      "pinyin": ["qí", "wáng", "zhái", "lǐ", "xún", "cháng", "jiàn"],
+      "pinyin": [
+        "qí",
+        "wáng",
+        "zhái",
+        "lǐ",
+        "xún",
+        "cháng",
+        "jiàn"
+      ],
       "translation": "以前在岐王府里，常常见到你，",
-      "noteIds": ["n-qi", "n-xunchang"]
+      "noteIds": [
+        "n-qi",
+        "n-xunchang"
+      ]
     },
     {
       "text": "崔九堂前几度闻。",
-      "pinyin": ["cuī", "jiǔ", "táng", "qián", "jǐ", "dù", "wén"],
+      "pinyin": [
+        "cuī",
+        "jiǔ",
+        "táng",
+        "qián",
+        "jǐ",
+        "dù",
+        "wén"
+      ],
       "translation": "在崔九家堂前，也多次听你唱歌。",
-      "noteIds": ["n-cuijiu", "n-jidu"]
+      "noteIds": [
+        "n-cuijiu",
+        "n-jidu"
+      ]
     },
     {
       "text": "正是江南好风景，",
-      "pinyin": ["zhèng", "shì", "jiāng", "nán", "hǎo", "fēng", "jǐng"],
+      "pinyin": [
+        "zhèng",
+        "shì",
+        "jiāng",
+        "nán",
+        "hǎo",
+        "fēng",
+        "jǐng"
+      ],
       "translation": "如今正是江南风景好的时节，",
       "noteIds": []
     },
     {
       "text": "落花时节又逢君。",
-      "pinyin": ["luò", "huā", "shí", "jié", "yòu", "féng", "jūn"],
+      "pinyin": [
+        "luò",
+        "huā",
+        "shí",
+        "jié",
+        "yòu",
+        "féng",
+        "jūn"
+      ],
       "translation": "落花时节，没想到又遇见了你。",
-      "noteIds": ["n-luohua"]
+      "noteIds": [
+        "n-luohua"
+      ]
     }
   ],
   "notes": [
@@ -106,5 +151,15 @@
     "《唐诗鉴赏辞典》（上海辞书出版社）"
   ],
   "status": "published",
-  "updatedAt": "2026-11-24"
+  "updatedAt": "2026-11-24",
+  "images": {
+    "cover": {
+      "src": "/assets/img/poems/jiangnanligui-cover.jpg",
+      "width": 2240,
+      "height": 1680,
+      "alt": "《江南逢李龟年》场景插画",
+      "credit": "AI 辅助生成 · up999.cn",
+      "aiGenerated": true
+    }
+  }
 }

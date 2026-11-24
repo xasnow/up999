@@ -25,25 +25,55 @@
   "lines": [
     {
       "text": "牧童骑黄牛，",
-      "pinyin": ["mù", "tóng", "qí", "huáng", "niú"],
+      "pinyin": [
+        "mù",
+        "tóng",
+        "qí",
+        "huáng",
+        "niú"
+      ],
       "translation": "小牧童骑在黄牛背上，",
       "noteIds": []
     },
     {
       "text": "歌声振林樾。",
-      "pinyin": ["gē", "shēng", "zhèn", "lín", "yuè"],
+      "pinyin": [
+        "gē",
+        "shēng",
+        "zhèn",
+        "lín",
+        "yuè"
+      ],
       "translation": "嘹亮的歌声在树林里回荡。",
-      "noteIds": ["n-zhen", "n-yue"]
+      "noteIds": [
+        "n-zhen",
+        "n-yue"
+      ]
     },
     {
       "text": "意欲捕鸣蝉，",
-      "pinyin": ["yì", "yù", "bǔ", "míng", "chán"],
+      "pinyin": [
+        "yì",
+        "yù",
+        "bǔ",
+        "míng",
+        "chán"
+      ],
       "translation": "他想捉树上鸣叫的知了，",
-      "noteIds": ["n-yiyu", "n-bu"]
+      "noteIds": [
+        "n-yiyu",
+        "n-bu"
+      ]
     },
     {
       "text": "忽然闭口立。",
-      "pinyin": ["hū", "rán", "bì", "kǒu", "lì"],
+      "pinyin": [
+        "hū",
+        "rán",
+        "bì",
+        "kǒu",
+        "lì"
+      ],
       "translation": "忽然闭上嘴巴，站住不动了。",
       "noteIds": []
     }
@@ -105,5 +135,15 @@
     "《小仓山房诗文集》"
   ],
   "status": "published",
-  "updatedAt": "2026-11-24"
+  "updatedAt": "2026-11-24",
+  "images": {
+    "cover": {
+      "src": "/assets/img/poems/suojian-cover.jpg",
+      "width": 2240,
+      "height": 1680,
+      "alt": "《所见》场景插画",
+      "credit": "AI 辅助生成 · up999.cn",
+      "aiGenerated": true
+    }
+  }
 }

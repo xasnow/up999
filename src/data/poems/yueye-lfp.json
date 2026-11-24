@@ -1,0 +1,159 @@
+{
+  "id": "tang-zhongtang-liuyangping-yueye-lfp",
+  "slug": "yueye-lfp",
+  "title": "月夜",
+  "titlePinyin": "yuè yè",
+  "dynasty": "tangshi",
+  "era": "zhongtang",
+  "genre": "shi",
+  "form": "七言绝句",
+  "authorId": "liuyangping",
+  "gradeBand": "ext",
+  "tags": [
+    "月夜",
+    "春天",
+    "虫鸣",
+    "七言绝句"
+  ],
+  "difficulty": 3,
+  "writtenYear": 750,
+  "writtenLabel": "约公元 750 年（刘方平隐居时月夜闻虫）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "今夜偏知春气暖，虫声新透绿窗纱。"
+  ],
+  "lines": [
+    {
+      "text": "更深月色半人家，",
+      "pinyin": [
+        "gēng",
+        "shēn",
+        "yuè",
+        "sè",
+        "bàn",
+        "rén",
+        "jiā"
+      ],
+      "translation": "夜深了，月光斜照着半边人家，",
+      "noteIds": [
+        "n-gengshen"
+      ]
+    },
+    {
+      "text": "北斗阑干南斗斜。",
+      "pinyin": [
+        "běi",
+        "dǒu",
+        "lán",
+        "gān",
+        "nán",
+        "dǒu",
+        "xié"
+      ],
+      "translation": "北斗星横斜，南斗星也斜了。",
+      "noteIds": [
+        "n-langgan"
+      ]
+    },
+    {
+      "text": "今夜偏知春气暖，",
+      "pinyin": [
+        "jīn",
+        "yè",
+        "piān",
+        "zhī",
+        "chūn",
+        "qì",
+        "nuǎn"
+      ],
+      "translation": "偏偏在今晚，忽然觉出春天变暖，",
+      "noteIds": [
+        "n-pianzhi"
+      ]
+    },
+    {
+      "text": "虫声新透绿窗纱。",
+      "pinyin": [
+        "chóng",
+        "shēng",
+        "xīn",
+        "tòu",
+        "lǜ",
+        "chuāng",
+        "shā"
+      ],
+      "translation": "虫子的叫声，第一次透进绿色窗纱。",
+      "noteIds": [
+        "n-xintou"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-gengshen",
+      "word": "更深",
+      "pinyin": "gēng shēn",
+      "meaning": "夜很深了。古时夜里打更报时，更深夜就是后半夜。"
+    },
+    {
+      "id": "n-langgan",
+      "word": "阑干",
+      "pinyin": "lán gān",
+      "meaning": "横斜的样子。这里写星星的北斗横斜。"
+    },
+    {
+      "id": "n-pianzhi",
+      "word": "偏知",
+      "pinyin": "piān zhī",
+      "meaning": "偏偏知道，指最先察觉到春天变暖。"
+    },
+    {
+      "id": "n-xintou",
+      "word": "新透",
+      "pinyin": "xīn tòu",
+      "meaning": "第一次透过。新就是刚刚、初次。"
+    }
+  ],
+  "translation": "夜深了，月光斜斜地照着半边人家，北斗星横着，南斗星也斜了。偏偏在今晚，忽然觉出春天的暖意，虫子的叫声，第一次透进绿色的窗纱。",
+  "appreciation": "这首诗像一部安静的小电影。前两句看天：月色照着半边屋顶，星星也歪了，夜深得不能再深。后两句听声音：一声小小的虫鸣，居然第一个报告了春天的消息。诗人告诉我们，春天不用去远处找，竖起耳朵就能听到。",
+  "background": "刘方平隐居在颍水边，夜里睡得晚。早春的一个深夜，他看到月光斜照、星星横斜，忽然听到窗外传来今年第一声虫鸣。他轻轻推开窗，把这一晚写进了诗里。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "夜深月斜",
+      "text": "后半夜，月光斜斜地照着半边人家。"
+    },
+    {
+      "step": 2,
+      "title": "星星歪了",
+      "text": "北斗横着，南斗斜着，夜已经非常深。"
+    },
+    {
+      "step": 3,
+      "title": "忽然觉暖",
+      "text": "诗人忽然发现，今晚的风里有春天的暖意。"
+    },
+    {
+      "step": 4,
+      "title": "虫鸣报春",
+      "text": "第一声虫鸣透进绿窗纱，春天悄悄来了。"
+    }
+  ],
+  "pinyinNotes": [],
+  "sources": [
+    "《全唐诗》（中华书局）",
+    "《唐诗鉴赏辞典》（上海辞书出版社）"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-24",
+  "images": {
+    "cover": {
+      "src": "/assets/img/poems/yueye-lfp-cover.jpg",
+      "width": 2240,
+      "height": 1680,
+      "alt": "《月夜》场景插画",
+      "credit": "AI 辅助生成 · up999.cn",
+      "aiGenerated": true
+    }
+  }
+}

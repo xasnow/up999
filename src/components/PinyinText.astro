@@ -1,6 +1,7 @@
 ---
-// 原文逐字拼音（ruby）+ 逐句译文折叠 + 注释词弹层
+// 原文逐字拼音（ruby）+ 逐句译文（受"释义"开关控制）+ 注释词弹层
 // pinyin[] 与 text 去标点后的字符一一对齐（构建脚本校验长度）
+// 整齐的五言/七言两两合并为一行展示（联句），长短句保持一句一行
 const { lines, notes = [] } = Astro.props;
 
 const PUNCT = /[，。？！、；：""''《》（）·—…,.?!;:'"()]/;
@@ -59,22 +60,26 @@ function renderLineHTML(line) {
   return html;
 }
 
-const renderLines = lines.map((line) => ({
-  html: renderLineHTML(line),
-  translation: line.translation
-}));
+// 联句分组：全诗都是整齐五言/七言时两句合并一行；杂言、词保持一句一行
+const strippedLen = (t) => [...t].filter((c) => !PUNCT.test(c)).length;
+const uniform = lines.every((l) => [5, 7].includes(strippedLen(l.text)));
+const groups = [];
+if (uniform) {
+  for (let i = 0; i < lines.length; i += 2) groups.push(lines.slice(i, i + 2));
+} else {
+  for (const l of lines) groups.push([l]);
+}
 ---
 
 <div class="poem-body">
   {
-    renderLines.map((line) => (
+    groups.map((g) => (
       <div class="poem-line">
-        <p class="line-text" set:html={line.html} />
-        {line.translation && (
-          <details class="line-tr">
-            <summary>这句什么意思？</summary>
-            <p>{line.translation}</p>
-          </details>
+        <p class="line-text" set:html={g.map((line) => renderLineHTML(line)).join('<span class="line-gap" aria-hidden="true"></span>')} />
+        {g.some((line) => line.translation) && (
+          <div class="line-tr">
+            {g.map((line) => (line.translation ? <p>{line.translation}</p> : null))}
+          </div>
         )}
       </div>
     ))

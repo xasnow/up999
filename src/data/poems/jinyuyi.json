@@ -1,0 +1,157 @@
+{
+  "id": "tang-wantang-duqiuniang-jinyuyi",
+  "slug": "jinyuyi",
+  "title": "金缕衣",
+  "titlePinyin": "jīn lǚ yī",
+  "dynasty": "tangshi",
+  "era": "wantang",
+  "genre": "shi",
+  "form": "七言绝句",
+  "authorId": "duqiuniang",
+  "gradeBand": "ext",
+  "tags": [
+    "珍惜时光",
+    "劝学",
+    "七言绝句"
+  ],
+  "difficulty": 3,
+  "writtenYear": 800,
+  "writtenLabel": "约公元 800 年（杜秋娘唱《金缕衣》时）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "劝君惜取少年时。"
+  ],
+  "lines": [
+    {
+      "text": "劝君莫惜金缕衣，",
+      "pinyin": [
+        "quàn",
+        "jūn",
+        "mò",
+        "xī",
+        "jīn",
+        "lǚ",
+        "yī"
+      ],
+      "translation": "不要可惜那件金线织的衣裳，",
+      "noteIds": [
+        "n-jinlyu"
+      ]
+    },
+    {
+      "text": "劝君惜取少年时。",
+      "pinyin": [
+        "quàn",
+        "jūn",
+        "xī",
+        "qǔ",
+        "shào",
+        "nián",
+        "shí"
+      ],
+      "translation": "要珍惜的是少年时光。",
+      "noteIds": []
+    },
+    {
+      "text": "花开堪折直须折，",
+      "pinyin": [
+        "huā",
+        "kāi",
+        "kān",
+        "zhé",
+        "zhí",
+        "xū",
+        "zhé"
+      ],
+      "translation": "花开正好，能摘就摘吧，",
+      "noteIds": [
+        "n-kan",
+        "n-zhixu"
+      ]
+    },
+    {
+      "text": "莫待无花空折枝。",
+      "pinyin": [
+        "mò",
+        "dài",
+        "wú",
+        "huā",
+        "kōng",
+        "zhé",
+        "zhī"
+      ],
+      "translation": "别等花谢了，对着空枝叹气。",
+      "noteIds": [
+        "n-kong"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-jinlyu",
+      "word": "金缕衣",
+      "pinyin": "jīn lǚ yī",
+      "meaning": "缀着金线的华贵衣裳。缕就是细线。"
+    },
+    {
+      "id": "n-kan",
+      "word": "堪",
+      "pinyin": "kān",
+      "meaning": "能、可以。堪折就是可以摘。"
+    },
+    {
+      "id": "n-zhixu",
+      "word": "直须",
+      "pinyin": "zhí xū",
+      "meaning": "就应该，尽管去。"
+    },
+    {
+      "id": "n-kong",
+      "word": "空",
+      "pinyin": "kōng",
+      "meaning": "白白地。空折枝指花谢后只能对着空枝。"
+    }
+  ],
+  "translation": "不要可惜那件金线织的衣裳，要珍惜的是少年的时光。花开得正好，能摘就摘吧；别等到花谢了，只能对着空空的树枝叹气。",
+  "appreciation": "金线织的衣服多贵呀，诗人却说它不值得珍惜，值得珍惜的是少年时光。花的比喻一听就懂：花开时不看，谢了只能望空枝。这首诗像一位朋友在耳边提醒：现在就是最好的时候，抓紧吧。唐朝人还把它谱成曲子传唱。",
+  "background": "杜秋娘十五岁时是节度使李锜家的歌女，最爱唱这首歌。传说歌词是她的作品，也有人说是她爱唱的江南民歌。这首诗因为旋律动听、道理明白，在唐朝传唱很广，后来被收进了《唐诗三百首》。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "衣裳别太惜",
+      "text": "金线衣再贵，也不值得日日惦记。"
+    },
+    {
+      "step": 2,
+      "title": "时光最贵",
+      "text": "少年的时光才是最值得珍惜的宝贝。"
+    },
+    {
+      "step": 3,
+      "title": "花开快摘",
+      "text": "花开正艳时，就该及时去欣赏。"
+    },
+    {
+      "step": 4,
+      "title": "莫对空枝",
+      "text": "等花谢了再后悔，只能对着空枝叹气。"
+    }
+  ],
+  "pinyinNotes": [],
+  "sources": [
+    "《全唐诗》（中华书局）",
+    "《唐诗三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-24",
+  "images": {
+    "cover": {
+      "src": "/assets/img/poems/jinyuyi-cover.jpg",
+      "width": 2240,
+      "height": 1680,
+      "alt": "《金缕衣》场景插画",
+      "credit": "AI 辅助生成 · up999.cn",
+      "aiGenerated": true
+    }
+  }
+}

@@ -9,7 +9,12 @@
   "form": "五言绝句",
   "authorId": "liuchangqing",
   "gradeBand": "ext",
-  "tags": ["冬天", "雪夜", "山村", "五言绝句"],
+  "tags": [
+    "冬天",
+    "雪夜",
+    "山村",
+    "五言绝句"
+  ],
   "difficulty": 3,
   "writtenYear": 775,
   "writtenLabel": "约公元 775 年（刘长卿约 50 岁）",
@@ -20,27 +25,60 @@
   "lines": [
     {
       "text": "日暮苍山远，",
-      "pinyin": ["rì", "mù", "cāng", "shān", "yuǎn"],
+      "pinyin": [
+        "rì",
+        "mù",
+        "cāng",
+        "shān",
+        "yuǎn"
+      ],
       "translation": "天快黑了，远处的青山显得更远。",
-      "noteIds": ["n-mu", "n-cang"]
+      "noteIds": [
+        "n-mu",
+        "n-cang"
+      ]
     },
     {
       "text": "天寒白屋贫。",
-      "pinyin": ["tiān", "hán", "bái", "wū", "pín"],
+      "pinyin": [
+        "tiān",
+        "hán",
+        "bái",
+        "wū",
+        "pín"
+      ],
       "translation": "天冷得厉害，简陋的小屋更显清贫。",
-      "noteIds": ["n-baiwu"]
+      "noteIds": [
+        "n-baiwu"
+      ]
     },
     {
       "text": "柴门闻犬吠，",
-      "pinyin": ["chái", "mén", "wén", "quǎn", "fèi"],
+      "pinyin": [
+        "chái",
+        "mén",
+        "wén",
+        "quǎn",
+        "fèi"
+      ],
       "translation": "半夜里，柴门外忽然传来狗叫声。",
-      "noteIds": ["n-fei"]
+      "noteIds": [
+        "n-fei"
+      ]
     },
     {
       "text": "风雪夜归人。",
-      "pinyin": ["fēng", "xuě", "yè", "guī", "rén"],
+      "pinyin": [
+        "fēng",
+        "xuě",
+        "yè",
+        "guī",
+        "rén"
+      ],
       "translation": "原来是有人顶着风雪，深夜赶回了家。",
-      "noteIds": ["n-gui"]
+      "noteIds": [
+        "n-gui"
+      ]
     }
   ],
   "notes": [
@@ -106,5 +144,15 @@
     "《刘长卿诗编年笺注》"
   ],
   "status": "published",
-  "updatedAt": "2026-11-24"
+  "updatedAt": "2026-11-24",
+  "images": {
+    "cover": {
+      "src": "/assets/img/poems/furongshanzhuren-cover.jpg",
+      "width": 2240,
+      "height": 1680,
+      "alt": "《逢雪宿芙蓉山主人》场景插画",
+      "credit": "AI 辅助生成 · up999.cn",
+      "aiGenerated": true
+    }
+  }
 }

@@ -25,27 +25,59 @@
   "lines": [
     {
       "text": "明日复明日，",
-      "pinyin": ["míng", "rì", "fù", "míng", "rì"],
+      "pinyin": [
+        "míng",
+        "rì",
+        "fù",
+        "míng",
+        "rì"
+      ],
       "translation": "明天过了又是明天，",
-      "noteIds": ["n-fu"]
+      "noteIds": [
+        "n-fu"
+      ]
     },
     {
       "text": "明日何其多。",
-      "pinyin": ["míng", "rì", "hé", "qí", "duō"],
+      "pinyin": [
+        "míng",
+        "rì",
+        "hé",
+        "qí",
+        "duō"
+      ],
       "translation": "明天怎么会有这么多呀！",
-      "noteIds": ["n-heqi"]
+      "noteIds": [
+        "n-heqi"
+      ]
     },
     {
       "text": "我生待明日，",
-      "pinyin": ["wǒ", "shēng", "dài", "míng", "rì"],
+      "pinyin": [
+        "wǒ",
+        "shēng",
+        "dài",
+        "míng",
+        "rì"
+      ],
       "translation": "如果我一辈子都在等明天，",
-      "noteIds": ["n-dai"]
+      "noteIds": [
+        "n-dai"
+      ]
     },
     {
       "text": "万事成蹉跎。",
-      "pinyin": ["wàn", "shì", "chéng", "cuō", "tuó"],
+      "pinyin": [
+        "wàn",
+        "shì",
+        "chéng",
+        "cuō",
+        "tuó"
+      ],
       "translation": "什么事都会拖着做不成，白白浪费时光。",
-      "noteIds": ["n-cuotuo"]
+      "noteIds": [
+        "n-cuotuo"
+      ]
     }
   ],
   "notes": [
@@ -105,5 +137,15 @@
     "《鹤滩集》"
   ],
   "status": "published",
-  "updatedAt": "2026-11-24"
+  "updatedAt": "2026-11-24",
+  "images": {
+    "cover": {
+      "src": "/assets/img/poems/mingrige-cover.jpg",
+      "width": 2240,
+      "height": 1680,
+      "alt": "《明日歌（节选）》场景插画",
+      "credit": "AI 辅助生成 · up999.cn",
+      "aiGenerated": true
+    }
+  }
 }

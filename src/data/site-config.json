@@ -1,4 +1,4 @@
 {
-  "imagesEnabled": false,
-  "_comment": "全站配图开关：false 时隐藏封面/分镜图（数据与代码保留），改 true 恢复显示"
+  "imagesEnabled": true,
+  "_comment": "全站配图开关：false 时隐藏封面/分镜图（数据与代码保留），改 false 恢复隐藏"
 }

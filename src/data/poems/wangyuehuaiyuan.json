@@ -1,0 +1,207 @@
+{
+  "id": "tang-shengtang-zhangjiuling-wangyuehuaiyuan",
+  "slug": "wangyuehuaiyuan",
+  "title": "望月怀远",
+  "titlePinyin": "wàng yuè huái yuǎn",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "五言律诗",
+  "authorId": "zhangjiuling",
+  "gradeBand": "ext",
+  "tags": [
+    "明月",
+    "思念",
+    "中秋",
+    "五言律诗"
+  ],
+  "difficulty": 3,
+  "writtenYear": 730,
+  "writtenLabel": "约公元 730 年（张九龄思念远方亲友时）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "海上生明月，天涯共此时。"
+  ],
+  "lines": [
+    {
+      "text": "海上生明月，",
+      "pinyin": [
+        "hǎi",
+        "shàng",
+        "shēng",
+        "míng",
+        "yuè"
+      ],
+      "translation": "大海上升起一轮明月，",
+      "noteIds": []
+    },
+    {
+      "text": "天涯共此时。",
+      "pinyin": [
+        "tiān",
+        "yá",
+        "gòng",
+        "cǐ",
+        "shí"
+      ],
+      "translation": "远在天边的人，此刻也望着它。",
+      "noteIds": [
+        "n-tianya"
+      ]
+    },
+    {
+      "text": "情人怨遥夜，",
+      "pinyin": [
+        "qíng",
+        "rén",
+        "yuàn",
+        "yáo",
+        "yè"
+      ],
+      "translation": "想念远方的人，抱怨夜太漫长，",
+      "noteIds": []
+    },
+    {
+      "text": "竟夕起相思。",
+      "pinyin": [
+        "jìng",
+        "xī",
+        "qǐ",
+        "xiāng",
+        "sī"
+      ],
+      "translation": "整夜整夜地想念着亲人。",
+      "noteIds": [
+        "n-jingxi"
+      ]
+    },
+    {
+      "text": "灭烛怜光满，",
+      "pinyin": [
+        "miè",
+        "zhú",
+        "lián",
+        "guāng",
+        "mǎn"
+      ],
+      "translation": "吹灭蜡烛，月光洒满屋子真可爱，",
+      "noteIds": []
+    },
+    {
+      "text": "披衣觉露滋。",
+      "pinyin": [
+        "pī",
+        "yī",
+        "jué",
+        "lù",
+        "zī"
+      ],
+      "translation": "披上衣服走出屋，露水打湿了衣裳。",
+      "noteIds": [
+        "n-zi"
+      ]
+    },
+    {
+      "text": "不堪盈手赠，",
+      "pinyin": [
+        "bù",
+        "kān",
+        "yíng",
+        "shǒu",
+        "zèng"
+      ],
+      "translation": "满手的月光，却没法送给远方的人，",
+      "noteIds": [
+        "n-ying"
+      ]
+    },
+    {
+      "text": "还寝梦佳期。",
+      "pinyin": [
+        "huán",
+        "qǐn",
+        "mèng",
+        "jiā",
+        "qī"
+      ],
+      "translation": "只好回去睡觉，希望在梦里相会。",
+      "noteIds": [
+        "n-qin"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-tianya",
+      "word": "天涯",
+      "pinyin": "tiān yá",
+      "meaning": "非常遥远的地方。"
+    },
+    {
+      "id": "n-jingxi",
+      "word": "竟夕",
+      "pinyin": "jìng xī",
+      "meaning": "一整夜，从天黑到天亮。"
+    },
+    {
+      "id": "n-zi",
+      "word": "滋",
+      "pinyin": "zī",
+      "meaning": "湿润、打湿。露滋就是露水打湿了衣服。"
+    },
+    {
+      "id": "n-ying",
+      "word": "盈手",
+      "pinyin": "yíng shǒu",
+      "meaning": "满手。盈是充满，指掬满一捧月光。"
+    },
+    {
+      "id": "n-qin",
+      "word": "寝",
+      "pinyin": "qǐn",
+      "meaning": "睡觉。还寝就是回去睡觉。"
+    }
+  ],
+  "translation": "大海上升起一轮明月，远在天边的亲人，此刻也正望着它。想念远方的人抱怨夜太漫长，整夜整夜地想念亲人。吹灭蜡烛，月光洒满屋子真可爱；披上衣服走到户外，露水打湿了衣裳。满手的月光，却没法送给远方的人，只好回去睡觉，希望在梦里相会。",
+  "appreciation": "开头五个字像电影开场：黑黑的大海，亮起一轮明月。紧接着“天涯共此时”，把远方的人一下子拉进同一片月光里。诗人捧起一捧月光想送人，可月光没法打包寄出，这个想法又可爱又心酸。想睡个好觉，梦里再见面，多么温柔。",
+  "background": "张九龄当宰相时说话直，常常直言劝皇帝，后来被排挤出了朝廷。离开亲友的夜晚，他望着海上升起的明月，想起远方的家人朋友，写下这首《望月怀远》。中秋节时，许多人都会念起它的前两句。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "海上月升",
+      "text": "大海上升起明月，诗人望着它出神。"
+    },
+    {
+      "step": 2,
+      "title": "同望一轮",
+      "text": "他想：远方的人此刻也望着这轮月亮吧。"
+    },
+    {
+      "step": 3,
+      "title": "捧月赠人",
+      "text": "他吹烛披衣走到户外，捧起满手月光却送不出去。"
+    },
+    {
+      "step": 4,
+      "title": "梦里相会",
+      "text": "只好回屋睡觉，盼望在梦里见上亲人一面。"
+    }
+  ],
+  "pinyinNotes": [],
+  "sources": [
+    "《全唐诗》（中华书局）",
+    "《唐诗鉴赏辞典》（上海辞书出版社）"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-24",
+  "images": {
+    "cover": {
+      "src": "/assets/img/poems/wangyuehuaiyuan-cover.jpg",
+      "width": 2240,
+      "height": 1680,
+      "alt": "《望月怀远》场景插画",
+      "credit": "AI 辅助生成 · up999.cn",
+      "aiGenerated": true
+    }
+  }
+}

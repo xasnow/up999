@@ -25,27 +25,68 @@
   "lines": [
     {
       "text": "草长莺飞二月天，",
-      "pinyin": ["cǎo", "zhǎng", "yīng", "fēi", "èr", "yuè", "tiān"],
+      "pinyin": [
+        "cǎo",
+        "zhǎng",
+        "yīng",
+        "fēi",
+        "èr",
+        "yuè",
+        "tiān"
+      ],
       "translation": "农历二月，青草生长，黄莺飞来飞去，",
-      "noteIds": ["n-ying"]
+      "noteIds": [
+        "n-ying"
+      ]
     },
     {
       "text": "拂堤杨柳醉春烟。",
-      "pinyin": ["fú", "dī", "yáng", "liǔ", "zuì", "chūn", "yān"],
+      "pinyin": [
+        "fú",
+        "dī",
+        "yáng",
+        "liǔ",
+        "zuì",
+        "chūn",
+        "yān"
+      ],
       "translation": "杨柳枝轻轻拂过河堤，像陶醉在春天的雾气里。",
-      "noteIds": ["n-fudi", "n-chunyan"]
+      "noteIds": [
+        "n-fudi",
+        "n-chunyan"
+      ]
     },
     {
       "text": "儿童散学归来早，",
-      "pinyin": ["ér", "tóng", "sàn", "xué", "guī", "lái", "zǎo"],
+      "pinyin": [
+        "ér",
+        "tóng",
+        "sàn",
+        "xué",
+        "guī",
+        "lái",
+        "zǎo"
+      ],
       "translation": "孩子们放学回来得早，",
-      "noteIds": ["n-sanxue"]
+      "noteIds": [
+        "n-sanxue"
+      ]
     },
     {
       "text": "忙趁东风放纸鸢。",
-      "pinyin": ["máng", "chèn", "dōng", "fēng", "fàng", "zhǐ", "yuān"],
+      "pinyin": [
+        "máng",
+        "chèn",
+        "dōng",
+        "fēng",
+        "fàng",
+        "zhǐ",
+        "yuān"
+      ],
       "translation": "赶忙趁着东风，放起了风筝。",
-      "noteIds": ["n-zhiyuan"]
+      "noteIds": [
+        "n-zhiyuan"
+      ]
     }
   ],
   "notes": [
@@ -111,5 +152,15 @@
     "《拙吾诗稿》"
   ],
   "status": "published",
-  "updatedAt": "2026-11-24"
+  "updatedAt": "2026-11-24",
+  "images": {
+    "cover": {
+      "src": "/assets/img/poems/cunju-cover.jpg",
+      "width": 2240,
+      "height": 1680,
+      "alt": "《村居》场景插画",
+      "credit": "AI 辅助生成 · up999.cn",
+      "aiGenerated": true
+    }
+  }
 }

@@ -51,12 +51,13 @@ const cover = getCover(poem);
       )
     }
   </div>
-  {cover && <p class="cover-caption">四格分镜 · 跟着四个画面读这首诗</p>}
+  {cover && <p class="cover-caption">看图读诗 · AI 辅助生成 · up999.cn</p>}
 
   <AudioButton text={fullText} audio={poem.audio} />
 
   <div class="poem-toolbar">
     <button type="button" id="pinyin-toggle" class="toolbar-btn" aria-pressed="true">拼音：开</button>
+    <button type="button" id="fanyi-toggle" class="toolbar-btn" aria-pressed="false">释义：关</button>
   </div>
 
   <PinyinText lines={poem.lines} notes={poem.notes} />
@@ -138,7 +139,7 @@ const cover = getCover(poem);
 </div>
 
 <script>
-  // 拼音开关：localStorage 全站记忆
+  // 拼音/释义开关：localStorage 全站记忆
   const toggle = document.getElementById('pinyin-toggle');
   if (toggle) {
     const isOff = document.body.classList.contains('hide-pinyin');
@@ -149,6 +150,19 @@ const cover = getCover(poem);
       toggle.setAttribute('aria-pressed', String(!off));
       toggle.textContent = off ? '拼音：关' : '拼音：开';
       localStorage.setItem('up999-pinyin', off ? 'off' : 'on');
+    });
+  }
+
+  const fanyiBtn = document.getElementById('fanyi-toggle');
+  if (fanyiBtn) {
+    const isOff = document.body.classList.contains('hide-fanyi');
+    fanyiBtn.setAttribute('aria-pressed', String(!isOff));
+    fanyiBtn.textContent = isOff ? '释义：关' : '释义：开';
+    fanyiBtn.addEventListener('click', () => {
+      const off = document.body.classList.toggle('hide-fanyi');
+      fanyiBtn.setAttribute('aria-pressed', String(!off));
+      fanyiBtn.textContent = off ? '释义：关' : '释义：开';
+      localStorage.setItem('up999-fanyi', off ? 'off' : 'on');
     });
   }
 </script>

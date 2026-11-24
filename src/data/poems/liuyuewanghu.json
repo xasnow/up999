@@ -151,5 +151,15 @@
     "《苏轼诗集》"
   ],
   "status": "published",
-  "updatedAt": "2026-11-24"
+  "updatedAt": "2026-11-24",
+  "images": {
+    "cover": {
+      "src": "/assets/img/poems/liuyuewanghu-cover.jpg",
+      "width": 2240,
+      "height": 1680,
+      "alt": "《六月二十七日望湖楼醉书》场景插画",
+      "credit": "AI 辅助生成 · up999.cn",
+      "aiGenerated": true
+    }
+  }
 }

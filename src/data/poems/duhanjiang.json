@@ -1,0 +1,134 @@
+{
+  "id": "tang-chutang-songzhiwen-duhanjiang",
+  "slug": "duhanjiang",
+  "title": "渡汉江",
+  "titlePinyin": "dù hàn jiāng",
+  "dynasty": "tangshi",
+  "era": "chutang",
+  "genre": "shi",
+  "form": "五言绝句",
+  "authorId": "songzhiwen",
+  "gradeBand": "ext",
+  "tags": [
+    "思乡",
+    "回家",
+    "五言绝句"
+  ],
+  "difficulty": 3,
+  "writtenYear": 706,
+  "writtenLabel": "公元 706 年（宋之问从岭南归来途中）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "近乡情更怯，不敢问来人。"
+  ],
+  "lines": [
+    {
+      "text": "岭外音书断，",
+      "pinyin": [
+        "lǐng",
+        "wài",
+        "yīn",
+        "shū",
+        "duàn"
+      ],
+      "translation": "在岭南，家里人的消息全断了，",
+      "noteIds": [
+        "n-lingwai"
+      ]
+    },
+    {
+      "text": "经冬复历春。",
+      "pinyin": [
+        "jīng",
+        "dōng",
+        "fù",
+        "lì",
+        "chūn"
+      ],
+      "translation": "过了冬天，又熬到了春天。",
+      "noteIds": []
+    },
+    {
+      "text": "近乡情更怯，",
+      "pinyin": [
+        "jìn",
+        "xiāng",
+        "qíng",
+        "gèng",
+        "qiè"
+      ],
+      "translation": "离家越近，心里反而越发紧张，",
+      "noteIds": [
+        "n-qie"
+      ]
+    },
+    {
+      "text": "不敢问来人。",
+      "pinyin": [
+        "bù",
+        "gǎn",
+        "wèn",
+        "lái",
+        "rén"
+      ],
+      "translation": "遇到家乡来的人，都不敢开口打听。",
+      "noteIds": []
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-lingwai",
+      "word": "岭外",
+      "pinyin": "lǐng wài",
+      "meaning": "五岭以南的地区，指岭南，离中原很远。"
+    },
+    {
+      "id": "n-qie",
+      "word": "怯",
+      "pinyin": "qiè",
+      "meaning": "害怕、紧张。这里指越靠近家乡越不敢打听消息。"
+    }
+  ],
+  "translation": "在岭南的那些日子，家里人的消息全断了。我熬过了冬天，又熬过了春天。如今渡过汉江，离家越来越近，心里反而越发紧张，碰到从家乡来的人，都不敢开口打听家里的情况。",
+  "appreciation": "回家不是应该高兴吗？诗人却说“情更怯”“不敢问”。因为他离开太久，家里是好消息还是坏消息，他不敢想。越想越怕，越近越紧张。这两句把人人心里都有、却说不出口的感觉写出来了，所以一读就懂，一懂就忘不掉。",
+  "background": "公元706年，宋之问被贬岭南北归，途经汉江。他离开家乡和京城已经很久，书信断了好几个月。眼看家乡越来越近，他既盼望又害怕，不知道家里怎么样了，于是写下了这首小诗。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "音信全断",
+      "text": "在岭南，他很久收不到家里的消息。"
+    },
+    {
+      "step": 2,
+      "title": "熬过冬春",
+      "text": "从冬天等到春天，一天天数着日子。"
+    },
+    {
+      "step": 3,
+      "title": "越近越紧张",
+      "text": "渡过汉江，离家近了，心却跳得更厉害。"
+    },
+    {
+      "step": 4,
+      "title": "不敢开口",
+      "text": "遇到家乡来的人，他愣是不敢打听家里的消息。"
+    }
+  ],
+  "pinyinNotes": [],
+  "sources": [
+    "《全唐诗》（中华书局）",
+    "《唐诗鉴赏辞典》（上海辞书出版社）"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-24",
+  "images": {
+    "cover": {
+      "src": "/assets/img/poems/duhanjiang-cover.jpg",
+      "width": 2240,
+      "height": 1680,
+      "alt": "《渡汉江》场景插画",
+      "credit": "AI 辅助生成 · up999.cn",
+      "aiGenerated": true
+    }
+  }
+}

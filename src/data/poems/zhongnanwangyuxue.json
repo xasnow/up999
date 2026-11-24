@@ -1,0 +1,141 @@
+{
+  "id": "tang-shengtang-zuyong-zhongnanwangyuxue",
+  "slug": "zhongnanwangyuxue",
+  "title": "终南望余雪",
+  "titlePinyin": "zhōng nán wàng yú xuě",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "五言绝句",
+  "authorId": "zuyong",
+  "gradeBand": "ext",
+  "tags": [
+    "雪景",
+    "远望",
+    "五言绝句"
+  ],
+  "difficulty": 3,
+  "writtenYear": 730,
+  "writtenLabel": "公元 730 年（祖咏在长安应试时）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "林表明霁色，城中增暮寒。"
+  ],
+  "lines": [
+    {
+      "text": "终南阴岭秀，",
+      "pinyin": [
+        "zhōng",
+        "nán",
+        "yīn",
+        "lǐng",
+        "xiù"
+      ],
+      "translation": "终南山北面的山岭真秀美，",
+      "noteIds": [
+        "n-yinling"
+      ]
+    },
+    {
+      "text": "积雪浮云端。",
+      "pinyin": [
+        "jī",
+        "xuě",
+        "fú",
+        "yún",
+        "duān"
+      ],
+      "translation": "积雪好像浮在天边的云上。",
+      "noteIds": []
+    },
+    {
+      "text": "林表明霁色，",
+      "pinyin": [
+        "lín",
+        "biǎo",
+        "míng",
+        "jì",
+        "sè"
+      ],
+      "translation": "树梢上刚刚亮起雪后的天光，",
+      "noteIds": [
+        "n-linbiao",
+        "n-jise"
+      ]
+    },
+    {
+      "text": "城中增暮寒。",
+      "pinyin": [
+        "chéng",
+        "zhōng",
+        "zēng",
+        "mù",
+        "hán"
+      ],
+      "translation": "傍晚的长安城，又添了几分寒意。",
+      "noteIds": []
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-yinling",
+      "word": "阴岭",
+      "pinyin": "yīn lǐng",
+      "meaning": "山的北面。山北照不到太阳，雪不容易化。"
+    },
+    {
+      "id": "n-linbiao",
+      "word": "林表",
+      "pinyin": "lín biǎo",
+      "meaning": "树林的末端，指树梢。"
+    },
+    {
+      "id": "n-jise",
+      "word": "霁色",
+      "pinyin": "jì sè",
+      "meaning": "雪停后天空透出的亮光。霁就是雨雪停止。"
+    }
+  ],
+  "translation": "终南山北面的山岭真秀美，山顶的积雪好像浮在天边的云上。傍晚雪停了，树梢上刚刚亮起天光，长安城里反而又添了几分寒意。",
+  "appreciation": "这首诗只有四句，把看雪的顺序写得清清楚楚：先看山，再看雪，再看树梢的天光，最后感觉城里的冷。最妙的是“浮”字，积雪高得像浮在云上，山一下子就“长高”了。明明写雪，结尾却写冷，把眼睛看到的和皮肤感觉到的连了起来。",
+  "background": "这是祖咏在长安参加进士考试时写的应试诗。考题规定要写六韵十二句，他只写了这四句就交卷。考官问他为什么，他说意思已经说完了，多写就是画蛇添足。这次他落了榜，这四句诗却流传了千年。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "考场领题",
+      "text": "祖咏拿到考题，题目是望终南山的余雪。"
+    },
+    {
+      "step": 2,
+      "title": "抬头望山",
+      "text": "山北雪后更秀美，积雪像浮在云上。"
+    },
+    {
+      "step": 3,
+      "title": "树梢发光",
+      "text": "傍晚雪停了，树梢先亮起雪后的天光。"
+    },
+    {
+      "step": 4,
+      "title": "四句交卷",
+      "text": "他写满四句就停笔交卷，坚持意思说完就行。"
+    }
+  ],
+  "pinyinNotes": [],
+  "sources": [
+    "《全唐诗》（中华书局）",
+    "《唐诗鉴赏辞典》（上海辞书出版社）"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-24",
+  "images": {
+    "cover": {
+      "src": "/assets/img/poems/zhongnanwangyuxue-cover.jpg",
+      "width": 2240,
+      "height": 1680,
+      "alt": "《终南望余雪》场景插画",
+      "credit": "AI 辅助生成 · up999.cn",
+      "aiGenerated": true
+    }
+  }
+}

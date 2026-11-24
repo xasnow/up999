@@ -10,7 +10,12 @@
   "authorId": "liqiao",
   "gradeBand": "g1-2",
   "textbook": "课外经典诵读篇目",
-  "tags": ["咏物", "风", "谜语诗", "五言绝句"],
+  "tags": [
+    "咏物",
+    "风",
+    "谜语诗",
+    "五言绝句"
+  ],
   "difficulty": 1,
   "writtenYear": 680,
   "writtenLabel": "约公元 680 年（李峤早年咏物之作）",
@@ -21,27 +26,56 @@
   "lines": [
     {
       "text": "解落三秋叶，",
-      "pinyin": ["jiě", "luò", "sān", "qiū", "yè"],
+      "pinyin": [
+        "jiě",
+        "luò",
+        "sān",
+        "qiū",
+        "yè"
+      ],
       "translation": "它吹落了深秋的树叶，",
-      "noteIds": ["n-jie"]
+      "noteIds": [
+        "n-jie"
+      ]
     },
     {
       "text": "能开二月花。",
-      "pinyin": ["néng", "kāi", "èr", "yuè", "huā"],
+      "pinyin": [
+        "néng",
+        "kāi",
+        "èr",
+        "yuè",
+        "huā"
+      ],
       "translation": "也能吹开早春二月的鲜花。",
       "noteIds": []
     },
     {
       "text": "过江千尺浪，",
-      "pinyin": ["guò", "jiāng", "qiān", "chǐ", "làng"],
+      "pinyin": [
+        "guò",
+        "jiāng",
+        "qiān",
+        "chǐ",
+        "làng"
+      ],
       "translation": "它吹过江面，掀起千尺巨浪，",
       "noteIds": []
     },
     {
       "text": "入竹万竿斜。",
-      "pinyin": ["rù", "zhú", "wàn", "gān", "xié"],
+      "pinyin": [
+        "rù",
+        "zhú",
+        "wàn",
+        "gān",
+        "xié"
+      ],
       "translation": "吹进竹林，把万根竹子吹得歪向一边。",
-      "noteIds": ["n-gan", "n-xie"]
+      "noteIds": [
+        "n-gan",
+        "n-xie"
+      ]
     }
   ],
   "notes": [
@@ -95,5 +129,15 @@
     "《唐诗鉴赏辞典》"
   ],
   "status": "published",
-  "updatedAt": "2026-11-24"
+  "updatedAt": "2026-11-24",
+  "images": {
+    "cover": {
+      "src": "/assets/img/poems/feng-cover.jpg",
+      "width": 2240,
+      "height": 1680,
+      "alt": "《风》场景插画",
+      "credit": "AI 辅助生成 · up999.cn",
+      "aiGenerated": true
+    }
+  }
 }

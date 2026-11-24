@@ -25,39 +25,80 @@
   "lines": [
     {
       "text": "敕勒川，",
-      "pinyin": ["chì", "lè", "chuān"],
+      "pinyin": [
+        "chì",
+        "lè",
+        "chuān"
+      ],
       "translation": "辽阔的敕勒平原，",
-      "noteIds": ["n-chilechuan"]
+      "noteIds": [
+        "n-chilechuan"
+      ]
     },
     {
       "text": "阴山下。",
-      "pinyin": ["yīn", "shān", "xià"],
+      "pinyin": [
+        "yīn",
+        "shān",
+        "xià"
+      ],
       "translation": "就在阴山的脚下。",
       "noteIds": []
     },
     {
       "text": "天似穹庐，",
-      "pinyin": ["tiān", "sì", "qióng", "lú"],
+      "pinyin": [
+        "tiān",
+        "sì",
+        "qióng",
+        "lú"
+      ],
       "translation": "天空像一座圆圆的大帐篷，",
-      "noteIds": ["n-qionglu"]
+      "noteIds": [
+        "n-qionglu"
+      ]
     },
     {
       "text": "笼盖四野。",
-      "pinyin": ["lóng", "gài", "sì", "yě"],
+      "pinyin": [
+        "lóng",
+        "gài",
+        "sì",
+        "yě"
+      ],
       "translation": "把整个大草原罩在中间。",
-      "noteIds": ["n-ye"]
+      "noteIds": [
+        "n-ye"
+      ]
     },
     {
       "text": "天苍苍，野茫茫，",
-      "pinyin": ["tiān", "cāng", "cāng", "yě", "máng", "máng"],
+      "pinyin": [
+        "tiān",
+        "cāng",
+        "cāng",
+        "yě",
+        "máng",
+        "máng"
+      ],
       "translation": "天空蓝蓝的，草原一望无边，",
       "noteIds": []
     },
     {
       "text": "风吹草低见牛羊。",
-      "pinyin": ["fēng", "chuī", "cǎo", "dī", "xiàn", "niú", "yáng"],
+      "pinyin": [
+        "fēng",
+        "chuī",
+        "cǎo",
+        "dī",
+        "xiàn",
+        "niú",
+        "yáng"
+      ],
       "translation": "风一吹，草弯下腰，露出成群的牛羊。",
-      "noteIds": ["n-xian"]
+      "noteIds": [
+        "n-xian"
+      ]
     }
   ],
   "notes": [
@@ -117,5 +158,15 @@
     "《乐府诗集》"
   ],
   "status": "published",
-  "updatedAt": "2026-11-24"
+  "updatedAt": "2026-11-24",
+  "images": {
+    "cover": {
+      "src": "/assets/img/poems/chilege-cover.jpg",
+      "width": 2240,
+      "height": 1680,
+      "alt": "《敕勒歌》场景插画",
+      "credit": "AI 辅助生成 · up999.cn",
+      "aiGenerated": true
+    }
+  }
 }

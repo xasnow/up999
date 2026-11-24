@@ -10,7 +10,12 @@
   "authorId": "wangwei",
   "gradeBand": "g3-4",
   "textbook": "课外经典诵读篇目",
-  "tags": ["友情", "红豆", "思念", "五言绝句"],
+  "tags": [
+    "友情",
+    "红豆",
+    "思念",
+    "五言绝句"
+  ],
   "difficulty": 2,
   "writtenYear": 750,
   "writtenLabel": "约公元 750 年（王维赠友之作）",
@@ -21,25 +26,53 @@
   "lines": [
     {
       "text": "红豆生南国，",
-      "pinyin": ["hóng", "dòu", "shēng", "nán", "guó"],
+      "pinyin": [
+        "hóng",
+        "dòu",
+        "shēng",
+        "nán",
+        "guó"
+      ],
       "translation": "红豆生长在南方，",
-      "noteIds": ["n-hongdou"]
+      "noteIds": [
+        "n-hongdou"
+      ]
     },
     {
       "text": "春来发几枝。",
-      "pinyin": ["chūn", "lái", "fā", "jǐ", "zhī"],
+      "pinyin": [
+        "chūn",
+        "lái",
+        "fā",
+        "jǐ",
+        "zhī"
+      ],
       "translation": "春天来了，长出多少新枝呀。",
       "noteIds": []
     },
     {
       "text": "愿君多采撷，",
-      "pinyin": ["yuàn", "jūn", "duō", "cǎi", "xié"],
+      "pinyin": [
+        "yuàn",
+        "jūn",
+        "duō",
+        "cǎi",
+        "xié"
+      ],
       "translation": "希望你多摘一些红豆，",
-      "noteIds": ["n-caixie"]
+      "noteIds": [
+        "n-caixie"
+      ]
     },
     {
       "text": "此物最相思。",
-      "pinyin": ["cǐ", "wù", "zuì", "xiāng", "sī"],
+      "pinyin": [
+        "cǐ",
+        "wù",
+        "zuì",
+        "xiāng",
+        "sī"
+      ],
       "translation": "因为它最能寄托人的相思之情。",
       "noteIds": []
     }
@@ -89,5 +122,15 @@
     "《王右丞集笺注》"
   ],
   "status": "published",
-  "updatedAt": "2026-11-24"
+  "updatedAt": "2026-11-24",
+  "images": {
+    "cover": {
+      "src": "/assets/img/poems/xiangsi-cover.jpg",
+      "width": 2240,
+      "height": 1680,
+      "alt": "《相思》场景插画",
+      "credit": "AI 辅助生成 · up999.cn",
+      "aiGenerated": true
+    }
+  }
 }

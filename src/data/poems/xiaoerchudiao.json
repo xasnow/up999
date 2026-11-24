@@ -176,5 +176,15 @@
     "《唐诗鉴赏辞典》"
   ],
   "status": "published",
-  "updatedAt": "2026-11-24"
+  "updatedAt": "2026-11-24",
+  "images": {
+    "cover": {
+      "src": "/assets/img/poems/xiaoerchudiao-cover.jpg",
+      "width": 2240,
+      "height": 1680,
+      "alt": "《小儿垂钓》场景插画",
+      "credit": "AI 辅助生成 · up999.cn",
+      "aiGenerated": true
+    }
+  }
 }

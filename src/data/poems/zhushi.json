@@ -25,27 +25,67 @@
   "lines": [
     {
       "text": "咬定青山不放松，",
-      "pinyin": ["yǎo", "dìng", "qīng", "shān", "bú", "fàng", "sōng"],
+      "pinyin": [
+        "yǎo",
+        "dìng",
+        "qīng",
+        "shān",
+        "bú",
+        "fàng",
+        "sōng"
+      ],
       "translation": "竹子紧紧咬住青山，一点儿也不放松。",
-      "noteIds": ["n-yaoding"]
+      "noteIds": [
+        "n-yaoding"
+      ]
     },
     {
       "text": "立根原在破岩中。",
-      "pinyin": ["lì", "gēn", "yuán", "zài", "pò", "yán", "zhōng"],
+      "pinyin": [
+        "lì",
+        "gēn",
+        "yuán",
+        "zài",
+        "pò",
+        "yán",
+        "zhōng"
+      ],
       "translation": "原来它的根，扎在裂开的岩石缝里。",
-      "noteIds": ["n-poyan"]
+      "noteIds": [
+        "n-poyan"
+      ]
     },
     {
       "text": "千磨万击还坚劲。",
-      "pinyin": ["qiān", "mó", "wàn", "jī", "hái", "jiān", "jìng"],
+      "pinyin": [
+        "qiān",
+        "mó",
+        "wàn",
+        "jī",
+        "hái",
+        "jiān",
+        "jìng"
+      ],
       "translation": "经过千次折磨、万次打击，它依然坚强挺立。",
-      "noteIds": ["n-jing"]
+      "noteIds": [
+        "n-jing"
+      ]
     },
     {
       "text": "任尔东西南北风。",
-      "pinyin": ["rèn", "ěr", "dōng", "xī", "nán", "běi", "fēng"],
+      "pinyin": [
+        "rèn",
+        "ěr",
+        "dōng",
+        "xī",
+        "nán",
+        "běi",
+        "fēng"
+      ],
       "translation": "任凭你刮东西南北哪一方的风！",
-      "noteIds": ["n-rener"]
+      "noteIds": [
+        "n-rener"
+      ]
     }
   ],
   "notes": [
@@ -105,5 +145,15 @@
     "《郑板桥集》"
   ],
   "status": "published",
-  "updatedAt": "2026-11-24"
+  "updatedAt": "2026-11-24",
+  "images": {
+    "cover": {
+      "src": "/assets/img/poems/zhushi-cover.jpg",
+      "width": 2240,
+      "height": 1680,
+      "alt": "《竹石》场景插画",
+      "credit": "AI 辅助生成 · up999.cn",
+      "aiGenerated": true
+    }
+  }
 }

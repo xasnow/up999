@@ -1,0 +1,207 @@
+{
+  "id": "tang-chutang-wangji-yewang-wangji",
+  "slug": "yewang-wangji",
+  "title": "野望",
+  "titlePinyin": "yě wàng",
+  "dynasty": "tangshi",
+  "era": "chutang",
+  "genre": "shi",
+  "form": "五言律诗",
+  "authorId": "wangji",
+  "gradeBand": "ext",
+  "tags": [
+    "田园",
+    "黄昏",
+    "秋色",
+    "五言律诗"
+  ],
+  "difficulty": 3,
+  "writtenYear": 630,
+  "writtenLabel": "约公元 630 年（王绩隐居东皋时）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "树树皆秋色，山山唯落晖。"
+  ],
+  "lines": [
+    {
+      "text": "东皋薄暮望，",
+      "pinyin": [
+        "dōng",
+        "gāo",
+        "bó",
+        "mù",
+        "wàng"
+      ],
+      "translation": "傍晚，我在东皋的山冈上远望，",
+      "noteIds": [
+        "n-gao"
+      ]
+    },
+    {
+      "text": "徙倚欲何依。",
+      "pinyin": [
+        "xǐ",
+        "yǐ",
+        "yù",
+        "hé",
+        "yī"
+      ],
+      "translation": "走来走去，心里想找个依靠。",
+      "noteIds": [
+        "n-xiyi"
+      ]
+    },
+    {
+      "text": "树树皆秋色，",
+      "pinyin": [
+        "shù",
+        "shù",
+        "jiē",
+        "qiū",
+        "sè"
+      ],
+      "translation": "每棵树都染上了秋天的颜色，",
+      "noteIds": []
+    },
+    {
+      "text": "山山唯落晖。",
+      "pinyin": [
+        "shān",
+        "shān",
+        "wéi",
+        "luò",
+        "huī"
+      ],
+      "translation": "每座山都只剩夕阳的余光。",
+      "noteIds": [
+        "n-hui"
+      ]
+    },
+    {
+      "text": "牧人驱犊返，",
+      "pinyin": [
+        "mù",
+        "rén",
+        "qū",
+        "dú",
+        "fǎn"
+      ],
+      "translation": "放牛的人赶着小牛回家了，",
+      "noteIds": [
+        "n-du"
+      ]
+    },
+    {
+      "text": "猎马带禽归。",
+      "pinyin": [
+        "liè",
+        "mǎ",
+        "dài",
+        "qín",
+        "guī"
+      ],
+      "translation": "打猎的人骑马带着猎物回来。",
+      "noteIds": []
+    },
+    {
+      "text": "相顾无相识，",
+      "pinyin": [
+        "xiāng",
+        "gù",
+        "wú",
+        "xiāng",
+        "shí"
+      ],
+      "translation": "大家互相看看，却没有认识我的人，",
+      "noteIds": []
+    },
+    {
+      "text": "长歌怀采薇。",
+      "pinyin": [
+        "cháng",
+        "gē",
+        "huái",
+        "cǎi",
+        "wēi"
+      ],
+      "translation": "我放声长歌，想起古代采薇的隐士。",
+      "noteIds": [
+        "n-caiwei"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-gao",
+      "word": "皋",
+      "pinyin": "gāo",
+      "meaning": "水边的高地。东皋是诗人隐居种田的地方。"
+    },
+    {
+      "id": "n-xiyi",
+      "word": "徙倚",
+      "pinyin": "xǐ yǐ",
+      "meaning": "走来走去，徘徊不定。"
+    },
+    {
+      "id": "n-hui",
+      "word": "落晖",
+      "pinyin": "luò huī",
+      "meaning": "夕阳的余光。晖就是阳光。"
+    },
+    {
+      "id": "n-du",
+      "word": "犊",
+      "pinyin": "dú",
+      "meaning": "小牛。驱犊就是赶着小牛。"
+    },
+    {
+      "id": "n-caiwei",
+      "word": "采薇",
+      "pinyin": "cǎi wēi",
+      "meaning": "商末伯夷、叔齐隐居山上采薇菜吃。这里指想念古代的隐士。"
+    }
+  ],
+  "translation": "傍晚时分，我在东皋的山冈上远远望去，走来走去，心里想找个可以依靠的地方。每棵树都染上了秋天的颜色，每座山都只剩夕阳的余光。放牛的人赶着小牛回家，打猎的人骑马带着猎物回来。大家互相看看，却没有一个认识我的人，我只好放声长歌，怀念古代采薇的隐士。",
+  "appreciation": "这首诗像一幅傍晚的乡村画。树是秋色，山是落晖，人赶牛，马带猎物，四样景物排得整整齐齐。最有味道的是结尾：眼前热热闹闹，诗人却觉得没人认识自己。热闹和孤单放在一起，诗就有了一点点淡淡的愁。这可是唐诗里最早写好的五言律诗之一。",
+  "background": "王绩三次做官又三次辞官，最后回到家乡，在东皋种田酿酒。这天傍晚，他站在山坡上看秋天的村庄。牧人和猎人纷纷回家，他却觉得自己像客人一样，于是写下了这首《野望》。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "傍晚登高",
+      "text": "傍晚，王绩站上东皋山坡，向远处望去。"
+    },
+    {
+      "step": 2,
+      "title": "满眼秋色",
+      "text": "棵棵树都黄了，座座山只剩夕阳的余光。"
+    },
+    {
+      "step": 3,
+      "title": "人人归家",
+      "text": "牧人赶牛回家，猎人带猎物下马，都回来了。"
+    },
+    {
+      "step": 4,
+      "title": "无人相识",
+      "text": "大家互相看看都不认识，他只好长歌怀念古代隐士。"
+    }
+  ],
+  "pinyinNotes": [],
+  "sources": [
+    "《全唐诗》（中华书局）",
+    "《唐诗鉴赏辞典》（上海辞书出版社）"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-24",
+  "images": {
+    "cover": {
+      "src": "/assets/img/poems/yewang-wangji-cover.jpg",
+      "width": 2240,
+      "height": 1680,
+      "alt": "《野望》场景插画",
+      "credit": "AI 辅助生成 · up999.cn",
+      "aiGenerated": true
+    }
+  }
+}

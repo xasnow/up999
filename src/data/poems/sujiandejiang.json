@@ -9,7 +9,12 @@
   "form": "五言绝句",
   "authorId": "menghaoran",
   "gradeBand": "ext",
-  "tags": ["秋天", "思乡", "江景", "五言绝句"],
+  "tags": [
+    "秋天",
+    "思乡",
+    "江景",
+    "五言绝句"
+  ],
   "difficulty": 3,
   "writtenYear": 730,
   "writtenLabel": "约公元 730 年（孟浩然 42 岁）",
@@ -20,25 +25,56 @@
   "lines": [
     {
       "text": "移舟泊烟渚，",
-      "pinyin": ["yí", "zhōu", "bó", "yān", "zhǔ"],
+      "pinyin": [
+        "yí",
+        "zhōu",
+        "bó",
+        "yān",
+        "zhǔ"
+      ],
       "translation": "小船慢慢划过去，停在烟雾蒙蒙的小洲边。",
-      "noteIds": ["n-bo", "n-zhu"]
+      "noteIds": [
+        "n-bo",
+        "n-zhu"
+      ]
     },
     {
       "text": "日暮客愁新。",
-      "pinyin": ["rì", "mù", "kè", "chóu", "xīn"],
+      "pinyin": [
+        "rì",
+        "mù",
+        "kè",
+        "chóu",
+        "xīn"
+      ],
       "translation": "天黑了，漂泊在外的愁绪又涌上心头。",
-      "noteIds": ["n-kechou"]
+      "noteIds": [
+        "n-kechou"
+      ]
     },
     {
       "text": "野旷天低树，",
-      "pinyin": ["yě", "kuàng", "tiān", "dī", "shù"],
+      "pinyin": [
+        "yě",
+        "kuàng",
+        "tiān",
+        "dī",
+        "shù"
+      ],
       "translation": "原野空旷，远远看去，天好像比树还低。",
-      "noteIds": ["n-kuang"]
+      "noteIds": [
+        "n-kuang"
+      ]
     },
     {
       "text": "江清月近人。",
-      "pinyin": ["jiāng", "qīng", "yuè", "jìn", "rén"],
+      "pinyin": [
+        "jiāng",
+        "qīng",
+        "yuè",
+        "jìn",
+        "rén"
+      ],
       "translation": "江水清清，水里的月亮离人好像很近。",
       "noteIds": []
     }
@@ -100,5 +136,15 @@
     "《唐诗鉴赏辞典》（上海辞书出版社）"
   ],
   "status": "published",
-  "updatedAt": "2026-11-24"
+  "updatedAt": "2026-11-24",
+  "images": {
+    "cover": {
+      "src": "/assets/img/poems/sujiandejiang-cover.jpg",
+      "width": 2240,
+      "height": 1680,
+      "alt": "《宿建德江》场景插画",
+      "credit": "AI 辅助生成 · up999.cn",
+      "aiGenerated": true
+    }
+  }
 }

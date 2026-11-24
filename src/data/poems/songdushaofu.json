@@ -10,7 +10,11 @@
   "authorId": "wangbo",
   "gradeBand": "g5-6",
   "textbook": "部编版语文八年级下册（课外古诗词诵读）",
-  "tags": ["送别", "友情", "五言律诗"],
+  "tags": [
+    "送别",
+    "友情",
+    "五言律诗"
+  ],
   "difficulty": 3,
   "writtenYear": 676,
   "writtenLabel": "约公元 676 年（王勃在长安送友人赴蜀州）",
@@ -21,49 +25,105 @@
   "lines": [
     {
       "text": "城阙辅三秦，",
-      "pinyin": ["chéng", "què", "fǔ", "sān", "qín"],
+      "pinyin": [
+        "chéng",
+        "què",
+        "fǔ",
+        "sān",
+        "qín"
+      ],
       "translation": "三秦大地护卫着长安城，",
-      "noteIds": ["n-que"]
+      "noteIds": [
+        "n-que"
+      ]
     },
     {
       "text": "风烟望五津。",
-      "pinyin": ["fēng", "yān", "wàng", "wǔ", "jīn"],
+      "pinyin": [
+        "fēng",
+        "yān",
+        "wàng",
+        "wǔ",
+        "jīn"
+      ],
       "translation": "透过迷茫的风烟，望见蜀州的五个渡口。",
       "noteIds": []
     },
     {
       "text": "与君离别意，",
-      "pinyin": ["yǔ", "jūn", "lí", "bié", "yì"],
+      "pinyin": [
+        "yǔ",
+        "jūn",
+        "lí",
+        "bié",
+        "yì"
+      ],
       "translation": "和你分别的心情，",
       "noteIds": []
     },
     {
       "text": "同是宦游人。",
-      "pinyin": ["tóng", "shì", "huàn", "yóu", "rén"],
+      "pinyin": [
+        "tóng",
+        "shì",
+        "huàn",
+        "yóu",
+        "rén"
+      ],
       "translation": "咱们都一样，因为都是离乡在外做官的人。",
-      "noteIds": ["n-huan"]
+      "noteIds": [
+        "n-huan"
+      ]
     },
     {
       "text": "海内存知己，",
-      "pinyin": ["hǎi", "nèi", "cún", "zhī", "jǐ"],
+      "pinyin": [
+        "hǎi",
+        "nèi",
+        "cún",
+        "zhī",
+        "jǐ"
+      ],
       "translation": "只要四海之内有知心的朋友，",
       "noteIds": []
     },
     {
       "text": "天涯若比邻。",
-      "pinyin": ["tiān", "yá", "ruò", "bǐ", "lín"],
+      "pinyin": [
+        "tiān",
+        "yá",
+        "ruò",
+        "bǐ",
+        "lín"
+      ],
       "translation": "即使远在天边，也像邻居一样近。",
-      "noteIds": ["n-ya"]
+      "noteIds": [
+        "n-ya"
+      ]
     },
     {
       "text": "无为在歧路，",
-      "pinyin": ["wú", "wéi", "zài", "qí", "lù"],
+      "pinyin": [
+        "wú",
+        "wéi",
+        "zài",
+        "qí",
+        "lù"
+      ],
       "translation": "不要在分手的岔路口，",
-      "noteIds": ["n-qi"]
+      "noteIds": [
+        "n-qi"
+      ]
     },
     {
       "text": "儿女共沾巾。",
-      "pinyin": ["ér", "nǚ", "gòng", "zhān", "jīn"],
+      "pinyin": [
+        "ér",
+        "nǚ",
+        "gòng",
+        "zhān",
+        "jīn"
+      ],
       "translation": "像小孩子一样，哭湿了手巾。",
       "noteIds": []
     }
@@ -125,5 +185,15 @@
     "《全唐诗》"
   ],
   "status": "published",
-  "updatedAt": "2026-11-24"
+  "updatedAt": "2026-11-24",
+  "images": {
+    "cover": {
+      "src": "/assets/img/poems/songdushaofu-cover.jpg",
+      "width": 2240,
+      "height": 1680,
+      "alt": "《送杜少府之任蜀州》场景插画",
+      "credit": "AI 辅助生成 · up999.cn",
+      "aiGenerated": true
+    }
+  }
 }

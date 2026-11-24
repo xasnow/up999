@@ -9,7 +9,12 @@
   "form": "七言绝句",
   "authorId": "dumu",
   "gradeBand": "ext",
-  "tags": ["秋天", "枫叶", "山林", "七言绝句"],
+  "tags": [
+    "秋天",
+    "枫叶",
+    "山林",
+    "七言绝句"
+  ],
   "difficulty": 3,
   "writtenYear": 835,
   "writtenLabel": "约公元 835 年（杜牧 33 岁）",
@@ -20,27 +25,68 @@
   "lines": [
     {
       "text": "远上寒山石径斜，",
-      "pinyin": ["yuǎn", "shàng", "hán", "shān", "shí", "jìng", "xié"],
+      "pinyin": [
+        "yuǎn",
+        "shàng",
+        "hán",
+        "shān",
+        "shí",
+        "jìng",
+        "xié"
+      ],
       "translation": "弯弯的石头小路，斜斜地通向远处的寒山。",
-      "noteIds": ["n-jing", "n-xie"]
+      "noteIds": [
+        "n-jing",
+        "n-xie"
+      ]
     },
     {
       "text": "白云生处有人家。",
-      "pinyin": ["bái", "yún", "shēng", "chù", "yǒu", "rén", "jiā"],
+      "pinyin": [
+        "bái",
+        "yún",
+        "shēng",
+        "chù",
+        "yǒu",
+        "rén",
+        "jiā"
+      ],
       "translation": "白云升起的地方，住着几户人家。",
-      "noteIds": ["n-sheng"]
+      "noteIds": [
+        "n-sheng"
+      ]
     },
     {
       "text": "停车坐爱枫林晚，",
-      "pinyin": ["tíng", "chē", "zuò", "ài", "fēng", "lín", "wǎn"],
+      "pinyin": [
+        "tíng",
+        "chē",
+        "zuò",
+        "ài",
+        "fēng",
+        "lín",
+        "wǎn"
+      ],
       "translation": "停下车来，因为我太爱傍晚的枫林，",
-      "noteIds": ["n-zuiai"]
+      "noteIds": [
+        "n-zuiai"
+      ]
     },
     {
       "text": "霜叶红于二月花。",
-      "pinyin": ["shuāng", "yè", "hóng", "yú", "èr", "yuè", "huā"],
+      "pinyin": [
+        "shuāng",
+        "yè",
+        "hóng",
+        "yú",
+        "èr",
+        "yuè",
+        "huā"
+      ],
       "translation": "被霜打过的枫叶，比二月的春花还红。",
-      "noteIds": ["n-yu"]
+      "noteIds": [
+        "n-yu"
+      ]
     }
   ],
   "notes": [
@@ -106,5 +152,15 @@
     "部编版语文三年级上册"
   ],
   "status": "published",
-  "updatedAt": "2026-11-24"
+  "updatedAt": "2026-11-24",
+  "images": {
+    "cover": {
+      "src": "/assets/img/poems/shanxing-cover.jpg",
+      "width": 2240,
+      "height": 1680,
+      "alt": "《山行》场景插画",
+      "credit": "AI 辅助生成 · up999.cn",
+      "aiGenerated": true
+    }
+  }
 }

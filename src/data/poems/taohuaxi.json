@@ -1,0 +1,166 @@
+{
+  "id": "tang-shengtang-zhangxu-taohuaxi",
+  "slug": "taohuaxi",
+  "title": "桃花溪",
+  "titlePinyin": "táo huā xī",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "七言绝句",
+  "authorId": "zhangxu",
+  "gradeBand": "ext",
+  "tags": [
+    "山水",
+    "桃花",
+    "想象",
+    "七言绝句"
+  ],
+  "difficulty": 3,
+  "writtenYear": 735,
+  "writtenLabel": "约公元 735 年（张旭游桃花溪时）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "桃花尽日随流水，洞在清溪何处边。"
+  ],
+  "lines": [
+    {
+      "text": "隐隐飞桥隔野烟，",
+      "pinyin": [
+        "yǐn",
+        "yǐn",
+        "fēi",
+        "qiáo",
+        "gé",
+        "yě",
+        "yān"
+      ],
+      "translation": "隔着山野的烟霭，隐隐看见一座高桥，",
+      "noteIds": [
+        "n-yeyan"
+      ]
+    },
+    {
+      "text": "石矶西畔问渔船。",
+      "pinyin": [
+        "shí",
+        "jī",
+        "xī",
+        "pàn",
+        "wèn",
+        "yú",
+        "chuán"
+      ],
+      "translation": "走到石矶西边，向打鱼的船打听。",
+      "noteIds": [
+        "n-shiji",
+        "n-pan"
+      ]
+    },
+    {
+      "text": "桃花尽日随流水，",
+      "pinyin": [
+        "táo",
+        "huā",
+        "jìn",
+        "rì",
+        "suí",
+        "liú",
+        "shuǐ"
+      ],
+      "translation": "桃花整天随着流水漂啊漂，",
+      "noteIds": [
+        "n-jinri"
+      ]
+    },
+    {
+      "text": "洞在清溪何处边。",
+      "pinyin": [
+        "dòng",
+        "zài",
+        "qīng",
+        "xī",
+        "hé",
+        "chù",
+        "biān"
+      ],
+      "translation": "桃花源的洞口，到底在清溪哪一边呢？",
+      "noteIds": [
+        "n-dong"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-yeyan",
+      "word": "野烟",
+      "pinyin": "yě yān",
+      "meaning": "山野间的雾气，远远看去朦朦胧胧。"
+    },
+    {
+      "id": "n-shiji",
+      "word": "矶",
+      "pinyin": "jī",
+      "meaning": "水边突出的大石头。"
+    },
+    {
+      "id": "n-pan",
+      "word": "畔",
+      "pinyin": "pàn",
+      "meaning": "边、旁边。西畔就是西边。"
+    },
+    {
+      "id": "n-jinri",
+      "word": "尽日",
+      "pinyin": "jìn rì",
+      "meaning": "整天，一整天。"
+    },
+    {
+      "id": "n-dong",
+      "word": "洞",
+      "pinyin": "dòng",
+      "meaning": "指桃花源的洞口，出自陶渊明的《桃花源记》。"
+    }
+  ],
+  "translation": "隔着山野的烟霭，隐隐约约看见一座高桥，我走到石矶西边，向打鱼的船打听。桃花整天随着流水漂啊漂，桃花源的洞口，到底在清溪的哪一边呢？",
+  "appreciation": "这首诗像一次寻找桃花源的小探险。远远一座桥藏在烟雾里，诗人跑过去问渔船。桃花瓣顺水漂来，他立刻猜：漂过花的地方，会不会藏着那个神奇的洞口？问句结尾，答案没有说出来，让读诗的人也跟着一起想。",
+  "background": "桃花溪在今天的湖南桃源一带，传说陶渊明笔下《桃花源记》的故事就发生在附近。张旭到这里游玩，看烟、看桥、看桃花顺水漂流，想起那个美丽传说，便向渔船打听洞口在哪里，写下了这首诗。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "烟雾锁桥",
+      "text": "山野烟雾里，隐隐约约露出一座桥。"
+    },
+    {
+      "step": 2,
+      "title": "去问渔船",
+      "text": "他走到溪边石矶旁，向打鱼的船打听。"
+    },
+    {
+      "step": 3,
+      "title": "桃花漂来",
+      "text": "桃花瓣整天随流水漂来漂去。"
+    },
+    {
+      "step": 4,
+      "title": "洞在哪儿",
+      "text": "他望着清溪想：桃花源的洞口到底在哪边？"
+    }
+  ],
+  "pinyinNotes": [],
+  "sources": [
+    "《全唐诗》（中华书局）",
+    "《唐诗鉴赏辞典》（上海辞书出版社）"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-24",
+  "images": {
+    "cover": {
+      "src": "/assets/img/poems/taohuaxi-cover.jpg",
+      "width": 2240,
+      "height": 1680,
+      "alt": "《桃花溪》场景插画",
+      "credit": "AI 辅助生成 · up999.cn",
+      "aiGenerated": true
+    }
+  }
+}

@@ -9,7 +9,12 @@
   "form": "七言律诗",
   "authorId": "baijuyi",
   "gradeBand": "ext",
-  "tags": ["春天", "西湖", "早春", "七言律诗"],
+  "tags": [
+    "春天",
+    "西湖",
+    "早春",
+    "七言律诗"
+  ],
   "difficulty": 4,
   "writtenYear": 823,
   "writtenLabel": "公元 823 年（白居易 52 岁）",
@@ -20,49 +25,122 @@
   "lines": [
     {
       "text": "孤山寺北贾亭西，",
-      "pinyin": ["gū", "shān", "sì", "běi", "jiǎ", "tíng", "xī"],
+      "pinyin": [
+        "gū",
+        "shān",
+        "sì",
+        "běi",
+        "jiǎ",
+        "tíng",
+        "xī"
+      ],
       "translation": "我从孤山寺北、贾公亭西走过。",
-      "noteIds": ["n-gushan", "n-jiating"]
+      "noteIds": [
+        "n-gushan",
+        "n-jiating"
+      ]
     },
     {
       "text": "水面初平云脚低。",
-      "pinyin": ["shuǐ", "miàn", "chū", "píng", "yún", "jiǎo", "dī"],
+      "pinyin": [
+        "shuǐ",
+        "miàn",
+        "chū",
+        "píng",
+        "yún",
+        "jiǎo",
+        "dī"
+      ],
       "translation": "湖水刚涨平，云朵低低垂着。",
-      "noteIds": ["n-yunjiao"]
+      "noteIds": [
+        "n-yunjiao"
+      ]
     },
     {
       "text": "几处早莺争暖树，",
-      "pinyin": ["jǐ", "chù", "zǎo", "yīng", "zhēng", "nuǎn", "shù"],
+      "pinyin": [
+        "jǐ",
+        "chù",
+        "zǎo",
+        "yīng",
+        "zhēng",
+        "nuǎn",
+        "shù"
+      ],
       "translation": "几只早莺抢着飞向向阳的树枝。",
       "noteIds": []
     },
     {
       "text": "谁家新燕啄春泥。",
-      "pinyin": ["shuí", "jiā", "xīn", "yàn", "zhuó", "chūn", "ní"],
+      "pinyin": [
+        "shuí",
+        "jiā",
+        "xīn",
+        "yàn",
+        "zhuó",
+        "chūn",
+        "ní"
+      ],
       "translation": "谁家的新燕子，正衔着春泥筑巢。",
-      "noteIds": ["n-zhuo"]
+      "noteIds": [
+        "n-zhuo"
+      ]
     },
     {
       "text": "乱花渐欲迷人眼，",
-      "pinyin": ["luàn", "huā", "jiàn", "yù", "mí", "rén", "yǎn"],
+      "pinyin": [
+        "luàn",
+        "huā",
+        "jiàn",
+        "yù",
+        "mí",
+        "rén",
+        "yǎn"
+      ],
       "translation": "野花越开越多，快让人看花了眼。",
       "noteIds": []
     },
     {
       "text": "浅草才能没马蹄。",
-      "pinyin": ["qiǎn", "cǎo", "cái", "néng", "mò", "mǎ", "tí"],
+      "pinyin": [
+        "qiǎn",
+        "cǎo",
+        "cái",
+        "néng",
+        "mò",
+        "mǎ",
+        "tí"
+      ],
       "translation": "浅浅的春草，刚好能盖住马蹄。",
-      "noteIds": ["n-mo"]
+      "noteIds": [
+        "n-mo"
+      ]
     },
     {
       "text": "最爱湖东行不足，",
-      "pinyin": ["zuì", "ài", "hú", "dōng", "xíng", "bù", "zú"],
+      "pinyin": [
+        "zuì",
+        "ài",
+        "hú",
+        "dōng",
+        "xíng",
+        "bù",
+        "zú"
+      ],
       "translation": "我最爱湖东的景色，怎么走也看不够。",
       "noteIds": []
     },
     {
       "text": "绿杨阴里白沙堤。",
-      "pinyin": ["lǜ", "yáng", "yīn", "lǐ", "bái", "shā", "dī"],
+      "pinyin": [
+        "lǜ",
+        "yáng",
+        "yīn",
+        "lǐ",
+        "bái",
+        "shā",
+        "dī"
+      ],
       "translation": "绿杨树荫下，就是那长长的白沙堤。",
       "noteIds": []
     }
@@ -130,5 +208,15 @@
     "《唐诗鉴赏辞典》"
   ],
   "status": "published",
-  "updatedAt": "2026-11-24"
+  "updatedAt": "2026-11-24",
+  "images": {
+    "cover": {
+      "src": "/assets/img/poems/qiantanghuchunxing-cover.jpg",
+      "width": 2240,
+      "height": 1680,
+      "alt": "《钱塘湖春行》场景插画",
+      "credit": "AI 辅助生成 · up999.cn",
+      "aiGenerated": true
+    }
+  }
 }

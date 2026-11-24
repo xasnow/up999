@@ -1,0 +1,146 @@
+{
+  "id": "qita-xianqin-shijing-caiwei",
+  "slug": "caiwei",
+  "title": "采薇（节选）",
+  "titlePinyin": "cǎi wēi jié xuǎn",
+  "dynasty": "qita",
+  "era": "xianqin",
+  "genre": "shi",
+  "form": "四言诗",
+  "authorId": "shijing",
+  "gradeBand": "g5-6",
+  "textbook": "部编版语文八年级下册（课外古诗词诵读）",
+  "tags": [
+    "岁月",
+    "杨柳",
+    "雨雪"
+  ],
+  "difficulty": 3,
+  "writtenYear": -900,
+  "writtenLabel": "约公元前 900 年（西周时期）",
+  "orderInAuthor": 5,
+  "famousLines": [
+    "昔我往矣，杨柳依依。今我来思，雨雪霏霏。"
+  ],
+  "lines": [
+    {
+      "text": "昔我往矣，",
+      "pinyin": [
+        "xī",
+        "wǒ",
+        "wǎng",
+        "yǐ"
+      ],
+      "translation": "回想当年我离家出征，",
+      "noteIds": [
+        "n-wangyi"
+      ]
+    },
+    {
+      "text": "杨柳依依。",
+      "pinyin": [
+        "yáng",
+        "liǔ",
+        "yī",
+        "yī"
+      ],
+      "translation": "杨柳随风轻轻摆动。",
+      "noteIds": [
+        "n-yiyi"
+      ]
+    },
+    {
+      "text": "今我来思，",
+      "pinyin": [
+        "jīn",
+        "wǒ",
+        "lái",
+        "sī"
+      ],
+      "translation": "如今我踏上归家的路，",
+      "noteIds": []
+    },
+    {
+      "text": "雨雪霏霏。",
+      "pinyin": [
+        "yù",
+        "xuě",
+        "fēi",
+        "fēi"
+      ],
+      "translation": "大雪纷纷扬扬地落下来。",
+      "noteIds": [
+        "n-yuxue",
+        "n-feifei"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-wangyi",
+      "word": "往矣",
+      "pinyin": "wǎng yǐ",
+      "meaning": "“往”是离开家门，“矣”是语气助词，相当于“了”。"
+    },
+    {
+      "id": "n-yiyi",
+      "word": "依依",
+      "pinyin": "yī yī",
+      "meaning": "柳枝随风轻轻摆动的样子。"
+    },
+    {
+      "id": "n-yuxue",
+      "word": "雨雪",
+      "pinyin": "yù xuě",
+      "meaning": "下雪。“雨”在这里是动词，读 yù，意思是落下。"
+    },
+    {
+      "id": "n-feifei",
+      "word": "霏霏",
+      "pinyin": "fēi fēi",
+      "meaning": "雪花纷纷扬扬、下得很大的样子。"
+    }
+  ],
+  "translation": "回想当年我离家出征，杨柳随风轻轻摆动。如今我踏上归家的路，大雪纷纷扬扬地落下来。",
+  "appreciation": "这四句是《诗经》里最有名的句子之一。当年出征时杨柳依依，如今归来时雨雪霏霏。诗人只写两种景物，就写尽了时间悄悄溜走的模样。杨柳是出发时的春天，飞雪是回家时的冬天，中间的辛苦都藏在空白里。每个人读它，都会想起自己走过的某段岁月，说不出的滋味都在其中。",
+  "background": "《采薇》出自《诗经·小雅》，写一位远征的士兵终于踏上归途。西周时北方常有战事，士兵们春天离开家乡，多年后才回来。归途上，他回望来时的杨柳，又望望眼前的飞雪，把满心的感受唱成了这四句，被后人称颂了两千多年。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "当年出征",
+      "text": "回想当年离家出征，正是春天，杨柳随风轻轻摆动。"
+    },
+    {
+      "step": 2,
+      "title": "如今归来",
+      "text": "如今退伍回家，却已是冬天，大雪纷纷扬扬地下着。"
+    },
+    {
+      "step": 3,
+      "title": "柳枝变雪花",
+      "text": "还是回家的那条路，杨柳变成了飞雪，多少年过去了。"
+    },
+    {
+      "step": 4,
+      "title": "说不出的滋味",
+      "text": "走在这风雪路上，又欢喜又心酸，许多滋味涌上心头。"
+    }
+  ],
+  "pinyinNotes": [],
+  "sources": [
+    "《诗经·小雅·采薇》",
+    "程俊英《诗经译注》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-24",
+  "images": {
+    "cover": {
+      "src": "/assets/img/poems/caiwei-cover.jpg",
+      "width": 2240,
+      "height": 1680,
+      "alt": "《采薇（节选）》场景插画",
+      "credit": "AI 辅助生成 · up999.cn",
+      "aiGenerated": true
+    }
+  }
+}

@@ -1,0 +1,237 @@
+{
+  "id": "tang-shengtang-dufu-shuxiang",
+  "slug": "shuxiang",
+  "title": "蜀相",
+  "titlePinyin": "shǔ xiàng",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "七言律诗",
+  "authorId": "dufu",
+  "gradeBand": "ext",
+  "tags": [
+    "怀古",
+    "敬佩",
+    "七言律诗"
+  ],
+  "difficulty": 4,
+  "writtenYear": 760,
+  "writtenLabel": "公元 760 年（杜甫初到成都，拜谒武侯祠）",
+  "orderInAuthor": 9,
+  "famousLines": [
+    "三顾频烦天下计，两朝开济老臣心。"
+  ],
+  "lines": [
+    {
+      "text": "丞相祠堂何处寻？",
+      "pinyin": [
+        "chéng",
+        "xiàng",
+        "cí",
+        "táng",
+        "hé",
+        "chù",
+        "xún"
+      ],
+      "translation": "诸葛丞相的祠堂，去哪里寻找呢？",
+      "noteIds": [
+        "n-chengxiang"
+      ]
+    },
+    {
+      "text": "锦官城外柏森森。",
+      "pinyin": [
+        "jǐn",
+        "guān",
+        "chéng",
+        "wài",
+        "bǎi",
+        "sēn",
+        "sēn"
+      ],
+      "translation": "成都城外，柏树长得又高又密。",
+      "noteIds": [
+        "n-jinguan"
+      ]
+    },
+    {
+      "text": "映阶碧草自春色，",
+      "pinyin": [
+        "yìng",
+        "jiē",
+        "bì",
+        "cǎo",
+        "zì",
+        "chūn",
+        "sè"
+      ],
+      "translation": "台阶边的绿草，自己绿着报春，",
+      "noteIds": []
+    },
+    {
+      "text": "隔叶黄鹂空好音。",
+      "pinyin": [
+        "gé",
+        "yè",
+        "huáng",
+        "lí",
+        "kōng",
+        "hǎo",
+        "yīn"
+      ],
+      "translation": "树叶后的黄鹂，白白地唱得动听。",
+      "noteIds": [
+        "n-huangli"
+      ]
+    },
+    {
+      "text": "三顾频烦天下计，",
+      "pinyin": [
+        "sān",
+        "gù",
+        "pín",
+        "fán",
+        "tiān",
+        "xià",
+        "jì"
+      ],
+      "translation": "刘备三顾茅庐，多次请教天下大计，",
+      "noteIds": [
+        "n-sangu",
+        "n-pinfan"
+      ]
+    },
+    {
+      "text": "两朝开济老臣心。",
+      "pinyin": [
+        "liǎng",
+        "cháo",
+        "kāi",
+        "jì",
+        "lǎo",
+        "chén",
+        "xīn"
+      ],
+      "translation": "辅佐两位君主，老臣一片忠心。",
+      "noteIds": [
+        "n-liangchao"
+      ]
+    },
+    {
+      "text": "出师未捷身先死，",
+      "pinyin": [
+        "chū",
+        "shī",
+        "wèi",
+        "jié",
+        "shēn",
+        "xiān",
+        "sǐ"
+      ],
+      "translation": "出师还没胜利，他先离开了人世，",
+      "noteIds": []
+    },
+    {
+      "text": "长使英雄泪满襟。",
+      "pinyin": [
+        "cháng",
+        "shǐ",
+        "yīng",
+        "xióng",
+        "lèi",
+        "mǎn",
+        "jīn"
+      ],
+      "translation": "让后来的英雄，泪水打湿了衣襟。",
+      "noteIds": [
+        "n-jin"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-chengxiang",
+      "word": "丞相",
+      "pinyin": "chéng xiàng",
+      "meaning": "指诸葛亮，蜀汉的丞相。"
+    },
+    {
+      "id": "n-jinguan",
+      "word": "锦官城",
+      "pinyin": "jǐn guān chéng",
+      "meaning": "成都的别称，古时成都织锦业有名。"
+    },
+    {
+      "id": "n-huangli",
+      "word": "黄鹂",
+      "pinyin": "huáng lí",
+      "meaning": "黄莺，叫声很好听的鸟。"
+    },
+    {
+      "id": "n-sangu",
+      "word": "三顾",
+      "pinyin": "sān gù",
+      "meaning": "刘备三次到隆中去拜访、邀请诸葛亮。"
+    },
+    {
+      "id": "n-pinfan",
+      "word": "频烦",
+      "pinyin": "pín fán",
+      "meaning": "多次、接连地，形容一次又一次请教。"
+    },
+    {
+      "id": "n-liangchao",
+      "word": "两朝",
+      "pinyin": "liǎng cháo",
+      "meaning": "刘备和刘禅父子两代，诸葛亮都全力辅佐。"
+    },
+    {
+      "id": "n-jin",
+      "word": "襟",
+      "pinyin": "jīn",
+      "meaning": "衣服的前幅。泪满襟就是眼泪打湿了衣襟。"
+    }
+  ],
+  "translation": "诸葛丞相的祠堂去哪里寻找？成都城外，柏树长得又高又密。台阶边的绿草自己绿着报春，树叶后的黄鹂白白地唱得动听。刘备三顾茅庐，多次请教天下大计；诸葛亮辅佐两代君主，一片老臣忠心。出师还没胜利，他就先离开了人世，让后来的英雄泪水打湿了衣襟。",
+  "appreciation": "开头一问一答，像杜甫提着衣角边走边问路。祠堂里草绿鸟鸣，可一个“自”字一个“空”字，写出人不在了的安静。中间两句用十四个字，讲完诸葛亮的一生：被信任，尽忠心。结尾一声叹息，是敬他的人帮他惋惜。全诗像一次认真的拜谒。",
+  "background": "公元760年，杜甫刚到成都，安顿下来后专程去拜谒城外的武侯祠。诸葛亮是他最敬佩的人：刘备三次登门请他出山，他辅佐两代君主，一生尽心。想到诸葛亮没能完成心愿就去世了，杜甫写下这首《蜀相》。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "一路寻访",
+      "text": "杜甫到成都后，专程去寻找丞相祠堂。"
+    },
+    {
+      "step": 2,
+      "title": "柏树森森",
+      "text": "城外找到祠堂，柏树又高又密，庄严安静。"
+    },
+    {
+      "step": 3,
+      "title": "回忆一生",
+      "text": "他想起三顾茅庐和两朝忠心的故事。"
+    },
+    {
+      "step": 4,
+      "title": "含泪致敬",
+      "text": "想到出师未捷的遗憾，杜甫泪水打湿衣襟。"
+    }
+  ],
+  "pinyinNotes": [],
+  "sources": [
+    "《全唐诗》（中华书局）",
+    "《唐诗鉴赏辞典》（上海辞书出版社）"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-24",
+  "images": {
+    "cover": {
+      "src": "/assets/img/poems/shuxiang-cover.jpg",
+      "width": 2240,
+      "height": 1680,
+      "alt": "《蜀相》场景插画",
+      "credit": "AI 辅助生成 · up999.cn",
+      "aiGenerated": true
+    }
+  }
+}

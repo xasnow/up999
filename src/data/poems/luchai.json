@@ -10,7 +10,12 @@
   "authorId": "wangwei",
   "gradeBand": "g1-2",
   "textbook": "课外经典诵读篇目",
-  "tags": ["山景", "安静", "空灵", "五言绝句"],
+  "tags": [
+    "山景",
+    "安静",
+    "空灵",
+    "五言绝句"
+  ],
   "difficulty": 1,
   "writtenYear": 744,
   "writtenLabel": "约公元 744 年（王维隐居辋川时所作）",
@@ -21,27 +26,57 @@
   "lines": [
     {
       "text": "空山不见人，",
-      "pinyin": ["kōng", "shān", "bù", "jiàn", "rén"],
+      "pinyin": [
+        "kōng",
+        "shān",
+        "bù",
+        "jiàn",
+        "rén"
+      ],
       "translation": "空荡荡的山里看不见一个人，",
       "noteIds": []
     },
     {
       "text": "但闻人语响。",
-      "pinyin": ["dàn", "wén", "rén", "yǔ", "xiǎng"],
+      "pinyin": [
+        "dàn",
+        "wén",
+        "rén",
+        "yǔ",
+        "xiǎng"
+      ],
       "translation": "只听见有人说话的声音。",
-      "noteIds": ["n-dan"]
+      "noteIds": [
+        "n-dan"
+      ]
     },
     {
       "text": "返景入深林，",
-      "pinyin": ["fǎn", "yǐng", "rù", "shēn", "lín"],
+      "pinyin": [
+        "fǎn",
+        "yǐng",
+        "rù",
+        "shēn",
+        "lín"
+      ],
       "translation": "夕阳的金光斜斜地照进幽深的树林，",
-      "noteIds": ["n-fanjing"]
+      "noteIds": [
+        "n-fanjing"
+      ]
     },
     {
       "text": "复照青苔上。",
-      "pinyin": ["fù", "zhào", "qīng", "tái", "shàng"],
+      "pinyin": [
+        "fù",
+        "zhào",
+        "qīng",
+        "tái",
+        "shàng"
+      ],
       "translation": "又落在青青的苔藓上。",
-      "noteIds": ["n-tai"]
+      "noteIds": [
+        "n-tai"
+      ]
     }
   ],
   "notes": [
@@ -95,5 +130,15 @@
     "《王右丞集笺注》"
   ],
   "status": "published",
-  "updatedAt": "2026-11-24"
+  "updatedAt": "2026-11-24",
+  "images": {
+    "cover": {
+      "src": "/assets/img/poems/luchai-cover.jpg",
+      "width": 2240,
+      "height": 1680,
+      "alt": "《鹿柴》场景插画",
+      "credit": "AI 辅助生成 · up999.cn",
+      "aiGenerated": true
+    }
+  }
 }

@@ -10,7 +10,12 @@
   "authorId": "mengjiao",
   "gradeBand": "g3-4",
   "textbook": "课外经典诵读篇目",
-  "tags": ["母爱", "感恩", "亲情", "五言古诗"],
+  "tags": [
+    "母爱",
+    "感恩",
+    "亲情",
+    "五言古诗"
+  ],
   "difficulty": 2,
   "writtenYear": 796,
   "writtenLabel": "公元 796 年（孟郊考中进士后，迎养母亲时所作）",
@@ -21,39 +26,81 @@
   "lines": [
     {
       "text": "慈母手中线，",
-      "pinyin": ["cí", "mǔ", "shǒu", "zhōng", "xiàn"],
+      "pinyin": [
+        "cí",
+        "mǔ",
+        "shǒu",
+        "zhōng",
+        "xiàn"
+      ],
       "translation": "慈爱的母亲手里拿着针线，",
       "noteIds": []
     },
     {
       "text": "游子身上衣。",
-      "pinyin": ["yóu", "zǐ", "shēn", "shàng", "yī"],
+      "pinyin": [
+        "yóu",
+        "zǐ",
+        "shēn",
+        "shàng",
+        "yī"
+      ],
       "translation": "为要出远门的游子缝制衣裳。",
       "noteIds": []
     },
     {
       "text": "临行密密缝，",
-      "pinyin": ["lín", "xíng", "mì", "mì", "féng"],
+      "pinyin": [
+        "lín",
+        "xíng",
+        "mì",
+        "mì",
+        "féng"
+      ],
       "translation": "临走前，她一针一针缝得又密又实，",
-      "noteIds": ["n-feng"]
+      "noteIds": [
+        "n-feng"
+      ]
     },
     {
       "text": "意恐迟迟归。",
-      "pinyin": ["yì", "kǒng", "chí", "chí", "guī"],
+      "pinyin": [
+        "yì",
+        "kǒng",
+        "chí",
+        "chí",
+        "guī"
+      ],
       "translation": "心里担心儿子迟迟回不来。",
       "noteIds": []
     },
     {
       "text": "谁言寸草心，",
-      "pinyin": ["shuí", "yán", "cùn", "cǎo", "xīn"],
+      "pinyin": [
+        "shuí",
+        "yán",
+        "cùn",
+        "cǎo",
+        "xīn"
+      ],
       "translation": "谁说小草般微小的孝心，",
-      "noteIds": ["n-cuncao"]
+      "noteIds": [
+        "n-cuncao"
+      ]
     },
     {
       "text": "报得三春晖。",
-      "pinyin": ["bào", "dé", "sān", "chūn", "huī"],
+      "pinyin": [
+        "bào",
+        "dé",
+        "sān",
+        "chūn",
+        "huī"
+      ],
       "translation": "报答得了春天阳光般温暖的母爱呢？",
-      "noteIds": ["n-hui"]
+      "noteIds": [
+        "n-hui"
+      ]
     }
   ],
   "notes": [
@@ -107,5 +154,15 @@
     "《唐诗鉴赏辞典》"
   ],
   "status": "published",
-  "updatedAt": "2026-11-24"
+  "updatedAt": "2026-11-24",
+  "images": {
+    "cover": {
+      "src": "/assets/img/poems/youziyin-cover.jpg",
+      "width": 2240,
+      "height": 1680,
+      "alt": "《游子吟》场景插画",
+      "credit": "AI 辅助生成 · up999.cn",
+      "aiGenerated": true
+    }
+  }
 }

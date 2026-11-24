@@ -10,7 +10,12 @@
   "authorId": "jiadao",
   "gradeBand": "g5-6",
   "textbook": "课外经典诵读篇目",
-  "tags": ["剑客", "志向", "豪气", "五言绝句"],
+  "tags": [
+    "剑客",
+    "志向",
+    "豪气",
+    "五言绝句"
+  ],
   "difficulty": 2,
   "writtenYear": 810,
   "writtenLabel": "约公元 810 年（贾岛在长安求仕不顺时所作）",
@@ -21,27 +26,57 @@
   "lines": [
     {
       "text": "十年磨一剑，",
-      "pinyin": ["shí", "nián", "mó", "yī", "jiàn"],
+      "pinyin": [
+        "shí",
+        "nián",
+        "mó",
+        "yī",
+        "jiàn"
+      ],
       "translation": "花了十年功夫，磨出一把宝剑，",
       "noteIds": []
     },
     {
       "text": "霜刃未曾试。",
-      "pinyin": ["shuāng", "rèn", "wèi", "céng", "shì"],
+      "pinyin": [
+        "shuāng",
+        "rèn",
+        "wèi",
+        "céng",
+        "shì"
+      ],
       "translation": "剑刃闪着寒光，还从来没有试过。",
-      "noteIds": ["n-ren"]
+      "noteIds": [
+        "n-ren"
+      ]
     },
     {
       "text": "今日把示君，",
-      "pinyin": ["jīn", "rì", "bǎ", "shì", "jūn"],
+      "pinyin": [
+        "jīn",
+        "rì",
+        "bǎ",
+        "shì",
+        "jūn"
+      ],
       "translation": "今天拿出来给您看一看，",
-      "noteIds": ["n-shi"]
+      "noteIds": [
+        "n-shi"
+      ]
     },
     {
       "text": "谁有不平事。",
-      "pinyin": ["shuí", "yǒu", "bù", "píng", "shì"],
+      "pinyin": [
+        "shuí",
+        "yǒu",
+        "bù",
+        "píng",
+        "shì"
+      ],
       "translation": "天下谁有冤屈不平的事？",
-      "noteIds": ["n-bupingshi"]
+      "noteIds": [
+        "n-bupingshi"
+      ]
     }
   ],
   "notes": [
@@ -95,5 +130,15 @@
     "《唐诗鉴赏辞典》"
   ],
   "status": "published",
-  "updatedAt": "2026-11-24"
+  "updatedAt": "2026-11-24",
+  "images": {
+    "cover": {
+      "src": "/assets/img/poems/jianke-cover.jpg",
+      "width": 2240,
+      "height": 1680,
+      "alt": "《剑客》场景插画",
+      "credit": "AI 辅助生成 · up999.cn",
+      "aiGenerated": true
+    }
+  }
 }

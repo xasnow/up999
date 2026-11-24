@@ -1,0 +1,237 @@
+{
+  "id": "tang-shengtang-libai-dengjinfenghuangtai",
+  "slug": "dengjinfenghuangtai",
+  "title": "登金陵凤凰台",
+  "titlePinyin": "dēng jīn líng fèng huáng tái",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "七言律诗",
+  "authorId": "libai",
+  "gradeBand": "ext",
+  "tags": [
+    "登高",
+    "怀古",
+    "七言律诗"
+  ],
+  "difficulty": 4,
+  "writtenYear": 745,
+  "writtenLabel": "约公元 745 年（李白登金陵凤凰台）",
+  "orderInAuthor": 13,
+  "famousLines": [
+    "三山半落青天外，二水中分白鹭洲。"
+  ],
+  "lines": [
+    {
+      "text": "凤凰台上凤凰游，",
+      "pinyin": [
+        "fèng",
+        "huáng",
+        "tái",
+        "shàng",
+        "fèng",
+        "huáng",
+        "yóu"
+      ],
+      "translation": "凤凰台上，曾有凤凰来游玩，",
+      "noteIds": [
+        "n-fenghuangtai"
+      ]
+    },
+    {
+      "text": "凤去台空江自流。",
+      "pinyin": [
+        "fèng",
+        "qù",
+        "tái",
+        "kōng",
+        "jiāng",
+        "zì",
+        "liú"
+      ],
+      "translation": "凤凰飞走了，台上空空，江水自己流。",
+      "noteIds": []
+    },
+    {
+      "text": "吴宫花草埋幽径，",
+      "pinyin": [
+        "wú",
+        "gōng",
+        "huā",
+        "cǎo",
+        "mái",
+        "yōu",
+        "jìng"
+      ],
+      "translation": "吴国宫殿的花草，埋没了幽静小路，",
+      "noteIds": [
+        "n-wugong"
+      ]
+    },
+    {
+      "text": "晋代衣冠成古丘。",
+      "pinyin": [
+        "jìn",
+        "dài",
+        "yī",
+        "guān",
+        "chéng",
+        "gǔ",
+        "qiū"
+      ],
+      "translation": "晋代的名门人物，也成了古老坟丘。",
+      "noteIds": [
+        "n-yiguan",
+        "n-qiubao"
+      ]
+    },
+    {
+      "text": "三山半落青天外，",
+      "pinyin": [
+        "sān",
+        "shān",
+        "bàn",
+        "luò",
+        "qīng",
+        "tiān",
+        "wài"
+      ],
+      "translation": "三山一半隐在青天之外，",
+      "noteIds": [
+        "n-sanshan"
+      ]
+    },
+    {
+      "text": "二水中分白鹭洲。",
+      "pinyin": [
+        "èr",
+        "shuǐ",
+        "zhōng",
+        "fēn",
+        "bái",
+        "lù",
+        "zhōu"
+      ],
+      "translation": "江水被白鹭洲分成了两半。",
+      "noteIds": [
+        "n-ershui"
+      ]
+    },
+    {
+      "text": "总为浮云能蔽日，",
+      "pinyin": [
+        "zǒng",
+        "wèi",
+        "fú",
+        "yún",
+        "néng",
+        "bì",
+        "rì"
+      ],
+      "translation": "总是因为浮云遮住了太阳，",
+      "noteIds": [
+        "n-bi"
+      ]
+    },
+    {
+      "text": "长安不见使人愁。",
+      "pinyin": [
+        "cháng",
+        "ān",
+        "bú",
+        "jiàn",
+        "shǐ",
+        "rén",
+        "chóu"
+      ],
+      "translation": "望不见长安，心里有点发愁。",
+      "noteIds": []
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-fenghuangtai",
+      "word": "凤凰台",
+      "pinyin": "fèng huáng tái",
+      "meaning": "金陵的一处高台，传说曾有凤凰栖落，因此得名。"
+    },
+    {
+      "id": "n-wugong",
+      "word": "吴宫",
+      "pinyin": "wú gōng",
+      "meaning": "三国时吴国在金陵修建的宫殿。"
+    },
+    {
+      "id": "n-yiguan",
+      "word": "衣冠",
+      "pinyin": "yī guān",
+      "meaning": "指有身份、有名望的人物。"
+    },
+    {
+      "id": "n-qiubao",
+      "word": "丘",
+      "pinyin": "qiū",
+      "meaning": "小山、坟丘，这里指长满草的土堆。"
+    },
+    {
+      "id": "n-sanshan",
+      "word": "三山",
+      "pinyin": "sān shān",
+      "meaning": "金陵西南长江边三座相邻的山。"
+    },
+    {
+      "id": "n-ershui",
+      "word": "二水",
+      "pinyin": "èr shuǐ",
+      "meaning": "秦淮河与长江交汇，被白鹭洲分成两股水流。"
+    },
+    {
+      "id": "n-bi",
+      "word": "蔽",
+      "pinyin": "bì",
+      "meaning": "遮住。浮云蔽日就是云把太阳挡住了。"
+    }
+  ],
+  "translation": "凤凰台上，曾有凤凰来游玩；凤凰飞走了，台上空空，只有江水自己流。吴国宫殿的花草埋没了幽静小路，晋代的名门人物也成了古老坟丘。三山一半隐在青天之外，江水被白鹭洲分成两半。总是因为浮云遮住了太阳，望不见长安，心里有点发愁。",
+  "appreciation": "这首诗像李白的一次登高直播。开头讲凤凰的传说，中间讲古老的宫殿变成小路、大人物变成土堆，把时间偷偷放进了诗里。五六句一抬头，三山、二水、白鹭洲，画面一下子又宽又亮。结尾那朵“浮云”，是诗人心里淡淡的遗憾。",
+  "background": "公元745年前后，李白离开长安后南下金陵，登上了凤凰台。传说南朝时曾有凤凰落在山上。他站上高台，看见江水东流、青山半藏天外，想起这里曾经的宫殿和人物都不见了，又想起远方的长安，写下这首名作。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "登台怀古",
+      "text": "李白登上凤凰台，想起凤凰栖落的传说。"
+    },
+    {
+      "step": 2,
+      "title": "古迹不再",
+      "text": "吴宫只剩花草小路，晋代人物成了土丘。"
+    },
+    {
+      "step": 3,
+      "title": "山水壮阔",
+      "text": "抬头远望，三山半藏天外，二水分绕白鹭洲。"
+    },
+    {
+      "step": 4,
+      "title": "浮云望乡",
+      "text": "浮云遮住太阳，望不见长安，他轻轻叹了口气。"
+    }
+  ],
+  "pinyinNotes": [],
+  "sources": [
+    "《全唐诗》（中华书局）",
+    "《唐诗鉴赏辞典》（上海辞书出版社）"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-24",
+  "images": {
+    "cover": {
+      "src": "/assets/img/poems/dengjinfenghuangtai-cover.jpg",
+      "width": 2240,
+      "height": 1680,
+      "alt": "《登金陵凤凰台》场景插画",
+      "credit": "AI 辅助生成 · up999.cn",
+      "aiGenerated": true
+    }
+  }
+}

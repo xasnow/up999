@@ -10,7 +10,12 @@
   "authorId": "wangwei",
   "gradeBand": "g3-4",
   "textbook": "课外经典诵读篇目",
-  "tags": ["春夜", "月夜", "安静", "五言绝句"],
+  "tags": [
+    "春夜",
+    "月夜",
+    "安静",
+    "五言绝句"
+  ],
   "difficulty": 2,
   "writtenYear": 750,
   "writtenLabel": "约公元 750 年（王维客居友人山庄时所作）",
@@ -21,27 +26,57 @@
   "lines": [
     {
       "text": "人闲桂花落，",
-      "pinyin": ["rén", "xián", "guì", "huā", "luò"],
+      "pinyin": [
+        "rén",
+        "xián",
+        "guì",
+        "huā",
+        "luò"
+      ],
       "translation": "人心安静悠闲，连桂花轻轻落下都听得见，",
-      "noteIds": ["n-xian"]
+      "noteIds": [
+        "n-xian"
+      ]
     },
     {
       "text": "夜静春山空。",
-      "pinyin": ["yè", "jìng", "chūn", "shān", "kōng"],
+      "pinyin": [
+        "yè",
+        "jìng",
+        "chūn",
+        "shān",
+        "kōng"
+      ],
       "translation": "夜深了，春天的山里一片安静。",
       "noteIds": []
     },
     {
       "text": "月出惊山鸟，",
-      "pinyin": ["yuè", "chū", "jīng", "shān", "niǎo"],
+      "pinyin": [
+        "yuè",
+        "chū",
+        "jīng",
+        "shān",
+        "niǎo"
+      ],
       "translation": "月亮升起来，惊动了山里的小鸟，",
-      "noteIds": ["n-jing"]
+      "noteIds": [
+        "n-jing"
+      ]
     },
     {
       "text": "时鸣春涧中。",
-      "pinyin": ["shí", "míng", "chūn", "jiàn", "zhōng"],
+      "pinyin": [
+        "shí",
+        "míng",
+        "chūn",
+        "jiàn",
+        "zhōng"
+      ],
       "translation": "它们时不时在小溪边叫上几声。",
-      "noteIds": ["n-jian"]
+      "noteIds": [
+        "n-jian"
+      ]
     }
   ],
   "notes": [
@@ -95,5 +130,15 @@
     "《王右丞集笺注》"
   ],
   "status": "published",
-  "updatedAt": "2026-11-24"
+  "updatedAt": "2026-11-24",
+  "images": {
+    "cover": {
+      "src": "/assets/img/poems/niaomingjian-cover.jpg",
+      "width": 2240,
+      "height": 1680,
+      "alt": "《鸟鸣涧》场景插画",
+      "credit": "AI 辅助生成 · up999.cn",
+      "aiGenerated": true
+    }
+  }
 }

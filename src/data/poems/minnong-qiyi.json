@@ -150,5 +150,15 @@
     "《云溪友议》"
   ],
   "status": "published",
-  "updatedAt": "2026-11-24"
+  "updatedAt": "2026-11-24",
+  "images": {
+    "cover": {
+      "src": "/assets/img/poems/minnong-qiyi-cover.jpg",
+      "width": 2240,
+      "height": 1680,
+      "alt": "《悯农（其一）》场景插画",
+      "credit": "AI 辅助生成 · up999.cn",
+      "aiGenerated": true
+    }
+  }
 }

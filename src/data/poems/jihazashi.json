@@ -25,27 +25,68 @@
   "lines": [
     {
       "text": "九州生气恃风雷，",
-      "pinyin": ["jiǔ", "zhōu", "shēng", "qì", "shì", "fēng", "léi"],
+      "pinyin": [
+        "jiǔ",
+        "zhōu",
+        "shēng",
+        "qì",
+        "shì",
+        "fēng",
+        "léi"
+      ],
       "translation": "国家要充满活力，得靠风雷一样的变革。",
-      "noteIds": ["n-jiuzhou", "n-shengqi"]
+      "noteIds": [
+        "n-jiuzhou",
+        "n-shengqi"
+      ]
     },
     {
       "text": "万马齐喑究可哀。",
-      "pinyin": ["wàn", "mǎ", "qí", "yīn", "jiū", "kě", "āi"],
+      "pinyin": [
+        "wàn",
+        "mǎ",
+        "qí",
+        "yīn",
+        "jiū",
+        "kě",
+        "āi"
+      ],
       "translation": "千万匹马都不出声，这种沉默实在太可悲。",
-      "noteIds": ["n-yin"]
+      "noteIds": [
+        "n-yin"
+      ]
     },
     {
       "text": "我劝天公重抖擞，",
-      "pinyin": ["wǒ", "quàn", "tiān", "gōng", "chóng", "dǒu", "sǒu"],
+      "pinyin": [
+        "wǒ",
+        "quàn",
+        "tiān",
+        "gōng",
+        "chóng",
+        "dǒu",
+        "sǒu"
+      ],
       "translation": "我劝老天爷重新振作起精神，",
-      "noteIds": ["n-dousou"]
+      "noteIds": [
+        "n-dousou"
+      ]
     },
     {
       "text": "不拘一格降人才。",
-      "pinyin": ["bù", "jū", "yì", "gé", "jiàng", "rén", "cái"],
+      "pinyin": [
+        "bù",
+        "jū",
+        "yì",
+        "gé",
+        "jiàng",
+        "rén",
+        "cái"
+      ],
       "translation": "用各种各样的标准，把人才送到人间。",
-      "noteIds": ["n-ju"]
+      "noteIds": [
+        "n-ju"
+      ]
     }
   ],
   "notes": [
@@ -111,5 +152,15 @@
     "《龚自珍全集》"
   ],
   "status": "published",
-  "updatedAt": "2026-11-24"
+  "updatedAt": "2026-11-24",
+  "images": {
+    "cover": {
+      "src": "/assets/img/poems/jihazashi-cover.jpg",
+      "width": 2240,
+      "height": 1680,
+      "alt": "《己亥杂诗（其二百二十）》场景插画",
+      "credit": "AI 辅助生成 · up999.cn",
+      "aiGenerated": true
+    }
+  }
 }

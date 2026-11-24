@@ -1,0 +1,215 @@
+{
+  "id": "tang-chutang-zhangruoxu-chunjianghuayueye",
+  "slug": "chunjianghuayueye",
+  "title": "春江花月夜（节选）",
+  "titlePinyin": "chūn jiāng huā yuè yè",
+  "dynasty": "tangshi",
+  "era": "chutang",
+  "genre": "shi",
+  "form": "七言古诗",
+  "authorId": "zhangruoxu",
+  "gradeBand": "ext",
+  "tags": [
+    "春江",
+    "明月",
+    "夜景",
+    "七言古诗"
+  ],
+  "difficulty": 4,
+  "writtenYear": 710,
+  "writtenLabel": "约公元 710 年（张若虚月夜观江时）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "海上明月共潮生，何处春江无月明！"
+  ],
+  "lines": [
+    {
+      "text": "春江潮水连海平，",
+      "pinyin": [
+        "chūn",
+        "jiāng",
+        "cháo",
+        "shuǐ",
+        "lián",
+        "hǎi",
+        "píng"
+      ],
+      "translation": "春天的江水涨起来，和大海连成一片，",
+      "noteIds": []
+    },
+    {
+      "text": "海上明月共潮生。",
+      "pinyin": [
+        "hǎi",
+        "shàng",
+        "míng",
+        "yuè",
+        "gòng",
+        "cháo",
+        "shēng"
+      ],
+      "translation": "明月随着潮水，一同从海上升起。",
+      "noteIds": []
+    },
+    {
+      "text": "滟滟随波千万里，",
+      "pinyin": [
+        "yàn",
+        "yàn",
+        "suí",
+        "bō",
+        "qiān",
+        "wàn",
+        "lǐ"
+      ],
+      "translation": "月光跟着波浪，闪亮地流过千万里，",
+      "noteIds": [
+        "n-yanyan"
+      ]
+    },
+    {
+      "text": "何处春江无月明！",
+      "pinyin": [
+        "hé",
+        "chù",
+        "chūn",
+        "jiāng",
+        "wú",
+        "yuè",
+        "míng"
+      ],
+      "translation": "哪一处春江上没有明亮的月光呢！",
+      "noteIds": []
+    },
+    {
+      "text": "江流宛转绕芳甸，",
+      "pinyin": [
+        "jiāng",
+        "liú",
+        "wǎn",
+        "zhuǎn",
+        "rào",
+        "fāng",
+        "diàn"
+      ],
+      "translation": "江水弯弯地绕过开满花草的郊野，",
+      "noteIds": [
+        "n-fangdian"
+      ]
+    },
+    {
+      "text": "月照花林皆似霰。",
+      "pinyin": [
+        "yuè",
+        "zhào",
+        "huā",
+        "lín",
+        "jiē",
+        "sì",
+        "xiàn"
+      ],
+      "translation": "月光照进花林，花瓣像撒了层小雪珠。",
+      "noteIds": [
+        "n-xian"
+      ]
+    },
+    {
+      "text": "空里流霜不觉飞，",
+      "pinyin": [
+        "kōng",
+        "lǐ",
+        "liú",
+        "shuāng",
+        "bù",
+        "jué",
+        "fēi"
+      ],
+      "translation": "空中像有白霜流动，却看不见它飞，",
+      "noteIds": []
+    },
+    {
+      "text": "汀上白沙看不见。",
+      "pinyin": [
+        "tīng",
+        "shàng",
+        "bái",
+        "shā",
+        "kàn",
+        "bù",
+        "jiàn"
+      ],
+      "translation": "沙洲上的白沙和月色融在一起，分不清了。",
+      "noteIds": [
+        "n-ting"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-yanyan",
+      "word": "滟滟",
+      "pinyin": "yàn yàn",
+      "meaning": "水面上波光闪动的样子。"
+    },
+    {
+      "id": "n-fangdian",
+      "word": "芳甸",
+      "pinyin": "fāng diàn",
+      "meaning": "长满花草的郊野。甸指郊外的平地。"
+    },
+    {
+      "id": "n-xian",
+      "word": "霰",
+      "pinyin": "xiàn",
+      "meaning": "小雪珠，天上下的小冰粒，白白亮亮的。"
+    },
+    {
+      "id": "n-ting",
+      "word": "汀",
+      "pinyin": "tīng",
+      "meaning": "水边的小沙洲，平平的一块沙地。"
+    }
+  ],
+  "translation": "春天的江水涨起来，和大海连成一片；明月随着潮水，一同从海上升起。月光跟着波浪，闪亮地流过千万里，哪一处春江上没有明亮的月光呢！江水弯弯地绕过开满花草的郊野，月光照进花林，花瓣像撒了一层小雪珠。空中像有白霜流动，却看不见它飞；沙洲上的白沙和月色融在一起，都分不清了。",
+  "appreciation": "诗人像拿着一支月光画笔。潮水和月亮一起升起，多像太阳和朝霞手拉手。月光洒满千万里江面，又给花林披上“小雪珠”。最后白沙和月光融成一片，整个世界白亮亮的、静悄悄的。这首诗被夸“孤篇压全唐”，就美在这种又亮又安静的画面。",
+  "background": "张若虚住在长江边，从小看惯了江水和大月亮。传说一个春夜，他站在江边看潮水上涨，明月随潮升起，月光把花草沙洲照得白亮一片。他心里一动，写下了这首长诗，这里选的是开头八句。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "潮涨月升",
+      "text": "春江涨潮，明月跟着潮水一起从海上升起。"
+    },
+    {
+      "step": 2,
+      "title": "月光万里",
+      "text": "月光跟着波浪跑，闪亮地铺满千万里江面。"
+    },
+    {
+      "step": 3,
+      "title": "花林似雪",
+      "text": "月光照进花林，每朵花都像落了小雪珠。"
+    },
+    {
+      "step": 4,
+      "title": "白沙难辨",
+      "text": "霜气、白沙和月色融成一片，安静又干净。"
+    }
+  ],
+  "pinyinNotes": [],
+  "sources": [
+    "《全唐诗》（中华书局）",
+    "《唐诗鉴赏辞典》（上海辞书出版社）"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-24",
+  "images": {
+    "cover": {
+      "src": "/assets/img/poems/chunjianghuayueye-cover.jpg",
+      "width": 2240,
+      "height": 1680,
+      "alt": "《春江花月夜（节选）》场景插画",
+      "credit": "AI 辅助生成 · up999.cn",
+      "aiGenerated": true
+    }
+  }
+}

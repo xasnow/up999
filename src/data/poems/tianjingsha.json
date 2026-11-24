@@ -26,33 +26,74 @@
   "lines": [
     {
       "text": "枯藤老树昏鸦，",
-      "pinyin": ["kū", "téng", "lǎo", "shù", "hūn", "yā"],
+      "pinyin": [
+        "kū",
+        "téng",
+        "lǎo",
+        "shù",
+        "hūn",
+        "yā"
+      ],
       "translation": "枯藤绕着老树，黄昏的乌鸦落回枝头，",
-      "noteIds": ["n-kuteng", "n-hunya"]
+      "noteIds": [
+        "n-kuteng",
+        "n-hunya"
+      ]
     },
     {
       "text": "小桥流水人家，",
-      "pinyin": ["xiǎo", "qiáo", "liú", "shuǐ", "rén", "jiā"],
+      "pinyin": [
+        "xiǎo",
+        "qiáo",
+        "liú",
+        "shuǐ",
+        "rén",
+        "jiā"
+      ],
       "translation": "小桥下流水潺潺，桥边住着人家，",
       "noteIds": []
     },
     {
       "text": "古道西风瘦马。",
-      "pinyin": ["gǔ", "dào", "xī", "fēng", "shòu", "mǎ"],
+      "pinyin": [
+        "gǔ",
+        "dào",
+        "xī",
+        "fēng",
+        "shòu",
+        "mǎ"
+      ],
       "translation": "古道上刮着秋风，游子骑着瘦马慢慢走。",
-      "noteIds": ["n-shouma"]
+      "noteIds": [
+        "n-shouma"
+      ]
     },
     {
       "text": "夕阳西下，",
-      "pinyin": ["xī", "yáng", "xī", "xià"],
+      "pinyin": [
+        "xī",
+        "yáng",
+        "xī",
+        "xià"
+      ],
       "translation": "夕阳渐渐向西落下去，",
       "noteIds": []
     },
     {
       "text": "断肠人在天涯。",
-      "pinyin": ["duàn", "cháng", "rén", "zài", "tiān", "yá"],
+      "pinyin": [
+        "duàn",
+        "cháng",
+        "rén",
+        "zài",
+        "tiān",
+        "yá"
+      ],
       "translation": "伤心的人还漂泊在遥远的天边。",
-      "noteIds": ["n-duanchang", "n-tianya"]
+      "noteIds": [
+        "n-duanchang",
+        "n-tianya"
+      ]
     }
   ],
   "notes": [
@@ -118,5 +159,15 @@
     "《全元散曲》"
   ],
   "status": "published",
-  "updatedAt": "2026-11-24"
+  "updatedAt": "2026-11-24",
+  "images": {
+    "cover": {
+      "src": "/assets/img/poems/tianjingsha-cover.jpg",
+      "width": 2240,
+      "height": 1680,
+      "alt": "《天净沙·秋思》场景插画",
+      "credit": "AI 辅助生成 · up999.cn",
+      "aiGenerated": true
+    }
+  }
 }

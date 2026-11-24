@@ -1,0 +1,189 @@
+{
+  "id": "qita-xianqin-shijing-mugua",
+  "slug": "mugua",
+  "title": "木瓜",
+  "titlePinyin": "mù guā",
+  "dynasty": "qita",
+  "era": "xianqin",
+  "genre": "shi",
+  "form": "四言诗",
+  "authorId": "shijing",
+  "gradeBand": "g3-4",
+  "textbook": "课外经典诵读篇目",
+  "tags": [
+    "友谊",
+    "礼尚往来",
+    "重章叠句"
+  ],
+  "difficulty": 2,
+  "writtenYear": -900,
+  "writtenLabel": "约公元前 900 年（西周晚期）",
+  "orderInAuthor": 4,
+  "famousLines": [
+    "投我以木瓜，报之以琼琚。"
+  ],
+  "lines": [
+    {
+      "text": "投我以木瓜，",
+      "pinyin": [
+        "tóu",
+        "wǒ",
+        "yǐ",
+        "mù",
+        "guā"
+      ],
+      "translation": "你送给我一个木瓜，",
+      "noteIds": []
+    },
+    {
+      "text": "报之以琼琚。",
+      "pinyin": [
+        "bào",
+        "zhī",
+        "yǐ",
+        "qióng",
+        "jū"
+      ],
+      "translation": "我回赠你一块美玉琼琚。",
+      "noteIds": [
+        "n-qiongju"
+      ]
+    },
+    {
+      "text": "匪报也，",
+      "pinyin": [
+        "fēi",
+        "bào",
+        "yě"
+      ],
+      "translation": "这不只是为了还礼，",
+      "noteIds": [
+        "n-fei"
+      ]
+    },
+    {
+      "text": "永以为好也！",
+      "pinyin": [
+        "yǒng",
+        "yǐ",
+        "wéi",
+        "hǎo",
+        "yě"
+      ],
+      "translation": "是想和你永远相好呀！",
+      "noteIds": []
+    },
+    {
+      "text": "投我以木桃，",
+      "pinyin": [
+        "tóu",
+        "wǒ",
+        "yǐ",
+        "mù",
+        "táo"
+      ],
+      "translation": "你送给我一个木桃，",
+      "noteIds": []
+    },
+    {
+      "text": "报之以琼瑶。",
+      "pinyin": [
+        "bào",
+        "zhī",
+        "yǐ",
+        "qióng",
+        "yáo"
+      ],
+      "translation": "我回赠你一块美玉琼瑶。",
+      "noteIds": [
+        "n-qiongyao"
+      ]
+    },
+    {
+      "text": "匪报也，",
+      "pinyin": [
+        "fēi",
+        "bào",
+        "yě"
+      ],
+      "translation": "这不只是为了还礼，",
+      "noteIds": [
+        "n-fei"
+      ]
+    },
+    {
+      "text": "永以为好也！",
+      "pinyin": [
+        "yǒng",
+        "yǐ",
+        "wéi",
+        "hǎo",
+        "yě"
+      ],
+      "translation": "是想和你永远相好呀！",
+      "noteIds": []
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-qiongju",
+      "word": "琼琚",
+      "pinyin": "qióng jū",
+      "meaning": "美玉做的佩饰，是珍贵漂亮的礼物。"
+    },
+    {
+      "id": "n-fei",
+      "word": "匪",
+      "pinyin": "fēi",
+      "meaning": "通“非”，不是的意思。"
+    },
+    {
+      "id": "n-qiongyao",
+      "word": "琼瑶",
+      "pinyin": "qióng yáo",
+      "meaning": "光滑漂亮的美玉。"
+    }
+  ],
+  "translation": "你送给我一个木瓜，我回赠你一块美玉琼琚。这不只是为了还礼，是想和你永远相好呀！你送给我一个木桃，我回赠你一块美玉琼瑶。这不只是为了还礼，是想和你永远相好呀！",
+  "appreciation": "这首诗讲朋友之间的礼尚往来。你送木瓜，我回美玉，礼物不一样贵重，心意却一样真诚。诗里说“匪报也”，就是回礼不是为了还情，而是想把友谊留得长长久久。三段歌词反复咏唱，只把木瓜换成木桃、木李，越唱越有味道。原来最好的礼物，是放在心里的那份情谊。",
+  "background": "《木瓜》出自《诗经·卫风》，是一首民间赠答之歌。先秦时代，人们在交往中喜欢互赠礼物：你送我瓜果，我回你美玉。约在公元前900年前后，这样的问答式对唱流传在街巷田野，后来被采进《诗经》，成为讲情谊的经典。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "收到礼物",
+      "text": "朋友递来一个木瓜，笑嘻嘻地塞进他的手里。"
+    },
+    {
+      "step": 2,
+      "title": "回赠美玉",
+      "text": "他解下身上的美玉送回去，想好好答谢这份心意。"
+    },
+    {
+      "step": 3,
+      "title": "不只是还礼",
+      "text": "他说：回礼不是为了还情，是想把情谊长久留住呀。"
+    },
+    {
+      "step": 4,
+      "title": "情谊长长久久",
+      "text": "一来一往之间，两个人成了最好的朋友，情谊越结越深。"
+    }
+  ],
+  "pinyinNotes": [],
+  "sources": [
+    "《诗经·卫风·木瓜》",
+    "程俊英《诗经译注》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-24",
+  "images": {
+    "cover": {
+      "src": "/assets/img/poems/mugua-cover.jpg",
+      "width": 2240,
+      "height": 1680,
+      "alt": "《木瓜》场景插画",
+      "credit": "AI 辅助生成 · up999.cn",
+      "aiGenerated": true
+    }
+  }
+}

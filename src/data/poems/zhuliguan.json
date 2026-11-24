@@ -142,5 +142,15 @@
     "《全唐诗》王维卷"
   ],
   "status": "published",
-  "updatedAt": "2026-11-24"
+  "updatedAt": "2026-11-24",
+  "images": {
+    "cover": {
+      "src": "/assets/img/poems/zhuliguan-cover.jpg",
+      "width": 2240,
+      "height": 1680,
+      "alt": "《竹里馆》场景插画",
+      "credit": "AI 辅助生成 · up999.cn",
+      "aiGenerated": true
+    }
+  }
 }

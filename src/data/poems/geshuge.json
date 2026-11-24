@@ -1,0 +1,149 @@
+{
+  "id": "tang-wantang-xibiren-geshuge",
+  "slug": "geshuge",
+  "title": "哥舒歌",
+  "titlePinyin": "gē shū gē",
+  "dynasty": "tangshi",
+  "era": "wantang",
+  "genre": "shi",
+  "form": "五言绝句",
+  "authorId": "xibiren",
+  "gradeBand": "ext",
+  "tags": [
+    "守边",
+    "民谣",
+    "五言绝句"
+  ],
+  "difficulty": 3,
+  "writtenYear": 750,
+  "writtenLabel": "约公元 750 年（哥舒翰守边威名远扬时）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "北斗七星高，哥舒夜带刀。"
+  ],
+  "lines": [
+    {
+      "text": "北斗七星高，",
+      "pinyin": [
+        "běi",
+        "dǒu",
+        "qī",
+        "xīng",
+        "gāo"
+      ],
+      "translation": "北斗七星高高挂在天上，",
+      "noteIds": []
+    },
+    {
+      "text": "哥舒夜带刀。",
+      "pinyin": [
+        "gē",
+        "shū",
+        "yè",
+        "dài",
+        "dāo"
+      ],
+      "translation": "哥舒将军夜里带着刀巡边。",
+      "noteIds": [
+        "n-geshu"
+      ]
+    },
+    {
+      "text": "至今窥牧马，",
+      "pinyin": [
+        "zhì",
+        "jīn",
+        "kuī",
+        "mù",
+        "mǎ"
+      ],
+      "translation": "那些探头探脑窥探边界的人，",
+      "noteIds": [
+        "n-kui",
+        "n-muma"
+      ]
+    },
+    {
+      "text": "不敢过临洮。",
+      "pinyin": [
+        "bù",
+        "gǎn",
+        "guò",
+        "lín",
+        "táo"
+      ],
+      "translation": "至今不敢越过临洮。",
+      "noteIds": [
+        "n-lintao"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-geshu",
+      "word": "哥舒",
+      "pinyin": "gē shū",
+      "meaning": "指哥舒翰，唐朝镇守西部边关的大将军。"
+    },
+    {
+      "id": "n-kui",
+      "word": "窥",
+      "pinyin": "kuī",
+      "meaning": "偷偷地看，指暗中窥探。"
+    },
+    {
+      "id": "n-muma",
+      "word": "牧马",
+      "pinyin": "mù mǎ",
+      "meaning": "这里指越境放马、窥探边界的人。"
+    },
+    {
+      "id": "n-lintao",
+      "word": "临洮",
+      "pinyin": "lín táo",
+      "meaning": "西北边境的重镇，在今甘肃岷县。洮读 táo。"
+    }
+  ],
+  "translation": "北斗七星高高挂在天上，哥舒将军夜里带着刀巡边。那些窥探边界的人，至今不敢越过临洮一步。",
+  "appreciation": "这首歌谣只有二十个字，画面却像刻在夜空里：北斗七星高高挂着，将军带着刀在夜里巡边。星星和将军一起出现在画面上，威望一下子就写了出来。最后一句说窥探的人不敢来，将军守得好，边境的人们才能安心睡觉。",
+  "background": "唐朝中期，哥舒翰镇守西部边关，治军严明，边境安定，边地的人们都很敬佩他。这首诗原本是边境流传的歌谣，后来被记下来收进《全唐诗》，署名“西鄙人”，意思是“西北边境的人”。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "星挂夜空",
+      "text": "北斗七星高高挂在边境的夜空上。"
+    },
+    {
+      "step": 2,
+      "title": "将军巡边",
+      "text": "哥舒将军带着刀，夜里认真巡边。"
+    },
+    {
+      "step": 3,
+      "title": "窥探止步",
+      "text": "想越境窥探的人远远停住了脚步。"
+    },
+    {
+      "step": 4,
+      "title": "边境安稳",
+      "text": "大家安心生活，把将军唱进了歌谣里。"
+    }
+  ],
+  "pinyinNotes": [],
+  "sources": [
+    "《全唐诗》（中华书局）",
+    "《唐诗鉴赏辞典》（上海辞书出版社）"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-24",
+  "images": {
+    "cover": {
+      "src": "/assets/img/poems/geshuge-cover.jpg",
+      "width": 2240,
+      "height": 1680,
+      "alt": "《哥舒歌》场景插画",
+      "credit": "AI 辅助生成 · up999.cn",
+      "aiGenerated": true
+    }
+  }
+}

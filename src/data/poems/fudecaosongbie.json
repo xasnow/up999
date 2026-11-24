@@ -9,7 +9,12 @@
   "form": "五言律诗",
   "authorId": "baijuyi",
   "gradeBand": "ext",
-  "tags": ["小草", "春天", "生命力", "五言律诗"],
+  "tags": [
+    "小草",
+    "春天",
+    "生命力",
+    "五言律诗"
+  ],
   "difficulty": 3,
   "writtenYear": 787,
   "writtenLabel": "约公元 787 年（白居易 16 岁）",
@@ -20,25 +25,55 @@
   "lines": [
     {
       "text": "离离原上草，",
-      "pinyin": ["lí", "lí", "yuán", "shàng", "cǎo"],
+      "pinyin": [
+        "lí",
+        "lí",
+        "yuán",
+        "shàng",
+        "cǎo"
+      ],
       "translation": "古原上的草，长得又密又茂盛，",
-      "noteIds": ["n-lili"]
+      "noteIds": [
+        "n-lili"
+      ]
     },
     {
       "text": "一岁一枯荣。",
-      "pinyin": ["yī", "suì", "yī", "kū", "róng"],
+      "pinyin": [
+        "yī",
+        "suì",
+        "yī",
+        "kū",
+        "róng"
+      ],
       "translation": "一年里枯黄一次，又变绿一次。",
-      "noteIds": ["n-kurong"]
+      "noteIds": [
+        "n-kurong"
+      ]
     },
     {
       "text": "野火烧不尽，",
-      "pinyin": ["yě", "huǒ", "shāo", "bú", "jìn"],
+      "pinyin": [
+        "yě",
+        "huǒ",
+        "shāo",
+        "bú",
+        "jìn"
+      ],
       "translation": "野火烧也烧不尽它们，",
-      "noteIds": ["n-jin"]
+      "noteIds": [
+        "n-jin"
+      ]
     },
     {
       "text": "春风吹又生。",
-      "pinyin": ["chūn", "fēng", "chuī", "yòu", "shēng"],
+      "pinyin": [
+        "chūn",
+        "fēng",
+        "chuī",
+        "yòu",
+        "shēng"
+      ],
       "translation": "春风一吹，小草又长出来了。",
       "noteIds": []
     }
@@ -94,5 +129,15 @@
     "部编版语文二年级上册"
   ],
   "status": "published",
-  "updatedAt": "2026-11-24"
+  "updatedAt": "2026-11-24",
+  "images": {
+    "cover": {
+      "src": "/assets/img/poems/fudecaosongbie-cover.jpg",
+      "width": 2240,
+      "height": 1680,
+      "alt": "《赋得古原草送别（节选）》场景插画",
+      "credit": "AI 辅助生成 · up999.cn",
+      "aiGenerated": true
+    }
+  }
 }

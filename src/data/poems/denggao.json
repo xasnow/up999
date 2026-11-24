@@ -1,0 +1,230 @@
+{
+  "id": "tang-shengtang-dufu-denggao",
+  "slug": "denggao",
+  "title": "登高",
+  "titlePinyin": "dēng gāo",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "七言律诗",
+  "authorId": "dufu",
+  "gradeBand": "ext",
+  "tags": [
+    "秋天",
+    "登高",
+    "长江",
+    "七言律诗"
+  ],
+  "difficulty": 4,
+  "writtenYear": 767,
+  "writtenLabel": "公元 767 年（杜甫重阳节登高远望）",
+  "orderInAuthor": 10,
+  "famousLines": [
+    "无边落木萧萧下，不尽长江滚滚来。"
+  ],
+  "lines": [
+    {
+      "text": "风急天高猿啸哀，",
+      "pinyin": [
+        "fēng",
+        "jí",
+        "tiān",
+        "gāo",
+        "yuán",
+        "xiào",
+        "āi"
+      ],
+      "translation": "风急天高，猿声在山谷里回响，",
+      "noteIds": [
+        "n-xiao"
+      ]
+    },
+    {
+      "text": "渚清沙白鸟飞回。",
+      "pinyin": [
+        "zhǔ",
+        "qīng",
+        "shā",
+        "bái",
+        "niǎo",
+        "fēi",
+        "huí"
+      ],
+      "translation": "小洲清水白沙，鸟儿盘旋飞舞。",
+      "noteIds": [
+        "n-zhu"
+      ]
+    },
+    {
+      "text": "无边落木萧萧下，",
+      "pinyin": [
+        "wú",
+        "biān",
+        "luò",
+        "mù",
+        "xiāo",
+        "xiāo",
+        "xià"
+      ],
+      "translation": "无边无际的树叶，沙沙地落下，",
+      "noteIds": [
+        "n-luomu",
+        "n-xiaoxiao"
+      ]
+    },
+    {
+      "text": "不尽长江滚滚来。",
+      "pinyin": [
+        "bù",
+        "jìn",
+        "cháng",
+        "jiāng",
+        "gǔn",
+        "gǔn",
+        "lái"
+      ],
+      "translation": "望不到头的长江，滚滚奔来。",
+      "noteIds": []
+    },
+    {
+      "text": "万里悲秋常作客，",
+      "pinyin": [
+        "wàn",
+        "lǐ",
+        "bēi",
+        "qiū",
+        "cháng",
+        "zuò",
+        "kè"
+      ],
+      "translation": "离家万里，常年在秋天赶路，",
+      "noteIds": []
+    },
+    {
+      "text": "百年多病独登台。",
+      "pinyin": [
+        "bǎi",
+        "nián",
+        "duō",
+        "bìng",
+        "dú",
+        "dēng",
+        "tái"
+      ],
+      "translation": "年老多病，还是独自登上高台。",
+      "noteIds": []
+    },
+    {
+      "text": "艰难苦恨繁霜鬓，",
+      "pinyin": [
+        "jiān",
+        "nán",
+        "kǔ",
+        "hèn",
+        "fán",
+        "shuāng",
+        "bìn"
+      ],
+      "translation": "生活艰难，两鬓都白了，",
+      "noteIds": [
+        "n-bin"
+      ]
+    },
+    {
+      "text": "潦倒新停浊酒杯。",
+      "pinyin": [
+        "liáo",
+        "dǎo",
+        "xīn",
+        "tíng",
+        "zhuó",
+        "jiǔ",
+        "bēi"
+      ],
+      "translation": "身体不好，只好停下了酒杯。",
+      "noteIds": [
+        "n-liaodao"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-xiao",
+      "word": "啸",
+      "pinyin": "xiào",
+      "meaning": "拉长声音叫。猿啸就是猿猴的长鸣。"
+    },
+    {
+      "id": "n-zhu",
+      "word": "渚",
+      "pinyin": "zhǔ",
+      "meaning": "水中间的小块陆地，小洲。"
+    },
+    {
+      "id": "n-luomu",
+      "word": "落木",
+      "pinyin": "luò mù",
+      "meaning": "秋天飘落的树叶。"
+    },
+    {
+      "id": "n-xiaoxiao",
+      "word": "萧萧",
+      "pinyin": "xiāo xiāo",
+      "meaning": "风吹树叶沙沙的声音。"
+    },
+    {
+      "id": "n-bin",
+      "word": "鬓",
+      "pinyin": "bìn",
+      "meaning": "耳朵前面的头发。霜鬓就是白了头的鬓发。"
+    },
+    {
+      "id": "n-liaodao",
+      "word": "潦倒",
+      "pinyin": "liáo dǎo",
+      "meaning": "这里指身体衰弱、境况不好。"
+    }
+  ],
+  "translation": "风急天高，猿声在山谷里回响；小洲清水白沙，鸟儿盘旋飞舞。无边无际的树叶沙沙落下，望不到头的长江滚滚奔来。离家万里，常年在秋天赶路；年老多病，还是独自登上高台。生活艰难，两鬓都白了；身体不好，只好停下了酒杯。",
+  "appreciation": "前四句像一台大电影：风、天、猿声、清水、白沙、飞鸟，然后镜头一转，落叶无边，长江滚滚。天地这么大，画面这么开阔。后四句回到诗人自己，身体不好还坚持登台看景，这份劲儿让人佩服。写得大、站得直，这是七律里的第一名篇。",
+  "background": "公元767年重阳节，杜甫流落在夔州，独自登上江边高台。他五十多岁，身体不好，仍坚持远望。眼前秋景辽阔壮美，江水滚滚向前。他把看到的壮阔和心里的坚持一起写进了这首诗，被誉为“七律之冠”。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "重阳登台",
+      "text": "重阳节，杜甫独自登上江边高台。"
+    },
+    {
+      "step": 2,
+      "title": "秋景开阔",
+      "text": "风急天高，猿声回响，清水白沙飞鸟盘旋。"
+    },
+    {
+      "step": 3,
+      "title": "江天浩大",
+      "text": "落叶无边，长江滚滚，天地又大又壮阔。"
+    },
+    {
+      "step": 4,
+      "title": "坚持远望",
+      "text": "年老多病仍登上高台，心中自有坚韧。"
+    }
+  ],
+  "pinyinNotes": [],
+  "sources": [
+    "《全唐诗》（中华书局）",
+    "《唐诗鉴赏辞典》（上海辞书出版社）"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-24",
+  "images": {
+    "cover": {
+      "src": "/assets/img/poems/denggao-cover.jpg",
+      "width": 2240,
+      "height": 1680,
+      "alt": "《登高》场景插画",
+      "credit": "AI 辅助生成 · up999.cn",
+      "aiGenerated": true
+    }
+  }
+}

@@ -25,5 +25,31 @@ const current = links.find((l) => (l.href === '/' ? path === '/' : path.startsWi
         ))
       }
     </nav>
+    <button type="button" id="theme-toggle" class="theme-btn" aria-label="切换主题" title="切换主题">
+      🌙
+    </button>
   </div>
 </header>
+
+<script>
+  // 主题循环切换：日间 → 夜读 → 青绿，localStorage 记忆
+  const THEMES = [
+    ['light', '☀️'],
+    ['night', '🌙'],
+    ['green', '🏞️']
+  ];
+  const btn = document.getElementById('theme-toggle');
+  if (btn) {
+    const setTheme = (t) => {
+      document.documentElement.dataset.theme = t;
+      localStorage.setItem('up999-theme', t);
+      btn.textContent = THEMES.find((x) => x[0] === t)?.[1] ?? '☀️';
+    };
+    setTheme(document.documentElement.dataset.theme || 'light');
+    btn.addEventListener('click', () => {
+      const cur = document.documentElement.dataset.theme || 'light';
+      const idx = THEMES.findIndex((x) => x[0] === cur);
+      setTheme(THEMES[(idx + 1) % THEMES.length][0]);
+    });
+  }
+</script>

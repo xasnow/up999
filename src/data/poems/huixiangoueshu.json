@@ -10,7 +10,12 @@
   "authorId": "hezhizhang",
   "gradeBand": "g1-2",
   "textbook": "部编版语文二年级上册",
-  "tags": ["思乡", "回乡", "老人", "七言绝句"],
+  "tags": [
+    "思乡",
+    "回乡",
+    "老人",
+    "七言绝句"
+  ],
   "difficulty": 1,
   "writtenYear": 742,
   "writtenLabel": "约公元 742 年（贺知章八十多岁，辞官回乡时）",
@@ -21,27 +26,64 @@
   "lines": [
     {
       "text": "少小离家老大回，",
-      "pinyin": ["shào", "xiǎo", "lí", "jiā", "lǎo", "dà", "huí"],
+      "pinyin": [
+        "shào",
+        "xiǎo",
+        "lí",
+        "jiā",
+        "lǎo",
+        "dà",
+        "huí"
+      ],
       "translation": "年少时离开家乡，老了才回来，",
       "noteIds": []
     },
     {
       "text": "乡音无改鬓毛衰。",
-      "pinyin": ["xiāng", "yīn", "wú", "gǎi", "bìn", "máo", "cuī"],
+      "pinyin": [
+        "xiāng",
+        "yīn",
+        "wú",
+        "gǎi",
+        "bìn",
+        "máo",
+        "cuī"
+      ],
       "translation": "家乡的口音没有变，两边的头发却已经又少又白。",
-      "noteIds": ["n-bin", "n-shuai"]
+      "noteIds": [
+        "n-bin",
+        "n-shuai"
+      ]
     },
     {
       "text": "儿童相见不相识，",
-      "pinyin": ["ér", "tóng", "xiāng", "jiàn", "bù", "xiāng", "shí"],
+      "pinyin": [
+        "ér",
+        "tóng",
+        "xiāng",
+        "jiàn",
+        "bù",
+        "xiāng",
+        "shí"
+      ],
       "translation": "孩子们见了我，没有一个人认识，",
       "noteIds": []
     },
     {
       "text": "笑问客从何处来。",
-      "pinyin": ["xiào", "wèn", "kè", "cóng", "hé", "chù", "lái"],
+      "pinyin": [
+        "xiào",
+        "wèn",
+        "kè",
+        "cóng",
+        "hé",
+        "chù",
+        "lái"
+      ],
       "translation": "笑着问我：客人，您从哪里来呀？",
-      "noteIds": ["n-ke"]
+      "noteIds": [
+        "n-ke"
+      ]
     }
   ],
   "notes": [
@@ -95,5 +137,15 @@
     "《全唐诗》"
   ],
   "status": "published",
-  "updatedAt": "2026-11-24"
+  "updatedAt": "2026-11-24",
+  "images": {
+    "cover": {
+      "src": "/assets/img/poems/huixiangoueshu-cover.jpg",
+      "width": 2240,
+      "height": 1680,
+      "alt": "《回乡偶书》场景插画",
+      "credit": "AI 辅助生成 · up999.cn",
+      "aiGenerated": true
+    }
+  }
 }

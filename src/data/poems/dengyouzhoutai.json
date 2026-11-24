@@ -1,0 +1,152 @@
+{
+  "id": "tang-chutang-chenziang-dengyouzhoutai",
+  "slug": "dengyouzhoutai",
+  "title": "登幽州台歌",
+  "titlePinyin": "dēng yōu zhōu tái gē",
+  "dynasty": "tangshi",
+  "era": "chutang",
+  "genre": "shi",
+  "form": "杂言诗",
+  "authorId": "chenziang",
+  "gradeBand": "ext",
+  "tags": [
+    "天地",
+    "远望",
+    "抒情",
+    "杂言诗"
+  ],
+  "difficulty": 3,
+  "writtenYear": 696,
+  "writtenLabel": "公元 696 年（陈子昂随军到幽州时）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "念天地之悠悠，独怆然而涕下！"
+  ],
+  "lines": [
+    {
+      "text": "前不见古人，",
+      "pinyin": [
+        "qián",
+        "bù",
+        "jiàn",
+        "gǔ",
+        "rén"
+      ],
+      "translation": "往前看，看不到古代的贤明君王，",
+      "noteIds": [
+        "n-guren"
+      ]
+    },
+    {
+      "text": "后不见来者。",
+      "pinyin": [
+        "hòu",
+        "bù",
+        "jiàn",
+        "lái",
+        "zhě"
+      ],
+      "translation": "往后看，也看不到未来的贤明之人。",
+      "noteIds": []
+    },
+    {
+      "text": "念天地之悠悠，",
+      "pinyin": [
+        "niàn",
+        "tiān",
+        "dì",
+        "zhī",
+        "yōu",
+        "yōu"
+      ],
+      "translation": "想想天地那么广大，时间那么长久，",
+      "noteIds": [
+        "n-youyou"
+      ]
+    },
+    {
+      "text": "独怆然而涕下！",
+      "pinyin": [
+        "dú",
+        "chuàng",
+        "rán",
+        "ér",
+        "tì",
+        "xià"
+      ],
+      "translation": "我独自悲伤，眼泪流了下来！",
+      "noteIds": [
+        "n-chuangran",
+        "n-ti"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-guren",
+      "word": "古人",
+      "pinyin": "gǔ rén",
+      "meaning": "指古代像燕昭王那样会重用人才的贤明君王。"
+    },
+    {
+      "id": "n-youyou",
+      "word": "悠悠",
+      "pinyin": "yōu yōu",
+      "meaning": "长远、长久的样子，这里说天地和时间都很长久。"
+    },
+    {
+      "id": "n-chuangran",
+      "word": "怆然",
+      "pinyin": "chuàng rán",
+      "meaning": "悲伤的样子。"
+    },
+    {
+      "id": "n-ti",
+      "word": "涕",
+      "pinyin": "tì",
+      "meaning": "眼泪。涕下就是流下眼泪。"
+    }
+  ],
+  "translation": "往前看，看不到古代的贤明君王；往后看，也看不到未来的贤明之人。想想天地那么广大，时间那么长久，我独自站在高台上，忍不住悲伤起来，眼泪流了下来。",
+  "appreciation": "全诗只有二十二个字，却装下了整个天地。前两句像在问：懂我的人在哪儿呢？后两句把镜头突然拉高：天地这么大，时间这么长，一个人显得多么小。这首诗像他心里的呼喊，声音不高，却传了一千多年。",
+  "background": "公元696年，陈子昂随军北征，多次提出好建议都没被采纳，反而受到排挤。他心里憋屈，登上幽州台远望。这里曾是古代燕昭王招揽人才的地方，他想起古人，又想到自己，一口气写下了这首短歌。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "建议没用上",
+      "text": "陈子昂随军出征，提的好建议都没被采纳。"
+    },
+    {
+      "step": 2,
+      "title": "登上高台",
+      "text": "他独自登上幽州台，向远方眺望。"
+    },
+    {
+      "step": 3,
+      "title": "天地好大",
+      "text": "天地广阔，时间长久，人显得那么小。"
+    },
+    {
+      "step": 4,
+      "title": "独自流泪",
+      "text": "没有人懂他，他忍不住悲伤落泪，写下这首短歌。"
+    }
+  ],
+  "pinyinNotes": [],
+  "sources": [
+    "《全唐诗》（中华书局）",
+    "《唐诗鉴赏辞典》（上海辞书出版社）"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-24",
+  "images": {
+    "cover": {
+      "src": "/assets/img/poems/dengyouzhoutai-cover.jpg",
+      "width": 2240,
+      "height": 1680,
+      "alt": "《登幽州台歌》场景插画",
+      "credit": "AI 辅助生成 · up999.cn",
+      "aiGenerated": true
+    }
+  }
+}

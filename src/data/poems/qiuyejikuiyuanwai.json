@@ -9,7 +9,12 @@
   "form": "五言绝句",
   "authorId": "weiyingwu",
   "gradeBand": "ext",
-  "tags": ["思念", "秋天", "友情", "五言绝句"],
+  "tags": [
+    "思念",
+    "秋天",
+    "友情",
+    "五言绝句"
+  ],
   "difficulty": 3,
   "writtenYear": 785,
   "writtenLabel": "约公元 785 年（韦应物 49 岁）",
@@ -20,27 +25,59 @@
   "lines": [
     {
       "text": "怀君属秋夜，",
-      "pinyin": ["huái", "jūn", "shǔ", "qiū", "yè"],
+      "pinyin": [
+        "huái",
+        "jūn",
+        "shǔ",
+        "qiū",
+        "yè"
+      ],
       "translation": "想念你呀，正赶上这秋凉之夜，",
-      "noteIds": ["n-huai", "n-shu"]
+      "noteIds": [
+        "n-huai",
+        "n-shu"
+      ]
     },
     {
       "text": "散步咏凉天。",
-      "pinyin": ["sàn", "bù", "yǒng", "liáng", "tiān"],
+      "pinyin": [
+        "sàn",
+        "bù",
+        "yǒng",
+        "liáng",
+        "tiān"
+      ],
       "translation": "我一边散步，一边吟着凉天的诗。",
-      "noteIds": ["n-yong"]
+      "noteIds": [
+        "n-yong"
+      ]
     },
     {
       "text": "空山松子落，",
-      "pinyin": ["kōng", "shān", "sōng", "zǐ", "luò"],
+      "pinyin": [
+        "kōng",
+        "shān",
+        "sōng",
+        "zǐ",
+        "luò"
+      ],
       "translation": "空寂的山里，松子落下来了，",
       "noteIds": []
     },
     {
       "text": "幽人应未眠。",
-      "pinyin": ["yōu", "rén", "yīng", "wèi", "mián"],
+      "pinyin": [
+        "yōu",
+        "rén",
+        "yīng",
+        "wèi",
+        "mián"
+      ],
       "translation": "隐居的你，大概也还没睡吧。",
-      "noteIds": ["n-youren", "n-mian"]
+      "noteIds": [
+        "n-youren",
+        "n-mian"
+      ]
     }
   ],
   "notes": [
@@ -106,5 +143,15 @@
     "《唐诗鉴赏辞典》（上海辞书出版社）"
   ],
   "status": "published",
-  "updatedAt": "2026-11-24"
+  "updatedAt": "2026-11-24",
+  "images": {
+    "cover": {
+      "src": "/assets/img/poems/qiuyejikuiyuanwai-cover.jpg",
+      "width": 2240,
+      "height": 1680,
+      "alt": "《秋夜寄邱员外》场景插画",
+      "credit": "AI 辅助生成 · up999.cn",
+      "aiGenerated": true
+    }
+  }
 }

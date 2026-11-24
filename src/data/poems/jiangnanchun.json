@@ -9,7 +9,12 @@
   "form": "七言绝句",
   "authorId": "dumu",
   "gradeBand": "ext",
-  "tags": ["江南", "春天", "烟雨", "七言绝句"],
+  "tags": [
+    "江南",
+    "春天",
+    "烟雨",
+    "七言绝句"
+  ],
   "difficulty": 4,
   "writtenYear": 840,
   "writtenLabel": "约公元 840 年（杜牧 38 岁）",
@@ -20,25 +25,65 @@
   "lines": [
     {
       "text": "千里莺啼绿映红，",
-      "pinyin": ["qiān", "lǐ", "yīng", "tí", "lǜ", "yìng", "hóng"],
+      "pinyin": [
+        "qiān",
+        "lǐ",
+        "yīng",
+        "tí",
+        "lǜ",
+        "yìng",
+        "hóng"
+      ],
       "translation": "千里江南，黄莺啼叫，绿叶映着红花，",
-      "noteIds": ["n-ying", "n-yinghong"]
+      "noteIds": [
+        "n-ying",
+        "n-yinghong"
+      ]
     },
     {
       "text": "水村山郭酒旗风。",
-      "pinyin": ["shuǐ", "cūn", "shān", "guō", "jiǔ", "qí", "fēng"],
+      "pinyin": [
+        "shuǐ",
+        "cūn",
+        "shān",
+        "guō",
+        "jiǔ",
+        "qí",
+        "fēng"
+      ],
       "translation": "水边的村庄、山边的城郭，酒旗迎风飘。",
-      "noteIds": ["n-guo", "n-jiuqi"]
+      "noteIds": [
+        "n-guo",
+        "n-jiuqi"
+      ]
     },
     {
       "text": "南朝四百八十寺，",
-      "pinyin": ["nán", "cháo", "sì", "bǎi", "bā", "shí", "sì"],
+      "pinyin": [
+        "nán",
+        "cháo",
+        "sì",
+        "bǎi",
+        "bā",
+        "shí",
+        "sì"
+      ],
       "translation": "南朝留下的四百八十座寺庙，",
-      "noteIds": ["n-nanchao"]
+      "noteIds": [
+        "n-nanchao"
+      ]
     },
     {
       "text": "多少楼台烟雨中。",
-      "pinyin": ["duō", "shǎo", "lóu", "tái", "yān", "yǔ", "zhōng"],
+      "pinyin": [
+        "duō",
+        "shǎo",
+        "lóu",
+        "tái",
+        "yān",
+        "yǔ",
+        "zhōng"
+      ],
       "translation": "多少楼台，都罩在迷蒙的烟雨里。",
       "noteIds": []
     }
@@ -106,5 +151,15 @@
     "《唐诗鉴赏辞典》（上海辞书出版社）"
   ],
   "status": "published",
-  "updatedAt": "2026-11-24"
+  "updatedAt": "2026-11-24",
+  "images": {
+    "cover": {
+      "src": "/assets/img/poems/jiangnanchun-cover.jpg",
+      "width": 2240,
+      "height": 1680,
+      "alt": "《江南春》场景插画",
+      "credit": "AI 辅助生成 · up999.cn",
+      "aiGenerated": true
+    }
+  }
 }

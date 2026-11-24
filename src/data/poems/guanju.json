@@ -1,0 +1,199 @@
+{
+  "id": "qita-xianqin-shijing-guanju",
+  "slug": "guanju",
+  "title": "关雎（节选）",
+  "titlePinyin": "guān jū jié xuǎn",
+  "dynasty": "qita",
+  "era": "xianqin",
+  "genre": "shi",
+  "form": "四言诗",
+  "authorId": "shijing",
+  "gradeBand": "g5-6",
+  "textbook": "部编版语文八年级下册（课外古诗词诵读）",
+  "tags": [
+    "美好向往",
+    "水鸟起兴",
+    "四言诗"
+  ],
+  "difficulty": 3,
+  "writtenYear": -1100,
+  "writtenLabel": "约公元前 1100 年（西周初年）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "窈窕淑女，君子好逑。"
+  ],
+  "lines": [
+    {
+      "text": "关关雎鸠，",
+      "pinyin": [
+        "guān",
+        "guān",
+        "jū",
+        "jiū"
+      ],
+      "translation": "雎鸠鸟关关地叫着，",
+      "noteIds": [
+        "n-jujiu"
+      ]
+    },
+    {
+      "text": "在河之洲。",
+      "pinyin": [
+        "zài",
+        "hé",
+        "zhī",
+        "zhōu"
+      ],
+      "translation": "成双成对地站在河中的小洲上。",
+      "noteIds": []
+    },
+    {
+      "text": "窈窕淑女，",
+      "pinyin": [
+        "yǎo",
+        "tiǎo",
+        "shū",
+        "nǚ"
+      ],
+      "translation": "文静美好的姑娘啊，",
+      "noteIds": [
+        "n-yaotiao"
+      ]
+    },
+    {
+      "text": "君子好逑。",
+      "pinyin": [
+        "jūn",
+        "zǐ",
+        "hǎo",
+        "qiú"
+      ],
+      "translation": "正是君子的好配偶。",
+      "noteIds": [
+        "n-haoqiu"
+      ]
+    },
+    {
+      "text": "参差荇菜，",
+      "pinyin": [
+        "cēn",
+        "cī",
+        "xìng",
+        "cài"
+      ],
+      "translation": "长长短短的荇菜，",
+      "noteIds": [
+        "n-xingcai"
+      ]
+    },
+    {
+      "text": "左右流之。",
+      "pinyin": [
+        "zuǒ",
+        "yòu",
+        "liú",
+        "zhī"
+      ],
+      "translation": "顺着水流，在左边右边采摘它。",
+      "noteIds": []
+    },
+    {
+      "text": "窈窕淑女，",
+      "pinyin": [
+        "yǎo",
+        "tiǎo",
+        "shū",
+        "nǚ"
+      ],
+      "translation": "文静美好的姑娘啊，",
+      "noteIds": []
+    },
+    {
+      "text": "寤寐求之。",
+      "pinyin": [
+        "wù",
+        "mèi",
+        "qiú",
+        "zhī"
+      ],
+      "translation": "他醒来睡着都在把她想念。",
+      "noteIds": [
+        "n-wumei"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-jujiu",
+      "word": "雎鸠",
+      "pinyin": "jū jiū",
+      "meaning": "一种水鸟，喜欢成对活动，叫声“关关”的。"
+    },
+    {
+      "id": "n-yaotiao",
+      "word": "窈窕",
+      "pinyin": "yǎo tiǎo",
+      "meaning": "文静又美好的样子。"
+    },
+    {
+      "id": "n-haoqiu",
+      "word": "好逑",
+      "pinyin": "hǎo qiú",
+      "meaning": "好的配偶。“逑”就是配偶的意思。"
+    },
+    {
+      "id": "n-xingcai",
+      "word": "荇菜",
+      "pinyin": "xìng cài",
+      "meaning": "一种水草，嫩叶可以吃，常浮在水面上。"
+    },
+    {
+      "id": "n-wumei",
+      "word": "寤寐",
+      "pinyin": "wù mèi",
+      "meaning": "“寤”是醒来，“寐”是睡着，指日日夜夜。"
+    }
+  ],
+  "translation": "雎鸠鸟关关地叫着，成双成对地站在河中的小洲上。文静美好的姑娘啊，正是君子的好配偶。长长短短的荇菜，顺着水流在左边右边采摘。文静美好的姑娘啊，他醒来睡着都在把她想念。",
+  "appreciation": "这首诗写的是对美好之人的欣赏和向往。诗人听见雎鸠成双成对地叫，就想起了心里那位文静善良的姑娘。他不说漂亮话，只老老实实写“醒着睡着都在想”，把喜欢写得又干净又真诚。荇菜在水里一左一右地采，那份心意也在心里一上一下地晃。两千年过去，人们说起美好的爱情，还是会想起“窈窕淑女，君子好逑”。",
+  "background": "《关雎》是《诗经》的开篇，属于《周南》。它大约诞生在西周初年，从黄河边的民间传唱开来。古代的婚礼上，人们常用它祝福新人，盼着像雎鸠鸟一样成双成对、和和美美。孔子也夸它“乐而不淫，哀而不伤”，快乐却不放纵。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "河边听鸟鸣",
+      "text": "少年来到河边，听见雎鸠鸟关关地叫，一对对落在小洲上。"
+    },
+    {
+      "step": 2,
+      "title": "遇见好姑娘",
+      "text": "他看见一位文静美好的姑娘，心里想：这样善良的人多好呀。"
+    },
+    {
+      "step": 3,
+      "title": "河边采荇菜",
+      "text": "姑娘们在水里采荇菜，长长短短的叶子随着水流轻轻摇晃。"
+    },
+    {
+      "step": 4,
+      "title": "日夜都在想",
+      "text": "少年醒着睡着都在想：要像雎鸠鸟一样，找到好伙伴相伴。"
+    }
+  ],
+  "pinyinNotes": [],
+  "sources": [
+    "《诗经·周南·关雎》",
+    "程俊英《诗经译注》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-24",
+  "images": {
+    "cover": {
+      "src": "/assets/img/poems/guanju-cover.jpg",
+      "width": 2240,
+      "height": 1680,
+      "alt": "《关雎（节选）》场景插画",
+      "credit": "AI 辅助生成 · up999.cn",
+      "aiGenerated": true
+    }
+  }
+}

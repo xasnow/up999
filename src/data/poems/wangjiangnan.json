@@ -170,5 +170,15 @@
     "《温庭筠全集校注》"
   ],
   "status": "published",
-  "updatedAt": "2026-11-24"
+  "updatedAt": "2026-11-24",
+  "images": {
+    "cover": {
+      "src": "/assets/img/poems/wangjiangnan-cover.jpg",
+      "width": 2240,
+      "height": 1680,
+      "alt": "《望江南·梳洗罢》场景插画",
+      "credit": "AI 辅助生成 · up999.cn",
+      "aiGenerated": true
+    }
+  }
 }

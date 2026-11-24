@@ -1,0 +1,159 @@
+{
+  "id": "tang-zhongtang-liyi-yeshangshouxiang",
+  "slug": "yeshangshouxiang",
+  "title": "夜上受降城闻笛",
+  "titlePinyin": "yè shàng shòu xiáng chéng wén dí",
+  "dynasty": "tangshi",
+  "era": "zhongtang",
+  "genre": "shi",
+  "form": "七言绝句",
+  "authorId": "liyi",
+  "gradeBand": "ext",
+  "tags": [
+    "思乡",
+    "边塞",
+    "笛声",
+    "七言绝句"
+  ],
+  "difficulty": 3,
+  "writtenYear": 790,
+  "writtenLabel": "公元 790 年（李益在受降城军中）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "不知何处吹芦管，一夜征人尽望乡。"
+  ],
+  "lines": [
+    {
+      "text": "回乐峰前沙似雪，",
+      "pinyin": [
+        "huí",
+        "lè",
+        "fēng",
+        "qián",
+        "shā",
+        "sì",
+        "xuě"
+      ],
+      "translation": "回乐峰前的沙地，白得像雪，",
+      "noteIds": [
+        "n-huile"
+      ]
+    },
+    {
+      "text": "受降城外月如霜。",
+      "pinyin": [
+        "shòu",
+        "xiáng",
+        "chéng",
+        "wài",
+        "yuè",
+        "rú",
+        "shuāng"
+      ],
+      "translation": "受降城外的月光，冷得像霜。",
+      "noteIds": [
+        "n-shouxiangcheng"
+      ]
+    },
+    {
+      "text": "不知何处吹芦管，",
+      "pinyin": [
+        "bù",
+        "zhī",
+        "hé",
+        "chù",
+        "chuī",
+        "lú",
+        "guǎn"
+      ],
+      "translation": "不知哪里吹起了芦笛，",
+      "noteIds": [
+        "n-luguan"
+      ]
+    },
+    {
+      "text": "一夜征人尽望乡。",
+      "pinyin": [
+        "yī",
+        "yè",
+        "zhēng",
+        "rén",
+        "jìn",
+        "wàng",
+        "xiāng"
+      ],
+      "translation": "守边的人整夜整夜，都在望着家乡。",
+      "noteIds": [
+        "n-zhengren"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-huile",
+      "word": "回乐峰",
+      "pinyin": "huí lè fēng",
+      "meaning": "受降城附近一座山峰的名字。"
+    },
+    {
+      "id": "n-shouxiangcheng",
+      "word": "受降城",
+      "pinyin": "shòu xiáng chéng",
+      "meaning": "唐朝在北边修筑的守边城堡。降这里读 xiáng。"
+    },
+    {
+      "id": "n-luguan",
+      "word": "芦管",
+      "pinyin": "lú guǎn",
+      "meaning": "用芦苇做的笛子，声音又细又长。"
+    },
+    {
+      "id": "n-zhengren",
+      "word": "征人",
+      "pinyin": "zhēng rén",
+      "meaning": "离家到边关驻守的将士。"
+    }
+  ],
+  "translation": "回乐峰前的沙地，在月光下白得像雪；受降城外的月色，冷得像霜。不知从哪里吹起了芦笛，一声一声，守边的人整夜整夜，都朝着家乡的方向望啊望。",
+  "appreciation": "前两句先把颜色画好：沙像雪，月像霜，一片又白又安静。这时忽然传来一声芦笛，像一颗小石子丢进平静的湖面。全营的人都醒了，都朝家乡的方向望去。诗人不写一句“想家”，却让人人都在想家，这就是高手。",
+  "background": "公元790年前后，李益在受降城一带的军中任职。守边的将士离家很远，夜里格外想念家人。一天晚上，不知谁吹起了芦笛，笛声传遍全城，许多士兵都朝着家乡的方向张望。李益把这一夜写了下来。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "沙白似雪",
+      "text": "月光下，回乐峰前的沙地白得像雪。"
+    },
+    {
+      "step": 2,
+      "title": "月冷如霜",
+      "text": "受降城外一片清冷，月色像霜一样。"
+    },
+    {
+      "step": 3,
+      "title": "芦笛响起",
+      "text": "不知哪里吹起芦笛，声音又细又长。"
+    },
+    {
+      "step": 4,
+      "title": "齐望家乡",
+      "text": "守边的人听了一夜，都望着家乡的方向。"
+    }
+  ],
+  "pinyinNotes": [],
+  "sources": [
+    "《全唐诗》（中华书局）",
+    "《唐诗鉴赏辞典》（上海辞书出版社）"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-24",
+  "images": {
+    "cover": {
+      "src": "/assets/img/poems/yeshangshouxiang-cover.jpg",
+      "width": 2240,
+      "height": 1680,
+      "alt": "《夜上受降城闻笛》场景插画",
+      "credit": "AI 辅助生成 · up999.cn",
+      "aiGenerated": true
+    }
+  }
+}

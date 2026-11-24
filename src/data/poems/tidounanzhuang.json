@@ -9,7 +9,12 @@
   "form": "七言绝句",
   "authorId": "cuihu",
   "gradeBand": "ext",
-  "tags": ["春天", "桃花", "回忆", "七言绝句"],
+  "tags": [
+    "春天",
+    "桃花",
+    "回忆",
+    "七言绝句"
+  ],
   "difficulty": 3,
   "writtenYear": 796,
   "writtenLabel": "公元 796 年（崔护 25 岁）",
@@ -20,27 +25,68 @@
   "lines": [
     {
       "text": "去年今日此门中，",
-      "pinyin": ["qù", "nián", "jīn", "rì", "cǐ", "mén", "zhōng"],
+      "pinyin": [
+        "qù",
+        "nián",
+        "jīn",
+        "rì",
+        "cǐ",
+        "mén",
+        "zhōng"
+      ],
       "translation": "去年今天，也是在这扇门里。",
-      "noteIds": ["n-ci"]
+      "noteIds": [
+        "n-ci"
+      ]
     },
     {
       "text": "人面桃花相映红。",
-      "pinyin": ["rén", "miàn", "táo", "huā", "xiāng", "yìng", "hóng"],
+      "pinyin": [
+        "rén",
+        "miàn",
+        "táo",
+        "huā",
+        "xiāng",
+        "yìng",
+        "hóng"
+      ],
       "translation": "姑娘的脸和桃花，互相映衬着发红。",
-      "noteIds": ["n-renmian", "n-xiangying"]
+      "noteIds": [
+        "n-renmian",
+        "n-xiangying"
+      ]
     },
     {
       "text": "人面不知何处去，",
-      "pinyin": ["rén", "miàn", "bù", "zhī", "hé", "chù", "qù"],
+      "pinyin": [
+        "rén",
+        "miàn",
+        "bù",
+        "zhī",
+        "hé",
+        "chù",
+        "qù"
+      ],
       "translation": "如今姑娘不知去了哪里。",
-      "noteIds": ["n-hechu"]
+      "noteIds": [
+        "n-hechu"
+      ]
     },
     {
       "text": "桃花依旧笑春风。",
-      "pinyin": ["táo", "huā", "yī", "jiù", "xiào", "chūn", "fēng"],
+      "pinyin": [
+        "táo",
+        "huā",
+        "yī",
+        "jiù",
+        "xiào",
+        "chūn",
+        "fēng"
+      ],
       "translation": "只有桃花照旧在春风里笑着开放。",
-      "noteIds": ["n-yijiu"]
+      "noteIds": [
+        "n-yijiu"
+      ]
     }
   ],
   "notes": [
@@ -106,5 +152,15 @@
     "孟棨《本事诗》"
   ],
   "status": "published",
-  "updatedAt": "2026-11-24"
+  "updatedAt": "2026-11-24",
+  "images": {
+    "cover": {
+      "src": "/assets/img/poems/tidounanzhuang-cover.jpg",
+      "width": 2240,
+      "height": 1680,
+      "alt": "《题都城南庄》场景插画",
+      "credit": "AI 辅助生成 · up999.cn",
+      "aiGenerated": true
+    }
+  }
 }

@@ -1,0 +1,184 @@
+{
+  "id": "qita-xianqin-shijing-jianjia",
+  "slug": "jianjia",
+  "title": "蒹葭（节选）",
+  "titlePinyin": "jiān jiā jié xuǎn",
+  "dynasty": "qita",
+  "era": "xianqin",
+  "genre": "shi",
+  "form": "四言诗",
+  "authorId": "shijing",
+  "gradeBand": "g5-6",
+  "textbook": "课外经典诵读篇目",
+  "tags": [
+    "追求",
+    "秋水",
+    "意境"
+  ],
+  "difficulty": 3,
+  "writtenYear": -900,
+  "writtenLabel": "约公元前 900 年（西周晚期）",
+  "orderInAuthor": 3,
+  "famousLines": [
+    "蒹葭苍苍，白露为霜。所谓伊人，在水一方。"
+  ],
+  "lines": [
+    {
+      "text": "蒹葭苍苍，",
+      "pinyin": [
+        "jiān",
+        "jiā",
+        "cāng",
+        "cāng"
+      ],
+      "translation": "河边芦苇灰蒙蒙一大片，",
+      "noteIds": [
+        "n-jianjia"
+      ]
+    },
+    {
+      "text": "白露为霜。",
+      "pinyin": [
+        "bái",
+        "lù",
+        "wéi",
+        "shuāng"
+      ],
+      "translation": "清晨的露水结成了白霜。",
+      "noteIds": []
+    },
+    {
+      "text": "所谓伊人，",
+      "pinyin": [
+        "suǒ",
+        "wèi",
+        "yī",
+        "rén"
+      ],
+      "translation": "我心里想念的那个人，",
+      "noteIds": [
+        "n-yiren"
+      ]
+    },
+    {
+      "text": "在水一方。",
+      "pinyin": [
+        "zài",
+        "shuǐ",
+        "yī",
+        "fāng"
+      ],
+      "translation": "就站在河水的那一边。",
+      "noteIds": []
+    },
+    {
+      "text": "溯洄从之，",
+      "pinyin": [
+        "sù",
+        "huí",
+        "cóng",
+        "zhī"
+      ],
+      "translation": "我逆着水流去追她，",
+      "noteIds": [
+        "n-suhui"
+      ]
+    },
+    {
+      "text": "道阻且长。",
+      "pinyin": [
+        "dào",
+        "zǔ",
+        "qiě",
+        "cháng"
+      ],
+      "translation": "可道路又险又长，怎么也走不到。",
+      "noteIds": []
+    },
+    {
+      "text": "溯游从之，",
+      "pinyin": [
+        "sù",
+        "yóu",
+        "cóng",
+        "zhī"
+      ],
+      "translation": "我又顺着水流去追她，",
+      "noteIds": []
+    },
+    {
+      "text": "宛在水中央。",
+      "pinyin": [
+        "wǎn",
+        "zài",
+        "shuǐ",
+        "zhōng",
+        "yāng"
+      ],
+      "translation": "她却好像站在水中央，够也够不着。",
+      "noteIds": []
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-jianjia",
+      "word": "蒹葭",
+      "pinyin": "jiān jiā",
+      "meaning": "芦苇，就是长在水边、秋天开白花的芦荻。"
+    },
+    {
+      "id": "n-yiren",
+      "word": "伊人",
+      "pinyin": "yī rén",
+      "meaning": "那个人，指心中想念的美好的人。"
+    },
+    {
+      "id": "n-suhui",
+      "word": "溯洄",
+      "pinyin": "sù huí",
+      "meaning": "逆着水流往上游走。"
+    }
+  ],
+  "translation": "河边芦苇灰蒙蒙一大片，清晨的露水结成了白霜。我心里想念的那个人，就站在河水的那一边。我逆着水流去追她，可道路又险又长，怎么也走不到。我又顺着水流去追她，她却好像站在水中央，够也够不着。",
+  "appreciation": "这首诗写的是追求美好事物时的执着。伊人在水的那一边，看得见，追不着，可诗人还是一遍一遍去追：逆流也追，顺流也追。苍苍的芦苇、凝结的白霜，把深秋清晨染得又清又凉，读来有种淡淡的怅惘。全诗没说结果，只留下“宛在”的身影。要紧的不是追没追到，而是那份不肯放弃的努力。",
+  "background": "《蒹葭》出自《诗经·秦风》。秦地的民歌大多雄壮，这一首却格外温柔，大约唱响在公元前900年前后的深秋水边。诗里那个人也许是一位朋友，也许是一份心愿。正因朦胧，它成了《诗经》里最美的诗篇之一。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "芦苇白了",
+      "text": "深秋清晨，河边的芦苇灰蒙蒙一大片，白露结成了霜。"
+    },
+    {
+      "step": 2,
+      "title": "心里那个人",
+      "text": "他想念的那个人，就在河水的那一边，好像看得见。"
+    },
+    {
+      "step": 3,
+      "title": "逆流去追",
+      "text": "他逆着水流往上游走，道路又险又长，怎么也走不到。"
+    },
+    {
+      "step": 4,
+      "title": "宛在水中央",
+      "text": "他顺流去找，那个人好像站在水中央，朦朦胧胧够不着。"
+    }
+  ],
+  "pinyinNotes": [],
+  "sources": [
+    "《诗经·秦风·蒹葭》",
+    "程俊英《诗经译注》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-24",
+  "images": {
+    "cover": {
+      "src": "/assets/img/poems/jianjia-cover.jpg",
+      "width": 2240,
+      "height": 1680,
+      "alt": "《蒹葭（节选）》场景插画",
+      "credit": "AI 辅助生成 · up999.cn",
+      "aiGenerated": true
+    }
+  }
+}

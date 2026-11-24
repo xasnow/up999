@@ -1,0 +1,150 @@
+{
+  "id": "tang-shengtang-canshen-fengrujingshi",
+  "slug": "fengrujingshi",
+  "title": "逢入京使",
+  "titlePinyin": "féng rù jīng shǐ",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "七言绝句",
+  "authorId": "canshen",
+  "gradeBand": "ext",
+  "tags": [
+    "思乡",
+    "边塞",
+    "七言绝句"
+  ],
+  "difficulty": 3,
+  "writtenYear": 750,
+  "writtenLabel": "公元 750 年（岑参第一次出塞西行途中）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "马上相逢无纸笔，凭君传语报平安。"
+  ],
+  "lines": [
+    {
+      "text": "故园东望路漫漫，",
+      "pinyin": [
+        "gù",
+        "yuán",
+        "dōng",
+        "wàng",
+        "lù",
+        "màn",
+        "màn"
+      ],
+      "translation": "向东望家乡，路又长又远，",
+      "noteIds": [
+        "n-manman"
+      ]
+    },
+    {
+      "text": "双袖龙钟泪不干。",
+      "pinyin": [
+        "shuāng",
+        "xiù",
+        "lóng",
+        "zhōng",
+        "lèi",
+        "bù",
+        "gān"
+      ],
+      "translation": "两只袖子擦湿了，眼泪还没干。",
+      "noteIds": [
+        "n-longzhong"
+      ]
+    },
+    {
+      "text": "马上相逢无纸笔，",
+      "pinyin": [
+        "mǎ",
+        "shàng",
+        "xiāng",
+        "féng",
+        "wú",
+        "zhǐ",
+        "bǐ"
+      ],
+      "translation": "马上遇见您，身上没带纸和笔，",
+      "noteIds": []
+    },
+    {
+      "text": "凭君传语报平安。",
+      "pinyin": [
+        "píng",
+        "jūn",
+        "chuán",
+        "yǔ",
+        "bào",
+        "píng",
+        "ān"
+      ],
+      "translation": "只好托您捎个口信，说家中亲人一切都好。",
+      "noteIds": [
+        "n-pingjun"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-manman",
+      "word": "漫漫",
+      "pinyin": "màn màn",
+      "meaning": "又长又远的样子。"
+    },
+    {
+      "id": "n-longzhong",
+      "word": "龙钟",
+      "pinyin": "lóng zhōng",
+      "meaning": "这里指泪水沾湿衣袖的样子。"
+    },
+    {
+      "id": "n-pingjun",
+      "word": "凭",
+      "pinyin": "píng",
+      "meaning": "请、托付。凭君就是请您帮忙。"
+    }
+  ],
+  "translation": "回头向东望家乡，路又长又远，两只袖子擦湿了，眼泪还没干。路上遇到回京城报信的人，马背上没带纸和笔，只好托您捎个口信，请家里人放心，一切都好。",
+  "appreciation": "诗人擦眼泪用袖子，一擦袖子全湿了，思念写得又实在又可爱。最妙的是结尾：没纸没笔，就捎一句“我平安”。这么简单的一句话，是让家人安心的最好的礼物。全诗没有华丽词句，像两匹马在路边聊了三句话。",
+  "background": "公元750年，岑参第一次去西北边关任职，骑马走了很远。这天路上迎面遇到一位回京城送信的官员。他想给家里写封信，可马身上没纸没笔，只能托对方带一句口信，于是写下这首诗。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "回望家乡",
+      "text": "岑参西行路上回头东望，家乡已很远。"
+    },
+    {
+      "step": 2,
+      "title": "袖已擦湿",
+      "text": "他用袖子擦泪，袖子湿了泪还没停。"
+    },
+    {
+      "step": 3,
+      "title": "马上相遇",
+      "text": "迎面来了位回京报信的人，两匹马停了下来。"
+    },
+    {
+      "step": 4,
+      "title": "托带口信",
+      "text": "没纸没笔，他托对方捎一句口信报平安。"
+    }
+  ],
+  "pinyinNotes": [],
+  "sources": [
+    "《全唐诗》（中华书局）",
+    "《唐诗鉴赏辞典》（上海辞书出版社）"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-24",
+  "images": {
+    "cover": {
+      "src": "/assets/img/poems/fengrujingshi-cover.jpg",
+      "width": 2240,
+      "height": 1680,
+      "alt": "《逢入京使》场景插画",
+      "credit": "AI 辅助生成 · up999.cn",
+      "aiGenerated": true
+    }
+  }
+}

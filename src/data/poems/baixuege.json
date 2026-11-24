@@ -1,0 +1,222 @@
+{
+  "id": "tang-shengtang-canshen-baixuege",
+  "slug": "baixuege",
+  "title": "白雪歌送武判官归京（节选）",
+  "titlePinyin": "bái xuě gē sòng wǔ pàn guān guī jīng",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "七言古诗",
+  "authorId": "canshen",
+  "gradeBand": "ext",
+  "tags": [
+    "边塞",
+    "雪景",
+    "想象力",
+    "七言古诗"
+  ],
+  "difficulty": 4,
+  "writtenYear": 754,
+  "writtenLabel": "公元 754 年（岑参第二次出塞，在轮台军中）",
+  "orderInAuthor": 2,
+  "famousLines": [
+    "忽如一夜春风来，千树万树梨花开。"
+  ],
+  "lines": [
+    {
+      "text": "北风卷地白草折，",
+      "pinyin": [
+        "běi",
+        "fēng",
+        "juǎn",
+        "dì",
+        "bái",
+        "cǎo",
+        "zhé"
+      ],
+      "translation": "北风扫过大地，枯草都被吹断了，",
+      "noteIds": []
+    },
+    {
+      "text": "胡天八月即飞雪。",
+      "pinyin": [
+        "hú",
+        "tiān",
+        "bā",
+        "yuè",
+        "jí",
+        "fēi",
+        "xuě"
+      ],
+      "translation": "边关的八月，天空就飘起了大雪。",
+      "noteIds": [
+        "n-hutian"
+      ]
+    },
+    {
+      "text": "忽如一夜春风来，",
+      "pinyin": [
+        "hū",
+        "rú",
+        "yī",
+        "yè",
+        "chūn",
+        "fēng",
+        "lái"
+      ],
+      "translation": "忽然像一夜春风吹来，",
+      "noteIds": []
+    },
+    {
+      "text": "千树万树梨花开。",
+      "pinyin": [
+        "qiān",
+        "shù",
+        "wàn",
+        "shù",
+        "lí",
+        "huā",
+        "kāi"
+      ],
+      "translation": "千树万树的雪，好像梨花全开了。",
+      "noteIds": []
+    },
+    {
+      "text": "散入珠帘湿罗幕，",
+      "pinyin": [
+        "sàn",
+        "rù",
+        "zhū",
+        "lián",
+        "shī",
+        "luó",
+        "mù"
+      ],
+      "translation": "雪花飘进珠帘，打湿了丝帐，",
+      "noteIds": []
+    },
+    {
+      "text": "狐裘不暖锦衾薄。",
+      "pinyin": [
+        "hú",
+        "qiú",
+        "bù",
+        "nuǎn",
+        "jǐn",
+        "qīn",
+        "báo"
+      ],
+      "translation": "狐皮袍不暖和，锦缎被子也嫌薄。",
+      "noteIds": [
+        "n-qin",
+        "n-bao"
+      ]
+    },
+    {
+      "text": "将军角弓不得控，",
+      "pinyin": [
+        "jiāng",
+        "jūn",
+        "jiǎo",
+        "gōng",
+        "bù",
+        "dé",
+        "kòng"
+      ],
+      "translation": "将军的角弓冻得拉不开了，",
+      "noteIds": [
+        "n-kong"
+      ]
+    },
+    {
+      "text": "都护铁衣冷难着。",
+      "pinyin": [
+        "dū",
+        "hù",
+        "tiě",
+        "yī",
+        "lěng",
+        "nán",
+        "zhuó"
+      ],
+      "translation": "都护的铁甲冷得难以穿上。",
+      "noteIds": [
+        "n-duhu"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-hutian",
+      "word": "胡天",
+      "pinyin": "hú tiān",
+      "meaning": "指西北边关的天空，那里天气特别冷。"
+    },
+    {
+      "id": "n-qin",
+      "word": "衾",
+      "pinyin": "qīn",
+      "meaning": "被子。锦衾就是锦缎做的被子。"
+    },
+    {
+      "id": "n-bao",
+      "word": "薄",
+      "pinyin": "báo",
+      "meaning": "单薄。这里说被子太薄不保暖。"
+    },
+    {
+      "id": "n-kong",
+      "word": "控",
+      "pinyin": "kòng",
+      "meaning": "拉开。弓冻硬了就拉不开。"
+    },
+    {
+      "id": "n-duhu",
+      "word": "都护",
+      "pinyin": "dū hù",
+      "meaning": "镇守边关的长官。着是穿的意思，这里读 zhuó。"
+    }
+  ],
+  "translation": "北风扫过大地，枯草都被吹断了；边关的八月，天空就飘起了大雪。忽然像一夜春风吹来，千树万树的雪，好像梨花全开了。雪花飘进珠帘，打湿了丝帐；狐皮袍不暖和，锦缎被子也嫌薄。将军的角弓冻得拉不开，都护的铁甲冷得难以穿上。",
+  "appreciation": "别人看到大雪只会喊冷，岑参却喊出“梨花开啦”。一夜风雪盖满树枝，像春天一夜之间来到，这个比喻又大胆又漂亮，成了写雪的名句。后面写弓拉不开、铁甲冰冷，把天气的冷写得让人看得见。冷归冷，诗里全是好看又好玩的想象。",
+  "background": "公元754年，岑参第二次到西北边关，在轮台的军营里工作。八月的一天夜里下起大雪，早上推门一看，满山满树的雪白晃晃的。正好武判官要回京城，军营里设宴送行，岑参写下了这首长诗，开头就是这八句。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "八月飞雪",
+      "text": "边关的八月，北风呼呼吹，大雪突然落下。"
+    },
+    {
+      "step": 2,
+      "title": "梨花开了",
+      "text": "满树积雪白亮亮的，像一夜春风吹开了梨花。"
+    },
+    {
+      "step": 3,
+      "title": "帐中也冷",
+      "text": "雪花飘进帐里，皮袍被子都挡不住寒气。"
+    },
+    {
+      "step": 4,
+      "title": "弓冻难拉",
+      "text": "角弓冻硬拉不开，铁甲冷得穿不上，天真的好冷。"
+    }
+  ],
+  "pinyinNotes": [],
+  "sources": [
+    "《全唐诗》（中华书局）",
+    "《唐诗鉴赏辞典》（上海辞书出版社）"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-24",
+  "images": {
+    "cover": {
+      "src": "/assets/img/poems/baixuege-cover.jpg",
+      "width": 2240,
+      "height": 1680,
+      "alt": "《白雪歌送武判官归京（节选）》场景插画",
+      "credit": "AI 辅助生成 · up999.cn",
+      "aiGenerated": true
+    }
+  }
+}

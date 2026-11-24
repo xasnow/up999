@@ -25,27 +25,67 @@
   "lines": [
     {
       "text": "千锤万凿出深山，",
-      "pinyin": ["qiān", "chuí", "wàn", "záo", "chū", "shēn", "shān"],
+      "pinyin": [
+        "qiān",
+        "chuí",
+        "wàn",
+        "záo",
+        "chū",
+        "shēn",
+        "shān"
+      ],
       "translation": "石灰石被敲打、开凿许多次，才从深山里运出来。",
-      "noteIds": ["n-chuizao"]
+      "noteIds": [
+        "n-chuizao"
+      ]
     },
     {
       "text": "烈火焚烧若等闲。",
-      "pinyin": ["liè", "huǒ", "fén", "shāo", "ruò", "děng", "xián"],
+      "pinyin": [
+        "liè",
+        "huǒ",
+        "fén",
+        "shāo",
+        "ruò",
+        "děng",
+        "xián"
+      ],
       "translation": "烈火烧过来，它好像很平常，一点儿也不怕。",
-      "noteIds": ["n-dengxian"]
+      "noteIds": [
+        "n-dengxian"
+      ]
     },
     {
       "text": "粉骨碎身浑不怕。",
-      "pinyin": ["fěn", "gǔ", "suì", "shēn", "hún", "bú", "pà"],
+      "pinyin": [
+        "fěn",
+        "gǔ",
+        "suì",
+        "shēn",
+        "hún",
+        "bú",
+        "pà"
+      ],
       "translation": "就算粉身碎骨，它也全都不怕。",
-      "noteIds": ["n-hun"]
+      "noteIds": [
+        "n-hun"
+      ]
     },
     {
       "text": "要留清白在人间。",
-      "pinyin": ["yào", "liú", "qīng", "bái", "zài", "rén", "jiān"],
+      "pinyin": [
+        "yào",
+        "liú",
+        "qīng",
+        "bái",
+        "zài",
+        "rén",
+        "jiān"
+      ],
       "translation": "只要能把一身清白留在人间。",
-      "noteIds": ["n-qingbai"]
+      "noteIds": [
+        "n-qingbai"
+      ]
     }
   ],
   "notes": [
@@ -105,5 +145,15 @@
     "《于肃愍公集》"
   ],
   "status": "published",
-  "updatedAt": "2026-11-24"
+  "updatedAt": "2026-11-24",
+  "images": {
+    "cover": {
+      "src": "/assets/img/poems/shihuiyin-cover.jpg",
+      "width": 2240,
+      "height": 1680,
+      "alt": "《石灰吟》场景插画",
+      "credit": "AI 辅助生成 · up999.cn",
+      "aiGenerated": true
+    }
+  }
 }

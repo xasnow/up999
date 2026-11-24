@@ -26,43 +26,91 @@
   "lines": [
     {
       "text": "江南可采莲，",
-      "pinyin": ["jiāng", "nán", "kě", "cǎi", "lián"],
+      "pinyin": [
+        "jiāng",
+        "nán",
+        "kě",
+        "cǎi",
+        "lián"
+      ],
       "translation": "江南又到采莲的好时节了，",
-      "noteIds": ["n-cai"]
+      "noteIds": [
+        "n-cai"
+      ]
     },
     {
       "text": "莲叶何田田。",
-      "pinyin": ["lián", "yè", "hé", "tián", "tián"],
+      "pinyin": [
+        "lián",
+        "yè",
+        "hé",
+        "tián",
+        "tián"
+      ],
       "translation": "莲叶长得又大又圆，一片挨着一片。",
-      "noteIds": ["n-tiantian"]
+      "noteIds": [
+        "n-tiantian"
+      ]
     },
     {
       "text": "鱼戏莲叶间。",
-      "pinyin": ["yú", "xì", "lián", "yè", "jiān"],
+      "pinyin": [
+        "yú",
+        "xì",
+        "lián",
+        "yè",
+        "jiān"
+      ],
       "translation": "小鱼在莲叶中间游来游去。",
-      "noteIds": ["n-xi"]
+      "noteIds": [
+        "n-xi"
+      ]
     },
     {
       "text": "鱼戏莲叶东，",
-      "pinyin": ["yú", "xì", "lián", "yè", "dōng"],
+      "pinyin": [
+        "yú",
+        "xì",
+        "lián",
+        "yè",
+        "dōng"
+      ],
       "translation": "小鱼游到莲叶的东面，",
       "noteIds": []
     },
     {
       "text": "鱼戏莲叶西，",
-      "pinyin": ["yú", "xì", "lián", "yè", "xī"],
+      "pinyin": [
+        "yú",
+        "xì",
+        "lián",
+        "yè",
+        "xī"
+      ],
       "translation": "又游到莲叶的西面，",
       "noteIds": []
     },
     {
       "text": "鱼戏莲叶南，",
-      "pinyin": ["yú", "xì", "lián", "yè", "nán"],
+      "pinyin": [
+        "yú",
+        "xì",
+        "lián",
+        "yè",
+        "nán"
+      ],
       "translation": "一会儿游到南面，",
       "noteIds": []
     },
     {
       "text": "鱼戏莲叶北。",
-      "pinyin": ["yú", "xì", "lián", "yè", "běi"],
+      "pinyin": [
+        "yú",
+        "xì",
+        "lián",
+        "yè",
+        "běi"
+      ],
       "translation": "一会儿又游到北面，玩得真开心。",
       "noteIds": []
     }
@@ -118,5 +166,15 @@
     "《乐府诗集》"
   ],
   "status": "published",
-  "updatedAt": "2026-11-24"
+  "updatedAt": "2026-11-24",
+  "images": {
+    "cover": {
+      "src": "/assets/img/poems/jiangnan-cover.jpg",
+      "width": 2240,
+      "height": 1680,
+      "alt": "《江南》场景插画",
+      "credit": "AI 辅助生成 · up999.cn",
+      "aiGenerated": true
+    }
+  }
 }

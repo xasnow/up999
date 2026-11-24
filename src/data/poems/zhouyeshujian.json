@@ -25,27 +25,59 @@
   "lines": [
     {
       "text": "月黑见渔灯，",
-      "pinyin": ["yuè", "hēi", "jiàn", "yú", "dēng"],
+      "pinyin": [
+        "yuè",
+        "hēi",
+        "jiàn",
+        "yú",
+        "dēng"
+      ],
       "translation": "夜里没有月光，只见一盏渔船上的灯。",
-      "noteIds": ["n-yuhei"]
+      "noteIds": [
+        "n-yuhei"
+      ]
     },
     {
       "text": "孤光一点萤。",
-      "pinyin": ["gū", "guāng", "yì", "diǎn", "yíng"],
+      "pinyin": [
+        "gū",
+        "guāng",
+        "yì",
+        "diǎn",
+        "yíng"
+      ],
       "translation": "那孤单的灯光，像一只小小的萤火虫。",
-      "noteIds": ["n-ying"]
+      "noteIds": [
+        "n-ying"
+      ]
     },
     {
       "text": "微微风簇浪，",
-      "pinyin": ["wēi", "wēi", "fēng", "cù", "làng"],
+      "pinyin": [
+        "wēi",
+        "wēi",
+        "fēng",
+        "cù",
+        "làng"
+      ],
       "translation": "微风吹来，河面涌起细细的波浪，",
-      "noteIds": ["n-cu"]
+      "noteIds": [
+        "n-cu"
+      ]
     },
     {
       "text": "散作满河星。",
-      "pinyin": ["sàn", "zuò", "mǎn", "hé", "xīng"],
+      "pinyin": [
+        "sàn",
+        "zuò",
+        "mǎn",
+        "hé",
+        "xīng"
+      ],
       "translation": "灯光散开来，变成满河的星星。",
-      "noteIds": ["n-san"]
+      "noteIds": [
+        "n-san"
+      ]
     }
   ],
   "notes": [
@@ -105,5 +137,15 @@
     "《敬业堂诗集》"
   ],
   "status": "published",
-  "updatedAt": "2026-11-24"
+  "updatedAt": "2026-11-24",
+  "images": {
+    "cover": {
+      "src": "/assets/img/poems/zhouyeshujian-cover.jpg",
+      "width": 2240,
+      "height": 1680,
+      "alt": "《舟夜书所见》场景插画",
+      "credit": "AI 辅助生成 · up999.cn",
+      "aiGenerated": true
+    }
+  }
 }

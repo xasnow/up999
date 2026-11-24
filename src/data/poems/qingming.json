@@ -9,7 +9,12 @@
   "form": "七言绝句",
   "authorId": "dumu",
   "gradeBand": "ext",
-  "tags": ["节日", "下雨", "清明", "七言绝句"],
+  "tags": [
+    "节日",
+    "下雨",
+    "清明",
+    "七言绝句"
+  ],
   "difficulty": 3,
   "writtenYear": 836,
   "writtenLabel": "约公元 836 年（杜牧 34 岁）",
@@ -20,27 +25,67 @@
   "lines": [
     {
       "text": "清明时节雨纷纷，",
-      "pinyin": ["qīng", "míng", "shí", "jié", "yǔ", "fēn", "fēn"],
+      "pinyin": [
+        "qīng",
+        "míng",
+        "shí",
+        "jié",
+        "yǔ",
+        "fēn",
+        "fēn"
+      ],
       "translation": "清明时节，细雨下个不停，",
-      "noteIds": ["n-qingming"]
+      "noteIds": [
+        "n-qingming"
+      ]
     },
     {
       "text": "路上行人欲断魂。",
-      "pinyin": ["lù", "shàng", "xíng", "rén", "yù", "duàn", "hún"],
+      "pinyin": [
+        "lù",
+        "shàng",
+        "xíng",
+        "rén",
+        "yù",
+        "duàn",
+        "hún"
+      ],
       "translation": "路上的行人，难过得很。",
-      "noteIds": ["n-yuduanhun"]
+      "noteIds": [
+        "n-yuduanhun"
+      ]
     },
     {
       "text": "借问酒家何处有？",
-      "pinyin": ["jiè", "wèn", "jiǔ", "jiā", "hé", "chù", "yǒu"],
+      "pinyin": [
+        "jiè",
+        "wèn",
+        "jiǔ",
+        "jiā",
+        "hé",
+        "chù",
+        "yǒu"
+      ],
       "translation": "请问哪里有酒馆呢？",
-      "noteIds": ["n-jiewen"]
+      "noteIds": [
+        "n-jiewen"
+      ]
     },
     {
       "text": "牧童遥指杏花村。",
-      "pinyin": ["mù", "tóng", "yáo", "zhǐ", "xìng", "huā", "cūn"],
+      "pinyin": [
+        "mù",
+        "tóng",
+        "yáo",
+        "zhǐ",
+        "xìng",
+        "huā",
+        "cūn"
+      ],
       "translation": "牧童远远一指，说杏花村有。",
-      "noteIds": ["n-yao"]
+      "noteIds": [
+        "n-yao"
+      ]
     }
   ],
   "notes": [
@@ -100,5 +145,15 @@
     "《唐诗鉴赏辞典》（上海辞书出版社）"
   ],
   "status": "published",
-  "updatedAt": "2026-11-24"
+  "updatedAt": "2026-11-24",
+  "images": {
+    "cover": {
+      "src": "/assets/img/poems/qingming-cover.jpg",
+      "width": 2240,
+      "height": 1680,
+      "alt": "《清明》场景插画",
+      "credit": "AI 辅助生成 · up999.cn",
+      "aiGenerated": true
+    }
+  }
 }

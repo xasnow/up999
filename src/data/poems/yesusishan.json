@@ -9,7 +9,12 @@
   "form": "五言绝句",
   "authorId": "libai",
   "gradeBand": "ext",
-  "tags": ["夜晚", "想象", "山寺", "五言绝句"],
+  "tags": [
+    "夜晚",
+    "想象",
+    "山寺",
+    "五言绝句"
+  ],
   "difficulty": 3,
   "writtenYear": 725,
   "writtenLabel": "约公元 725 年（李白 25 岁）",
@@ -20,27 +25,58 @@
   "lines": [
     {
       "text": "危楼高百尺，",
-      "pinyin": ["wēi", "lóu", "gāo", "bǎi", "chǐ"],
+      "pinyin": [
+        "wēi",
+        "lóu",
+        "gāo",
+        "bǎi",
+        "chǐ"
+      ],
       "translation": "山上这座楼真高呀，好像有百尺高。",
-      "noteIds": ["n-weilou"]
+      "noteIds": [
+        "n-weilou"
+      ]
     },
     {
       "text": "手可摘星辰。",
-      "pinyin": ["shǒu", "kě", "zhāi", "xīng", "chén"],
+      "pinyin": [
+        "shǒu",
+        "kě",
+        "zhāi",
+        "xīng",
+        "chén"
+      ],
       "translation": "伸手好像就能摘到天上的星星。",
-      "noteIds": ["n-zhai", "n-xingchen"]
+      "noteIds": [
+        "n-zhai",
+        "n-xingchen"
+      ]
     },
     {
       "text": "不敢高声语，",
-      "pinyin": ["bù", "gǎn", "gāo", "shēng", "yǔ"],
+      "pinyin": [
+        "bù",
+        "gǎn",
+        "gāo",
+        "shēng",
+        "yǔ"
+      ],
       "translation": "我不敢大声说话，",
       "noteIds": []
     },
     {
       "text": "恐惊天上人。",
-      "pinyin": ["kǒng", "jīng", "tiān", "shàng", "rén"],
+      "pinyin": [
+        "kǒng",
+        "jīng",
+        "tiān",
+        "shàng",
+        "rén"
+      ],
       "translation": "怕吵醒了住在天上的仙人。",
-      "noteIds": ["n-kong"]
+      "noteIds": [
+        "n-kong"
+      ]
     }
   ],
   "notes": [
@@ -100,5 +136,15 @@
     "《唐诗鉴赏辞典》（上海辞书出版社）"
   ],
   "status": "published",
-  "updatedAt": "2026-11-24"
+  "updatedAt": "2026-11-24",
+  "images": {
+    "cover": {
+      "src": "/assets/img/poems/yesusishan-cover.jpg",
+      "width": 2240,
+      "height": 1680,
+      "alt": "《夜宿山寺》场景插画",
+      "credit": "AI 辅助生成 · up999.cn",
+      "aiGenerated": true
+    }
+  }
 }

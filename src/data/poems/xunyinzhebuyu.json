@@ -10,7 +10,12 @@
   "authorId": "jiadao",
   "gradeBand": "g1-2",
   "textbook": "课外经典诵读篇目",
-  "tags": ["问答", "隐士", "山景", "五言绝句"],
+  "tags": [
+    "问答",
+    "隐士",
+    "山景",
+    "五言绝句"
+  ],
   "difficulty": 1,
   "writtenYear": 780,
   "writtenLabel": "约公元 780 年（贾岛游访山中隐者，未遇而作）",
@@ -21,27 +26,57 @@
   "lines": [
     {
       "text": "松下问童子，",
-      "pinyin": ["sōng", "xià", "wèn", "tóng", "zǐ"],
+      "pinyin": [
+        "sōng",
+        "xià",
+        "wèn",
+        "tóng",
+        "zǐ"
+      ],
       "translation": "松树下，我问隐者的小徒弟，",
-      "noteIds": ["n-tongzi"]
+      "noteIds": [
+        "n-tongzi"
+      ]
     },
     {
       "text": "言师采药去。",
-      "pinyin": ["yán", "shī", "cǎi", "yào", "qù"],
+      "pinyin": [
+        "yán",
+        "shī",
+        "cǎi",
+        "yào",
+        "qù"
+      ],
       "translation": "他说：师父采药去了。",
-      "noteIds": ["n-yan"]
+      "noteIds": [
+        "n-yan"
+      ]
     },
     {
       "text": "只在此山中，",
-      "pinyin": ["zhǐ", "zài", "cǐ", "shān", "zhōng"],
+      "pinyin": [
+        "zhǐ",
+        "zài",
+        "cǐ",
+        "shān",
+        "zhōng"
+      ],
       "translation": "师父就在这座大山里，",
       "noteIds": []
     },
     {
       "text": "云深不知处。",
-      "pinyin": ["yún", "shēn", "bù", "zhī", "chù"],
+      "pinyin": [
+        "yún",
+        "shēn",
+        "bù",
+        "zhī",
+        "chù"
+      ],
       "translation": "可山上云雾深深，不知道到底在哪儿。",
-      "noteIds": ["n-chu"]
+      "noteIds": [
+        "n-chu"
+      ]
     }
   ],
   "notes": [
@@ -95,5 +130,15 @@
     "《唐诗鉴赏辞典》"
   ],
   "status": "published",
-  "updatedAt": "2026-11-24"
+  "updatedAt": "2026-11-24",
+  "images": {
+    "cover": {
+      "src": "/assets/img/poems/xunyinzhebuyu-cover.jpg",
+      "width": 2240,
+      "height": 1680,
+      "alt": "《寻隐者不遇》场景插画",
+      "credit": "AI 辅助生成 · up999.cn",
+      "aiGenerated": true
+    }
+  }
 }

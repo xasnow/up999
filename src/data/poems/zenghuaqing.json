@@ -9,7 +9,12 @@
   "form": "七言绝句",
   "authorId": "dufu",
   "gradeBand": "ext",
-  "tags": ["音乐", "赞美", "成都", "七言绝句"],
+  "tags": [
+    "音乐",
+    "赞美",
+    "成都",
+    "七言绝句"
+  ],
   "difficulty": 4,
   "writtenYear": 764,
   "writtenLabel": "约公元 764 年（杜甫 53 岁）",
@@ -20,27 +25,67 @@
   "lines": [
     {
       "text": "锦城丝管日纷纷，",
-      "pinyin": ["jǐn", "chéng", "sī", "guǎn", "rì", "fēn", "fēn"],
+      "pinyin": [
+        "jǐn",
+        "chéng",
+        "sī",
+        "guǎn",
+        "rì",
+        "fēn",
+        "fēn"
+      ],
       "translation": "成都城里，乐声天天响个不停，",
-      "noteIds": ["n-jincheng", "n-siguan", "n-fenfen"]
+      "noteIds": [
+        "n-jincheng",
+        "n-siguan",
+        "n-fenfen"
+      ]
     },
     {
       "text": "半入江风半入云。",
-      "pinyin": ["bàn", "rù", "jiāng", "fēng", "bàn", "rù", "yún"],
+      "pinyin": [
+        "bàn",
+        "rù",
+        "jiāng",
+        "fēng",
+        "bàn",
+        "rù",
+        "yún"
+      ],
       "translation": "一半飘进江风，一半飞上云霄。",
       "noteIds": []
     },
     {
       "text": "此曲只应天上有，",
-      "pinyin": ["cǐ", "qǔ", "zhǐ", "yīng", "tiān", "shàng", "yǒu"],
+      "pinyin": [
+        "cǐ",
+        "qǔ",
+        "zhǐ",
+        "yīng",
+        "tiān",
+        "shàng",
+        "yǒu"
+      ],
       "translation": "这样的曲子只有天上才有，",
-      "noteIds": ["n-zhiying"]
+      "noteIds": [
+        "n-zhiying"
+      ]
     },
     {
       "text": "人间能得几回闻。",
-      "pinyin": ["rén", "jiān", "néng", "dé", "jǐ", "huí", "wén"],
+      "pinyin": [
+        "rén",
+        "jiān",
+        "néng",
+        "dé",
+        "jǐ",
+        "huí",
+        "wén"
+      ],
       "translation": "人间能听到几回呢？",
-      "noteIds": ["n-wen"]
+      "noteIds": [
+        "n-wen"
+      ]
     }
   ],
   "notes": [
@@ -106,5 +151,15 @@
     "《唐诗鉴赏辞典》（上海辞书出版社）"
   ],
   "status": "published",
-  "updatedAt": "2026-11-24"
+  "updatedAt": "2026-11-24",
+  "images": {
+    "cover": {
+      "src": "/assets/img/poems/zenghuaqing-cover.jpg",
+      "width": 2240,
+      "height": 1680,
+      "alt": "《赠花卿》场景插画",
+      "credit": "AI 辅助生成 · up999.cn",
+      "aiGenerated": true
+    }
+  }
 }

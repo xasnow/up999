@@ -25,39 +25,90 @@
   "lines": [
     {
       "text": "山一程，水一程，",
-      "pinyin": ["shān", "yì", "chéng", "shuǐ", "yì", "chéng"],
+      "pinyin": [
+        "shān",
+        "yì",
+        "chéng",
+        "shuǐ",
+        "yì",
+        "chéng"
+      ],
       "translation": "将士们走过一座座山，又蹚过一条条河，",
       "noteIds": []
     },
     {
       "text": "身向榆关那畔行，",
-      "pinyin": ["shēn", "xiàng", "yú", "guān", "nà", "pàn", "xíng"],
+      "pinyin": [
+        "shēn",
+        "xiàng",
+        "yú",
+        "guān",
+        "nà",
+        "pàn",
+        "xíng"
+      ],
       "translation": "队伍向着山海关那边前进，",
-      "noteIds": ["n-yuguan", "n-napan"]
+      "noteIds": [
+        "n-yuguan",
+        "n-napan"
+      ]
     },
     {
       "text": "夜深千帐灯。",
-      "pinyin": ["yè", "shēn", "qiān", "zhàng", "dēng"],
+      "pinyin": [
+        "yè",
+        "shēn",
+        "qiān",
+        "zhàng",
+        "dēng"
+      ],
       "translation": "夜深了，千百座帐篷里都亮着灯。",
       "noteIds": []
     },
     {
       "text": "风一更，雪一更，",
-      "pinyin": ["fēng", "yì", "gēng", "xuě", "yì", "gēng"],
+      "pinyin": [
+        "fēng",
+        "yì",
+        "gēng",
+        "xuě",
+        "yì",
+        "gēng"
+      ],
       "translation": "风刮了一阵又一阵，雪下了一场又一场，",
-      "noteIds": ["n-geng"]
+      "noteIds": [
+        "n-geng"
+      ]
     },
     {
       "text": "聒碎乡心梦不成，",
-      "pinyin": ["guō", "suì", "xiāng", "xīn", "mèng", "bù", "chéng"],
+      "pinyin": [
+        "guō",
+        "suì",
+        "xiāng",
+        "xīn",
+        "mèng",
+        "bù",
+        "chéng"
+      ],
       "translation": "吵闹的声音搅碎了思乡的心，梦也做不成，",
-      "noteIds": ["n-guo"]
+      "noteIds": [
+        "n-guo"
+      ]
     },
     {
       "text": "故园无此声。",
-      "pinyin": ["gù", "yuán", "wú", "cǐ", "shēng"],
+      "pinyin": [
+        "gù",
+        "yuán",
+        "wú",
+        "cǐ",
+        "shēng"
+      ],
       "translation": "家乡的家里，可没有这样的声音啊。",
-      "noteIds": ["n-guyuan"]
+      "noteIds": [
+        "n-guyuan"
+      ]
     }
   ],
   "notes": [
@@ -123,5 +174,15 @@
     "《纳兰词笺注》"
   ],
   "status": "published",
-  "updatedAt": "2026-11-24"
+  "updatedAt": "2026-11-24",
+  "images": {
+    "cover": {
+      "src": "/assets/img/poems/changxiangsi-cover.jpg",
+      "width": 2240,
+      "height": 1680,
+      "alt": "《长相思·山一程》场景插画",
+      "credit": "AI 辅助生成 · up999.cn",
+      "aiGenerated": true
+    }
+  }
 }

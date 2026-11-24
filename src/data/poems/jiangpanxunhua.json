@@ -157,5 +157,15 @@
     "《全唐诗》杜甫卷"
   ],
   "status": "published",
-  "updatedAt": "2026-11-24"
+  "updatedAt": "2026-11-24",
+  "images": {
+    "cover": {
+      "src": "/assets/img/poems/jiangpanxunhua-cover.jpg",
+      "width": 2240,
+      "height": 1680,
+      "alt": "《江畔独步寻花（其五）》场景插画",
+      "credit": "AI 辅助生成 · up999.cn",
+      "aiGenerated": true
+    }
+  }
 }

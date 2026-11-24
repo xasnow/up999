@@ -9,7 +9,12 @@
   "form": "七言绝句",
   "authorId": "wangjian",
   "gradeBand": "ext",
-  "tags": ["中秋节", "月亮", "思念", "七言绝句"],
+  "tags": [
+    "中秋节",
+    "月亮",
+    "思念",
+    "七言绝句"
+  ],
   "difficulty": 3,
   "writtenYear": 800,
   "writtenLabel": "约公元 800 年（王建约 34 岁）",
@@ -20,27 +25,68 @@
   "lines": [
     {
       "text": "中庭地白树栖鸦，",
-      "pinyin": ["zhōng", "tíng", "dì", "bái", "shù", "qī", "yā"],
+      "pinyin": [
+        "zhōng",
+        "tíng",
+        "dì",
+        "bái",
+        "shù",
+        "qī",
+        "yā"
+      ],
       "translation": "月光洒满院子，乌鸦在树上安睡。",
-      "noteIds": ["n-zhongting", "n-dibai"]
+      "noteIds": [
+        "n-zhongting",
+        "n-dibai"
+      ]
     },
     {
       "text": "冷露无声湿桂花。",
-      "pinyin": ["lěng", "lù", "wú", "shēng", "shī", "guì", "huā"],
+      "pinyin": [
+        "lěng",
+        "lù",
+        "wú",
+        "shēng",
+        "shī",
+        "guì",
+        "huā"
+      ],
       "translation": "冰凉的露水，悄悄打湿了桂花。",
-      "noteIds": ["n-lu"]
+      "noteIds": [
+        "n-lu"
+      ]
     },
     {
       "text": "今夜月明人尽望，",
-      "pinyin": ["jīn", "yè", "yuè", "míng", "rén", "jìn", "wàng"],
+      "pinyin": [
+        "jīn",
+        "yè",
+        "yuè",
+        "míng",
+        "rén",
+        "jìn",
+        "wàng"
+      ],
       "translation": "今晚月亮最圆，人们都在抬头望着它。",
-      "noteIds": ["n-jin"]
+      "noteIds": [
+        "n-jin"
+      ]
     },
     {
       "text": "不知秋思落谁家。",
-      "pinyin": ["bù", "zhī", "qiū", "sì", "luò", "shuí", "jiā"],
+      "pinyin": [
+        "bù",
+        "zhī",
+        "qiū",
+        "sì",
+        "luò",
+        "shuí",
+        "jiā"
+      ],
       "translation": "不知那份秋天的思念，落进了谁家？",
-      "noteIds": ["n-sisi"]
+      "noteIds": [
+        "n-sisi"
+      ]
     }
   ],
   "notes": [
@@ -106,5 +152,15 @@
     "《王建诗集》"
   ],
   "status": "published",
-  "updatedAt": "2026-11-24"
+  "updatedAt": "2026-11-24",
+  "images": {
+    "cover": {
+      "src": "/assets/img/poems/shiwuwangyue-cover.jpg",
+      "width": 2240,
+      "height": 1680,
+      "alt": "《十五夜望月》场景插画",
+      "credit": "AI 辅助生成 · up999.cn",
+      "aiGenerated": true
+    }
+  }
 }

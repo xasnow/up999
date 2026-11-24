@@ -9,7 +9,12 @@
   "form": "五言律诗",
   "authorId": "menghaoran",
   "gradeBand": "ext",
-  "tags": ["友情", "田园", "农家", "五言律诗"],
+  "tags": [
+    "友情",
+    "田园",
+    "农家",
+    "五言律诗"
+  ],
   "difficulty": 4,
   "writtenYear": 740,
   "writtenLabel": "约公元 740 年（孟浩然 52 岁）",
@@ -20,51 +25,106 @@
   "lines": [
     {
       "text": "故人具鸡黍，",
-      "pinyin": ["gù", "rén", "jù", "jī", "shǔ"],
+      "pinyin": [
+        "gù",
+        "rén",
+        "jù",
+        "jī",
+        "shǔ"
+      ],
       "translation": "老朋友备好了饭菜，等我去做客。",
-      "noteIds": ["n-shu"]
+      "noteIds": [
+        "n-shu"
+      ]
     },
     {
       "text": "邀我至田家。",
-      "pinyin": ["yāo", "wǒ", "zhì", "tián", "jiā"],
+      "pinyin": [
+        "yāo",
+        "wǒ",
+        "zhì",
+        "tián",
+        "jiā"
+      ],
       "translation": "热情地邀请我到他的田家小院。",
       "noteIds": []
     },
     {
       "text": "绿树村边合，",
-      "pinyin": ["lǜ", "shù", "cūn", "biān", "hé"],
+      "pinyin": [
+        "lǜ",
+        "shù",
+        "cūn",
+        "biān",
+        "hé"
+      ],
       "translation": "绿树把村庄团团围在中间。",
       "noteIds": []
     },
     {
       "text": "青山郭外斜。",
-      "pinyin": ["qīng", "shān", "guō", "wài", "xié"],
+      "pinyin": [
+        "qīng",
+        "shān",
+        "guō",
+        "wài",
+        "xié"
+      ],
       "translation": "村外还有青青的山，斜斜地伸向远方。",
       "noteIds": []
     },
     {
       "text": "开轩面场圃，",
-      "pinyin": ["kāi", "xuān", "miàn", "cháng", "pǔ"],
+      "pinyin": [
+        "kāi",
+        "xuān",
+        "miàn",
+        "cháng",
+        "pǔ"
+      ],
       "translation": "推开窗户，正对着打谷场和菜园。",
-      "noteIds": ["n-xuan", "n-changpu"]
+      "noteIds": [
+        "n-xuan",
+        "n-changpu"
+      ]
     },
     {
       "text": "把酒话桑麻。",
-      "pinyin": ["bǎ", "jiǔ", "huà", "sāng", "má"],
+      "pinyin": [
+        "bǎ",
+        "jiǔ",
+        "huà",
+        "sāng",
+        "má"
+      ],
       "translation": "端起酒杯，聊着种庄稼的事。",
       "noteIds": []
     },
     {
       "text": "待到重阳日，",
-      "pinyin": ["dài", "dào", "chóng", "yáng", "rì"],
+      "pinyin": [
+        "dài",
+        "dào",
+        "chóng",
+        "yáng",
+        "rì"
+      ],
       "translation": "等到九月九日重阳节那天，",
       "noteIds": []
     },
     {
       "text": "还来就菊花。",
-      "pinyin": ["huán", "lái", "jiù", "jú", "huā"],
+      "pinyin": [
+        "huán",
+        "lái",
+        "jiù",
+        "jú",
+        "huā"
+      ],
       "translation": "我还要再来，和你一起赏菊花。",
-      "noteIds": ["n-huan"]
+      "noteIds": [
+        "n-huan"
+      ]
     }
   ],
   "notes": [
@@ -124,5 +184,15 @@
     "《唐诗鉴赏辞典》（上海辞书出版社）"
   ],
   "status": "published",
-  "updatedAt": "2026-11-24"
+  "updatedAt": "2026-11-24",
+  "images": {
+    "cover": {
+      "src": "/assets/img/poems/guogurenyuanzhuang-cover.jpg",
+      "width": 2240,
+      "height": 1680,
+      "alt": "《过故人庄》场景插画",
+      "credit": "AI 辅助生成 · up999.cn",
+      "aiGenerated": true
+    }
+  }
 }

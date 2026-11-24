@@ -1,0 +1,149 @@
+{
+  "id": "tang-shengtang-libai-yuexiaduzhuo",
+  "slug": "yuexiaduzhuo",
+  "title": "月下独酌（节选）",
+  "titlePinyin": "yuè xià dú zhuó",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "五言古诗",
+  "authorId": "libai",
+  "gradeBand": "ext",
+  "tags": [
+    "月亮",
+    "想象力",
+    "五言古诗"
+  ],
+  "difficulty": 3,
+  "writtenYear": 740,
+  "writtenLabel": "约公元 740 年（李白在长安，独自饮酒时）",
+  "orderInAuthor": 12,
+  "famousLines": [
+    "举杯邀明月，对影成三人。"
+  ],
+  "lines": [
+    {
+      "text": "花间一壶酒，",
+      "pinyin": [
+        "huā",
+        "jiān",
+        "yī",
+        "hú",
+        "jiǔ"
+      ],
+      "translation": "花丛中间摆着一壶酒，",
+      "noteIds": []
+    },
+    {
+      "text": "独酌无相亲。",
+      "pinyin": [
+        "dú",
+        "zhuó",
+        "wú",
+        "xiāng",
+        "qīn"
+      ],
+      "translation": "一个人喝，没有亲人朋友陪着。",
+      "noteIds": [
+        "n-zhuo",
+        "n-xiangqin"
+      ]
+    },
+    {
+      "text": "举杯邀明月，",
+      "pinyin": [
+        "jǔ",
+        "bēi",
+        "yāo",
+        "míng",
+        "yuè"
+      ],
+      "translation": "举起酒杯，邀请明月做伴，",
+      "noteIds": [
+        "n-yao"
+      ]
+    },
+    {
+      "text": "对影成三人。",
+      "pinyin": [
+        "duì",
+        "yǐng",
+        "chéng",
+        "sān",
+        "rén"
+      ],
+      "translation": "加上影子，正好凑成三个人。",
+      "noteIds": [
+        "n-ying"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-zhuo",
+      "word": "酌",
+      "pinyin": "zhuó",
+      "meaning": "倒酒、喝酒。独酌就是一个人喝。"
+    },
+    {
+      "id": "n-xiangqin",
+      "word": "相亲",
+      "pinyin": "xiāng qīn",
+      "meaning": "亲密的亲人朋友。"
+    },
+    {
+      "id": "n-yao",
+      "word": "邀",
+      "pinyin": "yāo",
+      "meaning": "邀请。请月亮一起来喝酒。"
+    },
+    {
+      "id": "n-ying",
+      "word": "影",
+      "pinyin": "yǐng",
+      "meaning": "月光下自己的影子。"
+    }
+  ],
+  "translation": "花丛中间摆着一壶酒，一个人喝，没有亲人朋友陪着。我举起酒杯，邀请明月一起来做伴；加上月光下的影子，正好凑成三个人。",
+  "appreciation": "一个人喝酒多冷清呀，可李白一点都不觉得。他邀请月亮当客人，又把影子拉来当同伴，凑成一桌热闹的“三人酒局”。没人陪他，他就把整个夜晚变成朋友。这就是李白的本事：再安静的地方，也能开出浪漫的花。",
+  "background": "公元740年前后，李白在长安做官。白天忙公务，晚上常常独自一人。这天夜里他在花园里摆上酒，身边没有朋友。他抬头看见又大又亮的月亮，低头看见自己的影子，灵机一动，写下了这首《月下独酌》。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "花间摆酒",
+      "text": "李白在花丛中摆好一壶酒，等朋友来。"
+    },
+    {
+      "step": 2,
+      "title": "无人赴约",
+      "text": "等到夜深，一个人也没来。"
+    },
+    {
+      "step": 3,
+      "title": "请来明月",
+      "text": "他举起杯子，邀请天上的月亮做客。"
+    },
+    {
+      "step": 4,
+      "title": "三人成局",
+      "text": "月亮、影子加上他自己，热闹的酒局开始了。"
+    }
+  ],
+  "pinyinNotes": [],
+  "sources": [
+    "《李白全集编年注释》",
+    "《唐诗鉴赏辞典》（上海辞书出版社）"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-24",
+  "images": {
+    "cover": {
+      "src": "/assets/img/poems/yuexiaduzhuo-cover.jpg",
+      "width": 2240,
+      "height": 1680,
+      "alt": "《月下独酌（节选）》场景插画",
+      "credit": "AI 辅助生成 · up999.cn",
+      "aiGenerated": true
+    }
+  }
+}

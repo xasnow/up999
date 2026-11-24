@@ -10,7 +10,12 @@
   "authorId": "hezhizhang",
   "gradeBand": "g1-2",
   "textbook": "部编版语文二年级下册",
-  "tags": ["春天", "柳树", "比喻", "七言绝句"],
+  "tags": [
+    "春天",
+    "柳树",
+    "比喻",
+    "七言绝句"
+  ],
   "difficulty": 1,
   "writtenYear": 745,
   "writtenLabel": "约公元 745 年（贺知章晚年咏春柳之作）",
@@ -21,27 +26,65 @@
   "lines": [
     {
       "text": "碧玉妆成一树高，",
-      "pinyin": ["bì", "yù", "zhuāng", "chéng", "yī", "shù", "gāo"],
+      "pinyin": [
+        "bì",
+        "yù",
+        "zhuāng",
+        "chéng",
+        "yī",
+        "shù",
+        "gāo"
+      ],
       "translation": "高高的柳树，像用碧玉打扮过一样，",
-      "noteIds": ["n-zhuang"]
+      "noteIds": [
+        "n-zhuang"
+      ]
     },
     {
       "text": "万条垂下绿丝绦。",
-      "pinyin": ["wàn", "tiáo", "chuí", "xià", "lǜ", "sī", "tāo"],
+      "pinyin": [
+        "wàn",
+        "tiáo",
+        "chuí",
+        "xià",
+        "lǜ",
+        "sī",
+        "tāo"
+      ],
       "translation": "千万条柳枝垂下来，像绿色的丝带。",
-      "noteIds": ["n-tao"]
+      "noteIds": [
+        "n-tao"
+      ]
     },
     {
       "text": "不知细叶谁裁出，",
-      "pinyin": ["bù", "zhī", "xì", "yè", "shuí", "cái", "chū"],
+      "pinyin": [
+        "bù",
+        "zhī",
+        "xì",
+        "yè",
+        "shuí",
+        "cái",
+        "chū"
+      ],
       "translation": "不知道细细的柳叶是谁裁剪出来的，",
       "noteIds": []
     },
     {
       "text": "二月春风似剪刀。",
-      "pinyin": ["èr", "yuè", "chūn", "fēng", "sì", "jiǎn", "dāo"],
+      "pinyin": [
+        "èr",
+        "yuè",
+        "chūn",
+        "fēng",
+        "sì",
+        "jiǎn",
+        "dāo"
+      ],
       "translation": "原来二月的春风，就像一把剪刀。",
-      "noteIds": ["n-si"]
+      "noteIds": [
+        "n-si"
+      ]
     }
   ],
   "notes": [
@@ -95,5 +138,15 @@
     "《全唐诗》"
   ],
   "status": "published",
-  "updatedAt": "2026-11-24"
+  "updatedAt": "2026-11-24",
+  "images": {
+    "cover": {
+      "src": "/assets/img/poems/yongliu-cover.jpg",
+      "width": 2240,
+      "height": 1680,
+      "alt": "《咏柳》场景插画",
+      "credit": "AI 辅助生成 · up999.cn",
+      "aiGenerated": true
+    }
+  }
 }

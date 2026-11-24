@@ -9,7 +9,12 @@
   "form": "七言绝句",
   "authorId": "lishangyin",
   "gradeBand": "ext",
-  "tags": ["思念", "雨夜", "友情", "七言绝句"],
+  "tags": [
+    "思念",
+    "雨夜",
+    "友情",
+    "七言绝句"
+  ],
   "difficulty": 4,
   "writtenYear": 850,
   "writtenLabel": "约公元 850 年（李商隐 38 岁）",
@@ -20,25 +25,65 @@
   "lines": [
     {
       "text": "君问归期未有期，",
-      "pinyin": ["jūn", "wèn", "guī", "qī", "wèi", "yǒu", "qī"],
+      "pinyin": [
+        "jūn",
+        "wèn",
+        "guī",
+        "qī",
+        "wèi",
+        "yǒu",
+        "qī"
+      ],
       "translation": "你问我回家的日子，我还没定下来，",
-      "noteIds": ["n-jun", "n-guiqi"]
+      "noteIds": [
+        "n-jun",
+        "n-guiqi"
+      ]
     },
     {
       "text": "巴山夜雨涨秋池。",
-      "pinyin": ["bā", "shān", "yè", "yǔ", "zhǎng", "qiū", "chí"],
+      "pinyin": [
+        "bā",
+        "shān",
+        "yè",
+        "yǔ",
+        "zhǎng",
+        "qiū",
+        "chí"
+      ],
       "translation": "巴山夜里下着雨，池水涨满了。",
-      "noteIds": ["n-zhang"]
+      "noteIds": [
+        "n-zhang"
+      ]
     },
     {
       "text": "何当共剪西窗烛，",
-      "pinyin": ["hé", "dāng", "gòng", "jiǎn", "xī", "chuāng", "zhú"],
+      "pinyin": [
+        "hé",
+        "dāng",
+        "gòng",
+        "jiǎn",
+        "xī",
+        "chuāng",
+        "zhú"
+      ],
       "translation": "什么时候能一起在窗下剪烛花，",
-      "noteIds": ["n-hedang", "n-jianzhu"]
+      "noteIds": [
+        "n-hedang",
+        "n-jianzhu"
+      ]
     },
     {
       "text": "却话巴山夜雨时。",
-      "pinyin": ["què", "huà", "bā", "shān", "yè", "yǔ", "shí"],
+      "pinyin": [
+        "què",
+        "huà",
+        "bā",
+        "shān",
+        "yè",
+        "yǔ",
+        "shí"
+      ],
       "translation": "再聊起今晚这巴山夜雨的情景呢？",
       "noteIds": []
     }
@@ -106,5 +151,15 @@
     "《唐诗鉴赏辞典》（上海辞书出版社）"
   ],
   "status": "published",
-  "updatedAt": "2026-11-24"
+  "updatedAt": "2026-11-24",
+  "images": {
+    "cover": {
+      "src": "/assets/img/poems/yeyujibei-cover.jpg",
+      "width": 2240,
+      "height": 1680,
+      "alt": "《夜雨寄北》场景插画",
+      "credit": "AI 辅助生成 · up999.cn",
+      "aiGenerated": true
+    }
+  }
 }

@@ -9,7 +9,12 @@
   "form": "五言绝句",
   "authorId": "dufu",
   "gradeBand": "ext",
-  "tags": ["春天", "太阳", "鸟儿", "五言绝句"],
+  "tags": [
+    "春天",
+    "太阳",
+    "鸟儿",
+    "五言绝句"
+  ],
   "difficulty": 3,
   "writtenYear": 760,
   "writtenLabel": "公元 760 年（杜甫 49 岁）",
@@ -20,27 +25,58 @@
   "lines": [
     {
       "text": "迟日江山丽，",
-      "pinyin": ["chí", "rì", "jiāng", "shān", "lì"],
+      "pinyin": [
+        "chí",
+        "rì",
+        "jiāng",
+        "shān",
+        "lì"
+      ],
       "translation": "春天的太阳照着，江山真秀丽。",
-      "noteIds": ["n-chiri"]
+      "noteIds": [
+        "n-chiri"
+      ]
     },
     {
       "text": "春风花草香。",
-      "pinyin": ["chūn", "fēng", "huā", "cǎo", "xiāng"],
+      "pinyin": [
+        "chūn",
+        "fēng",
+        "huā",
+        "cǎo",
+        "xiāng"
+      ],
       "translation": "春风吹来，送来花草的香味。",
       "noteIds": []
     },
     {
       "text": "泥融飞燕子，",
-      "pinyin": ["ní", "róng", "fēi", "yàn", "zi"],
+      "pinyin": [
+        "ní",
+        "róng",
+        "fēi",
+        "yàn",
+        "zi"
+      ],
       "translation": "冻泥变软，燕子飞来飞去衔泥筑巢。",
-      "noteIds": ["n-rong", "n-yanzi"]
+      "noteIds": [
+        "n-rong",
+        "n-yanzi"
+      ]
     },
     {
       "text": "沙暖睡鸳鸯。",
-      "pinyin": ["shā", "nuǎn", "shuì", "yuān", "yāng"],
+      "pinyin": [
+        "shā",
+        "nuǎn",
+        "shuì",
+        "yuān",
+        "yāng"
+      ],
       "translation": "暖和的沙地上，鸳鸯成对睡得香甜。",
-      "noteIds": ["n-yuanyang"]
+      "noteIds": [
+        "n-yuanyang"
+      ]
     }
   ],
   "notes": [
@@ -100,5 +136,15 @@
     "《全唐诗》（中华书局）"
   ],
   "status": "published",
-  "updatedAt": "2026-11-24"
+  "updatedAt": "2026-11-24",
+  "images": {
+    "cover": {
+      "src": "/assets/img/poems/jueju-chiri-cover.jpg",
+      "width": 2240,
+      "height": 1680,
+      "alt": "《绝句（迟日江山丽）》场景插画",
+      "credit": "AI 辅助生成 · up999.cn",
+      "aiGenerated": true
+    }
+  }
 }

@@ -1,0 +1,158 @@
+{
+  "id": "tang-zhongtang-liyi-jiangnanqu-liyi",
+  "slug": "jiangnanqu-liyi",
+  "title": "江南曲",
+  "titlePinyin": "jiāng nán qǔ",
+  "dynasty": "tangshi",
+  "era": "zhongtang",
+  "genre": "shi",
+  "form": "五言绝句",
+  "authorId": "liyi",
+  "gradeBand": "ext",
+  "tags": [
+    "盼信",
+    "约定",
+    "江南",
+    "五言绝句"
+  ],
+  "difficulty": 3,
+  "writtenYear": 795,
+  "writtenLabel": "约公元 795 年（李益写江南盼归的女子）",
+  "orderInAuthor": 2,
+  "famousLines": [
+    "早知潮有信，嫁与弄潮儿。"
+  ],
+  "lines": [
+    {
+      "text": "嫁得瞿塘贾，",
+      "pinyin": [
+        "jià",
+        "dé",
+        "qú",
+        "táng",
+        "gǔ"
+      ],
+      "translation": "我嫁给了一位常去瞿塘的商人，",
+      "noteIds": [
+        "n-qutang",
+        "n-gu"
+      ]
+    },
+    {
+      "text": "朝朝误妾期。",
+      "pinyin": [
+        "zhāo",
+        "zhāo",
+        "wù",
+        "qiè",
+        "qī"
+      ],
+      "translation": "他常常赶不上约定回家的日子。",
+      "noteIds": [
+        "n-qie"
+      ]
+    },
+    {
+      "text": "早知潮有信，",
+      "pinyin": [
+        "zǎo",
+        "zhī",
+        "cháo",
+        "yǒu",
+        "xìn"
+      ],
+      "translation": "要是早知道潮水涨落那么守时，",
+      "noteIds": [
+        "n-xin"
+      ]
+    },
+    {
+      "text": "嫁与弄潮儿。",
+      "pinyin": [
+        "jià",
+        "yǔ",
+        "nòng",
+        "cháo",
+        "ér"
+      ],
+      "translation": "还不如嫁给守时的弄潮少年呢。",
+      "noteIds": [
+        "n-nongchaoer"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-qutang",
+      "word": "瞿塘",
+      "pinyin": "qú táng",
+      "meaning": "瞿塘峡，长江三峡之一，江水湍急。"
+    },
+    {
+      "id": "n-gu",
+      "word": "贾",
+      "pinyin": "gǔ",
+      "meaning": "商人。这里指常年出门做买卖的人。"
+    },
+    {
+      "id": "n-qie",
+      "word": "妾",
+      "pinyin": "qiè",
+      "meaning": "古代女子的自称。"
+    },
+    {
+      "id": "n-xin",
+      "word": "信",
+      "pinyin": "xìn",
+      "meaning": "守信用。潮水每天按时涨落，从不失约。"
+    },
+    {
+      "id": "n-nongchaoer",
+      "word": "弄潮儿",
+      "pinyin": "nòng cháo ér",
+      "meaning": "在潮头驾船戏水、勇敢灵巧的少年。"
+    }
+  ],
+  "translation": "我嫁给了一位常去瞿塘的商人，他常常赶不上约定回家的日子。要是早知道潮水涨落那么守时，还不如嫁给守约的弄潮少年呢。",
+  "appreciation": "这首小诗讲了一个道理：连大海都守信用。潮水每天按时涨、按时落，一次也不失约。商人常常误了约定的日子，所以女子说：潮水都这么守时，弄潮的少年天天和潮水打交道，肯定最守约。一句话里藏着“说话要算数”的大道理。",
+  "background": "江南一带水路发达，许多商人常年坐船出门做买卖，家里的人天天盼他们回来。李益听到这样的故事，替盼归的女子写下了心里话。这里的“错怪”其实是夸奖，夸的是像潮水一样守约定的人。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "商人远行",
+      "text": "女子嫁给商人，他常去瞿塘做买卖。"
+    },
+    {
+      "step": 2,
+      "title": "日子落空",
+      "text": "约定回家的日子到了，他却常不出现。"
+    },
+    {
+      "step": 3,
+      "title": "潮水守信",
+      "text": "她看潮水天天按时涨落，一次也不误。"
+    },
+    {
+      "step": 4,
+      "title": "守约可贵",
+      "text": "她感叹：守约定的人，比什么都珍贵。"
+    }
+  ],
+  "pinyinNotes": [],
+  "sources": [
+    "《全唐诗》（中华书局）",
+    "《唐诗鉴赏辞典》（上海辞书出版社）"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-24",
+  "images": {
+    "cover": {
+      "src": "/assets/img/poems/jiangnanqu-liyi-cover.jpg",
+      "width": 2240,
+      "height": 1680,
+      "alt": "《江南曲》场景插画",
+      "credit": "AI 辅助生成 · up999.cn",
+      "aiGenerated": true
+    }
+  }
+}

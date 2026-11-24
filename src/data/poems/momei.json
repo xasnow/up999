@@ -26,27 +26,66 @@
   "lines": [
     {
       "text": "我家洗砚池头树，",
-      "pinyin": ["wǒ", "jiā", "xǐ", "yàn", "chí", "tóu", "shù"],
+      "pinyin": [
+        "wǒ",
+        "jiā",
+        "xǐ",
+        "yàn",
+        "chí",
+        "tóu",
+        "shù"
+      ],
       "translation": "我家洗砚池边有一株梅树，",
-      "noteIds": ["n-xiyanchi"]
+      "noteIds": [
+        "n-xiyanchi"
+      ]
     },
     {
       "text": "朵朵花开淡墨痕。",
-      "pinyin": ["duǒ", "duǒ", "huā", "kāi", "dàn", "mò", "hén"],
+      "pinyin": [
+        "duǒ",
+        "duǒ",
+        "huā",
+        "kāi",
+        "dàn",
+        "mò",
+        "hén"
+      ],
       "translation": "朵朵梅花开放，像淡淡的墨痕。",
-      "noteIds": ["n-mohen"]
+      "noteIds": [
+        "n-mohen"
+      ]
     },
     {
       "text": "不要人夸好颜色，",
-      "pinyin": ["bú", "yào", "rén", "kuā", "hǎo", "yán", "sè"],
+      "pinyin": [
+        "bú",
+        "yào",
+        "rén",
+        "kuā",
+        "hǎo",
+        "yán",
+        "sè"
+      ],
       "translation": "它不需要别人夸赞颜色好看，",
       "noteIds": []
     },
     {
       "text": "只留清气满乾坤。",
-      "pinyin": ["zhǐ", "liú", "qīng", "qì", "mǎn", "qián", "kūn"],
+      "pinyin": [
+        "zhǐ",
+        "liú",
+        "qīng",
+        "qì",
+        "mǎn",
+        "qián",
+        "kūn"
+      ],
       "translation": "只要把清香留在天地之间。",
-      "noteIds": ["n-qingqi", "n-qiankun"]
+      "noteIds": [
+        "n-qingqi",
+        "n-qiankun"
+      ]
     }
   ],
   "notes": [
@@ -106,5 +145,15 @@
     "《竹斋集》"
   ],
   "status": "published",
-  "updatedAt": "2026-11-24"
+  "updatedAt": "2026-11-24",
+  "images": {
+    "cover": {
+      "src": "/assets/img/poems/momei-cover.jpg",
+      "width": 2240,
+      "height": 1680,
+      "alt": "《墨梅》场景插画",
+      "credit": "AI 辅助生成 · up999.cn",
+      "aiGenerated": true
+    }
+  }
 }

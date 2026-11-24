@@ -1,0 +1,166 @@
+{
+  "id": "qita-xianqin-quyuan-lisao-jie",
+  "slug": "lisao-jie",
+  "title": "离骚（节选）",
+  "titlePinyin": "lí sāo jié xuǎn",
+  "dynasty": "qita",
+  "era": "xianqin",
+  "genre": "shi",
+  "form": "楚辞",
+  "authorId": "quyuan",
+  "gradeBand": "g5-6",
+  "textbook": "课外经典诵读篇目",
+  "tags": [
+    "理想",
+    "求索",
+    "楚辞"
+  ],
+  "difficulty": 3,
+  "writtenYear": -300,
+  "writtenLabel": "约公元前 300 年（屈原晚年）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "路漫漫其修远兮，吾将上下而求索。"
+  ],
+  "lines": [
+    {
+      "text": "路漫漫其修远兮，",
+      "pinyin": [
+        "lù",
+        "màn",
+        "màn",
+        "qí",
+        "xiū",
+        "yuǎn",
+        "xī"
+      ],
+      "translation": "前面的路又长又远，望不到头，",
+      "noteIds": [
+        "n-manman"
+      ]
+    },
+    {
+      "text": "吾将上下而求索。",
+      "pinyin": [
+        "wú",
+        "jiāng",
+        "shàng",
+        "xià",
+        "ér",
+        "qiú",
+        "suǒ"
+      ],
+      "translation": "我将上天入地，不断去寻找和探索。",
+      "noteIds": [
+        "n-qiusuo"
+      ]
+    },
+    {
+      "text": "亦余心之所善兮，",
+      "pinyin": [
+        "yì",
+        "yú",
+        "xīn",
+        "zhī",
+        "suǒ",
+        "shàn",
+        "xī"
+      ],
+      "translation": "只要是我心中认定的美好，",
+      "noteIds": [
+        "n-shan"
+      ]
+    },
+    {
+      "text": "虽九死其犹未悔。",
+      "pinyin": [
+        "suī",
+        "jiǔ",
+        "sǐ",
+        "qí",
+        "yóu",
+        "wèi",
+        "huǐ"
+      ],
+      "translation": "哪怕死上九次，我也绝不后悔。",
+      "noteIds": [
+        "n-jiusi",
+        "n-you"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-manman",
+      "word": "漫漫",
+      "pinyin": "màn màn",
+      "meaning": "路很长很长的样子。"
+    },
+    {
+      "id": "n-qiusuo",
+      "word": "求索",
+      "pinyin": "qiú suǒ",
+      "meaning": "寻求和探索，不停地去寻找。"
+    },
+    {
+      "id": "n-shan",
+      "word": "善",
+      "pinyin": "shàn",
+      "meaning": "美好的事物，心中认定的好东西。"
+    },
+    {
+      "id": "n-jiusi",
+      "word": "九死",
+      "pinyin": "jiǔ sǐ",
+      "meaning": "死很多次，形容经历重重危险。"
+    },
+    {
+      "id": "n-you",
+      "word": "犹",
+      "pinyin": "yóu",
+      "meaning": "还是、仍然。"
+    }
+  ],
+  "translation": "前面的路又长又远，望不到头，我将上天入地，不断去寻找和探索。只要是我心中认定的美好，哪怕死上九次，我也绝不后悔。",
+  "appreciation": "这几句出自长诗《离骚》，是屈原最响亮的心声。前面的路又长又远，他不叹气，反而说要上下求索，一直在找。心中认定的美好，就算经历九死也不后悔。短短两句话，把不怕困难、坚持理想的精神说得干干净净。两千多年来，无数人用“求索”两个字给自己打气。屈原走了，这种精神一直活着。",
+  "background": "《离骚》是屈原在遭受排挤、报国无门时写成的长诗，全诗两千四百多字，是我国古代最长的抒情诗。这里节选的是最有名的四句。约在公元前300年前后，屈原被放逐在外，却始终不肯放弃心中的理想，于是写下这样的誓言。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "长路望不到头",
+      "text": "屈原抬头看路：这条路又长又远，好像永远走不完。"
+    },
+    {
+      "step": 2,
+      "title": "我还要去求索",
+      "text": "他不害怕，下定决心：上天入地，我也要去寻找探索。"
+    },
+    {
+      "step": 3,
+      "title": "认准心中美好",
+      "text": "他说：只要是我真心认定的美好，就要好好坚持到底。"
+    },
+    {
+      "step": 4,
+      "title": "九死也不后悔",
+      "text": "哪怕为它死上九次，他也绝不后悔，这就是理想的力量。"
+    }
+  ],
+  "pinyinNotes": [],
+  "sources": [
+    "《楚辞·离骚》",
+    "姜亮夫《屈原赋校注》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-24",
+  "images": {
+    "cover": {
+      "src": "/assets/img/poems/lisao-jie-cover.jpg",
+      "width": 2240,
+      "height": 1680,
+      "alt": "《离骚（节选）》场景插画",
+      "credit": "AI 辅助生成 · up999.cn",
+      "aiGenerated": true
+    }
+  }
+}

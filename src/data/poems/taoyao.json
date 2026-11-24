@@ -1,0 +1,191 @@
+{
+  "id": "qita-xianqin-shijing-taoyao",
+  "slug": "taoyao",
+  "title": "桃夭",
+  "titlePinyin": "táo yāo",
+  "dynasty": "qita",
+  "era": "xianqin",
+  "genre": "shi",
+  "form": "四言诗",
+  "authorId": "shijing",
+  "gradeBand": "g3-4",
+  "textbook": "课外经典诵读篇目",
+  "tags": [
+    "祝福",
+    "桃花",
+    "婚嫁"
+  ],
+  "difficulty": 2,
+  "writtenYear": -1000,
+  "writtenLabel": "约公元前 1000 年（西周中期）",
+  "orderInAuthor": 2,
+  "famousLines": [
+    "桃之夭夭，灼灼其华。"
+  ],
+  "lines": [
+    {
+      "text": "桃之夭夭，",
+      "pinyin": [
+        "táo",
+        "zhī",
+        "yāo",
+        "yāo"
+      ],
+      "translation": "桃树长得生机勃勃，",
+      "noteIds": [
+        "n-yaoyao"
+      ]
+    },
+    {
+      "text": "灼灼其华。",
+      "pinyin": [
+        "zhuó",
+        "zhuó",
+        "qí",
+        "huá"
+      ],
+      "translation": "满树桃花开得鲜亮明艳。",
+      "noteIds": [
+        "n-zhuozhuo"
+      ]
+    },
+    {
+      "text": "之子于归，",
+      "pinyin": [
+        "zhī",
+        "zǐ",
+        "yú",
+        "guī"
+      ],
+      "translation": "这位姑娘就要出嫁，",
+      "noteIds": [
+        "n-yugui"
+      ]
+    },
+    {
+      "text": "宜其室家。",
+      "pinyin": [
+        "yí",
+        "qí",
+        "shì",
+        "jiā"
+      ],
+      "translation": "一定会让家庭和和美美。",
+      "noteIds": []
+    },
+    {
+      "text": "桃之夭夭，",
+      "pinyin": [
+        "táo",
+        "zhī",
+        "yāo",
+        "yāo"
+      ],
+      "translation": "桃树长得生机勃勃，",
+      "noteIds": []
+    },
+    {
+      "text": "其叶蓁蓁。",
+      "pinyin": [
+        "qí",
+        "yè",
+        "zhēn",
+        "zhēn"
+      ],
+      "translation": "枝叶茂盛，绿意满满。",
+      "noteIds": [
+        "n-zhenzhen"
+      ]
+    },
+    {
+      "text": "之子于归，",
+      "pinyin": [
+        "zhī",
+        "zǐ",
+        "yú",
+        "guī"
+      ],
+      "translation": "这位姑娘就要出嫁，",
+      "noteIds": []
+    },
+    {
+      "text": "宜其家人。",
+      "pinyin": [
+        "yí",
+        "qí",
+        "jiā",
+        "rén"
+      ],
+      "translation": "一定会让全家人幸福美满。",
+      "noteIds": []
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-yaoyao",
+      "word": "夭夭",
+      "pinyin": "yāo yāo",
+      "meaning": "树木长得生机勃勃的样子。"
+    },
+    {
+      "id": "n-zhuozhuo",
+      "word": "灼灼",
+      "pinyin": "zhuó zhuó",
+      "meaning": "花开得鲜亮明艳的样子。"
+    },
+    {
+      "id": "n-yugui",
+      "word": "于归",
+      "pinyin": "yú guī",
+      "meaning": "指女子出嫁。“于”是语气助词，“归”就是出嫁。"
+    },
+    {
+      "id": "n-zhenzhen",
+      "word": "蓁蓁",
+      "pinyin": "zhēn zhēn",
+      "meaning": "树叶长得茂盛的样子。"
+    }
+  ],
+  "translation": "桃树长得生机勃勃，满树桃花开得鲜亮明艳。这位姑娘就要出嫁，一定会让家庭和和美美。桃树长得生机勃勃，枝叶茂盛，绿意满满。这位姑娘就要出嫁，一定会让全家人幸福美满。",
+  "appreciation": "这是唱给新娘的祝福歌。诗人不直接夸姑娘，而是先看桃花：花开得艳，姑娘就美；枝叶长得旺，日子就会兴。先说桃花，再引出祝福，这种开头方法就叫“兴”。一句“宜其室家”，把全家人对新媳妇的喜欢都装了进去。桃花、新娘、新家画在一起，又热闹，又温暖。",
+  "background": "《桃夭》出自《诗经·周南》，是先秦时期婚嫁时唱的祝福歌。歌里用桃花比喻新娘，用果实和枝叶祝愿新家。大约在公元前1000年前后，这样的歌已经传唱在黄河两岸，姑娘出嫁那天，大家就这样热热闹闹地送她。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "桃花开了",
+      "text": "春天到了，满树桃花开得又亮又艳，像烧起来的朝霞。"
+    },
+    {
+      "step": 2,
+      "title": "姑娘要出嫁",
+      "text": "村里传来喜讯：一位姑娘今天就要出嫁，去往新的家。"
+    },
+    {
+      "step": 3,
+      "title": "唱起祝福歌",
+      "text": "大家唱起歌：美丽的姑娘呀，愿你把日子过得红红火火。"
+    },
+    {
+      "step": 4,
+      "title": "绿叶满枝头",
+      "text": "桃枝上绿叶越长越旺，就像新家的日子越过越兴旺。"
+    }
+  ],
+  "pinyinNotes": [],
+  "sources": [
+    "《诗经·周南·桃夭》",
+    "程俊英《诗经译注》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-24",
+  "images": {
+    "cover": {
+      "src": "/assets/img/poems/taoyao-cover.jpg",
+      "width": 2240,
+      "height": 1680,
+      "alt": "《桃夭》场景插画",
+      "credit": "AI 辅助生成 · up999.cn",
+      "aiGenerated": true
+    }
+  }
+}

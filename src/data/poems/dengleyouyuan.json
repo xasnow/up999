@@ -9,7 +9,12 @@
   "form": "五言绝句",
   "authorId": "lishangyin",
   "gradeBand": "ext",
-  "tags": ["黄昏", "夕阳", "感慨", "五言绝句"],
+  "tags": [
+    "黄昏",
+    "夕阳",
+    "感慨",
+    "五言绝句"
+  ],
   "difficulty": 3,
   "writtenYear": 844,
   "writtenLabel": "约公元 844 年（李商隐 32 岁）",
@@ -20,25 +25,55 @@
   "lines": [
     {
       "text": "向晚意不适，",
-      "pinyin": ["xiàng", "wǎn", "yì", "bú", "shì"],
+      "pinyin": [
+        "xiàng",
+        "wǎn",
+        "yì",
+        "bú",
+        "shì"
+      ],
       "translation": "傍晚的时候，我心里不太痛快，",
-      "noteIds": ["n-xiangwan", "n-yibushi"]
+      "noteIds": [
+        "n-xiangwan",
+        "n-yibushi"
+      ]
     },
     {
       "text": "驱车登古原。",
-      "pinyin": ["qū", "chē", "dēng", "gǔ", "yuán"],
+      "pinyin": [
+        "qū",
+        "chē",
+        "dēng",
+        "gǔ",
+        "yuán"
+      ],
       "translation": "就赶着车登上古老的乐游原。",
-      "noteIds": ["n-qu", "n-guyuan"]
+      "noteIds": [
+        "n-qu",
+        "n-guyuan"
+      ]
     },
     {
       "text": "夕阳无限好，",
-      "pinyin": ["xī", "yáng", "wú", "xiàn", "hǎo"],
+      "pinyin": [
+        "xī",
+        "yáng",
+        "wú",
+        "xiàn",
+        "hǎo"
+      ],
       "translation": "夕阳真是无限美好，",
       "noteIds": []
     },
     {
       "text": "只是近黄昏。",
-      "pinyin": ["zhǐ", "shì", "jìn", "huáng", "hūn"],
+      "pinyin": [
+        "zhǐ",
+        "shì",
+        "jìn",
+        "huáng",
+        "hūn"
+      ],
       "translation": "只可惜，已经快到黄昏了。",
       "noteIds": []
     }
@@ -100,5 +135,15 @@
     "《唐诗鉴赏辞典》（上海辞书出版社）"
   ],
   "status": "published",
-  "updatedAt": "2026-11-24"
+  "updatedAt": "2026-11-24",
+  "images": {
+    "cover": {
+      "src": "/assets/img/poems/dengleyouyuan-cover.jpg",
+      "width": 2240,
+      "height": 1680,
+      "alt": "《登乐游原》场景插画",
+      "credit": "AI 辅助生成 · up999.cn",
+      "aiGenerated": true
+    }
+  }
 }

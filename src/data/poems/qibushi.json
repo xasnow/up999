@@ -25,27 +25,57 @@
   "lines": [
     {
       "text": "煮豆燃豆萁，",
-      "pinyin": ["zhǔ", "dòu", "rán", "dòu", "qí"],
+      "pinyin": [
+        "zhǔ",
+        "dòu",
+        "rán",
+        "dòu",
+        "qí"
+      ],
       "translation": "煮豆子时烧着豆秸，",
-      "noteIds": ["n-qi"]
+      "noteIds": [
+        "n-qi"
+      ]
     },
     {
       "text": "豆在釜中泣。",
-      "pinyin": ["dòu", "zài", "fǔ", "zhōng", "qì"],
+      "pinyin": [
+        "dòu",
+        "zài",
+        "fǔ",
+        "zhōng",
+        "qì"
+      ],
       "translation": "豆子在锅里小声哭泣。",
-      "noteIds": ["n-fu"]
+      "noteIds": [
+        "n-fu"
+      ]
     },
     {
       "text": "本是同根生，",
-      "pinyin": ["běn", "shì", "tóng", "gēn", "shēng"],
+      "pinyin": [
+        "běn",
+        "shì",
+        "tóng",
+        "gēn",
+        "shēng"
+      ],
       "translation": "我们本来是同一条根上长出来的，",
       "noteIds": []
     },
     {
       "text": "相煎何太急？",
-      "pinyin": ["xiāng", "jiān", "hé", "tài", "jí"],
+      "pinyin": [
+        "xiāng",
+        "jiān",
+        "hé",
+        "tài",
+        "jí"
+      ],
       "translation": "何必这样急着煎熬我呢？",
-      "noteIds": ["n-jian"]
+      "noteIds": [
+        "n-jian"
+      ]
     }
   ],
   "notes": [
@@ -99,5 +129,15 @@
     "《曹子建集》"
   ],
   "status": "published",
-  "updatedAt": "2026-11-24"
+  "updatedAt": "2026-11-24",
+  "images": {
+    "cover": {
+      "src": "/assets/img/poems/qibushi-cover.jpg",
+      "width": 2240,
+      "height": 1680,
+      "alt": "《七步诗》场景插画",
+      "credit": "AI 辅助生成 · up999.cn",
+      "aiGenerated": true
+    }
+  }
 }

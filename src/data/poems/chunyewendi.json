@@ -9,7 +9,12 @@
   "form": "七言绝句",
   "authorId": "libai",
   "gradeBand": "ext",
-  "tags": ["思乡", "音乐", "夜晚", "七言绝句"],
+  "tags": [
+    "思乡",
+    "音乐",
+    "夜晚",
+    "七言绝句"
+  ],
   "difficulty": 3,
   "writtenYear": 735,
   "writtenLabel": "约公元 735 年（李白 35 岁）",
@@ -20,27 +25,67 @@
   "lines": [
     {
       "text": "谁家玉笛暗飞声，",
-      "pinyin": ["shuí", "jiā", "yù", "dí", "àn", "fēi", "shēng"],
+      "pinyin": [
+        "shuí",
+        "jiā",
+        "yù",
+        "dí",
+        "àn",
+        "fēi",
+        "shēng"
+      ],
       "translation": "是谁家悄悄飞出了笛声？",
-      "noteIds": ["n-an"]
+      "noteIds": [
+        "n-an"
+      ]
     },
     {
       "text": "散入春风满洛城。",
-      "pinyin": ["sàn", "rù", "chūn", "fēng", "mǎn", "luò", "chéng"],
+      "pinyin": [
+        "sàn",
+        "rù",
+        "chūn",
+        "fēng",
+        "mǎn",
+        "luò",
+        "chéng"
+      ],
       "translation": "笛声跟着春风，飘满了洛阳城。",
-      "noteIds": ["n-san"]
+      "noteIds": [
+        "n-san"
+      ]
     },
     {
       "text": "此夜曲中闻折柳，",
-      "pinyin": ["cǐ", "yè", "qǔ", "zhōng", "wén", "zhé", "liǔ"],
+      "pinyin": [
+        "cǐ",
+        "yè",
+        "qǔ",
+        "zhōng",
+        "wén",
+        "zhé",
+        "liǔ"
+      ],
       "translation": "今晚的曲子里，听到了《折杨柳》，",
-      "noteIds": ["n-zheliu"]
+      "noteIds": [
+        "n-zheliu"
+      ]
     },
     {
       "text": "何人不起故园情。",
-      "pinyin": ["hé", "rén", "bù", "qǐ", "gù", "yuán", "qíng"],
+      "pinyin": [
+        "hé",
+        "rén",
+        "bù",
+        "qǐ",
+        "gù",
+        "yuán",
+        "qíng"
+      ],
       "translation": "哪个游子不想起自己的家乡呢？",
-      "noteIds": ["n-guyuan"]
+      "noteIds": [
+        "n-guyuan"
+      ]
     }
   ],
   "notes": [
@@ -100,5 +145,15 @@
     "《唐诗鉴赏辞典》（上海辞书出版社）"
   ],
   "status": "published",
-  "updatedAt": "2026-11-24"
+  "updatedAt": "2026-11-24",
+  "images": {
+    "cover": {
+      "src": "/assets/img/poems/chunyewendi-cover.jpg",
+      "width": 2240,
+      "height": 1680,
+      "alt": "《春夜洛城闻笛》场景插画",
+      "credit": "AI 辅助生成 · up999.cn",
+      "aiGenerated": true
+    }
+  }
 }

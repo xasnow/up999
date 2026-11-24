@@ -693,8 +693,8 @@ h1, h2, h3, h4 {
   overflow: hidden;
   box-shadow: var(--shadow);
   margin: 16px auto 0;
-  /* A5 横放观感：约 400px 宽 → 放大到 660px 充分利用原图 */
-  max-width: 660px;
+  /* 通栏全宽：撑满正文列（880px），充分利用原图 */
+  max-width: 100%;
   background: linear-gradient(140deg, #274156, #3a5568);
   color: var(--moon);
   display: flex;

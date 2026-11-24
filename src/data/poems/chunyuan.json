@@ -1,0 +1,147 @@
+{
+  "id": "tang-shengtang-jinchangxu-chunyuan",
+  "slug": "chunyuan",
+  "title": "春怨",
+  "titlePinyin": "chūn yuàn",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "五言绝句",
+  "authorId": "jinchangxu",
+  "gradeBand": "ext",
+  "textbook": "课外拓展篇目",
+  "tags": [
+    "思念",
+    "盼团圆",
+    "守边",
+    "春天"
+  ],
+  "difficulty": 3,
+  "writtenYear": 730,
+  "writtenLabel": "约公元 730 年前后（作者生平不详）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "啼时惊妾梦，不得到辽西。"
+  ],
+  "lines": [
+    {
+      "text": "打起黄莺儿，",
+      "pinyin": [
+        "dǎ",
+        "qǐ",
+        "huáng",
+        "yīng",
+        "ér"
+      ],
+      "translation": "快把枝头的黄莺赶走吧，",
+      "noteIds": []
+    },
+    {
+      "text": "莫教枝上啼。",
+      "pinyin": [
+        "mò",
+        "jiào",
+        "zhī",
+        "shàng",
+        "tí"
+      ],
+      "translation": "不要让它在树上啼叫。",
+      "noteIds": [
+        "n-jiao"
+      ]
+    },
+    {
+      "text": "啼时惊妾梦，",
+      "pinyin": [
+        "tí",
+        "shí",
+        "jīng",
+        "qiè",
+        "mèng"
+      ],
+      "translation": "它的叫声会惊醒我的好梦，",
+      "noteIds": [
+        "n-qie"
+      ]
+    },
+    {
+      "text": "不得到辽西。",
+      "pinyin": [
+        "bù",
+        "dé",
+        "dào",
+        "liáo",
+        "xī"
+      ],
+      "translation": "让我在梦里到不了辽西。",
+      "noteIds": [
+        "n-liaoxi"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-jiao",
+      "word": "教",
+      "pinyin": "jiào",
+      "meaning": "让、使。莫教，就是不要让它。"
+    },
+    {
+      "id": "n-qie",
+      "word": "妾",
+      "pinyin": "qiè",
+      "meaning": "古代女子对自己谦虚的称呼，意思就是“我”。"
+    },
+    {
+      "id": "n-liaoxi",
+      "word": "辽西",
+      "pinyin": "liáo xī",
+      "meaning": "唐朝的边防要地，在今辽宁一带，许多将士在那里守边。"
+    }
+  ],
+  "translation": "快把枝头的黄莺赶走吧，不要让它在树上啼叫。它的叫声会惊醒我的好梦——梦里，我正去辽西看望思念的人呢。",
+  "appreciation": "这首诗像一个小谜语。黄莺的叫声那么好听，为什么要把它们赶走？读到第三句才知道：好梦被惊醒了，梦里的人去不了辽西。四句话一句一个弯，弯到最后才给出答案。思念太深，才会连鸟儿的歌声都“讨厌”。这首小诗，把想念写活了。",
+  "background": "唐朝时，许多男子远赴辽西守边，一去就是好几年。家里人天天想念他们，只能在梦里见面。诗人金昌绪住在江南余杭，听说了这样的故事，写下这首《春怨》，替守边将士的家人说出了心里话。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "赶走黄莺",
+      "text": "春天的清晨，一位女子拿起竹竿，赶打枝头的黄莺。"
+    },
+    {
+      "step": 2,
+      "title": "别在这里叫",
+      "text": "她轻声说：别在树上啼叫了，吵得人睡不安稳。"
+    },
+    {
+      "step": 3,
+      "title": "梦被打断",
+      "text": "原来黄莺的叫声，惊醒了她甜甜的梦。"
+    },
+    {
+      "step": 4,
+      "title": "梦见辽西",
+      "text": "梦里她正去辽西，看望守边多年没回家的亲人。她盼着团圆的日子早点到来。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "教",
+      "reading": "jiào",
+      "reason": "“莫教”是不要让它，读 jiào。",
+      "standard": "不要读成 jiāo"
+    },
+    {
+      "char": "妾",
+      "reading": "qiè",
+      "reason": "“妾”是古代女子的自称，读 qiè。",
+      "standard": "不要读成 qiē"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗鉴赏辞典》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-24"
+}

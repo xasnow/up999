@@ -1,0 +1,104 @@
+{
+  "id": "tang-shengtang-menghaoran-sujiandejiang",
+  "slug": "sujiandejiang",
+  "title": "宿建德江",
+  "titlePinyin": "sù jiàn dé jiāng",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "五言绝句",
+  "authorId": "menghaoran",
+  "gradeBand": "ext",
+  "tags": ["秋天", "思乡", "江景", "五言绝句"],
+  "difficulty": 3,
+  "writtenYear": 730,
+  "writtenLabel": "约公元 730 年（孟浩然 42 岁）",
+  "orderInAuthor": 2,
+  "famousLines": [
+    "野旷天低树，江清月近人。"
+  ],
+  "lines": [
+    {
+      "text": "移舟泊烟渚，",
+      "pinyin": ["yí", "zhōu", "bó", "yān", "zhǔ"],
+      "translation": "小船慢慢划过去，停在烟雾蒙蒙的小洲边。",
+      "noteIds": ["n-bo", "n-zhu"]
+    },
+    {
+      "text": "日暮客愁新。",
+      "pinyin": ["rì", "mù", "kè", "chóu", "xīn"],
+      "translation": "天黑了，漂泊在外的愁绪又涌上心头。",
+      "noteIds": ["n-kechou"]
+    },
+    {
+      "text": "野旷天低树，",
+      "pinyin": ["yě", "kuàng", "tiān", "dī", "shù"],
+      "translation": "原野空旷，远远看去，天好像比树还低。",
+      "noteIds": ["n-kuang"]
+    },
+    {
+      "text": "江清月近人。",
+      "pinyin": ["jiāng", "qīng", "yuè", "jìn", "rén"],
+      "translation": "江水清清，水里的月亮离人好像很近。",
+      "noteIds": []
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-bo",
+      "word": "泊",
+      "pinyin": "bó",
+      "meaning": "停船靠岸。"
+    },
+    {
+      "id": "n-zhu",
+      "word": "渚",
+      "pinyin": "zhǔ",
+      "meaning": "水中的小块陆地，也就是小洲。"
+    },
+    {
+      "id": "n-kechou",
+      "word": "客愁",
+      "pinyin": "kè chóu",
+      "meaning": "客，漂泊在外的人；愁，心里的忧愁。"
+    },
+    {
+      "id": "n-kuang",
+      "word": "旷",
+      "pinyin": "kuàng",
+      "meaning": "空旷，开阔。"
+    }
+  ],
+  "translation": "小船停在烟雾蒙蒙的小洲边。天黑了，漂泊的愁绪又添了一层。原野空旷，天好像比树还低。江水清澈，月亮和人那么亲近。",
+  "appreciation": "这首诗最妙的是后两句。原野空旷，天空好像比树还低。江水清清，月亮仿佛和人更近。一个“低”、一个“近”，写出了船头看景的真实感觉。小小的月亮，成了愁夜里唯一的朋友。",
+  "background": "公元 730 年，孟浩然坐船出门旅行。傍晚时，船停在烟雾笼罩的小洲边。天色暗了，漂泊在外的愁绪涌上心头，他写下此诗。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "天黑靠船",
+      "text": "孟浩然坐着小船旅行，天快黑了，把船停进烟雾里。"
+    },
+    {
+      "step": 2,
+      "title": "新的愁绪",
+      "text": "太阳落山，四周一片安静，漂泊在外的孤单涌上心头。"
+    },
+    {
+      "step": 3,
+      "title": "低低的天",
+      "text": "他抬头远看，原野空空荡荡，天好像比树还低。"
+    },
+    {
+      "step": 4,
+      "title": "月亮作伴",
+      "text": "低头看江水，一轮月亮映在水里，好像正陪着他。"
+    }
+  ],
+  "pinyinNotes": [],
+  "sources": [
+    "《孟浩然集》",
+    "《唐诗鉴赏辞典》（上海辞书出版社）"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-24"
+}

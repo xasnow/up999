@@ -1,0 +1,104 @@
+{
+  "id": "tang-shengtang-libai-chunyewendi",
+  "slug": "chunyewendi",
+  "title": "春夜洛城闻笛",
+  "titlePinyin": "chūn yè luò chéng wén dí",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "七言绝句",
+  "authorId": "libai",
+  "gradeBand": "ext",
+  "tags": ["思乡", "音乐", "夜晚", "七言绝句"],
+  "difficulty": 3,
+  "writtenYear": 735,
+  "writtenLabel": "约公元 735 年（李白 35 岁）",
+  "orderInAuthor": 10,
+  "famousLines": [
+    "此夜曲中闻折柳，何人不起故园情。"
+  ],
+  "lines": [
+    {
+      "text": "谁家玉笛暗飞声，",
+      "pinyin": ["shuí", "jiā", "yù", "dí", "àn", "fēi", "shēng"],
+      "translation": "是谁家悄悄飞出了笛声？",
+      "noteIds": ["n-an"]
+    },
+    {
+      "text": "散入春风满洛城。",
+      "pinyin": ["sàn", "rù", "chūn", "fēng", "mǎn", "luò", "chéng"],
+      "translation": "笛声跟着春风，飘满了洛阳城。",
+      "noteIds": ["n-san"]
+    },
+    {
+      "text": "此夜曲中闻折柳，",
+      "pinyin": ["cǐ", "yè", "qǔ", "zhōng", "wén", "zhé", "liǔ"],
+      "translation": "今晚的曲子里，听到了《折杨柳》，",
+      "noteIds": ["n-zheliu"]
+    },
+    {
+      "text": "何人不起故园情。",
+      "pinyin": ["hé", "rén", "bù", "qǐ", "gù", "yuán", "qíng"],
+      "translation": "哪个游子不想起自己的家乡呢？",
+      "noteIds": ["n-guyuan"]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-an",
+      "word": "暗",
+      "pinyin": "àn",
+      "meaning": "悄悄地，不声不响地。"
+    },
+    {
+      "id": "n-san",
+      "word": "散",
+      "pinyin": "sàn",
+      "meaning": "飘散，散开。这里读 sàn。"
+    },
+    {
+      "id": "n-zheliu",
+      "word": "折柳",
+      "pinyin": "zhé liǔ",
+      "meaning": "即《折杨柳》曲。古人分别时折柳相送，这曲子让人想家。"
+    },
+    {
+      "id": "n-guyuan",
+      "word": "故园",
+      "pinyin": "gù yuán",
+      "meaning": "故乡，家乡。"
+    }
+  ],
+  "translation": "是谁家的玉笛，悄悄飞出声音？它随着春风，飘满了洛阳城。今晚的曲子里听到《折杨柳》，谁不想起自己的家乡呢？",
+  "appreciation": "一句“暗飞声”，写出笛声悄悄飘来的样子。一个“满”字，让春风和乐声充满了全城。听到让人想家的曲子，游子的心一下子软了。李白告诉我们：音乐最能唤起思念。",
+  "background": "公元 735 年，李白客居在洛阳。春夜里，不知谁家吹起了笛子。笛声随风飘满全城，他听到了《折杨柳》。曲子让人想家，他提笔写下了这首诗。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "夜里闻笛",
+      "text": "洛阳的春夜，李白忽然听到一阵细细的笛声。"
+    },
+    {
+      "step": 2,
+      "title": "随风飘散",
+      "text": "笛声顺着春风飘开，飞进了城里的家家户户。"
+    },
+    {
+      "step": 3,
+      "title": "曲是折柳",
+      "text": "他听出那是《折杨柳》，这是一支让人想家的曲子。"
+    },
+    {
+      "step": 4,
+      "title": "想起故乡",
+      "text": "听着听着，李白和所有游子一样，想起了远方的家。"
+    }
+  ],
+  "pinyinNotes": [],
+  "sources": [
+    "《李白全集编年注释》",
+    "《唐诗鉴赏辞典》（上海辞书出版社）"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-24"
+}

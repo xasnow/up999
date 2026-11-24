@@ -1,0 +1,182 @@
+{
+  "id": "tang-zhongtang-zhangzhihe-yugezi",
+  "slug": "yugezi",
+  "title": "渔歌子",
+  "titlePinyin": "yú gē zǐ",
+  "dynasty": "tangshi",
+  "era": "zhongtang",
+  "genre": "ci",
+  "form": "词（小令）",
+  "authorId": "zhangzhihe",
+  "gradeBand": "ext",
+  "textbook": "课外拓展篇目",
+  "tags": [
+    "渔翁",
+    "山水",
+    "春景",
+    "词"
+  ],
+  "difficulty": 3,
+  "writtenYear": 772,
+  "writtenLabel": "约公元 772 年（张志和 41 岁，隐居湖州时所作）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "青箬笠，绿蓑衣，斜风细雨不须归。"
+  ],
+  "lines": [
+    {
+      "text": "西塞山前白鹭飞，",
+      "pinyin": [
+        "xī",
+        "sài",
+        "shān",
+        "qián",
+        "bái",
+        "lù",
+        "fēi"
+      ],
+      "translation": "西塞山前，白鹭自由自在地飞，",
+      "noteIds": [
+        "n-saishan"
+      ]
+    },
+    {
+      "text": "桃花流水鳜鱼肥。",
+      "pinyin": [
+        "táo",
+        "huā",
+        "liú",
+        "shuǐ",
+        "guì",
+        "yú",
+        "féi"
+      ],
+      "translation": "桃花映着流水，水里的鳜鱼又肥又壮。",
+      "noteIds": [
+        "n-gui"
+      ]
+    },
+    {
+      "text": "青箬笠，",
+      "pinyin": [
+        "qīng",
+        "ruò",
+        "lì"
+      ],
+      "translation": "渔翁头戴青斗笠，",
+      "noteIds": [
+        "n-ruoli"
+      ]
+    },
+    {
+      "text": "绿蓑衣，",
+      "pinyin": [
+        "lǜ",
+        "suō",
+        "yī"
+      ],
+      "translation": "身披绿蓑衣，",
+      "noteIds": [
+        "n-suoyi"
+      ]
+    },
+    {
+      "text": "斜风细雨不须归。",
+      "pinyin": [
+        "xié",
+        "fēng",
+        "xì",
+        "yǔ",
+        "bù",
+        "xū",
+        "guī"
+      ],
+      "translation": "斜风夹着细雨，他钓得正欢，连回家都顾不上了。",
+      "noteIds": [
+        "n-buxu"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-saishan",
+      "word": "西塞山",
+      "pinyin": "xī sài shān",
+      "meaning": "湖州西面的一座山，山前溪水清清，风景很美。"
+    },
+    {
+      "id": "n-gui",
+      "word": "鳜鱼",
+      "pinyin": "guì yú",
+      "meaning": "一种味道鲜美的淡水鱼，身上带着花纹。"
+    },
+    {
+      "id": "n-ruoli",
+      "word": "箬笠",
+      "pinyin": "ruò lì",
+      "meaning": "用竹叶和竹篾编成的斗笠，下雨时戴在头上。"
+    },
+    {
+      "id": "n-suoyi",
+      "word": "蓑衣",
+      "pinyin": "suō yī",
+      "meaning": "用草或棕毛编成的雨衣，披在身上挡雨。"
+    },
+    {
+      "id": "n-buxu",
+      "word": "不须",
+      "pinyin": "bù xū",
+      "meaning": "不需要、不用。"
+    }
+  ],
+  "translation": "西塞山前，白鹭自由自在地飞。桃花映着流水，水里的鳜鱼又肥又壮。渔翁头戴青斗笠，身披绿蓑衣。斜风夹着细雨，他钓鱼钓得正欢，连回家都顾不上了。",
+  "appreciation": "山、白鹭、桃花、流水、鳜鱼，几个词一摆，一幅江南春钓图就画好了。最妙的是渔翁：斜风细雨也不能把他赶回家，因为他正看得入迷、钓得开心。这份自在，正是张志和辞官后的日子。读着读着，好像细雨也变得又轻又软了。",
+  "background": "约公元 772 年，张志和辞官后隐居在湖州一带。他自称烟波钓徒，常常驾着小船钓鱼。这一年春天，他和朋友们一起游山玩水，即兴唱出《渔歌子》，把眼前的山水唱成了一首词。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "山前春色",
+      "text": "西塞山前，白鹭张开翅膀，在蓝天上慢慢飞。"
+    },
+    {
+      "step": 2,
+      "title": "桃花流水",
+      "text": "桃花瓣飘进溪水，水里的鳜鱼游来游去，长得又肥又壮。"
+    },
+    {
+      "step": 3,
+      "title": "披蓑戴笠",
+      "text": "渔翁戴上青斗笠、披上绿蓑衣，坐在小船上钓鱼。"
+    },
+    {
+      "step": 4,
+      "title": "不想回家",
+      "text": "斜风细雨轻轻吹来，他钓得正开心，笑着说：这样的天气，回家做什么呢？"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "鳜",
+      "reading": "guì",
+      "reason": "“鳜鱼”是一种鱼的名字，读 guì。",
+      "standard": "不要读成 jué"
+    },
+    {
+      "char": "箬笠",
+      "reading": "ruò lì",
+      "reason": "“箬笠”是竹叶编的帽子，读 ruò lì。"
+    },
+    {
+      "char": "蓑",
+      "reading": "suō",
+      "reason": "“蓑衣”是草编的雨衣，读 suō。",
+      "standard": "不要读成 shuāi"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗鉴赏辞典》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-24"
+}

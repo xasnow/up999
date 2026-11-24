@@ -1,0 +1,104 @@
+{
+  "id": "tang-wantang-lishangyin-dengleyouyuan",
+  "slug": "dengleyouyuan",
+  "title": "登乐游原",
+  "titlePinyin": "dēng lè yóu yuán",
+  "dynasty": "tangshi",
+  "era": "wantang",
+  "genre": "shi",
+  "form": "五言绝句",
+  "authorId": "lishangyin",
+  "gradeBand": "ext",
+  "tags": ["黄昏", "夕阳", "感慨", "五言绝句"],
+  "difficulty": 3,
+  "writtenYear": 844,
+  "writtenLabel": "约公元 844 年（李商隐 32 岁）",
+  "orderInAuthor": 3,
+  "famousLines": [
+    "夕阳无限好，只是近黄昏。"
+  ],
+  "lines": [
+    {
+      "text": "向晚意不适，",
+      "pinyin": ["xiàng", "wǎn", "yì", "bú", "shì"],
+      "translation": "傍晚的时候，我心里不太痛快，",
+      "noteIds": ["n-xiangwan", "n-yibushi"]
+    },
+    {
+      "text": "驱车登古原。",
+      "pinyin": ["qū", "chē", "dēng", "gǔ", "yuán"],
+      "translation": "就赶着车登上古老的乐游原。",
+      "noteIds": ["n-qu", "n-guyuan"]
+    },
+    {
+      "text": "夕阳无限好，",
+      "pinyin": ["xī", "yáng", "wú", "xiàn", "hǎo"],
+      "translation": "夕阳真是无限美好，",
+      "noteIds": []
+    },
+    {
+      "text": "只是近黄昏。",
+      "pinyin": ["zhǐ", "shì", "jìn", "huáng", "hūn"],
+      "translation": "只可惜，已经快到黄昏了。",
+      "noteIds": []
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-xiangwan",
+      "word": "向晚",
+      "pinyin": "xiàng wǎn",
+      "meaning": "天快黑的时候。"
+    },
+    {
+      "id": "n-yibushi",
+      "word": "意不适",
+      "pinyin": "yì bú shì",
+      "meaning": "心里不痛快，不舒服。"
+    },
+    {
+      "id": "n-qu",
+      "word": "驱车",
+      "pinyin": "qū chē",
+      "meaning": "赶车，驾车。"
+    },
+    {
+      "id": "n-guyuan",
+      "word": "古原",
+      "pinyin": "gǔ yuán",
+      "meaning": "乐游原，长安城南的高地，是看风景的好地方。"
+    }
+  ],
+  "translation": "傍晚心里不舒服，赶着车登上古原。夕阳无限美好，只可惜接近黄昏了。",
+  "appreciation": "“夕阳无限好”，把最美的景色说到了极点。紧接着“只是近黄昏”，美好里带上了叹气。五言绝句这么短，却让人回味很久。它也提醒我们：美景珍贵，要好好珍惜。",
+  "background": "公元 844 年，李商隐心情烦闷。傍晚，他赶着车登上乐游原散心。看到将落的夕阳，他写下这首小诗。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "傍晚心闷",
+      "text": "这天傍晚，李商隐心里不太痛快。"
+    },
+    {
+      "step": 2,
+      "title": "驾车登原",
+      "text": "他想散散心，赶着车登上高高的乐游原。"
+    },
+    {
+      "step": 3,
+      "title": "夕阳极美",
+      "text": "原顶望出去，夕阳又大又红，好看极了。"
+    },
+    {
+      "step": 4,
+      "title": "近了黄昏",
+      "text": "可他轻轻叹气：这么美，可惜天快黑了。"
+    }
+  ],
+  "pinyinNotes": [],
+  "sources": [
+    "《李商隐诗歌集解》（中华书局）",
+    "《唐诗鉴赏辞典》（上海辞书出版社）"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-24"
+}

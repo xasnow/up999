@@ -1,0 +1,157 @@
+{
+  "id": "songci-nansong-leizhen-cunwan",
+  "slug": "cunwan",
+  "title": "村晚",
+  "titlePinyin": "cūn wǎn",
+  "dynasty": "songci",
+  "era": "nansong",
+  "genre": "shi",
+  "form": "七言绝句",
+  "authorId": "leizhen",
+  "gradeBand": "ext",
+  "textbook": "部编版语文五年级下册",
+  "tags": [
+    "乡村",
+    "傍晚",
+    "牧童",
+    "七言绝句"
+  ],
+  "difficulty": 3,
+  "writtenYear": 1195,
+  "writtenLabel": "约公元 1195 年",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "牧童归去横牛背，短笛无腔信口吹。"
+  ],
+  "lines": [
+    {
+      "text": "草满池塘水满陂，",
+      "pinyin": [
+        "cǎo",
+        "mǎn",
+        "chí",
+        "táng",
+        "shuǐ",
+        "mǎn",
+        "bēi"
+      ],
+      "translation": "池塘边长满了草，水涨得快到岸了，",
+      "noteIds": [
+        "n-bei"
+      ]
+    },
+    {
+      "text": "山衔落日浸寒漪。",
+      "pinyin": [
+        "shān",
+        "xián",
+        "luò",
+        "rì",
+        "jìn",
+        "hán",
+        "yī"
+      ],
+      "translation": "远山衔着落日，倒影浸在凉凉的水波里。",
+      "noteIds": [
+        "n-xian",
+        "n-yi"
+      ]
+    },
+    {
+      "text": "牧童归去横牛背，",
+      "pinyin": [
+        "mù",
+        "tóng",
+        "guī",
+        "qù",
+        "héng",
+        "niú",
+        "bèi"
+      ],
+      "translation": "牧童回家时，横坐在牛背上，",
+      "noteIds": [
+        "n-heng"
+      ]
+    },
+    {
+      "text": "短笛无腔信口吹。",
+      "pinyin": [
+        "duǎn",
+        "dí",
+        "wú",
+        "qiāng",
+        "xìn",
+        "kǒu",
+        "chuī"
+      ],
+      "translation": "拿着短笛，随口吹着自己编的调子。",
+      "noteIds": [
+        "n-xinkou"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-bei",
+      "word": "陂",
+      "pinyin": "bēi",
+      "meaning": "池塘的岸。水满陂，水涨得快齐岸了。"
+    },
+    {
+      "id": "n-xian",
+      "word": "衔",
+      "pinyin": "xián",
+      "meaning": "用嘴含着。远山像嘴一样，把落日“含”住了。"
+    },
+    {
+      "id": "n-yi",
+      "word": "漪",
+      "pinyin": "yī",
+      "meaning": "水面的波纹。"
+    },
+    {
+      "id": "n-heng",
+      "word": "横",
+      "pinyin": "héng",
+      "meaning": "横着坐。牧童不用手扶，随意横坐在牛背上。"
+    },
+    {
+      "id": "n-xinkou",
+      "word": "信口",
+      "pinyin": "xìn kǒu",
+      "meaning": "随口、随意。笛子曲调是自己随手编的。"
+    }
+  ],
+  "translation": "池塘边长满青草，水涨得快齐岸了；远山衔着落日，倒影浸在凉凉的水波里。牧童回家时横坐在牛背上，拿着短笛，随口吹着自己编的调子。",
+  "appreciation": "山会“衔”落日，多调皮的想象！牧童更自由：不坐正、不扶背，横躺在牛背上，曲子也是现编的。没有人教他怎么吹，他吹的就是回家的快乐。这首诗告诉我们：快乐有时候很简单，一头慢牛、一支短笛就够了。",
+  "background": "约公元 1195 年的一个傍晚，雷震路过村庄的池塘。青草、落日、水波都安安静静的，只有牧童横坐在牛背上，随口吹着笛子。这个自在的画面被他写进了诗里，也成了他流传下来的唯一一首诗。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "傍晚的池塘",
+      "text": "傍晚，池塘边长满青草，水面涨得快齐着岸了。"
+    },
+    {
+      "step": 2,
+      "title": "山衔落日",
+      "text": "远山像嘴一样含着落日，倒影浸在凉凉的水波里。"
+    },
+    {
+      "step": 3,
+      "title": "横坐牛背",
+      "text": "放牛的孩子回家了，不扶不坐正，横躺在牛背上。"
+    },
+    {
+      "step": 4,
+      "title": "随口吹笛",
+      "text": "他掏出短笛，随口吹起自己编的调子，一路吹回家。"
+    }
+  ],
+  "pinyinNotes": [],
+  "sources": [
+    "部编版语文五年级下册",
+    "《宋诗纪事》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-24"
+}

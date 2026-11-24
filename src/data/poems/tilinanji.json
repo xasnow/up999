@@ -1,0 +1,156 @@
+{
+  "id": "songci-nansong-linsheng-tilinanji",
+  "slug": "tilinanji",
+  "title": "题临安邸",
+  "titlePinyin": "tí lín ān dǐ",
+  "dynasty": "songci",
+  "era": "nansong",
+  "genre": "shi",
+  "form": "七言绝句",
+  "authorId": "linsheng",
+  "gradeBand": "ext",
+  "textbook": "部编版语文五年级上册",
+  "tags": [
+    "杭州",
+    "提醒",
+    "题壁诗",
+    "七言绝句"
+  ],
+  "difficulty": 3,
+  "writtenYear": 1190,
+  "writtenLabel": "约公元 1190 年",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "山外青山楼外楼，西湖歌舞几时休？"
+  ],
+  "lines": [
+    {
+      "text": "山外青山楼外楼，",
+      "pinyin": [
+        "shān",
+        "wài",
+        "qīng",
+        "shān",
+        "lóu",
+        "wài",
+        "lóu"
+      ],
+      "translation": "青山外面还有青山，高楼外面还有高楼，",
+      "noteIds": []
+    },
+    {
+      "text": "西湖歌舞几时休？",
+      "pinyin": [
+        "xī",
+        "hú",
+        "gē",
+        "wǔ",
+        "jǐ",
+        "shí",
+        "xiū"
+      ],
+      "translation": "西湖边的歌舞，什么时候才停呢？",
+      "noteIds": [
+        "n-xiu"
+      ]
+    },
+    {
+      "text": "暖风熏得游人醉，",
+      "pinyin": [
+        "nuǎn",
+        "fēng",
+        "xūn",
+        "dé",
+        "yóu",
+        "rén",
+        "zuì"
+      ],
+      "translation": "暖暖的风把游人吹得晕晕乎乎，",
+      "noteIds": [
+        "n-xun",
+        "n-youren"
+      ]
+    },
+    {
+      "text": "直把杭州作汴州。",
+      "pinyin": [
+        "zhí",
+        "bǎ",
+        "háng",
+        "zhōu",
+        "zuò",
+        "biàn",
+        "zhōu"
+      ],
+      "translation": "简直把杭州当成了原来的都城汴州。",
+      "noteIds": [
+        "n-zhiba",
+        "n-bianzhou"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-xiu",
+      "word": "休",
+      "pinyin": "xiū",
+      "meaning": "停止，停下。"
+    },
+    {
+      "id": "n-xun",
+      "word": "熏",
+      "pinyin": "xūn",
+      "meaning": "吹拂、熏染。暖风把人吹得懒洋洋。"
+    },
+    {
+      "id": "n-youren",
+      "word": "游人",
+      "pinyin": "yóu rén",
+      "meaning": "诗里指只顾享乐的权贵们。"
+    },
+    {
+      "id": "n-zhiba",
+      "word": "直把",
+      "pinyin": "zhí bǎ",
+      "meaning": "简直把。"
+    },
+    {
+      "id": "n-bianzhou",
+      "word": "汴州",
+      "pinyin": "biàn zhōu",
+      "meaning": "北宋的都城，在今天的河南开封。"
+    }
+  ],
+  "translation": "青山外面还有青山，高楼外面还有高楼，西湖边的歌舞什么时候才停呢？暖暖的风把游人吹得晕晕乎乎，简直把杭州当成了原来的都城汴州。",
+  "appreciation": "前一句像画：青山一层层，高楼一座座，真热闹。后一句像问：歌舞什么时候才停？诗人不是不爱热闹，是怕大家热闹过头，忘了还有人在盼着团圆。一首写在旅店墙上的小诗，像一声轻轻的提醒，被一代代人记住了。",
+  "background": "约公元 1190 年，林升来到杭州，住在旅店里。他看到西湖边歌舞不断、宾客满座，想起北方还有百姓在盼望回家，就在旅店的墙上写下这首诗，给只顾享乐的人提个醒。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "旅店题诗",
+      "text": "林升来到杭州，住在西湖边的旅店里。"
+    },
+    {
+      "step": 2,
+      "title": "看见热闹",
+      "text": "窗外青山连青山、高楼连高楼，歌舞声一阵接一阵。"
+    },
+    {
+      "step": 3,
+      "title": "心里的疑问",
+      "text": "他心里嘀咕：这样的歌舞，到底什么时候才停呢？"
+    },
+    {
+      "step": 4,
+      "title": "轻轻的提醒",
+      "text": "他提起笔，在墙上写下这首诗，提醒大家别忘远方的盼望。"
+    }
+  ],
+  "pinyinNotes": [],
+  "sources": [
+    "部编版语文五年级上册",
+    "《宋诗纪事》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-24"
+}

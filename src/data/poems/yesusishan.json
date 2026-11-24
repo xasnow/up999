@@ -1,0 +1,104 @@
+{
+  "id": "tang-shengtang-libai-yesusishan",
+  "slug": "yesusishan",
+  "title": "夜宿山寺",
+  "titlePinyin": "yè sù shān sì",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "五言绝句",
+  "authorId": "libai",
+  "gradeBand": "ext",
+  "tags": ["夜晚", "想象", "山寺", "五言绝句"],
+  "difficulty": 3,
+  "writtenYear": 725,
+  "writtenLabel": "约公元 725 年（李白 25 岁）",
+  "orderInAuthor": 11,
+  "famousLines": [
+    "危楼高百尺，手可摘星辰。"
+  ],
+  "lines": [
+    {
+      "text": "危楼高百尺，",
+      "pinyin": ["wēi", "lóu", "gāo", "bǎi", "chǐ"],
+      "translation": "山上这座楼真高呀，好像有百尺高。",
+      "noteIds": ["n-weilou"]
+    },
+    {
+      "text": "手可摘星辰。",
+      "pinyin": ["shǒu", "kě", "zhāi", "xīng", "chén"],
+      "translation": "伸手好像就能摘到天上的星星。",
+      "noteIds": ["n-zhai", "n-xingchen"]
+    },
+    {
+      "text": "不敢高声语，",
+      "pinyin": ["bù", "gǎn", "gāo", "shēng", "yǔ"],
+      "translation": "我不敢大声说话，",
+      "noteIds": []
+    },
+    {
+      "text": "恐惊天上人。",
+      "pinyin": ["kǒng", "jīng", "tiān", "shàng", "rén"],
+      "translation": "怕吵醒了住在天上的仙人。",
+      "noteIds": ["n-kong"]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-weilou",
+      "word": "危楼",
+      "pinyin": "wēi lóu",
+      "meaning": "高高的楼。危，在这里是高的意思。"
+    },
+    {
+      "id": "n-zhai",
+      "word": "摘",
+      "pinyin": "zhāi",
+      "meaning": "伸手取下来。"
+    },
+    {
+      "id": "n-xingchen",
+      "word": "星辰",
+      "pinyin": "xīng chén",
+      "meaning": "星星的总称。"
+    },
+    {
+      "id": "n-kong",
+      "word": "恐",
+      "pinyin": "kǒng",
+      "meaning": "恐怕，担心。"
+    }
+  ],
+  "translation": "山顶的楼高得吓人，好像有一百尺。伸手就能摘到星星。我不敢大声说话，怕惊动天上的仙人。",
+  "appreciation": "楼有多高？诗人不说数字，只让你去摘星星。“手可摘星辰”，夸张得可爱又自然。不敢大声说话，是怕惊动天上的仙人。大胆的想象，正是李白最迷人的地方。",
+  "background": "公元 725 年，年轻的李白在外游历。夜里，他借住在山顶的一座寺庙。寺里的楼很高，他登上楼顶写下此诗。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "夜宿山寺",
+      "text": "李白游山旅行，晚上住在山顶的一座寺庙里。"
+    },
+    {
+      "step": 2,
+      "title": "登上高楼",
+      "text": "寺里的楼特别高，他一步步登上顶层。"
+    },
+    {
+      "step": 3,
+      "title": "伸手摘星",
+      "text": "抬头一看，星星好像就在头顶，伸手就能摘到。"
+    },
+    {
+      "step": 4,
+      "title": "不敢出声",
+      "text": "他悄悄闭上嘴：可别大声说话，惊扰了天上的仙人。"
+    }
+  ],
+  "pinyinNotes": [],
+  "sources": [
+    "《李白全集编年注释》",
+    "《唐诗鉴赏辞典》（上海辞书出版社）"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-24"
+}

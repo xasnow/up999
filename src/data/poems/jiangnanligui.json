@@ -1,0 +1,110 @@
+{
+  "id": "tang-shengtang-dufu-jiangnanligui",
+  "slug": "jiangnanligui",
+  "title": "江南逢李龟年",
+  "titlePinyin": "jiāng nán féng lǐ guī nián",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "七言绝句",
+  "authorId": "dufu",
+  "gradeBand": "ext",
+  "tags": ["友情", "感慨", "重逢", "七言绝句"],
+  "difficulty": 4,
+  "writtenYear": 770,
+  "writtenLabel": "约公元 770 年（杜甫 59 岁）",
+  "orderInAuthor": 8,
+  "famousLines": [
+    "正是江南好风景，落花时节又逢君。"
+  ],
+  "lines": [
+    {
+      "text": "岐王宅里寻常见，",
+      "pinyin": ["qí", "wáng", "zhái", "lǐ", "xún", "cháng", "jiàn"],
+      "translation": "以前在岐王府里，常常见到你，",
+      "noteIds": ["n-qi", "n-xunchang"]
+    },
+    {
+      "text": "崔九堂前几度闻。",
+      "pinyin": ["cuī", "jiǔ", "táng", "qián", "jǐ", "dù", "wén"],
+      "translation": "在崔九家堂前，也多次听你唱歌。",
+      "noteIds": ["n-cuijiu", "n-jidu"]
+    },
+    {
+      "text": "正是江南好风景，",
+      "pinyin": ["zhèng", "shì", "jiāng", "nán", "hǎo", "fēng", "jǐng"],
+      "translation": "如今正是江南风景好的时节，",
+      "noteIds": []
+    },
+    {
+      "text": "落花时节又逢君。",
+      "pinyin": ["luò", "huā", "shí", "jié", "yòu", "féng", "jūn"],
+      "translation": "落花时节，没想到又遇见了你。",
+      "noteIds": ["n-luohua"]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-qi",
+      "word": "岐王",
+      "pinyin": "qí wáng",
+      "meaning": "唐玄宗的弟弟李范，喜欢结交文人乐师。"
+    },
+    {
+      "id": "n-xunchang",
+      "word": "寻常",
+      "pinyin": "xún cháng",
+      "meaning": "平常，经常。"
+    },
+    {
+      "id": "n-cuijiu",
+      "word": "崔九",
+      "pinyin": "cuī jiǔ",
+      "meaning": "唐玄宗身边的宠臣崔涤，常请乐师演奏。"
+    },
+    {
+      "id": "n-jidu",
+      "word": "几度",
+      "pinyin": "jǐ dù",
+      "meaning": "好几次。"
+    },
+    {
+      "id": "n-luohua",
+      "word": "落花时节",
+      "pinyin": "luò huā shí jié",
+      "meaning": "春末花落的时节，也暗指好日子过去了。"
+    }
+  ],
+  "translation": "当年在岐王府里常见到你，在崔九家堂前多次听你唱歌。如今正是江南风景好的时候，落花时节又遇见了你。",
+  "appreciation": "前两句回忆过去：在王宅、崔府常听你唱歌。后两句回到现在：落花时节，又见到了你。短短四句，装下了几十年的兴衰变化。重逢的喜悦里，藏着说不出的伤感。",
+  "background": "李龟年曾是宫里最红的歌唱家。公元 770 年，杜甫流落江南。两人在落花的春天重逢，都有了老来的感慨，杜甫写下此诗。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "当年的歌",
+      "text": "很多年前，李龟年是长安最红的歌手，杜甫常听他唱。"
+    },
+    {
+      "step": 2,
+      "title": "乱世漂泊",
+      "text": "后来战乱来了，两人各自逃难，好久没了消息。"
+    },
+    {
+      "step": 3,
+      "title": "江南重逢",
+      "text": "公元 770 年春天，他们在江南意外相遇。"
+    },
+    {
+      "step": 4,
+      "title": "落花时节",
+      "text": "正是落花的时节，老朋友相认，心中百感交集。"
+    }
+  ],
+  "pinyinNotes": [],
+  "sources": [
+    "《杜诗详注》（中华书局）",
+    "《唐诗鉴赏辞典》（上海辞书出版社）"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-24"
+}

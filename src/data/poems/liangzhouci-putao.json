@@ -1,0 +1,149 @@
+{
+  "id": "tang-shengtang-wanghan-liangzhouci-putao",
+  "slug": "liangzhouci-putao",
+  "title": "凉州词",
+  "titlePinyin": "liáng zhōu cí",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "七言绝句",
+  "authorId": "wanghan",
+  "gradeBand": "ext",
+  "textbook": "课外拓展篇目",
+  "tags": [
+    "边塞",
+    "将士",
+    "豪情",
+    "盼归"
+  ],
+  "difficulty": 3,
+  "writtenYear": 710,
+  "writtenLabel": "约公元 710 年（王翰 24 岁前后）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "葡萄美酒夜光杯，欲饮琵琶马上催。"
+  ],
+  "lines": [
+    {
+      "text": "葡萄美酒夜光杯，",
+      "pinyin": [
+        "pú",
+        "táo",
+        "měi",
+        "jiǔ",
+        "yè",
+        "guāng",
+        "bēi"
+      ],
+      "translation": "葡萄酿的美酒倒进夜光杯里，",
+      "noteIds": [
+        "n-yeguang"
+      ]
+    },
+    {
+      "text": "欲饮琵琶马上催，",
+      "pinyin": [
+        "yù",
+        "yǐn",
+        "pí",
+        "pá",
+        "mǎ",
+        "shàng",
+        "cuī"
+      ],
+      "translation": "正想举杯畅饮，马背上响起了琵琶声，",
+      "noteIds": [
+        "n-pipa"
+      ]
+    },
+    {
+      "text": "醉卧沙场君莫笑，",
+      "pinyin": [
+        "zuì",
+        "wò",
+        "shā",
+        "chǎng",
+        "jūn",
+        "mò",
+        "xiào"
+      ],
+      "translation": "将士们说：就算困了躺在沙场上歇一歇，也请不要笑话，",
+      "noteIds": [
+        "n-shachang"
+      ]
+    },
+    {
+      "text": "古来征战几人回？",
+      "pinyin": [
+        "gǔ",
+        "lái",
+        "zhēng",
+        "zhàn",
+        "jǐ",
+        "rén",
+        "huí"
+      ],
+      "translation": "自古以来出征守边的人，能有几个平平安安回家呢？",
+      "noteIds": []
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-yeguang",
+      "word": "夜光杯",
+      "pinyin": "yè guāng bēi",
+      "meaning": "用美玉做成的酒杯，传说在夜里会发光。"
+    },
+    {
+      "id": "n-pipa",
+      "word": "琵琶",
+      "pinyin": "pí pá",
+      "meaning": "一种弹拨乐器，从西域传到中原，边塞宴席上常有人弹奏。"
+    },
+    {
+      "id": "n-shachang",
+      "word": "沙场",
+      "pinyin": "shā chǎng",
+      "meaning": "平坦开阔的场地，这里指边塞驻军的营地。"
+    }
+  ],
+  "translation": "葡萄酿的美酒倒进夜光杯里。正想举杯畅饮，马背上响起了琵琶声，好像在催大家开怀畅饮。将士们笑着说：就算困了躺在沙场上歇一歇，也请不要笑话。自古以来出征守边的人，能有几个平平安安回家呢？",
+  "appreciation": "这首诗写边塞的一场宴席。美酒、琵琶，热闹得像过节。可最后一句轻轻一问，就让人心里一酸：出征的人，有多少能平安回家呢？将士们不是不知道，却还是笑着举杯。他们的豪情，正是最让人敬佩的地方。读这首诗，也请记得那些守边的人，和盼着团圆的家人。",
+  "background": "公元 710 年前后，王翰写下这首《凉州词》。凉州在西北边塞，将士们常年驻守在那里。宴席上乐声响起，有人想起遥远的家乡，可大家依然举杯畅饮，把心里的豪情和思念一起唱了出来。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "边塞宴席",
+      "text": "夜光杯里倒满葡萄美酒，边塞的宴席热热闹闹。"
+    },
+    {
+      "step": 2,
+      "title": "琵琶响起",
+      "text": "马背上弹起琵琶，乐声好像在催大家快快举杯。"
+    },
+    {
+      "step": 3,
+      "title": "开怀畅饮",
+      "text": "将士们大笑着说笑，困了就躺在沙场上歇一歇，没有人笑话谁。"
+    },
+    {
+      "step": 4,
+      "title": "盼望回家",
+      "text": "大家心里都明白：自古出征的人，回家的太难了。所有人都在盼着平安归乡的那一天。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "催",
+      "reading": "cuī",
+      "reason": "“马上催”是乐声催人举杯，读 cuī。",
+      "standard": "不要读成 chuī"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗鉴赏辞典》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-24"
+}

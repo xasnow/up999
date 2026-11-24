@@ -1,0 +1,110 @@
+{
+  "id": "tang-zhongtang-baijuyi-mujiangyin",
+  "slug": "mujiangyin",
+  "title": "暮江吟",
+  "titlePinyin": "mù jiāng yín",
+  "dynasty": "tangshi",
+  "era": "zhongtang",
+  "genre": "shi",
+  "form": "七言绝句",
+  "authorId": "baijuyi",
+  "gradeBand": "ext",
+  "tags": ["秋天", "江景", "黄昏", "七言绝句"],
+  "difficulty": 3,
+  "writtenYear": 822,
+  "writtenLabel": "约公元 822 年（白居易 51 岁）",
+  "orderInAuthor": 6,
+  "famousLines": [
+    "一道残阳铺水中，半江瑟瑟半江红。"
+  ],
+  "lines": [
+    {
+      "text": "一道残阳铺水中，",
+      "pinyin": ["yī", "dào", "cán", "yáng", "pū", "shuǐ", "zhōng"],
+      "translation": "一道夕阳的余光，铺在水面上，",
+      "noteIds": ["n-canyang", "n-pu"]
+    },
+    {
+      "text": "半江瑟瑟半江红。",
+      "pinyin": ["bàn", "jiāng", "sè", "sè", "bàn", "jiāng", "hóng"],
+      "translation": "半条江是碧绿色，半条江是红色。",
+      "noteIds": ["n-sese"]
+    },
+    {
+      "text": "可怜九月初三夜，",
+      "pinyin": ["kě", "lián", "jiǔ", "yuè", "chū", "sān", "yè"],
+      "translation": "多么可爱的九月初三的夜晚呀，",
+      "noteIds": ["n-lian"]
+    },
+    {
+      "text": "露似真珠月似弓。",
+      "pinyin": ["lù", "sì", "zhēn", "zhū", "yuè", "sì", "gōng"],
+      "translation": "露珠像珍珠，月亮像弯弯的弓。",
+      "noteIds": ["n-si"]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-canyang",
+      "word": "残阳",
+      "pinyin": "cán yáng",
+      "meaning": "快落山的太阳。"
+    },
+    {
+      "id": "n-pu",
+      "word": "铺",
+      "pinyin": "pū",
+      "meaning": "平展开来，铺满。"
+    },
+    {
+      "id": "n-sese",
+      "word": "瑟瑟",
+      "pinyin": "sè sè",
+      "meaning": "这里指碧绿色，像未染红的宝石的颜色。"
+    },
+    {
+      "id": "n-lian",
+      "word": "可怜",
+      "pinyin": "kě lián",
+      "meaning": "可爱。“怜”在古诗里常是“可爱”的意思。"
+    },
+    {
+      "id": "n-si",
+      "word": "似",
+      "pinyin": "sì",
+      "meaning": "好像。"
+    }
+  ],
+  "translation": "一道夕阳的余光铺在江面，半条江碧绿，半条江红。九月初三的夜晚真可爱，露珠像珍珠，月亮像弯弓。",
+  "appreciation": "夕阳把光铺在水上，江水一半绿一半红。“可怜”不是可怜巴巴，而是“真可爱”。露珠像珍珠，月亮像弯弓，比喻又准又美。读这首诗，就像看了一场江上的风景电影。",
+  "background": "公元 822 年，白居易去杭州做官。路上他停下脚步，欣赏黄昏的江景。从日落到月升，他把美景写成了诗。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "夕阳铺水",
+      "text": "傍晚，一道夕阳的余光斜斜地铺在江面上。"
+    },
+    {
+      "step": 2,
+      "title": "半绿半红",
+      "text": "江水受光不匀，半条江碧绿，半条江艳红。"
+    },
+    {
+      "step": 3,
+      "title": "初三夜晚",
+      "text": "到了夜里，白居易舍不得走，看九月初三的月亮。"
+    },
+    {
+      "step": 4,
+      "title": "露珠弯月",
+      "text": "草上的露珠像珍珠，天上的月牙像一张弯弓。"
+    }
+  ],
+  "pinyinNotes": [],
+  "sources": [
+    "《白居易集》（中华书局）",
+    "《唐诗鉴赏辞典》（上海辞书出版社）"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-24"
+}

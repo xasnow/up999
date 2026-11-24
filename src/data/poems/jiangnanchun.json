@@ -1,0 +1,110 @@
+{
+  "id": "tang-wantang-dumu-jiangnanchun",
+  "slug": "jiangnanchun",
+  "title": "江南春",
+  "titlePinyin": "jiāng nán chūn",
+  "dynasty": "tangshi",
+  "era": "wantang",
+  "genre": "shi",
+  "form": "七言绝句",
+  "authorId": "dumu",
+  "gradeBand": "ext",
+  "tags": ["江南", "春天", "烟雨", "七言绝句"],
+  "difficulty": 4,
+  "writtenYear": 840,
+  "writtenLabel": "约公元 840 年（杜牧 38 岁）",
+  "orderInAuthor": 4,
+  "famousLines": [
+    "南朝四百八十寺，多少楼台烟雨中。"
+  ],
+  "lines": [
+    {
+      "text": "千里莺啼绿映红，",
+      "pinyin": ["qiān", "lǐ", "yīng", "tí", "lǜ", "yìng", "hóng"],
+      "translation": "千里江南，黄莺啼叫，绿叶映着红花，",
+      "noteIds": ["n-ying", "n-yinghong"]
+    },
+    {
+      "text": "水村山郭酒旗风。",
+      "pinyin": ["shuǐ", "cūn", "shān", "guō", "jiǔ", "qí", "fēng"],
+      "translation": "水边的村庄、山边的城郭，酒旗迎风飘。",
+      "noteIds": ["n-guo", "n-jiuqi"]
+    },
+    {
+      "text": "南朝四百八十寺，",
+      "pinyin": ["nán", "cháo", "sì", "bǎi", "bā", "shí", "sì"],
+      "translation": "南朝留下的四百八十座寺庙，",
+      "noteIds": ["n-nanchao"]
+    },
+    {
+      "text": "多少楼台烟雨中。",
+      "pinyin": ["duō", "shǎo", "lóu", "tái", "yān", "yǔ", "zhōng"],
+      "translation": "多少楼台，都罩在迷蒙的烟雨里。",
+      "noteIds": []
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-ying",
+      "word": "莺",
+      "pinyin": "yīng",
+      "meaning": "黄莺，叫声好听的小鸟。"
+    },
+    {
+      "id": "n-yinghong",
+      "word": "绿映红",
+      "pinyin": "lǜ yìng hóng",
+      "meaning": "绿叶衬着红花。映，是衬托的意思。"
+    },
+    {
+      "id": "n-guo",
+      "word": "郭",
+      "pinyin": "guō",
+      "meaning": "外城，这里指城镇。"
+    },
+    {
+      "id": "n-jiuqi",
+      "word": "酒旗",
+      "pinyin": "jiǔ qí",
+      "meaning": "酒店门口挂的布招牌。"
+    },
+    {
+      "id": "n-nanchao",
+      "word": "南朝",
+      "pinyin": "nán cháo",
+      "meaning": "南北朝时建在江南的四个朝代，修了很多寺庙。"
+    }
+  ],
+  "translation": "千里江南，黄莺啼叫，绿树映着红花。水村靠山城，酒旗迎风飘。南朝留下的四百八十座寺，多少楼台藏在烟雨里。",
+  "appreciation": "第一句就拉开千里画卷，有声也有色。黄莺啼叫，绿树红花，酒旗迎风招展。四百八十寺罩在烟雨里，朦胧又安静。有明亮，有朦胧，这首诗就是春天的全景图。",
+  "background": "公元 840 年前后，杜牧来到江南。他放眼望去，到处是莺歌、绿树和飘着的酒旗。望着烟雨中的古寺，他写下了这幅春景长卷。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "千里江南",
+      "text": "春天来了，千里江南处处莺啼，绿映着红。"
+    },
+    {
+      "step": 2,
+      "title": "水村山城",
+      "text": "水边的村子、依山的城郭，酒旗在风里飘。"
+    },
+    {
+      "step": 3,
+      "title": "古寺很多",
+      "text": "南朝留下的寺庙，数一数有四百八十座。"
+    },
+    {
+      "step": 4,
+      "title": "烟雨朦胧",
+      "text": "无数楼台立在烟雨中，像披了一层轻纱。"
+    }
+  ],
+  "pinyinNotes": [],
+  "sources": [
+    "《樊川文集》",
+    "《唐诗鉴赏辞典》（上海辞书出版社）"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-24"
+}

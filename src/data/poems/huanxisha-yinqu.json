@@ -1,0 +1,185 @@
+{
+  "id": "songci-beisong-yanshu-huanxisha-yinqu",
+  "slug": "huanxisha-yinqu",
+  "title": "浣溪沙·一曲新词酒一杯",
+  "titlePinyin": "huàn xī shā · yī qǔ xīn cí jiǔ yī bēi",
+  "dynasty": "songci",
+  "era": "beisong",
+  "genre": "ci",
+  "form": "词（小令）",
+  "authorId": "yanshu",
+  "gradeBand": "ext",
+  "textbook": "课外拓展篇目",
+  "tags": [
+    "光阴",
+    "落花",
+    "燕子",
+    "词"
+  ],
+  "difficulty": 3,
+  "writtenYear": 1040,
+  "writtenLabel": "约公元 1040 年（晏殊 49 岁左右）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "无可奈何花落去，似曾相识燕归来。"
+  ],
+  "lines": [
+    {
+      "text": "一曲新词酒一杯，",
+      "pinyin": [
+        "yī",
+        "qǔ",
+        "xīn",
+        "cí",
+        "jiǔ",
+        "yī",
+        "bēi"
+      ],
+      "translation": "唱一支新词，斟上一杯美酒，",
+      "noteIds": [
+        "n-yiqu"
+      ]
+    },
+    {
+      "text": "去年天气旧亭台。",
+      "pinyin": [
+        "qù",
+        "nián",
+        "tiān",
+        "qì",
+        "jiù",
+        "tíng",
+        "tái"
+      ],
+      "translation": "天气和去年一样，亭台也还是旧样子。",
+      "noteIds": []
+    },
+    {
+      "text": "夕阳西下几时回？",
+      "pinyin": [
+        "xī",
+        "yáng",
+        "xī",
+        "xià",
+        "jǐ",
+        "shí",
+        "huí"
+      ],
+      "translation": "夕阳慢慢落下，它什么时候会回来？",
+      "noteIds": []
+    },
+    {
+      "text": "无可奈何花落去，",
+      "pinyin": [
+        "wú",
+        "kě",
+        "nài",
+        "hé",
+        "huā",
+        "luò",
+        "qù"
+      ],
+      "translation": "花儿谢了，留也留不住，",
+      "noteIds": [
+        "n-naihe"
+      ]
+    },
+    {
+      "text": "似曾相识燕归来。",
+      "pinyin": [
+        "sì",
+        "céng",
+        "xiāng",
+        "shí",
+        "yàn",
+        "guī",
+        "lái"
+      ],
+      "translation": "好像见过的燕子，又飞回来了。",
+      "noteIds": [
+        "n-siceng"
+      ]
+    },
+    {
+      "text": "小园香径独徘徊。",
+      "pinyin": [
+        "xiǎo",
+        "yuán",
+        "xiāng",
+        "jìng",
+        "dú",
+        "pái",
+        "huái"
+      ],
+      "translation": "我在落满花瓣的小路上，独自走来走去。",
+      "noteIds": [
+        "n-xiangjing",
+        "n-paihuai"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-yiqu",
+      "word": "一曲",
+      "pinyin": "yī qǔ",
+      "meaning": "一支。曲，这里指一首歌曲。"
+    },
+    {
+      "id": "n-naihe",
+      "word": "无可奈何",
+      "pinyin": "wú kě nài hé",
+      "meaning": "没有办法，留不住。"
+    },
+    {
+      "id": "n-siceng",
+      "word": "似曾相识",
+      "pinyin": "sì céng xiāng shí",
+      "meaning": "好像曾经认识、见过。"
+    },
+    {
+      "id": "n-xiangjing",
+      "word": "香径",
+      "pinyin": "xiāng jìng",
+      "meaning": "落满花瓣、带着香气的小路。"
+    },
+    {
+      "id": "n-paihuai",
+      "word": "徘徊",
+      "pinyin": "pái huái",
+      "meaning": "来回走，走来走去。"
+    }
+  ],
+  "translation": "唱一支新词，斟上一杯美酒；天气和去年一样，亭台还是旧亭台。夕阳西下，什么时候会回来？花儿谢了留不住，好像见过的燕子又飞回来了。我在落满花瓣的小路上，独自走来走去。",
+  "appreciation": "喝酒听歌多开心，词人却悄悄想：去年也是这样的天气，今年已经不一样了。花留不住，燕子却会回来——一边是失去，一边是重逢。最后他一个人在小路上走来走去，好像在和光阴轻轻商量。这首词告诉我们：日子会溜走，要好好珍惜每一天。",
+  "background": "约公元 1040 年，晏殊在家里的小园中听歌饮酒。天气还是去年那样，亭台还是旧亭台，可是光阴已经悄悄走了一大截。他心里轻轻一叹，写下了这首《浣溪沙》。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "听歌喝酒",
+      "text": "小园里唱着新词，桌上摆着美酒，真舒服呀。"
+    },
+    {
+      "step": 2,
+      "title": "似曾相识的一切",
+      "text": "天气和去年一样，亭台也没变，可日子已经过去一年了。"
+    },
+    {
+      "step": 3,
+      "title": "落花与归燕",
+      "text": "花留不住，慢慢落下；燕子却像老朋友，又飞回来了。"
+    },
+    {
+      "step": 4,
+      "title": "独自想心思",
+      "text": "词人在香径上走来走去，把珍惜光阴的想法写成了词。"
+    }
+  ],
+  "pinyinNotes": [],
+  "sources": [
+    "《珠玉词》",
+    "《宋词三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-24"
+}

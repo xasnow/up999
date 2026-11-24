@@ -1,0 +1,150 @@
+{
+  "id": "songci-nansong-yangwanli-xiaojingcisi",
+  "slug": "xiaojingcisi",
+  "title": "晓出净慈寺送林子方",
+  "titlePinyin": "xiǎo chū jìng cí sì sòng lín zǐ fāng",
+  "dynasty": "songci",
+  "era": "nansong",
+  "genre": "shi",
+  "form": "七言绝句",
+  "authorId": "yangwanli",
+  "gradeBand": "ext",
+  "textbook": "部编版语文二年级下册",
+  "tags": [
+    "西湖",
+    "荷花",
+    "送别",
+    "七言绝句"
+  ],
+  "difficulty": 3,
+  "writtenYear": 1188,
+  "writtenLabel": "约公元 1188 年（杨万里 61 岁左右）",
+  "orderInAuthor": 2,
+  "famousLines": [
+    "接天莲叶无穷碧，映日荷花别样红。"
+  ],
+  "lines": [
+    {
+      "text": "毕竟西湖六月中，",
+      "pinyin": [
+        "bì",
+        "jìng",
+        "xī",
+        "hú",
+        "liù",
+        "yuè",
+        "zhōng"
+      ],
+      "translation": "六月里的西湖，到底和别处不一样，",
+      "noteIds": [
+        "n-bijing"
+      ]
+    },
+    {
+      "text": "风光不与四时同。",
+      "pinyin": [
+        "fēng",
+        "guāng",
+        "bù",
+        "yǔ",
+        "sì",
+        "shí",
+        "tóng"
+      ],
+      "translation": "这里的风景和春夏秋冬都不相同。",
+      "noteIds": [
+        "n-sishi"
+      ]
+    },
+    {
+      "text": "接天莲叶无穷碧，",
+      "pinyin": [
+        "jiē",
+        "tiān",
+        "lián",
+        "yè",
+        "wú",
+        "qióng",
+        "bì"
+      ],
+      "translation": "莲叶一直铺到天边，绿得望不到头，",
+      "noteIds": [
+        "n-wuqiong"
+      ]
+    },
+    {
+      "text": "映日荷花别样红。",
+      "pinyin": [
+        "yìng",
+        "rì",
+        "hé",
+        "huā",
+        "bié",
+        "yàng",
+        "hóng"
+      ],
+      "translation": "太阳照着荷花，红得特别好看。",
+      "noteIds": [
+        "n-bieyang"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-bijing",
+      "word": "毕竟",
+      "pinyin": "bì jìng",
+      "meaning": "到底、究竟。诗人先赞叹一句：西湖的六月就是不一样！"
+    },
+    {
+      "id": "n-sishi",
+      "word": "四时",
+      "pinyin": "sì shí",
+      "meaning": "春夏秋冬四个季节。"
+    },
+    {
+      "id": "n-wuqiong",
+      "word": "无穷",
+      "pinyin": "wú qióng",
+      "meaning": "没有边，望不到头。"
+    },
+    {
+      "id": "n-bieyang",
+      "word": "别样",
+      "pinyin": "bié yàng",
+      "meaning": "特别地、不一样地。荷花红得格外好看。"
+    }
+  ],
+  "translation": "六月里的西湖，风光到底和别处不一样：莲叶接天，绿得望不到边；荷花映着太阳，红得格外鲜亮。",
+  "appreciation": "诗人不急着说再见，先带朋友看最美的风景。一句“毕竟”，像大声赞叹：六月的西湖就是不一样！莲叶用“碧”，荷花用“红”，颜色一铺开，画面就亮了。把送别写得这么开阔，朋友的心里也会亮堂堂的。",
+  "background": "公元 1188 年夏天的一个清晨，杨万里送朋友林子方，两人从净慈寺出发，路过西湖。满湖的莲叶和荷花在晨光里特别好，诗人把它们写进诗里，当作送给朋友的礼物。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "清晨送朋友",
+      "text": "清晨，杨万里送好朋友林子方，两人走出净慈寺的大门。"
+    },
+    {
+      "step": 2,
+      "title": "六月的西湖",
+      "text": "眼前是六月的西湖，诗人忍不住先赞叹：风光就是不一样！"
+    },
+    {
+      "step": 3,
+      "title": "莲叶铺到天边",
+      "text": "碧绿的莲叶一大片一大片，一直铺到远远的天边。"
+    },
+    {
+      "step": 4,
+      "title": "荷花格外红",
+      "text": "朝阳照在荷花上，红得格外鲜亮，把送别也照得亮堂堂。"
+    }
+  ],
+  "pinyinNotes": [],
+  "sources": [
+    "部编版语文二年级下册",
+    "《诚斋集》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-24"
+}

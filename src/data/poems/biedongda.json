@@ -1,0 +1,155 @@
+{
+  "id": "tang-shengtang-gaoshi-biedongda",
+  "slug": "biedongda",
+  "title": "别董大",
+  "titlePinyin": "bié dǒng dà",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "七言绝句",
+  "authorId": "gaoshi",
+  "gradeBand": "ext",
+  "textbook": "课外拓展篇目",
+  "tags": [
+    "送别",
+    "友谊",
+    "边塞",
+    "雪天"
+  ],
+  "difficulty": 3,
+  "writtenYear": 750,
+  "writtenLabel": "约公元 750 年（高适 47 岁，在宋州送别琴师董庭兰）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "莫愁前路无知己，天下谁人不识君。"
+  ],
+  "lines": [
+    {
+      "text": "千里黄云白日曛，",
+      "pinyin": [
+        "qiān",
+        "lǐ",
+        "huáng",
+        "yún",
+        "bái",
+        "rì",
+        "xūn"
+      ],
+      "translation": "黄云绵延千里，太阳被遮得昏昏沉沉，",
+      "noteIds": [
+        "n-xun"
+      ]
+    },
+    {
+      "text": "北风吹雁雪纷纷。",
+      "pinyin": [
+        "běi",
+        "fēng",
+        "chuī",
+        "yàn",
+        "xuě",
+        "fēn",
+        "fēn"
+      ],
+      "translation": "北风送着大雁，雪花纷纷扬扬地落。",
+      "noteIds": []
+    },
+    {
+      "text": "莫愁前路无知己，",
+      "pinyin": [
+        "mò",
+        "chóu",
+        "qián",
+        "lù",
+        "wú",
+        "zhī",
+        "jǐ"
+      ],
+      "translation": "不要担心前面的路上没有知心朋友，",
+      "noteIds": [
+        "n-zhiji"
+      ]
+    },
+    {
+      "text": "天下谁人不识君。",
+      "pinyin": [
+        "tiān",
+        "xià",
+        "shuí",
+        "rén",
+        "bù",
+        "shí",
+        "jūn"
+      ],
+      "translation": "天下有谁不认识你呢？",
+      "noteIds": [
+        "n-shi"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-xun",
+      "word": "曛",
+      "pinyin": "xūn",
+      "meaning": "夕阳落山时的余光，天色昏昏暗暗。"
+    },
+    {
+      "id": "n-zhiji",
+      "word": "知己",
+      "pinyin": "zhī jǐ",
+      "meaning": "非常了解自己、懂自己的好朋友。"
+    },
+    {
+      "id": "n-shi",
+      "word": "识",
+      "pinyin": "shí",
+      "meaning": "认识。不识君，就是不认识您。"
+    }
+  ],
+  "translation": "黄云绵延千里，太阳被遮得昏昏沉沉。北风送着大雁，雪花纷纷扬扬地落。不要担心前面的路上没有知心朋友，天下有谁不认识你呢？",
+  "appreciation": "这是一首雪地里的大声鼓励。天又冷，路又远，高适却不说难过的话。“莫愁前路无知己”，一句话就把朋友的担心赶跑了。把送别写得这么提气，正是高适边塞诗的本事。后来人们安慰朋友，也爱借用这两句诗。",
+  "background": "公元 750 年前后，琴师董庭兰要离开宋州了。董大是高适对他的亲切称呼，因为董庭兰在家排行第一。那天北风呼呼吹，大雪纷纷落，高适为他送行，写下两首诗，《别董大》是其中的第一首。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "雪天送行",
+      "text": "北风呼呼吹，大雪纷纷落，高适来给老朋友董庭兰送行。"
+    },
+    {
+      "step": 2,
+      "title": "天色昏黄",
+      "text": "抬头望去，黄云铺满天空，太阳只剩一团淡淡的光。"
+    },
+    {
+      "step": 3,
+      "title": "大雁南飞",
+      "text": "一群大雁迎着风雪飞过，路途看起来又远又冷。"
+    },
+    {
+      "step": 4,
+      "title": "大声鼓励",
+      "text": "高适笑着说：别怕没人认识你，天下谁不知道你董大呢！"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "曛",
+      "reading": "xūn",
+      "reason": "“曛”指日落时的余光，读 xūn。",
+      "standard": "不要读成 xīn"
+    },
+    {
+      "char": "识",
+      "reading": "shí",
+      "reason": "“不识君”是不认识您，读 shí。",
+      "standard": "不要读成 zhì"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《高适诗集编年笺注》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-24"
+}

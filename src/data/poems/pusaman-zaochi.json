@@ -1,0 +1,201 @@
+{
+  "id": "songci-nansong-xinqiji-pusaman-zaochi",
+  "slug": "pusaman-zaochi",
+  "title": "菩萨蛮·书江西造口壁",
+  "titlePinyin": "pú sà mán · shū jiāng xī zào kǒu bì",
+  "dynasty": "songci",
+  "era": "nansong",
+  "genre": "ci",
+  "form": "词（中调）",
+  "authorId": "xinqiji",
+  "gradeBand": "ext",
+  "textbook": "课外拓展篇目",
+  "tags": [
+    "江河",
+    "盼望",
+    "词"
+  ],
+  "difficulty": 4,
+  "writtenYear": 1176,
+  "writtenLabel": "约公元 1176 年（辛弃疾 36 岁左右）",
+  "orderInAuthor": 3,
+  "famousLines": [
+    "青山遮不住，毕竟东流去。"
+  ],
+  "lines": [
+    {
+      "text": "郁孤台下清江水，",
+      "pinyin": [
+        "yù",
+        "gū",
+        "tái",
+        "xià",
+        "qīng",
+        "jiāng",
+        "shuǐ"
+      ],
+      "translation": "郁孤台下的清江水呀，",
+      "noteIds": [
+        "n-yugutai"
+      ]
+    },
+    {
+      "text": "中间多少行人泪。",
+      "pinyin": [
+        "zhōng",
+        "jiān",
+        "duō",
+        "shǎo",
+        "xíng",
+        "rén",
+        "lèi"
+      ],
+      "translation": "江水里藏着多少赶路人的思念。",
+      "noteIds": []
+    },
+    {
+      "text": "西北望长安，",
+      "pinyin": [
+        "xī",
+        "běi",
+        "wàng",
+        "cháng",
+        "ān"
+      ],
+      "translation": "抬头朝西北方向望去，",
+      "noteIds": [
+        "n-changan"
+      ]
+    },
+    {
+      "text": "可怜无数山。",
+      "pinyin": [
+        "kě",
+        "lián",
+        "wú",
+        "shù",
+        "shān"
+      ],
+      "translation": "可惜被无数青山挡住了。",
+      "noteIds": [
+        "n-kelian"
+      ]
+    },
+    {
+      "text": "青山遮不住，",
+      "pinyin": [
+        "qīng",
+        "shān",
+        "zhē",
+        "bù",
+        "zhù"
+      ],
+      "translation": "可是青山挡不住江水，",
+      "noteIds": []
+    },
+    {
+      "text": "毕竟东流去。",
+      "pinyin": [
+        "bì",
+        "jìng",
+        "dōng",
+        "liú",
+        "qù"
+      ],
+      "translation": "江水到底会向东流去。",
+      "noteIds": [
+        "n-bijing"
+      ]
+    },
+    {
+      "text": "江晚正愁余，",
+      "pinyin": [
+        "jiāng",
+        "wǎn",
+        "zhèng",
+        "chóu",
+        "yú"
+      ],
+      "translation": "傍晚的江边，我心里正有些发愁，",
+      "noteIds": []
+    },
+    {
+      "text": "山深闻鹧鸪。",
+      "pinyin": [
+        "shān",
+        "shēn",
+        "wén",
+        "zhè",
+        "gū"
+      ],
+      "translation": "深山里传来鹧鸪的叫声。",
+      "noteIds": [
+        "n-zhegu"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-yugutai",
+      "word": "郁孤台",
+      "pinyin": "yù gū tái",
+      "meaning": "江西赣州的一座高台，站在上面能望很远。"
+    },
+    {
+      "id": "n-changan",
+      "word": "长安",
+      "pinyin": "cháng ān",
+      "meaning": "借指北宋的都城汴京。"
+    },
+    {
+      "id": "n-kelian",
+      "word": "可怜",
+      "pinyin": "kě lián",
+      "meaning": "可惜。这里指视线被大山挡住了。"
+    },
+    {
+      "id": "n-bijing",
+      "word": "毕竟",
+      "pinyin": "bì jìng",
+      "meaning": "到底、终究。江水终究要向前流。"
+    },
+    {
+      "id": "n-zhegu",
+      "word": "鹧鸪",
+      "pinyin": "zhè gū",
+      "meaning": "一种生活在南方山里的鸟，叫声很特别。"
+    }
+  ],
+  "translation": "郁孤台下的清江水里，藏着多少赶路人的思念。朝西北望，可惜被无数青山挡住了。可是青山挡不住江水，它到底会向东流去。傍晚的江边我正有些发愁，深山里传来鹧鸪的叫声。",
+  "appreciation": "站在高台上望过去，青山一层又一层，把远方挡住了。可是江水给了大家底气：山挡不住，它终究向前流！就像心里的愿望，只要不停，就一定会往前走。最后一声鸟叫，也提醒着赶路人：路要一步一步走，别停下。",
+  "background": "约公元 1176 年，辛弃疾路过江西造口，登上郁孤台。他望着滚滚的江水和重重青山，想起还盼望团圆的北方百姓，把心里的话写在墙壁上，留下了这首词。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "登上郁孤台",
+      "text": "辛弃疾路过造口，登上高高的郁孤台看风景。"
+    },
+    {
+      "step": 2,
+      "title": "望着远方",
+      "text": "台下的江水奔流不息，他朝远处望，被青山挡住了视线。"
+    },
+    {
+      "step": 3,
+      "title": "江水的回答",
+      "text": "他想起江水：山挡不住它，它终究要向前流去。"
+    },
+    {
+      "step": 4,
+      "title": "写在墙上",
+      "text": "傍晚的鸟声里，他把心里的话写在墙上，鼓励自己别停下。"
+    }
+  ],
+  "pinyinNotes": [],
+  "sources": [
+    "《稼轩长短句》",
+    "《宋词三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-24"
+}

@@ -1,0 +1,98 @@
+{
+  "id": "tang-zhongtang-baijuyi-fudecaosongbie",
+  "slug": "fudecaosongbie",
+  "title": "赋得古原草送别（节选）",
+  "titlePinyin": "fù dé gǔ yuán cǎo sòng bié",
+  "dynasty": "tangshi",
+  "era": "zhongtang",
+  "genre": "shi",
+  "form": "五言律诗",
+  "authorId": "baijuyi",
+  "gradeBand": "ext",
+  "tags": ["小草", "春天", "生命力", "五言律诗"],
+  "difficulty": 3,
+  "writtenYear": 787,
+  "writtenLabel": "约公元 787 年（白居易 16 岁）",
+  "orderInAuthor": 5,
+  "famousLines": [
+    "野火烧不尽，春风吹又生。"
+  ],
+  "lines": [
+    {
+      "text": "离离原上草，",
+      "pinyin": ["lí", "lí", "yuán", "shàng", "cǎo"],
+      "translation": "古原上的草，长得又密又茂盛，",
+      "noteIds": ["n-lili"]
+    },
+    {
+      "text": "一岁一枯荣。",
+      "pinyin": ["yī", "suì", "yī", "kū", "róng"],
+      "translation": "一年里枯黄一次，又变绿一次。",
+      "noteIds": ["n-kurong"]
+    },
+    {
+      "text": "野火烧不尽，",
+      "pinyin": ["yě", "huǒ", "shāo", "bú", "jìn"],
+      "translation": "野火烧也烧不尽它们，",
+      "noteIds": ["n-jin"]
+    },
+    {
+      "text": "春风吹又生。",
+      "pinyin": ["chūn", "fēng", "chuī", "yòu", "shēng"],
+      "translation": "春风一吹，小草又长出来了。",
+      "noteIds": []
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-lili",
+      "word": "离离",
+      "pinyin": "lí lí",
+      "meaning": "草长得又密又茂盛的样子。"
+    },
+    {
+      "id": "n-kurong",
+      "word": "枯荣",
+      "pinyin": "kū róng",
+      "meaning": "枯，枯萎；荣，茂盛。指草一年里先枯后绿。"
+    },
+    {
+      "id": "n-jin",
+      "word": "尽",
+      "pinyin": "jìn",
+      "meaning": "完，烧光。"
+    }
+  ],
+  "translation": "原野上的草长得茂盛，一年枯萎一次，又茂盛一次。野火烧不完它，春风一吹，它又长出来了。",
+  "appreciation": "小草每年枯黄一次，又变绿一次，多么平常。可“野火烧不尽”，烧不掉它藏在土里的根。春风一吹，它又冒出来，生机满满。这两句写出了顽强，成了千古名句。",
+  "background": "公元 787 年，白居易才十六岁。他到长安拜见名人顾况，献上自己的诗。顾况读完连声称赞，从此把他推荐了出去。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "原上青草",
+      "text": "长安城外的古原上，小草长得又密又绿。"
+    },
+    {
+      "step": 2,
+      "title": "枯枯荣荣",
+      "text": "一年过去，草黄了；新一年来到，又绿了。"
+    },
+    {
+      "step": 3,
+      "title": "野火难烧",
+      "text": "大火烧过原野，好像什么都没剩下。"
+    },
+    {
+      "step": 4,
+      "title": "春风又生",
+      "text": "别担心！春风一吹，小草又悄悄长了出来。"
+    }
+  ],
+  "pinyinNotes": [],
+  "sources": [
+    "《白居易集》（中华书局）",
+    "部编版语文二年级上册"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-24"
+}

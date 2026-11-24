@@ -1,0 +1,157 @@
+{
+  "id": "songci-nansong-luyou-shier",
+  "slug": "shier",
+  "title": "示儿",
+  "titlePinyin": "shì ér",
+  "dynasty": "songci",
+  "era": "nansong",
+  "genre": "shi",
+  "form": "七言绝句",
+  "authorId": "luyou",
+  "gradeBand": "ext",
+  "textbook": "部编版语文五年级上册",
+  "tags": [
+    "家国",
+    "团圆",
+    "临终嘱托",
+    "七言绝句"
+  ],
+  "difficulty": 3,
+  "writtenYear": 1210,
+  "writtenLabel": "公元 1210 年（陆游 85 岁，临终前）",
+  "orderInAuthor": 2,
+  "famousLines": [
+    "王师北定中原日，家祭无忘告乃翁。"
+  ],
+  "lines": [
+    {
+      "text": "死去元知万事空，",
+      "pinyin": [
+        "sǐ",
+        "qù",
+        "yuán",
+        "zhī",
+        "wàn",
+        "shì",
+        "kōng"
+      ],
+      "translation": "我本来就知道，人走了什么都没有了，",
+      "noteIds": [
+        "n-yuanzhi"
+      ]
+    },
+    {
+      "text": "但悲不见九州同。",
+      "pinyin": [
+        "dàn",
+        "bēi",
+        "bù",
+        "jiàn",
+        "jiǔ",
+        "zhōu",
+        "tóng"
+      ],
+      "translation": "只是难过，没能等到全国团圆的那天。",
+      "noteIds": [
+        "n-jiuzhou"
+      ]
+    },
+    {
+      "text": "王师北定中原日，",
+      "pinyin": [
+        "wáng",
+        "shī",
+        "běi",
+        "dìng",
+        "zhōng",
+        "yuán",
+        "rì"
+      ],
+      "translation": "等到朝廷的队伍让北方团圆的那一天，",
+      "noteIds": [
+        "n-wangshi"
+      ]
+    },
+    {
+      "text": "家祭无忘告乃翁。",
+      "pinyin": [
+        "jiā",
+        "jì",
+        "wú",
+        "wàng",
+        "gào",
+        "nǎi",
+        "wēng"
+      ],
+      "translation": "家里祭祀时，别忘了把这个好消息告诉我。",
+      "noteIds": [
+        "n-jiaji",
+        "n-naiweng"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-yuanzhi",
+      "word": "元知",
+      "pinyin": "yuán zhī",
+      "meaning": "本来就知道。元，同“原”，本来。"
+    },
+    {
+      "id": "n-jiuzhou",
+      "word": "九州",
+      "pinyin": "jiǔ zhōu",
+      "meaning": "古时候把中国分成九州，九州指整个国家。"
+    },
+    {
+      "id": "n-wangshi",
+      "word": "王师",
+      "pinyin": "wáng shī",
+      "meaning": "朝廷的队伍。"
+    },
+    {
+      "id": "n-jiaji",
+      "word": "家祭",
+      "pinyin": "jiā jì",
+      "meaning": "家里祭祀祖先的仪式。"
+    },
+    {
+      "id": "n-naiweng",
+      "word": "乃翁",
+      "pinyin": "nǎi wēng",
+      "meaning": "你们的父亲。这里指陆游自己。"
+    }
+  ],
+  "translation": "我本来就知道，人走了就什么都没有了，只是难过没能等到全国团圆的那天。等到朝廷的队伍让北方团圆的那一天，家里祭祀时，别忘了把这个好消息告诉爷爷。",
+  "appreciation": "这是诗人一生中最后一首诗，写给他所有的儿孙。人走了，什么也带不走，可他还是放不下一件大事：盼望团圆。他不用别人转达，把叮嘱直接写成了诗。一句“无忘”，是一个老人最后的、也是最大的心愿：家好，国好，大家在一起。",
+  "background": "公元 1210 年冬天，八十五岁的陆游病重躺在床上。他知道自己就要走了，临终前写下这首诗，当作给儿孙们的嘱托：将来看到团圆的那一天，记得告诉他一声。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "病床上的老人",
+      "text": "八十五岁的陆游病得很重，心里还惦记着一件大事。"
+    },
+    {
+      "step": 2,
+      "title": "没等到的愿望",
+      "text": "他轻轻叹气：可惜没能亲眼看到全国团圆的那一天。"
+    },
+    {
+      "step": 3,
+      "title": "留下嘱托",
+      "text": "他把儿孙叫到床前，一字一句写下自己的心愿。"
+    },
+    {
+      "step": 4,
+      "title": "别忘了告诉我",
+      "text": "他叮嘱：将来家里祭祀时，一定要把好消息告诉我。"
+    }
+  ],
+  "pinyinNotes": [],
+  "sources": [
+    "部编版语文五年级上册",
+    "《剑南诗稿》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-24"
+}

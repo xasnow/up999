@@ -1,0 +1,110 @@
+{
+  "id": "tang-wantang-dumu-shanxing",
+  "slug": "shanxing",
+  "title": "山行",
+  "titlePinyin": "shān xíng",
+  "dynasty": "tangshi",
+  "era": "wantang",
+  "genre": "shi",
+  "form": "七言绝句",
+  "authorId": "dumu",
+  "gradeBand": "ext",
+  "tags": ["秋天", "枫叶", "山林", "七言绝句"],
+  "difficulty": 3,
+  "writtenYear": 835,
+  "writtenLabel": "约公元 835 年（杜牧 33 岁）",
+  "orderInAuthor": 2,
+  "famousLines": [
+    "停车坐爱枫林晚，霜叶红于二月花。"
+  ],
+  "lines": [
+    {
+      "text": "远上寒山石径斜，",
+      "pinyin": ["yuǎn", "shàng", "hán", "shān", "shí", "jìng", "xié"],
+      "translation": "弯弯的石头小路，斜斜地通向远处的寒山。",
+      "noteIds": ["n-jing", "n-xie"]
+    },
+    {
+      "text": "白云生处有人家。",
+      "pinyin": ["bái", "yún", "shēng", "chù", "yǒu", "rén", "jiā"],
+      "translation": "白云升起的地方，住着几户人家。",
+      "noteIds": ["n-sheng"]
+    },
+    {
+      "text": "停车坐爱枫林晚，",
+      "pinyin": ["tíng", "chē", "zuò", "ài", "fēng", "lín", "wǎn"],
+      "translation": "停下车来，因为我太爱傍晚的枫林，",
+      "noteIds": ["n-zuiai"]
+    },
+    {
+      "text": "霜叶红于二月花。",
+      "pinyin": ["shuāng", "yè", "hóng", "yú", "èr", "yuè", "huā"],
+      "translation": "被霜打过的枫叶，比二月的春花还红。",
+      "noteIds": ["n-yu"]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-jing",
+      "word": "径",
+      "pinyin": "jìng",
+      "meaning": "小路。"
+    },
+    {
+      "id": "n-xie",
+      "word": "斜",
+      "pinyin": "xié",
+      "meaning": "歪斜，倾斜。旧时读 xiá，为了押韵。"
+    },
+    {
+      "id": "n-sheng",
+      "word": "生",
+      "pinyin": "shēng",
+      "meaning": "升起，产生。"
+    },
+    {
+      "id": "n-zuiai",
+      "word": "坐爱",
+      "pinyin": "zuò ài",
+      "meaning": "坐，因为；坐爱就是因为喜爱。"
+    },
+    {
+      "id": "n-yu",
+      "word": "于",
+      "pinyin": "yú",
+      "meaning": "比。红于，就是比……还红。"
+    }
+  ],
+  "translation": "石头小路远远地弯上寒山，白云生出的地方住着人家。我停下车，只因喜爱傍晚的枫林。经霜的枫叶，比二月的春花还红。",
+  "appreciation": "秋天常被写得冷冷清清，杜牧却写出了热情。他停下马车，只因为太爱傍晚的枫林。霜打的枫叶，比二月的春花还要红艳。“红于”两个字，让秋天赢过了春天。",
+  "background": "公元 835 年前后，杜牧在深秋走进山林。石头小路蜿蜒上山，白云深处藏着人家。他在枫林前停下马车，写下这首秋日赞歌。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "走进寒山",
+      "text": "深秋，杜牧沿着石头小路，走向高高的寒山。"
+    },
+    {
+      "step": 2,
+      "title": "白云人家",
+      "text": "抬头远望，白云升起的地方，住着几户人家。"
+    },
+    {
+      "step": 3,
+      "title": "停车赏枫",
+      "text": "傍晚的枫林太美了，他叫停马车，多看一会儿。"
+    },
+    {
+      "step": 4,
+      "title": "霜叶更红",
+      "text": "经霜的枫叶红得像火，比春天的花还漂亮。"
+    }
+  ],
+  "pinyinNotes": [],
+  "sources": [
+    "《樊川文集》",
+    "部编版语文三年级上册"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-24"
+}

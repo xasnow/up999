@@ -1,0 +1,150 @@
+{
+  "id": "songci-nansong-wengjuan-xiangcunsiyue",
+  "slug": "xiangcunsiyue",
+  "title": "乡村四月",
+  "titlePinyin": "xiāng cūn sì yuè",
+  "dynasty": "songci",
+  "era": "nansong",
+  "genre": "shi",
+  "form": "七言绝句",
+  "authorId": "wengjuan",
+  "gradeBand": "ext",
+  "textbook": "课外拓展篇目",
+  "tags": [
+    "乡村",
+    "初夏",
+    "农事",
+    "七言绝句"
+  ],
+  "difficulty": 3,
+  "writtenYear": 1180,
+  "writtenLabel": "约公元 1180 年（翁卷 27 岁左右）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "乡村四月闲人少，才了蚕桑又插田。"
+  ],
+  "lines": [
+    {
+      "text": "绿遍山原白满川，",
+      "pinyin": [
+        "lǜ",
+        "biàn",
+        "shān",
+        "yuán",
+        "bái",
+        "mǎn",
+        "chuān"
+      ],
+      "translation": "山坡原野绿油油，稻田里的水白亮亮，",
+      "noteIds": [
+        "n-baimanchuan"
+      ]
+    },
+    {
+      "text": "子规声里雨如烟。",
+      "pinyin": [
+        "zǐ",
+        "guī",
+        "shēng",
+        "lǐ",
+        "yǔ",
+        "rú",
+        "yān"
+      ],
+      "translation": "子规鸟声声叫着，细雨像轻烟一样飘。",
+      "noteIds": [
+        "n-zigui"
+      ]
+    },
+    {
+      "text": "乡村四月闲人少，",
+      "pinyin": [
+        "xiāng",
+        "cūn",
+        "sì",
+        "yuè",
+        "xián",
+        "rén",
+        "shǎo"
+      ],
+      "translation": "四月的乡村，没什么闲着的人，",
+      "noteIds": [
+        "n-xianren"
+      ]
+    },
+    {
+      "text": "才了蚕桑又插田。",
+      "pinyin": [
+        "cái",
+        "liǎo",
+        "cán",
+        "sāng",
+        "yòu",
+        "chā",
+        "tián"
+      ],
+      "translation": "刚忙完采桑养蚕，又赶去田里插秧。",
+      "noteIds": [
+        "n-cailiao"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-baimanchuan",
+      "word": "白满川",
+      "pinyin": "bái mǎn chuān",
+      "meaning": "稻田里灌满水，白亮亮的一片。川，平地。"
+    },
+    {
+      "id": "n-zigui",
+      "word": "子规",
+      "pinyin": "zǐ guī",
+      "meaning": "杜鹃鸟，叫声好听。"
+    },
+    {
+      "id": "n-xianren",
+      "word": "闲人",
+      "pinyin": "xián rén",
+      "meaning": "没事可做的人。"
+    },
+    {
+      "id": "n-cailiao",
+      "word": "才了",
+      "pinyin": "cái liǎo",
+      "meaning": "刚刚做完。了，读 liǎo。"
+    }
+  ],
+  "translation": "山坡和原野绿透了，稻田里的水面白亮亮的一片；子规鸟声声叫着，细雨像轻烟一样飘。四月的乡村没什么闲人，刚忙完采桑养蚕，又赶去田里插秧。",
+  "appreciation": "前两句是画：绿的绿、白的白，鸟叫声、细雨丝，一片江南。后两句像快进的镜头：干完这活，马上又干那活，手不停脚不停。诗里没有一个“忙”字，可谁读都知道，四月的乡村忙得有序又热闹。",
+  "background": "约公元 1180 年初夏，翁卷住在温州的乡村里。他看到山坡田野绿透了，家家户户采桑养蚕、下田插秧，忙个不停，就写下这首《乡村四月》。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "绿色的四月",
+      "text": "四月的乡村，山坡原野全绿了，稻田里灌满白亮亮的水。"
+    },
+    {
+      "step": 2,
+      "title": "烟雨和鸟鸣",
+      "text": "细雨像轻烟一样飘着，子规鸟在枝头一声声唱。"
+    },
+    {
+      "step": 3,
+      "title": "人人都有活",
+      "text": "村里几乎没有闲人，家家都在忙着农活。"
+    },
+    {
+      "step": 4,
+      "title": "干完这活干那活",
+      "text": "人们刚收起养蚕的桑叶，又挽起裤脚下田插秧了。"
+    }
+  ],
+  "pinyinNotes": [],
+  "sources": [
+    "《苇碧轩诗集》",
+    "《宋诗选注》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-24"
+}

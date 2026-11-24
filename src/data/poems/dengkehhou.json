@@ -1,0 +1,161 @@
+{
+  "id": "tang-zhongtang-mengjiao-dengkehhou",
+  "slug": "dengkehhou",
+  "title": "登科后",
+  "titlePinyin": "dēng kē hòu",
+  "dynasty": "tangshi",
+  "era": "zhongtang",
+  "genre": "shi",
+  "form": "七言绝句",
+  "authorId": "mengjiao",
+  "gradeBand": "ext",
+  "textbook": "课外拓展篇目",
+  "tags": [
+    "科举",
+    "喜悦",
+    "长安",
+    "春天"
+  ],
+  "difficulty": 3,
+  "writtenYear": 796,
+  "writtenLabel": "公元 796 年（孟郊 46 岁考中进士时）",
+  "orderInAuthor": 2,
+  "famousLines": [
+    "春风得意马蹄疾，一日看尽长安花。"
+  ],
+  "lines": [
+    {
+      "text": "昔日龌龊不足夸，",
+      "pinyin": [
+        "xī",
+        "rì",
+        "wò",
+        "chuò",
+        "bù",
+        "zú",
+        "kuā"
+      ],
+      "translation": "从前那些不如意的日子，再也不值得一提了，",
+      "noteIds": [
+        "n-wochuo"
+      ]
+    },
+    {
+      "text": "今朝放荡思无涯。",
+      "pinyin": [
+        "jīn",
+        "zhāo",
+        "fàng",
+        "dàng",
+        "sī",
+        "wú",
+        "yá"
+      ],
+      "translation": "今天考中进士，心里自由自在，想到哪里就想到哪里。",
+      "noteIds": [
+        "n-fangdang",
+        "n-wuya"
+      ]
+    },
+    {
+      "text": "春风得意马蹄疾，",
+      "pinyin": [
+        "chūn",
+        "fēng",
+        "dé",
+        "yì",
+        "mǎ",
+        "tí",
+        "jí"
+      ],
+      "translation": "骑着马迎着春风跑，马蹄特别轻快，",
+      "noteIds": []
+    },
+    {
+      "text": "一日看尽长安花。",
+      "pinyin": [
+        "yī",
+        "rì",
+        "kàn",
+        "jìn",
+        "cháng",
+        "ān",
+        "huā"
+      ],
+      "translation": "只用一天，我好像就把长安城的花全看遍了。",
+      "noteIds": [
+        "n-changan"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-wochuo",
+      "word": "龌龊",
+      "pinyin": "wò chuò",
+      "meaning": "这里指从前不如意、受拘束的日子。"
+    },
+    {
+      "id": "n-fangdang",
+      "word": "放荡",
+      "pinyin": "fàng dàng",
+      "meaning": "自由自在、无拘无束，不是指调皮捣蛋。"
+    },
+    {
+      "id": "n-wuya",
+      "word": "无涯",
+      "pinyin": "wú yá",
+      "meaning": "没有边际。"
+    },
+    {
+      "id": "n-changan",
+      "word": "长安",
+      "pinyin": "cháng ān",
+      "meaning": "唐朝的都城，就是今天的西安。"
+    }
+  ],
+  "translation": "从前那些不如意的日子，再也不值得一提了。今天考中进士，心里自由自在，想到哪里就想到哪里。骑着马迎着春风跑，马蹄特别轻快。只用一天，我好像就把长安城的花全看遍了。",
+  "appreciation": "考了两次都落榜，四十六岁才考中，孟郊的高兴劲儿全在诗里。马蹄明明还是那个马蹄，他却觉得跑得飞快；长安的花明明看不完，他却说“一日看尽”。心情一好，整个世界都跟着轻快起来。“春风得意”这个成语，就是从这首诗里来的。",
+  "background": "公元 796 年，孟郊第三次进京赶考，终于考中进士。几十年的辛苦一下子有了着落，他骑马走在长安街上，看花赏景，兴奋地写下这首《登科后》。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "多年苦读",
+      "text": "孟郊考了两次都没考中，这一次终于金榜题名。"
+    },
+    {
+      "step": 2,
+      "title": "心情大变",
+      "text": "从前的憋闷一扫而空，他觉得浑身轻松，看什么都高兴。"
+    },
+    {
+      "step": 3,
+      "title": "纵马赏花",
+      "text": "他骑着马迎着春风跑起来，马蹄轻快得像要飞起来。"
+    },
+    {
+      "step": 4,
+      "title": "看尽长安花",
+      "text": "长安街上百花盛开，他兴冲冲地说：一天就能把花看个够！"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "龌龊",
+      "reading": "wò chuò",
+      "reason": "“龌龊”在这里指不痛快的日子，读 wò chuò。"
+    },
+    {
+      "char": "今朝",
+      "reading": "jīn zhāo",
+      "reason": "“今朝”是今天，读 jīn zhāo。",
+      "standard": "不要读成 cháo"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《孟东野诗集》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-24"
+}

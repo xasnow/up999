@@ -1,0 +1,226 @@
+{
+  "id": "tang-shengtang-cuihao-huangelou",
+  "slug": "huangelou",
+  "title": "黄鹤楼",
+  "titlePinyin": "huáng hè lóu",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "七言律诗",
+  "authorId": "cuihao",
+  "gradeBand": "ext",
+  "textbook": "课外拓展篇目",
+  "tags": [
+    "思乡",
+    "传说",
+    "江景",
+    "七言律诗"
+  ],
+  "difficulty": 3,
+  "writtenYear": 730,
+  "writtenLabel": "约公元 730 年（崔颢 27 岁前后，游历江南时）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "日暮乡关何处是？烟波江上使人愁。"
+  ],
+  "lines": [
+    {
+      "text": "昔人已乘黄鹤去，",
+      "pinyin": [
+        "xī",
+        "rén",
+        "yǐ",
+        "chéng",
+        "huáng",
+        "hè",
+        "qù"
+      ],
+      "translation": "传说中的人已经骑着黄鹤飞走了，",
+      "noteIds": [
+        "n-xiren"
+      ]
+    },
+    {
+      "text": "此地空余黄鹤楼。",
+      "pinyin": [
+        "cǐ",
+        "dì",
+        "kōng",
+        "yú",
+        "huáng",
+        "hè",
+        "lóu"
+      ],
+      "translation": "这里只剩下空空的黄鹤楼。",
+      "noteIds": []
+    },
+    {
+      "text": "黄鹤一去不复返，",
+      "pinyin": [
+        "huáng",
+        "hè",
+        "yī",
+        "qù",
+        "bù",
+        "fù",
+        "fǎn"
+      ],
+      "translation": "黄鹤飞走后，再也没有回来，",
+      "noteIds": []
+    },
+    {
+      "text": "白云千载空悠悠。",
+      "pinyin": [
+        "bái",
+        "yún",
+        "qiān",
+        "zǎi",
+        "kōng",
+        "yōu",
+        "yōu"
+      ],
+      "translation": "只有白云飘飘悠悠，飘了上千年。",
+      "noteIds": [
+        "n-zai"
+      ]
+    },
+    {
+      "text": "晴川历历汉阳树，",
+      "pinyin": [
+        "qíng",
+        "chuān",
+        "lì",
+        "lì",
+        "hàn",
+        "yáng",
+        "shù"
+      ],
+      "translation": "晴朗的天色下，江对岸汉阳的树木看得清清楚楚，",
+      "noteIds": [
+        "n-lichuan"
+      ]
+    },
+    {
+      "text": "芳草萋萋鹦鹉洲。",
+      "pinyin": [
+        "fāng",
+        "cǎo",
+        "qī",
+        "qī",
+        "yīng",
+        "wǔ",
+        "zhōu"
+      ],
+      "translation": "鹦鹉洲上，芳草长得又密又茂盛。",
+      "noteIds": [
+        "n-qiqi"
+      ]
+    },
+    {
+      "text": "日暮乡关何处是？",
+      "pinyin": [
+        "rì",
+        "mù",
+        "xiāng",
+        "guān",
+        "hé",
+        "chù",
+        "shì"
+      ],
+      "translation": "天快黑了，我的家乡在哪里呢？",
+      "noteIds": [
+        "n-xiangguan"
+      ]
+    },
+    {
+      "text": "烟波江上使人愁。",
+      "pinyin": [
+        "yān",
+        "bō",
+        "jiāng",
+        "shàng",
+        "shǐ",
+        "rén",
+        "chóu"
+      ],
+      "translation": "江上茫茫的雾气，让人心里泛起了忧愁。",
+      "noteIds": []
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-xiren",
+      "word": "昔人",
+      "pinyin": "xī rén",
+      "meaning": "传说中骑着黄鹤飞走的仙人，指很久以前的人。"
+    },
+    {
+      "id": "n-zai",
+      "word": "载",
+      "pinyin": "zǎi",
+      "meaning": "年。千载就是一千年。"
+    },
+    {
+      "id": "n-lichuan",
+      "word": "历历",
+      "pinyin": "lì lì",
+      "meaning": "看得清清楚楚的样子。"
+    },
+    {
+      "id": "n-qiqi",
+      "word": "萋萋",
+      "pinyin": "qī qī",
+      "meaning": "草长得又密又茂盛。"
+    },
+    {
+      "id": "n-xiangguan",
+      "word": "乡关",
+      "pinyin": "xiāng guān",
+      "meaning": "家乡。"
+    }
+  ],
+  "translation": "传说中的人已经骑着黄鹤飞走了，这里只剩下空空的黄鹤楼。黄鹤飞走后，再也没有回来，只有白云飘飘悠悠，飘了上千年。晴朗的天色下，江对岸汉阳的树木看得清清楚楚；鹦鹉洲上，芳草长得又密又茂盛。天快黑了，我的家乡在哪里呢？江上茫茫的雾气，让人心里泛起了忧愁。",
+  "appreciation": "这首诗前四句讲传说，像在讲故事；后四句写眼前，像在画画。诗人连用三次“黄鹤”，一点也不嫌重复，反而读起来又快又顺。最后他把目光收回来：天黑了，江上起雾了，家还在很远的地方。传说有多神奇，乡愁就有多深。怪不得李白读了，都连声说好。",
+  "background": "约公元 730 年，崔颢游历江南，来到武昌的黄鹤楼。传说有仙人骑着黄鹤在这里停留过，楼也因此得名。傍晚时分，他登楼远望，江水浩浩，暮色渐渐漫上来，想家的念头再也压不住，于是题下了这首诗。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "登上黄鹤楼",
+      "text": "崔颢游历到武昌，登上传说中的黄鹤楼。"
+    },
+    {
+      "step": 2,
+      "title": "想起传说",
+      "text": "听说很久以前，有仙人骑着黄鹤从这里飞走，再也没有回来。"
+    },
+    {
+      "step": 3,
+      "title": "远望江景",
+      "text": "晴朗的天空下，汉阳的树看得清清楚楚，鹦鹉洲上绿草如茵。"
+    },
+    {
+      "step": 4,
+      "title": "想起了家",
+      "text": "天色暗了，江上起了雾。他望着远方，心里想：我的家乡在哪里呢？"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "载",
+      "reading": "zǎi",
+      "reason": "“千载”是一千年，读 zǎi。",
+      "standard": "不要读成 zài"
+    },
+    {
+      "char": "萋萋",
+      "reading": "qī qī",
+      "reason": "“萋萋”形容草长得茂盛，两个字都读 qī。"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗鉴赏辞典》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-24"
+}

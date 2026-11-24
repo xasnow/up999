@@ -1,0 +1,134 @@
+{
+  "id": "tang-zhongtang-liuyuxi-chouletian",
+  "slug": "chouletian",
+  "title": "酬乐天扬州初逢席上见赠",
+  "titlePinyin": "chóu lè tiān yáng zhōu chū féng xí shàng jiàn zèng",
+  "dynasty": "tangshi",
+  "era": "zhongtang",
+  "genre": "shi",
+  "form": "七言律诗",
+  "authorId": "liuyuxi",
+  "gradeBand": "ext",
+  "tags": ["友情", "励志", "重逢", "七言律诗"],
+  "difficulty": 4,
+  "writtenYear": 826,
+  "writtenLabel": "约公元 826 年（刘禹锡 55 岁）",
+  "orderInAuthor": 5,
+  "famousLines": [
+    "沉舟侧畔千帆过，病树前头万木春。"
+  ],
+  "lines": [
+    {
+      "text": "巴山楚水凄凉地，",
+      "pinyin": ["bā", "shān", "chǔ", "shuǐ", "qī", "liáng", "dì"],
+      "translation": "我在巴山楚水这些凄凉的地方，",
+      "noteIds": []
+    },
+    {
+      "text": "二十三年弃置身。",
+      "pinyin": ["èr", "shí", "sān", "nián", "qì", "zhì", "shēn"],
+      "translation": "被丢在一边，过了二十三年。",
+      "noteIds": ["n-qizhi"]
+    },
+    {
+      "text": "怀旧空吟闻笛赋，",
+      "pinyin": ["huái", "jiù", "kōng", "yín", "wén", "dí", "fù"],
+      "translation": "想念老朋友，只能白白地吟着《思旧赋》，",
+      "noteIds": ["n-wendifu"]
+    },
+    {
+      "text": "到乡翻似烂柯人。",
+      "pinyin": ["dào", "xiāng", "fān", "sì", "làn", "kē", "rén"],
+      "translation": "回到家乡，倒像那个烂柯人，什么都变了。",
+      "noteIds": ["n-lanke"]
+    },
+    {
+      "text": "沉舟侧畔千帆过，",
+      "pinyin": ["chén", "zhōu", "cè", "pàn", "qiān", "fān", "guò"],
+      "translation": "沉船旁边，千条大船驶过，",
+      "noteIds": ["n-pan"]
+    },
+    {
+      "text": "病树前头万木春。",
+      "pinyin": ["bìng", "shù", "qián", "tóu", "wàn", "mù", "chūn"],
+      "translation": "病树前头，万棵大树争着迎春。",
+      "noteIds": []
+    },
+    {
+      "text": "今日听君歌一曲，",
+      "pinyin": ["jīn", "rì", "tīng", "jūn", "gē", "yī", "qǔ"],
+      "translation": "今天听了你的一支歌，",
+      "noteIds": []
+    },
+    {
+      "text": "暂凭杯酒长精神。",
+      "pinyin": ["zàn", "píng", "bēi", "jiǔ", "zhǎng", "jīng", "shén"],
+      "translation": "借这杯酒，让自己重新振作起来。",
+      "noteIds": ["n-zhang"]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-qizhi",
+      "word": "弃置身",
+      "pinyin": "qì zhì shēn",
+      "meaning": "被丢在一边，指被贬官、不受重用。"
+    },
+    {
+      "id": "n-wendifu",
+      "word": "闻笛赋",
+      "pinyin": "wén dí fù",
+      "meaning": "西晋向秀想念亡友写了《思旧赋》，这里指怀念老朋友。"
+    },
+    {
+      "id": "n-lanke",
+      "word": "烂柯人",
+      "pinyin": "làn kē rén",
+      "meaning": "传说有个樵夫看神仙下棋，斧柄烂掉了。柯，就是斧柄。"
+    },
+    {
+      "id": "n-pan",
+      "word": "畔",
+      "pinyin": "pàn",
+      "meaning": "边，旁边。"
+    },
+    {
+      "id": "n-zhang",
+      "word": "长",
+      "pinyin": "zhǎng",
+      "meaning": "增长，振作。这里读 zhǎng。"
+    }
+  ],
+  "translation": "我在巴山楚水的凄凉之地，被搁置了二十三年。想念旧友，只能白白吟着《思旧赋》；回到家乡，像那个烂柯人，什么都变了。沉船旁边，千帆驶过；病树前头，万木争春。今天听了你的一支歌，借这杯酒振作精神。",
+  "appreciation": "二十三年被冷落，开头读来让人心疼。接着画面一转：沉船旁边，千帆照样驶过。病树前面，万棵大树争着迎春。苦难挡不住新气象，这首诗教我们乐观向前。",
+  "background": "公元 826 年，刘禹锡结束长期贬官，踏上北归路。途经扬州时，他遇到了白居易。白居易写诗安慰他，他当场写诗答谢。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "相逢扬州",
+      "text": "被贬二十三年后，刘禹锡北归路上遇到白居易。"
+    },
+    {
+      "step": 2,
+      "title": "白公赠诗",
+      "text": "宴席上，白居易写诗，心疼他的遭遇。"
+    },
+    {
+      "step": 3,
+      "title": "以诗作答",
+      "text": "刘禹锡举起酒杯，当场写了这首诗回答。"
+    },
+    {
+      "step": 4,
+      "title": "振作精神",
+      "text": "他说：借你这首歌和这杯酒，我重新打起精神。"
+    }
+  ],
+  "pinyinNotes": [],
+  "sources": [
+    "《刘禹锡集》（中华书局）",
+    "《唐诗鉴赏辞典》（上海辞书出版社）"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-24"
+}

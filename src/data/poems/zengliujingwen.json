@@ -1,0 +1,157 @@
+{
+  "id": "songci-beisong-sushi-zengliujingwen",
+  "slug": "zengliujingwen",
+  "title": "赠刘景文",
+  "titlePinyin": "zèng liú jǐng wén",
+  "dynasty": "songci",
+  "era": "beisong",
+  "genre": "shi",
+  "form": "七言绝句",
+  "authorId": "sushi",
+  "gradeBand": "ext",
+  "textbook": "部编版语文三年级上册",
+  "tags": [
+    "秋天",
+    "橙橘",
+    "鼓励",
+    "七言绝句"
+  ],
+  "difficulty": 3,
+  "writtenYear": 1090,
+  "writtenLabel": "约公元 1090 年（苏轼 53 岁左右）",
+  "orderInAuthor": 6,
+  "famousLines": [
+    "一年好景君须记，最是橙黄橘绿时。"
+  ],
+  "lines": [
+    {
+      "text": "荷尽已无擎雨盖，",
+      "pinyin": [
+        "hé",
+        "jìn",
+        "yǐ",
+        "wú",
+        "qíng",
+        "yǔ",
+        "gài"
+      ],
+      "translation": "荷花谢了，再没有举着的绿雨伞，",
+      "noteIds": [
+        "n-qingyugai"
+      ]
+    },
+    {
+      "text": "菊残犹有傲霜枝。",
+      "pinyin": [
+        "jú",
+        "cán",
+        "yóu",
+        "yǒu",
+        "ào",
+        "shuāng",
+        "zhī"
+      ],
+      "translation": "菊花蔫了，不怕霜的花枝还挺立着。",
+      "noteIds": [
+        "n-you",
+        "n-aoshuang"
+      ]
+    },
+    {
+      "text": "一年好景君须记，",
+      "pinyin": [
+        "yī",
+        "nián",
+        "hǎo",
+        "jǐng",
+        "jūn",
+        "xū",
+        "jì"
+      ],
+      "translation": "一年里最好的景致，你可要记住：",
+      "noteIds": [
+        "n-jun"
+      ]
+    },
+    {
+      "text": "最是橙黄橘绿时。",
+      "pinyin": [
+        "zuì",
+        "shì",
+        "chéng",
+        "huáng",
+        "jú",
+        "lǜ",
+        "shí"
+      ],
+      "translation": "正是橙子黄、橘子还绿的时节。",
+      "noteIds": [
+        "n-chenghuangjulv"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-qingyugai",
+      "word": "擎雨盖",
+      "pinyin": "qíng yǔ gài",
+      "meaning": "指荷叶。它像一把举起来挡雨的大伞。"
+    },
+    {
+      "id": "n-you",
+      "word": "犹",
+      "pinyin": "yóu",
+      "meaning": "还、仍然。"
+    },
+    {
+      "id": "n-aoshuang",
+      "word": "傲霜",
+      "pinyin": "ào shuāng",
+      "meaning": "不怕霜冻，精神抖擞地挺立着。"
+    },
+    {
+      "id": "n-jun",
+      "word": "君",
+      "pinyin": "jūn",
+      "meaning": "你，指刘景文。"
+    },
+    {
+      "id": "n-chenghuangjulv",
+      "word": "橙黄橘绿",
+      "pinyin": "chéng huáng jú lǜ",
+      "meaning": "橙子变黄、橘子还绿，正是丰收好时节。"
+    }
+  ],
+  "translation": "荷花谢了，再没有举着的绿雨伞；菊花蔫了，不怕霜的花枝还挺立着。一年里最好的景致你要记住：正是橙子黄、橘子还绿的时节。",
+  "appreciation": "荷花谢了，菊花蔫了，秋天是不是有点冷清？别急！菊枝还在傲霜挺立，橙子黄了，橘子还绿着，果实挂满枝头。苏轼挑这“最好的景致”送给朋友：一年四季各有各的好，走到哪一步都有亮光。这是写给大朋友的加油诗，也是写给小朋友的夸奖诗。",
+  "background": "约公元 1090 年，苏轼在杭州做官，认识了年长的朋友刘景文。初冬时节，他请刘景文吃橙子、橘子，还写下这首诗鼓励他：最好的时光，就在眼前。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "荷尽菊残",
+      "text": "初冬时节，荷花谢了，菊花也蔫了，池塘边冷清下来。"
+    },
+    {
+      "step": 2,
+      "title": "别急着叹气",
+      "text": "苏轼发现：菊枝还傲霜挺立，一点不肯低头。"
+    },
+    {
+      "step": 3,
+      "title": "橙黄橘绿",
+      "text": "他抬眼一看，果园里橙子黄、橘子绿，果实正好呢。"
+    },
+    {
+      "step": 4,
+      "title": "送给朋友的礼物",
+      "text": "他把这好景写成诗送给刘景文：记住最好的时光呀！"
+    }
+  ],
+  "pinyinNotes": [],
+  "sources": [
+    "部编版语文三年级上册",
+    "《苏轼诗集》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-24"
+}

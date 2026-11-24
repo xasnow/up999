@@ -1,0 +1,110 @@
+{
+  "id": "tang-wantang-lishangyin-yeyujibei",
+  "slug": "yeyujibei",
+  "title": "夜雨寄北",
+  "titlePinyin": "yè yǔ jì běi",
+  "dynasty": "tangshi",
+  "era": "wantang",
+  "genre": "shi",
+  "form": "七言绝句",
+  "authorId": "lishangyin",
+  "gradeBand": "ext",
+  "tags": ["思念", "雨夜", "友情", "七言绝句"],
+  "difficulty": 4,
+  "writtenYear": 850,
+  "writtenLabel": "约公元 850 年（李商隐 38 岁）",
+  "orderInAuthor": 2,
+  "famousLines": [
+    "何当共剪西窗烛，却话巴山夜雨时。"
+  ],
+  "lines": [
+    {
+      "text": "君问归期未有期，",
+      "pinyin": ["jūn", "wèn", "guī", "qī", "wèi", "yǒu", "qī"],
+      "translation": "你问我回家的日子，我还没定下来，",
+      "noteIds": ["n-jun", "n-guiqi"]
+    },
+    {
+      "text": "巴山夜雨涨秋池。",
+      "pinyin": ["bā", "shān", "yè", "yǔ", "zhǎng", "qiū", "chí"],
+      "translation": "巴山夜里下着雨，池水涨满了。",
+      "noteIds": ["n-zhang"]
+    },
+    {
+      "text": "何当共剪西窗烛，",
+      "pinyin": ["hé", "dāng", "gòng", "jiǎn", "xī", "chuāng", "zhú"],
+      "translation": "什么时候能一起在窗下剪烛花，",
+      "noteIds": ["n-hedang", "n-jianzhu"]
+    },
+    {
+      "text": "却话巴山夜雨时。",
+      "pinyin": ["què", "huà", "bā", "shān", "yè", "yǔ", "shí"],
+      "translation": "再聊起今晚这巴山夜雨的情景呢？",
+      "noteIds": []
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-jun",
+      "word": "君",
+      "pinyin": "jūn",
+      "meaning": "您，对人的尊称。"
+    },
+    {
+      "id": "n-guiqi",
+      "word": "归期",
+      "pinyin": "guī qī",
+      "meaning": "回家的日期。"
+    },
+    {
+      "id": "n-zhang",
+      "word": "涨",
+      "pinyin": "zhǎng",
+      "meaning": "水位升高。"
+    },
+    {
+      "id": "n-hedang",
+      "word": "何当",
+      "pinyin": "hé dāng",
+      "meaning": "什么时候才能。"
+    },
+    {
+      "id": "n-jianzhu",
+      "word": "剪烛",
+      "pinyin": "jiǎn zhú",
+      "meaning": "剪掉烧短的烛芯，让蜡烛更亮。"
+    }
+  ],
+  "translation": "你问我回家的日子，我还没定。巴山夜里下着雨，涨满了秋天的池塘。什么时候能一起剪烛花，在窗下聊聊今晚的夜雨呢？",
+  "appreciation": "“期”字出现两次，一问一答，读起来像说话。巴山夜雨涨满秋池，思念也被泡得满满的。他想象将来：两人一起在窗前剪烛花聊天。把今晚的雨，当成将来聊天的话题，多妙呀。",
+  "background": "公元 850 年，李商隐客居巴蜀一带。一位亲友来信，问他什么时候回家。夜里下雨，他提笔写下这首回信的诗。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "收到来信",
+      "text": "巴山的夜里下着雨，李商隐收到远方的来信。"
+    },
+    {
+      "step": 2,
+      "title": "无法回答",
+      "text": "信里问：什么时候回来？他叹气，还定不了。"
+    },
+    {
+      "step": 3,
+      "title": "雨涨秋池",
+      "text": "雨越下越大，池塘涨满，他的思念也涨满了。"
+    },
+    {
+      "step": 4,
+      "title": "盼望重逢",
+      "text": "他盼着哪天重聚，在西窗下聊起今晚这场雨。"
+    }
+  ],
+  "pinyinNotes": [],
+  "sources": [
+    "《李商隐诗歌集解》（中华书局）",
+    "《唐诗鉴赏辞典》（上海辞书出版社）"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-24"
+}

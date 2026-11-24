@@ -1,0 +1,177 @@
+{
+  "id": "songci-beisong-liqingzhao-rumengling-zhouye",
+  "slug": "rumengling-zhouye",
+  "title": "如梦令·昨夜雨疏风骤",
+  "titlePinyin": "rú mèng lìng · zuó yè yǔ shū fēng zhòu",
+  "dynasty": "songci",
+  "era": "beisong",
+  "genre": "ci",
+  "form": "词（小令）",
+  "authorId": "liqingzhao",
+  "gradeBand": "ext",
+  "textbook": "课外拓展篇目",
+  "tags": [
+    "海棠",
+    "惜花",
+    "对话",
+    "词"
+  ],
+  "difficulty": 3,
+  "writtenYear": 1100,
+  "writtenLabel": "约公元 1100 年（李清照 16 岁左右）",
+  "orderInAuthor": 3,
+  "famousLines": [
+    "知否，知否？应是绿肥红瘦。"
+  ],
+  "lines": [
+    {
+      "text": "昨夜雨疏风骤，",
+      "pinyin": [
+        "zuó",
+        "yè",
+        "yǔ",
+        "shū",
+        "fēng",
+        "zhòu"
+      ],
+      "translation": "昨天夜里，雨稀稀拉拉，风又急又猛，",
+      "noteIds": [
+        "n-yushu"
+      ]
+    },
+    {
+      "text": "浓睡不消残酒。",
+      "pinyin": [
+        "nóng",
+        "shuì",
+        "bù",
+        "xiāo",
+        "cán",
+        "jiǔ"
+      ],
+      "translation": "睡了一大觉，头还有点晕晕的。",
+      "noteIds": [
+        "n-canjiu"
+      ]
+    },
+    {
+      "text": "试问卷帘人，",
+      "pinyin": [
+        "shì",
+        "wèn",
+        "juǎn",
+        "lián",
+        "rén"
+      ],
+      "translation": "我问卷帘子的侍女：外面怎么样了？",
+      "noteIds": [
+        "n-juanlianren"
+      ]
+    },
+    {
+      "text": "却道海棠依旧。",
+      "pinyin": [
+        "què",
+        "dào",
+        "hǎi",
+        "táng",
+        "yī",
+        "jiù"
+      ],
+      "translation": "她说：海棠花还是老样子呀。",
+      "noteIds": [
+        "n-yijiu"
+      ]
+    },
+    {
+      "text": "知否，知否？",
+      "pinyin": [
+        "zhī",
+        "fǒu",
+        "zhī",
+        "fǒu"
+      ],
+      "translation": "你知道吗？你知道吗？",
+      "noteIds": []
+    },
+    {
+      "text": "应是绿肥红瘦。",
+      "pinyin": [
+        "yīng",
+        "shì",
+        "lǜ",
+        "féi",
+        "hóng",
+        "shòu"
+      ],
+      "translation": "应该是绿叶更肥了，红花变瘦了呀。",
+      "noteIds": [
+        "n-lvfeihongshou"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-yushu",
+      "word": "雨疏",
+      "pinyin": "yǔ shū",
+      "meaning": "雨下得稀稀拉拉。"
+    },
+    {
+      "id": "n-canjiu",
+      "word": "残酒",
+      "pinyin": "cán jiǔ",
+      "meaning": "还没消退的酒意。"
+    },
+    {
+      "id": "n-juanlianren",
+      "word": "卷帘人",
+      "pinyin": "juǎn lián rén",
+      "meaning": "正在卷帘子的侍女。"
+    },
+    {
+      "id": "n-yijiu",
+      "word": "依旧",
+      "pinyin": "yī jiù",
+      "meaning": "和原来一样。"
+    },
+    {
+      "id": "n-lvfeihongshou",
+      "word": "绿肥红瘦",
+      "pinyin": "lǜ féi hóng shòu",
+      "meaning": "绿叶更茂盛，红花更稀少，花快谢了。"
+    }
+  ],
+  "translation": "昨夜雨下得稀稀拉拉，风又急又猛；睡了一大觉，头还有点晕。我问卷帘的侍女：外面怎么样了？她说海棠还是老样子。你知道吗？应该是绿叶更肥、红花变瘦了呀。",
+  "appreciation": "一夜风雨，词人最惦记的是海棠花。侍女说“依旧”，她却连问两声“知否”：花可是变了呀！绿更肥、红更瘦，颜色一胖一瘦，就写出了春天的悄悄变化。这场小小的对话，让我们看见：爱花的人，连一片花瓣都放在心上。",
+  "background": "约公元 1100 年的一个清晨，李清照醒来，记起昨夜的风声雨声。她惦记院里的海棠花，赶紧问卷帘的侍女。听了回答，她笑着摇头，把这场小对话写成了词。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "昨夜风雨",
+      "text": "夜里下了稀稀拉拉的雨，风刮得又急又猛。"
+    },
+    {
+      "step": 2,
+      "title": "醒来先问花",
+      "text": "李清照一醒来，先问卷帘的侍女：花怎么样了？"
+    },
+    {
+      "step": 3,
+      "title": "还是老样子",
+      "text": "侍女看了看说：海棠花还是老样子呀。"
+    },
+    {
+      "step": 4,
+      "title": "绿肥红瘦",
+      "text": "她笑着摇头：绿叶更肥、红花更瘦，花是变了呀！"
+    }
+  ],
+  "pinyinNotes": [],
+  "sources": [
+    "《漱玉词》",
+    "《宋词三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-24"
+}

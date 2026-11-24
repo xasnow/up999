@@ -1,0 +1,157 @@
+{
+  "id": "songci-nansong-zhuxi-guanshuyougan",
+  "slug": "guanshuyougan",
+  "title": "观书有感（其一）",
+  "titlePinyin": "guān shū yǒu gǎn（qí yī）",
+  "dynasty": "songci",
+  "era": "nansong",
+  "genre": "shi",
+  "form": "七言绝句",
+  "authorId": "zhuxi",
+  "gradeBand": "ext",
+  "textbook": "课外拓展篇目",
+  "tags": [
+    "读书",
+    "比喻",
+    "池塘",
+    "七言绝句"
+  ],
+  "difficulty": 3,
+  "writtenYear": 1160,
+  "writtenLabel": "约公元 1160 年（朱熹 30 岁左右）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "问渠那得清如许？为有源头活水来。"
+  ],
+  "lines": [
+    {
+      "text": "半亩方塘一鉴开，",
+      "pinyin": [
+        "bàn",
+        "mǔ",
+        "fāng",
+        "táng",
+        "yī",
+        "jiàn",
+        "kāi"
+      ],
+      "translation": "半亩方形的水塘，像一面打开的镜子，",
+      "noteIds": [
+        "n-jian"
+      ]
+    },
+    {
+      "text": "天光云影共徘徊。",
+      "pinyin": [
+        "tiān",
+        "guāng",
+        "yún",
+        "yǐng",
+        "gòng",
+        "pái",
+        "huái"
+      ],
+      "translation": "天光和云影在水面上一起轻轻移动。",
+      "noteIds": [
+        "n-paihuai"
+      ]
+    },
+    {
+      "text": "问渠那得清如许？",
+      "pinyin": [
+        "wèn",
+        "qú",
+        "nǎ",
+        "dé",
+        "qīng",
+        "rú",
+        "xǔ"
+      ],
+      "translation": "问它：怎么会这样清亮？",
+      "noteIds": [
+        "n-qu",
+        "n-nade"
+      ]
+    },
+    {
+      "text": "为有源头活水来。",
+      "pinyin": [
+        "wèi",
+        "yǒu",
+        "yuán",
+        "tóu",
+        "huó",
+        "shuǐ",
+        "lái"
+      ],
+      "translation": "因为有源头，总送来新的活水。",
+      "noteIds": [
+        "n-weiyuan"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-jian",
+      "word": "鉴",
+      "pinyin": "jiàn",
+      "meaning": "镜子。塘水像一面打开的镜子。"
+    },
+    {
+      "id": "n-paihuai",
+      "word": "徘徊",
+      "pinyin": "pái huái",
+      "meaning": "来回移动。天光云影在水面轻轻晃。"
+    },
+    {
+      "id": "n-qu",
+      "word": "渠",
+      "pinyin": "qú",
+      "meaning": "它，指方塘。"
+    },
+    {
+      "id": "n-nade",
+      "word": "那得",
+      "pinyin": "nǎ dé",
+      "meaning": "怎么会。那，读 nǎ，怎么。"
+    },
+    {
+      "id": "n-weiyuan",
+      "word": "源头活水",
+      "pinyin": "yuán tóu huó shuǐ",
+      "meaning": "源头不断流来的新鲜水。"
+    }
+  ],
+  "translation": "半亩方形的水塘像一面打开的镜子，天光和云影在水面上一起轻轻移动。问它：怎么会这样清亮？因为有源头，总送来新的活水。",
+  "appreciation": "题目说“读书的感想”，诗里却一句书都不提。诗人像记者一样采访池塘：你怎么这么清？池塘回答：因为源头一直给我送活水！读书也是这样——新知识不断进来，脑子里的水才会清亮亮的。用小池塘讲大道理，这就是朱熹的本事。",
+  "background": "约公元 1160 年，朱熹在福建读书讲学。一天他走到半亩方塘边，看见天光云影落在清亮亮的水里，忽然想到：脑子里的知识要不断更新，就像池塘要有活水。他写下了这首“读书笔记”。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "塘边散步",
+      "text": "朱熹在书院附近散步，走到一口半亩大小的方塘边。"
+    },
+    {
+      "step": 2,
+      "title": "一面大镜子",
+      "text": "水面清得像镜子，天光和云影在水里轻轻晃动。"
+    },
+    {
+      "step": 3,
+      "title": "问池塘一句话",
+      "text": "他打趣地问：小池塘，你怎么会这么清亮呀？"
+    },
+    {
+      "step": 4,
+      "title": "活水的答案",
+      "text": "他替池塘回答：因为源头一直送来新的活水呀！读书也一样。"
+    }
+  ],
+  "pinyinNotes": [],
+  "sources": [
+    "《晦庵先生朱文公文集》",
+    "《宋诗选注》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-24"
+}

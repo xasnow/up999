@@ -1,0 +1,156 @@
+{
+  "id": "songci-nansong-luyou-qiuyingliang",
+  "slug": "qiuyingliang",
+  "title": "秋夜将晓出篱门迎凉有感",
+  "titlePinyin": "qiū yè jiāng xiǎo chū lí mén yíng liáng yǒu gǎn",
+  "dynasty": "songci",
+  "era": "nansong",
+  "genre": "shi",
+  "form": "七言绝句",
+  "authorId": "luyou",
+  "gradeBand": "ext",
+  "textbook": "部编版语文五年级下册",
+  "tags": [
+    "山河",
+    "盼望",
+    "七言绝句"
+  ],
+  "difficulty": 4,
+  "writtenYear": 1192,
+  "writtenLabel": "约公元 1192 年（陆游 67 岁左右）",
+  "orderInAuthor": 3,
+  "famousLines": [
+    "三万里河东入海，五千仞岳上摩天。"
+  ],
+  "lines": [
+    {
+      "text": "三万里河东入海，",
+      "pinyin": [
+        "sān",
+        "wàn",
+        "lǐ",
+        "hé",
+        "dōng",
+        "rù",
+        "hǎi"
+      ],
+      "translation": "长长的黄河一路向东，奔进大海，",
+      "noteIds": [
+        "n-sanwanlihe"
+      ]
+    },
+    {
+      "text": "五千仞岳上摩天。",
+      "pinyin": [
+        "wǔ",
+        "qiān",
+        "rèn",
+        "yuè",
+        "shàng",
+        "mó",
+        "tiān"
+      ],
+      "translation": "高高的华山耸立着，像要碰到天空。",
+      "noteIds": [
+        "n-ren",
+        "n-motian"
+      ]
+    },
+    {
+      "text": "遗民泪尽胡尘里，",
+      "pinyin": [
+        "yí",
+        "mín",
+        "lèi",
+        "jìn",
+        "hú",
+        "chén",
+        "lǐ"
+      ],
+      "translation": "北方的人们想念家乡，盼了又盼，",
+      "noteIds": [
+        "n-yimin"
+      ]
+    },
+    {
+      "text": "南望王师又一年。",
+      "pinyin": [
+        "nán",
+        "wàng",
+        "wáng",
+        "shī",
+        "yòu",
+        "yī",
+        "nián"
+      ],
+      "translation": "向南望着盼着，又过了一年。",
+      "noteIds": [
+        "n-wangshi"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-sanwanlihe",
+      "word": "三万里河",
+      "pinyin": "sān wàn lǐ hé",
+      "meaning": "指黄河。三万里形容它特别长。"
+    },
+    {
+      "id": "n-ren",
+      "word": "仞",
+      "pinyin": "rèn",
+      "meaning": "古代的长度单位。五千仞形容山特别高。"
+    },
+    {
+      "id": "n-motian",
+      "word": "摩天",
+      "pinyin": "mó tiān",
+      "meaning": "碰到天。形容山高得快挨着天了。"
+    },
+    {
+      "id": "n-yimin",
+      "word": "遗民",
+      "pinyin": "yí mín",
+      "meaning": "指北方还盼着与南方团聚的百姓。"
+    },
+    {
+      "id": "n-wangshi",
+      "word": "王师",
+      "pinyin": "wáng shī",
+      "meaning": "朝廷的队伍。"
+    }
+  ],
+  "translation": "长长的黄河一路向东奔进大海，高高的华山耸立着直上云天。北方的人们想念家乡，盼了又盼，向南望着盼着，又过了一年。",
+  "appreciation": "开头两句像一幅大画：黄河有力量，高山有骨气，祖国的山河多气派！后两句是画里的目光：有人天天向着南方望，一望就是一年。诗里没有喊口号，可那份盼了又盼的心，谁读了都会被轻轻撞一下。读这首诗，要记住两个词：山河，盼望。",
+  "background": "公元 1192 年的一个秋夜，天快亮的时候，六十八岁的陆游睡不着，走出篱笆门迎着凉风。他想起北方的黄河和华山，想起还在盼望的人们，写下这首诗。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "秋夜睡不着",
+      "text": "秋夜天快亮了，陆游睡不着，走出篱笆门吹吹凉风。"
+    },
+    {
+      "step": 2,
+      "title": "心里的大河高山",
+      "text": "他想起黄河奔向大海，高山高耸入云，山河多壮丽。"
+    },
+    {
+      "step": 3,
+      "title": "盼了又望",
+      "text": "北方的人们天天朝南望，盼着亲人团聚的消息。"
+    },
+    {
+      "step": 4,
+      "title": "又是一年",
+      "text": "一年年过去，他们的盼望还在，像星星一样亮着。"
+    }
+  ],
+  "pinyinNotes": [],
+  "sources": [
+    "部编版语文五年级下册",
+    "《剑南诗稿》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-24"
+}

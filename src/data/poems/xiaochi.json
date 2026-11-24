@@ -1,0 +1,157 @@
+{
+  "id": "songci-nansong-yangwanli-xiaochi",
+  "slug": "xiaochi",
+  "title": "小池",
+  "titlePinyin": "xiǎo chí",
+  "dynasty": "songci",
+  "era": "nansong",
+  "genre": "shi",
+  "form": "七言绝句",
+  "authorId": "yangwanli",
+  "gradeBand": "ext",
+  "textbook": "部编版语文一年级下册",
+  "tags": [
+    "夏日",
+    "池塘",
+    "自然",
+    "七言绝句"
+  ],
+  "difficulty": 2,
+  "writtenYear": 1177,
+  "writtenLabel": "约公元 1177 年（杨万里 50 岁左右）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "小荷才露尖尖角，早有蜻蜓立上头。"
+  ],
+  "lines": [
+    {
+      "text": "泉眼无声惜细流，",
+      "pinyin": [
+        "quán",
+        "yǎn",
+        "wú",
+        "shēng",
+        "xī",
+        "xì",
+        "liú"
+      ],
+      "translation": "泉眼悄悄地流出细细的水流，",
+      "noteIds": [
+        "n-quyan",
+        "n-xi"
+      ]
+    },
+    {
+      "text": "树阴照水爱晴柔。",
+      "pinyin": [
+        "shù",
+        "yīn",
+        "zhào",
+        "shuǐ",
+        "ài",
+        "qíng",
+        "róu"
+      ],
+      "translation": "树阴映在池水上，喜欢这晴天的温柔。",
+      "noteIds": [
+        "n-qingrou"
+      ]
+    },
+    {
+      "text": "小荷才露尖尖角，",
+      "pinyin": [
+        "xiǎo",
+        "hé",
+        "cái",
+        "lù",
+        "jiān",
+        "jiān",
+        "jiǎo"
+      ],
+      "translation": "小荷叶刚刚露出尖尖的小角，",
+      "noteIds": [
+        "n-jianjiao"
+      ]
+    },
+    {
+      "text": "早有蜻蜓立上头。",
+      "pinyin": [
+        "zǎo",
+        "yǒu",
+        "qīng",
+        "tíng",
+        "lì",
+        "shàng",
+        "tóu"
+      ],
+      "translation": "早就有一只蜻蜓轻轻落在上面了。",
+      "noteIds": [
+        "n-qingting"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-quyan",
+      "word": "泉眼",
+      "pinyin": "quán yǎn",
+      "meaning": "泉水的出口。池水就是从这里慢慢流出来的。"
+    },
+    {
+      "id": "n-xi",
+      "word": "惜",
+      "pinyin": "xī",
+      "meaning": "爱惜、舍不得。泉水好像很爱惜细流，轻轻地流。"
+    },
+    {
+      "id": "n-qingrou",
+      "word": "晴柔",
+      "pinyin": "qíng róu",
+      "meaning": "晴天里柔和的风光。"
+    },
+    {
+      "id": "n-jianjiao",
+      "word": "尖尖角",
+      "pinyin": "jiān jiān jiǎo",
+      "meaning": "荷叶还没展开时，卷着的尖尖的小角。"
+    },
+    {
+      "id": "n-qingting",
+      "word": "蜻蜓",
+      "pinyin": "qīng tíng",
+      "meaning": "一种会飞的昆虫，喜欢在水边飞来飞去。"
+    }
+  ],
+  "translation": "泉眼悄悄地流出细细的水流，好像很爱惜它；树阴映在池水里，喜欢这晴天的柔和。小荷叶刚刚露出尖尖的角，早就有一只蜻蜓轻轻地落在上面了。",
+  "appreciation": "泉眼会“惜”水，树阴会“爱”风光，小池一下子就活了。小荷尖角和蜻蜓是一对好搭档，一个刚露头，一个就赶到。诗人蹲在池边看得特别细，才能发现这么可爱的小瞬间。写大自然，就要像他这样用心看。",
+  "background": "公元 1177 年前后，杨万里在常州做官。夏天的傍晚，他常在小池边散步。他发现泉水、荷叶、蜻蜓各有各的可爱，就写下了这首小诗。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "来到小池",
+      "text": "夏日的傍晚，杨万里散步来到一个安静的小池边。"
+    },
+    {
+      "step": 2,
+      "title": "细细的泉眼",
+      "text": "他发现泉眼悄悄地流出细细的水，好像舍不得多流。"
+    },
+    {
+      "step": 3,
+      "title": "小荷露尖角",
+      "text": "水面上，小荷叶刚露出尖尖的小角，嫩嫩的、卷卷的。"
+    },
+    {
+      "step": 4,
+      "title": "蜻蜓抢先落",
+      "text": "一只蜻蜓飞来，稳稳地立在尖角上，比谁都先到。"
+    }
+  ],
+  "pinyinNotes": [],
+  "sources": [
+    "部编版语文一年级下册",
+    "《诚斋集》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-24"
+}

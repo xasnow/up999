@@ -1,0 +1,110 @@
+{
+  "id": "tang-zhongtang-weiyingwu-qiuyejikuiyuanwai",
+  "slug": "qiuyejikuiyuanwai",
+  "title": "秋夜寄邱员外",
+  "titlePinyin": "qiū yè jì qiū yuán wài",
+  "dynasty": "tangshi",
+  "era": "zhongtang",
+  "genre": "shi",
+  "form": "五言绝句",
+  "authorId": "weiyingwu",
+  "gradeBand": "ext",
+  "tags": ["思念", "秋天", "友情", "五言绝句"],
+  "difficulty": 3,
+  "writtenYear": 785,
+  "writtenLabel": "约公元 785 年（韦应物 49 岁）",
+  "orderInAuthor": 2,
+  "famousLines": [
+    "空山松子落，幽人应未眠。"
+  ],
+  "lines": [
+    {
+      "text": "怀君属秋夜，",
+      "pinyin": ["huái", "jūn", "shǔ", "qiū", "yè"],
+      "translation": "想念你呀，正赶上这秋凉之夜，",
+      "noteIds": ["n-huai", "n-shu"]
+    },
+    {
+      "text": "散步咏凉天。",
+      "pinyin": ["sàn", "bù", "yǒng", "liáng", "tiān"],
+      "translation": "我一边散步，一边吟着凉天的诗。",
+      "noteIds": ["n-yong"]
+    },
+    {
+      "text": "空山松子落，",
+      "pinyin": ["kōng", "shān", "sōng", "zǐ", "luò"],
+      "translation": "空寂的山里，松子落下来了，",
+      "noteIds": []
+    },
+    {
+      "text": "幽人应未眠。",
+      "pinyin": ["yōu", "rén", "yīng", "wèi", "mián"],
+      "translation": "隐居的你，大概也还没睡吧。",
+      "noteIds": ["n-youren", "n-mian"]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-huai",
+      "word": "怀",
+      "pinyin": "huái",
+      "meaning": "想念，牵挂。"
+    },
+    {
+      "id": "n-shu",
+      "word": "属",
+      "pinyin": "shǔ",
+      "meaning": "正赶上，正好是。"
+    },
+    {
+      "id": "n-yong",
+      "word": "咏",
+      "pinyin": "yǒng",
+      "meaning": "吟诵，唱。"
+    },
+    {
+      "id": "n-youren",
+      "word": "幽人",
+      "pinyin": "yōu rén",
+      "meaning": "隐居的人，指邱员外。"
+    },
+    {
+      "id": "n-mian",
+      "word": "眠",
+      "pinyin": "mián",
+      "meaning": "睡觉。"
+    }
+  ],
+  "translation": "想念你，正当这秋夜。我散步时吟着凉天的诗。空山里松子落下，隐居的你应该还没睡吧。",
+  "appreciation": "想朋友时，自己也正在秋夜里散步吟诗。他猜想：山里松子落了，你也没睡吧。两幅画面，隔着远山，心却挨得很近。友情不一定天天见面，牵挂就是最好的问候。",
+  "background": "公元 785 年的秋夜，韦应物想起了老朋友。朋友邱员外隐居在山里，很久没见。两地相隔，他只能写诗寄去问候。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "秋夜怀友",
+      "text": "凉爽的秋夜，韦应物散步时想念起老朋友。"
+    },
+    {
+      "step": 2,
+      "title": "自己咏诗",
+      "text": "他一边走，一边轻声吟着诗，念着凉快的天气。"
+    },
+    {
+      "step": 3,
+      "title": "想那空山",
+      "text": "他猜朋友的空山里，松子正一颗颗落下来。"
+    },
+    {
+      "step": 4,
+      "title": "你也未眠",
+      "text": "朋友大概也没睡吧？于是他把这首诗寄了过去。"
+    }
+  ],
+  "pinyinNotes": [],
+  "sources": [
+    "《韦应物集校注》（上海古籍出版社）",
+    "《唐诗鉴赏辞典》（上海辞书出版社）"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-24"
+}

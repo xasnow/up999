@@ -1,0 +1,233 @@
+{
+  "id": "tang-wantang-lihe-yanmen",
+  "slug": "yanmen",
+  "title": "雁门太守行",
+  "titlePinyin": "yàn mén tài shǒu xíng",
+  "dynasty": "tangshi",
+  "era": "wantang",
+  "genre": "shi",
+  "form": "七言律诗",
+  "authorId": "lihe",
+  "gradeBand": "ext",
+  "textbook": "课外拓展篇目",
+  "tags": [
+    "边塞",
+    "守城",
+    "决心",
+    "将士"
+  ],
+  "difficulty": 3,
+  "writtenYear": 814,
+  "writtenLabel": "约公元 814 年（李贺 25 岁）",
+  "orderInAuthor": 2,
+  "famousLines": [
+    "黑云压城城欲摧，甲光向日金鳞开。"
+  ],
+  "lines": [
+    {
+      "text": "黑云压城城欲摧，",
+      "pinyin": [
+        "hēi",
+        "yún",
+        "yā",
+        "chéng",
+        "chéng",
+        "yù",
+        "cuī"
+      ],
+      "translation": "黑云沉沉压向城墙，城墙好像快撑不住了，",
+      "noteIds": [
+        "n-cui"
+      ]
+    },
+    {
+      "text": "甲光向日金鳞开。",
+      "pinyin": [
+        "jiǎ",
+        "guāng",
+        "xiàng",
+        "rì",
+        "jīn",
+        "lín",
+        "kāi"
+      ],
+      "translation": "阳光照在将士的铠甲上，一片金光，像鱼鳞一样闪亮。",
+      "noteIds": []
+    },
+    {
+      "text": "角声满天秋色里，",
+      "pinyin": [
+        "jiǎo",
+        "shēng",
+        "mǎn",
+        "tiān",
+        "qiū",
+        "sè",
+        "lǐ"
+      ],
+      "translation": "号角声在秋色里响彻天空，",
+      "noteIds": []
+    },
+    {
+      "text": "塞上燕脂凝夜紫。",
+      "pinyin": [
+        "sài",
+        "shàng",
+        "yān",
+        "zhī",
+        "níng",
+        "yè",
+        "zǐ"
+      ],
+      "translation": "暮色渐渐凝在边塞的土地上，泛出深紫色。",
+      "noteIds": [
+        "n-yanzhi"
+      ]
+    },
+    {
+      "text": "半卷红旗临易水，",
+      "pinyin": [
+        "bàn",
+        "juǎn",
+        "hóng",
+        "qí",
+        "lín",
+        "yì",
+        "shuǐ"
+      ],
+      "translation": "半卷的红旗静静靠近易水，",
+      "noteIds": [
+        "n-yishui"
+      ]
+    },
+    {
+      "text": "霜重鼓寒声不起。",
+      "pinyin": [
+        "shuāng",
+        "zhòng",
+        "gǔ",
+        "hán",
+        "shēng",
+        "bù",
+        "qǐ"
+      ],
+      "translation": "寒霜浓重，连战鼓都敲不出响亮的声音。",
+      "noteIds": []
+    },
+    {
+      "text": "报君黄金台上意，",
+      "pinyin": [
+        "bào",
+        "jūn",
+        "huáng",
+        "jīn",
+        "tái",
+        "shàng",
+        "yì"
+      ],
+      "translation": "为了报答君王像黄金台上招贤那样的信任，",
+      "noteIds": [
+        "n-huangjintai"
+      ]
+    },
+    {
+      "text": "提携玉龙为君死。",
+      "pinyin": [
+        "tí",
+        "xié",
+        "yù",
+        "lóng",
+        "wèi",
+        "jūn",
+        "sǐ"
+      ],
+      "translation": "将士们愿意带上宝剑，为守护家园奋战到底。",
+      "noteIds": [
+        "n-yulong"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-cui",
+      "word": "摧",
+      "pinyin": "cuī",
+      "meaning": "倒塌、毁坏。城欲摧：城墙好像快被压塌了。"
+    },
+    {
+      "id": "n-yanzhi",
+      "word": "燕脂",
+      "pinyin": "yān zhī",
+      "meaning": "即胭脂。这里形容暮色像胭脂一样，凝在边塞的土地上。"
+    },
+    {
+      "id": "n-yishui",
+      "word": "易水",
+      "pinyin": "yì shuǐ",
+      "meaning": "河名，在今河北。古代英雄出发前，常在这里辞别。"
+    },
+    {
+      "id": "n-huangjintai",
+      "word": "黄金台",
+      "pinyin": "huáng jīn tái",
+      "meaning": "古代君王筑台招揽人才的地方，表示珍惜将士。"
+    },
+    {
+      "id": "n-yulong",
+      "word": "玉龙",
+      "pinyin": "yù lóng",
+      "meaning": "宝剑的代称。"
+    }
+  ],
+  "translation": "黑云沉沉压向城墙，城墙好像快撑不住了。忽然阳光照在将士的铠甲上，一片金光，像鱼鳞一样闪亮。号角声在秋色里响彻天空，暮色渐渐凝在边塞的土地上，泛出深紫色。半卷的红旗静静靠近易水，寒霜浓重，连战鼓都敲不出响亮的声音。为了报答君王像黄金台上招贤那样的信任，将士们愿意带上宝剑，为守护家园奋战到底。",
+  "appreciation": "这首诗颜色特别多：黑云、金鳞、燕脂、红旗，像一幅浓墨重彩的画。李贺没有写打斗，只写天色、号角和鼓声，就把守城的紧张劲儿写足了。最动人的是最后两句：将士们记着国家对自己的信任，决心守住这座城。勇气和忠诚，比任何漂亮的颜色都亮。",
+  "background": "约公元 814 年，李贺写下这首《雁门太守行》。传说他曾把诗卷送给韩愈看，开头的诗就是这一首。诗写的是边塞守城的将士：敌人的兵马像黑云一样逼近，他们毫不退缩，铠甲被阳光照得金光闪闪，决心守住城池。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "黑云压城",
+      "text": "大团黑云压向城头，气氛紧张得让人喘不过气。"
+    },
+    {
+      "step": 2,
+      "title": "金光护城",
+      "text": "阳光忽然照亮守城将士的铠甲，一片金色像鱼鳞闪动。"
+    },
+    {
+      "step": 3,
+      "title": "号角与鼓声",
+      "text": "号角声响遍秋空，霜重夜寒，连鼓声都显得低沉。"
+    },
+    {
+      "step": 4,
+      "title": "守城决心",
+      "text": "将士们互相鼓励：为了报答国家的信任，一定守住这座城！"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "摧",
+      "reading": "cuī",
+      "reason": "“城欲摧”是城墙像要压塌，读 cuī。",
+      "standard": "不要读成 chuī"
+    },
+    {
+      "char": "燕脂",
+      "reading": "yān zhī",
+      "reason": "“燕脂”就是胭脂，读 yān zhī。",
+      "standard": "不要读成 yàn zhī"
+    },
+    {
+      "char": "携",
+      "reading": "xié",
+      "reason": "“提携”是带上、带着，读 xié。",
+      "standard": "不要读成 xī"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《李贺诗歌集注》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-24"
+}

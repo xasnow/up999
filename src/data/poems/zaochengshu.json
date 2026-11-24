@@ -1,0 +1,161 @@
+{
+  "id": "tang-zhongtang-hanyu-zaochengshu",
+  "slug": "zaochengshu",
+  "title": "早春呈水部张十八员外",
+  "titlePinyin": "zǎo chūn chéng shuǐ bù zhāng shí bā yuán wài",
+  "dynasty": "tangshi",
+  "era": "zhongtang",
+  "genre": "shi",
+  "form": "七言绝句",
+  "authorId": "hanyu",
+  "gradeBand": "ext",
+  "textbook": "课外拓展篇目",
+  "tags": [
+    "早春",
+    "小雨",
+    "草色",
+    "友情"
+  ],
+  "difficulty": 3,
+  "writtenYear": 823,
+  "writtenLabel": "公元 823 年（韩愈 56 岁，写给好友张籍）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "天街小雨润如酥，草色遥看近却无。"
+  ],
+  "lines": [
+    {
+      "text": "天街小雨润如酥，",
+      "pinyin": [
+        "tiān",
+        "jiē",
+        "xiǎo",
+        "yǔ",
+        "rùn",
+        "rú",
+        "sū"
+      ],
+      "translation": "长安的大街上，细雨飘落，像酥油一样又滑又滋润，",
+      "noteIds": [
+        "n-su"
+      ]
+    },
+    {
+      "text": "草色遥看近却无。",
+      "pinyin": [
+        "cǎo",
+        "sè",
+        "yáo",
+        "kàn",
+        "jìn",
+        "què",
+        "wú"
+      ],
+      "translation": "远远望去，草色淡淡的连成一片；走近一看，却只有几根小草。",
+      "noteIds": []
+    },
+    {
+      "text": "最是一年春好处，",
+      "pinyin": [
+        "zuì",
+        "shì",
+        "yī",
+        "nián",
+        "chūn",
+        "hǎo",
+        "chù"
+      ],
+      "translation": "这正是一年里春天最好的时候，",
+      "noteIds": [
+        "n-chu"
+      ]
+    },
+    {
+      "text": "绝胜烟柳满皇都。",
+      "pinyin": [
+        "jué",
+        "shèng",
+        "yān",
+        "liǔ",
+        "mǎn",
+        "huáng",
+        "dū"
+      ],
+      "translation": "远远胜过晚春时，满城绿柳如烟的景色。",
+      "noteIds": [
+        "n-sheng"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-su",
+      "word": "酥",
+      "pinyin": "sū",
+      "meaning": "一种像奶油的食品。这里形容小雨又细又滑，像酥油一样滋润。"
+    },
+    {
+      "id": "n-chu",
+      "word": "处",
+      "pinyin": "chù",
+      "meaning": "时候。春好处，指春天最好的时候。"
+    },
+    {
+      "id": "n-sheng",
+      "word": "胜",
+      "pinyin": "shèng",
+      "meaning": "超过、胜过。绝胜，就是远远胜过。"
+    }
+  ],
+  "translation": "长安的大街上，细雨飘落，像酥油一样又滑又滋润。远远望去，草色淡淡的连成一片；走近一看，却只有稀稀拉拉的几根小草。这正是一年里春天最好的时候，远远胜过晚春时满城绿柳如烟的景色。",
+  "appreciation": "早春的小草刚冒头，远看一片新绿，近看又找不着。韩愈抓住了这个奇妙的小细节，只用七个字就写活了。“最是一年春好处”，他告诉大家：最好的春天，是刚刚开始的时候。留心身边刚刚发生的变化，就能发现别人看不见的美。",
+  "background": "公元 823 年早春，五十六岁的韩愈在长安做官。他知道好朋友张籍喜欢清静，这场小雨过后，特地写诗邀他出门走走，看看一年里难得的早春草色。张十八就是张籍，他在家族同辈里排行十八。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "小雨飘落",
+      "text": "早春的长安下起了小雨，又细又软，像酥油一样滋润。"
+    },
+    {
+      "step": 2,
+      "title": "远看草色",
+      "text": "抬起头远望，地上好像铺了一层浅浅的绿。"
+    },
+    {
+      "step": 3,
+      "title": "走近一看",
+      "text": "走近了才发现，小草才刚刚冒芽，绿色稀稀拉拉的。"
+    },
+    {
+      "step": 4,
+      "title": "邀友赏春",
+      "text": "韩愈写信告诉张籍：这是春天最好的时候，快出门看看吧！"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "酥",
+      "reading": "sū",
+      "reason": "“润如酥”是说雨像酥油一样滋润，读 sū。",
+      "standard": "不要读成 shū"
+    },
+    {
+      "char": "处",
+      "reading": "chù",
+      "reason": "“春好处”是春天最好的时候，读 chù。",
+      "standard": "不要读成 chǔ"
+    },
+    {
+      "char": "胜",
+      "reading": "shèng",
+      "reason": "“绝胜”是远远超过，读 shèng。",
+      "standard": "不要读成 shēng"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《昌黎先生集》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-24"
+}

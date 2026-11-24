@@ -1,0 +1,128 @@
+{
+  "id": "tang-shengtang-menghaoran-guogurenyuanzhuang",
+  "slug": "guogurenyuanzhuang",
+  "title": "过故人庄",
+  "titlePinyin": "guò gù rén zhuāng",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "五言律诗",
+  "authorId": "menghaoran",
+  "gradeBand": "ext",
+  "tags": ["友情", "田园", "农家", "五言律诗"],
+  "difficulty": 4,
+  "writtenYear": 740,
+  "writtenLabel": "约公元 740 年（孟浩然 52 岁）",
+  "orderInAuthor": 3,
+  "famousLines": [
+    "绿树村边合，青山郭外斜。"
+  ],
+  "lines": [
+    {
+      "text": "故人具鸡黍，",
+      "pinyin": ["gù", "rén", "jù", "jī", "shǔ"],
+      "translation": "老朋友备好了饭菜，等我去做客。",
+      "noteIds": ["n-shu"]
+    },
+    {
+      "text": "邀我至田家。",
+      "pinyin": ["yāo", "wǒ", "zhì", "tián", "jiā"],
+      "translation": "热情地邀请我到他的田家小院。",
+      "noteIds": []
+    },
+    {
+      "text": "绿树村边合，",
+      "pinyin": ["lǜ", "shù", "cūn", "biān", "hé"],
+      "translation": "绿树把村庄团团围在中间。",
+      "noteIds": []
+    },
+    {
+      "text": "青山郭外斜。",
+      "pinyin": ["qīng", "shān", "guō", "wài", "xié"],
+      "translation": "村外还有青青的山，斜斜地伸向远方。",
+      "noteIds": []
+    },
+    {
+      "text": "开轩面场圃，",
+      "pinyin": ["kāi", "xuān", "miàn", "cháng", "pǔ"],
+      "translation": "推开窗户，正对着打谷场和菜园。",
+      "noteIds": ["n-xuan", "n-changpu"]
+    },
+    {
+      "text": "把酒话桑麻。",
+      "pinyin": ["bǎ", "jiǔ", "huà", "sāng", "má"],
+      "translation": "端起酒杯，聊着种庄稼的事。",
+      "noteIds": []
+    },
+    {
+      "text": "待到重阳日，",
+      "pinyin": ["dài", "dào", "chóng", "yáng", "rì"],
+      "translation": "等到九月九日重阳节那天，",
+      "noteIds": []
+    },
+    {
+      "text": "还来就菊花。",
+      "pinyin": ["huán", "lái", "jiù", "jú", "huā"],
+      "translation": "我还要再来，和你一起赏菊花。",
+      "noteIds": ["n-huan"]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-shu",
+      "word": "黍",
+      "pinyin": "shǔ",
+      "meaning": "黄米，可以煮饭。鸡黍指丰盛的农家饭。"
+    },
+    {
+      "id": "n-xuan",
+      "word": "轩",
+      "pinyin": "xuān",
+      "meaning": "窗户。"
+    },
+    {
+      "id": "n-changpu",
+      "word": "场圃",
+      "pinyin": "cháng pǔ",
+      "meaning": "打谷场和菜园。圃，就是种菜的园子。"
+    },
+    {
+      "id": "n-huan",
+      "word": "还",
+      "pinyin": "huán",
+      "meaning": "回来，再回来。这里读 huán。"
+    }
+  ],
+  "translation": "老朋友备好饭菜，邀我到田家做客。绿树围着村庄，青山在城外斜伸。推开窗对着谷场菜园，边喝酒边聊农事。等到重阳节，我还要来赏菊花。",
+  "appreciation": "这首诗像一篇小日记，讲了一次快乐的串门。绿树围着村子，青山在城外斜伸，风景清新。推开窗就能看到谷场和菜园，多自在呀。喝着酒聊农事，朴素的饭菜里全是老友的情谊。",
+  "background": "公元 740 年，孟浩然去乡下老朋友家做客。朋友备好饭菜，两人喝酒聊天，特别开心。临走约定重阳节再来，他用诗记下了这一天。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "接到邀请",
+      "text": "老朋友煮好了饭菜，热情地请孟浩然去做客。"
+    },
+    {
+      "step": 2,
+      "title": "走进村庄",
+      "text": "他来到村里，绿树环绕，青山在远处斜斜地立着。"
+    },
+    {
+      "step": 3,
+      "title": "喝酒聊天",
+      "text": "推开窗，外面是谷场菜园，两人边喝边聊收成。"
+    },
+    {
+      "step": 4,
+      "title": "约定再来",
+      "text": "分别时他说：重阳节那天，我还来和你一起赏菊。"
+    }
+  ],
+  "pinyinNotes": [],
+  "sources": [
+    "《孟浩然集》",
+    "《唐诗鉴赏辞典》（上海辞书出版社）"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-24"
+}

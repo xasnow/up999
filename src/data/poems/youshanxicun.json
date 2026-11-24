@@ -1,0 +1,214 @@
+{
+  "id": "songci-nansong-luyou-youshanxicun",
+  "slug": "youshanxicun",
+  "title": "游山西村",
+  "titlePinyin": "yóu shān xī cūn",
+  "dynasty": "songci",
+  "era": "nansong",
+  "genre": "shi",
+  "form": "七言律诗",
+  "authorId": "luyou",
+  "gradeBand": "ext",
+  "textbook": "课外拓展篇目",
+  "tags": [
+    "乡村",
+    "农家",
+    "山景",
+    "七言律诗"
+  ],
+  "difficulty": 4,
+  "writtenYear": 1167,
+  "writtenLabel": "约公元 1167 年（陆游 42 岁左右）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "山重水复疑无路，柳暗花明又一村。"
+  ],
+  "lines": [
+    {
+      "text": "莫笑农家腊酒浑，",
+      "pinyin": [
+        "mò",
+        "xiào",
+        "nóng",
+        "jiā",
+        "là",
+        "jiǔ",
+        "hún"
+      ],
+      "translation": "别笑农家酿的腊酒浑浊不清，",
+      "noteIds": [
+        "n-lajiu"
+      ]
+    },
+    {
+      "text": "丰年留客足鸡豚。",
+      "pinyin": [
+        "fēng",
+        "nián",
+        "liú",
+        "kè",
+        "zú",
+        "jī",
+        "tún"
+      ],
+      "translation": "丰收的年景，待客的鸡和猪肉足足的。",
+      "noteIds": [
+        "n-tun"
+      ]
+    },
+    {
+      "text": "山重水复疑无路，",
+      "pinyin": [
+        "shān",
+        "chóng",
+        "shuǐ",
+        "fù",
+        "yí",
+        "wú",
+        "lù"
+      ],
+      "translation": "山一座连一座，水一条绕一条，正担心没了路，",
+      "noteIds": [
+        "n-shanchong"
+      ]
+    },
+    {
+      "text": "柳暗花明又一村。",
+      "pinyin": [
+        "liǔ",
+        "àn",
+        "huā",
+        "míng",
+        "yòu",
+        "yī",
+        "cūn"
+      ],
+      "translation": "柳色深深、花影亮亮，眼前又出现一个村庄。",
+      "noteIds": [
+        "n-liuanhuaming"
+      ]
+    },
+    {
+      "text": "箫鼓追随春社近，",
+      "pinyin": [
+        "xiāo",
+        "gǔ",
+        "zhuī",
+        "suí",
+        "chūn",
+        "shè",
+        "jìn"
+      ],
+      "translation": "吹箫打鼓的队伍走过，春社的日子快到了，",
+      "noteIds": [
+        "n-chunshe"
+      ]
+    },
+    {
+      "text": "衣冠简朴古风存。",
+      "pinyin": [
+        "yī",
+        "guān",
+        "jiǎn",
+        "pǔ",
+        "gǔ",
+        "fēng",
+        "cún"
+      ],
+      "translation": "大家衣着简朴，古老的好风气还在。",
+      "noteIds": []
+    },
+    {
+      "text": "从今若许闲乘月，",
+      "pinyin": [
+        "cóng",
+        "jīn",
+        "ruò",
+        "xǔ",
+        "xián",
+        "chéng",
+        "yuè"
+      ],
+      "translation": "往后如果还能趁着月光出来走走，",
+      "noteIds": []
+    },
+    {
+      "text": "拄杖无时夜叩门。",
+      "pinyin": [
+        "zhǔ",
+        "zhàng",
+        "wú",
+        "shí",
+        "yè",
+        "kòu",
+        "mén"
+      ],
+      "translation": "我要拄着拐杖，随时来敲开农家的门。",
+      "noteIds": []
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-lajiu",
+      "word": "腊酒",
+      "pinyin": "là jiǔ",
+      "meaning": "腊月里酿的米酒。"
+    },
+    {
+      "id": "n-tun",
+      "word": "豚",
+      "pinyin": "tún",
+      "meaning": "小猪，诗里指猪肉。"
+    },
+    {
+      "id": "n-shanchong",
+      "word": "山重水复",
+      "pinyin": "shān chóng shuǐ fù",
+      "meaning": "山一座座，水一道道，路弯弯绕绕。"
+    },
+    {
+      "id": "n-liuanhuaming",
+      "word": "柳暗花明",
+      "pinyin": "liǔ àn huā míng",
+      "meaning": "柳色深绿，花色明丽，走到这儿眼前一亮。"
+    },
+    {
+      "id": "n-chunshe",
+      "word": "春社",
+      "pinyin": "chūn shè",
+      "meaning": "春天祭祀土地神的日子，村里很热闹。"
+    }
+  ],
+  "translation": "别笑话农家腊月酿的酒浑，丰收年景待客的饭菜足够丰盛。山山水水弯弯绕绕，正担心没了路，转过弯柳绿花明，又一个村庄出现。箫鼓声中春社将近，人们衣着简朴、古风犹存。往后若是能趁着月色闲游，我还要拄着拐杖，夜里来敲农家的大门。",
+  "appreciation": "农家待客不摆阔，可酒菜都是实实在在的心意。中间四句最有名：以为没路了，一转弯，村庄又在眼前。这句诗悄悄告诉我们：遇到难处别灰心，转个弯也许就是新天地。诗人临走还“预约”了下一次，看得出来，他真的喜欢这个村子。",
+  "background": "公元 1167 年，陆游回到家乡山阴，住在乡村里。一次他到附近的村庄做客，农家人热情地留他喝酒吃饭。山村、酒香、鼓声让他心情大好，写下这首《游山西村》。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "农家做客",
+      "text": "陆游到山阴的村庄做客，农家端出腊酒和饭菜热情招待。"
+    },
+    {
+      "step": 2,
+      "title": "走进山间",
+      "text": "他沿着山路走，山一座座、水一道道，好像没了路。"
+    },
+    {
+      "step": 3,
+      "title": "眼前一亮",
+      "text": "转过弯，柳色深、花色亮，又一个村庄出现在眼前。"
+    },
+    {
+      "step": 4,
+      "title": "约好再来",
+      "text": "箫鼓声里春社将近，诗人想好：改天夜里再来敲门做客。"
+    }
+  ],
+  "pinyinNotes": [],
+  "sources": [
+    "《剑南诗稿》",
+    "《宋诗选注》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-24"
+}

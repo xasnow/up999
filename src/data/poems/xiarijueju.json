@@ -1,0 +1,148 @@
+{
+  "id": "songci-beisong-liqingzhao-xiarijueju",
+  "slug": "xiarijueju",
+  "title": "夏日绝句",
+  "titlePinyin": "xià rì jué jù",
+  "dynasty": "songci",
+  "era": "beisong",
+  "genre": "shi",
+  "form": "五言绝句",
+  "authorId": "liqingzhao",
+  "gradeBand": "ext",
+  "textbook": "课外拓展篇目",
+  "tags": [
+    "气节",
+    "英雄",
+    "五言绝句"
+  ],
+  "difficulty": 3,
+  "writtenYear": 1125,
+  "writtenLabel": "约公元 1125 年（李清照 41 岁左右）",
+  "orderInAuthor": 2,
+  "famousLines": [
+    "生当作人杰，死亦为鬼雄。"
+  ],
+  "lines": [
+    {
+      "text": "生当作人杰，",
+      "pinyin": [
+        "shēng",
+        "dāng",
+        "zuò",
+        "rén",
+        "jié"
+      ],
+      "translation": "活着，就要做人群中的豪杰，",
+      "noteIds": [
+        "n-renjie"
+      ]
+    },
+    {
+      "text": "死亦为鬼雄。",
+      "pinyin": [
+        "sǐ",
+        "yì",
+        "wéi",
+        "guǐ",
+        "xióng"
+      ],
+      "translation": "死了，也要当鬼里的英雄。",
+      "noteIds": [
+        "n-yi",
+        "n-guixiong"
+      ]
+    },
+    {
+      "text": "至今思项羽，",
+      "pinyin": [
+        "zhì",
+        "jīn",
+        "sī",
+        "xiàng",
+        "yǔ"
+      ],
+      "translation": "到现在还想念项羽，",
+      "noteIds": [
+        "n-xiangyu"
+      ]
+    },
+    {
+      "text": "不肯过江东。",
+      "pinyin": [
+        "bù",
+        "kěn",
+        "guò",
+        "jiāng",
+        "dōng"
+      ],
+      "translation": "他宁可留下，也不肯独自逃去江东。",
+      "noteIds": [
+        "n-jiangdong"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-renjie",
+      "word": "人杰",
+      "pinyin": "rén jié",
+      "meaning": "人群中的杰出人物，豪杰。"
+    },
+    {
+      "id": "n-yi",
+      "word": "亦",
+      "pinyin": "yì",
+      "meaning": "也。"
+    },
+    {
+      "id": "n-guixiong",
+      "word": "鬼雄",
+      "pinyin": "guǐ xióng",
+      "meaning": "鬼中的英雄，形容死后也很有气概。"
+    },
+    {
+      "id": "n-xiangyu",
+      "word": "项羽",
+      "pinyin": "xiàng yǔ",
+      "meaning": "秦朝末年的大英雄，人称“西楚霸王”。"
+    },
+    {
+      "id": "n-jiangdong",
+      "word": "江东",
+      "pinyin": "jiāng dōng",
+      "meaning": "项羽老家所在的地方，在长江南岸。"
+    }
+  ],
+  "translation": "活着，就要做人群中的豪杰；死了，也要当鬼里的英雄。到现在还想念项羽，他宁可留下，也不肯独自逃去江东。",
+  "appreciation": "李清照写的不是风景，是一句响亮的宣言：活着要做豪杰，死了要做英雄。她夸项羽有骨气：宁可不走，也不偷偷逃走。二十个字，字字有力量，像擂了一下小鼓。读完你也会挺起胸膛：做人，就要有一股顶天立地的志气。",
+  "background": "约公元 1125 年，李清照经过乌江，那是当年项羽不肯过江的地方。她想起项羽的骨气，写下这首诗，夸赞有志气的人，也把这份志气送给了后人。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "路过乌江",
+      "text": "李清照来到乌江边，这里是当年项羽停留过的地方。"
+    },
+    {
+      "step": 2,
+      "title": "想起项羽",
+      "text": "她想起这位大英雄：宁可留下，也不肯逃去江东。"
+    },
+    {
+      "step": 3,
+      "title": "写下宣言",
+      "text": "她提起笔：活着要做豪杰，死了也要做英雄！"
+    },
+    {
+      "step": 4,
+      "title": "志气传下来",
+      "text": "二十个字像小鼓一样响亮，把志气敲进了后人心里。"
+    }
+  ],
+  "pinyinNotes": [],
+  "sources": [
+    "《李清照集校注》",
+    "《宋诗选》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-24"
+}

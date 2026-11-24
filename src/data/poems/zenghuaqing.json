@@ -1,0 +1,110 @@
+{
+  "id": "tang-shengtang-dufu-zenghuaqing",
+  "slug": "zenghuaqing",
+  "title": "赠花卿",
+  "titlePinyin": "zèng huā qīng",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "七言绝句",
+  "authorId": "dufu",
+  "gradeBand": "ext",
+  "tags": ["音乐", "赞美", "成都", "七言绝句"],
+  "difficulty": 4,
+  "writtenYear": 764,
+  "writtenLabel": "约公元 764 年（杜甫 53 岁）",
+  "orderInAuthor": 7,
+  "famousLines": [
+    "此曲只应天上有，人间能得几回闻。"
+  ],
+  "lines": [
+    {
+      "text": "锦城丝管日纷纷，",
+      "pinyin": ["jǐn", "chéng", "sī", "guǎn", "rì", "fēn", "fēn"],
+      "translation": "成都城里，乐声天天响个不停，",
+      "noteIds": ["n-jincheng", "n-siguan", "n-fenfen"]
+    },
+    {
+      "text": "半入江风半入云。",
+      "pinyin": ["bàn", "rù", "jiāng", "fēng", "bàn", "rù", "yún"],
+      "translation": "一半飘进江风，一半飞上云霄。",
+      "noteIds": []
+    },
+    {
+      "text": "此曲只应天上有，",
+      "pinyin": ["cǐ", "qǔ", "zhǐ", "yīng", "tiān", "shàng", "yǒu"],
+      "translation": "这样的曲子只有天上才有，",
+      "noteIds": ["n-zhiying"]
+    },
+    {
+      "text": "人间能得几回闻。",
+      "pinyin": ["rén", "jiān", "néng", "dé", "jǐ", "huí", "wén"],
+      "translation": "人间能听到几回呢？",
+      "noteIds": ["n-wen"]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-jincheng",
+      "word": "锦城",
+      "pinyin": "jǐn chéng",
+      "meaning": "成都的别称。"
+    },
+    {
+      "id": "n-siguan",
+      "word": "丝管",
+      "pinyin": "sī guǎn",
+      "meaning": "弦乐器和管乐器，泛指美妙的音乐。"
+    },
+    {
+      "id": "n-fenfen",
+      "word": "纷纷",
+      "pinyin": "fēn fēn",
+      "meaning": "多而杂乱，这里指乐声到处都是。"
+    },
+    {
+      "id": "n-zhiying",
+      "word": "只应",
+      "pinyin": "zhǐ yīng",
+      "meaning": "只应该。"
+    },
+    {
+      "id": "n-wen",
+      "word": "闻",
+      "pinyin": "wén",
+      "meaning": "听见。"
+    }
+  ],
+  "translation": "成都城里，乐声天天缭绕。一半飘进江风，一半飞上云霄。这样的曲子只有天上才有，人间能听到几回呢？",
+  "appreciation": "前两句写乐声，一半随江风，一半上云霄。后两句最妙：这样的曲子，天上才有呀。夸到了天上，也轻轻点出人间不该这样享受。小朋友读它，先记住“丝管”就是美妙的音乐。",
+  "background": "公元 764 年，杜甫回到了成都。武将花敬定打了胜仗，居功自傲。他家天天演奏音乐，杜甫写下此诗，有赞美也有提醒。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "满城乐声",
+      "text": "成都城里，花将军家天天传出美妙的音乐。"
+    },
+    {
+      "step": 2,
+      "title": "江风云中",
+      "text": "乐声飘出去，一半混进江风，一半飞上云朵。"
+    },
+    {
+      "step": 3,
+      "title": "天上有曲",
+      "text": "杜甫感叹：这么好听的曲子，应该只有天上才有。"
+    },
+    {
+      "step": 4,
+      "title": "人间几回",
+      "text": "人间能听到几回呢？夸奖里，藏着小小的提醒。"
+    }
+  ],
+  "pinyinNotes": [],
+  "sources": [
+    "《杜诗详注》（中华书局）",
+    "《唐诗鉴赏辞典》（上海辞书出版社）"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-24"
+}

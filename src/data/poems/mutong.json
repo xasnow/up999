@@ -1,0 +1,155 @@
+{
+  "id": "tang-zhongtang-luyan-mutong",
+  "slug": "mutong",
+  "title": "牧童",
+  "titlePinyin": "mù tóng",
+  "dynasty": "tangshi",
+  "era": "zhongtang",
+  "genre": "shi",
+  "form": "七言绝句",
+  "authorId": "luyan",
+  "gradeBand": "ext",
+  "textbook": "课外拓展篇目",
+  "tags": [
+    "牧童",
+    "黄昏",
+    "笛声",
+    "自在"
+  ],
+  "difficulty": 3,
+  "writtenYear": 800,
+  "writtenLabel": "约公元 800 年（吕岩中年漫游时所作）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "归来饱饭黄昏后，不脱蓑衣卧月明。"
+  ],
+  "lines": [
+    {
+      "text": "草铺横野六七里，",
+      "pinyin": [
+        "cǎo",
+        "pū",
+        "héng",
+        "yě",
+        "liù",
+        "qī",
+        "lǐ"
+      ],
+      "translation": "绿草铺满了原野，一望有六七里远，",
+      "noteIds": [
+        "n-hengye"
+      ]
+    },
+    {
+      "text": "笛弄晚风三四声。",
+      "pinyin": [
+        "dí",
+        "nòng",
+        "wǎn",
+        "fēng",
+        "sān",
+        "sì",
+        "shēng"
+      ],
+      "translation": "晚风里传来牧童的笛声，三三两两，忽高忽低。",
+      "noteIds": [
+        "n-nong"
+      ]
+    },
+    {
+      "text": "归来饱饭黄昏后，",
+      "pinyin": [
+        "guī",
+        "lái",
+        "bǎo",
+        "fàn",
+        "huáng",
+        "hūn",
+        "hòu"
+      ],
+      "translation": "他放牛回家，吃饱了饭，天已经擦黑了，",
+      "noteIds": []
+    },
+    {
+      "text": "不脱蓑衣卧月明。",
+      "pinyin": [
+        "bù",
+        "tuō",
+        "suō",
+        "yī",
+        "wò",
+        "yuè",
+        "míng"
+      ],
+      "translation": "连蓑衣都懒得脱，就躺在明亮的月光下睡着了。",
+      "noteIds": [
+        "n-suoyi"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-hengye",
+      "word": "横野",
+      "pinyin": "héng yě",
+      "meaning": "辽阔的原野。"
+    },
+    {
+      "id": "n-nong",
+      "word": "弄",
+      "pinyin": "nòng",
+      "meaning": "吹弄、摆弄。笛弄晚风，是笛声在晚风里轻轻飘荡。"
+    },
+    {
+      "id": "n-suoyi",
+      "word": "蓑衣",
+      "pinyin": "suō yī",
+      "meaning": "用草或棕毛编成的雨衣，披在身上挡雨。"
+    }
+  ],
+  "translation": "绿草铺满了原野，一望有六七里远。晚风里传来牧童的笛声，三三两两，忽高忽低。他放牛回家，吃饱了饭，天已经擦黑了。他连蓑衣都懒得脱，就躺在明亮的月光下，呼呼睡着了。",
+  "appreciation": "这首诗写的是牧童，画的却是自由。“六七里”“三四声”，数字用得随随便便，反而显得又开阔又悠闲。吃饱饭就往月光里一躺，蓑衣也不脱，多痛快！传说吕岩是位逍遥的修道人，他借牧童写出心里最羡慕的日子。",
+  "background": "约公元 800 年，吕岩漫游到乡村。黄昏时分，他看见放牛的孩子吃饱了饭，躺在草地上望着月亮，笛声还在晚风里飘。这份自在让他想起自己心中的向往，于是写下这首《牧童》。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "原野辽阔",
+      "text": "绿草铺满原野，一眼望出去有六七里远。"
+    },
+    {
+      "step": 2,
+      "title": "晚风笛声",
+      "text": "晚风里飘来笛声，三三两两，是放牛的孩子在吹笛子。"
+    },
+    {
+      "step": 3,
+      "title": "吃饱回家",
+      "text": "天擦黑了，牧童回家吃饱了饭，又走到屋外。"
+    },
+    {
+      "step": 4,
+      "title": "躺看月亮",
+      "text": "他连蓑衣都不脱，往地上一躺，在明亮的月光下睡着了。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "弄",
+      "reading": "nòng",
+      "reason": "“笛弄晚风”是笛声随风飘荡，读 nòng。",
+      "standard": "不要读成 lèng"
+    },
+    {
+      "char": "蓑",
+      "reading": "suō",
+      "reason": "“蓑衣”是草编的雨衣，读 suō。",
+      "standard": "不要读成 shuāi"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《千家诗》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-24"
+}

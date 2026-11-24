@@ -1,0 +1,153 @@
+{
+  "id": "tang-wantang-lihe-mashi",
+  "slug": "mashi",
+  "title": "马诗（其五）",
+  "titlePinyin": "mǎ shī",
+  "dynasty": "tangshi",
+  "era": "wantang",
+  "genre": "shi",
+  "form": "五言绝句",
+  "authorId": "lihe",
+  "gradeBand": "ext",
+  "textbook": "课外拓展篇目",
+  "tags": [
+    "骏马",
+    "志向",
+    "边塞",
+    "月夜"
+  ],
+  "difficulty": 3,
+  "writtenYear": 810,
+  "writtenLabel": "约公元 810 年（李贺 21 岁前后，借马诉说志向）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "何当金络脑，快走踏清秋。"
+  ],
+  "lines": [
+    {
+      "text": "大漠沙如雪，",
+      "pinyin": [
+        "dà",
+        "mò",
+        "shā",
+        "rú",
+        "xuě"
+      ],
+      "translation": "广阔的沙漠里，沙子在月光下白得像雪，",
+      "noteIds": []
+    },
+    {
+      "text": "燕山月似钩。",
+      "pinyin": [
+        "yān",
+        "shān",
+        "yuè",
+        "sì",
+        "gōu"
+      ],
+      "translation": "燕山上空，弯弯的月亮像一把钩子。",
+      "noteIds": [
+        "n-yanshan",
+        "n-gou"
+      ]
+    },
+    {
+      "text": "何当金络脑，",
+      "pinyin": [
+        "hé",
+        "dāng",
+        "jīn",
+        "luò",
+        "nǎo"
+      ],
+      "translation": "骏马什么时候才能戴上金络脑，",
+      "noteIds": [
+        "n-luonao",
+        "n-hedang"
+      ]
+    },
+    {
+      "text": "快走踏清秋。",
+      "pinyin": [
+        "kuài",
+        "zǒu",
+        "tà",
+        "qīng",
+        "qiū"
+      ],
+      "translation": "在清清爽爽的秋天里撒开四蹄，飞快地奔跑？",
+      "noteIds": []
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-yanshan",
+      "word": "燕山",
+      "pinyin": "yān shān",
+      "meaning": "北方的山名，当时是边疆要地。"
+    },
+    {
+      "id": "n-gou",
+      "word": "钩",
+      "pinyin": "gōu",
+      "meaning": "一种弯弯的兵器，样子像弯弯的月亮。"
+    },
+    {
+      "id": "n-luonao",
+      "word": "金络脑",
+      "pinyin": "jīn luò nǎo",
+      "meaning": "用黄金装饰的马笼头，戴上它表示骏马受到重用。"
+    },
+    {
+      "id": "n-hedang",
+      "word": "何当",
+      "pinyin": "hé dāng",
+      "meaning": "什么时候才能。"
+    }
+  ],
+  "translation": "广阔的沙漠里，沙子在月光下白得像雪。燕山上空，弯弯的月亮像一把钩子。骏马什么时候才能戴上金络脑，在清清爽爽的秋天里撒开四蹄，飞快地奔跑？",
+  "appreciation": "沙像雪，月像钩，十个字就画出一片又冷又亮的边塞夜色。可这首诗的主角是马，更是李贺自己：马盼着戴上金络脑去边塞奔跑，人盼着被重用做大事。借一匹马说出心里的愿望，这就是李贺的本事。愿望藏在诗里，读的人一下就懂了。",
+  "background": "约公元 810 年，李贺满怀志向，却处处碰壁。他写下《马诗》二十三首，这是其中的第五首。诗里的骏马盼望戴上金络脑奔跑，就像他自己盼望有一天被重用，为国家出力。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "月照大漠",
+      "text": "月光下，沙漠白得像铺了一层雪。"
+    },
+    {
+      "step": 2,
+      "title": "月挂燕山",
+      "text": "燕山的天上，弯弯的月亮像一把弯钩。"
+    },
+    {
+      "step": 3,
+      "title": "骏马仰望",
+      "text": "一匹骏马站在夜里，望着月亮出神。"
+    },
+    {
+      "step": 4,
+      "title": "盼望奔腾",
+      "text": "它盼着戴上金络脑，在清爽的秋日里放开四蹄奔跑。这也是李贺心里的愿望。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "燕山",
+      "reading": "yān shān",
+      "reason": "“燕山”是山名，读 yān shān。",
+      "standard": "不要读成 yàn shān"
+    },
+    {
+      "char": "络",
+      "reading": "luò",
+      "reason": "“金络脑”是金饰的马笼头，读 luò。",
+      "standard": "不要读成 lào"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《李贺诗歌集注》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-24"
+}

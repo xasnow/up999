@@ -1,0 +1,122 @@
+{
+  "id": "qita-yuandai-mazhiyuan-tianjingsha",
+  "slug": "tianjingsha",
+  "title": "天净沙·秋思",
+  "titlePinyin": "tiān jìng shā · qiū sī",
+  "dynasty": "qita",
+  "era": "yuandai",
+  "genre": "ci",
+  "form": "曲（小令）",
+  "authorId": "mazhiyuan",
+  "gradeBand": "g3-4",
+  "textbook": "课外诵读篇目",
+  "tags": [
+    "元曲",
+    "秋思",
+    "思乡",
+    "小令"
+  ],
+  "difficulty": 2,
+  "writtenYear": 1285,
+  "writtenLabel": "约公元 1285 年（元代初期）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "夕阳西下，断肠人在天涯。"
+  ],
+  "lines": [
+    {
+      "text": "枯藤老树昏鸦，",
+      "pinyin": ["kū", "téng", "lǎo", "shù", "hūn", "yā"],
+      "translation": "枯藤绕着老树，黄昏的乌鸦落回枝头，",
+      "noteIds": ["n-kuteng", "n-hunya"]
+    },
+    {
+      "text": "小桥流水人家，",
+      "pinyin": ["xiǎo", "qiáo", "liú", "shuǐ", "rén", "jiā"],
+      "translation": "小桥下流水潺潺，桥边住着人家，",
+      "noteIds": []
+    },
+    {
+      "text": "古道西风瘦马。",
+      "pinyin": ["gǔ", "dào", "xī", "fēng", "shòu", "mǎ"],
+      "translation": "古道上刮着秋风，游子骑着瘦马慢慢走。",
+      "noteIds": ["n-shouma"]
+    },
+    {
+      "text": "夕阳西下，",
+      "pinyin": ["xī", "yáng", "xī", "xià"],
+      "translation": "夕阳渐渐向西落下去，",
+      "noteIds": []
+    },
+    {
+      "text": "断肠人在天涯。",
+      "pinyin": ["duàn", "cháng", "rén", "zài", "tiān", "yá"],
+      "translation": "伤心的人还漂泊在遥远的天边。",
+      "noteIds": ["n-duanchang", "n-tianya"]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-kuteng",
+      "word": "枯藤",
+      "pinyin": "kū téng",
+      "meaning": "干枯的藤蔓。藤：téng，能缠绕攀爬的蔓茎。"
+    },
+    {
+      "id": "n-hunya",
+      "word": "昏鸦",
+      "pinyin": "hūn yā",
+      "meaning": "黄昏时回巢的乌鸦。昏：hūn，指黄昏。"
+    },
+    {
+      "id": "n-shouma",
+      "word": "瘦马",
+      "pinyin": "shòu mǎ",
+      "meaning": "走得又累又瘦的马，说明主人赶了很久的路。"
+    },
+    {
+      "id": "n-duanchang",
+      "word": "断肠人",
+      "pinyin": "duàn cháng rén",
+      "meaning": "伤心到极点的人，这里指漂泊在外的游子。"
+    },
+    {
+      "id": "n-tianya",
+      "word": "天涯",
+      "pinyin": "tiān yá",
+      "meaning": "天边，指离家非常远的地方。"
+    }
+  ],
+  "translation": "干枯的藤蔓缠着老树，黄昏时乌鸦落回枝头。小桥下流水哗哗流过，桥边是别人温暖的家。古道上秋风阵阵，漂泊的人骑着瘦马慢慢前行。夕阳一点点向西落下，伤心断肠的人啊，还流浪在遥远的天边。",
+  "appreciation": "这支小令像一幅速写。枯藤、老树、昏鸦，小桥、流水、人家，名词一个接一个，不用一个动词就画出了九处风景。前面的景物越安静温暖，后面“断肠人在天涯”就越心酸。它被称为“秋思之祖”，是学写“借景抒情”的好例子。",
+  "background": "马致远年轻时热衷功名，却四处碰壁，长年漂泊他乡。这支小令写的就是漂泊游子的秋天：他把旅途中看到的景物连成一幅画，写尽了天涯游子的愁绪。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "漂泊的路上",
+      "text": "一位游子骑着瘦马，走在荒凉的古道上，秋风一阵阵吹来。"
+    },
+    {
+      "step": 2,
+      "title": "看见别人家",
+      "text": "小桥流水边升起炊烟，别人家的温暖，让他更想念自己的家。"
+    },
+    {
+      "step": 3,
+      "title": "夕阳落山",
+      "text": "夕阳慢慢西下，乌鸦都回巢了，天色越来越暗。"
+    },
+    {
+      "step": 4,
+      "title": "断肠人在天涯",
+      "text": "他还在遥远的天边漂泊，肝肠寸断的乡愁涌上心头。"
+    }
+  ],
+  "pinyinNotes": [],
+  "sources": [
+    "《东篱乐府》",
+    "《全元散曲》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-24"
+}

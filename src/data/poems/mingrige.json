@@ -1,0 +1,109 @@
+{
+  "id": "qita-mingqing-qianfu-mingrige",
+  "slug": "mingrige",
+  "title": "明日歌（节选）",
+  "titlePinyin": "míng rì gē",
+  "dynasty": "qita",
+  "era": "mingqing",
+  "genre": "shi",
+  "form": "五言古诗",
+  "authorId": "qianfu",
+  "gradeBand": "g3-4",
+  "textbook": "课外经典诵读篇目",
+  "tags": [
+    "珍惜时间",
+    "劝学",
+    "五言古诗"
+  ],
+  "difficulty": 1,
+  "writtenYear": 1495,
+  "writtenLabel": "约公元 1495 年（钱福辞官回乡后）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "明日复明日，明日何其多。"
+  ],
+  "lines": [
+    {
+      "text": "明日复明日，",
+      "pinyin": ["míng", "rì", "fù", "míng", "rì"],
+      "translation": "明天过了又是明天，",
+      "noteIds": ["n-fu"]
+    },
+    {
+      "text": "明日何其多。",
+      "pinyin": ["míng", "rì", "hé", "qí", "duō"],
+      "translation": "明天怎么会有这么多呀！",
+      "noteIds": ["n-heqi"]
+    },
+    {
+      "text": "我生待明日，",
+      "pinyin": ["wǒ", "shēng", "dài", "míng", "rì"],
+      "translation": "如果我一辈子都在等明天，",
+      "noteIds": ["n-dai"]
+    },
+    {
+      "text": "万事成蹉跎。",
+      "pinyin": ["wàn", "shì", "chéng", "cuō", "tuó"],
+      "translation": "什么事都会拖着做不成，白白浪费时光。",
+      "noteIds": ["n-cuotuo"]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-fu",
+      "word": "复",
+      "pinyin": "fù",
+      "meaning": "又，再。明日复明日，就是明天接着又是明天。"
+    },
+    {
+      "id": "n-heqi",
+      "word": "何其",
+      "pinyin": "hé qí",
+      "meaning": "多么。何其多，就是多么多呀。"
+    },
+    {
+      "id": "n-dai",
+      "word": "待",
+      "pinyin": "dài",
+      "meaning": "等待。"
+    },
+    {
+      "id": "n-cuotuo",
+      "word": "蹉跎",
+      "pinyin": "cuō tuó",
+      "meaning": "时光白白过去，什么事也没做成。"
+    }
+  ],
+  "translation": "明天过了又是明天，明天怎么这么多呀！如果我一辈子都在等明天，所有的事都会白白浪费，一件也做不成。",
+  "appreciation": "这首诗读起来像顺口溜，特别顺口。“明日”两个字反复出现，就是想提醒我们：天天等明天，天天做不成事。想做的事，今天就动手做，才是好习惯。",
+  "background": "钱福辞官回乡后，看到很多人做事拖拉，嘴上总说“明天再说吧”。他就用大白话写了这首《明日歌》，劝大家珍惜时间。这首诗传遍了大江南北，连小朋友都会背。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "又是明天",
+      "text": "日历一页页翻过去，今天过完了，明天马上又来了。"
+    },
+    {
+      "step": 2,
+      "title": "明天真多呀",
+      "text": "有人觉得明天好像永远用不完，就什么事都往后推。"
+    },
+    {
+      "step": 3,
+      "title": "一生在等待",
+      "text": "如果一辈子都在等“明天再做”，日子就悄悄溜走了。"
+    },
+    {
+      "step": 4,
+      "title": "一事无成",
+      "text": "等到最后回头看，事情一件也没做成，只剩后悔。"
+    }
+  ],
+  "pinyinNotes": [],
+  "sources": [
+    "课外经典诵读篇目",
+    "《鹤滩集》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-24"
+}

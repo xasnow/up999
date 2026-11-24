@@ -1,0 +1,115 @@
+{
+  "id": "qita-mingqing-gaoding-cunju",
+  "slug": "cunju",
+  "title": "村居",
+  "titlePinyin": "cūn jū",
+  "dynasty": "qita",
+  "era": "mingqing",
+  "genre": "shi",
+  "form": "七言绝句",
+  "authorId": "gaoding",
+  "gradeBand": "g1-2",
+  "textbook": "部编版二年级下册",
+  "tags": [
+    "春天",
+    "童趣",
+    "七言绝句"
+  ],
+  "difficulty": 1,
+  "writtenYear": 1860,
+  "writtenLabel": "约公元 1860 年（高鼎居住杭州乡间）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "儿童散学归来早，忙趁东风放纸鸢。"
+  ],
+  "lines": [
+    {
+      "text": "草长莺飞二月天，",
+      "pinyin": ["cǎo", "zhǎng", "yīng", "fēi", "èr", "yuè", "tiān"],
+      "translation": "农历二月，青草生长，黄莺飞来飞去，",
+      "noteIds": ["n-ying"]
+    },
+    {
+      "text": "拂堤杨柳醉春烟。",
+      "pinyin": ["fú", "dī", "yáng", "liǔ", "zuì", "chūn", "yān"],
+      "translation": "杨柳枝轻轻拂过河堤，像陶醉在春天的雾气里。",
+      "noteIds": ["n-fudi", "n-chunyan"]
+    },
+    {
+      "text": "儿童散学归来早，",
+      "pinyin": ["ér", "tóng", "sàn", "xué", "guī", "lái", "zǎo"],
+      "translation": "孩子们放学回来得早，",
+      "noteIds": ["n-sanxue"]
+    },
+    {
+      "text": "忙趁东风放纸鸢。",
+      "pinyin": ["máng", "chèn", "dōng", "fēng", "fàng", "zhǐ", "yuān"],
+      "translation": "赶忙趁着东风，放起了风筝。",
+      "noteIds": ["n-zhiyuan"]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-ying",
+      "word": "莺",
+      "pinyin": "yīng",
+      "meaning": "黄莺，一种叫声清脆好听的小鸟。"
+    },
+    {
+      "id": "n-fudi",
+      "word": "拂堤",
+      "pinyin": "fú dī",
+      "meaning": "拂，轻轻擦过；堤，挡水的长堤。柳枝轻轻擦过堤岸。"
+    },
+    {
+      "id": "n-chunyan",
+      "word": "春烟",
+      "pinyin": "chūn yān",
+      "meaning": "春天水边升起的雾气。"
+    },
+    {
+      "id": "n-sanxue",
+      "word": "散学",
+      "pinyin": "sàn xué",
+      "meaning": "放学。"
+    },
+    {
+      "id": "n-zhiyuan",
+      "word": "纸鸢",
+      "pinyin": "zhǐ yuān",
+      "meaning": "风筝。鸢是老鹰，纸鸢就是像老鹰形状的风筝。"
+    }
+  ],
+  "translation": "农历二月，村子前后青草发芽，黄莺飞舞。杨柳的枝条轻轻拂着堤岸，好像陶醉在春天的雾气里。孩子们放学回来得早，赶忙趁着东风放起了风筝。",
+  "appreciation": "前两句写春天：草也绿，鸟也唱，柳树像喝醉了一样摇摇摆摆。后两句写孩子：放学不先回家，先去放风筝。一个“忙”字，把孩子们兴冲冲的样子全写出来了。春天的快乐，就藏在这首诗里。",
+  "background": "公元1860年前后，高鼎住在杭州乡下。早春二月，他看见乡村一片生机：草绿了，莺飞了，孩子们放学后抢着放风筝。这热闹又快乐的景象让他提笔写下了《村居》。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "二月的村庄",
+      "text": "农历二月，小草钻出地面，黄莺在空中飞来飞去。"
+    },
+    {
+      "step": 2,
+      "title": "柳枝醉了",
+      "text": "杨柳的枝条又软又长，轻轻擦过河堤，像陶醉在春雾里。"
+    },
+    {
+      "step": 3,
+      "title": "放学铃响",
+      "text": "孩子们早早放学回来，书包一放就往田野跑。"
+    },
+    {
+      "step": 4,
+      "title": "东风放鸢",
+      "text": "东风正合适，他们抢着放出纸鸢，笑声飞满了春天。"
+    }
+  ],
+  "pinyinNotes": [],
+  "sources": [
+    "部编版语文二年级下册",
+    "《拙吾诗稿》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-24"
+}

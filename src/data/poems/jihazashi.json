@@ -1,0 +1,115 @@
+{
+  "id": "qita-mingqing-gongzizhen-jihazashi",
+  "slug": "jihazashi",
+  "title": "己亥杂诗（其二百二十）",
+  "titlePinyin": "jǐ hài zá shī",
+  "dynasty": "qita",
+  "era": "mingqing",
+  "genre": "shi",
+  "form": "七言绝句",
+  "authorId": "gongzizhen",
+  "gradeBand": "g5-6",
+  "textbook": "部编版五年级上册",
+  "tags": [
+    "爱国",
+    "人才",
+    "七言绝句"
+  ],
+  "difficulty": 1,
+  "writtenYear": 1839,
+  "writtenLabel": "公元 1839 年（龚自珍辞官南归途中）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "我劝天公重抖擞，不拘一格降人才。"
+  ],
+  "lines": [
+    {
+      "text": "九州生气恃风雷，",
+      "pinyin": ["jiǔ", "zhōu", "shēng", "qì", "shì", "fēng", "léi"],
+      "translation": "国家要充满活力，得靠风雷一样的变革。",
+      "noteIds": ["n-jiuzhou", "n-shengqi"]
+    },
+    {
+      "text": "万马齐喑究可哀。",
+      "pinyin": ["wàn", "mǎ", "qí", "yīn", "jiū", "kě", "āi"],
+      "translation": "千万匹马都不出声，这种沉默实在太可悲。",
+      "noteIds": ["n-yin"]
+    },
+    {
+      "text": "我劝天公重抖擞，",
+      "pinyin": ["wǒ", "quàn", "tiān", "gōng", "chóng", "dǒu", "sǒu"],
+      "translation": "我劝老天爷重新振作起精神，",
+      "noteIds": ["n-dousou"]
+    },
+    {
+      "text": "不拘一格降人才。",
+      "pinyin": ["bù", "jū", "yì", "gé", "jiàng", "rén", "cái"],
+      "translation": "用各种各样的标准，把人才送到人间。",
+      "noteIds": ["n-ju"]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-jiuzhou",
+      "word": "九州",
+      "pinyin": "jiǔ zhōu",
+      "meaning": "古代中国分为九州，后来用它代指中国。"
+    },
+    {
+      "id": "n-shengqi",
+      "word": "生气",
+      "pinyin": "shēng qì",
+      "meaning": "这里指生机、活力，不是生气的意思。"
+    },
+    {
+      "id": "n-yin",
+      "word": "喑",
+      "pinyin": "yīn",
+      "meaning": "哑，说不出话。万马齐喑，比喻大家都沉默不语。"
+    },
+    {
+      "id": "n-dousou",
+      "word": "抖擞",
+      "pinyin": "dǒu sǒu",
+      "meaning": "振作，精神奋发。"
+    },
+    {
+      "id": "n-ju",
+      "word": "拘",
+      "pinyin": "jū",
+      "meaning": "限制。不拘一格，就是不限一种格式。"
+    }
+  ],
+  "translation": "国家要有蓬勃的生气，就得依靠风雷般的变革。万马都沉默无声的局面，实在令人悲哀。我劝老天爷重新振作精神，不拘一格，把各种人才送到人间来。",
+  "appreciation": "龚自珍把沉默的国家比作不出声的万马，多让人着急呀。可他不灰心，反而大声呼喊：快来更多的人才吧！这首诗像一声号角，喊出了他对国家的心愿。今天的我们读到，也能感到那股向上的劲头。",
+  "background": "公元1839年，龚自珍辞官离开北京，一路南下。他看见国家缺少生气，心里着急，路上写成了三百一十五首诗，总称《己亥杂诗》。这是其中第二百二十首，最有名的就是“不拘一格降人才”。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "风雷的期盼",
+      "text": "诗人盼着国家像风起雷响一样，重新充满生气。"
+    },
+    {
+      "step": 2,
+      "title": "沉默的万马",
+      "text": "可眼前的景象是：千万匹马一声不叫，安静得让人心凉。"
+    },
+    {
+      "step": 3,
+      "title": "向天公喊话",
+      "text": "他忍不住抬头喊：老天爷，请您振作起来吧！"
+    },
+    {
+      "step": 4,
+      "title": "人才到人间",
+      "text": "只要不拘一格，各种各样的人才就会来到人间，国家就有希望了。"
+    }
+  ],
+  "pinyinNotes": [],
+  "sources": [
+    "部编版语文五年级上册",
+    "《龚自珍全集》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-24"
+}

@@ -1,0 +1,109 @@
+{
+  "id": "qita-mingqing-zhengxie-zhushi",
+  "slug": "zhushi",
+  "title": "竹石",
+  "titlePinyin": "zhú shí",
+  "dynasty": "qita",
+  "era": "mingqing",
+  "genre": "shi",
+  "form": "七言绝句",
+  "authorId": "zhengxie",
+  "gradeBand": "g3-4",
+  "textbook": "部编版六年级下册",
+  "tags": [
+    "咏物",
+    "坚强",
+    "七言绝句"
+  ],
+  "difficulty": 1,
+  "writtenYear": 1750,
+  "writtenLabel": "约公元 1750 年（郑板桥在山东做官期间）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "千磨万击还坚劲，任尔东西南北风。"
+  ],
+  "lines": [
+    {
+      "text": "咬定青山不放松，",
+      "pinyin": ["yǎo", "dìng", "qīng", "shān", "bú", "fàng", "sōng"],
+      "translation": "竹子紧紧咬住青山，一点儿也不放松。",
+      "noteIds": ["n-yaoding"]
+    },
+    {
+      "text": "立根原在破岩中。",
+      "pinyin": ["lì", "gēn", "yuán", "zài", "pò", "yán", "zhōng"],
+      "translation": "原来它的根，扎在裂开的岩石缝里。",
+      "noteIds": ["n-poyan"]
+    },
+    {
+      "text": "千磨万击还坚劲。",
+      "pinyin": ["qiān", "mó", "wàn", "jī", "hái", "jiān", "jìng"],
+      "translation": "经过千次折磨、万次打击，它依然坚强挺立。",
+      "noteIds": ["n-jing"]
+    },
+    {
+      "text": "任尔东西南北风。",
+      "pinyin": ["rèn", "ěr", "dōng", "xī", "nán", "běi", "fēng"],
+      "translation": "任凭你刮东西南北哪一方的风！",
+      "noteIds": ["n-rener"]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-yaoding",
+      "word": "咬定",
+      "pinyin": "yǎo dìng",
+      "meaning": "像用牙咬住一样，比喻竹子扎根很牢，绝不动摇。"
+    },
+    {
+      "id": "n-poyan",
+      "word": "破岩",
+      "pinyin": "pò yán",
+      "meaning": "裂开的岩石，石头缝。"
+    },
+    {
+      "id": "n-jing",
+      "word": "劲",
+      "pinyin": "jìng",
+      "meaning": "坚强有力。"
+    },
+    {
+      "id": "n-rener",
+      "word": "任尔",
+      "pinyin": "rèn ěr",
+      "meaning": "任凭你。尔，就是“你”。"
+    }
+  ],
+  "translation": "竹子紧紧咬住青山不放，原来它的根扎在裂开的岩缝里。经过千磨万击，它还是那么坚强挺拔。不管你刮什么方向的大风，它都不怕。",
+  "appreciation": "郑板桥画的竹子长在石头缝里，没有好土，照样长得笔直。他写竹子，也是在写自己：不怕苦、不怕难，站得稳、扛得住。小朋友遇到困难时，也可以想一想这株咬定青山的竹子。",
+  "background": "郑板桥在山东做知县时，看到百姓生活艰难，自己也不怕得罪上司，一心为民做事。他画的竹子扎根破岩，正是他自己的写照。这首诗题在他的一幅竹石画上，诗和画都流传了下来。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "石缝里的竹子",
+      "text": "一丛竹子长在高山上的岩石缝里，没有松软的泥土。"
+    },
+    {
+      "step": 2,
+      "title": "咬住青山",
+      "text": "它把根牢牢扎进石缝，像咬住青山一样，一动也不动。"
+    },
+    {
+      "step": 3,
+      "title": "风吹雨打",
+      "text": "大风来了，暴雨来了，石头都被吹得摇晃，竹子却挺得更直。"
+    },
+    {
+      "step": 4,
+      "title": "画家的心愿",
+      "text": "郑板桥画下这丛竹子，告诉人们：做人要像竹子一样坚强。"
+    }
+  ],
+  "pinyinNotes": [],
+  "sources": [
+    "部编版语文六年级下册",
+    "《郑板桥集》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-24"
+}

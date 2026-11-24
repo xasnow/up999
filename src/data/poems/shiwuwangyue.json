@@ -1,0 +1,110 @@
+{
+  "id": "tang-zhongtang-wangjian-shiwuwangyue",
+  "slug": "shiwuwangyue",
+  "title": "十五夜望月",
+  "titlePinyin": "shí wǔ yè wàng yuè",
+  "dynasty": "tangshi",
+  "era": "zhongtang",
+  "genre": "shi",
+  "form": "七言绝句",
+  "authorId": "wangjian",
+  "gradeBand": "ext",
+  "tags": ["中秋节", "月亮", "思念", "七言绝句"],
+  "difficulty": 3,
+  "writtenYear": 800,
+  "writtenLabel": "约公元 800 年（王建约 34 岁）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "今夜月明人尽望，不知秋思落谁家。"
+  ],
+  "lines": [
+    {
+      "text": "中庭地白树栖鸦，",
+      "pinyin": ["zhōng", "tíng", "dì", "bái", "shù", "qī", "yā"],
+      "translation": "月光洒满院子，乌鸦在树上安睡。",
+      "noteIds": ["n-zhongting", "n-dibai"]
+    },
+    {
+      "text": "冷露无声湿桂花。",
+      "pinyin": ["lěng", "lù", "wú", "shēng", "shī", "guì", "huā"],
+      "translation": "冰凉的露水，悄悄打湿了桂花。",
+      "noteIds": ["n-lu"]
+    },
+    {
+      "text": "今夜月明人尽望，",
+      "pinyin": ["jīn", "yè", "yuè", "míng", "rén", "jìn", "wàng"],
+      "translation": "今晚月亮最圆，人们都在抬头望着它。",
+      "noteIds": ["n-jin"]
+    },
+    {
+      "text": "不知秋思落谁家。",
+      "pinyin": ["bù", "zhī", "qiū", "sì", "luò", "shuí", "jiā"],
+      "translation": "不知那份秋天的思念，落进了谁家？",
+      "noteIds": ["n-sisi"]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-zhongting",
+      "word": "中庭",
+      "pinyin": "zhōng tíng",
+      "meaning": "院子中间的空地。"
+    },
+    {
+      "id": "n-dibai",
+      "word": "地白",
+      "pinyin": "dì bái",
+      "meaning": "月光照在地上，白得像铺了一层霜。"
+    },
+    {
+      "id": "n-lu",
+      "word": "露",
+      "pinyin": "lù",
+      "meaning": "露水，夜里凝结在草叶上的小水珠。"
+    },
+    {
+      "id": "n-jin",
+      "word": "尽",
+      "pinyin": "jìn",
+      "meaning": "全，都。"
+    },
+    {
+      "id": "n-sisi",
+      "word": "秋思",
+      "pinyin": "qiū sī",
+      "meaning": "秋天里产生的思念之情。"
+    }
+  ],
+  "translation": "月光洒满庭院，地上雪白，乌鸦在树上睡着了。冷冷的露水，悄悄打湿了桂花。今晚月亮这么亮，人人都抬头望着它。不知道这份秋天的思念，会落进谁家的心里。",
+  "appreciation": "中秋的夜，月亮照着所有人，也照着所有想念。诗人不写自己想谁，反而问：这份思念落在谁家？一问之下，人人都觉得自己被写中了。全诗没有一个“想”字，思念却满得快溢出来。真是中秋诗里最巧妙的一首。",
+  "background": "约公元 800 年中秋夜，王建和朋友们聚在一起赏月。月亮又圆又亮，可团圆的人少，想家的人多。大家望着月亮，想起了远方的亲人。王建把这共同的感受，写成了这首诗。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "月光满院",
+      "text": "中秋夜，月光把院子照得雪白，像铺了一层霜。"
+    },
+    {
+      "step": 2,
+      "title": "鸦眠桂湿",
+      "text": "乌鸦安静地睡了，冷露悄悄打湿桂花。"
+    },
+    {
+      "step": 3,
+      "title": "人人望月",
+      "text": "今晚月亮真圆，人们全都抬头望着它。"
+    },
+    {
+      "step": 4,
+      "title": "思念落谁家",
+      "text": "诗人轻轻一问：这份思念，会落进谁家呢？"
+    }
+  ],
+  "pinyinNotes": [],
+  "sources": [
+    "《全唐诗》（中华书局）",
+    "《王建诗集》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-24"
+}

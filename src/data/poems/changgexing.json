@@ -1,0 +1,151 @@
+{
+  "id": "qita-hanwei-yuefu-changgexing",
+  "slug": "changgexing",
+  "title": "长歌行",
+  "titlePinyin": "cháng gē xíng",
+  "dynasty": "qita",
+  "era": "hanwei",
+  "genre": "shi",
+  "form": "五言古诗",
+  "authorId": "yuefu",
+  "gradeBand": "g3-4",
+  "textbook": "部编版语文六年级下册",
+  "tags": [
+    "汉乐府",
+    "珍惜时间",
+    "五言古诗"
+  ],
+  "difficulty": 2,
+  "writtenYear": 120,
+  "writtenLabel": "约公元 120 年（东汉时期）",
+  "orderInAuthor": 2,
+  "famousLines": [
+    "少壮不努力，老大徒伤悲。"
+  ],
+  "lines": [
+    {
+      "text": "青青园中葵，",
+      "pinyin": ["qīng", "qīng", "yuán", "zhōng", "kuí"],
+      "translation": "园子里的葵菜长得绿油油，",
+      "noteIds": ["n-kui"]
+    },
+    {
+      "text": "朝露待日晞。",
+      "pinyin": ["zhāo", "lù", "dài", "rì", "xī"],
+      "translation": "早晨的露水等着太阳把它晒干。",
+      "noteIds": ["n-xi"]
+    },
+    {
+      "text": "阳春布德泽，",
+      "pinyin": ["yáng", "chūn", "bù", "dé", "zé"],
+      "translation": "温暖的春天把阳光雨露洒向大地，",
+      "noteIds": ["n-deze"]
+    },
+    {
+      "text": "万物生光辉。",
+      "pinyin": ["wàn", "wù", "shēng", "guāng", "huī"],
+      "translation": "万物都长得生机勃勃、亮闪闪。",
+      "noteIds": []
+    },
+    {
+      "text": "常恐秋节至，",
+      "pinyin": ["cháng", "kǒng", "qiū", "jié", "zhì"],
+      "translation": "常常担心秋天快点来到，",
+      "noteIds": []
+    },
+    {
+      "text": "焜黄华叶衰。",
+      "pinyin": ["kūn", "huáng", "huá", "yè", "cuī"],
+      "translation": "花和叶子就会枯黄凋落。",
+      "noteIds": ["n-kun", "n-cui"]
+    },
+    {
+      "text": "百川东到海，",
+      "pinyin": ["bǎi", "chuān", "dōng", "dào", "hǎi"],
+      "translation": "千百条江河向东流入大海，",
+      "noteIds": []
+    },
+    {
+      "text": "何时复西归？",
+      "pinyin": ["hé", "shí", "fù", "xī", "guī"],
+      "translation": "什么时候才能流回来呢？",
+      "noteIds": []
+    },
+    {
+      "text": "少壮不努力，",
+      "pinyin": ["shào", "zhuàng", "bù", "nǔ", "lì"],
+      "translation": "年轻力壮的时候不努力，",
+      "noteIds": []
+    },
+    {
+      "text": "老大徒伤悲。",
+      "pinyin": ["lǎo", "dà", "tú", "shāng", "bēi"],
+      "translation": "等老了只能白白地伤心后悔。",
+      "noteIds": []
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-kui",
+      "word": "葵",
+      "pinyin": "kuí",
+      "meaning": "指葵菜，古代一种常见蔬菜，嫩叶可以吃。"
+    },
+    {
+      "id": "n-xi",
+      "word": "晞",
+      "pinyin": "xī",
+      "meaning": "晒干。朝露被太阳一晒就干了。"
+    },
+    {
+      "id": "n-deze",
+      "word": "德泽",
+      "pinyin": "dé zé",
+      "meaning": "恩泽。这里指春天带来的阳光雨露。"
+    },
+    {
+      "id": "n-kun",
+      "word": "焜黄",
+      "pinyin": "kūn huáng",
+      "meaning": "草木枯黄的样子。这句里的“华”同“花”。"
+    },
+    {
+      "id": "n-cui",
+      "word": "衰",
+      "pinyin": "cuī",
+      "meaning": "这里读 cuī，凋谢、枯落的意思。"
+    }
+  ],
+  "translation": "园子里的葵菜长得绿油油，早晨的露水等着太阳把它晒干。温暖的春天把阳光雨露洒向大地，万物都长得生机勃勃。可人们常常担心秋天来到，花和叶子就会枯黄凋落。千百条江河向东流入大海，什么时候才能流回来呢？年轻力壮的时候不努力，等老了只能白白地伤心后悔。",
+  "appreciation": "这首诗从葵菜写到露水，从春天写到秋天，最后落到“少壮不努力，老大徒伤悲”这句千古名言。前六句写景，后四句讲道理，景中有情，情中有理。它提醒每一个小朋友：时间像江水一样不回头，要趁着年少好好学习。",
+  "background": "《长歌行》是汉代乐府民歌，作者已不可考。它借园中葵菜由荣到枯，感叹时光流逝，劝人珍惜年少时光。这首诗被收入《乐府诗集》，是劝学的名篇。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "清晨的园子",
+      "text": "园中的葵菜绿油油，叶子上还滚动着亮晶晶的露珠。"
+    },
+    {
+      "step": 2,
+      "title": "春天万物生长",
+      "text": "温暖的春天洒下阳光雨露，万物都长得精神十足。"
+    },
+    {
+      "step": 3,
+      "title": "想到秋天的枯萎",
+      "text": "诗人忽然担心起来：秋天一到，花叶就会枯黄凋落。"
+    },
+    {
+      "step": 4,
+      "title": "趁年轻要努力",
+      "text": "江河东流入海不再回头，人也一样，要趁着年少好好学习。"
+    }
+  ],
+  "pinyinNotes": [],
+  "sources": [
+    "部编版语文六年级下册",
+    "《乐府诗集》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-24"
+}

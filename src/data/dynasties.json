@@ -68,8 +68,8 @@
   {
     "id": "qita",
     "label": "其他朝代",
-    "intro": "更早和更晚的古诗词，正在整理，敬请期待。",
-    "status": "coming",
+    "intro": "汉魏六朝的乐府民歌、元曲和明清诗歌，也很有味道。",
+    "status": "live",
     "themeColor": "#4a5568",
     "eras": [
       {
@@ -86,7 +86,7 @@
         "sortOrder": 2,
         "range": "汉—南北朝",
         "intro": "乐府民歌和山水诗的时代。",
-        "status": "coming"
+        "status": "live"
       },
       {
         "id": "yuandai",
@@ -94,7 +94,7 @@
         "sortOrder": 3,
         "range": "1271—1368",
         "intro": "元曲登上了舞台。",
-        "status": "coming"
+        "status": "live"
       },
       {
         "id": "mingqing",
@@ -102,7 +102,7 @@
         "sortOrder": 4,
         "range": "1368—1912",
         "intro": "诗歌依然在生长。",
-        "status": "coming"
+        "status": "live"
       }
     ]
   }

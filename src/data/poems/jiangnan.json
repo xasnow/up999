@@ -1,0 +1,122 @@
+{
+  "id": "qita-hanwei-yuefu-jiangnan",
+  "slug": "jiangnan",
+  "title": "江南",
+  "titlePinyin": "jiāng nán",
+  "dynasty": "qita",
+  "era": "hanwei",
+  "genre": "shi",
+  "form": "五言古诗",
+  "authorId": "yuefu",
+  "gradeBand": "g1-2",
+  "textbook": "部编版语文一年级上册",
+  "tags": [
+    "汉乐府",
+    "采莲",
+    "鱼儿",
+    "五言古诗"
+  ],
+  "difficulty": 1,
+  "writtenYear": 100,
+  "writtenLabel": "约公元 100 年（东汉时期）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "江南可采莲，莲叶何田田。"
+  ],
+  "lines": [
+    {
+      "text": "江南可采莲，",
+      "pinyin": ["jiāng", "nán", "kě", "cǎi", "lián"],
+      "translation": "江南又到采莲的好时节了，",
+      "noteIds": ["n-cai"]
+    },
+    {
+      "text": "莲叶何田田。",
+      "pinyin": ["lián", "yè", "hé", "tián", "tián"],
+      "translation": "莲叶长得又大又圆，一片挨着一片。",
+      "noteIds": ["n-tiantian"]
+    },
+    {
+      "text": "鱼戏莲叶间。",
+      "pinyin": ["yú", "xì", "lián", "yè", "jiān"],
+      "translation": "小鱼在莲叶中间游来游去。",
+      "noteIds": ["n-xi"]
+    },
+    {
+      "text": "鱼戏莲叶东，",
+      "pinyin": ["yú", "xì", "lián", "yè", "dōng"],
+      "translation": "小鱼游到莲叶的东面，",
+      "noteIds": []
+    },
+    {
+      "text": "鱼戏莲叶西，",
+      "pinyin": ["yú", "xì", "lián", "yè", "xī"],
+      "translation": "又游到莲叶的西面，",
+      "noteIds": []
+    },
+    {
+      "text": "鱼戏莲叶南，",
+      "pinyin": ["yú", "xì", "lián", "yè", "nán"],
+      "translation": "一会儿游到南面，",
+      "noteIds": []
+    },
+    {
+      "text": "鱼戏莲叶北。",
+      "pinyin": ["yú", "xì", "lián", "yè", "běi"],
+      "translation": "一会儿又游到北面，玩得真开心。",
+      "noteIds": []
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-cai",
+      "word": "采莲",
+      "pinyin": "cǎi lián",
+      "meaning": "采摘莲蓬。采莲是江南水乡常见的劳动。"
+    },
+    {
+      "id": "n-tiantian",
+      "word": "田田",
+      "pinyin": "tián tián",
+      "meaning": "形容莲叶长得又大又圆、一片连着一片的样子。"
+    },
+    {
+      "id": "n-xi",
+      "word": "戏",
+      "pinyin": "xì",
+      "meaning": "嬉戏、玩耍，指鱼儿游来游去。"
+    }
+  ],
+  "translation": "江南又到了采莲的好时节，莲叶长得又大又圆，一片挨着一片。小鱼在莲叶中间快乐地游来游去：一会儿游到东面，一会儿游到西面，一会儿游到南面，一会儿又游到北面。",
+  "appreciation": "这首诗像一场快乐的游戏。前两句写莲叶挨挨挤挤，后五句让小鱼东南西北游个遍。句子重重复复，正是民歌的有趣之处——读着读着，眼前就出现了一条条摇头摆尾的小鱼。小朋友可以拍着手念，感受歌曲一样轻快的节奏。",
+  "background": "《江南》产生于汉代江南水乡。采莲是当时常见的劳动，姑娘们驾着小船采莲蓬，边干活边唱歌。这首歌谣被乐府机关收集起来，一直传唱到今天。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "莲叶成熟了",
+      "text": "夏天到了，江南的池塘里，莲叶又大又圆，一片挨着一片。"
+    },
+    {
+      "step": 2,
+      "title": "划船去采莲",
+      "text": "姑娘们划着小船，一边采莲蓬，一边唱起快乐的歌。"
+    },
+    {
+      "step": 3,
+      "title": "小鱼来凑热闹",
+      "text": "船底下的鱼儿被歌声吸引，在莲叶中间钻来钻去。"
+    },
+    {
+      "step": 4,
+      "title": "东游西游真快活",
+      "text": "小鱼一会儿游到东，一会儿游到西，好像在和莲叶捉迷藏。"
+    }
+  ],
+  "pinyinNotes": [],
+  "sources": [
+    "部编版语文一年级上册",
+    "《乐府诗集》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-24"
+}

@@ -1,0 +1,103 @@
+{
+  "id": "qita-hanwei-caozhi-qibushi",
+  "slug": "qibushi",
+  "title": "七步诗",
+  "titlePinyin": "qī bù shī",
+  "dynasty": "qita",
+  "era": "hanwei",
+  "genre": "shi",
+  "form": "五言古诗",
+  "authorId": "caozhi",
+  "gradeBand": "g3-4",
+  "textbook": "课外诵读篇目",
+  "tags": [
+    "七步成诗",
+    "兄弟",
+    "五言古诗"
+  ],
+  "difficulty": 2,
+  "writtenYear": 223,
+  "writtenLabel": "约公元 223 年（魏文帝曹丕在位时）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "本是同根生，相煎何太急？"
+  ],
+  "lines": [
+    {
+      "text": "煮豆燃豆萁，",
+      "pinyin": ["zhǔ", "dòu", "rán", "dòu", "qí"],
+      "translation": "煮豆子时烧着豆秸，",
+      "noteIds": ["n-qi"]
+    },
+    {
+      "text": "豆在釜中泣。",
+      "pinyin": ["dòu", "zài", "fǔ", "zhōng", "qì"],
+      "translation": "豆子在锅里小声哭泣。",
+      "noteIds": ["n-fu"]
+    },
+    {
+      "text": "本是同根生，",
+      "pinyin": ["běn", "shì", "tóng", "gēn", "shēng"],
+      "translation": "我们本来是同一条根上长出来的，",
+      "noteIds": []
+    },
+    {
+      "text": "相煎何太急？",
+      "pinyin": ["xiāng", "jiān", "hé", "tài", "jí"],
+      "translation": "何必这样急着煎熬我呢？",
+      "noteIds": ["n-jian"]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-qi",
+      "word": "萁",
+      "pinyin": "qí",
+      "meaning": "豆子的秸秆，也就是豆茎，晒干后可以当柴烧。"
+    },
+    {
+      "id": "n-fu",
+      "word": "釜",
+      "pinyin": "fǔ",
+      "meaning": "古代煮饭用的一种锅。"
+    },
+    {
+      "id": "n-jian",
+      "word": "煎",
+      "pinyin": "jiān",
+      "meaning": "煎熬。这里指火烧豆萁来煮豆子。"
+    }
+  ],
+  "translation": "煮豆子的时候，锅底下烧的是豆秸，豆子在锅里呜呜地哭泣：我们本来是同一条根上长出来的，你为什么要这样急迫地煎熬我呢？",
+  "appreciation": "全诗只有二十个字，却讲了一个让人心酸的故事。豆子和豆萁本是同根生，却在锅里煎熬，就像亲兄弟反目。诗人不直接喊冤，而让豆子“哭泣”，比喻巧妙又含蓄。最后一句反问，问出了所有人心里的不平。",
+  "background": "曹丕称帝后，对弟弟曹植心存猜忌。相传有一次，他命令曹植在七步之内作出一首诗，否则就要治罪。曹植应声而成此诗，曹丕听了，面有惭色。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "哥哥出难题",
+      "text": "曹丕当上皇帝后猜忌弟弟，逼曹植在七步之内作出一首诗。"
+    },
+    {
+      "step": 2,
+      "title": "豆子在锅里哭",
+      "text": "锅里豆子翻滚，灶下豆秸噼啪作响，曹植忽然有了主意。"
+    },
+    {
+      "step": 3,
+      "title": "脱口吟出好诗",
+      "text": "他一边走一边吟：煮豆燃豆萁，豆在釜中泣。七步之内刚好吟完。"
+    },
+    {
+      "step": 4,
+      "title": "哥哥听了惭愧",
+      "text": "同根生的兄弟何必相煎？曹丕听了又羞又愧，放过了弟弟。"
+    }
+  ],
+  "pinyinNotes": [],
+  "sources": [
+    "《世说新语·文学》",
+    "《曹子建集》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-24"
+}

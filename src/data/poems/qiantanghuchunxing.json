@@ -1,0 +1,134 @@
+{
+  "id": "tang-zhongtang-baijuyi-qiantanghuchunxing",
+  "slug": "qiantanghuchunxing",
+  "title": "钱塘湖春行",
+  "titlePinyin": "qián táng hú chūn xíng",
+  "dynasty": "tangshi",
+  "era": "zhongtang",
+  "genre": "shi",
+  "form": "七言律诗",
+  "authorId": "baijuyi",
+  "gradeBand": "ext",
+  "tags": ["春天", "西湖", "早春", "七言律诗"],
+  "difficulty": 4,
+  "writtenYear": 823,
+  "writtenLabel": "公元 823 年（白居易 52 岁）",
+  "orderInAuthor": 7,
+  "famousLines": [
+    "几处早莺争暖树，谁家新燕啄春泥。"
+  ],
+  "lines": [
+    {
+      "text": "孤山寺北贾亭西，",
+      "pinyin": ["gū", "shān", "sì", "běi", "jiǎ", "tíng", "xī"],
+      "translation": "我从孤山寺北、贾公亭西走过。",
+      "noteIds": ["n-gushan", "n-jiating"]
+    },
+    {
+      "text": "水面初平云脚低。",
+      "pinyin": ["shuǐ", "miàn", "chū", "píng", "yún", "jiǎo", "dī"],
+      "translation": "湖水刚涨平，云朵低低垂着。",
+      "noteIds": ["n-yunjiao"]
+    },
+    {
+      "text": "几处早莺争暖树，",
+      "pinyin": ["jǐ", "chù", "zǎo", "yīng", "zhēng", "nuǎn", "shù"],
+      "translation": "几只早莺抢着飞向向阳的树枝。",
+      "noteIds": []
+    },
+    {
+      "text": "谁家新燕啄春泥。",
+      "pinyin": ["shuí", "jiā", "xīn", "yàn", "zhuó", "chūn", "ní"],
+      "translation": "谁家的新燕子，正衔着春泥筑巢。",
+      "noteIds": ["n-zhuo"]
+    },
+    {
+      "text": "乱花渐欲迷人眼，",
+      "pinyin": ["luàn", "huā", "jiàn", "yù", "mí", "rén", "yǎn"],
+      "translation": "野花越开越多，快让人看花了眼。",
+      "noteIds": []
+    },
+    {
+      "text": "浅草才能没马蹄。",
+      "pinyin": ["qiǎn", "cǎo", "cái", "néng", "mò", "mǎ", "tí"],
+      "translation": "浅浅的春草，刚好能盖住马蹄。",
+      "noteIds": ["n-mo"]
+    },
+    {
+      "text": "最爱湖东行不足，",
+      "pinyin": ["zuì", "ài", "hú", "dōng", "xíng", "bù", "zú"],
+      "translation": "我最爱湖东的景色，怎么走也看不够。",
+      "noteIds": []
+    },
+    {
+      "text": "绿杨阴里白沙堤。",
+      "pinyin": ["lǜ", "yáng", "yīn", "lǐ", "bái", "shā", "dī"],
+      "translation": "绿杨树荫下，就是那长长的白沙堤。",
+      "noteIds": []
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-gushan",
+      "word": "孤山寺",
+      "pinyin": "gū shān sì",
+      "meaning": "西湖孤山上的一座寺庙。"
+    },
+    {
+      "id": "n-jiating",
+      "word": "贾亭",
+      "pinyin": "jiǎ tíng",
+      "meaning": "即贾公亭，湖边的一座亭子。"
+    },
+    {
+      "id": "n-yunjiao",
+      "word": "云脚",
+      "pinyin": "yún jiǎo",
+      "meaning": "贴近地面的云气，像云垂下的脚。"
+    },
+    {
+      "id": "n-zhuo",
+      "word": "啄",
+      "pinyin": "zhuó",
+      "meaning": "鸟用嘴叼取、衔取东西。"
+    },
+    {
+      "id": "n-mo",
+      "word": "没",
+      "pinyin": "mò",
+      "meaning": "淹没，盖过去。"
+    }
+  ],
+  "translation": "从孤山寺北走到贾公亭西，湖水刚涨得和堤岸一样平。白云低低地压着湖面。几只早出的黄莺，抢着飞上向阳的树枝。谁家新来的燕子，衔着春泥忙着筑巢。野花渐渐开得多起来，快让人看花了眼。浅浅的春草，刚好盖住马蹄。我最爱在湖东散步，怎么走也看不够。绿杨树荫里，就是美丽的白沙堤。",
+  "appreciation": "这是一幅早春西湖图。黄莺是“早”的，燕子是“新”的。花刚开，草刚长，处处都是春天的开头。诗人骑着马边走边看，越看越舍不得回去。一个“最”字，把对西湖的喜爱全说了出来。",
+  "background": "公元 823 年春天，白居易在杭州做刺史。他公务之余常到西湖游玩，从孤山寺走到白沙堤。一路上莺飞燕舞，花草鲜嫩，他兴致勃勃地写下了这首诗。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "湖边出发",
+      "text": "白居易从孤山寺北、贾公亭西，沿着湖边骑马前行。"
+    },
+    {
+      "step": 2,
+      "title": "水平云低",
+      "text": "春水刚涨得和堤一样平，云低低地贴着湖面。"
+    },
+    {
+      "step": 3,
+      "title": "莺歌燕舞",
+      "text": "早莺抢住暖树，新燕衔泥筑巢，到处忙着迎春天。"
+    },
+    {
+      "step": 4,
+      "title": "看不够的堤岸",
+      "text": "花多草浅美极了，他最爱湖东的白沙堤，怎么看也看不够。"
+    }
+  ],
+  "pinyinNotes": [],
+  "sources": [
+    "《白氏长庆集》（中华书局）",
+    "《唐诗鉴赏辞典》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-24"
+}

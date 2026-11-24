@@ -1,0 +1,121 @@
+{
+  "id": "qita-hanwei-beichao-chilege",
+  "slug": "chilege",
+  "title": "敕勒歌",
+  "titlePinyin": "chì lè gē",
+  "dynasty": "qita",
+  "era": "hanwei",
+  "genre": "shi",
+  "form": "杂言诗",
+  "authorId": "beichao",
+  "gradeBand": "g1-2",
+  "textbook": "部编版语文二年级上册",
+  "tags": [
+    "北朝民歌",
+    "草原",
+    "杂言诗"
+  ],
+  "difficulty": 1,
+  "writtenYear": 500,
+  "writtenLabel": "约公元 500 年（南北朝时期）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "天苍苍，野茫茫，风吹草低见牛羊。"
+  ],
+  "lines": [
+    {
+      "text": "敕勒川，",
+      "pinyin": ["chì", "lè", "chuān"],
+      "translation": "辽阔的敕勒平原，",
+      "noteIds": ["n-chilechuan"]
+    },
+    {
+      "text": "阴山下。",
+      "pinyin": ["yīn", "shān", "xià"],
+      "translation": "就在阴山的脚下。",
+      "noteIds": []
+    },
+    {
+      "text": "天似穹庐，",
+      "pinyin": ["tiān", "sì", "qióng", "lú"],
+      "translation": "天空像一座圆圆的大帐篷，",
+      "noteIds": ["n-qionglu"]
+    },
+    {
+      "text": "笼盖四野。",
+      "pinyin": ["lóng", "gài", "sì", "yě"],
+      "translation": "把整个大草原罩在中间。",
+      "noteIds": ["n-ye"]
+    },
+    {
+      "text": "天苍苍，野茫茫，",
+      "pinyin": ["tiān", "cāng", "cāng", "yě", "máng", "máng"],
+      "translation": "天空蓝蓝的，草原一望无边，",
+      "noteIds": []
+    },
+    {
+      "text": "风吹草低见牛羊。",
+      "pinyin": ["fēng", "chuī", "cǎo", "dī", "xiàn", "niú", "yáng"],
+      "translation": "风一吹，草弯下腰，露出成群的牛羊。",
+      "noteIds": ["n-xian"]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-chilechuan",
+      "word": "敕勒川",
+      "pinyin": "chì lè chuān",
+      "meaning": "敕勒：chì lè，古代北方一个游牧民族的名字。川：平原、平地。敕勒川就是敕勒人居住的大平原。"
+    },
+    {
+      "id": "n-qionglu",
+      "word": "穹庐",
+      "pinyin": "qióng lú",
+      "meaning": "游牧民族住的圆顶帐篷，也就是今天的蒙古包。"
+    },
+    {
+      "id": "n-ye",
+      "word": "野",
+      "pinyin": "yě",
+      "meaning": "原野、田野。笼盖四野，是说罩住了四面的大草原。"
+    },
+    {
+      "id": "n-xian",
+      "word": "见",
+      "pinyin": "xiàn",
+      "meaning": "这里读 xiàn，同“现”，意思是显露、出现。"
+    }
+  ],
+  "translation": "辽阔的敕勒平原，就在阴山的脚下。天空像一座圆圆的大帐篷，把整个大草原罩在中间。天空蓝蓝的，草原一望无边，风一吹，牧草弯下腰，露出成群的牛羊。",
+  "appreciation": "这首草原之歌短短二十七个字，却写出了天高地阔的大画面。天像穹庐，笼盖四野，是牧民才想得出的比喻。最妙的是结尾——风吹、草低、牛羊出现，静的草原一下子活了。读的时候要大声，读出草原的辽阔劲儿。",
+  "background": "《敕勒歌》是南北朝时期流传在北方的草原牧歌，原本可能是鲜卑语歌曲，后来被翻译成汉语。相传东魏时，大将斛律金在军中高唱此歌，气势豪迈，从此广为流传。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "来到敕勒川",
+      "text": "游牧民族赶着牛羊，来到阴山脚下水草丰美的大平原。"
+    },
+    {
+      "step": 2,
+      "title": "天像大帐篷",
+      "text": "抬头一看，天空圆圆的，像牧民住的穹庐，罩住四面草原。"
+    },
+    {
+      "step": 3,
+      "title": "大风吹过来",
+      "text": "一阵大风吹过草原，茂密的牧草低下头，弯下了腰。"
+    },
+    {
+      "step": 4,
+      "title": "露出牛和羊",
+      "text": "草丛里忽然露出成群的牛羊，草原一下子热闹起来。"
+    }
+  ],
+  "pinyinNotes": [],
+  "sources": [
+    "部编版语文二年级上册",
+    "《乐府诗集》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-24"
+}

@@ -1,0 +1,109 @@
+{
+  "id": "qita-mingqing-yuanmei-suojian",
+  "slug": "suojian",
+  "title": "所见",
+  "titlePinyin": "suǒ jiàn",
+  "dynasty": "qita",
+  "era": "mingqing",
+  "genre": "shi",
+  "form": "五言绝句",
+  "authorId": "yuanmei",
+  "gradeBand": "g1-2",
+  "textbook": "课外拓展篇目",
+  "tags": [
+    "夏天",
+    "童趣",
+    "五言绝句"
+  ],
+  "difficulty": 1,
+  "writtenYear": 1760,
+  "writtenLabel": "约公元 1760 年（袁枚隐居随园时期）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "意欲捕鸣蝉，忽然闭口立。"
+  ],
+  "lines": [
+    {
+      "text": "牧童骑黄牛，",
+      "pinyin": ["mù", "tóng", "qí", "huáng", "niú"],
+      "translation": "小牧童骑在黄牛背上，",
+      "noteIds": []
+    },
+    {
+      "text": "歌声振林樾。",
+      "pinyin": ["gē", "shēng", "zhèn", "lín", "yuè"],
+      "translation": "嘹亮的歌声在树林里回荡。",
+      "noteIds": ["n-zhen", "n-yue"]
+    },
+    {
+      "text": "意欲捕鸣蝉，",
+      "pinyin": ["yì", "yù", "bǔ", "míng", "chán"],
+      "translation": "他想捉树上鸣叫的知了，",
+      "noteIds": ["n-yiyu", "n-bu"]
+    },
+    {
+      "text": "忽然闭口立。",
+      "pinyin": ["hū", "rán", "bì", "kǒu", "lì"],
+      "translation": "忽然闭上嘴巴，站住不动了。",
+      "noteIds": []
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-zhen",
+      "word": "振",
+      "pinyin": "zhèn",
+      "meaning": "声音传开、回荡。"
+    },
+    {
+      "id": "n-yue",
+      "word": "樾",
+      "pinyin": "yuè",
+      "meaning": "树荫。林樾，指路边的树林。"
+    },
+    {
+      "id": "n-yiyu",
+      "word": "意欲",
+      "pinyin": "yì yù",
+      "meaning": "想要。"
+    },
+    {
+      "id": "n-bu",
+      "word": "捕",
+      "pinyin": "bǔ",
+      "meaning": "捉，抓。"
+    }
+  ],
+  "translation": "小牧童骑着黄牛，嘹亮的歌声在树林里回荡。他忽然想要捉树上鸣叫的知了，马上闭上嘴巴，站在那里一动不动。",
+  "appreciation": "这首诗像一幕小短片：先唱歌，后闭嘴，最后一个“立”字定格画面。诗人把小牧童的天真劲儿写活了。会唱歌，又突然不唱，全是因为心里那个小小的念头——捉知了。",
+  "background": "袁枚辞官后住在南京随园，常出门游玩，喜欢观察路上的孩子。大约1760年，他看见一个牧童骑牛唱歌，忽然又安静下来想捉知了，觉得又好笑又可爱，就写成了这首诗。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "骑牛唱歌",
+      "text": "夏天的树林边，小牧童骑在黄牛背上，大声唱起歌来。"
+    },
+    {
+      "step": 2,
+      "title": "歌声传开",
+      "text": "歌声又响又亮，在整个树林里回荡，连鸟儿都被惊飞了。"
+    },
+    {
+      "step": 3,
+      "title": "发现知了",
+      "text": "他忽然不唱了，树上一只知了叫得正欢，他想把它捉住。"
+    },
+    {
+      "step": 4,
+      "title": "屏住呼吸",
+      "text": "牧童闭上嘴巴，站在牛背上不动，眼睛紧紧盯着那只知了。"
+    }
+  ],
+  "pinyinNotes": [],
+  "sources": [
+    "课外拓展篇目",
+    "《小仓山房诗文集》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-24"
+}

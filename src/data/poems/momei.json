@@ -1,0 +1,110 @@
+{
+  "id": "qita-yuandai-wangmian-momei",
+  "slug": "momei",
+  "title": "墨梅",
+  "titlePinyin": "mò méi",
+  "dynasty": "qita",
+  "era": "yuandai",
+  "genre": "shi",
+  "form": "七言绝句",
+  "authorId": "wangmian",
+  "gradeBand": "g3-4",
+  "textbook": "部编版语文四年级下册",
+  "tags": [
+    "梅花",
+    "品格",
+    "题画诗",
+    "七言绝句"
+  ],
+  "difficulty": 2,
+  "writtenYear": 1350,
+  "writtenLabel": "约公元 1350 年（元朝末年）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "不要人夸好颜色，只留清气满乾坤。"
+  ],
+  "lines": [
+    {
+      "text": "我家洗砚池头树，",
+      "pinyin": ["wǒ", "jiā", "xǐ", "yàn", "chí", "tóu", "shù"],
+      "translation": "我家洗砚池边有一株梅树，",
+      "noteIds": ["n-xiyanchi"]
+    },
+    {
+      "text": "朵朵花开淡墨痕。",
+      "pinyin": ["duǒ", "duǒ", "huā", "kāi", "dàn", "mò", "hén"],
+      "translation": "朵朵梅花开放，像淡淡的墨痕。",
+      "noteIds": ["n-mohen"]
+    },
+    {
+      "text": "不要人夸好颜色，",
+      "pinyin": ["bú", "yào", "rén", "kuā", "hǎo", "yán", "sè"],
+      "translation": "它不需要别人夸赞颜色好看，",
+      "noteIds": []
+    },
+    {
+      "text": "只留清气满乾坤。",
+      "pinyin": ["zhǐ", "liú", "qīng", "qì", "mǎn", "qián", "kūn"],
+      "translation": "只要把清香留在天地之间。",
+      "noteIds": ["n-qingqi", "n-qiankun"]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-xiyanchi",
+      "word": "洗砚池",
+      "pinyin": "xǐ yàn chí",
+      "meaning": "洗毛笔和砚台的水池。砚：yàn，磨墨写字用的文具。"
+    },
+    {
+      "id": "n-mohen",
+      "word": "墨痕",
+      "pinyin": "mò hén",
+      "meaning": "墨的痕迹。淡墨画的梅花，花瓣像淡淡的墨点。"
+    },
+    {
+      "id": "n-qingqi",
+      "word": "清气",
+      "pinyin": "qīng qì",
+      "meaning": "清幽的香气，也指清高正派的品格。"
+    },
+    {
+      "id": "n-qiankun",
+      "word": "乾坤",
+      "pinyin": "qián kūn",
+      "meaning": "指天地。乾：qián，代表天；坤代表地。"
+    }
+  ],
+  "translation": "我家的洗砚池边有一株梅树，朵朵梅花开放，像用淡淡的墨点染出的痕迹。它不需要别人夸赞颜色好看，只要把清幽的香气留满天地之间。",
+  "appreciation": "这首诗把梅花当人来写。它不要别人夸颜色，只要清香满乾坤，说的是梅花，也是诗人自己。一个“淡”字，一个“清”字，写出了不追求表面好看、只求内心干净的品格。小朋友们画梅花时，也可以想一想这份清气。",
+  "background": "王冕隐居九里山时，种梅千株，常常画梅题诗。这首诗就题在他的一幅《墨梅图》上。画中的墨梅不施粉黛，正像他自己，不求虚名，只留一身清气。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "池边的梅树",
+      "text": "王冕家的洗砚池边，长着一株他亲手种下的梅树。"
+    },
+    {
+      "step": 2,
+      "title": "淡墨画出的花",
+      "text": "他提笔把梅花画下来，朵朵梅花像淡淡的墨痕，素雅干净。"
+    },
+    {
+      "step": 3,
+      "title": "不求人夸",
+      "text": "梅花颜色并不艳丽，它也不需要别人夸赞。"
+    },
+    {
+      "step": 4,
+      "title": "清香满人间",
+      "text": "它只把清幽的香气散满天地，正如诗人清白自守的品格。"
+    }
+  ],
+  "pinyinNotes": [],
+  "sources": [
+    "部编版语文四年级下册",
+    "《竹斋集》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-24"
+}

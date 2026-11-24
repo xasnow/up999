@@ -1,0 +1,127 @@
+{
+  "id": "qita-mingqing-nalanxingde-changxiangsi",
+  "slug": "changxiangsi",
+  "title": "长相思·山一程",
+  "titlePinyin": "cháng xiāng sī · shān yì chéng",
+  "dynasty": "qita",
+  "era": "mingqing",
+  "genre": "ci",
+  "form": "词（小令）",
+  "authorId": "nalanxingde",
+  "gradeBand": "g5-6",
+  "textbook": "部编版五年级上册",
+  "tags": [
+    "思乡",
+    "行旅",
+    "词"
+  ],
+  "difficulty": 1,
+  "writtenYear": 1682,
+  "writtenLabel": "公元 1682 年（纳兰性德随康熙帝东巡途中）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "夜深千帐灯。"
+  ],
+  "lines": [
+    {
+      "text": "山一程，水一程，",
+      "pinyin": ["shān", "yì", "chéng", "shuǐ", "yì", "chéng"],
+      "translation": "将士们走过一座座山，又蹚过一条条河，",
+      "noteIds": []
+    },
+    {
+      "text": "身向榆关那畔行，",
+      "pinyin": ["shēn", "xiàng", "yú", "guān", "nà", "pàn", "xíng"],
+      "translation": "队伍向着山海关那边前进，",
+      "noteIds": ["n-yuguan", "n-napan"]
+    },
+    {
+      "text": "夜深千帐灯。",
+      "pinyin": ["yè", "shēn", "qiān", "zhàng", "dēng"],
+      "translation": "夜深了，千百座帐篷里都亮着灯。",
+      "noteIds": []
+    },
+    {
+      "text": "风一更，雪一更，",
+      "pinyin": ["fēng", "yì", "gēng", "xuě", "yì", "gēng"],
+      "translation": "风刮了一阵又一阵，雪下了一场又一场，",
+      "noteIds": ["n-geng"]
+    },
+    {
+      "text": "聒碎乡心梦不成，",
+      "pinyin": ["guō", "suì", "xiāng", "xīn", "mèng", "bù", "chéng"],
+      "translation": "吵闹的声音搅碎了思乡的心，梦也做不成，",
+      "noteIds": ["n-guo"]
+    },
+    {
+      "text": "故园无此声。",
+      "pinyin": ["gù", "yuán", "wú", "cǐ", "shēng"],
+      "translation": "家乡的家里，可没有这样的声音啊。",
+      "noteIds": ["n-guyuan"]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-yuguan",
+      "word": "榆关",
+      "pinyin": "yú guān",
+      "meaning": "山海关的别称。"
+    },
+    {
+      "id": "n-napan",
+      "word": "那畔",
+      "pinyin": "nà pàn",
+      "meaning": "那边。那畔行，就是往那边走。"
+    },
+    {
+      "id": "n-geng",
+      "word": "更",
+      "pinyin": "gēng",
+      "meaning": "旧时夜里的计时单位，一夜分成五更。"
+    },
+    {
+      "id": "n-guo",
+      "word": "聒",
+      "pinyin": "guō",
+      "meaning": "声音嘈杂，吵闹。"
+    },
+    {
+      "id": "n-guyuan",
+      "word": "故园",
+      "pinyin": "gù yuán",
+      "meaning": "故乡，家乡。"
+    }
+  ],
+  "translation": "将士们翻过一座山，又渡过一条河，向山海关那边走去。夜深了，千百座帐篷里都点着灯。风刮了一更又一更，雪下了一更又一更，吵得想家的人睡不着觉，梦也做不成。故乡的家里，可没有这样的风雪声啊。",
+  "appreciation": "“一程”接“一程”，“一更”接“一更”，路越走越远，夜越坐越深。千顶帐篷的灯很壮观，可词人心里想的，是家里安安静静的样子。外面的声音越大，心里的乡愁越重。读着读着，就像听见他在帐篷里轻轻叹气。",
+  "background": "公元1682年春天，纳兰性德跟随康熙皇帝出山海关，去东北祭祖。路上翻山过河，队伍在雪夜里扎营，千百顶帐篷亮着灯。风雪吵得他睡不着，想起安静的家，就写下了这首《长相思》。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "长路漫漫",
+      "text": "队伍翻山越河，走了一程又一程，离家乡越来越远。"
+    },
+    {
+      "step": 2,
+      "title": "千帐灯火",
+      "text": "夜里安营扎寨，放眼望去，千百顶帐篷里都亮着灯。"
+    },
+    {
+      "step": 3,
+      "title": "风雪吵夜",
+      "text": "风一阵阵刮，雪一阵阵下，帐篷外一直响个不停。"
+    },
+    {
+      "step": 4,
+      "title": "梦回故乡",
+      "text": "诗人睡不着，想起家里没有这种吵声，乡愁更深了。"
+    }
+  ],
+  "pinyinNotes": [],
+  "sources": [
+    "部编版语文五年级上册",
+    "《纳兰词笺注》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-24"
+}

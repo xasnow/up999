@@ -1,0 +1,109 @@
+{
+  "id": "qita-mingqing-yuqian-shihuiyin",
+  "slug": "shihuiyin",
+  "title": "石灰吟",
+  "titlePinyin": "shí huī yín",
+  "dynasty": "qita",
+  "era": "mingqing",
+  "genre": "shi",
+  "form": "七言绝句",
+  "authorId": "yuqian",
+  "gradeBand": "g3-4",
+  "textbook": "部编版六年级下册",
+  "tags": [
+    "咏物",
+    "立志",
+    "七言绝句"
+  ],
+  "difficulty": 1,
+  "writtenYear": 1440,
+  "writtenLabel": "约公元 1440 年（于谦为官期间）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "粉骨碎身浑不怕，要留清白在人间。"
+  ],
+  "lines": [
+    {
+      "text": "千锤万凿出深山，",
+      "pinyin": ["qiān", "chuí", "wàn", "záo", "chū", "shēn", "shān"],
+      "translation": "石灰石被敲打、开凿许多次，才从深山里运出来。",
+      "noteIds": ["n-chuizao"]
+    },
+    {
+      "text": "烈火焚烧若等闲。",
+      "pinyin": ["liè", "huǒ", "fén", "shāo", "ruò", "děng", "xián"],
+      "translation": "烈火烧过来，它好像很平常，一点儿也不怕。",
+      "noteIds": ["n-dengxian"]
+    },
+    {
+      "text": "粉骨碎身浑不怕。",
+      "pinyin": ["fěn", "gǔ", "suì", "shēn", "hún", "bú", "pà"],
+      "translation": "就算粉身碎骨，它也全都不怕。",
+      "noteIds": ["n-hun"]
+    },
+    {
+      "text": "要留清白在人间。",
+      "pinyin": ["yào", "liú", "qīng", "bái", "zài", "rén", "jiān"],
+      "translation": "只要能把一身清白留在人间。",
+      "noteIds": ["n-qingbai"]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-chuizao",
+      "word": "锤凿",
+      "pinyin": "chuí záo",
+      "meaning": "锤是敲打，凿是挖凿。石灰石就是这样一点点从深山里开采出来的。"
+    },
+    {
+      "id": "n-dengxian",
+      "word": "若等闲",
+      "pinyin": "ruò děng xián",
+      "meaning": "好像很平常的事。"
+    },
+    {
+      "id": "n-hun",
+      "word": "浑",
+      "pinyin": "hún",
+      "meaning": "全，全然。浑不怕，就是全都不怕。"
+    },
+    {
+      "id": "n-qingbai",
+      "word": "清白",
+      "pinyin": "qīng bái",
+      "meaning": "石灰烧出来雪白干净，也指人品行正直，不做坏事。"
+    }
+  ],
+  "translation": "石灰石经过千次锤打、万次开凿，才从深山里运出来。烈火焚烧，它好像很平常。就算粉身碎骨，它也不害怕，只要能把一身清白留在人间。",
+  "appreciation": "于谦写的是石灰，说的是自己。石头不怕锤打、不怕火烧，就像正直的人不怕困难。“清白”两个字，是他一辈子的目标。读这首诗，就像听到他在说：做人要堂堂正正。",
+  "background": "于谦看到工匠烧石灰：石头先被砸开，再放进窑里用大火烧，最后变成白白的石灰。他想到做人也要这样清清白白，就写下了这首诗。有人说他写诗时才十几岁，也有学者认为写于他做官以后。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "开山取石",
+      "text": "工匠们抡起铁锤，把大石头从深山里凿出来，运下山去。"
+    },
+    {
+      "step": 2,
+      "title": "烈火烧窑",
+      "text": "石头被送进窑里，大火烧个不停，它一点儿也不叫苦。"
+    },
+    {
+      "step": 3,
+      "title": "变成石灰",
+      "text": "烧完之后，大石头变成了白白的石灰粉，干干净净。"
+    },
+    {
+      "step": 4,
+      "title": "诗人立志",
+      "text": "于谦看着石灰想：做人也要这样，不怕磨炼，一身清白。"
+    }
+  ],
+  "pinyinNotes": [],
+  "sources": [
+    "部编版语文六年级下册",
+    "《于肃愍公集》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-24"
+}

@@ -1,0 +1,104 @@
+{
+  "id": "tang-shengtang-dufu-jueju-chiri",
+  "slug": "jueju-chiri",
+  "title": "绝句（迟日江山丽）",
+  "titlePinyin": "jué jù（chí rì jiāng shān lì）",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "五言绝句",
+  "authorId": "dufu",
+  "gradeBand": "ext",
+  "tags": ["春天", "太阳", "鸟儿", "五言绝句"],
+  "difficulty": 3,
+  "writtenYear": 760,
+  "writtenLabel": "公元 760 年（杜甫 49 岁）",
+  "orderInAuthor": 7,
+  "famousLines": [
+    "泥融飞燕子，沙暖睡鸳鸯。"
+  ],
+  "lines": [
+    {
+      "text": "迟日江山丽，",
+      "pinyin": ["chí", "rì", "jiāng", "shān", "lì"],
+      "translation": "春天的太阳照着，江山真秀丽。",
+      "noteIds": ["n-chiri"]
+    },
+    {
+      "text": "春风花草香。",
+      "pinyin": ["chūn", "fēng", "huā", "cǎo", "xiāng"],
+      "translation": "春风吹来，送来花草的香味。",
+      "noteIds": []
+    },
+    {
+      "text": "泥融飞燕子，",
+      "pinyin": ["ní", "róng", "fēi", "yàn", "zi"],
+      "translation": "冻泥变软，燕子飞来飞去衔泥筑巢。",
+      "noteIds": ["n-rong", "n-yanzi"]
+    },
+    {
+      "text": "沙暖睡鸳鸯。",
+      "pinyin": ["shā", "nuǎn", "shuì", "yuān", "yāng"],
+      "translation": "暖和的沙地上，鸳鸯成对睡得香甜。",
+      "noteIds": ["n-yuanyang"]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-chiri",
+      "word": "迟日",
+      "pinyin": "chí rì",
+      "meaning": "春天的太阳。春天白天变长，所以叫迟日。"
+    },
+    {
+      "id": "n-rong",
+      "word": "融",
+      "pinyin": "róng",
+      "meaning": "融化。冬天的冻泥变软、变湿了。"
+    },
+    {
+      "id": "n-yanzi",
+      "word": "燕子",
+      "pinyin": "yàn zi",
+      "meaning": "一种候鸟，春天飞回来捉虫筑巢。"
+    },
+    {
+      "id": "n-yuanyang",
+      "word": "鸳鸯",
+      "pinyin": "yuān yāng",
+      "meaning": "一种水鸟，常常一雄一雌成对生活。"
+    }
+  ],
+  "translation": "春天的太阳照着大地，江山一片秀丽。春风吹来，送来阵阵花草的清香。泥土化冻变软，燕子飞来飞去忙着筑巢。沙滩晒得暖洋洋的，鸳鸯成双成对，安静地睡着了。",
+  "appreciation": "这首诗像四张春天的照片：太阳、春风、燕子、鸳鸯。燕子在飞，鸳鸯在睡，一上一下，一动一静，配合得刚刚好。杜甫刚在成都安了家，心里踏实了。他看到的春天，也就格外温暖明亮。",
+  "background": "公元 760 年春天，杜甫在成都浣花溪边盖起了草堂。多年的战乱奔波，总算安顿了下来。他望着草堂外的春光，心情亮堂起来，写下了一组绝句。这首就是其中的第一首。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "草堂安家",
+      "text": "杜甫在成都浣花溪边盖起草堂，安定下来了。"
+    },
+    {
+      "step": 2,
+      "title": "春日江秀",
+      "text": "春天的太阳照着，山水一片秀丽，风里带着花香。"
+    },
+    {
+      "step": 3,
+      "title": "燕子衔泥",
+      "text": "泥土变软了，燕子飞来飞去，忙着衔泥筑巢。"
+    },
+    {
+      "step": 4,
+      "title": "鸳鸯安睡",
+      "text": "暖洋洋的沙地上，一对对鸳鸯安静地睡着了。"
+    }
+  ],
+  "pinyinNotes": [],
+  "sources": [
+    "《杜诗详注》（中华书局）",
+    "《全唐诗》（中华书局）"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-24"
+}

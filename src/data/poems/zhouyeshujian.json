@@ -1,0 +1,109 @@
+{
+  "id": "qita-mingqing-zhashenxing-zhouyeshujian",
+  "slug": "zhouyeshujian",
+  "title": "舟夜书所见",
+  "titlePinyin": "zhōu yè shū suǒ jiàn",
+  "dynasty": "qita",
+  "era": "mingqing",
+  "genre": "shi",
+  "form": "五言绝句",
+  "authorId": "zhashenxing",
+  "gradeBand": "g1-2",
+  "textbook": "课外经典诵读篇目",
+  "tags": [
+    "夜景",
+    "观察",
+    "五言绝句"
+  ],
+  "difficulty": 1,
+  "writtenYear": 1690,
+  "writtenLabel": "约公元 1690 年（查慎行旅途之中）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "微微风簇浪，散作满河星。"
+  ],
+  "lines": [
+    {
+      "text": "月黑见渔灯，",
+      "pinyin": ["yuè", "hēi", "jiàn", "yú", "dēng"],
+      "translation": "夜里没有月光，只见一盏渔船上的灯。",
+      "noteIds": ["n-yuhei"]
+    },
+    {
+      "text": "孤光一点萤。",
+      "pinyin": ["gū", "guāng", "yì", "diǎn", "yíng"],
+      "translation": "那孤单的灯光，像一只小小的萤火虫。",
+      "noteIds": ["n-ying"]
+    },
+    {
+      "text": "微微风簇浪，",
+      "pinyin": ["wēi", "wēi", "fēng", "cù", "làng"],
+      "translation": "微风吹来，河面涌起细细的波浪，",
+      "noteIds": ["n-cu"]
+    },
+    {
+      "text": "散作满河星。",
+      "pinyin": ["sàn", "zuò", "mǎn", "hé", "xīng"],
+      "translation": "灯光散开来，变成满河的星星。",
+      "noteIds": ["n-san"]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-yuhei",
+      "word": "月黑",
+      "pinyin": "yuè hēi",
+      "meaning": "没有月亮的黑夜。"
+    },
+    {
+      "id": "n-ying",
+      "word": "萤",
+      "pinyin": "yíng",
+      "meaning": "萤火虫。这里把孤零零的渔灯比作萤火虫。"
+    },
+    {
+      "id": "n-cu",
+      "word": "簇",
+      "pinyin": "cù",
+      "meaning": "聚拢，涌起。"
+    },
+    {
+      "id": "n-san",
+      "word": "散",
+      "pinyin": "sàn",
+      "meaning": "散开。灯光的倒影随着波浪散开了。"
+    }
+  ],
+  "translation": "夜里没有月亮，只能看见一盏渔灯。孤单的灯光，像一只小小的萤火虫。微风吹起细细的波浪，灯光散开来，好像满河都是星星。",
+  "appreciation": "这首诗全靠一双会观察的眼睛。灯像萤火虫，是安静的画面；风一吹，光点散成满河星星，画面一下子活了。从一点光写到满天星，只用十几个字，我们也能学他这样细心观察。",
+  "background": "公元1690年前后，查慎行夜晚坐船出行。河上一盏渔灯很孤单，忽然微风吹皱了水面，灯光的倒影碎成一片，像星星洒满河面。他被这奇妙的景象打动，写下了这首诗。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "黑夜行船",
+      "text": "诗人夜里坐船赶路，天上没有月亮，四下里黑漆漆的。"
+    },
+    {
+      "step": 2,
+      "title": "一点渔灯",
+      "text": "远处亮起一盏渔灯，孤零零的，像一只停在河面上的萤火虫。"
+    },
+    {
+      "step": 3,
+      "title": "微风吹浪",
+      "text": "一阵微风吹过，河面涌起细细的波浪，灯光的倒影跟着晃动。"
+    },
+    {
+      "step": 4,
+      "title": "满河星星",
+      "text": "倒影碎成一片，一闪一闪，好像天上的星星都落到河里来了。"
+    }
+  ],
+  "pinyinNotes": [],
+  "sources": [
+    "课外经典诵读篇目",
+    "《敬业堂诗集》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-24"
+}

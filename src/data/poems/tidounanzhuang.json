@@ -1,0 +1,110 @@
+{
+  "id": "tang-wantang-cuihu-tidounanzhuang",
+  "slug": "tidounanzhuang",
+  "title": "题都城南庄",
+  "titlePinyin": "tí dū chéng nán zhuāng",
+  "dynasty": "tangshi",
+  "era": "wantang",
+  "genre": "shi",
+  "form": "七言绝句",
+  "authorId": "cuihu",
+  "gradeBand": "ext",
+  "tags": ["春天", "桃花", "回忆", "七言绝句"],
+  "difficulty": 3,
+  "writtenYear": 796,
+  "writtenLabel": "公元 796 年（崔护 25 岁）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "人面不知何处去，桃花依旧笑春风。"
+  ],
+  "lines": [
+    {
+      "text": "去年今日此门中，",
+      "pinyin": ["qù", "nián", "jīn", "rì", "cǐ", "mén", "zhōng"],
+      "translation": "去年今天，也是在这扇门里。",
+      "noteIds": ["n-ci"]
+    },
+    {
+      "text": "人面桃花相映红。",
+      "pinyin": ["rén", "miàn", "táo", "huā", "xiāng", "yìng", "hóng"],
+      "translation": "姑娘的脸和桃花，互相映衬着发红。",
+      "noteIds": ["n-renmian", "n-xiangying"]
+    },
+    {
+      "text": "人面不知何处去，",
+      "pinyin": ["rén", "miàn", "bù", "zhī", "hé", "chù", "qù"],
+      "translation": "如今姑娘不知去了哪里。",
+      "noteIds": ["n-hechu"]
+    },
+    {
+      "text": "桃花依旧笑春风。",
+      "pinyin": ["táo", "huā", "yī", "jiù", "xiào", "chūn", "fēng"],
+      "translation": "只有桃花照旧在春风里笑着开放。",
+      "noteIds": ["n-yijiu"]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-ci",
+      "word": "此",
+      "pinyin": "cǐ",
+      "meaning": "这里，这（扇门）。"
+    },
+    {
+      "id": "n-renmian",
+      "word": "人面",
+      "pinyin": "rén miàn",
+      "meaning": "指那位姑娘的脸。"
+    },
+    {
+      "id": "n-xiangying",
+      "word": "相映",
+      "pinyin": "xiāng yìng",
+      "meaning": "互相衬托，显得更好看。"
+    },
+    {
+      "id": "n-hechu",
+      "word": "何处",
+      "pinyin": "hé chù",
+      "meaning": "什么地方，哪里。"
+    },
+    {
+      "id": "n-yijiu",
+      "word": "依旧",
+      "pinyin": "yī jiù",
+      "meaning": "照旧，跟原来一样。"
+    }
+  ],
+  "translation": "去年今天，就在这扇门里，姑娘的脸和桃花互相映照，一样红艳。今年再来，姑娘不知去了哪里。只有桃花依然在春风里，笑着盛开。",
+  "appreciation": "这首诗只写了两次开门。去年门里有人面桃花，今年门里只剩桃花。同样的春天，不一样的心情，美好的东西常常留不住。可正因留不住，那一抹桃花红，才让人记了一千多年。",
+  "background": "公元 796 年清明，崔护又来到城南那户人家。去年他曾在这里讨水，见过一位姑娘。今年门却锁着，姑娘不在了。他把这两次相遇写成诗，题在了门上。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "清明讨水",
+      "text": "去年清明，崔护在城南向一户人家讨水喝。"
+    },
+    {
+      "step": 2,
+      "title": "人面桃花",
+      "text": "开门的姑娘站在桃花边，脸蛋和花朵一样红。"
+    },
+    {
+      "step": 3,
+      "title": "再次寻访",
+      "text": "今年清明他再来看望，门却锁着，姑娘不见了。"
+    },
+    {
+      "step": 4,
+      "title": "门上题诗",
+      "text": "桃花还在春风里开，他把想念写成诗留在了门上。"
+    }
+  ],
+  "pinyinNotes": [],
+  "sources": [
+    "《全唐诗》（中华书局）",
+    "孟棨《本事诗》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-24"
+}

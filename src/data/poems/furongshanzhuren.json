@@ -1,0 +1,110 @@
+{
+  "id": "tang-zhongtang-liuchangqing-furongshanzhuren",
+  "slug": "furongshanzhuren",
+  "title": "逢雪宿芙蓉山主人",
+  "titlePinyin": "féng xuě sù fú róng shān zhǔ rén",
+  "dynasty": "tangshi",
+  "era": "zhongtang",
+  "genre": "shi",
+  "form": "五言绝句",
+  "authorId": "liuchangqing",
+  "gradeBand": "ext",
+  "tags": ["冬天", "雪夜", "山村", "五言绝句"],
+  "difficulty": 3,
+  "writtenYear": 775,
+  "writtenLabel": "约公元 775 年（刘长卿约 50 岁）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "柴门闻犬吠，风雪夜归人。"
+  ],
+  "lines": [
+    {
+      "text": "日暮苍山远，",
+      "pinyin": ["rì", "mù", "cāng", "shān", "yuǎn"],
+      "translation": "天快黑了，远处的青山显得更远。",
+      "noteIds": ["n-mu", "n-cang"]
+    },
+    {
+      "text": "天寒白屋贫。",
+      "pinyin": ["tiān", "hán", "bái", "wū", "pín"],
+      "translation": "天冷得厉害，简陋的小屋更显清贫。",
+      "noteIds": ["n-baiwu"]
+    },
+    {
+      "text": "柴门闻犬吠，",
+      "pinyin": ["chái", "mén", "wén", "quǎn", "fèi"],
+      "translation": "半夜里，柴门外忽然传来狗叫声。",
+      "noteIds": ["n-fei"]
+    },
+    {
+      "text": "风雪夜归人。",
+      "pinyin": ["fēng", "xuě", "yè", "guī", "rén"],
+      "translation": "原来是有人顶着风雪，深夜赶回了家。",
+      "noteIds": ["n-gui"]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-mu",
+      "word": "暮",
+      "pinyin": "mù",
+      "meaning": "傍晚，太阳快落山的时候。"
+    },
+    {
+      "id": "n-cang",
+      "word": "苍",
+      "pinyin": "cāng",
+      "meaning": "深青色。苍山就是青黑色的远山。"
+    },
+    {
+      "id": "n-baiwu",
+      "word": "白屋",
+      "pinyin": "bái wū",
+      "meaning": "不刷漆的茅草屋，指穷人家简陋的房子。"
+    },
+    {
+      "id": "n-fei",
+      "word": "吠",
+      "pinyin": "fèi",
+      "meaning": "狗叫。"
+    },
+    {
+      "id": "n-gui",
+      "word": "归",
+      "pinyin": "guī",
+      "meaning": "回来，返回。"
+    }
+  ],
+  "translation": "天快黑了，远处的青山看起来更远了。天气寒冷，白茅屋里透着清贫。忽然听见柴门外狗叫起来，原来有人冒着风雪，深夜回到了家。",
+  "appreciation": "这首诗像一幅雪夜小画。天黑、山远、屋贫，先铺出一片清冷。半夜一声狗叫，风雪里走来夜归的人。冷清的画面一下子有了暖意。短短二十个字，有远山，有柴门，有狗叫，读起来就像看电影。",
+  "background": "公元 775 年前后，刘长卿被贬到南方。一个风雪交加的夜晚，他在山路上赶路。天黑了，还找不到住处。最后他借宿在一户山民家里。半夜听见狗叫，看见夜归的人，他写下了这首诗。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "雪夜赶路",
+      "text": "天快黑了，风雪越来越大，诗人还在山路上赶路。"
+    },
+    {
+      "step": 2,
+      "title": "借宿白屋",
+      "text": "他敲开一户人家的门，屋里简陋清贫，主人热情地留他住下。"
+    },
+    {
+      "step": 3,
+      "title": "半夜狗叫",
+      "text": "睡到半夜，柴门外忽然传来一阵狗叫声。"
+    },
+    {
+      "step": 4,
+      "title": "夜归的人",
+      "text": "原来是这家的家人顶着风雪回来了，安静的山村热闹了一瞬。"
+    }
+  ],
+  "pinyinNotes": [],
+  "sources": [
+    "《全唐诗》（中华书局）",
+    "《刘长卿诗编年笺注》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-24"
+}

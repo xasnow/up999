@@ -107,6 +107,16 @@
       "standard": "睡觉一词中才读 jiào"
     }
   ],
+  "images": {
+    "cover": {
+      "src": "/assets/img/poems/chunxiao-cover.jpg",
+      "width": 2560,
+      "height": 1440,
+      "alt": "春天清晨的茅屋：诗人推开窗伸懒腰，柳枝上三只小鸟在鸣叫，草地上落满粉色花瓣",
+      "credit": "AI 辅助生成 · up999.cn",
+      "aiGenerated": true
+    }
+  },
   "sources": ["部编版语文一年级下册", "《孟浩然集》"],
   "status": "reviewed",
   "updatedAt": "2026-11-24"

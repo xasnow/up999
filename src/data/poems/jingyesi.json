@@ -94,6 +94,16 @@
     }
   ],
   "pinyinNotes": [],
+  "images": {
+    "cover": {
+      "src": "/assets/img/poems/jingyesi-cover.jpg",
+      "width": 2560,
+      "height": 1440,
+      "alt": "月光洒进木屋的夜晚：白衣诗人站在窗前抬头望着圆圆的月亮，地上像铺了一层白霜",
+      "credit": "AI 辅助生成 · up999.cn",
+      "aiGenerated": true
+    }
+  },
   "sources": ["部编版语文一年级下册", "《李白全集编年注释》"],
   "status": "reviewed",
   "updatedAt": "2026-11-24"

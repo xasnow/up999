@@ -148,6 +148,16 @@
       "standard": "与“翁”（wēng）合指老爷爷老奶奶"
     }
   ],
+  "images": {
+    "cover": {
+      "src": "/assets/img/poems/qingpingle-cunju-cover.jpg",
+      "width": 2560,
+      "height": 1440,
+      "alt": "溪边茅屋的农家：白发老夫妻坐着说笑，大儿子锄豆、二儿子编鸡笼，小儿子躺在溪边吃莲蓬",
+      "credit": "AI 辅助生成 · up999.cn",
+      "aiGenerated": true
+    }
+  },
   "sources": ["部编版语文四年级下册", "《稼轩长短句》"],
   "status": "reviewed",
   "updatedAt": "2026-11-24"

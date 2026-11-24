@@ -705,14 +705,23 @@ h1, h2, h3, h4 {
   line-height: 2.1;
 }
 
+/* 每个字独立留白：拼音比汉字宽，不留白会互相贴住，孩子分不清音节 */
 .line-text ruby {
   ruby-align: center;
+  margin: 0 4px;
 }
 
 .line-text rt {
-  font-size: 13px;
+  font-size: 12px;
   color: var(--pinyin-color);
-  letter-spacing: 1px;
+  letter-spacing: 0;
+  padding: 0 2px;
+  white-space: nowrap;
+}
+
+/* 关掉拼音后汉字之间仍需呼吸感 */
+body.hide-pinyin .line-text ruby {
+  margin: 0 5px;
 }
 
 /* 拼音开关：整体隐藏 rt，不改行高 */

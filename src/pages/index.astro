@@ -1,6 +1,7 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
 import { getDynasty, getCover, gradeLabel, poems, todayPoem, poemPath, getAuthor } from '../lib/content';
+import { pageKeywords } from '../lib/seo';
 
 const today = todayPoem();
 const todayAuthor = getAuthor(today.authorId);
@@ -8,7 +9,7 @@ const catList = ['tangshi', 'songci', 'qita'].map((id) => getDynasty(id));
 const GRADES = ['g1-2', 'g3-4', 'g5-6'];
 ---
 
-<BaseLayout title="每天一首小古诗 · up999.cn" description="为小学生做的古诗词学习网站：唐诗、宋词，带拼音、有漫画、跟着时间线读懂每一首诗。" nav={false}>
+<BaseLayout title="每天一首小古诗 · up999.cn" description="为小学生做的古诗词学习网站：唐诗、宋词，带拼音、有漫画、跟着时间线读懂每一首诗。" keywords={pageKeywords('home')} nav={false}>
   <section class="hero">
     <h1>每天一首小古诗</h1>
     <p>带拼音、有漫画、跟着时间线一步一步读懂唐诗和宋词。</p>

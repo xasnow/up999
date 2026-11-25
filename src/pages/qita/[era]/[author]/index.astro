@@ -2,6 +2,7 @@
 import BaseLayout from '../../../../layouts/BaseLayout.astro';
 import AuthorDetail from '../../../../components/AuthorDetail.astro';
 import { authorsOfDynasty } from '../../../../lib/content';
+import { authorKeywords } from '../../../../lib/seo';
 
 export function getStaticPaths() {
   return authorsOfDynasty('qita').map((author) => ({
@@ -15,6 +16,7 @@ const { author } = Astro.props;
 <BaseLayout
   title={`${author.name} · 其他朝代 · 每天一首小古诗`}
   description={`${author.name}（${author.yearsLabel}）：${author.summary}`}
+  keywords={authorKeywords(author, '历代')}
 >
   <AuthorDetail author={author} />
 </BaseLayout>

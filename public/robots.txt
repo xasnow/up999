@@ -1,2 +1,4 @@
 User-agent: *
 Allow: /
+
+Sitemap: https://up999.cn/sitemap-index.xml

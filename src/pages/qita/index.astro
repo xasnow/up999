@@ -1,8 +1,9 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
+import { pageKeywords } from '../../lib/seo';
 import CategoryOverview from '../../components/CategoryOverview.astro';
 ---
 
-<BaseLayout title="其他朝代 · 每天一首小古诗" description="汉魏六朝的乐府民歌、元曲和明清诗歌，带拼音和讲解，小学生也能读懂。">
+<BaseLayout title="其他朝代 · 每天一首小古诗" description="汉魏六朝的乐府民歌、元曲和明清诗歌，带拼音和讲解，小学生也能读懂。" keywords={pageKeywords('qita')}>
   <CategoryOverview dynastyId="qita" />
 </BaseLayout>

@@ -4,18 +4,30 @@ import SiteHeader from '../components/SiteHeader.astro';
 import SiteTree from '../components/SiteTree.astro';
 import PageToc from '../components/PageToc.astro';
 import MobileNav from '../components/MobileNav.astro';
+import { SITE_KEYWORDS } from '../lib/seo';
 
 interface Props {
   title: string;
   description?: string;
+  /** 本页关键词（覆盖 seo.json），不传则用全站默认 */
+  keywords?: string;
+  /** 结构化数据 JSON-LD（可选，对象或数组） */
+  jsonLd?: Record<string, unknown> | Record<string, unknown>[];
   /** 是否显示双侧目录（首页/关于/404 用 false） */
   nav?: boolean;
 }
 const {
   title,
   description = '为小学生做的古诗词学习网站：带拼音、有漫画、跟着时间线读懂每一首诗。',
+  keywords,
+  jsonLd,
   nav = true
 } = Astro.props;
+
+// canonical 与 OG 地址：构建期为页面静态路径
+const canonical = new URL(Astro.url.pathname, Astro.site);
+const keywordStr = keywords ?? SITE_KEYWORDS.site;
+const jsonLdList = jsonLd ? (Array.isArray(jsonLd) ? jsonLd : [jsonLd]) : [];
 ---
 
 <!doctype html>
@@ -25,6 +37,17 @@ const {
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>{title}</title>
     <meta name="description" content={description} />
+    <meta name="keywords" content={keywordStr} />
+    <link rel="canonical" href={canonical} />
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="每天一首小古诗 · up999.cn" />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:url" content={canonical} />
+    <meta name="twitter:card" content="summary" />
+    {jsonLdList.length > 0 && (
+      jsonLdList.map((obj) => <script type="application/ld+json" set:html={JSON.stringify(obj)} />)
+    )}
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <meta name="generator" content={Astro.generator} />
     <script is:inline>

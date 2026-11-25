@@ -854,7 +854,8 @@ body.hide-pinyin .line-text rt {
   font-size: 15px;
   color: var(--pinyin-color);
   font-weight: 400;
-  padding: 0 1px;
+  /* 底部留白拉开拼音与标题汉字的距离 */
+  padding: 0 1px 6px;
   white-space: nowrap;
 }
 

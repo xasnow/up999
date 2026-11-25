@@ -38,7 +38,7 @@ DEFAULT_OUT = ROOT / "public" / "assets" / "audio" / "poems"
 API_URL = "https://openspeech.bytedance.com/api/v3/tts/unidirectional"
 
 DEFAULT_SPEAKER = "ICL_uranus_zh_female_wenrouwenya_tob"
-DEFAULT_SPEED = 0.8  # 朗诵宜放慢
+DEFAULT_SPEED = 0.7  # 朗诵宜放慢
 
 
 def load_config() -> dict:

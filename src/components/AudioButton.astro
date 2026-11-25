@@ -1,23 +1,22 @@
 ---
-// 朗读按钮：优先播放预生成音频，无音频时降级浏览器 TTS（zh-CN），并标注“机器朗读”
+// 朗读按钮：优先播放预生成音频，无音频时降级浏览器 TTS（zh-CN）
+// 音频 preload="auto"：打开详情页即开始加载，避免点击朗读时等待
 const { text, audio } = Astro.props;
 ---
 
 <div class="poem-toolbar">
   {
     audio?.src ? (
-      <audio id="poem-audio" src={audio.src} preload="none" />
+      <audio id="poem-audio" src={audio.src} preload="auto" />
     ) : null
   }
   <button type="button" id="read-btn" class="toolbar-btn" data-text={text} aria-pressed="false">
     ▶ 朗读这首诗
   </button>
-  <span class="read-status" id="read-status">{audio ? '真人朗读' : '机器朗读'}</span>
-</div>
+  <slot /></div>
 
 <script>
   const btn = document.getElementById('read-btn');
-  const status = document.getElementById('read-status');
   const audioEl = document.getElementById('poem-audio');
   if (btn) {
     let playing = false;
@@ -56,7 +55,7 @@ const { text, audio } = Astro.props;
         window.speechSynthesis.speak(utter);
         setUI(true);
       } else {
-        status && (status.textContent = '当前浏览器不支持朗读');
+        btn.textContent = '当前浏览器不支持朗读';
       }
     });
   }

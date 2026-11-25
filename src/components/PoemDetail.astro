@@ -78,11 +78,9 @@ const audioSrc = existsSync(audioFile) ? `/assets/audio/poems/${poem.slug}.mp3` 
   </div>
   {cover && <p class="cover-caption">看图读诗 · AI 辅助生成 · up999.cn</p>}
 
-  <AudioButton text={readText} audio={audioSrc ? { src: audioSrc } : null} />
-
-  <div class="poem-toolbar">
+  <AudioButton text={readText} audio={audioSrc ? { src: audioSrc } : null}>
     <button type="button" id="pinyin-toggle" class="toolbar-btn" aria-pressed="true">拼音：开</button>
-  </div>
+  </AudioButton>
 
   <PinyinText lines={poem.lines} notes={poem.notes} />
 

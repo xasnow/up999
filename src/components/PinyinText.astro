@@ -76,11 +76,6 @@ if (uniform) {
     groups.map((g) => (
       <div class="poem-line">
         <p class="line-text" set:html={g.map((line) => renderLineHTML(line)).join('<span class="line-gap" aria-hidden="true"></span>')} />
-        {g.some((line) => line.translation) && (
-          <div class="line-tr">
-            {g.map((line) => (line.translation ? <p>{line.translation}</p> : null))}
-          </div>
-        )}
       </div>
     ))
   }

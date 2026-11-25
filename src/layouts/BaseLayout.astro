@@ -59,11 +59,9 @@ const {
       <p class="footer-note">内容由人工校对，配图由 AI 辅助生成 · © up999.cn 每天一首小古诗</p>
     </footer>
     <script>
-      // 拼音/释义开关状态全站记忆（localStorage）；释义默认关闭
+      // 拼音开关状态全站记忆（localStorage）
       const saved = localStorage.getItem('up999-pinyin');
       if (saved === 'off') document.body.classList.add('hide-pinyin');
-      const fanyi = localStorage.getItem('up999-fanyi');
-      if (fanyi !== 'on') document.body.classList.add('hide-fanyi');
     </script>
     <script>
       // 本页目录：采集正文 h2 生成锚点，滚动时高亮当前章节

@@ -848,20 +848,22 @@ body.hide-pinyin .line-text rt {
   display: block;
 }
 
-/* 逐句译文：受"释义"开关控制，默认隐藏 */
-.line-tr {
-  margin-top: 4px;
+/* 标题拼音上标（ruby），与正文拼音风格一致 */
+.poem-header h1 ruby {
+  ruby-align: center;
+  margin: 0 2px;
 }
 
-body.hide-fanyi .line-tr {
-  display: none;
+.poem-header h1 rt {
+  font-size: 15px;
+  color: var(--pinyin-color);
+  font-weight: 400;
+  padding: 0 1px;
+  white-space: nowrap;
 }
 
-.line-tr p {
-  margin: 4px 0 0;
-  text-align: center;
-  color: var(--ink-soft);
-  font-size: 16px;
+.poem-header h1 .title-sep {
+  margin: 0 4px;
 }
 
 /* 译文 / 注释 / 背景块 */

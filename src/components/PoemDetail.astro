@@ -13,6 +13,25 @@ const { prev, next } = poemNeighbors(poem);
 const authorNoun = poem.dynasty === 'songci' ? '词人' : '诗人';
 const fullText = poem.lines.map((l) => l.text).join('');
 const cover = getCover(poem);
+
+// 标题拼音上标：音节按序与汉字配对（不足的汉字如"其五/节选"保持原样），无音节则回退为拼音独立行
+const CJK = /[\u4e00-\u9fff]/;
+const titleChars = [...poem.title];
+const titleSyls = (poem.titlePinyin ?? '').split(/\s+/).filter((s) => s && s !== '·');
+const titleCjkCount = titleChars.filter((c) => CJK.test(c)).length;
+let titleRuby = null;
+if (titleSyls.length > 0 && titleSyls.length <= titleCjkCount) {
+  let si = 0;
+  titleRuby = titleChars
+    .map((ch) => {
+      if (!CJK.test(ch)) return `<span class="title-sep">${ch}</span>`;
+      const py = si < titleSyls.length ? titleSyls[si++] : null;
+      return py ? `<ruby>${ch}<rt>${py}</rt></ruby>` : ch;
+    })
+    .join('');
+}
+// 朗读内容：标题 + 作者 + 正文
+const readText = `${poem.title}，${author.name}。${fullText}`;
 ---
 
 <div class="container">
@@ -22,8 +41,8 @@ const cover = getCover(poem);
       <a href={`/${poem.dynasty}/${poem.era}/`}>{era.label}</a> /{' '}
       <a href={authorPath(author)}>{author.name}</a>
     </p>
-    <h1>{poem.title}</h1>
-    <p class="poem-title-pinyin">{poem.titlePinyin}</p>
+    <h1 set:html={titleRuby ?? poem.title} />
+    {!titleRuby && <p class="poem-title-pinyin">{poem.titlePinyin}</p>}
     <div class="meta-row">
       <span class="meta-chip">
         <a href={authorPath(author)}>
@@ -53,11 +72,10 @@ const cover = getCover(poem);
   </div>
   {cover && <p class="cover-caption">看图读诗 · AI 辅助生成 · up999.cn</p>}
 
-  <AudioButton text={fullText} audio={poem.audio} />
+  <AudioButton text={readText} audio={poem.audio} />
 
   <div class="poem-toolbar">
     <button type="button" id="pinyin-toggle" class="toolbar-btn" aria-pressed="true">拼音：开</button>
-    <button type="button" id="fanyi-toggle" class="toolbar-btn" aria-pressed="false">释义：关</button>
   </div>
 
   <PinyinText lines={poem.lines} notes={poem.notes} />
@@ -139,7 +157,7 @@ const cover = getCover(poem);
 </div>
 
 <script>
-  // 拼音/释义开关：localStorage 全站记忆
+  // 拼音开关：localStorage 全站记忆
   const toggle = document.getElementById('pinyin-toggle');
   if (toggle) {
     const isOff = document.body.classList.contains('hide-pinyin');
@@ -150,19 +168,6 @@ const cover = getCover(poem);
       toggle.setAttribute('aria-pressed', String(!off));
       toggle.textContent = off ? '拼音：关' : '拼音：开';
       localStorage.setItem('up999-pinyin', off ? 'off' : 'on');
-    });
-  }
-
-  const fanyiBtn = document.getElementById('fanyi-toggle');
-  if (fanyiBtn) {
-    const isOff = document.body.classList.contains('hide-fanyi');
-    fanyiBtn.setAttribute('aria-pressed', String(!isOff));
-    fanyiBtn.textContent = isOff ? '释义：关' : '释义：开';
-    fanyiBtn.addEventListener('click', () => {
-      const off = document.body.classList.toggle('hide-fanyi');
-      fanyiBtn.setAttribute('aria-pressed', String(!off));
-      fanyiBtn.textContent = off ? '释义：关' : '释义：开';
-      localStorage.setItem('up999-fanyi', off ? 'off' : 'on');
     });
   }
 </script>

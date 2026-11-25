@@ -32,6 +32,12 @@ if (titleSyls.length > 0 && titleSyls.length <= titleCjkCount) {
 }
 // 朗读内容：标题 + 作者 + 正文
 const readText = `${poem.title}，${author.name}。${fullText}`;
+
+// 朗读音频：按约定读取 public/assets/audio/poems/{slug}.mp3（构建期检查存在性）
+// 有预生成音频则用真人朗读，缺失时 AudioButton 自动降级浏览器机器朗读
+import { existsSync } from 'node:fs';
+const audioFile = new URL(`../../public/assets/audio/poems/${poem.slug}.mp3`, import.meta.url);
+const audioSrc = existsSync(audioFile) ? `/assets/audio/poems/${poem.slug}.mp3` : null;
 ---
 
 <div class="container">
@@ -72,7 +78,7 @@ const readText = `${poem.title}，${author.name}。${fullText}`;
   </div>
   {cover && <p class="cover-caption">看图读诗 · AI 辅助生成 · up999.cn</p>}
 
-  <AudioButton text={readText} audio={poem.audio} />
+  <AudioButton text={readText} audio={audioSrc ? { src: audioSrc } : null} />
 
   <div class="poem-toolbar">
     <button type="button" id="pinyin-toggle" class="toolbar-btn" aria-pressed="true">拼音：开</button>

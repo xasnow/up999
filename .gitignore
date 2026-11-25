@@ -6,6 +6,12 @@ dist/
 # 本地截图与临时文件
 .screenshots/
 
+# 音频样例与本地试听文件
+audio-samples/
+
+# 火山引擎本地密钥（勿提交）
+scripts/volc-config.local.json
+
 # 用户本地说明文件（不入库）
 古诗词网站说明.txt
 

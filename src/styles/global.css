@@ -693,7 +693,8 @@ h1, h2, h3, h4 {
   overflow: hidden;
   box-shadow: var(--shadow);
   margin: 16px auto 0;
-  /* 通栏全宽：撑满正文列（880px），充分利用原图 */
+  /* 详情页配图收窄：占正文列宽度的 60%，居中展示 */
+  width: 60%;
   max-width: 100%;
   background: linear-gradient(140deg, #274156, #3a5568);
   color: var(--moon);
@@ -709,6 +710,7 @@ h1, h2, h3, h4 {
   width: 100%;
   /* height:auto 让浏览器按 width/height 属性比例缩放，修复窄竖条 */
   height: auto;
+  display: block;
 }
 
 .cover-caption {
@@ -1314,6 +1316,11 @@ html {
 @media (max-width: 1279px) {
   .mobile-nav {
     display: block;
+  }
+
+  /* 移动端配图恢复全宽，避免 60% 过窄看不清画面 */
+  .poem-cover {
+    width: 100%;
   }
 
   .toc-fab {

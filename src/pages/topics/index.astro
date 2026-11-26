@@ -1,0 +1,38 @@
+---
+// 专题目录：按主题聚合的作品入口
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { topics, poemsOfTopic, topicPath } from '../../lib/content';
+import { pageKeywords } from '../../lib/seo';
+
+const list = topics.map((t) => ({ t, count: poemsOfTopic(t).length }));
+---
+
+<BaseLayout
+  title="诗词专题 · 按主题找诗 · 每天一首小古诗"
+  description="按主题找古诗词：思乡、春夏秋冬、月亮、送别、边塞、田园、山水、节日、儿童趣事、爱国与志向，带拼音和漫画讲解。"
+  keywords={pageKeywords('tangshi')}
+>
+  <div class="container">
+    <section class="section">
+      <div class="section-title">
+        <h1>诗词专题</h1>
+        <small>按主题找诗，一次读个够</small>
+      </div>
+      <p class="topics-lead">
+        不想按朝代翻？那就按主题来。想家的夜读「思乡」，过节时读「节日」，看到大雪就翻「春夏秋冬」里的冬天。
+      </p>
+      <div class="topic-grid">
+        {
+          list.map(({ t, count }) => (
+            <a class="topic-card" href={topicPath(t)} style={`--topic-color:${t.color}`}>
+              <span class="topic-emoji" aria-hidden="true">{t.emoji}</span>
+              <h3>{t.title}</h3>
+              <p>{t.intro}</p>
+              <span class="topic-count">{count} 首 →</span>
+            </a>
+          ))
+        }
+      </div>
+    </section>
+  </div>
+</BaseLayout>

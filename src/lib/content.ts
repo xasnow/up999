@@ -1,4 +1,5 @@
 import dynastiesData from '../data/dynasties.json';
+import topicsData from '../data/topics.json';
 import siteConfig from '../data/site-config.json';
 
 /** 全站配图开关（src/data/site-config.json）：false 隐藏封面/分镜，代码与数据保留 */
@@ -20,6 +21,7 @@ const poemModules = import.meta.glob('../data/poems/*.json', {
 });
 
 export const dynasties: any[] = dynastiesData as any[];
+export const topics: any[] = topicsData as any[];
 export const authors: any[] = Object.values(authorModules) as any[];
 export const poems: any[] = Object.values(poemModules) as any[];
 
@@ -106,6 +108,56 @@ export function gradeLabel(band: string): string {
 export function todayPoem(): any {
   const day = Math.floor(Date.now() / 86400000);
   return poems[day % poems.length];
+}
+
+// ---------- 专题（按 tags 聚合，数据见 src/data/topics.json） ----------
+
+export function topicPath(topic: any): string {
+  return `/topics/${topic.slug}/`;
+}
+
+/** 主题的标签池：有 sections 用全部小节的并集，否则用 tags */
+export function topicTagPool(topic: any): string[] {
+  if (topic.sections?.length) return topic.sections.flatMap((s: any) => s.tags);
+  return topic.tags ?? [];
+}
+
+const GRADE_ORDER: Record<string, number> = { 'g1-2': 0, 'g3-4': 1, 'g5-6': 2, ext: 3 };
+
+/** 匹配某主题的作品：按学段由低到高、再按拼音排序，方便按难度阅读 */
+export function poemsOfTopic(topic: any): any[] {
+  const pool = new Set(topicTagPool(topic));
+  return poems
+    .filter((p) => (p.tags ?? []).some((t: string) => pool.has(t)))
+    .sort(
+      (a, b) =>
+        (GRADE_ORDER[a.gradeBand] ?? 9) - (GRADE_ORDER[b.gradeBand] ?? 9) ||
+        String(a.titlePinyin ?? a.title).localeCompare(String(b.titlePinyin ?? b.title), 'zh')
+    );
+}
+
+/** 一首诗属于哪些主题（详情页底部互链用） */
+export function topicsOfPoem(poem: any): any[] {
+  return topics.filter((t) => {
+    const pool = new Set(topicTagPool(t));
+    return (poem.tags ?? []).some((x: string) => pool.has(x));
+  });
+}
+
+/** 与某首诗共享标签最多的作品（详情页底部推荐，不含自身） */
+export function relatedPoems(poem: any, n = 6): any[] {
+  const mine = new Set(poem.tags ?? []);
+  return poems
+    .filter((p) => p.id !== poem.id)
+    .map((p) => ({ p, shared: (p.tags ?? []).filter((t: string) => mine.has(t)).length }))
+    .filter((x) => x.shared > 0)
+    .sort(
+      (a, b) =>
+        b.shared - a.shared ||
+        (GRADE_ORDER[a.p.gradeBand] ?? 9) - (GRADE_ORDER[b.p.gradeBand] ?? 9)
+    )
+    .slice(0, n)
+    .map((x) => x.p);
 }
 
 /** 大类内代表诗人：按作品数取前 N 位 */

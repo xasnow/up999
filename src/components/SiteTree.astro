@@ -1,9 +1,10 @@
 ---
-// 全站目录树：大类 → 时期 → 作者，当前所在分支默认展开并高亮
-import { dynasties, authorsOfEra, poemsOfAuthor } from '../lib/content';
+// 全站目录树：专题 → 大类 → 时期 → 作者，当前所在分支默认展开并高亮
+import { dynasties, topics, authorsOfEra, poemsOfAuthor, poemsOfTopic, topicPath } from '../lib/content';
 
 const path = Astro.url.pathname;
 const inBranch = (prefix: string) => path === prefix || path.startsWith(prefix);
+const inTopics = inBranch('/topics/');
 
 const tree = dynasties.map((d) => ({
   d,
@@ -16,6 +17,24 @@ const tree = dynasties.map((d) => ({
 
 <nav class="site-tree" aria-label="全站目录">
   <p class="side-title">全站目录</p>
+  <details class="tree-group" open={inTopics}>
+    <summary><span>诗词专题</span></summary>
+    <div class="tree-body">
+      <a class="tree-overview" href="/topics/">全部主题 →</a>
+      <ul class="tree-authors">
+        {
+          topics.map((t) => (
+            <li>
+              <a class:list={[{ active: inBranch(topicPath(t)) }]} href={topicPath(t)}>
+                <span>{t.emoji} {t.title}</span>
+                <span class="tree-num">{poemsOfTopic(t).length}</span>
+              </a>
+            </li>
+          ))
+        }
+      </ul>
+    </div>
+  </details>
   {
     tree.map(({ d, eras }) => (
       <details class="tree-group" open={inBranch(`/${d.id}/`)}>

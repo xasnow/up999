@@ -184,6 +184,25 @@ for (const { file, data: a } of authorFiles) {
   });
 }
 
+// ---------- 专题（src/data/topics.json）：slug 唯一、tags 能匹配到作品 ----------
+const HEX_RE = /^#[0-9a-fA-F]{6}$/;
+const topics = JSON.parse(fs.readFileSync(path.join(DATA, 'topics.json'), 'utf8'));
+const poemTagSets = poemFiles.map(({ data: p }) => new Set(p.tags ?? []));
+for (const t of topics) {
+  if (!SLUG_RE.test(t.slug ?? '')) err('topics.json', `主题 slug 非法：${t.slug}`);
+  if (slugSeen.has(t.slug)) err('topics.json', `主题 slug 重复：${t.slug}（已在 ${slugSeen.get(t.slug)} 使用）`);
+  slugSeen.set(t.slug, 'topics.json');
+  if (!t.title || !t.intro || !t.emoji) err('topics.json', `主题 ${t.slug} 缺少 title/intro/emoji`);
+  if (!HEX_RE.test(t.color ?? '')) err('topics.json', `主题 ${t.slug} 的 color 非法：${t.color}（需 #rrggbb）`);
+  const pool = t.sections?.length ? t.sections.flatMap((s) => s.tags) : t.tags;
+  if (!pool?.length) err('topics.json', `主题 ${t.slug} 既没有 tags 也没有 sections`);
+  t.sections?.forEach((s, i) => {
+    if (!s.title || !s.tags?.length) err('topics.json', `主题 ${t.slug} 第 ${i + 1} 节缺少 title 或 tags`);
+  });
+  const hit = poemTagSets.filter((set) => pool.some((x) => set.has(x))).length;
+  if (hit === 0) err('topics.json', `主题 ${t.slug} 匹配不到任何作品（tags 拼写有误？）`);
+}
+
 // ---------- 输出 ----------
 if (errors.length > 0) {
   console.error(`\n✗ 内容校验未通过，共 ${errors.length} 个问题：\n`);
@@ -191,6 +210,6 @@ if (errors.length > 0) {
   process.exit(1);
 } else {
   console.log(
-    `✓ 内容校验通过：${dynasties.length} 个大类，${authorFiles.length} 位作者，${poemFiles.length} 首作品`
+    `✓ 内容校验通过：${dynasties.length} 个大类，${authorFiles.length} 位作者，${poemFiles.length} 首作品，${topics.length} 个专题`
   );
 }

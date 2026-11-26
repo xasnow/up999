@@ -268,6 +268,111 @@ h1, h2, h3, h4 {
 .cat-songci { background: var(--song); }
 .cat-qita { background: var(--qita); }
 
+/* ========= 诗词专题 ========= */
+.topics-lead {
+  color: var(--ink-soft);
+  margin: 0 0 18px;
+}
+
+.topic-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 12px;
+}
+
+@media (min-width: 560px) {
+  .topic-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+.topic-card {
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-top: 4px solid var(--topic-color, var(--moon-deep));
+  border-radius: var(--radius);
+  padding: 16px 18px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  box-shadow: var(--shadow);
+  transition: transform 0.15s ease;
+}
+
+.topic-card:hover {
+  transform: translateY(-2px);
+}
+
+.topic-card h3 {
+  margin: 0;
+  font-size: 19px;
+  color: var(--topic-color, var(--ink));
+}
+
+.topic-card p {
+  margin: 0;
+  font-size: 13px;
+  color: var(--ink-soft);
+}
+
+.topic-emoji {
+  font-size: 26px;
+  line-height: 1;
+}
+
+.topic-count {
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--topic-color, var(--ink-soft));
+}
+
+.topic-hero {
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-left: 6px solid var(--topic-color, var(--moon-deep));
+  border-radius: var(--radius);
+  padding: 20px;
+  display: flex;
+  gap: 16px;
+  align-items: flex-start;
+  box-shadow: var(--shadow);
+  margin-bottom: 8px;
+}
+
+.topic-hero h1 {
+  margin: 0 0 6px;
+  font-size: 26px;
+  color: var(--topic-color, var(--ink));
+}
+
+.topic-hero p {
+  margin: 0 0 8px;
+  color: var(--ink-soft);
+}
+
+.topic-chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.topic-chip {
+  border: 1.5px solid var(--topic-color, var(--line));
+  color: var(--topic-color, var(--ink));
+  border-radius: 999px;
+  padding: 8px 16px;
+  min-height: 40px;
+  display: inline-flex;
+  align-items: center;
+  font-size: 14px;
+  background: var(--card);
+}
+
+.topic-chip:hover {
+  background: var(--topic-color, var(--line));
+  color: #fff;
+}
+
 /* 今日一诗 */
 .today-card {
   background: var(--card);

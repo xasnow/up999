@@ -1,9 +1,10 @@
 ---
 // 作品详情：封面 → 原文 → 讲解 → 拓展，移动端优先
-import { authorPath, getAuthor, getCover, getDynasty, getEra, gradeLabel, IMAGES_ENABLED, poemNeighbors } from '../lib/content';
+import { authorPath, getAuthor, getCover, getDynasty, getEra, gradeLabel, IMAGES_ENABLED, poemNeighbors, topicsOfPoem, relatedPoems, topicPath } from '../lib/content';
 import PinyinText from './PinyinText.astro';
 import TimelineStory from './TimelineStory.astro';
 import AudioButton from './AudioButton.astro';
+import PoemCard from './PoemCard.astro';
 
 const { poem } = Astro.props;
 const author = getAuthor(poem.authorId);
@@ -13,6 +14,8 @@ const { prev, next } = poemNeighbors(poem);
 const authorNoun = poem.dynasty === 'songci' ? '词人' : '诗人';
 const fullText = poem.lines.map((l) => l.text).join('');
 const cover = getCover(poem);
+const poemTopics = topicsOfPoem(poem);
+const related = relatedPoems(poem, 6);
 
 // 标题拼音上标：音节按序与汉字配对（不足的汉字如"其五/节选"保持原样），无音节则回退为拼音独立行
 const CJK = /[\u4e00-\u9fff]/;
@@ -135,6 +138,30 @@ const audioSrc = existsSync(audioFile) ? `/assets/audio/poems/${poem.slug}.mp3` 
       <p>{poem.appreciation}</p>
     </div>
   </section>
+
+  {
+    (poemTopics.length > 0 || related.length > 0) && (
+      <section class="block">
+        <h2>同主题作品</h2>
+        {poemTopics.length > 0 && (
+          <div class="topic-chips" style="margin-bottom:14px">
+            {poemTopics.map((t) => (
+              <a class="topic-chip" href={topicPath(t)} style={`--topic-color:${t.color}`}>
+                {t.emoji} {t.title}
+              </a>
+            ))}
+          </div>
+        )}
+        {related.length > 0 && (
+          <div class="poem-grid">
+            {related.map((p) => (
+              <PoemCard poem={p} />
+            ))}
+          </div>
+        )}
+      </section>
+    )
+  }
 
   <div class="poem-pager">
     {

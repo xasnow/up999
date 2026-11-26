@@ -17,6 +17,7 @@
 import argparse
 import asyncio
 import json
+import re
 import sys
 import uuid
 from pathlib import Path
@@ -173,8 +174,9 @@ async def main() -> None:
             if out_file.exists() and not args.force:
                 skipped.append(poem["title"])
                 continue
-            # 额度控制：新批次（no>=1000）作品朗读文本超过 100 字暂缓，等额度充足后用 --ids 指定补齐
-            if poem.get("no", 0) >= 1000 and len(text) > 100:
+            # 额度控制：新批次（no>=1000）作品正文去标点超过 100 字暂缓（口径与 content-manifest.csv 一致），等额度充足后用 --ids 指定补齐
+            pure_body = re.sub(r"[\s，。？！、；：""''《》（）·—…,.?!;:'\"()\-]", "", "".join(line["text"] for line in poem.get("lines", [])))
+            if poem.get("no", 0) >= 1000 and len(pure_body) > 100:
                 skipped.append(f"{poem['title']}(>100字暂缓)")
                 continue
             tasks.append((poem["title"], out_file, text))

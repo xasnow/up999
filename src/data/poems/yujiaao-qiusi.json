@@ -1,0 +1,178 @@
+{
+  "id": "song-beisong-fanzhongyan-yujiaao-qiusi",
+  "slug": "yujiaao-qiusi",
+  "title": "渔家傲·秋思",
+  "titlePinyin": "yú jiā ào · qiū sī",
+  "dynasty": "songci",
+  "era": "beisong",
+  "genre": "ci",
+  "form": "词（中调）",
+  "authorId": "fanzhongyan",
+  "gradeBand": "ext",
+  "tags": ["边塞", "秋天", "词"],
+  "difficulty": 3,
+  "writtenYear": 1040,
+  "writtenLabel": "约公元 1040 年（范仲淹 52 岁，戍守西北边防，知延州）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "浊酒一杯家万里，燕然未勒归无计。"
+  ],
+  "lines": [
+    {
+      "text": "塞下秋来风景异，",
+      "pinyin": ["sài", "xià", "qiū", "lái", "fēng", "jǐng", "yì"],
+      "translation": "边塞的秋天一到，风景和江南完全不同。",
+      "noteIds": ["n-saixia"]
+    },
+    {
+      "text": "衡阳雁去无留意。",
+      "pinyin": ["héng", "yáng", "yàn", "qù", "wú", "liú", "yì"],
+      "translation": "大雁朝衡阳飞去，一点也不愿意留下来。",
+      "noteIds": ["n-hengyang"]
+    },
+    {
+      "text": "四面边声连角起，",
+      "pinyin": ["sì", "miàn", "biān", "shēng", "lián", "jiǎo", "qǐ"],
+      "translation": "四面八方都是边塞特有的声响，和军营号角一起响起来。",
+      "noteIds": ["n-biansheng"]
+    },
+    {
+      "text": "千嶂里，",
+      "pinyin": ["qiān", "zhàng", "lǐ"],
+      "translation": "在像屏障一样的千座大山中间，",
+      "noteIds": ["n-qianzhang"]
+    },
+    {
+      "text": "长烟落日孤城闭。",
+      "pinyin": ["cháng", "yān", "luò", "rì", "gū", "chéng", "bì"],
+      "translation": "长长的烟雾托着落日，一座孤城早早关上了城门。",
+      "noteIds": []
+    },
+    {
+      "text": "浊酒一杯家万里，",
+      "pinyin": ["zhuó", "jiǔ", "yī", "bēi", "jiā", "wàn", "lǐ"],
+      "translation": "喝下一杯浊酒，想起万里之外的家乡。",
+      "noteIds": ["n-zhuojiu"]
+    },
+    {
+      "text": "燕然未勒归无计。",
+      "pinyin": ["yān", "rán", "wèi", "lè", "guī", "wú", "jì"],
+      "translation": "战事还没有平定，像古人那样刻石记功，回家的事没有指望。",
+      "noteIds": ["n-yanranle"]
+    },
+    {
+      "text": "羌管悠悠霜满地，",
+      "pinyin": ["qiāng", "guǎn", "yōu", "yōu", "shuāng", "mǎn", "dì"],
+      "translation": "夜深了，羌笛声悠悠地响，霜铺满了地面。",
+      "noteIds": ["n-qiangguan"]
+    },
+    {
+      "text": "人不寐，",
+      "pinyin": ["rén", "bù", "mèi"],
+      "translation": "将士们睡不着觉，",
+      "noteIds": []
+    },
+    {
+      "text": "将军白发征夫泪。",
+      "pinyin": ["jiāng", "jūn", "bái", "fà", "zhēng", "fū", "lèi"],
+      "translation": "将军熬白了头发，士兵们流下了眼泪。",
+      "noteIds": []
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-saixia",
+      "word": "塞下",
+      "pinyin": "sài xià",
+      "meaning": "边塞附近，指西北前线。"
+    },
+    {
+      "id": "n-hengyang",
+      "word": "衡阳雁去",
+      "pinyin": "héng yáng yàn qù",
+      "meaning": "传说大雁南飞，到衡阳的回雁峰就不再往南。这里说大雁头也不回地飞走了。"
+    },
+    {
+      "id": "n-biansheng",
+      "word": "边声",
+      "pinyin": "biān shēng",
+      "meaning": "边塞特有的声响，风吼、马嘶、号角声混成一片。"
+    },
+    {
+      "id": "n-qianzhang",
+      "word": "千嶂",
+      "pinyin": "qiān zhàng",
+      "meaning": "像屏风一样连绵的许多山峰。"
+    },
+    {
+      "id": "n-zhuojiu",
+      "word": "浊酒",
+      "pinyin": "zhuó jiǔ",
+      "meaning": "浑浊粗糙的酒。军中条件艰苦，喝不上好酒。"
+    },
+    {
+      "id": "n-yanranle",
+      "word": "燕然未勒",
+      "pinyin": "yān rán wèi lè",
+      "meaning": "还没有像东汉的窦宪那样，在燕然山刻石记功。指战事未平，无法回家。"
+    },
+    {
+      "id": "n-qiangguan",
+      "word": "羌管",
+      "pinyin": "qiāng guǎn",
+      "meaning": "羌笛，边塞常听到的乐器声。"
+    }
+  ],
+  "translation": "边塞的秋天到了，风景和别处大不一样，大雁朝衡阳飞去，一点也不想停留。四面都是边塞的声响，和军中的号角一起响起。在千山环绕之中，长长的烟雾托着落日，一座孤城早早关上了城门。喝一杯浊酒，想起万里之外的家乡；可是战事还没有平定，回家根本没法打算。夜里羌笛声悠悠地响，白霜铺满大地，将士们怎么也睡不着：将军熬白了头发，士兵们悄悄落泪。",
+  "appreciation": "这首词一改宋词的柔美，写出了边塞的苍凉。上片全是画面：南飞的大雁、四起的边声、千山中的孤城，一个“异”字道尽边关的荒寒。下片全是心事：一杯浊酒，喝出的是万里乡愁；可“燕然未勒”，功业未成，只能硬撑着留守。将军的白发和征夫的热泪放在一起，把将士们又想家、又想建功的复杂心情写活了，开创了宋词里豪放悲壮的先声。",
+  "background": "1040 年前后，西夏不断进犯西北边境，宋军连吃败仗，范仲淹临危受命，到延州一带主持边防。他练兵筑城，把边关治理得井井有条。这首词就是他在军营中，看到秋天边塞的荒凉、体会将士们的思乡之情写下的。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "塞下秋来",
+      "text": "边塞的秋天来了，大雁头也不回地飞向衡阳，风景一片荒凉。"
+    },
+    {
+      "step": 2,
+      "title": "孤城落日",
+      "text": "号角四起，暮色里长烟落日，千山环抱中的孤城早早关门。"
+    },
+    {
+      "step": 3,
+      "title": "浊酒思乡",
+      "text": "将军喝着浊酒想念万里外的家，可战事未平，归期无计。"
+    },
+    {
+      "step": 4,
+      "title": "霜夜难眠",
+      "text": "寒霜铺地，羌笛悠悠，将士们彻夜难眠，将军白发，征夫落泪。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "塞",
+      "reading": "sài",
+      "reason": "“塞下”指边塞、前线。",
+      "standard": "这里不读 sāi 或 sè"
+    },
+    {
+      "char": "燕",
+      "reading": "yān",
+      "reason": "“燕然”是山名，在今蒙古国境内。",
+      "standard": "作地名不读 yàn"
+    },
+    {
+      "char": "勒",
+      "reading": "lè",
+      "reason": "“未勒”指没有在燕然山刻石记功。",
+      "standard": "这里不读 lēi"
+    }
+  ],
+  "sources": [
+    "《全宋词》",
+    "部编版语文九年级下册"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 2002
+}

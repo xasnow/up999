@@ -1,0 +1,313 @@
+{
+  "id": "songci-beisong-zhoubangyan-sumuzhe-liaochenxiang",
+  "slug": "sumuzhe-liaochenxiang",
+  "title": "苏幕遮·燎沉香",
+  "titlePinyin": "sū mù zhē · liáo chén xiāng",
+  "dynasty": "songci",
+  "era": "beisong",
+  "genre": "ci",
+  "form": "词（中调）",
+  "authorId": "zhoubangyan",
+  "gradeBand": "ext",
+  "tags": [
+    "思乡",
+    "夏天",
+    "荷花",
+    "词"
+  ],
+  "difficulty": 3,
+  "writtenYear": 1089,
+  "writtenLabel": "约公元 1089 年（周邦彦 34 岁左右，客居汴京）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "叶上初阳干宿雨，水面清圆，一一风荷举。"
+  ],
+  "lines": [
+    {
+      "text": "燎沉香，",
+      "pinyin": [
+        "liáo",
+        "chén",
+        "xiāng"
+      ],
+      "translation": "点燃一支沉香，",
+      "noteIds": [
+        "n-liaoch"
+      ]
+    },
+    {
+      "text": "消溽暑。",
+      "pinyin": [
+        "xiāo",
+        "rù",
+        "shǔ"
+      ],
+      "translation": "来驱散潮湿闷热的暑气。",
+      "noteIds": [
+        "n-rushu"
+      ]
+    },
+    {
+      "text": "鸟雀呼晴，",
+      "pinyin": [
+        "niǎo",
+        "què",
+        "hū",
+        "qíng"
+      ],
+      "translation": "鸟雀叽叽喳喳，好像在报告天晴了，",
+      "noteIds": []
+    },
+    {
+      "text": "侵晓窥檐语。",
+      "pinyin": [
+        "qīn",
+        "xiǎo",
+        "kuī",
+        "yán",
+        "yǔ"
+      ],
+      "translation": "天刚亮就在屋檐下探头张望、喳喳说话。",
+      "noteIds": [
+        "n-qinxiao"
+      ]
+    },
+    {
+      "text": "叶上初阳干宿雨，",
+      "pinyin": [
+        "yè",
+        "shàng",
+        "chū",
+        "yáng",
+        "gān",
+        "sù",
+        "yǔ"
+      ],
+      "translation": "初升的太阳晒干了荷叶上昨夜的雨珠，",
+      "noteIds": [
+        "n-suyu"
+      ]
+    },
+    {
+      "text": "水面清圆，",
+      "pinyin": [
+        "shuǐ",
+        "miàn",
+        "qīng",
+        "yuán"
+      ],
+      "translation": "水面上的荷叶清润圆整，",
+      "noteIds": []
+    },
+    {
+      "text": "一一风荷举。",
+      "pinyin": [
+        "yì",
+        "yì",
+        "fēng",
+        "hé",
+        "jǔ"
+      ],
+      "translation": "风一吹，一张张挺立起来。",
+      "noteIds": [
+        "n-fenghe"
+      ]
+    },
+    {
+      "text": "故乡遥，",
+      "pinyin": [
+        "gù",
+        "xiāng",
+        "yáo"
+      ],
+      "translation": "故乡那么遥远，",
+      "noteIds": []
+    },
+    {
+      "text": "何日去？",
+      "pinyin": [
+        "hé",
+        "rì",
+        "qù"
+      ],
+      "translation": "什么时候才能回去？",
+      "noteIds": []
+    },
+    {
+      "text": "家住吴门，",
+      "pinyin": [
+        "jiā",
+        "zhù",
+        "wú",
+        "mén"
+      ],
+      "translation": "我的家在江南吴地，",
+      "noteIds": [
+        "n-wumen"
+      ]
+    },
+    {
+      "text": "久作长安旅。",
+      "pinyin": [
+        "jiǔ",
+        "zuò",
+        "cháng",
+        "ān",
+        "lǚ"
+      ],
+      "translation": "却长久地客居在京城。",
+      "noteIds": [
+        "n-changan"
+      ]
+    },
+    {
+      "text": "五月渔郎相忆否？",
+      "pinyin": [
+        "wǔ",
+        "yuè",
+        "yú",
+        "láng",
+        "xiāng",
+        "yì",
+        "fǒu"
+      ],
+      "translation": "五月里，故乡打鱼的朋友还会想起我吗？",
+      "noteIds": [
+        "n-yulang"
+      ]
+    },
+    {
+      "text": "小楫轻舟，",
+      "pinyin": [
+        "xiǎo",
+        "jí",
+        "qīng",
+        "zhōu"
+      ],
+      "translation": "梦见自己摇着小桨，划着轻快的小船，",
+      "noteIds": []
+    },
+    {
+      "text": "梦入芙蓉浦。",
+      "pinyin": [
+        "mèng",
+        "rù",
+        "fú",
+        "róng",
+        "pǔ"
+      ],
+      "translation": "驶进了长满荷花的水湾。",
+      "noteIds": [
+        "n-furongpu"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-liaoch",
+      "word": "燎沉香",
+      "pinyin": "liáo chén xiāng",
+      "meaning": "燎，烧；沉香是一种名贵的香料。烧起沉香来。"
+    },
+    {
+      "id": "n-rushu",
+      "word": "溽暑",
+      "pinyin": "rù shǔ",
+      "meaning": "又湿又热的夏天暑气。"
+    },
+    {
+      "id": "n-qinxiao",
+      "word": "侵晓",
+      "pinyin": "qīn xiǎo",
+      "meaning": "天刚亮的时候。"
+    },
+    {
+      "id": "n-suyu",
+      "word": "宿雨",
+      "pinyin": "sù yǔ",
+      "meaning": "昨夜下的雨。"
+    },
+    {
+      "id": "n-fenghe",
+      "word": "风荷举",
+      "pinyin": "fēng hé jǔ",
+      "meaning": "风中挺立的荷花。一个“举”字写出荷叶从水面挺起来的样子。"
+    },
+    {
+      "id": "n-wumen",
+      "word": "吴门",
+      "pinyin": "wú mén",
+      "meaning": "指江南吴地，词人的家乡杭州一带。"
+    },
+    {
+      "id": "n-changan",
+      "word": "长安",
+      "pinyin": "cháng ān",
+      "meaning": "这里借指北宋都城汴京（今河南开封）。"
+    },
+    {
+      "id": "n-yulang",
+      "word": "渔郎",
+      "pinyin": "yú láng",
+      "meaning": "指故乡打鱼的伙伴、朋友。"
+    },
+    {
+      "id": "n-furongpu",
+      "word": "芙蓉浦",
+      "pinyin": "fú róng pǔ",
+      "meaning": "长满荷花的水边。芙蓉就是荷花。"
+    }
+  ],
+  "translation": "点燃一支沉香，来驱散潮湿闷热的暑气。鸟雀叽叽喳喳，好像在报告天晴了，天刚亮就在屋檐下探头张望、喳喳说话。初升的太阳晒干了荷叶上昨夜的雨珠，水面上的荷叶清润圆整，风一吹，一张张挺立起来。故乡那么遥远，什么时候才能回去？我的家在江南吴地，却长久地客居在京城。五月里，故乡打鱼的朋友还会想起我吗？梦见自己摇着小桨，划着轻快的小船，驶进了长满荷花的水湾。",
+  "appreciation": "这首词最妙的是写荷叶。一夜宿雨还挂在叶上，初阳一晒就干了；风一吹，圆圆的荷叶从水面挺立起来，一个“举”字把荷叶写活了。前面鸟雀呼晴多么欢快，后面故乡遥遥就多么惆怅。结尾梦见划着小船回到荷花深处，把想家的心思写得又轻又美。",
+  "background": "周邦彦是钱塘（今杭州）人，写这首词时正客居京城汴京。五月的一个早晨，他点起沉香驱暑，看见雨后风荷挺举、鸟雀呼晴，江南的荷塘浮上心头，于是写下这首思念家乡的词。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "焚香消暑",
+      "text": "夏日清晨点燃沉香，驱散潮湿闷热的暑气。"
+    },
+    {
+      "step": 2,
+      "title": "鸟雀报晴",
+      "text": "小鸟在屋檐下喳喳叫着，像在报告晴天来了。"
+    },
+    {
+      "step": 3,
+      "title": "风荷挺举",
+      "text": "初阳晒干荷叶上的宿雨，风一吹，荷叶一张张挺立。"
+    },
+    {
+      "step": 4,
+      "title": "梦回荷浦",
+      "text": "想起遥远的故乡，梦见划着小船回到荷花深处。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "燎",
+      "reading": "liáo",
+      "reason": "“燎沉香”是点燃沉香的意思。",
+      "standard": "这里读 liáo，不读 liǎo"
+    },
+    {
+      "char": "溽",
+      "reading": "rù",
+      "reason": "“溽暑”指又湿又热的天气。",
+      "standard": "容易被误读"
+    },
+    {
+      "char": "楫",
+      "reading": "jí",
+      "reason": "“小楫”指划船用的桨。",
+      "standard": "容易被误读"
+    }
+  ],
+  "sources": [
+    "《清真集》",
+    "《宋词三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 2011
+}

@@ -1,0 +1,261 @@
+{
+  "id": "songci-beisong-liqingzhao-yujiaao-tianjieyuntao",
+  "slug": "yujiaao-tianjieyuntao",
+  "title": "渔家傲·天接云涛连晓雾",
+  "titlePinyin": "yú jiā ào · tiān jiē yún tāo lián xiǎo wù",
+  "dynasty": "songci",
+  "era": "beisong",
+  "genre": "ci",
+  "form": "词（中调）",
+  "authorId": "liqingzhao",
+  "gradeBand": "ext",
+  "tags": [
+    "理想",
+    "梦境",
+    "豪放",
+    "词"
+  ],
+  "difficulty": 3,
+  "writtenYear": 1120,
+  "writtenLabel": "约公元 1120 年（李清照 37 岁前后；一说作于南渡之后，此处从早期说系年）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "九万里风鹏正举。",
+    "我报路长嗟日暮，学诗谩有惊人句。"
+  ],
+  "lines": [
+    {
+      "text": "天接云涛连晓雾，",
+      "pinyin": [
+        "tiān",
+        "jiē",
+        "yún",
+        "tāo",
+        "lián",
+        "xiǎo",
+        "wù"
+      ],
+      "translation": "天连着翻滚的云涛，云涛又连着清晨的迷雾，",
+      "noteIds": []
+    },
+    {
+      "text": "星河欲转千帆舞，",
+      "pinyin": [
+        "xīng",
+        "hé",
+        "yù",
+        "zhuǎn",
+        "qiān",
+        "fān",
+        "wǔ"
+      ],
+      "translation": "银河像要转动起来，千百只船帆随风飞舞。",
+      "noteIds": []
+    },
+    {
+      "text": "仿佛梦魂归帝所。",
+      "pinyin": [
+        "fǎng",
+        "fú",
+        "mèng",
+        "hún",
+        "guī",
+        "dì",
+        "suǒ"
+      ],
+      "translation": "梦里的魂魄仿佛回到了天帝居住的地方。",
+      "noteIds": [
+        "n-disuo"
+      ]
+    },
+    {
+      "text": "闻天语，",
+      "pinyin": [
+        "wén",
+        "tiān",
+        "yǔ"
+      ],
+      "translation": "听见天帝在说话，",
+      "noteIds": []
+    },
+    {
+      "text": "殷勤问我归何处。",
+      "pinyin": [
+        "yīn",
+        "qín",
+        "wèn",
+        "wǒ",
+        "guī",
+        "hé",
+        "chù"
+      ],
+      "translation": "他关切地问我：要回到哪里去？",
+      "noteIds": [
+        "n-yinqin"
+      ]
+    },
+    {
+      "text": "我报路长嗟日暮，",
+      "pinyin": [
+        "wǒ",
+        "bào",
+        "lù",
+        "cháng",
+        "jiē",
+        "rì",
+        "mù"
+      ],
+      "translation": "我回答：前面的路太长，又叹息天色已晚，",
+      "noteIds": [
+        "n-jie"
+      ]
+    },
+    {
+      "text": "学诗谩有惊人句。",
+      "pinyin": [
+        "xué",
+        "shī",
+        "màn",
+        "yǒu",
+        "jīng",
+        "rén",
+        "jù"
+      ],
+      "translation": "学了写诗，也空有惊人的句子。",
+      "noteIds": [
+        "n-manyou"
+      ]
+    },
+    {
+      "text": "九万里风鹏正举。",
+      "pinyin": [
+        "jiǔ",
+        "wàn",
+        "lǐ",
+        "fēng",
+        "péng",
+        "zhèng",
+        "jǔ"
+      ],
+      "translation": "九万里的风正托着大鹏高高飞起。",
+      "noteIds": [
+        "n-dapeng"
+      ]
+    },
+    {
+      "text": "风休住，",
+      "pinyin": [
+        "fēng",
+        "xiū",
+        "zhù"
+      ],
+      "translation": "风啊，不要停住，",
+      "noteIds": []
+    },
+    {
+      "text": "蓬舟吹取三山去！",
+      "pinyin": [
+        "péng",
+        "zhōu",
+        "chuī",
+        "qǔ",
+        "sān",
+        "shān",
+        "qù"
+      ],
+      "translation": "就把这轻如蓬草的小船，吹到海上仙山去吧！",
+      "noteIds": [
+        "n-sanxian"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-disuo",
+      "word": "帝所",
+      "pinyin": "dì suǒ",
+      "meaning": "天帝居住的地方。"
+    },
+    {
+      "id": "n-yinqin",
+      "word": "殷勤",
+      "pinyin": "yīn qín",
+      "meaning": "热情、关切。"
+    },
+    {
+      "id": "n-jie",
+      "word": "嗟",
+      "pinyin": "jiē",
+      "meaning": "叹息。"
+    },
+    {
+      "id": "n-manyou",
+      "word": "谩有",
+      "pinyin": "màn yǒu",
+      "meaning": "空有、白白拥有。谩是“空、徒然”的意思。"
+    },
+    {
+      "id": "n-dapeng",
+      "word": "鹏正举",
+      "pinyin": "péng zhèng jǔ",
+      "meaning": "大鹏正高高飞起。大鹏是传说中的大鸟，一飞九万里。"
+    },
+    {
+      "id": "n-sanxian",
+      "word": "三山",
+      "pinyin": "sān shān",
+      "meaning": "传说中海上的三座仙山：蓬莱、方丈、瀛洲。"
+    }
+  ],
+  "translation": "天连着翻滚的云涛，又连着清晨的迷雾，银河仿佛转动起来，千百只船帆乘风起舞。我的梦魂仿佛回到天帝的住处，听见天帝说话，他热情地问我要归向何处。我回答：前面的路还很长，又叹天色已晚；学了写诗，也空有惊人的句子。九万里的风正托起大鹏高飞。风啊别停下，把这一叶轻舟吹到海上仙山去！",
+  "appreciation": "李清照的词大多写花写愁，这首却写梦写天，气派大得惊人。开头云涛、星河、千帆，像一幅巨大的画；接着她竟和天帝说起话来，被问“要归何处”，她答：路长日暮，空有才情。这不是抱怨，是不服气。结尾借大鹏起风，要飞去海上仙山——一个被时代困住的女子，在梦里痛快地飞了一次。",
+  "background": "约公元 1120 年前后，李清照已是闻名京城的才女。学界对这首词的创作年代有早年说与南渡后说，词中那条要飞向仙山的小船，寄托了她对自由和理想的向往，人们把它称作李清照的“记梦”之作。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "云涛晓雾",
+      "text": "天连着云涛，雾漫天而来，银河转动，千帆飞舞。"
+    },
+    {
+      "step": 2,
+      "title": "梦里见天帝",
+      "text": "她的梦魂飞到天帝住处，听见天帝关切地问她。"
+    },
+    {
+      "step": 3,
+      "title": "答路长日暮",
+      "text": "她回答：路太长、天快黑，学了诗也空有惊人的句子。"
+    },
+    {
+      "step": 4,
+      "title": "随鹏去仙山",
+      "text": "九万里的风托起大鹏，她乘着轻舟，朝海上仙山飞去。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "佛",
+      "reading": "fú",
+      "reason": "“仿佛”的“佛”读 fú。",
+      "standard": "这里不读 fó"
+    },
+    {
+      "char": "嗟",
+      "reading": "jiē",
+      "reason": "“嗟日暮”的“嗟”是叹息的意思。"
+    },
+    {
+      "char": "谩",
+      "reading": "màn",
+      "reason": "“谩有”的“谩”是“空、徒然”。",
+      "standard": "这里不读 mán"
+    }
+  ],
+  "sources": [
+    "《漱玉词》",
+    "《宋词三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 2013
+}

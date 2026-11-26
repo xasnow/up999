@@ -1,0 +1,265 @@
+{
+  "id": "songci-beisong-liqingzhao-yijianmei-hongou",
+  "slug": "yijianmei-hongou",
+  "title": "一剪梅·红藕香残玉簟秋",
+  "titlePinyin": "yī jiǎn méi · hóng ǒu xiāng cán yù diàn qiū",
+  "dynasty": "songci",
+  "era": "beisong",
+  "genre": "ci",
+  "form": "词（小令）",
+  "authorId": "liqingzhao",
+  "gradeBand": "ext",
+  "tags": [
+    "思念",
+    "雁",
+    "秋天",
+    "词"
+  ],
+  "difficulty": 3,
+  "writtenYear": 1101,
+  "writtenLabel": "约公元 1101 年（李清照 18 岁左右，婚后不久，与丈夫赵明诚小别）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "花自飘零水自流。",
+    "此情无计可消除，才下眉头，却上心头。"
+  ],
+  "lines": [
+    {
+      "text": "红藕香残玉簟秋。",
+      "pinyin": [
+        "hóng",
+        "ǒu",
+        "xiāng",
+        "cán",
+        "yù",
+        "diàn",
+        "qiū"
+      ],
+      "translation": "红色的荷花谢了，香气渐淡，睡的竹席也凉了，秋天到了。",
+      "noteIds": [
+        "n-yudian"
+      ]
+    },
+    {
+      "text": "轻解罗裳，",
+      "pinyin": [
+        "qīng",
+        "jiě",
+        "luó",
+        "cháng"
+      ],
+      "translation": "轻轻换下丝绸的衣裙，",
+      "noteIds": [
+        "n-luochang"
+      ]
+    },
+    {
+      "text": "独上兰舟。",
+      "pinyin": [
+        "dú",
+        "shàng",
+        "lán",
+        "zhōu"
+      ],
+      "translation": "一个人坐上小船。",
+      "noteIds": [
+        "n-lanzhou"
+      ]
+    },
+    {
+      "text": "云中谁寄锦书来？",
+      "pinyin": [
+        "yún",
+        "zhōng",
+        "shuí",
+        "jì",
+        "jǐn",
+        "shū",
+        "lái"
+      ],
+      "translation": "谁会从云中给我寄来书信呢？",
+      "noteIds": [
+        "n-jinshu"
+      ]
+    },
+    {
+      "text": "雁字回时，",
+      "pinyin": [
+        "yàn",
+        "zì",
+        "huí",
+        "shí"
+      ],
+      "translation": "等大雁排成队飞回来时，",
+      "noteIds": [
+        "n-yanzi"
+      ]
+    },
+    {
+      "text": "月满西楼。",
+      "pinyin": [
+        "yuè",
+        "mǎn",
+        "xī",
+        "lóu"
+      ],
+      "translation": "月光正洒满了西边的楼。",
+      "noteIds": []
+    },
+    {
+      "text": "花自飘零水自流。",
+      "pinyin": [
+        "huā",
+        "zì",
+        "piāo",
+        "líng",
+        "shuǐ",
+        "zì",
+        "liú"
+      ],
+      "translation": "花儿自己飘落，水自己流淌，",
+      "noteIds": []
+    },
+    {
+      "text": "一种相思，",
+      "pinyin": [
+        "yì",
+        "zhǒng",
+        "xiāng",
+        "sī"
+      ],
+      "translation": "我们怀着同一种相思，",
+      "noteIds": []
+    },
+    {
+      "text": "两处闲愁。",
+      "pinyin": [
+        "liǎng",
+        "chù",
+        "xián",
+        "chóu"
+      ],
+      "translation": "在两个地方各自发愁。",
+      "noteIds": []
+    },
+    {
+      "text": "此情无计可消除，",
+      "pinyin": [
+        "cǐ",
+        "qíng",
+        "wú",
+        "jì",
+        "kě",
+        "xiāo",
+        "chú"
+      ],
+      "translation": "这份相思没有办法消除，",
+      "noteIds": []
+    },
+    {
+      "text": "才下眉头，",
+      "pinyin": [
+        "cái",
+        "xià",
+        "méi",
+        "tóu"
+      ],
+      "translation": "刚刚从眉间舒展开，",
+      "noteIds": []
+    },
+    {
+      "text": "却上心头。",
+      "pinyin": [
+        "què",
+        "shàng",
+        "xīn",
+        "tóu"
+      ],
+      "translation": "又悄悄爬上了心头。",
+      "noteIds": []
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-yudian",
+      "word": "玉簟",
+      "pinyin": "yù diàn",
+      "meaning": "光亮如玉的竹席。簟就是竹席。"
+    },
+    {
+      "id": "n-luochang",
+      "word": "罗裳",
+      "pinyin": "luó cháng",
+      "meaning": "丝绸做的衣裙。裳指下身穿的裙。"
+    },
+    {
+      "id": "n-lanzhou",
+      "word": "兰舟",
+      "pinyin": "lán zhōu",
+      "meaning": "用木兰木做的小船，是对船的美称。"
+    },
+    {
+      "id": "n-jinshu",
+      "word": "锦书",
+      "pinyin": "jǐn shū",
+      "meaning": "写在锦帛上的信，指美好的书信。"
+    },
+    {
+      "id": "n-yanzi",
+      "word": "雁字",
+      "pinyin": "yàn zì",
+      "meaning": "大雁排成“人”字或“一”字飞行，像在写字。古人相信大雁能捎信。"
+    }
+  ],
+  "translation": "红色的荷花渐渐凋谢，香气变淡，竹席也透出凉意，秋天来了。轻轻换下丝绸衣裙，独自划着小船。云中谁能给我寄来书信？大雁排字飞回的时候，月光正洒满西楼。花儿自顾自地飘落，水自顾自地流淌。同一种相思，分成两地的愁绪。这份感情没有办法消除，刚从眉头上放下，又涌上了心头。",
+  "appreciation": "这首词把思念写得又轻又深。开头三样东西——荷花、竹席、秋凉，把季节悄悄换掉了。她在船上抬头看云、看雁、看月，其实都在等一封远方的信。最妙的是结尾：眉头刚松开，愁又到心头，一“下”一“上”，好像心里有块搬不走的石头。全词没有一个“苦”字，思念却已经满满当当。",
+  "background": "约公元 1101 年前后，十八岁的李清照嫁给赵明诚，两人感情很好。但赵明诚常常出门求学、做官，一别就是些日子。独守家中的李清照在秋天登上小船，看花落水流，想念远方的丈夫，写下这首词。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "荷花谢了",
+      "text": "荷花香气渐淡，竹席变凉，秋天悄悄来了。"
+    },
+    {
+      "step": 2,
+      "title": "独自上船",
+      "text": "她轻轻换下罗裳，一个人划着小船，抬头看云。"
+    },
+    {
+      "step": 3,
+      "title": "盼一封信",
+      "text": "大雁飞回来了，月光洒满西楼，可书信还没有到。"
+    },
+    {
+      "step": 4,
+      "title": "愁上心头",
+      "text": "眉头刚舒展开，思念又爬上心头，怎么也放不下。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "簟",
+      "reading": "diàn",
+      "reason": "“玉簟”的“簟”指竹席，是容易读错的生僻字。"
+    },
+    {
+      "char": "裳",
+      "reading": "cháng",
+      "reason": "“罗裳”的“裳”指下裙，古音读 cháng。",
+      "standard": "这里不读轻声 shang"
+    },
+    {
+      "char": "却",
+      "reading": "què",
+      "reason": "“却上心头”的“却”是表示转折的词。",
+      "standard": "不读 qiè"
+    }
+  ],
+  "sources": [
+    "《漱玉词》",
+    "《宋词三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 2012
+}

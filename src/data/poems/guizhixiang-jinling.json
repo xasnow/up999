@@ -1,0 +1,391 @@
+{
+  "id": "song-beisong-wanganshi-guizhixiang-jinling",
+  "slug": "guizhixiang-jinling",
+  "title": "桂枝香·金陵怀古",
+  "titlePinyin": "guì zhī xiāng · jīn líng huái gǔ",
+  "dynasty": "songci",
+  "era": "beisong",
+  "genre": "ci",
+  "form": "词（长调）",
+  "authorId": "wanganshi",
+  "gradeBand": "ext",
+  "tags": [
+    "怀古",
+    "秋天",
+    "长江",
+    "词"
+  ],
+  "difficulty": 3,
+  "writtenYear": 1067,
+  "writtenLabel": "约公元 1067 年（王安石 46 岁，出知江宁府；一说作于罢相后退居金陵时）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "六朝旧事随流水，但寒烟衰草凝绿。",
+    "至今商女，时时犹唱，后庭遗曲。"
+  ],
+  "lines": [
+    {
+      "text": "登临送目，",
+      "pinyin": [
+        "dēng",
+        "lín",
+        "sòng",
+        "mù"
+      ],
+      "translation": "登上高处，放眼远望，",
+      "noteIds": []
+    },
+    {
+      "text": "正故国晚秋，",
+      "pinyin": [
+        "zhèng",
+        "gù",
+        "guó",
+        "wǎn",
+        "qiū"
+      ],
+      "translation": "正是故都金陵的晚秋，",
+      "noteIds": []
+    },
+    {
+      "text": "天气初肃。",
+      "pinyin": [
+        "tiān",
+        "qì",
+        "chū",
+        "sù"
+      ],
+      "translation": "天气刚刚变得清朗肃爽。",
+      "noteIds": [
+        "n-chusu"
+      ]
+    },
+    {
+      "text": "千里澄江似练，",
+      "pinyin": [
+        "qiān",
+        "lǐ",
+        "chéng",
+        "jiāng",
+        "sì",
+        "liàn"
+      ],
+      "translation": "千里长江清澈得像一条白绢，",
+      "noteIds": [
+        "n-lian"
+      ]
+    },
+    {
+      "text": "翠峰如簇。",
+      "pinyin": [
+        "cuì",
+        "fēng",
+        "rú",
+        "cù"
+      ],
+      "translation": "青翠的山峰像箭头一样攒聚在一起。",
+      "noteIds": [
+        "n-cu"
+      ]
+    },
+    {
+      "text": "归帆去棹残阳里，",
+      "pinyin": [
+        "guī",
+        "fān",
+        "qù",
+        "zhào",
+        "cán",
+        "yáng",
+        "lǐ"
+      ],
+      "translation": "往来的船只行驶在残阳里，",
+      "noteIds": []
+    },
+    {
+      "text": "背西风，",
+      "pinyin": [
+        "bèi",
+        "xī",
+        "fēng"
+      ],
+      "translation": "背对着西风，",
+      "noteIds": []
+    },
+    {
+      "text": "酒旗斜矗。",
+      "pinyin": [
+        "jiǔ",
+        "qí",
+        "xié",
+        "chù"
+      ],
+      "translation": "酒旗斜斜地竖立着。",
+      "noteIds": []
+    },
+    {
+      "text": "彩舟云淡，",
+      "pinyin": [
+        "cǎi",
+        "zhōu",
+        "yún",
+        "dàn"
+      ],
+      "translation": "华丽的画船航行在淡淡的云影里，",
+      "noteIds": []
+    },
+    {
+      "text": "星河鹭起，",
+      "pinyin": [
+        "xīng",
+        "hé",
+        "lù",
+        "qǐ"
+      ],
+      "translation": "白鹭从银河般的江面上飞起，",
+      "noteIds": [
+        "n-xinghe"
+      ]
+    },
+    {
+      "text": "画图难足。",
+      "pinyin": [
+        "huà",
+        "tú",
+        "nán",
+        "zú"
+      ],
+      "translation": "这样的美景，用图画也难以画全。",
+      "noteIds": []
+    },
+    {
+      "text": "念往昔，",
+      "pinyin": [
+        "niàn",
+        "wǎng",
+        "xī"
+      ],
+      "translation": "想起往昔，",
+      "noteIds": []
+    },
+    {
+      "text": "繁华竞逐，",
+      "pinyin": [
+        "fán",
+        "huá",
+        "jìng",
+        "zhú"
+      ],
+      "translation": "六朝的统治者争着过豪华奢侈的生活，",
+      "noteIds": []
+    },
+    {
+      "text": "叹门外楼头，",
+      "pinyin": [
+        "tàn",
+        "mén",
+        "wài",
+        "lóu",
+        "tóu"
+      ],
+      "translation": "可叹隋军已兵临城门外，陈后主还在楼头寻欢，",
+      "noteIds": [
+        "n-loutou"
+      ]
+    },
+    {
+      "text": "悲恨相续。",
+      "pinyin": [
+        "bēi",
+        "hèn",
+        "xiāng",
+        "xù"
+      ],
+      "translation": "亡国的悲哀和遗恨一代接着一代。",
+      "noteIds": []
+    },
+    {
+      "text": "千古凭高对此，",
+      "pinyin": [
+        "qiān",
+        "gǔ",
+        "píng",
+        "gāo",
+        "duì",
+        "cǐ"
+      ],
+      "translation": "千百年来多少人登高面对此景，",
+      "noteIds": []
+    },
+    {
+      "text": "谩嗟荣辱。",
+      "pinyin": [
+        "màn",
+        "jiē",
+        "róng",
+        "rǔ"
+      ],
+      "translation": "只能空空地叹息荣耀与屈辱。",
+      "noteIds": []
+    },
+    {
+      "text": "六朝旧事随流水，",
+      "pinyin": [
+        "liù",
+        "cháo",
+        "jiù",
+        "shì",
+        "suí",
+        "liú",
+        "shuǐ"
+      ],
+      "translation": "六朝的旧事已经随着流水远去，",
+      "noteIds": []
+    },
+    {
+      "text": "但寒烟衰草凝绿。",
+      "pinyin": [
+        "dàn",
+        "hán",
+        "yān",
+        "shuāi",
+        "cǎo",
+        "níng",
+        "lǜ"
+      ],
+      "translation": "只剩下寒烟笼罩的衰草，凝成一片暗绿。",
+      "noteIds": []
+    },
+    {
+      "text": "至今商女，",
+      "pinyin": [
+        "zhì",
+        "jīn",
+        "shāng",
+        "nǚ"
+      ],
+      "translation": "直到今天，歌女们",
+      "noteIds": [
+        "n-shangnü"
+      ]
+    },
+    {
+      "text": "时时犹唱，",
+      "pinyin": [
+        "shí",
+        "shí",
+        "yóu",
+        "chàng"
+      ],
+      "translation": "还时时唱着，",
+      "noteIds": []
+    },
+    {
+      "text": "后庭遗曲。",
+      "pinyin": [
+        "hòu",
+        "tíng",
+        "yí",
+        "qǔ"
+      ],
+      "translation": "陈后主留下的那支亡国之曲。",
+      "noteIds": [
+        "n-houting"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-chusu",
+      "word": "初肃",
+      "pinyin": "chū sù",
+      "meaning": "秋天天气刚刚变得清朗肃爽。"
+    },
+    {
+      "id": "n-lian",
+      "word": "练",
+      "pinyin": "liàn",
+      "meaning": "白色的熟绢，这里比喻清澈平静的江面。"
+    },
+    {
+      "id": "n-cu",
+      "word": "簇",
+      "pinyin": "cù",
+      "meaning": "聚集，形容山峰一座座攒聚在一起。"
+    },
+    {
+      "id": "n-xinghe",
+      "word": "星河",
+      "pinyin": "xīng hé",
+      "meaning": "银河，这里用来比喻浩荡明净的长江。"
+    },
+    {
+      "id": "n-loutou",
+      "word": "门外楼头",
+      "pinyin": "mén wài lóu tóu",
+      "meaning": "指隋军已到城门之外，陈后主还在楼阁上寻欢作乐，最终亡国。"
+    },
+    {
+      "id": "n-shangnü",
+      "word": "商女",
+      "pinyin": "shāng nǚ",
+      "meaning": "在酒楼中靠唱歌为生的歌女。"
+    },
+    {
+      "id": "n-houting",
+      "word": "后庭遗曲",
+      "pinyin": "hòu tíng yí qǔ",
+      "meaning": "指陈后主所作的《玉树后庭花》，后来被看作亡国之音。"
+    }
+  ],
+  "translation": "登上高处，放眼远望，正是故都金陵的晚秋，天气刚刚变得清朗肃爽。千里长江清澈得像一条白绢，青翠的山峰像箭头一样攒聚在一起。往来的船只行驶在残阳里，背对着西风，酒旗斜斜地竖立着。华丽的画船航行在淡淡的云影里，白鹭从银河般的江面上飞起，这样的美景，用图画也难以画全。想起往昔，六朝的统治者争着过豪华奢侈的生活，可叹隋军已兵临城门外，陈后主还在楼头寻欢，亡国的悲哀和遗恨一代接着一代。千百年来多少人登高面对此景，只能空空地叹息荣耀与屈辱。六朝的旧事已经随着流水远去，只剩下寒烟笼罩的衰草，凝成一片暗绿。直到今天，歌女们还时时唱着陈后主留下的那支亡国之曲。",
+  "appreciation": "上片写景，像展开一幅金陵晚秋图：江水像白绢，青山攒聚，残阳里酒旗斜挂，白鹭从江面飞起，美得连画笔都难以画全。下片转入怀古：六朝旧事随流水而去，门外楼头的悲剧一代代重演，登高的人只能空自叹息。结尾借歌女还在唱亡国之曲，提醒世人莫忘历史教训。写景壮阔，用典精当，被推为金陵怀古词的绝唱。",
+  "background": "金陵就是现在的南京，曾是六个朝代的都城。王安石出任江宁知府时，登上高处眺望金陵晚秋景色，想起六朝兴亡的旧事，写下这首怀古名词。相传苏轼读后非常佩服，赞叹说：“此老乃野狐精也！”",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "登高送目",
+      "text": "晚秋时节，词人登上金陵的高处，放眼眺望远方。"
+    },
+    {
+      "step": 2,
+      "title": "江山如画",
+      "text": "澄江像白绢，青山攒聚，残阳里酒旗斜斜竖立。"
+    },
+    {
+      "step": 3,
+      "title": "追念六朝",
+      "text": "想起六朝旧事，繁华与悲恨一场接一场地重演。"
+    },
+    {
+      "step": 4,
+      "title": "商女犹唱",
+      "text": "可歌女至今还在唱亡国之曲，令人深深警醒。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "棹",
+      "reading": "zhào",
+      "reason": "“归帆去棹”的“棹”是船桨，这里代指船。"
+    },
+    {
+      "char": "矗",
+      "reading": "chù",
+      "reason": "“酒旗斜矗”的“矗”是直立、高耸的意思。"
+    },
+    {
+      "char": "谩",
+      "reading": "màn",
+      "reason": "“谩嗟荣辱”的“谩”是空自、徒然的意思。",
+      "standard": "这里不读 mán"
+    }
+  ],
+  "sources": [
+    "统编版高中语文必修下册",
+    "《临川先生文集》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 2009
+}

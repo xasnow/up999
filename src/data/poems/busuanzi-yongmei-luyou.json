@@ -1,0 +1,208 @@
+{
+  "id": "songci-nansong-luyou-busuanzi-yongmei-luyou",
+  "slug": "busuanzi-yongmei-luyou",
+  "title": "卜算子·咏梅",
+  "titlePinyin": "bǔ suàn zǐ · yǒng méi",
+  "dynasty": "songci",
+  "era": "nansong",
+  "genre": "ci",
+  "form": "词（小令）",
+  "authorId": "luyou",
+  "gradeBand": "ext",
+  "tags": [
+    "咏物",
+    "梅花",
+    "高洁",
+    "词"
+  ],
+  "difficulty": 3,
+  "writtenYear": 1175,
+  "writtenLabel": "约公元 1175 年（陆游 51 岁前后，屡遭排挤、壮志难酬之时；创作年代难以确考，此系年从通行说法）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "零落成泥碾作尘，只有香如故。"
+  ],
+  "lines": [
+    {
+      "text": "驿外断桥边，",
+      "pinyin": [
+        "yì",
+        "wài",
+        "duàn",
+        "qiáo",
+        "biān"
+      ],
+      "translation": "在驿站外面、断桥旁边，",
+      "noteIds": [
+        "n-yiwai"
+      ]
+    },
+    {
+      "text": "寂寞开无主。",
+      "pinyin": [
+        "jì",
+        "mò",
+        "kāi",
+        "wú",
+        "zhǔ"
+      ],
+      "translation": "梅花孤孤单单地开着，没有人来欣赏。",
+      "noteIds": [
+        "n-wuzhu"
+      ]
+    },
+    {
+      "text": "已是黄昏独自愁，",
+      "pinyin": [
+        "yǐ",
+        "shì",
+        "huáng",
+        "hūn",
+        "dú",
+        "zì",
+        "chóu"
+      ],
+      "translation": "又是黄昏，它独自发愁，",
+      "noteIds": []
+    },
+    {
+      "text": "更著风和雨。",
+      "pinyin": [
+        "gèng",
+        "zhuó",
+        "fēng",
+        "hé",
+        "yǔ"
+      ],
+      "translation": "还要经受风吹雨打。",
+      "noteIds": [
+        "n-zhuo"
+      ]
+    },
+    {
+      "text": "无意苦争春，",
+      "pinyin": [
+        "wú",
+        "yì",
+        "kǔ",
+        "zhēng",
+        "chūn"
+      ],
+      "translation": "它不一心想同百花苦苦争春，",
+      "noteIds": []
+    },
+    {
+      "text": "一任群芳妒。",
+      "pinyin": [
+        "yí",
+        "rèn",
+        "qún",
+        "fāng",
+        "dù"
+      ],
+      "translation": "任凭百花去嫉妒。",
+      "noteIds": [
+        "n-yiren",
+        "n-qunfang"
+      ]
+    },
+    {
+      "text": "零落成泥碾作尘，",
+      "pinyin": [
+        "líng",
+        "luò",
+        "chéng",
+        "ní",
+        "niǎn",
+        "zuò",
+        "chén"
+      ],
+      "translation": "凋谢落在地上，被碾成泥、化成尘土，",
+      "noteIds": []
+    },
+    {
+      "text": "只有香如故。",
+      "pinyin": [
+        "zhǐ",
+        "yǒu",
+        "xiāng",
+        "rú",
+        "gù"
+      ],
+      "translation": "只有清香还和从前一样。",
+      "noteIds": []
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-yiwai",
+      "word": "驿外",
+      "pinyin": "yì wài",
+      "meaning": "驿站外面。驿是古代传递公文的人歇脚换马的地方。"
+    },
+    {
+      "id": "n-wuzhu",
+      "word": "无主",
+      "pinyin": "wú zhǔ",
+      "meaning": "没有人过问、无人欣赏。"
+    },
+    {
+      "id": "n-zhuo",
+      "word": "更著",
+      "pinyin": "gèng zhuó",
+      "meaning": "又加上、遭受。"
+    },
+    {
+      "id": "n-yiren",
+      "word": "一任",
+      "pinyin": "yí rèn",
+      "meaning": "任凭、听凭。"
+    },
+    {
+      "id": "n-qunfang",
+      "word": "群芳",
+      "pinyin": "qún fāng",
+      "meaning": "百花。"
+    }
+  ],
+  "translation": "在驿站外面、断桥旁边，梅花寂寞地开着，无人欣赏。已是黄昏，它独自愁着，又加上风吹雨打。它无意苦苦争春，任凭百花嫉妒。凋零落进泥土，被碾作尘土，只有清香依然如故。",
+  "appreciation": "陆游写梅，其实是写自己。这株梅花长在最冷清的角落，没人看，还要挨风吹雨打；可它不抢春光，也不怕别人嫉妒，就算被碾进泥里，香气也不变。陆游一生主张抗金，却被罢官、被排挤，正像这株驿外断桥边的梅。八百年来，这首小词成了梅花最好的名片。",
+  "background": "约公元 1175 年前后，陆游一心想收复北方失地，却屡遭排挤，仕途坎坷。他借驿站外那株无人照看的梅花，写出自己不肯同流合污的心志。这首词与他一生的坎坷相互印证，是咏梅词中的名篇。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "驿外孤梅",
+      "text": "断桥边一株梅花，冷冷清清地开着，没人来看。"
+    },
+    {
+      "step": 2,
+      "title": "黄昏风雨",
+      "text": "黄昏里它独自发愁，还要顶住一阵阵风雨。"
+    },
+    {
+      "step": 3,
+      "title": "不争不惧",
+      "text": "它不忙着争春，任凭百花嫉妒，安静地开着。"
+    },
+    {
+      "step": 4,
+      "title": "香如故",
+      "text": "花瓣落进泥里碾成尘土，只有清香还是老样子。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "著",
+      "reading": "zhuó",
+      "reason": "“更著风和雨”的“著”是“遭受、又加上”的意思。",
+      "standard": "不读 zhù、zhe"
+    }
+  ],
+  "sources": [
+    "《放翁词》",
+    "《宋词三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 2017
+}

@@ -1,0 +1,177 @@
+{
+  "id": "song-beisong-yanshu-dieslianhua-lanju",
+  "slug": "dieslianhua-lanju",
+  "title": "蝶恋花·槛菊愁烟兰泣露",
+  "titlePinyin": "dié liàn huā · jiàn jú chóu yān lán qì lù",
+  "dynasty": "songci",
+  "era": "beisong",
+  "genre": "ci",
+  "form": "词（中调）",
+  "authorId": "yanshu",
+  "gradeBand": "ext",
+  "tags": ["思念", "秋天", "词"],
+  "difficulty": 3,
+  "writtenYear": 1040,
+  "writtenLabel": "约公元 1040 年（晏殊 50 岁左右，身居相位，词写离别相思）",
+  "orderInAuthor": 2,
+  "famousLines": [
+    "昨夜西风凋碧树，独上高楼，望尽天涯路。"
+  ],
+  "lines": [
+    {
+      "text": "槛菊愁烟兰泣露，",
+      "pinyin": ["jiàn", "jú", "chóu", "yān", "lán", "qì", "lù"],
+      "translation": "栏杆外的菊花笼着雾气像在发愁，兰花沾着露水像在哭泣。",
+      "noteIds": ["n-jian", "n-chouyan", "n-qilu"]
+    },
+    {
+      "text": "罗幕轻寒，",
+      "pinyin": ["luó", "mù", "qīng", "hán"],
+      "translation": "丝罗的帘幕透进微微的寒意，",
+      "noteIds": []
+    },
+    {
+      "text": "燕子双飞去。",
+      "pinyin": ["yàn", "zǐ", "shuāng", "fēi", "qù"],
+      "translation": "燕子成双成对地飞走了。",
+      "noteIds": []
+    },
+    {
+      "text": "明月不谙离恨苦，",
+      "pinyin": ["míng", "yuè", "bù", "ān", "lí", "hèn", "kǔ"],
+      "translation": "明月不懂离别的痛苦，",
+      "noteIds": ["n-an"]
+    },
+    {
+      "text": "斜光到晓穿朱户。",
+      "pinyin": ["xié", "guāng", "dào", "xiǎo", "chuān", "zhū", "hù"],
+      "translation": "斜斜的月光一直照到天亮，穿过红漆的大门。",
+      "noteIds": ["n-zhuhu"]
+    },
+    {
+      "text": "昨夜西风凋碧树，",
+      "pinyin": ["zuó", "yè", "xī", "fēng", "diāo", "bì", "shù"],
+      "translation": "昨夜西风猛吹，把绿树都吹得凋零了，",
+      "noteIds": ["n-diao"]
+    },
+    {
+      "text": "独上高楼，",
+      "pinyin": ["dú", "shàng", "gāo", "lóu"],
+      "translation": "我独自登上高楼，",
+      "noteIds": []
+    },
+    {
+      "text": "望尽天涯路。",
+      "pinyin": ["wàng", "jìn", "tiān", "yá", "lù"],
+      "translation": "一直望着通向天边的那条路。",
+      "noteIds": []
+    },
+    {
+      "text": "欲寄彩笺兼尺素，",
+      "pinyin": ["yù", "jì", "cǎi", "jiān", "jiān", "chǐ", "sù"],
+      "translation": "想寄出彩色的信笺，再附上一封书信，",
+      "noteIds": ["n-caijian", "n-chisu"]
+    },
+    {
+      "text": "山长水阔知何处。",
+      "pinyin": ["shān", "cháng", "shuǐ", "kuò", "zhī", "hé", "chù"],
+      "translation": "可是山高路远、水天辽阔，那人究竟在哪儿呢？",
+      "noteIds": []
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-jian",
+      "word": "槛",
+      "pinyin": "jiàn",
+      "meaning": "栏杆。"
+    },
+    {
+      "id": "n-chouyan",
+      "word": "愁烟",
+      "pinyin": "chóu yān",
+      "meaning": "菊花笼罩在像雾一样的烟气里，仿佛含着哀愁。"
+    },
+    {
+      "id": "n-qilu",
+      "word": "泣露",
+      "pinyin": "qì lù",
+      "meaning": "兰花沾着露珠，好像在默默流泪。"
+    },
+    {
+      "id": "n-an",
+      "word": "谙",
+      "pinyin": "ān",
+      "meaning": "熟悉、懂得。"
+    },
+    {
+      "id": "n-zhuhu",
+      "word": "朱户",
+      "pinyin": "zhū hù",
+      "meaning": "朱红色的门户，指富贵人家。"
+    },
+    {
+      "id": "n-diao",
+      "word": "凋",
+      "pinyin": "diāo",
+      "meaning": "使……凋零，让绿树落光了叶子。"
+    },
+    {
+      "id": "n-caijian",
+      "word": "彩笺",
+      "pinyin": "cǎi jiān",
+      "meaning": "彩色精致的信纸，指写满心意的信。"
+    },
+    {
+      "id": "n-chisu",
+      "word": "尺素",
+      "pinyin": "chǐ sù",
+      "meaning": "古人写信用的白绢，代指书信。"
+    }
+  ],
+  "translation": "栏杆外的菊花笼在雾气里像在发愁，兰花沾着露珠像在哭泣。丝罗帘幕透进微微寒意，燕子成双成对地飞走了。明月不懂得离别的痛苦，斜斜的光一直照到天亮，穿进红漆的大门。昨夜西风劲吹，把碧绿的树吹得凋零了；我独自登上高楼，望着通往天边的长路。想把彩笺和书信一起寄给远方的人，可山又高水又远，到底该寄到哪里去呢？",
+  "appreciation": "这首词把秋天的景物都写活了：菊会发愁，兰会流泪，连明月都“不谙离恨苦”，通夜照进屋里搅得人难眠。最著名的是“昨夜西风凋碧树，独上高楼，望尽天涯路”：西风扫尽树叶，楼上视野开阔，人却更孤独了，一直望到天边也不见归人。王国维曾借用这三句，形容做学问成大事业的第一重境界，可见它写尽了执着与盼望。",
+  "background": "晏殊身居高位，生活优裕，可这首词写的是离别后的思念。有人说是怀念远方的友人或亲人。深秋夜里睡不着，独自上楼远望，想寄封信却不知对方身在何处，于是有了这首深情而含蓄的词。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "菊愁兰泣",
+      "text": "清晨庭院里，菊花笼着雾气像在发愁，兰花挂着露水像在哭泣。"
+    },
+    {
+      "step": 2,
+      "title": "明月照户",
+      "text": "夜里明月不解离愁，月光斜照进屋，陪伴难眠的人到天亮。"
+    },
+    {
+      "step": 3,
+      "title": "独上高楼",
+      "text": "西风凋尽了碧树，他独自登上高楼，望尽通向天边的路。"
+    },
+    {
+      "step": 4,
+      "title": "书信难寄",
+      "text": "想给远方的人寄一封信，可山长水阔，竟不知寄往何处。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "槛",
+      "reading": "jiàn",
+      "reason": "“槛菊”指栏杆旁的菊花。",
+      "standard": "这里不读 kǎn"
+    },
+    {
+      "char": "谙",
+      "reading": "ān",
+      "reason": "“不谙”是不懂得、不熟悉的意思，这个字今天已不常用。"
+    }
+  ],
+  "sources": [
+    "《珠玉词》",
+    "《全宋词》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 2003
+}

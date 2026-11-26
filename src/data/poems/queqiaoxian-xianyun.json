@@ -1,0 +1,241 @@
+{
+  "id": "songci-beisong-qinguan-queqiaoxian-xianyun",
+  "slug": "queqiaoxian-xianyun",
+  "title": "鹊桥仙·纤云弄巧",
+  "titlePinyin": "què qiáo xiān · xiān yún nòng qiǎo",
+  "dynasty": "songci",
+  "era": "beisong",
+  "genre": "ci",
+  "form": "词（小令）",
+  "authorId": "qinguan",
+  "gradeBand": "ext",
+  "tags": [
+    "节日",
+    "思念",
+    "词"
+  ],
+  "difficulty": 3,
+  "writtenYear": 1097,
+  "writtenLabel": "约公元 1097 年（秦观 49 岁，贬居郴州时期，作年一说难考）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "金风玉露一相逢，便胜却人间无数。",
+    "两情若是久长时，又岂在朝朝暮暮。"
+  ],
+  "lines": [
+    {
+      "text": "纤云弄巧，",
+      "pinyin": [
+        "xiān",
+        "yún",
+        "nòng",
+        "qiǎo"
+      ],
+      "translation": "纤薄的云彩在天空中变幻出精巧的花样。",
+      "noteIds": [
+        "n-xianyun"
+      ]
+    },
+    {
+      "text": "飞星传恨，",
+      "pinyin": [
+        "fēi",
+        "xīng",
+        "chuán",
+        "hèn"
+      ],
+      "translation": "划过的流星传递着离别的愁怨。",
+      "noteIds": [
+        "n-feixing"
+      ]
+    },
+    {
+      "text": "银汉迢迢暗度。",
+      "pinyin": [
+        "yín",
+        "hàn",
+        "tiáo",
+        "tiáo",
+        "àn",
+        "dù"
+      ],
+      "translation": "牛郎织女悄悄渡过辽阔遥远的银河。",
+      "noteIds": [
+        "n-yinhan"
+      ]
+    },
+    {
+      "text": "金风玉露一相逢，",
+      "pinyin": [
+        "jīn",
+        "fēng",
+        "yù",
+        "lù",
+        "yì",
+        "xiāng",
+        "féng"
+      ],
+      "translation": "在秋风白露的七夕时节相逢一次，",
+      "noteIds": [
+        "n-jinfeng"
+      ]
+    },
+    {
+      "text": "便胜却人间无数。",
+      "pinyin": [
+        "biàn",
+        "shèng",
+        "què",
+        "rén",
+        "jiān",
+        "wú",
+        "shù"
+      ],
+      "translation": "就胜过人间无数平凡的相聚。",
+      "noteIds": []
+    },
+    {
+      "text": "柔情似水，",
+      "pinyin": [
+        "róu",
+        "qíng",
+        "sì",
+        "shuǐ"
+      ],
+      "translation": "温柔的情意像流水一样绵长，",
+      "noteIds": []
+    },
+    {
+      "text": "佳期如梦，",
+      "pinyin": [
+        "jiā",
+        "qī",
+        "rú",
+        "mèng"
+      ],
+      "translation": "美好的相会像梦一样短暂。",
+      "noteIds": []
+    },
+    {
+      "text": "忍顾鹊桥归路。",
+      "pinyin": [
+        "rěn",
+        "gù",
+        "què",
+        "qiáo",
+        "guī",
+        "lù"
+      ],
+      "translation": "分别时怎么忍心回头看那从鹊桥回去的路。",
+      "noteIds": [
+        "n-rengu"
+      ]
+    },
+    {
+      "text": "两情若是久长时，",
+      "pinyin": [
+        "liǎng",
+        "qíng",
+        "ruò",
+        "shì",
+        "jiǔ",
+        "cháng",
+        "shí"
+      ],
+      "translation": "两个人的感情若是长久不变，",
+      "noteIds": []
+    },
+    {
+      "text": "又岂在朝朝暮暮。",
+      "pinyin": [
+        "yòu",
+        "qǐ",
+        "zài",
+        "zhāo",
+        "zhāo",
+        "mù",
+        "mù"
+      ],
+      "translation": "又何必非要每天守在一起呢。",
+      "noteIds": []
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-xianyun",
+      "word": "纤云",
+      "pinyin": "xiān yún",
+      "meaning": "轻薄柔软的云彩。传说织女能用巧手织出云锦。"
+    },
+    {
+      "id": "n-feixing",
+      "word": "飞星",
+      "pinyin": "fēi xīng",
+      "meaning": "划过夜空的流星，好像在替人传递心事。"
+    },
+    {
+      "id": "n-yinhan",
+      "word": "银汉",
+      "pinyin": "yín hàn",
+      "meaning": "银河，夜里天空中那条亮亮的光带。"
+    },
+    {
+      "id": "n-jinfeng",
+      "word": "金风玉露",
+      "pinyin": "jīn fēng yù lù",
+      "meaning": "秋天的风和白露，指七夕前后的美好时节。"
+    },
+    {
+      "id": "n-rengu",
+      "word": "忍顾",
+      "pinyin": "rěn gù",
+      "meaning": "怎么忍心回头看。"
+    }
+  ],
+  "translation": "纤薄的云彩在天空中变幻出精巧的花样，划过的流星传递着离别的愁怨，牛郎织女悄悄渡过辽阔遥远的银河。在秋风白露的时节相逢一次，就胜过人间无数平凡的相聚。温柔的情意像流水一样绵长，美好的相会像梦一样短暂，分别时怎么忍心回头看那从鹊桥回去的路。两个人的感情若是长久不变，又何必非要每天守在一起呢。",
+  "appreciation": "写七夕的词大多替牛郎织女伤心，秦观却翻出了新意。他把一年一次的相逢写成最珍贵的事：金风玉露里见一面，胜过人间无数。结尾更是响亮——只要两情长久，何必朝朝暮暮。这一句既安慰了隔河相望的两个人，也安慰了天下离别的人，把遗憾写成了对真情的赞美。",
+  "background": "七夕之夜，人们仰望星空，讲牛郎织女鹊桥相会的故事。秦观借这个美丽的传说写下自己对聚散的看法。这首词一说写于他被贬南方的岁月，一说与他游长沙时遇到的一位歌女有关。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "云变花样",
+      "text": "七夕的夜晚，轻薄的云彩在空中变出精巧的花样。"
+    },
+    {
+      "step": 2,
+      "title": "星星传恨",
+      "text": "流星划过夜空，仿佛在传递牛郎织女的离愁。"
+    },
+    {
+      "step": 3,
+      "title": "鹊桥相逢",
+      "text": "两人渡过迢迢银河相逢，一次胜过人间无数。"
+    },
+    {
+      "step": 4,
+      "title": "深情长久",
+      "text": "分别时回头再望：只要真情长久，何必朝朝暮暮。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "纤",
+      "reading": "xiān",
+      "reason": "“纤云”的“纤”是“纤细”的意思。",
+      "standard": "这里不读 qiān"
+    },
+    {
+      "char": "朝",
+      "reading": "zhāo",
+      "reason": "“朝朝暮暮”的“朝”指早晨，天天、日日的意思。",
+      "standard": "这里不读 cháo"
+    }
+  ],
+  "sources": [
+    "《淮海居士长短句》",
+    "《宋词三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 2010
+}

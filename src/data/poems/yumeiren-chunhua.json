@@ -1,0 +1,160 @@
+{
+  "id": "song-beisong-liyu-yumeiren-chunhua",
+  "slug": "yumeiren-chunhua",
+  "title": "虞美人·春花秋月何时了",
+  "titlePinyin": "yú měi rén · chūn huā qiū yuè hé shí liǎo",
+  "dynasty": "songci",
+  "era": "beisong",
+  "genre": "ci",
+  "form": "词（小令）",
+  "authorId": "liyu",
+  "gradeBand": "ext",
+  "tags": ["思念", "月亮", "春天", "词"],
+  "difficulty": 3,
+  "writtenYear": 978,
+  "writtenLabel": "约公元 978 年（李煜 42 岁，被囚汴京，相传写下此词后不久离世）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "问君能有几多愁，恰似一江春水向东流。"
+  ],
+  "lines": [
+    {
+      "text": "春花秋月何时了，",
+      "pinyin": ["chūn", "huā", "qiū", "yuè", "hé", "shí", "liǎo"],
+      "translation": "花年年开，月月圆，这样的日子什么时候才是尽头？",
+      "noteIds": ["n-liao"]
+    },
+    {
+      "text": "往事知多少。",
+      "pinyin": ["wǎng", "shì", "zhī", "duō", "shǎo"],
+      "translation": "过去那些宫廷里的日子，还记得多少呢？",
+      "noteIds": []
+    },
+    {
+      "text": "小楼昨夜又东风，",
+      "pinyin": ["xiǎo", "lóu", "zuó", "yè", "yòu", "dōng", "fēng"],
+      "translation": "昨夜小楼上又吹来了春风。",
+      "noteIds": ["n-dongfeng"]
+    },
+    {
+      "text": "故国不堪回首月明中。",
+      "pinyin": ["gù", "guó", "bù", "kān", "huí", "shǒu", "yuè", "míng", "zhōng"],
+      "translation": "在明亮的月光下回头想念故国，心里实在承受不了。",
+      "noteIds": ["n-guguo", "n-kanbu"]
+    },
+    {
+      "text": "雕栏玉砌应犹在，",
+      "pinyin": ["diāo", "lán", "yù", "qì", "yīng", "yóu", "zài"],
+      "translation": "金陵宫殿里雕花的栏杆和玉石的台阶，应该还在吧。",
+      "noteIds": ["n-diaolan"]
+    },
+    {
+      "text": "只是朱颜改。",
+      "pinyin": ["zhǐ", "shì", "zhū", "yán", "gǎi"],
+      "translation": "只是人的容颜已经衰老变样了。",
+      "noteIds": ["n-zhuyan"]
+    },
+    {
+      "text": "问君能有几多愁，",
+      "pinyin": ["wèn", "jūn", "néng", "yǒu", "jǐ", "duō", "chóu"],
+      "translation": "问我心中有多少忧愁？",
+      "noteIds": ["n-jiduo"]
+    },
+    {
+      "text": "恰似一江春水向东流。",
+      "pinyin": ["qià", "sì", "yī", "jiāng", "chūn", "shuǐ", "xiàng", "dōng", "liú"],
+      "translation": "就像满满一江春水，日夜不停地向东流去。",
+      "noteIds": []
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-liao",
+      "word": "了",
+      "pinyin": "liǎo",
+      "meaning": "完毕、了结。这里是说这样的日子什么时候才是头。"
+    },
+    {
+      "id": "n-dongfeng",
+      "word": "东风",
+      "pinyin": "dōng fēng",
+      "meaning": "春风。春风又来，说明又是一年过去了。"
+    },
+    {
+      "id": "n-guguo",
+      "word": "故国",
+      "pinyin": "gù guó",
+      "meaning": "已经灭亡的南唐，也就是词人从前的国家。"
+    },
+    {
+      "id": "n-kanbu",
+      "word": "不堪",
+      "pinyin": "bù kān",
+      "meaning": "承受不了、不忍心。"
+    },
+    {
+      "id": "n-diaolan",
+      "word": "雕栏玉砌",
+      "pinyin": "diāo lán yù qì",
+      "meaning": "雕花的栏杆和玉石砌成的台阶，指南唐金陵的宫殿。"
+    },
+    {
+      "id": "n-zhuyan",
+      "word": "朱颜",
+      "pinyin": "zhū yán",
+      "meaning": "红润的容颜，这里也暗指从前宫中的人和景象。"
+    },
+    {
+      "id": "n-jiduo",
+      "word": "几多",
+      "pinyin": "jǐ duō",
+      "meaning": "多少。"
+    }
+  ],
+  "translation": "春天的花年年开，秋天的月月圆，这样的日子什么时候才能了结？从前的往事已经记得不多了。昨夜小楼上又吹起了东风，在明亮的月光下不忍回头去想故国，一想起来心就要碎了。金陵宫殿里雕花的栏杆和玉石的台阶应该还在吧，只是住在里面的人容颜已经衰老。要问我心中有多少忧愁？就像那一江春水，日日夜夜不停地向东流去。",
+  "appreciation": "这首词把“愁”写到了极致。开头问天：春花秋月什么时候才完？其实是嫌这些美景年复一年，总勾起伤心回忆。东风又来，月亮又圆，宫殿应该还在，可是人老了、国亡了，一切回不去了。最后一句最了不起：愁本来是看不见摸不着的，词人却说它像一江春水一样，又多又长，日夜不停地流。难怪有人称赞这首词是“血泪之歌”。",
+  "background": "李煜做了十几年南唐国君，975 年宋朝大军攻破金陵，南唐灭亡，他被带到汴京当俘虏，整日被看守。978 年他的生日七夕，想起故国和往昔，写下这首词抒发亡国之痛，相传这年七夕前后他便离开了人世。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "春花秋月",
+      "text": "又是一年花开月圆，囚禁中的词人苦闷地问：这日子何时是尽头？"
+    },
+    {
+      "step": 2,
+      "title": "小楼东风",
+      "text": "昨夜春风又吹上小楼，他睡不着，望着明月想起故国。"
+    },
+    {
+      "step": 3,
+      "title": "宫殿犹在",
+      "text": "他想象金陵的宫殿应该还在，只是宫里的人早已憔悴。"
+    },
+    {
+      "step": 4,
+      "title": "愁似江水",
+      "text": "最后他叹道：我的愁啊，就像一江春水，日夜不停地向东流。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "了",
+      "reading": "liǎo",
+      "reason": "“何时了”是“什么时候才是头”，了是完毕的意思。",
+      "standard": "这里不读助词 le"
+    },
+    {
+      "char": "砌",
+      "reading": "qì",
+      "reason": "“玉砌”指用玉石砌成台阶。",
+      "standard": "不读 qiè"
+    }
+  ],
+  "sources": [
+    "《南唐二主词》",
+    "《全唐诗》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 2001
+}

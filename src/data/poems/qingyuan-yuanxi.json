@@ -1,0 +1,281 @@
+{
+  "id": "songci-nansong-xinqiji-qingyuan-yuanxi",
+  "slug": "qingyuan-yuanxi",
+  "title": "青玉案·元夕",
+  "titlePinyin": "qīng yù àn · yuán xī",
+  "dynasty": "songci",
+  "era": "nansong",
+  "genre": "ci",
+  "form": "词（中调）",
+  "authorId": "xinqiji",
+  "gradeBand": "ext",
+  "tags": [
+    "节日",
+    "元宵",
+    "灯火",
+    "词"
+  ],
+  "difficulty": 3,
+  "writtenYear": 1174,
+  "writtenLabel": "约公元 1174 年（辛弃疾 35 岁，朝廷偏安享乐，词人借元夕之景自抒怀抱）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "众里寻他千百度，蓦然回首，那人却在，灯火阑珊处。"
+  ],
+  "lines": [
+    {
+      "text": "东风夜放花千树，",
+      "pinyin": [
+        "dōng",
+        "fēng",
+        "yè",
+        "fàng",
+        "huā",
+        "qiān",
+        "shù"
+      ],
+      "translation": "东风好像在一夜之间吹开了千树繁花，那是满城的花灯，",
+      "noteIds": [
+        "n-huaqianshu"
+      ]
+    },
+    {
+      "text": "更吹落、星如雨。",
+      "pinyin": [
+        "gèng",
+        "chuī",
+        "luò",
+        "xīng",
+        "rú",
+        "yǔ"
+      ],
+      "translation": "又吹落烟花，像星星落成一场雨。",
+      "noteIds": [
+        "n-xingruyu"
+      ]
+    },
+    {
+      "text": "宝马雕车香满路。",
+      "pinyin": [
+        "bǎo",
+        "mǎ",
+        "diāo",
+        "chē",
+        "xiāng",
+        "mǎn",
+        "lù"
+      ],
+      "translation": "宝马雕车来来往往，路上满是香气。",
+      "noteIds": []
+    },
+    {
+      "text": "凤箫声动，",
+      "pinyin": [
+        "fèng",
+        "xiāo",
+        "shēng",
+        "dòng"
+      ],
+      "translation": "箫声吹起来了，",
+      "noteIds": []
+    },
+    {
+      "text": "玉壶光转，",
+      "pinyin": [
+        "yù",
+        "hú",
+        "guāng",
+        "zhuǎn"
+      ],
+      "translation": "玉壶一样的月亮慢慢转动着光，",
+      "noteIds": [
+        "n-yuhu"
+      ]
+    },
+    {
+      "text": "一夜鱼龙舞。",
+      "pinyin": [
+        "yí",
+        "yè",
+        "yú",
+        "lóng",
+        "wǔ"
+      ],
+      "translation": "鱼形龙形的灯整夜舞个不停。",
+      "noteIds": [
+        "n-yulong"
+      ]
+    },
+    {
+      "text": "蛾儿雪柳黄金缕，",
+      "pinyin": [
+        "é",
+        "ér",
+        "xuě",
+        "liǔ",
+        "huáng",
+        "jīn",
+        "lǚ"
+      ],
+      "translation": "女子们戴着蛾儿、雪柳、黄金缕，",
+      "noteIds": [
+        "n-eerxueliu"
+      ]
+    },
+    {
+      "text": "笑语盈盈暗香去。",
+      "pinyin": [
+        "xiào",
+        "yǔ",
+        "yíng",
+        "yíng",
+        "àn",
+        "xiāng",
+        "qù"
+      ],
+      "translation": "有说有笑、带着淡淡香气走过去了。",
+      "noteIds": []
+    },
+    {
+      "text": "众里寻他千百度，",
+      "pinyin": [
+        "zhòng",
+        "lǐ",
+        "xún",
+        "tā",
+        "qiān",
+        "bǎi",
+        "dù"
+      ],
+      "translation": "人群里找了她千百回，",
+      "noteIds": [
+        "n-qianbaidu"
+      ]
+    },
+    {
+      "text": "蓦然回首，",
+      "pinyin": [
+        "mò",
+        "rán",
+        "huí",
+        "shǒu"
+      ],
+      "translation": "忽然回头一看，",
+      "noteIds": []
+    },
+    {
+      "text": "那人却在，",
+      "pinyin": [
+        "nà",
+        "rén",
+        "què",
+        "zài"
+      ],
+      "translation": "那个人却站在",
+      "noteIds": []
+    },
+    {
+      "text": "灯火阑珊处。",
+      "pinyin": [
+        "dēng",
+        "huǒ",
+        "lán",
+        "shān",
+        "chù"
+      ],
+      "translation": "灯火稀疏冷落的地方。",
+      "noteIds": [
+        "n-lanshan"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-huaqianshu",
+      "word": "花千树",
+      "pinyin": "huā qiān shù",
+      "meaning": "形容元宵的花灯，像千棵树开满了花。"
+    },
+    {
+      "id": "n-xingruyu",
+      "word": "星如雨",
+      "pinyin": "xīng rú yǔ",
+      "meaning": "烟花纷纷落下，像星星落成雨。"
+    },
+    {
+      "id": "n-yuhu",
+      "word": "玉壶",
+      "pinyin": "yù hú",
+      "meaning": "指月亮，也有说法指白玉做的灯。"
+    },
+    {
+      "id": "n-yulong",
+      "word": "鱼龙舞",
+      "pinyin": "yú lóng wǔ",
+      "meaning": "鱼形、龙形的灯在夜里舞动。"
+    },
+    {
+      "id": "n-eerxueliu",
+      "word": "蛾儿雪柳",
+      "pinyin": "é ér xuě liǔ",
+      "meaning": "元宵节女子头上戴的装饰品。"
+    },
+    {
+      "id": "n-qianbaidu",
+      "word": "千百度",
+      "pinyin": "qiān bǎi dù",
+      "meaning": "千百次。度是“次”的意思。"
+    },
+    {
+      "id": "n-lanshan",
+      "word": "阑珊",
+      "pinyin": "lán shān",
+      "meaning": "零落、稀疏、快要完的样子。"
+    }
+  ],
+  "translation": "东风一夜吹开千树花灯，又吹落烟花像星星下雨。宝马雕车往来，路上满是香气。箫声响起来，月亮转动着光，鱼龙灯舞了一整夜。女子们戴着蛾儿雪柳，笑语盈盈、带着暗香走远。人群里找了她千百回，忽然一回头，那人却站在灯火稀疏冷落的地方。",
+  "appreciation": "这首词把元宵写得最热闹，又在热闹的最深处安放了一个人。满城花灯、烟花如雨、宝马雕车，全是“找她”的背景；找了千百回都没有，一回头，她却站在没人去的热闹之外。找的人找的是意中人，也是不肯随大流的自己——众人往热闹处挤，他偏偏站在灯火阑珊处。",
+  "background": "约公元 1174 年元宵夜，临安城里张灯结彩，通宵热闹。当时的南宋朝廷偏安江南，上层人物沉醉在歌舞享乐里；一心主张抗金的辛弃疾不被重用，独自站在灯火冷清的地方，写下这首词，把满腹心事藏在了那个“那人”身上。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "满城花灯",
+      "text": "元宵夜东风吹开千树花灯，烟花像星星一样落下。"
+    },
+    {
+      "step": 2,
+      "title": "香车箫鼓",
+      "text": "宝马雕车来来往往，箫声响着，鱼龙灯舞个不停。"
+    },
+    {
+      "step": 3,
+      "title": "众里寻找",
+      "text": "戴蛾儿雪柳的女子笑着走过，他在人群里找了千百回。"
+    },
+    {
+      "step": 4,
+      "title": "阑珊一瞥",
+      "text": "忽然回头，那人正安静地站在灯火稀疏的地方。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "更",
+      "reading": "gèng",
+      "reason": "“更吹落”的“更”是“又、再”的意思。",
+      "standard": "这里不读 gēng"
+    },
+    {
+      "char": "蓦",
+      "reading": "mò",
+      "reason": "“蓦然回首”的“蓦然”是“忽然”的意思，是容易读错的生僻字。"
+    }
+  ],
+  "sources": [
+    "《稼轩长短句》",
+    "《宋词三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 2019
+}

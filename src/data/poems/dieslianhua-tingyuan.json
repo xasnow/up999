@@ -1,0 +1,259 @@
+{
+  "id": "song-beisong-ouyangxiu-dieslianhua-tingyuan",
+  "slug": "dieslianhua-tingyuan",
+  "title": "蝶恋花·庭院深深深几许",
+  "titlePinyin": "dié liàn huā · tíng yuàn shēn shēn shēn jǐ xǔ",
+  "dynasty": "songci",
+  "era": "beisong",
+  "genre": "ci",
+  "form": "词（中调）",
+  "authorId": "ouyangxiu",
+  "gradeBand": "ext",
+  "tags": [
+    "思念",
+    "春天",
+    "杨柳",
+    "词"
+  ],
+  "difficulty": 3,
+  "writtenYear": 1044,
+  "writtenLabel": "约公元 1044 年（欧阳修 38 岁前后；一说此词为五代冯延巳所作）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "庭院深深深几许，杨柳堆烟，帘幕无重数。",
+    "泪眼问花花不语，乱红飞过秋千去。"
+  ],
+  "lines": [
+    {
+      "text": "庭院深深深几许，",
+      "pinyin": [
+        "tíng",
+        "yuàn",
+        "shēn",
+        "shēn",
+        "shēn",
+        "jǐ",
+        "xǔ"
+      ],
+      "translation": "庭院一层又一层，到底有多深？",
+      "noteIds": [
+        "n-shenjixu"
+      ]
+    },
+    {
+      "text": "杨柳堆烟，",
+      "pinyin": [
+        "yáng",
+        "liǔ",
+        "duī",
+        "yān"
+      ],
+      "translation": "杨柳枝上堆着迷蒙的烟雾，",
+      "noteIds": []
+    },
+    {
+      "text": "帘幕无重数。",
+      "pinyin": [
+        "lián",
+        "mù",
+        "wú",
+        "chóng",
+        "shù"
+      ],
+      "translation": "一道道的帘幕多得数也数不清。",
+      "noteIds": []
+    },
+    {
+      "text": "玉勒雕鞍游冶处，",
+      "pinyin": [
+        "yù",
+        "lè",
+        "diāo",
+        "ān",
+        "yóu",
+        "yě",
+        "chù"
+      ],
+      "translation": "他骑着华贵的车马，去了寻欢作乐的地方，",
+      "noteIds": [
+        "n-yule",
+        "n-youye"
+      ]
+    },
+    {
+      "text": "楼高不见章台路。",
+      "pinyin": [
+        "lóu",
+        "gāo",
+        "bù",
+        "jiàn",
+        "zhāng",
+        "tái",
+        "lù"
+      ],
+      "translation": "我登上高楼，也望不见他去的章台路。",
+      "noteIds": [
+        "n-zhangtai"
+      ]
+    },
+    {
+      "text": "雨横风狂三月暮，",
+      "pinyin": [
+        "yǔ",
+        "hèng",
+        "fēng",
+        "kuáng",
+        "sān",
+        "yuè",
+        "mù"
+      ],
+      "translation": "雨下得又猛又急，风刮得狂乱，正是三月末尾，",
+      "noteIds": [
+        "n-yuheng"
+      ]
+    },
+    {
+      "text": "门掩黄昏，",
+      "pinyin": [
+        "mén",
+        "yǎn",
+        "huáng",
+        "hūn"
+      ],
+      "translation": "傍晚把门关上，",
+      "noteIds": []
+    },
+    {
+      "text": "无计留春住。",
+      "pinyin": [
+        "wú",
+        "jì",
+        "liú",
+        "chūn",
+        "zhù"
+      ],
+      "translation": "也没有办法把春天留住。",
+      "noteIds": []
+    },
+    {
+      "text": "泪眼问花花不语，",
+      "pinyin": [
+        "lèi",
+        "yǎn",
+        "wèn",
+        "huā",
+        "huā",
+        "bù",
+        "yǔ"
+      ],
+      "translation": "含着泪去问花，花却不回答，",
+      "noteIds": []
+    },
+    {
+      "text": "乱红飞过秋千去。",
+      "pinyin": [
+        "luàn",
+        "hóng",
+        "fēi",
+        "guò",
+        "qiū",
+        "qiān",
+        "qù"
+      ],
+      "translation": "零乱的花瓣飞过了秋千架。",
+      "noteIds": [
+        "n-luanhong"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-shenjixu",
+      "word": "深几许",
+      "pinyin": "shēn jǐ xǔ",
+      "meaning": "到底有多深。几许，就是“多少”。"
+    },
+    {
+      "id": "n-yule",
+      "word": "玉勒雕鞍",
+      "pinyin": "yù lè diāo ān",
+      "meaning": "玉做的马笼头、雕花的马鞍，指华贵的车马。"
+    },
+    {
+      "id": "n-youye",
+      "word": "游冶处",
+      "pinyin": "yóu yě chù",
+      "meaning": "指歌楼等寻欢作乐的地方。"
+    },
+    {
+      "id": "n-zhangtai",
+      "word": "章台路",
+      "pinyin": "zhāng tái lù",
+      "meaning": "汉代长安的一条街名，这里指歌楼聚集的地方。"
+    },
+    {
+      "id": "n-yuheng",
+      "word": "雨横",
+      "pinyin": "yǔ hèng",
+      "meaning": "雨下得又大又猛，很放肆的样子。"
+    },
+    {
+      "id": "n-luanhong",
+      "word": "乱红",
+      "pinyin": "luàn hóng",
+      "meaning": "零乱飘落的红花，指落花。"
+    }
+  ],
+  "translation": "庭院一层又一层，到底有多深？杨柳枝上堆着迷蒙的烟雾，一道道的帘幕多得数也数不清。他骑着华贵的车马，去了寻欢作乐的地方，我登上高楼，也望不见他去的章台路。雨下得又猛又急，风刮得狂乱，正是三月末尾，傍晚把门关上，也没有办法把春天留住。含着泪去问花，花却不回答，零乱的花瓣飞过了秋千架。",
+  "appreciation": "这首词写一位女子独守深院的寂寞。开头连用三个“深”字，庭院一层层、帘幕一道道，深得数不清，她的孤单也一层层。丈夫骑着华贵的车马在别处游乐，她登上高楼也望不见他。狂风暴雨送走了春天，她留不住春，也留不住人。最后她含泪问花，花不说话，乱红飞过秋千——这一问，成了写寂寞最有名的一笔。",
+  "background": "这首词写深闺女子盼望人归来却落空的哀愁。词的原作者有争议，有人认为是五代冯延巳所作；但李清照特别喜爱“庭院深深深几许”一句，认定是欧阳修的手笔，还模仿这一句写过好几首词。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "庭院深深",
+      "text": "高墙深院，帘幕重重，深得让人数也数不清。"
+    },
+    {
+      "step": 2,
+      "title": "楼头远望",
+      "text": "丈夫骑马去了别处游乐，她登上高楼也望不见。"
+    },
+    {
+      "step": 3,
+      "title": "风雨留春",
+      "text": "三月傍晚的风雨送走了春天，她想留也留不住。"
+    },
+    {
+      "step": 4,
+      "title": "含泪问花",
+      "text": "她含泪问花，花不说话，乱红飞过了秋千架。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "横",
+      "reading": "hèng",
+      "reason": "“雨横风狂”形容雨下得猛烈放肆。",
+      "standard": "这里不读 héng"
+    },
+    {
+      "char": "重",
+      "reading": "chóng",
+      "reason": "“帘幕无重数”是说帘幕一层又一层，数不清。",
+      "standard": "这里不读 zhòng"
+    },
+    {
+      "char": "勒",
+      "reading": "lè",
+      "reason": "“玉勒”指用玉装饰的马笼头。",
+      "standard": "这里不读 lēi"
+    }
+  ],
+  "sources": [
+    "《全宋词》",
+    "《六一词》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 2008
+}

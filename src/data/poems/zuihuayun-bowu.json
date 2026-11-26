@@ -1,0 +1,252 @@
+{
+  "id": "songci-beisong-liqingzhao-zuihuayun-bowu",
+  "slug": "zuihuayun-bowu",
+  "title": "醉花阴·薄雾浓云愁永昼",
+  "titlePinyin": "zuì huā yīn · bó wù nóng yún chóu yǒng zhòu",
+  "dynasty": "songci",
+  "era": "beisong",
+  "genre": "ci",
+  "form": "词（小令）",
+  "authorId": "liqingzhao",
+  "gradeBand": "ext",
+  "tags": [
+    "思念",
+    "重阳",
+    "菊花",
+    "词"
+  ],
+  "difficulty": 3,
+  "writtenYear": 1103,
+  "writtenLabel": "约公元 1103 年（李清照 20 岁左右，婚后不久，重阳节思念远行的丈夫）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "莫道不销魂，帘卷西风，人比黄花瘦。"
+  ],
+  "lines": [
+    {
+      "text": "薄雾浓云愁永昼，",
+      "pinyin": [
+        "bó",
+        "wù",
+        "nóng",
+        "yún",
+        "chóu",
+        "yǒng",
+        "zhòu"
+      ],
+      "translation": "薄薄的雾、浓浓的云，让漫长的白天愁闷难熬，",
+      "noteIds": []
+    },
+    {
+      "text": "瑞脑销金兽。",
+      "pinyin": [
+        "ruì",
+        "nǎo",
+        "xiāo",
+        "jīn",
+        "shòu"
+      ],
+      "translation": "龙脑香在兽形的铜炉里慢慢烧尽。",
+      "noteIds": [
+        "n-ruinao",
+        "n-jinshou"
+      ]
+    },
+    {
+      "text": "佳节又重阳，",
+      "pinyin": [
+        "jiā",
+        "jié",
+        "yòu",
+        "chóng",
+        "yáng"
+      ],
+      "translation": "又到了重阳佳节，",
+      "noteIds": []
+    },
+    {
+      "text": "玉枕纱厨，",
+      "pinyin": [
+        "yù",
+        "zhěn",
+        "shā",
+        "chú"
+      ],
+      "translation": "枕着瓷枕，睡在纱帐里，",
+      "noteIds": [
+        "n-shachu"
+      ]
+    },
+    {
+      "text": "半夜凉初透。",
+      "pinyin": [
+        "bàn",
+        "yè",
+        "liáng",
+        "chū",
+        "tòu"
+      ],
+      "translation": "半夜里凉气刚刚浸透进来。",
+      "noteIds": []
+    },
+    {
+      "text": "东篱把酒黄昏后，",
+      "pinyin": [
+        "dōng",
+        "lí",
+        "bǎ",
+        "jiǔ",
+        "huáng",
+        "hūn",
+        "hòu"
+      ],
+      "translation": "黄昏后在东篱边端着酒杯，",
+      "noteIds": [
+        "n-dongli"
+      ]
+    },
+    {
+      "text": "有暗香盈袖。",
+      "pinyin": [
+        "yǒu",
+        "àn",
+        "xiāng",
+        "yíng",
+        "xiù"
+      ],
+      "translation": "淡淡的菊香装满了衣袖。",
+      "noteIds": [
+        "n-yingxiu"
+      ]
+    },
+    {
+      "text": "莫道不销魂，",
+      "pinyin": [
+        "mò",
+        "dào",
+        "bù",
+        "xiāo",
+        "hún"
+      ],
+      "translation": "别说这不让人伤心啊，",
+      "noteIds": [
+        "n-xiaohun"
+      ]
+    },
+    {
+      "text": "帘卷西风，",
+      "pinyin": [
+        "lián",
+        "juǎn",
+        "xī",
+        "fēng"
+      ],
+      "translation": "西风吹卷着帘子，",
+      "noteIds": []
+    },
+    {
+      "text": "人比黄花瘦。",
+      "pinyin": [
+        "rén",
+        "bǐ",
+        "huáng",
+        "huā",
+        "shòu"
+      ],
+      "translation": "帘里的人比那黄菊花还要消瘦。",
+      "noteIds": [
+        "n-huanghua"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-ruinao",
+      "word": "瑞脑",
+      "pinyin": "ruì nǎo",
+      "meaning": "一种香料，又叫龙脑。"
+    },
+    {
+      "id": "n-jinshou",
+      "word": "金兽",
+      "pinyin": "jīn shòu",
+      "meaning": "做成兽形的铜香炉。"
+    },
+    {
+      "id": "n-shachu",
+      "word": "纱厨",
+      "pinyin": "shā chú",
+      "meaning": "纱做的帐子。这里指床上的纱帐。"
+    },
+    {
+      "id": "n-dongli",
+      "word": "东篱",
+      "pinyin": "dōng lí",
+      "meaning": "种菊花的园圃，用了陶渊明“采菊东篱下”的典故。"
+    },
+    {
+      "id": "n-yingxiu",
+      "word": "盈袖",
+      "pinyin": "yíng xiù",
+      "meaning": "香气充满衣袖。盈是充满。"
+    },
+    {
+      "id": "n-xiaohun",
+      "word": "销魂",
+      "pinyin": "xiāo hún",
+      "meaning": "因为离别伤心到极点，像魂魄都要离开身子。"
+    },
+    {
+      "id": "n-huanghua",
+      "word": "黄花",
+      "pinyin": "huáng huā",
+      "meaning": "菊花。"
+    }
+  ],
+  "translation": "薄雾浓浓，愁着这漫漫长昼，龙脑香在金兽炉里渐渐烧完。又到了重阳佳节，枕着玉枕、躺在纱帐里，半夜凉意刚刚浸透。黄昏后在东篱边饮酒，菊花的暗香装满衣袖。别说这不是销魂的愁，西风卷起帘子，帘里的人比菊花还瘦。",
+  "appreciation": "这首词最出名的，是最后一句：人比黄花瘦。菊花的花瓣本来就细，人还比菊花瘦，思念有多深，不用一个“苦”字就知道。前面的雾、云、香炉、凉夜，都在写一个“熬”字；重阳本是团圆的日子，她偏偏在东篱下独自喝酒赏菊，花香越浓，人越孤单。据说赵明诚读后想胜过妻子，闭门写了五十多首，友人却只称赞这三句。",
+  "background": "约公元 1103 年重阳节，李清照婚后不久，丈夫赵明诚出远门了。她独自在家，把酒赏菊，从清晨熬到半夜，把思念写成这首词寄给丈夫。赵明诚读后闭门三日，写了五十多首词，把这首混在里面请友人品评，友人说只有“人比黄花瘦”三句绝佳。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "愁漫长昼",
+      "text": "薄雾浓云遮着天，香炉里的香慢慢烧完，白天真难熬。"
+    },
+    {
+      "step": 2,
+      "title": "重阳凉夜",
+      "text": "重阳佳节又到了，纱帐里半夜凉透，她一个人躺着。"
+    },
+    {
+      "step": 3,
+      "title": "东篱把酒",
+      "text": "黄昏后她在东篱边喝酒，菊花的香气装满了衣袖。"
+    },
+    {
+      "step": 4,
+      "title": "人比花瘦",
+      "text": "西风卷起帘子，她说：比起黄菊花，人还要瘦呢。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "薄",
+      "reading": "bó",
+      "reason": "“薄雾”的“薄”形容雾气稀薄。",
+      "standard": "这里不读 báo"
+    },
+    {
+      "char": "重",
+      "reading": "chóng",
+      "reason": "“重阳”的“重”是“重复、再次”的意思。",
+      "standard": "这里不读 zhòng"
+    }
+  ],
+  "sources": [
+    "《漱玉词》",
+    "《宋词三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 2014
+}

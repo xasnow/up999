@@ -1,0 +1,394 @@
+{
+  "id": "song-beisong-liuyong-yulinling-hanchan",
+  "slug": "yulinling-hanchan",
+  "title": "雨霖铃·寒蝉凄切",
+  "titlePinyin": "yǔ lín líng · hán chán qī qiè",
+  "dynasty": "songci",
+  "era": "beisong",
+  "genre": "ci",
+  "form": "词（长调）",
+  "authorId": "liuyong",
+  "gradeBand": "ext",
+  "tags": [
+    "送别",
+    "秋天",
+    "杨柳",
+    "词"
+  ],
+  "difficulty": 3,
+  "writtenYear": 1024,
+  "writtenLabel": "约公元 1024 年（柳永 40 岁左右，科场失意，离开汴京时与恋人惜别而作）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "今宵酒醒何处？杨柳岸，晓风残月。",
+    "执手相看泪眼，竟无语凝噎。"
+  ],
+  "lines": [
+    {
+      "text": "寒蝉凄切，",
+      "pinyin": [
+        "hán",
+        "chán",
+        "qī",
+        "qiè"
+      ],
+      "translation": "秋后的蝉叫得又凄凉又急促，",
+      "noteIds": [
+        "n-hanchan"
+      ]
+    },
+    {
+      "text": "对长亭晚，",
+      "pinyin": [
+        "duì",
+        "cháng",
+        "tíng",
+        "wǎn"
+      ],
+      "translation": "面对着长亭，正是傍晚时分，",
+      "noteIds": []
+    },
+    {
+      "text": "骤雨初歇。",
+      "pinyin": [
+        "zhòu",
+        "yǔ",
+        "chū",
+        "xiē"
+      ],
+      "translation": "一场急雨刚刚停了下来。",
+      "noteIds": []
+    },
+    {
+      "text": "都门帐饮无绪，",
+      "pinyin": [
+        "dū",
+        "mén",
+        "zhàng",
+        "yǐn",
+        "wú",
+        "xù"
+      ],
+      "translation": "在京城门外设帐饯行，却无心饮酒，",
+      "noteIds": [
+        "n-zhangyin"
+      ]
+    },
+    {
+      "text": "留恋处，",
+      "pinyin": [
+        "liú",
+        "liàn",
+        "chù"
+      ],
+      "translation": "正在依依不舍的时候，",
+      "noteIds": []
+    },
+    {
+      "text": "兰舟催发。",
+      "pinyin": [
+        "lán",
+        "zhōu",
+        "cuī",
+        "fā"
+      ],
+      "translation": "船上的人已经催着出发了。",
+      "noteIds": [
+        "n-lanzhou"
+      ]
+    },
+    {
+      "text": "执手相看泪眼，",
+      "pinyin": [
+        "zhí",
+        "shǒu",
+        "xiāng",
+        "kàn",
+        "lèi",
+        "yǎn"
+      ],
+      "translation": "两人握着手互相凝望，眼里含着泪水，",
+      "noteIds": []
+    },
+    {
+      "text": "竟无语凝噎。",
+      "pinyin": [
+        "jìng",
+        "wú",
+        "yǔ",
+        "níng",
+        "yē"
+      ],
+      "translation": "竟一句话也说不出来，喉咙像被堵住了。",
+      "noteIds": [
+        "n-ningye"
+      ]
+    },
+    {
+      "text": "念去去，",
+      "pinyin": [
+        "niàn",
+        "qù",
+        "qù"
+      ],
+      "translation": "想到这一去路途遥远，",
+      "noteIds": []
+    },
+    {
+      "text": "千里烟波，",
+      "pinyin": [
+        "qiān",
+        "lǐ",
+        "yān",
+        "bō"
+      ],
+      "translation": "千里江面上烟波迷蒙，",
+      "noteIds": []
+    },
+    {
+      "text": "暮霭沉沉楚天阔。",
+      "pinyin": [
+        "mù",
+        "ǎi",
+        "chén",
+        "chén",
+        "chǔ",
+        "tiān",
+        "kuò"
+      ],
+      "translation": "傍晚的云气沉沉地压着南方广阔的天空。",
+      "noteIds": [
+        "n-mu'ai"
+      ]
+    },
+    {
+      "text": "多情自古伤离别，",
+      "pinyin": [
+        "duō",
+        "qíng",
+        "zì",
+        "gǔ",
+        "shāng",
+        "lí",
+        "bié"
+      ],
+      "translation": "多情的人自古都为离别而伤感，",
+      "noteIds": []
+    },
+    {
+      "text": "更那堪，",
+      "pinyin": [
+        "gèng",
+        "nà",
+        "kān"
+      ],
+      "translation": "更何况又赶上，",
+      "noteIds": [
+        "n-nakan"
+      ]
+    },
+    {
+      "text": "冷落清秋节！",
+      "pinyin": [
+        "lěng",
+        "luò",
+        "qīng",
+        "qiū",
+        "jié"
+      ],
+      "translation": "这冷冷清清的深秋时节！",
+      "noteIds": []
+    },
+    {
+      "text": "今宵酒醒何处？",
+      "pinyin": [
+        "jīn",
+        "xiāo",
+        "jiǔ",
+        "xǐng",
+        "hé",
+        "chù"
+      ],
+      "translation": "今晚酒醒的时候，我会在哪里呢？",
+      "noteIds": []
+    },
+    {
+      "text": "杨柳岸，",
+      "pinyin": [
+        "yáng",
+        "liǔ",
+        "àn"
+      ],
+      "translation": "也许只有杨柳岸边，",
+      "noteIds": []
+    },
+    {
+      "text": "晓风残月。",
+      "pinyin": [
+        "xiǎo",
+        "fēng",
+        "cán",
+        "yuè"
+      ],
+      "translation": "晨风吹拂，残月挂在天边。",
+      "noteIds": []
+    },
+    {
+      "text": "此去经年，",
+      "pinyin": [
+        "cǐ",
+        "qù",
+        "jīng",
+        "nián"
+      ],
+      "translation": "这一去年复一年，",
+      "noteIds": [
+        "n-jingnian"
+      ]
+    },
+    {
+      "text": "应是良辰好景虚设。",
+      "pinyin": [
+        "yīng",
+        "shì",
+        "liáng",
+        "chén",
+        "hǎo",
+        "jǐng",
+        "xū",
+        "shè"
+      ],
+      "translation": "纵然遇到好时光、好风景，也如同白白摆设。",
+      "noteIds": []
+    },
+    {
+      "text": "便纵有千种风情，",
+      "pinyin": [
+        "biàn",
+        "zòng",
+        "yǒu",
+        "qiān",
+        "zhǒng",
+        "fēng",
+        "qíng"
+      ],
+      "translation": "就算有千种深情，",
+      "noteIds": [
+        "n-fengqing"
+      ]
+    },
+    {
+      "text": "更与何人说？",
+      "pinyin": [
+        "gèng",
+        "yǔ",
+        "hé",
+        "rén",
+        "shuō"
+      ],
+      "translation": "又能对谁诉说呢？",
+      "noteIds": []
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-hanchan",
+      "word": "寒蝉",
+      "pinyin": "hán chán",
+      "meaning": "秋天变冷后叫得凄凉急促的蝉。"
+    },
+    {
+      "id": "n-zhangyin",
+      "word": "帐饮",
+      "pinyin": "zhàng yǐn",
+      "meaning": "在郊外的路边搭起帐篷，设酒宴送别。"
+    },
+    {
+      "id": "n-lanzhou",
+      "word": "兰舟",
+      "pinyin": "lán zhōu",
+      "meaning": "用木兰木造的船，是对船的美称。"
+    },
+    {
+      "id": "n-ningye",
+      "word": "凝噎",
+      "pinyin": "níng yē",
+      "meaning": "喉咙像被堵住一样，说不出话来。"
+    },
+    {
+      "id": "n-mu'ai",
+      "word": "暮霭",
+      "pinyin": "mù ǎi",
+      "meaning": "傍晚时分的云气。"
+    },
+    {
+      "id": "n-nakan",
+      "word": "那堪",
+      "pinyin": "nà kān",
+      "meaning": "怎么能忍受，何况。"
+    },
+    {
+      "id": "n-jingnian",
+      "word": "经年",
+      "pinyin": "jīng nián",
+      "meaning": "年复一年，指过了很多年。"
+    },
+    {
+      "id": "n-fengqing",
+      "word": "风情",
+      "pinyin": "fēng qíng",
+      "meaning": "深深的爱恋之情。"
+    }
+  ],
+  "translation": "秋后的蝉叫得又凄凉又急促，面对着长亭，正是傍晚时分，一场急雨刚刚停了下来。在京城门外设帐饯行，却无心饮酒，正在依依不舍的时候，船上的人已经催着出发了。两人握着手互相凝望，眼里含着泪水，竟一句话也说不出来，喉咙像被堵住了。想到这一去路途遥远，千里江面上烟波迷蒙，傍晚的云气沉沉地压着南方广阔的天空。多情的人自古都为离别而伤感，更何况又赶上这冷冷清清的深秋时节！今晚酒醒的时候，我会在哪里呢？也许只有杨柳岸边，晨风吹拂，残月挂在天边。这一去年复一年，纵然遇到好时光、好风景，也如同白白摆设。就算有千种深情，又能对谁诉说呢？",
+  "appreciation": "这是写离别的第一名篇。上片把送别从头到尾细细道来：寒蝉、长亭、急雨，气氛先冷了下来；帐中无绪、兰舟催发，离别被一步步逼近；“执手相看泪眼，竟无语凝噎”，千言万语化作握着的手。下片全是想象：酒醒之后，杨柳岸边只有晓风残月，往后长长的岁月里，再好的风景也没有意思了。不喊不哭，却让人读了心里发酸。",
+  "background": "柳永年轻时多次科举落榜，长期留在汴京，与恋人过着填词度日的日子。这一次他不得不离开京城南下，两人在城外长亭话别。秋蝉凄叫，急雨初停，船家催行，他把这一场难分难舍写成了这首《雨霖铃》，成为他婉约词的代表作。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "长亭傍晚",
+      "text": "秋蝉凄凉地叫着，急雨刚停，两人在长亭告别。"
+    },
+    {
+      "step": 2,
+      "title": "兰舟催发",
+      "text": "帐中饯行没有心思多留，船家已经在催促出发了。"
+    },
+    {
+      "step": 3,
+      "title": "执手无言",
+      "text": "两人握着手泪眼相望，哽咽得说不出一句话。"
+    },
+    {
+      "step": 4,
+      "title": "晓风残月",
+      "text": "词人想象今晚酒醒，眼前只剩杨柳岸边的晓风残月。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "噎",
+      "reading": "yē",
+      "reason": "“凝噎”是说不出话的样子。",
+      "standard": "这里不读 yè"
+    },
+    {
+      "char": "霭",
+      "reading": "ǎi",
+      "reason": "“暮霭”指傍晚的云气。"
+    },
+    {
+      "char": "应",
+      "reading": "yīng",
+      "reason": "“应是良辰好景虚设”的“应”是“应该”的意思。",
+      "standard": "这里不读 yìng"
+    }
+  ],
+  "sources": [
+    "《全宋词》",
+    "《乐章集》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 2007
+}

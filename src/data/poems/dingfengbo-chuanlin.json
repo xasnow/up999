@@ -1,0 +1,245 @@
+{
+  "id": "song-beisong-sushi-dingfengbo-chuanlin",
+  "slug": "dingfengbo-chuanlin",
+  "title": "定风波·莫听穿林打叶声",
+  "titlePinyin": "dìng fēng bō · mò tīng chuān lín dǎ yè shēng",
+  "dynasty": "songci",
+  "era": "beisong",
+  "genre": "ci",
+  "form": "词（中调）",
+  "authorId": "sushi",
+  "gradeBand": "ext",
+  "tags": [
+    "哲理",
+    "烟雨",
+    "春天",
+    "词"
+  ],
+  "difficulty": 3,
+  "writtenYear": 1082,
+  "writtenLabel": "约公元 1082 年（苏轼 45 岁，贬居黄州，沙湖道中遇雨而作）",
+  "orderInAuthor": 3,
+  "famousLines": [
+    "竹杖芒鞋轻胜马，谁怕？一蓑烟雨任平生。",
+    "回首向来萧瑟处，归去，也无风雨也无晴。"
+  ],
+  "lines": [
+    {
+      "text": "莫听穿林打叶声，",
+      "pinyin": [
+        "mò",
+        "tīng",
+        "chuān",
+        "lín",
+        "dǎ",
+        "yè",
+        "shēng"
+      ],
+      "translation": "不用去理会那穿过树林、打在叶子上的雨声，",
+      "noteIds": []
+    },
+    {
+      "text": "何妨吟啸且徐行。",
+      "pinyin": [
+        "hé",
+        "fáng",
+        "yín",
+        "xiào",
+        "qiě",
+        "xú",
+        "xíng"
+      ],
+      "translation": "不妨一边吟诗长啸，一边慢慢地走路。",
+      "noteIds": [
+        "n-yinxiao"
+      ]
+    },
+    {
+      "text": "竹杖芒鞋轻胜马，",
+      "pinyin": [
+        "zhú",
+        "zhàng",
+        "máng",
+        "xié",
+        "qīng",
+        "shèng",
+        "mǎ"
+      ],
+      "translation": "拄着竹杖、穿着草鞋，比骑马还轻便。",
+      "noteIds": [
+        "n-mangxie"
+      ]
+    },
+    {
+      "text": "谁怕？",
+      "pinyin": [
+        "shuí",
+        "pà"
+      ],
+      "translation": "这有什么可怕的？",
+      "noteIds": []
+    },
+    {
+      "text": "一蓑烟雨任平生。",
+      "pinyin": [
+        "yī",
+        "suō",
+        "yān",
+        "yǔ",
+        "rèn",
+        "píng",
+        "shēng"
+      ],
+      "translation": "披一件蓑衣，任凭风吹雨打，照样过我的这一生。",
+      "noteIds": []
+    },
+    {
+      "text": "料峭春风吹酒醒，",
+      "pinyin": [
+        "liào",
+        "qiào",
+        "chūn",
+        "fēng",
+        "chuī",
+        "jiǔ",
+        "xǐng"
+      ],
+      "translation": "微微发凉的春风把我从酒意中吹醒，",
+      "noteIds": [
+        "n-liaoqiao"
+      ]
+    },
+    {
+      "text": "微冷，",
+      "pinyin": [
+        "wēi",
+        "lěng"
+      ],
+      "translation": "身上稍稍有点冷，",
+      "noteIds": []
+    },
+    {
+      "text": "山头斜照却相迎。",
+      "pinyin": [
+        "shān",
+        "tóu",
+        "xié",
+        "zhào",
+        "què",
+        "xiāng",
+        "yíng"
+      ],
+      "translation": "山头初晴的斜阳却已经来迎接我了。",
+      "noteIds": []
+    },
+    {
+      "text": "回首向来萧瑟处，",
+      "pinyin": [
+        "huí",
+        "shǒu",
+        "xiàng",
+        "lái",
+        "xiāo",
+        "sè",
+        "chù"
+      ],
+      "translation": "回头望望我来时经历风雨的地方，",
+      "noteIds": [
+        "n-xiaose"
+      ]
+    },
+    {
+      "text": "归去，",
+      "pinyin": [
+        "guī",
+        "qù"
+      ],
+      "translation": "我要归去了，",
+      "noteIds": []
+    },
+    {
+      "text": "也无风雨也无晴。",
+      "pinyin": [
+        "yě",
+        "wú",
+        "fēng",
+        "yǔ",
+        "yě",
+        "wú",
+        "qíng"
+      ],
+      "translation": "对我来说，既没有风雨，也没有天晴。",
+      "noteIds": []
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-yinxiao",
+      "word": "吟啸",
+      "pinyin": "yín xiào",
+      "meaning": "吟诗、长啸，形容从容自在、毫不在意的样子。"
+    },
+    {
+      "id": "n-mangxie",
+      "word": "芒鞋",
+      "pinyin": "máng xié",
+      "meaning": "草鞋，是当时普通人走路时穿的鞋。"
+    },
+    {
+      "id": "n-liaoqiao",
+      "word": "料峭",
+      "pinyin": "liào qiào",
+      "meaning": "形容早春微微发冷的天气。"
+    },
+    {
+      "id": "n-xiaose",
+      "word": "萧瑟",
+      "pinyin": "xiāo sè",
+      "meaning": "风雨吹打树木的冷落声音，这里指那场风雨。"
+    }
+  ],
+  "translation": "不用去理会那穿过树林、打在叶子上的雨声，不妨一边吟诗长啸，一边慢慢地走路。拄着竹杖、穿着草鞋，比骑马还轻便，这有什么可怕的？披一件蓑衣，任凭风吹雨打，照样过我的这一生。微微发凉的春风把我从酒意中吹醒，身上稍稍有点冷，山头初晴的斜阳却已经来迎接我了。回头望望我来时经历风雨的地方，我要归去了——对我来说，既没有风雨，也没有天晴。",
+  "appreciation": "这首词写路上遇雨这件小事，却写出了一种大态度。别人狼狈奔逃，苏轼偏偏慢慢走，还说“谁怕”。竹杖草鞋虽然简陋，他心里却比骑马还轻快。雨过天晴，回头再看来时的风雨之地，他发现：心里不慌，风雨就不算什么，晴天也不值得狂喜。“也无风雨也无晴”，是经历大起大落之后的平静，教人从容面对生活的起落。",
+  "background": "元丰五年春天，苏轼贬居黄州已有三年。他和朋友去沙湖看田，半路忽然下起大雨，拿雨具的人先走了，同行的人都被淋得狼狈不堪，只有他毫不在意。雨停之后，他写下这首词，把一场雨走成了一堂人生课。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "雨点打叶",
+      "text": "一阵骤雨忽然袭来，雨点穿过树林打在叶子上。"
+    },
+    {
+      "step": 2,
+      "title": "从容慢行",
+      "text": "别人急忙躲雨，苏轼却吟着诗，拄着竹杖慢慢走。"
+    },
+    {
+      "step": 3,
+      "title": "谁怕风雨",
+      "text": "他笑着说：竹杖草鞋比骑马还轻快，怕什么呢？"
+    },
+    {
+      "step": 4,
+      "title": "无雨无晴",
+      "text": "雨停了，回头再看来时的路，风雨阴晴都已过去。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "蓑",
+      "reading": "suō",
+      "reason": "“一蓑烟雨”的“蓑”指蓑衣，是用草编成的雨衣。"
+    },
+    {
+      "char": "峭",
+      "reading": "qiào",
+      "reason": "“料峭”形容早春微微寒冷的样子。"
+    }
+  ],
+  "sources": [
+    "《全宋词》",
+    "《东坡乐府》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 2006
+}

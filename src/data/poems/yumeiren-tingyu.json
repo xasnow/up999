@@ -1,0 +1,226 @@
+{
+  "id": "songci-nansong-jiangjie-yumeiren-tingyu",
+  "slug": "yumeiren-tingyu",
+  "title": "虞美人·听雨",
+  "titlePinyin": "yú měi rén · tīng yǔ",
+  "dynasty": "songci",
+  "era": "nansong",
+  "genre": "ci",
+  "form": "词（小令）",
+  "authorId": "jiangjie",
+  "gradeBand": "ext",
+  "tags": [
+    "哲理",
+    "雨",
+    "词"
+  ],
+  "difficulty": 3,
+  "writtenYear": 1295,
+  "writtenLabel": "约公元 1295 年（蒋捷 50 岁左右，宋亡后隐居江南时期）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "悲欢离合总无情，一任阶前、点滴到天明。"
+  ],
+  "lines": [
+    {
+      "text": "少年听雨歌楼上，",
+      "pinyin": [
+        "shào",
+        "nián",
+        "tīng",
+        "yǔ",
+        "gē",
+        "lóu",
+        "shàng"
+      ],
+      "translation": "年少的时候，在歌楼上听雨，",
+      "noteIds": []
+    },
+    {
+      "text": "红烛昏罗帐。",
+      "pinyin": [
+        "hóng",
+        "zhú",
+        "hūn",
+        "luó",
+        "zhàng"
+      ],
+      "translation": "红烛的光晕染着丝罗的帐子。",
+      "noteIds": [
+        "n-luozhang"
+      ]
+    },
+    {
+      "text": "壮年听雨客舟中，",
+      "pinyin": [
+        "zhuàng",
+        "nián",
+        "tīng",
+        "yǔ",
+        "kè",
+        "zhōu",
+        "zhōng"
+      ],
+      "translation": "壮年时，在漂泊的客船上听雨，",
+      "noteIds": []
+    },
+    {
+      "text": "江阔云低、断雁叫西风。",
+      "pinyin": [
+        "jiāng",
+        "kuò",
+        "yún",
+        "dī",
+        "duàn",
+        "yàn",
+        "jiào",
+        "xī",
+        "fēng"
+      ],
+      "translation": "江面宽阔，云层低垂，失群的大雁在西风里哀叫。",
+      "noteIds": [
+        "n-duanyan"
+      ]
+    },
+    {
+      "text": "而今听雨僧庐下，",
+      "pinyin": [
+        "ér",
+        "jīn",
+        "tīng",
+        "yǔ",
+        "sēng",
+        "lú",
+        "xià"
+      ],
+      "translation": "如今老了，在僧舍里听雨，",
+      "noteIds": [
+        "n-senglu"
+      ]
+    },
+    {
+      "text": "鬓已星星也。",
+      "pinyin": [
+        "bìn",
+        "yǐ",
+        "xīng",
+        "xīng",
+        "yě"
+      ],
+      "translation": "两鬓已经斑白了。",
+      "noteIds": [
+        "n-xingxing"
+      ]
+    },
+    {
+      "text": "悲欢离合总无情，",
+      "pinyin": [
+        "bēi",
+        "huān",
+        "lí",
+        "hé",
+        "zǒng",
+        "wú",
+        "qíng"
+      ],
+      "translation": "人生的悲欢离合总是那样让人无奈，",
+      "noteIds": []
+    },
+    {
+      "text": "一任阶前、点滴到天明。",
+      "pinyin": [
+        "yí",
+        "rèn",
+        "jiē",
+        "qián",
+        "diǎn",
+        "dī",
+        "dào",
+        "tiān",
+        "míng"
+      ],
+      "translation": "就听凭台阶前的雨点，一滴一滴下到天亮吧。",
+      "noteIds": [
+        "n-yiren"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-luozhang",
+      "word": "罗帐",
+      "pinyin": "luó zhàng",
+      "meaning": "用丝罗做成的床帐。"
+    },
+    {
+      "id": "n-duanyan",
+      "word": "断雁",
+      "pinyin": "duàn yàn",
+      "meaning": "失群的孤雁。"
+    },
+    {
+      "id": "n-senglu",
+      "word": "僧庐",
+      "pinyin": "sēng lú",
+      "meaning": "僧人住的房屋，指寺庙里的小屋。"
+    },
+    {
+      "id": "n-xingxing",
+      "word": "星星",
+      "pinyin": "xīng xīng",
+      "meaning": "形容两鬓斑白，白头发点点像星星。"
+    },
+    {
+      "id": "n-yiren",
+      "word": "一任",
+      "pinyin": "yí rèn",
+      "meaning": "听凭、任凭，随它去。"
+    }
+  ],
+  "translation": "年少的时候，在歌楼上听雨，红烛的光晕染着丝罗的帐子。壮年时，在漂泊的客船上听雨，江面宽阔，云层低垂，失群的大雁在西风里哀叫。如今老了，在僧舍里听雨，两鬓已经斑白了。人生的悲欢离合总是那样让人无奈，就听凭台阶前的雨点，一滴一滴下到天亮吧。",
+  "appreciation": "这首词只用“听雨”一件事，就写完了一生。少年在歌楼上听雨，热闹欢快；壮年在客船中听雨，漂泊孤单；老年在僧庐下听雨，心如止水。三幅画面连起来，是一个人的一生，也是一个朝代由盛到亡的过程。结尾把说不尽的悲欢都交给雨声，一滴一滴到天明，越平静，越动人。",
+  "background": "蒋捷是宋末词人，他中年时南宋灭亡，从此隐居不出。晚年回想一生听雨的三个地方——歌楼、客船、僧庐，写下这首词，词里既有一个人的悲欢，也有一个时代的兴亡。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "少年听雨",
+      "text": "少年人在歌楼上听雨，红烛映着罗帐，一片欢快。"
+    },
+    {
+      "step": 2,
+      "title": "壮年听雨",
+      "text": "壮年人在客船中听雨，孤雁在西风里哀叫。"
+    },
+    {
+      "step": 3,
+      "title": "老年听雨",
+      "text": "老年人在僧庐下听雨，两鬓已经斑白。"
+    },
+    {
+      "step": 4,
+      "title": "雨滴到明",
+      "text": "悲欢离合说不尽，就听雨点一滴一滴下到天亮。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "鬓",
+      "reading": "bìn",
+      "reason": "“鬓已星星”的“鬓”指耳边的头发。",
+      "standard": "读 bìn，容易误读成 bīn"
+    },
+    {
+      "char": "任",
+      "reading": "rèn",
+      "reason": "“一任”是听凭、随它去的意思。",
+      "standard": "这里读 rèn，不读 rén"
+    }
+  ],
+  "sources": [
+    "《竹山词》",
+    "《宋词三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 2020
+}

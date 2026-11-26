@@ -1,0 +1,261 @@
+{
+  "id": "songci-nansong-xinqiji-pozhenzi-chenzhuang",
+  "slug": "pozhenzi-chenzhuang",
+  "title": "破阵子·为陈同甫赋壮词以寄之",
+  "titlePinyin": "pò zhèn zǐ · wèi chén tóng fǔ fù zhuàng cí yǐ jì zhī",
+  "dynasty": "songci",
+  "era": "nansong",
+  "genre": "ci",
+  "form": "词（中调）",
+  "authorId": "xinqiji",
+  "gradeBand": "ext",
+  "tags": [
+    "爱国",
+    "军旅",
+    "壮志",
+    "词"
+  ],
+  "difficulty": 3,
+  "writtenYear": 1188,
+  "writtenLabel": "约公元 1188 年（辛弃疾 49 岁，闲居江西上饶，与陈亮鹅湖相会后寄赠）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "了却君王天下事，赢得生前身后名。",
+    "可怜白发生！"
+  ],
+  "lines": [
+    {
+      "text": "醉里挑灯看剑，",
+      "pinyin": [
+        "zuì",
+        "lǐ",
+        "tiǎo",
+        "dēng",
+        "kàn",
+        "jiàn"
+      ],
+      "translation": "喝醉了，还拨亮灯芯看宝剑，",
+      "noteIds": []
+    },
+    {
+      "text": "梦回吹角连营。",
+      "pinyin": [
+        "mèng",
+        "huí",
+        "chuī",
+        "jiǎo",
+        "lián",
+        "yíng"
+      ],
+      "translation": "梦里回到号角响成一片的军营。",
+      "noteIds": []
+    },
+    {
+      "text": "八百里分麾下炙，",
+      "pinyin": [
+        "bā",
+        "bǎi",
+        "lǐ",
+        "fēn",
+        "huī",
+        "xià",
+        "zhì"
+      ],
+      "translation": "把烤好的牛肉分给部下，",
+      "noteIds": [
+        "n-babaili",
+        "n-huixia"
+      ]
+    },
+    {
+      "text": "五十弦翻塞外声，",
+      "pinyin": [
+        "wǔ",
+        "shí",
+        "xián",
+        "fān",
+        "sài",
+        "wài",
+        "shēng"
+      ],
+      "translation": "乐器奏起雄壮的边塞曲子，",
+      "noteIds": [
+        "n-wushixian"
+      ]
+    },
+    {
+      "text": "沙场秋点兵。",
+      "pinyin": [
+        "shā",
+        "chǎng",
+        "qiū",
+        "diǎn",
+        "bīng"
+      ],
+      "translation": "秋天的战场上检阅大军。",
+      "noteIds": []
+    },
+    {
+      "text": "马作的卢飞快，",
+      "pinyin": [
+        "mǎ",
+        "zuò",
+        "dì",
+        "lú",
+        "fēi",
+        "kuài"
+      ],
+      "translation": "战马像的卢马一样跑得飞快，",
+      "noteIds": [
+        "n-dilu"
+      ]
+    },
+    {
+      "text": "弓如霹雳弦惊。",
+      "pinyin": [
+        "gōng",
+        "rú",
+        "pī",
+        "lì",
+        "xián",
+        "jīng"
+      ],
+      "translation": "弓弦响得像炸雷一样惊人。",
+      "noteIds": [
+        "n-pili"
+      ]
+    },
+    {
+      "text": "了却君王天下事，",
+      "pinyin": [
+        "liǎo",
+        "què",
+        "jūn",
+        "wáng",
+        "tiān",
+        "xià",
+        "shì"
+      ],
+      "translation": "替君王完成收复天下的大事，",
+      "noteIds": [
+        "n-liaoque"
+      ]
+    },
+    {
+      "text": "赢得生前身后名。",
+      "pinyin": [
+        "yíng",
+        "dé",
+        "shēng",
+        "qián",
+        "shēn",
+        "hòu",
+        "míng"
+      ],
+      "translation": "博得生前和身后的美名。",
+      "noteIds": []
+    },
+    {
+      "text": "可怜白发生！",
+      "pinyin": [
+        "kě",
+        "lián",
+        "bái",
+        "fà",
+        "shēng"
+      ],
+      "translation": "可惜啊，白发已经长出来了！",
+      "noteIds": []
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-babaili",
+      "word": "八百里",
+      "pinyin": "bā bǎi lǐ",
+      "meaning": "晋代一头名牛的名字，这里指烤牛肉。"
+    },
+    {
+      "id": "n-huixia",
+      "word": "麾下",
+      "pinyin": "huī xià",
+      "meaning": "部下。麾是军旗。"
+    },
+    {
+      "id": "n-wushixian",
+      "word": "五十弦",
+      "pinyin": "wǔ shí xián",
+      "meaning": "古代的瑟有五十根弦，这里泛指军中的乐器。"
+    },
+    {
+      "id": "n-dilu",
+      "word": "的卢",
+      "pinyin": "dì lú",
+      "meaning": "一种烈性快马。三国时刘备曾骑的卢马脱险。"
+    },
+    {
+      "id": "n-pili",
+      "word": "霹雳",
+      "pinyin": "pī lì",
+      "meaning": "响声巨大的雷。这里形容弓弦的声音。"
+    },
+    {
+      "id": "n-liaoque",
+      "word": "了却",
+      "pinyin": "liǎo què",
+      "meaning": "完成。"
+    }
+  ],
+  "translation": "醉里拨亮灯看宝剑，梦里回到号角连成一片的军营。把烤牛肉分给部下，乐器奏出雄壮的塞外曲，秋天的沙场上检阅大军。战马飞奔如的卢，弓弦声震如惊雷。为君王了却收复天下的大事，赢得生前身后的名声。可惜啊，白发已经生了！",
+  "appreciation": "这首词前面全是壮的画面：看剑、连营、烤牛肉、塞外曲、点兵、快马、惊雷，一路冲到底。到了最后一句却猛地停下——可怜白发生！原来那一切都是梦。辛弃疾二十二岁就带兵闯进敌营，却被朝廷闲放多年。全词把一生的豪气和一辈子的不甘，都压在这五个字里。",
+  "background": "约公元 1188 年，辛弃疾闲居江西上饶，好友陈亮（字同甫）来访，两人在铅山畅谈抗金大计。别后辛弃疾仍激动不已，写下这首“壮词”寄给陈亮。词里的沙场，是他回不去的年少时光，也是他一生想实现的梦。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "醉里看剑",
+      "text": "夜里喝醉了，他拨亮灯，一遍遍看着心爱的宝剑。"
+    },
+    {
+      "step": 2,
+      "title": "梦回军营",
+      "text": "梦里回到军营，号角连成一片，烤肉分给士兵。"
+    },
+    {
+      "step": 3,
+      "title": "沙场点兵",
+      "text": "快马像的卢一样飞奔，弓弦响得像雷，沙场点兵。"
+    },
+    {
+      "step": 4,
+      "title": "白发一生",
+      "text": "正要替君王了却大事，一抬头，白发已经生了。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "挑",
+      "reading": "tiǎo",
+      "reason": "“挑灯”的“挑”是拨动灯芯的意思。",
+      "standard": "这里不读 tiāo"
+    },
+    {
+      "char": "的",
+      "reading": "dì",
+      "reason": "“的卢”是良马的名字。",
+      "standard": "这里不读 de"
+    },
+    {
+      "char": "发",
+      "reading": "fà",
+      "reason": "“白发生”的“发”指头发。",
+      "standard": "这里不读 fā"
+    }
+  ],
+  "sources": [
+    "《稼轩长短句》",
+    "《宋词三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 2018
+}

@@ -1,0 +1,376 @@
+{
+  "id": "songci-nansong-liqingzhao-shengshengman-xunxun",
+  "slug": "shengshengman-xunxun",
+  "title": "声声慢·寻寻觅觅",
+  "titlePinyin": "shēng shēng màn · xún xún mì mì",
+  "dynasty": "songci",
+  "era": "nansong",
+  "genre": "ci",
+  "form": "词（长调）",
+  "authorId": "liqingzhao",
+  "gradeBand": "ext",
+  "tags": [
+    "愁绪",
+    "秋天",
+    "黄昏",
+    "词"
+  ],
+  "difficulty": 3,
+  "writtenYear": 1130,
+  "writtenLabel": "约公元 1130 年（李清照 47 岁前后，国破夫亡之后，孤身流寓江南）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "寻寻觅觅，冷冷清清，凄凄惨惨戚戚。",
+    "这次第，怎一个愁字了得！"
+  ],
+  "lines": [
+    {
+      "text": "寻寻觅觅，",
+      "pinyin": [
+        "xún",
+        "xún",
+        "mì",
+        "mì"
+      ],
+      "translation": "我起身找来找去，",
+      "noteIds": []
+    },
+    {
+      "text": "冷冷清清，",
+      "pinyin": [
+        "lěng",
+        "lěng",
+        "qīng",
+        "qīng"
+      ],
+      "translation": "周围却冷冷清清，",
+      "noteIds": []
+    },
+    {
+      "text": "凄凄惨惨戚戚。",
+      "pinyin": [
+        "qī",
+        "qī",
+        "cǎn",
+        "cǎn",
+        "qī",
+        "qī"
+      ],
+      "translation": "心里凄凄惨惨，说不出的悲伤。",
+      "noteIds": [
+        "n-qiqi"
+      ]
+    },
+    {
+      "text": "乍暖还寒时候，",
+      "pinyin": [
+        "zhà",
+        "nuǎn",
+        "hái",
+        "hán",
+        "shí",
+        "hou"
+      ],
+      "translation": "刚有点暖、忽而又转凉的时候，",
+      "noteIds": [
+        "n-zhuanhuan"
+      ]
+    },
+    {
+      "text": "最难将息。",
+      "pinyin": [
+        "zuì",
+        "nán",
+        "jiāng",
+        "xī"
+      ],
+      "translation": "身体最难休养安顿。",
+      "noteIds": [
+        "n-jiangxi"
+      ]
+    },
+    {
+      "text": "三杯两盏淡酒，",
+      "pinyin": [
+        "sān",
+        "bēi",
+        "liǎng",
+        "zhǎn",
+        "dàn",
+        "jiǔ"
+      ],
+      "translation": "喝下三杯两盏淡淡的酒，",
+      "noteIds": []
+    },
+    {
+      "text": "怎敌他、晚来风急！",
+      "pinyin": [
+        "zěn",
+        "dí",
+        "tā",
+        "wǎn",
+        "lái",
+        "fēng",
+        "jí"
+      ],
+      "translation": "怎么挡得住傍晚又急又冷的风！",
+      "noteIds": []
+    },
+    {
+      "text": "雁过也，",
+      "pinyin": [
+        "yàn",
+        "guò",
+        "yě"
+      ],
+      "translation": "大雁飞过去了，",
+      "noteIds": []
+    },
+    {
+      "text": "正伤心，",
+      "pinyin": [
+        "zhèng",
+        "shāng",
+        "xīn"
+      ],
+      "translation": "我正伤心，",
+      "noteIds": []
+    },
+    {
+      "text": "却是旧时相识。",
+      "pinyin": [
+        "què",
+        "shì",
+        "jiù",
+        "shí",
+        "xiāng",
+        "shí"
+      ],
+      "translation": "它们却是我从前见过的老相识。",
+      "noteIds": [
+        "n-jiushixiangshi"
+      ]
+    },
+    {
+      "text": "满地黄花堆积，",
+      "pinyin": [
+        "mǎn",
+        "dì",
+        "huáng",
+        "huā",
+        "duī",
+        "jī"
+      ],
+      "translation": "满地的菊花落了又堆着，",
+      "noteIds": []
+    },
+    {
+      "text": "憔悴损，",
+      "pinyin": [
+        "qiáo",
+        "cuì",
+        "sǔn"
+      ],
+      "translation": "花儿枯萎凋残，",
+      "noteIds": [
+        "n-qiaocui"
+      ]
+    },
+    {
+      "text": "如今有谁堪摘？",
+      "pinyin": [
+        "rú",
+        "jīn",
+        "yǒu",
+        "shuí",
+        "kān",
+        "zhāi"
+      ],
+      "translation": "如今还有哪一朵值得摘呢？",
+      "noteIds": []
+    },
+    {
+      "text": "守着窗儿，",
+      "pinyin": [
+        "shǒu",
+        "zhe",
+        "chuāng",
+        "er"
+      ],
+      "translation": "独自守着窗户，",
+      "noteIds": []
+    },
+    {
+      "text": "独自怎生得黑！",
+      "pinyin": [
+        "dú",
+        "zì",
+        "zěn",
+        "shēng",
+        "děi",
+        "hēi"
+      ],
+      "translation": "一个人怎么才能挨到天黑！",
+      "noteIds": [
+        "n-zensheng"
+      ]
+    },
+    {
+      "text": "梧桐更兼细雨，",
+      "pinyin": [
+        "wú",
+        "tóng",
+        "gèng",
+        "jiān",
+        "xì",
+        "yǔ"
+      ],
+      "translation": "梧桐叶上又落着细雨，",
+      "noteIds": []
+    },
+    {
+      "text": "到黄昏、点点滴滴。",
+      "pinyin": [
+        "dào",
+        "huáng",
+        "hūn",
+        "diǎn",
+        "diǎn",
+        "dī",
+        "dī"
+      ],
+      "translation": "到黄昏，雨声滴滴答答响个不停。",
+      "noteIds": []
+    },
+    {
+      "text": "这次第，",
+      "pinyin": [
+        "zhè",
+        "cì",
+        "dì"
+      ],
+      "translation": "这样的光景，",
+      "noteIds": [
+        "n-cidi"
+      ]
+    },
+    {
+      "text": "怎一个愁字了得！",
+      "pinyin": [
+        "zěn",
+        "yí",
+        "gè",
+        "chóu",
+        "zì",
+        "liǎo",
+        "dé"
+      ],
+      "translation": "哪里是一个“愁”字能说得尽的呀！",
+      "noteIds": [
+        "n-liaode"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-qiqi",
+      "word": "戚戚",
+      "pinyin": "qī qī",
+      "meaning": "忧愁悲伤的样子。"
+    },
+    {
+      "id": "n-zhuanhuan",
+      "word": "乍暖还寒",
+      "pinyin": "zhà nuǎn hái hán",
+      "meaning": "天气刚暖和起来，忽而又变冷，忽冷忽热。"
+    },
+    {
+      "id": "n-jiangxi",
+      "word": "将息",
+      "pinyin": "jiāng xī",
+      "meaning": "休息、调养身体。"
+    },
+    {
+      "id": "n-jiushixiangshi",
+      "word": "旧时相识",
+      "pinyin": "jiù shí xiāng shí",
+      "meaning": "从前见过面的老相识。雁从北方飞来，词人的家乡也在北方。"
+    },
+    {
+      "id": "n-qiaocui",
+      "word": "憔悴损",
+      "pinyin": "qiáo cuì sǔn",
+      "meaning": "枯萎凋残得很厉害。"
+    },
+    {
+      "id": "n-zensheng",
+      "word": "怎生",
+      "pinyin": "zěn shēng",
+      "meaning": "怎么、怎样。"
+    },
+    {
+      "id": "n-cidi",
+      "word": "次第",
+      "pinyin": "cì dì",
+      "meaning": "光景、情形。"
+    },
+    {
+      "id": "n-liaode",
+      "word": "了得",
+      "pinyin": "liǎo dé",
+      "meaning": "说得尽、概括得了。"
+    }
+  ],
+  "translation": "我找来找去，四周冷冷清清，心里凄凄惨惨。忽暖忽寒的时候，最难保养休息。喝下三两杯淡酒，怎么挡得住傍晚又急的风？大雁飞过，我正伤心，它们却是我从前的旧相识。满地菊花堆积，枯萎凋残，如今还有哪朵值得摘？守着窗户，独自怎么挨到天黑！梧桐上又落着细雨，到黄昏滴滴答答。这般光景，哪里是一个“愁”字说得尽的！",
+  "appreciation": "开头十四个字，一组叠字连珠而下，像一个人在屋里转来转去，找一样说不出的东西。找不着，只好喝酒、看雁、看花、听雨。淡酒挡不住晚风，黄花没人摘，日子挨不到天黑。最后她不哭了，只说：这一个“愁”字，已经装不下我的伤心。全词没有一个生僻字，却把愁写到了极处，成为宋词里最有名的一篇“秋日心事”。",
+  "background": "约公元 1130 年前后，金兵南下，李清照国破家亡，丈夫赵明诚病逝，夫妇珍藏的金石书画也散失殆尽。她孤身流落在江南，秋天的黄昏守着窗子，把半生的漂泊和思念写成这首词，被后人看作她晚年的代表作。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "寻寻觅觅",
+      "text": "她起身找来找去，屋里冷冷清清，只剩一腔凄惨。"
+    },
+    {
+      "step": 2,
+      "title": "淡酒难敌风",
+      "text": "三两杯淡酒，挡不住傍晚又急又冷的秋风。"
+    },
+    {
+      "step": 3,
+      "title": "雁过花残",
+      "text": "旧时相识的大雁飞过，满地菊花枯残，没人再摘。"
+    },
+    {
+      "step": 4,
+      "title": "愁字了得",
+      "text": "细雨滴着梧桐到黄昏，一个愁字，已说不尽这伤心。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "乍",
+      "reading": "zhà",
+      "reason": "“乍暖还寒”的“乍”是“刚刚”的意思。",
+      "standard": "不读 zǎ"
+    },
+    {
+      "char": "得",
+      "reading": "děi",
+      "reason": "“独自怎生得黑”的“得”是“能够、挨到”的意思。",
+      "standard": "这里不读 dé"
+    },
+    {
+      "char": "了",
+      "reading": "liǎo",
+      "reason": "“怎一个愁字了得”的“了”是“完毕、说尽”的意思。",
+      "standard": "这里不读 le"
+    }
+  ],
+  "sources": [
+    "《漱玉词》",
+    "《宋词三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 2015
+}

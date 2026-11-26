@@ -1,0 +1,372 @@
+{
+  "id": "songci-nansong-yuefei-manjianghong-nufa",
+  "slug": "manjianghong-nufa",
+  "title": "满江红·怒发冲冠",
+  "titlePinyin": "mǎn jiāng hóng · nù fà chōng guān",
+  "dynasty": "songci",
+  "era": "nansong",
+  "genre": "ci",
+  "form": "词（长调）",
+  "authorId": "yuefei",
+  "gradeBand": "ext",
+  "tags": [
+    "爱国",
+    "山河",
+    "词"
+  ],
+  "difficulty": 3,
+  "writtenYear": 1136,
+  "writtenLabel": "约公元 1136 年（岳飞 34 岁左右，两度北伐之间，作年另有他说）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "三十功名尘与土，八千里路云和月。",
+    "莫等闲、白了少年头，空悲切。"
+  ],
+  "lines": [
+    {
+      "text": "怒发冲冠，",
+      "pinyin": [
+        "nù",
+        "fà",
+        "chōng",
+        "guān"
+      ],
+      "translation": "愤怒得头发竖起，把帽子都顶了起来，",
+      "noteIds": [
+        "n-nufa"
+      ]
+    },
+    {
+      "text": "凭阑处、潇潇雨歇。",
+      "pinyin": [
+        "píng",
+        "lán",
+        "chù",
+        "xiāo",
+        "xiāo",
+        "yǔ",
+        "xiē"
+      ],
+      "translation": "独自倚着栏杆，急骤的雨刚刚停歇。",
+      "noteIds": [
+        "n-pinglan"
+      ]
+    },
+    {
+      "text": "抬望眼，",
+      "pinyin": [
+        "tái",
+        "wàng",
+        "yǎn"
+      ],
+      "translation": "抬起双眼远望，",
+      "noteIds": []
+    },
+    {
+      "text": "仰天长啸，",
+      "pinyin": [
+        "yǎng",
+        "tiān",
+        "cháng",
+        "xiào"
+      ],
+      "translation": "仰对天空放声长啸，",
+      "noteIds": [
+        "n-changxiao"
+      ]
+    },
+    {
+      "text": "壮怀激烈。",
+      "pinyin": [
+        "zhuàng",
+        "huái",
+        "jī",
+        "liè"
+      ],
+      "translation": "壮烈的情怀在胸中激烈翻腾。",
+      "noteIds": []
+    },
+    {
+      "text": "三十功名尘与土，",
+      "pinyin": [
+        "sān",
+        "shí",
+        "gōng",
+        "míng",
+        "chén",
+        "yǔ",
+        "tǔ"
+      ],
+      "translation": "三十来年挣下的功名如同尘土，",
+      "noteIds": []
+    },
+    {
+      "text": "八千里路云和月。",
+      "pinyin": [
+        "bā",
+        "qiān",
+        "lǐ",
+        "lù",
+        "yún",
+        "hé",
+        "yuè"
+      ],
+      "translation": "转战八千里，只有云和月相伴。",
+      "noteIds": []
+    },
+    {
+      "text": "莫等闲、白了少年头，",
+      "pinyin": [
+        "mò",
+        "děng",
+        "xián",
+        "bái",
+        "le",
+        "shào",
+        "nián",
+        "tóu"
+      ],
+      "translation": "不要随便虚度光阴，等少年人的黑发熬成白发，",
+      "noteIds": []
+    },
+    {
+      "text": "空悲切。",
+      "pinyin": [
+        "kōng",
+        "bēi",
+        "qiè"
+      ],
+      "translation": "到那时只能白白地悲伤。",
+      "noteIds": []
+    },
+    {
+      "text": "靖康耻，",
+      "pinyin": [
+        "jìng",
+        "kāng",
+        "chǐ"
+      ],
+      "translation": "靖康年的国耻，",
+      "noteIds": [
+        "n-jingkang"
+      ]
+    },
+    {
+      "text": "犹未雪。",
+      "pinyin": [
+        "yóu",
+        "wèi",
+        "xuě"
+      ],
+      "translation": "还没有洗雪；",
+      "noteIds": [
+        "n-xue"
+      ]
+    },
+    {
+      "text": "臣子恨，",
+      "pinyin": [
+        "chén",
+        "zǐ",
+        "hèn"
+      ],
+      "translation": "做臣子的遗恨，",
+      "noteIds": []
+    },
+    {
+      "text": "何时灭。",
+      "pinyin": [
+        "hé",
+        "shí",
+        "miè"
+      ],
+      "translation": "要到什么时候才能消失。",
+      "noteIds": []
+    },
+    {
+      "text": "驾长车，踏破贺兰山缺。",
+      "pinyin": [
+        "jià",
+        "cháng",
+        "chē",
+        "tà",
+        "pò",
+        "hè",
+        "lán",
+        "shān",
+        "quē"
+      ],
+      "translation": "驾起战车，一路踏破贺兰山的缺口。",
+      "noteIds": [
+        "n-shanque"
+      ]
+    },
+    {
+      "text": "壮志饥餐胡虏肉，",
+      "pinyin": [
+        "zhuàng",
+        "zhì",
+        "jī",
+        "cān",
+        "hú",
+        "lǔ",
+        "ròu"
+      ],
+      "translation": "满腔壮志，饿了要把敌人的肉当饭吃，",
+      "noteIds": [
+        "n-hulu"
+      ]
+    },
+    {
+      "text": "笑谈渴饮匈奴血。",
+      "pinyin": [
+        "xiào",
+        "tán",
+        "kě",
+        "yǐn",
+        "xiōng",
+        "nú",
+        "xuè"
+      ],
+      "translation": "谈笑之间，渴了要把敌人的血当酒喝。",
+      "noteIds": [
+        "n-xiongnu"
+      ]
+    },
+    {
+      "text": "待从头、收拾旧山河，",
+      "pinyin": [
+        "dài",
+        "cóng",
+        "tóu",
+        "shōu",
+        "shí",
+        "jiù",
+        "shān",
+        "hé"
+      ],
+      "translation": "等收复了旧日的山河，",
+      "noteIds": []
+    },
+    {
+      "text": "朝天阙。",
+      "pinyin": [
+        "cháo",
+        "tiān",
+        "què"
+      ],
+      "translation": "再回朝拜见天子。",
+      "noteIds": [
+        "n-tianque"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-nufa",
+      "word": "怒发冲冠",
+      "pinyin": "nù fà chōng guān",
+      "meaning": "愤怒得头发竖起，把帽子都顶了起来，形容怒气极大。"
+    },
+    {
+      "id": "n-pinglan",
+      "word": "凭阑",
+      "pinyin": "píng lán",
+      "meaning": "倚靠着栏杆。"
+    },
+    {
+      "id": "n-changxiao",
+      "word": "长啸",
+      "pinyin": "cháng xiào",
+      "meaning": "感情激动时张口发出的悠长呼喊。"
+    },
+    {
+      "id": "n-jingkang",
+      "word": "靖康耻",
+      "pinyin": "jìng kāng chǐ",
+      "meaning": "指靖康二年（1127年）金兵攻破汴京、掳走徽钦二帝的国耻。"
+    },
+    {
+      "id": "n-xue",
+      "word": "雪",
+      "pinyin": "xuě",
+      "meaning": "洗刷掉（耻辱）。"
+    },
+    {
+      "id": "n-shanque",
+      "word": "山缺",
+      "pinyin": "shān quē",
+      "meaning": "山的缺口，指险要的关口。贺兰山借指金人占据的山河。"
+    },
+    {
+      "id": "n-hulu",
+      "word": "胡虏",
+      "pinyin": "hú lǔ",
+      "meaning": "古代对北方入侵者的蔑称，这里指金军。"
+    },
+    {
+      "id": "n-xiongnu",
+      "word": "匈奴",
+      "pinyin": "xiōng nú",
+      "meaning": "古代北方的部族，这里借指金军。"
+    },
+    {
+      "id": "n-tianque",
+      "word": "天阙",
+      "pinyin": "tiān què",
+      "meaning": "皇宫门前的高楼，代指朝廷、天子。朝天阙：回朝拜见皇帝。"
+    }
+  ],
+  "translation": "愤怒得头发竖起，把帽子都顶了起来，独自倚着栏杆，急骤的雨刚刚停歇。抬起双眼远望，仰对天空放声长啸，壮烈的情怀在胸中激烈翻腾。三十来年挣下的功名如同尘土，转战八千里，只有云和月相伴。不要随便虚度光阴，等少年人的黑发熬成白发，到那时只能白白地悲伤。靖康年的国耻还没有洗雪，做臣子的遗恨要到什么时候才能消失。驾起战车，一路踏破贺兰山的缺口。满腔壮志，饿了要把敌人的肉当饭吃，谈笑之间，渴了要把敌人的血当酒喝。等收复了旧日的山河，再回朝拜见天子。",
+  "appreciation": "开头“怒发冲冠”四个字像一声惊雷，把满腔怒火推到读者面前。回头看，功名如尘土，长路只有云月相伴；往前看，是未雪的国耻、未收的山河。词句像战鼓一声紧过一声，“莫等闲”是告诫自己，也是唤醒世人。整首词气势磅礴，把收复山河的决心喊成了千古传诵的英雄之歌。",
+  "background": "北宋末年，金兵攻破汴京，掳走徽、钦二帝，史称“靖康之耻”。岳飞从军抗金，带领岳家军多次北伐，一心收复北方失地。这首词约写于他率军北伐的岁月，通篇是报仇雪耻、重整山河的壮志（具体作年学界尚有不同说法）。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "怒发冲冠",
+      "text": "急雨初停，岳飞倚着栏杆，愤怒得头发竖了起来。"
+    },
+    {
+      "step": 2,
+      "title": "回望功名",
+      "text": "三十年功名如尘土，八千里征程只有云月相伴。"
+    },
+    {
+      "step": 3,
+      "title": "国耻未雪",
+      "text": "想起靖康之耻还未洗雪，恨不得驾战车踏破山关。"
+    },
+    {
+      "step": 4,
+      "title": "收拾山河",
+      "text": "他立下誓言：收复旧山河，再回朝拜见天子。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "发",
+      "reading": "fà",
+      "reason": "“怒发冲冠”的“发”指头发。",
+      "standard": "这里读 fà，不读 fā"
+    },
+    {
+      "char": "阑",
+      "reading": "lán",
+      "reason": "“凭阑”的“阑”同“栏”，指栏杆。",
+      "standard": "读 lán"
+    },
+    {
+      "char": "歇",
+      "reading": "xiē",
+      "reason": "“潇潇雨歇”的“歇”是停下的意思。",
+      "standard": "读 xiē"
+    }
+  ],
+  "sources": [
+    "《全宋词》",
+    "《宋词选》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 2016
+}

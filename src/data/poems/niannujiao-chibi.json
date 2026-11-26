@@ -1,0 +1,268 @@
+{
+  "id": "song-beisong-sushi-niannujiao-chibi",
+  "slug": "niannujiao-chibi",
+  "title": "念奴娇·赤壁怀古",
+  "titlePinyin": "niàn nú jiāo · chì bì huái gǔ",
+  "dynasty": "songci",
+  "era": "beisong",
+  "genre": "ci",
+  "form": "词（长调）",
+  "authorId": "sushi",
+  "gradeBand": "ext",
+  "tags": ["怀古", "长江", "词"],
+  "difficulty": 3,
+  "writtenYear": 1082,
+  "writtenLabel": "公元 1082 年（苏轼 45 岁，贬居黄州，游览赤壁矶写下此词）",
+  "orderInAuthor": 2,
+  "famousLines": [
+    "大江东去，浪淘尽，千古风流人物。",
+    "人生如梦，一尊还酹江月。"
+  ],
+  "lines": [
+    {
+      "text": "大江东去，",
+      "pinyin": ["dà", "jiāng", "dōng", "qù"],
+      "translation": "大江日夜不停地向东奔流，",
+      "noteIds": []
+    },
+    {
+      "text": "浪淘尽，",
+      "pinyin": ["làng", "táo", "jìn"],
+      "translation": "江浪冲刷淘洗，",
+      "noteIds": ["n-langtao"]
+    },
+    {
+      "text": "千古风流人物。",
+      "pinyin": ["qiān", "gǔ", "fēng", "liú", "rén", "wù"],
+      "translation": "千百年来多少英雄人物都被它带走了。",
+      "noteIds": []
+    },
+    {
+      "text": "故垒西边，",
+      "pinyin": ["gù", "lěi", "xī", "biān"],
+      "translation": "旧营垒的西边，",
+      "noteIds": ["n-gulei"]
+    },
+    {
+      "text": "人道是，",
+      "pinyin": ["rén", "dào", "shì"],
+      "translation": "人们说，",
+      "noteIds": []
+    },
+    {
+      "text": "三国周郎赤壁。",
+      "pinyin": ["sān", "guó", "zhōu", "láng", "chì", "bì"],
+      "translation": "那就是三国时周瑜大破曹军的赤壁。",
+      "noteIds": ["n-zhoul"]
+    },
+    {
+      "text": "乱石穿空，",
+      "pinyin": ["luàn", "shí", "chuān", "kōng"],
+      "translation": "陡峭的乱石直插天空，",
+      "noteIds": []
+    },
+    {
+      "text": "惊涛拍岸，",
+      "pinyin": ["jīng", "tāo", "pāi", "àn"],
+      "translation": "惊人的巨浪拍打着江岸，",
+      "noteIds": []
+    },
+    {
+      "text": "卷起千堆雪。",
+      "pinyin": ["juǎn", "qǐ", "qiān", "duī", "xuě"],
+      "translation": "卷起千万堆雪白的浪花。",
+      "noteIds": []
+    },
+    {
+      "text": "江山如画，",
+      "pinyin": ["jiāng", "shān", "rú", "huà"],
+      "translation": "江山美丽得像画一样，",
+      "noteIds": []
+    },
+    {
+      "text": "一时多少豪杰。",
+      "pinyin": ["yī", "shí", "duō", "shǎo", "háo", "jié"],
+      "translation": "那个时代涌现出多少英雄豪杰啊。",
+      "noteIds": []
+    },
+    {
+      "text": "遥想公瑾当年，",
+      "pinyin": ["yáo", "xiǎng", "gōng", "jǐn", "dāng", "nián"],
+      "translation": "遥想当年的周公瑾，",
+      "noteIds": ["n-gongjin"]
+    },
+    {
+      "text": "小乔初嫁了，",
+      "pinyin": ["xiǎo", "qiáo", "chū", "jià", "liǎo"],
+      "translation": "小乔刚嫁给他，",
+      "noteIds": ["n-xiaoqiao"]
+    },
+    {
+      "text": "雄姿英发。",
+      "pinyin": ["xióng", "zī", "yīng", "fā"],
+      "translation": "他英姿勃勃、意气风发。",
+      "noteIds": []
+    },
+    {
+      "text": "羽扇纶巾，",
+      "pinyin": ["yǔ", "shàn", "guān", "jīn"],
+      "translation": "他手摇羽扇，头戴纶巾，",
+      "noteIds": ["n-guanjin"]
+    },
+    {
+      "text": "谈笑间，",
+      "pinyin": ["tán", "xiào", "jiān"],
+      "translation": "谈笑之间，",
+      "noteIds": []
+    },
+    {
+      "text": "樯橹灰飞烟灭。",
+      "pinyin": ["qiáng", "lǔ", "huī", "fēi", "yān", "miè"],
+      "translation": "就把曹操的战船烧得灰飞烟灭。",
+      "noteIds": ["n-qianglu"]
+    },
+    {
+      "text": "故国神游，",
+      "pinyin": ["gù", "guó", "shén", "yóu"],
+      "translation": "神游在当年三国的古战场，",
+      "noteIds": []
+    },
+    {
+      "text": "多情应笑我，",
+      "pinyin": ["duō", "qíng", "yīng", "xiào", "wǒ"],
+      "translation": "应该笑我这么多愁善感，",
+      "noteIds": []
+    },
+    {
+      "text": "早生华发。",
+      "pinyin": ["zǎo", "shēng", "huá", "fà"],
+      "translation": "头发早早地花白了。",
+      "noteIds": ["n-huafa"]
+    },
+    {
+      "text": "人生如梦，",
+      "pinyin": ["rén", "shēng", "rú", "mèng"],
+      "translation": "人生就像一场梦，",
+      "noteIds": []
+    },
+    {
+      "text": "一尊还酹江月。",
+      "pinyin": ["yī", "zūn", "huán", "lèi", "jiāng", "yuè"],
+      "translation": "还是斟满一杯酒，洒向江中的明月吧。",
+      "noteIds": ["n-zun", "n-lei"]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-langtao",
+      "word": "浪淘尽",
+      "pinyin": "làng táo jìn",
+      "meaning": "江浪冲刷淘洗，比喻时间带走了无数英雄。"
+    },
+    {
+      "id": "n-gulei",
+      "word": "故垒",
+      "pinyin": "gù lěi",
+      "meaning": "从前打仗留下的营垒。"
+    },
+    {
+      "id": "n-zhoul",
+      "word": "周郎",
+      "pinyin": "zhōu láng",
+      "meaning": "周瑜。他二十四岁就当上将军，人称“周郎”。"
+    },
+    {
+      "id": "n-gongjin",
+      "word": "公瑾",
+      "pinyin": "gōng jǐn",
+      "meaning": "周瑜的字。"
+    },
+    {
+      "id": "n-xiaoqiao",
+      "word": "小乔",
+      "pinyin": "xiǎo qiáo",
+      "meaning": "乔家的二小姐，嫁给周瑜为妻。"
+    },
+    {
+      "id": "n-guanjin",
+      "word": "纶巾",
+      "pinyin": "guān jīn",
+      "meaning": "用青丝带做的头巾，是当时儒雅的装束。"
+    },
+    {
+      "id": "n-qianglu",
+      "word": "樯橹",
+      "pinyin": "qiáng lǔ",
+      "meaning": "船上的桅杆和船桨，代指曹操的战船。"
+    },
+    {
+      "id": "n-huafa",
+      "word": "华发",
+      "pinyin": "huá fà",
+      "meaning": "花白的头发。"
+    },
+    {
+      "id": "n-zun",
+      "word": "尊",
+      "pinyin": "zūn",
+      "meaning": "同“樽”，盛酒的杯子。"
+    },
+    {
+      "id": "n-lei",
+      "word": "酹",
+      "pinyin": "lèi",
+      "meaning": "把酒洒在地上或江中，表示祭奠。"
+    }
+  ],
+  "translation": "大江滚滚向东流去，江浪淘洗干净，千百年来多少风流人物都随水而逝。旧营垒的西边，人们说，那就是三国时周瑜大破曹军的赤壁。只见乱石直插云天，惊涛拍打着江岸，卷起千万堆雪白的浪花。江山美得像图画，那个时代涌现出多少豪杰！遥想周瑜当年，小乔刚嫁给他，他雄姿英发；手摇羽扇、头戴纶巾，谈笑之间，就把曹操的战船烧得灰飞烟灭。如今神游古战场，该笑我太多情，头发早白。人生像一场梦，还是举杯把酒洒向江上的明月吧。",
+  "appreciation": "这是宋词中最豪放的一首。开头“大江东去”一笔放开，江水变成时间的长河，淘尽千古英雄。写赤壁景色只用三句：乱石、惊涛、雪浪，气势扑面而来。写周瑜更是神来之笔：新婚、英俊、从容谈笑就把强敌烧了个干净，何等潇洒。结尾从怀古转回自己：年近半百、功业无成，只能自嘲“早生华发”。最后把千古兴亡都付与一杯酒、一轮江月，豪放中带着苍凉，读来让人胸怀大开。",
+  "background": "1080 年苏轼因“乌台诗案”被贬到黄州，不得签署公事。1082 年他多次游览城外的赤壁矶，写下《赤壁赋》和这首词。这里并不是真正火烧曹军的地方，苏轼借“人道是”三字含糊带过，只为借三国英雄抒发自己壮志难酬的感慨。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "大江东去",
+      "text": "词人站在江边，看大江东流，感叹江浪淘尽了千古英雄。"
+    },
+    {
+      "step": 2,
+      "title": "赤壁江山",
+      "text": "旧营垒西边就是周郎赤壁，乱石穿空、惊涛拍岸，卷起千堆雪浪。"
+    },
+    {
+      "step": 3,
+      "title": "遥想周瑜",
+      "text": "当年周瑜新婚得意，羽扇纶巾，谈笑之间烧尽曹操的战船。"
+    },
+    {
+      "step": 4,
+      "title": "酹酒江月",
+      "text": "回到现实，词人自笑早生华发，举杯把酒洒向江上明月。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "纶",
+      "reading": "guān",
+      "reason": "“纶巾”是古代用青丝带做的头巾。",
+      "standard": "这里不读 lún"
+    },
+    {
+      "char": "还",
+      "reading": "huán",
+      "reason": "“一尊还酹江月”是“还要再斟酒洒月”的意思。",
+      "standard": "这里不读 hái"
+    },
+    {
+      "char": "酹",
+      "reading": "lèi",
+      "reason": "指把酒洒在地上或江中祭奠，这个字今天已不常用。"
+    }
+  ],
+  "sources": [
+    "《东坡乐府》",
+    "《全宋词》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 2004
+}

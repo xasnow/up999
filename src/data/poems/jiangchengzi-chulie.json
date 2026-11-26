@@ -1,0 +1,225 @@
+{
+  "id": "song-beisong-sushi-jiangchengzi-chulie",
+  "slug": "jiangchengzi-chulie",
+  "title": "江城子·密州出猎",
+  "titlePinyin": "jiāng chéng zǐ · mì zhōu chū liè",
+  "dynasty": "songci",
+  "era": "beisong",
+  "genre": "ci",
+  "form": "词（中调）",
+  "authorId": "sushi",
+  "gradeBand": "ext",
+  "tags": ["爱国", "豪放", "词"],
+  "difficulty": 3,
+  "writtenYear": 1075,
+  "writtenLabel": "公元 1075 年（苏轼 38 岁，任密州知州，冬天率人出城打猎）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "会挽雕弓如满月，西北望，射天狼。"
+  ],
+  "lines": [
+    {
+      "text": "老夫聊发少年狂，",
+      "pinyin": ["lǎo", "fū", "liáo", "fā", "shào", "nián", "kuáng"],
+      "translation": "我这老头子也来学年轻人，狂放一回，",
+      "noteIds": ["n-liaofa"]
+    },
+    {
+      "text": "左牵黄，",
+      "pinyin": ["zuǒ", "qiān", "huáng"],
+      "translation": "左手牵着黄狗，",
+      "noteIds": []
+    },
+    {
+      "text": "右擎苍，",
+      "pinyin": ["yòu", "qíng", "cāng"],
+      "translation": "右臂托着苍鹰。",
+      "noteIds": []
+    },
+    {
+      "text": "锦帽貂裘，",
+      "pinyin": ["jǐn", "mào", "diāo", "qiú"],
+      "translation": "随从们戴着锦蒙帽，穿着貂皮袍，",
+      "noteIds": ["n-diaoqiu"]
+    },
+    {
+      "text": "千骑卷平冈。",
+      "pinyin": ["qiān", "jì", "juǎn", "píng", "gāng"],
+      "translation": "大队人马像一阵风卷过平坦的山冈。",
+      "noteIds": ["n-qianqi"]
+    },
+    {
+      "text": "为报倾城随太守，",
+      "pinyin": ["wèi", "bào", "qīng", "chéng", "suí", "tài", "shǒu"],
+      "translation": "为了回报全城人来看打猎的情意，我要像孙权一样，",
+      "noteIds": ["n-taishou"]
+    },
+    {
+      "text": "亲射虎，",
+      "pinyin": ["qīn", "shè", "hǔ"],
+      "translation": "亲手射杀猛虎，",
+      "noteIds": []
+    },
+    {
+      "text": "看孙郎。",
+      "pinyin": ["kàn", "sūn", "láng"],
+      "translation": "让大家看看这位“孙郎”。",
+      "noteIds": ["n-sunlang"]
+    },
+    {
+      "text": "酒酣胸胆尚开张，",
+      "pinyin": ["jiǔ", "hān", "xiōng", "dǎn", "shàng", "kāi", "zhāng"],
+      "translation": "喝到畅快时，胸怀和胆气更加豪壮，",
+      "noteIds": ["n-jiuhan"]
+    },
+    {
+      "text": "鬓微霜，",
+      "pinyin": ["bìn", "wēi", "shuāng"],
+      "translation": "鬓角虽然白了些，",
+      "noteIds": []
+    },
+    {
+      "text": "又何妨！",
+      "pinyin": ["yòu", "hé", "fáng"],
+      "translation": "那又有什么关系！",
+      "noteIds": []
+    },
+    {
+      "text": "持节云中，",
+      "pinyin": ["chí", "jié", "yún", "zhōng"],
+      "translation": "像朝廷拿着符节到云中去赦免魏尚那样，",
+      "noteIds": ["n-chijie"]
+    },
+    {
+      "text": "何日遣冯唐？",
+      "pinyin": ["hé", "rì", "qiǎn", "féng", "táng"],
+      "translation": "什么时候才能派冯唐来重新起用我呢？",
+      "noteIds": ["n-fengtang"]
+    },
+    {
+      "text": "会挽雕弓如满月，",
+      "pinyin": ["huì", "wǎn", "diāo", "gōng", "rú", "mǎn", "yuè"],
+      "translation": "到那时我一定把雕弓拉得像满月一样，",
+      "noteIds": []
+    },
+    {
+      "text": "西北望，",
+      "pinyin": ["xī", "běi", "wàng"],
+      "translation": "朝着西北方向瞄准，",
+      "noteIds": []
+    },
+    {
+      "text": "射天狼。",
+      "pinyin": ["shè", "tiān", "láng"],
+      "translation": "把来犯的天狼星射下来。",
+      "noteIds": ["n-tianlang"]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-liaofa",
+      "word": "聊发",
+      "pinyin": "liáo fā",
+      "meaning": "姑且抒发一回。"
+    },
+    {
+      "id": "n-diaoqiu",
+      "word": "貂裘",
+      "pinyin": "diāo qiú",
+      "meaning": "貂皮做的袍子。"
+    },
+    {
+      "id": "n-qianqi",
+      "word": "千骑",
+      "pinyin": "qiān jì",
+      "meaning": "形容随从车马很多，一人一马叫一骑。"
+    },
+    {
+      "id": "n-taishou",
+      "word": "太守",
+      "pinyin": "tài shǒu",
+      "meaning": "州的长官，这里指苏轼自己。"
+    },
+    {
+      "id": "n-sunlang",
+      "word": "孙郎",
+      "pinyin": "sūn láng",
+      "meaning": "孙权。他年轻时曾亲自骑马射虎。"
+    },
+    {
+      "id": "n-jiuhan",
+      "word": "酒酣",
+      "pinyin": "jiǔ hān",
+      "meaning": "酒喝得畅快尽兴。"
+    },
+    {
+      "id": "n-chijie",
+      "word": "持节",
+      "pinyin": "chí jié",
+      "meaning": "拿着代表朝廷命令的符节。"
+    },
+    {
+      "id": "n-fengtang",
+      "word": "遣冯唐",
+      "pinyin": "qiǎn féng táng",
+      "meaning": "汉文帝时云中太守魏尚获罪，冯唐进言后，文帝派冯唐持节赦免魏尚、官复原职。苏轼以魏尚自比，盼朝廷重新重用他。"
+    },
+    {
+      "id": "n-tianlang",
+      "word": "天狼",
+      "pinyin": "tiān láng",
+      "meaning": "天狼星。古人认为它主侵略，这里指西北边境进犯的西夏。"
+    }
+  ],
+  "translation": "我这老头子也要学少年人狂放一回：左手牵着黄狗，右臂托着苍鹰，随从们锦帽貂裘，大队人马像风一样卷过山冈。为了报答全城百姓跟随太守观猎的情意，我要亲手射只老虎，让大家看看当年的孙郎。喝得畅快时胸怀更加豪壮，鬓角虽已花白，又有什么关系！什么时候朝廷才像派冯唐持节赦免魏尚那样，重新起用我呢？到那时我一定把雕弓拉得像满月，朝西北瞄准，把天狼星射下来。",
+  "appreciation": "这首词是苏轼豪放词的开山之作。上片写打猎像写打仗：牵黄擎苍、千骑卷冈，场面轰轰烈烈；“老夫聊发少年狂”一个“狂”字撑起了全篇。下片借酒抒怀，鬓虽白而志不减，用冯唐持节的典故盼朝廷重用，最后“会挽雕弓如满月，西北望，射天狼”，把打猎的豪兴一下子升到杀敌报国的壮志。词到他手中，不再只是唱唱儿女情长，也能写英雄气概了。",
+  "background": "1075 年苏轼任密州知州。那年冬天，他和同僚出城打猎，全城百姓争相观看，气氛热烈。苏轼觉得痛快淋漓，写了这首词给朋友鲜于子骏，说自己近作“虽无柳七郎风味，亦自是一家”。当时西北边境正受西夏威胁，他借出猎抒发了请战报国的心愿。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "牵黄擎苍",
+      "text": "苏轼自称老夫却发少年狂，左手牵狗、右臂架鹰出城打猎。"
+    },
+    {
+      "step": 2,
+      "title": "千骑卷冈",
+      "text": "随从锦帽貂裘，大队人马飞驰而过，卷过平坦的山冈。"
+    },
+    {
+      "step": 3,
+      "title": "酒酣豪语",
+      "text": "酒到酣处豪气冲天，他说鬓发白点又何妨，还盼朝廷重用。"
+    },
+    {
+      "step": 4,
+      "title": "弯弓射狼",
+      "text": "他想象自己拉满雕弓，望向西北，把代表来犯敌人的天狼星射落。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "擎",
+      "reading": "qíng",
+      "reason": "“擎苍”指用臂膀托举着苍鹰。"
+    },
+    {
+      "char": "骑",
+      "reading": "jì",
+      "reason": "“千骑”指众多的车马，一人一马叫一骑。",
+      "standard": "作量词不读 qí"
+    },
+    {
+      "char": "发",
+      "reading": "fā",
+      "reason": "“聊发”是姑且抒发的意思。",
+      "standard": "这里不读 fà"
+    }
+  ],
+  "sources": [
+    "《东坡乐府》",
+    "部编版语文九年级下册"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 2005
+}

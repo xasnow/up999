@@ -1,0 +1,139 @@
+{
+  "id": "qita-hanwei-taoyuanming-guiyuantianju-qi3",
+  "slug": "guiyuantianju-qi3",
+  "title": "归园田居·其三",
+  "titlePinyin": "guī yuán tián jū · qí sān",
+  "dynasty": "qita",
+  "era": "hanwei",
+  "genre": "shi",
+  "form": "五言古诗",
+  "authorId": "taoyuanming",
+  "gradeBand": "ext",
+  "difficulty": 3,
+  "tags": ["田园", "五言古诗", "月亮", "劳动"],
+  "writtenYear": 406,
+  "writtenLabel": "公元 406 年（义熙二年，陶渊明辞官归隐次年，躬耕田园时所作）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "晨兴理荒秽，带月荷锄归。",
+    "衣沾不足惜，但使愿无违。"
+  ],
+  "lines": [
+    {
+      "text": "种豆南山下，",
+      "pinyin": ["zhòng", "dòu", "nán", "shān", "xià"],
+      "translation": "我在南山脚下种豆子，",
+      "noteIds": []
+    },
+    {
+      "text": "草盛豆苗稀。",
+      "pinyin": ["cǎo", "shèng", "dòu", "miáo", "xī"],
+      "translation": "地里野草长得茂盛，豆苗却很稀少。",
+      "noteIds": ["n-sheng"]
+    },
+    {
+      "text": "晨兴理荒秽，",
+      "pinyin": ["chén", "xīng", "lǐ", "huāng", "huì"],
+      "translation": "清晨早起去清理田里的杂草，",
+      "noteIds": ["n-chenxing", "n-huanghui"]
+    },
+    {
+      "text": "带月荷锄归。",
+      "pinyin": ["dài", "yuè", "hè", "chú", "guī"],
+      "translation": "傍晚顶着月亮，扛着锄头回家。",
+      "noteIds": ["n-he"]
+    },
+    {
+      "text": "道狭草木长，",
+      "pinyin": ["dào", "xiá", "cǎo", "mù", "cháng"],
+      "translation": "田间小路窄窄的，草木长得又高又密，",
+      "noteIds": ["n-caomuchang"]
+    },
+    {
+      "text": "夕露沾我衣。",
+      "pinyin": ["xī", "lù", "zhān", "wǒ", "yī"],
+      "translation": "傍晚的露水沾湿了我的衣裳。",
+      "noteIds": ["n-xilu"]
+    },
+    {
+      "text": "衣沾不足惜，",
+      "pinyin": ["yī", "zhān", "bù", "zú", "xī"],
+      "translation": "衣服湿了并不值得惋惜，",
+      "noteIds": []
+    },
+    {
+      "text": "但使愿无违。",
+      "pinyin": ["dàn", "shǐ", "yuàn", "wú", "wéi"],
+      "translation": "只要不违背归隐田园的心愿就好。",
+      "noteIds": ["n-danshi", "n-yuanwuwei"]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-sheng",
+      "word": "盛",
+      "pinyin": "shèng",
+      "meaning": "茂盛。草盛，就是野草长得多而密。"
+    },
+    {
+      "id": "n-chenxing",
+      "word": "晨兴",
+      "pinyin": "chén xīng",
+      "meaning": "早晨起床。兴：xīng，起身、起来。"
+    },
+    {
+      "id": "n-huanghui",
+      "word": "荒秽",
+      "pinyin": "huāng huì",
+      "meaning": "荒地里的杂草。秽：huì，杂草、脏东西。"
+    },
+    {
+      "id": "n-he",
+      "word": "荷",
+      "pinyin": "hè",
+      "meaning": "扛着、挑着。这里的“荷”不是荷花的荷。"
+    },
+    {
+      "id": "n-caomuchang",
+      "word": "草木长",
+      "pinyin": "cǎo mù cháng",
+      "meaning": "草木长得又长又密，把小路都遮住了。长：这里读 cháng。"
+    },
+    {
+      "id": "n-xilu",
+      "word": "夕露",
+      "pinyin": "xī lù",
+      "meaning": "傍晚的露水。"
+    },
+    {
+      "id": "n-danshi",
+      "word": "但使",
+      "pinyin": "dàn shǐ",
+      "meaning": "只要。"
+    },
+    {
+      "id": "n-yuanwuwei",
+      "word": "愿无违",
+      "pinyin": "yuàn wú wéi",
+      "meaning": "不违背自己的心愿，这里指归隐耕作的心愿。违：wéi，违背。"
+    }
+  ],
+  "translation": "我在南山脚下种豆子，地里野草长得茂盛，豆苗却很稀少。清晨早起去清理田里的杂草，傍晚顶着月亮，扛着锄头回家。田间小路窄窄的，草木长得又高又密，傍晚的露水沾湿了我的衣裳。衣服湿了并不值得惋惜，只要不违背归隐田园的心愿就好。",
+  "appreciation": "这首诗写得像一篇劳动日记。诗人亲手在南山下种豆，草比苗多，他也老老实实地写出来，一点也不装样子。最动人的是“带月荷锄归”：月亮升起来了，一个人扛着锄头走在窄窄的田埂上，虽然劳累，心里却踏实。因为种地是他自己选的生活，“愿无违”三个字，就是全诗的心里话。",
+  "background": "公元405年，陶渊明辞去彭泽县令，从此归隐田园，第二年写下组诗《归园田居》。这首是第三首，写的就是他种豆锄草的一天：清晨出门劳作，直到月亮升起才扛着锄头回家。",
+  "storyline": [
+    { "step": 1, "title": "南山种豆", "text": "诗人在南山脚下开出一块豆田，亲手播下豆种。" },
+    { "step": 2, "title": "早起锄草", "text": "天刚亮他就下地清理荒草，可田里草多苗稀，活儿实在不少。" },
+    { "step": 3, "title": "带月而归", "text": "月亮升起来了，他扛着锄头，沿着窄窄的小路往家走。" },
+    { "step": 4, "title": "衣湿心不悔", "text": "露水打湿衣裳，他一点也不心疼，只要心愿不被违背就满足。" }
+  ],
+  "pinyinNotes": [
+    { "char": "荷", "reading": "hè", "reason": "“带月荷锄归”的“荷”是扛着的意思，读 hè。", "standard": "不要读成 hé（荷花的荷）" },
+    { "char": "秽", "reading": "huì", "reason": "“荒秽”指田里的杂草，读 huì。", "standard": "不要误读成 suì" },
+    { "char": "兴", "reading": "xīng", "reason": "“晨兴”是早晨起床的意思，读 xīng。", "standard": "不要读成 xìng" }
+  ],
+  "sources": ["《陶渊明集》"],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 3007
+}

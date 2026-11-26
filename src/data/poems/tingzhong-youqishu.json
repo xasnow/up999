@@ -1,0 +1,175 @@
+{
+  "id": "qita-hanwei-gushishijiu-tingzhong-youqishu",
+  "slug": "tingzhong-youqishu",
+  "title": "庭中有奇树",
+  "titlePinyin": "tíng zhōng yǒu qí shù",
+  "dynasty": "qita",
+  "era": "hanwei",
+  "genre": "shi",
+  "form": "五言古诗",
+  "authorId": "gushishijiu",
+  "gradeBand": "ext",
+  "difficulty": 3,
+  "tags": ["思念", "五言古诗", "花开"],
+  "writtenYear": 180,
+  "writtenLabel": "东汉末年（《古诗十九首》之一）",
+  "orderInAuthor": 4,
+  "famousLines": [
+    "馨香盈怀袖，路远莫致之。"
+  ],
+  "lines": [
+    {
+      "text": "庭中有奇树，",
+      "pinyin": ["tíng", "zhōng", "yǒu", "qí", "shù"],
+      "translation": "庭院里长着一棵美好的树，",
+      "noteIds": ["n-qishu"]
+    },
+    {
+      "text": "绿叶发华滋。",
+      "pinyin": ["lǜ", "yè", "fā", "huā", "zī"],
+      "translation": "绿叶间开出繁盛的花朵。",
+      "noteIds": ["n-fahuazi"]
+    },
+    {
+      "text": "攀条折其荣，",
+      "pinyin": ["pān", "tiáo", "zhé", "qí", "róng"],
+      "translation": "我攀着枝条，折下一枝花，",
+      "noteIds": ["n-rong"]
+    },
+    {
+      "text": "将以遗所思。",
+      "pinyin": ["jiāng", "yǐ", "wèi", "suǒ", "sī"],
+      "translation": "想把它送给心里想念的人。",
+      "noteIds": ["n-wei"]
+    },
+    {
+      "text": "馨香盈怀袖，",
+      "pinyin": ["xīn", "xiāng", "yíng", "huái", "xiù"],
+      "translation": "花的香气充满了衣襟和衣袖，",
+      "noteIds": ["n-xinxiang", "n-ying"]
+    },
+    {
+      "text": "路远莫致之。",
+      "pinyin": ["lù", "yuǎn", "mò", "zhì", "zhī"],
+      "translation": "可是路途遥远，怎么也送不到他手中。",
+      "noteIds": ["n-zhi"]
+    },
+    {
+      "text": "此物何足贵？",
+      "pinyin": ["cǐ", "wù", "hé", "zú", "guì"],
+      "translation": "这花有什么稀罕、值得珍贵呢？",
+      "noteIds": []
+    },
+    {
+      "text": "但感别经时。",
+      "pinyin": ["dàn", "gǎn", "bié", "jīng", "shí"],
+      "translation": "只是离别太久了，见花更觉思念深。",
+      "noteIds": ["n-dan", "n-jingshi"]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-qishu",
+      "word": "奇树",
+      "pinyin": "qí shù",
+      "meaning": "美好的树。奇：美好、奇异。"
+    },
+    {
+      "id": "n-fahuazi",
+      "word": "发华滋",
+      "pinyin": "fā huā zī",
+      "meaning": "开出繁盛的花。华：同“花”；滋：繁盛。"
+    },
+    {
+      "id": "n-rong",
+      "word": "荣",
+      "pinyin": "róng",
+      "meaning": "花。"
+    },
+    {
+      "id": "n-wei",
+      "word": "遗",
+      "pinyin": "wèi",
+      "meaning": "赠送。"
+    },
+    {
+      "id": "n-xinxiang",
+      "word": "馨香",
+      "pinyin": "xīn xiāng",
+      "meaning": "散布很远的香气。"
+    },
+    {
+      "id": "n-ying",
+      "word": "盈",
+      "pinyin": "yíng",
+      "meaning": "充满。"
+    },
+    {
+      "id": "n-zhi",
+      "word": "致",
+      "pinyin": "zhì",
+      "meaning": "送达。“莫致之”是没法把它送到。"
+    },
+    {
+      "id": "n-dan",
+      "word": "但",
+      "pinyin": "dàn",
+      "meaning": "只是。"
+    },
+    {
+      "id": "n-jingshi",
+      "word": "别经时",
+      "pinyin": "bié jīng shí",
+      "meaning": "离别已经很长时间了。经时：经过很长的时间。"
+    }
+  ],
+  "translation": "庭院里长着一棵美好的树，绿叶间开出繁盛的花朵。我攀着枝条折下一枝花，想把它送给心里想念的人。花的香气充满了衣襟和衣袖，可是路途遥远，怎么也送不到他手中。这花有什么稀罕、值得珍贵呢？只是离别太久了，见花更觉思念深。",
+  "appreciation": "全诗只写一件小事：折一枝花，想送给远方的人。树还是那棵树，花开得正好，人却不在身边。香气“盈”满怀袖，花越香，越送不出去，思念就越满。结尾最妙：诗人自己承认“此物何足贵”——花本来不值什么，珍贵的从来不是花，而是折花的人和一起度过的时光。以小见大，正是古诗十九首朴素动人的本事。",
+  "background": "本诗出自《古诗十九首》，写于东汉末年。古人有折花寄远的习惯，想把心爱的花草送给远方思念的人。这首诗以思妇的口吻，写庭中花开满树，勾起她对久别之人的想念，是一首典型的闺怨诗。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "庭树开花",
+      "text": "庭院里那棵树枝叶葱葱，开出满树繁花，春天来到了小院。"
+    },
+    {
+      "step": 2,
+      "title": "攀条折花",
+      "text": "她攀着枝条折下一枝花，想送给远方思念的那个人。"
+    },
+    {
+      "step": 3,
+      "title": "香满难寄",
+      "text": "花香装满了她的衣袖，可路途遥远，花怎么也送不到。"
+    },
+    {
+      "step": 4,
+      "title": "见花思人",
+      "text": "花本不值什么，只是离别太久了，花开满树，思念也满心。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "华",
+      "reading": "huā",
+      "reason": "“发华滋”的“华”同“花”，指开花。",
+      "standard": "不读 huá"
+    },
+    {
+      "char": "遗",
+      "reading": "wèi",
+      "reason": "“将以遗所思”的“遗”是赠送的意思。",
+      "standard": "不读 yí"
+    },
+    {
+      "char": "馨",
+      "reading": "xīn",
+      "reason": "“馨香”指散布很远的香气。",
+      "standard": "不要读成 qìng"
+    }
+  ],
+  "sources": ["《文选》", "《古诗十九首》"],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 3003
+}

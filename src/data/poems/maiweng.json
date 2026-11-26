@@ -1,0 +1,328 @@
+{
+  "id": "tang-zhongtang-baijuyi-maiweng",
+  "slug": "maiweng",
+  "title": "卖炭翁",
+  "titlePinyin": "mài tàn wēng",
+  "dynasty": "tangshi",
+  "era": "zhongtang",
+  "genre": "shi",
+  "form": "七言古诗",
+  "authorId": "baijuyi",
+  "gradeBand": "ext",
+  "tags": [
+    "劳动",
+    "七言古诗",
+    "冬天",
+    "雪天"
+  ],
+  "difficulty": 3,
+  "writtenYear": 809,
+  "writtenLabel": "约公元 809 年（白居易 37 岁，在长安任左拾遗，作《新乐府》）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "满面尘灰烟火色，两鬓苍苍十指黑。",
+    "可怜身上衣正单，心忧炭贱愿天寒。"
+  ],
+  "lines": [
+    {
+      "text": "卖炭翁，",
+      "pinyin": ["mài", "tàn", "wēng"],
+      "translation": "有一个卖炭的老翁，",
+      "noteIds": []
+    },
+    {
+      "text": "伐薪烧炭南山中。",
+      "pinyin": ["fá", "xīn", "shāo", "tàn", "nán", "shān", "zhōng"],
+      "translation": "整年在终南山里砍柴烧炭。",
+      "noteIds": ["n-xin"]
+    },
+    {
+      "text": "满面尘灰烟火色，",
+      "pinyin": ["mǎn", "miàn", "chén", "huī", "yān", "huǒ", "sè"],
+      "translation": "他满面灰尘，脸上全是烟熏火燎的颜色，",
+      "noteIds": []
+    },
+    {
+      "text": "两鬓苍苍十指黑。",
+      "pinyin": ["liǎng", "bìn", "cāng", "cāng", "shí", "zhǐ", "hēi"],
+      "translation": "两鬓头发花白，十个手指头被炭染得乌黑。",
+      "noteIds": ["n-bin", "n-cangcang"]
+    },
+    {
+      "text": "卖炭得钱何所营？",
+      "pinyin": ["mài", "tàn", "dé", "qián", "hé", "suǒ", "yíng"],
+      "translation": "卖炭得到的钱用来做什么？",
+      "noteIds": ["n-ying"]
+    },
+    {
+      "text": "身上衣裳口中食。",
+      "pinyin": ["shēn", "shàng", "yī", "shang", "kǒu", "zhōng", "shí"],
+      "translation": "只换身上的衣服和口中的饭食。",
+      "noteIds": ["n-yishang"]
+    },
+    {
+      "text": "可怜身上衣正单，",
+      "pinyin": ["kě", "lián", "shēn", "shàng", "yī", "zhèng", "dān"],
+      "translation": "可怜他身上的衣服那样单薄，",
+      "noteIds": ["n-dan"]
+    },
+    {
+      "text": "心忧炭贱愿天寒。",
+      "pinyin": ["xīn", "yōu", "tàn", "jiàn", "yuàn", "tiān", "hán"],
+      "translation": "心里却担心炭价太低，盼望天气更冷一些。",
+      "noteIds": ["n-jian"]
+    },
+    {
+      "text": "夜来城外一尺雪，",
+      "pinyin": ["yè", "lái", "chéng", "wài", "yī", "chǐ", "xuě"],
+      "translation": "昨夜城外下了一尺厚的大雪，",
+      "noteIds": []
+    },
+    {
+      "text": "晓驾炭车辗冰辙。",
+      "pinyin": ["xiǎo", "jià", "tàn", "chē", "zhǎn", "bīng", "zhé"],
+      "translation": "天刚亮他就赶着炭车，轧过结了冰的车辙。",
+      "noteIds": ["n-zhan", "n-zhe"]
+    },
+    {
+      "text": "牛困人饥日已高，",
+      "pinyin": ["niú", "kùn", "rén", "jī", "rì", "yǐ", "gāo"],
+      "translation": "牛累了，人饿了，太阳已经升得老高，",
+      "noteIds": []
+    },
+    {
+      "text": "市南门外泥中歇。",
+      "pinyin": ["shì", "nán", "mén", "wài", "ní", "zhōng", "xiē"],
+      "translation": "他只好在集市南门外的泥地里歇脚。",
+      "noteIds": []
+    },
+    {
+      "text": "翩翩两骑来是谁？",
+      "pinyin": ["piān", "piān", "liǎng", "jì", "lái", "shì", "shuí"],
+      "translation": "那轻快得意的两个骑马人是谁？",
+      "noteIds": ["n-pianpian", "n-ji"]
+    },
+    {
+      "text": "黄衣使者白衫儿。",
+      "pinyin": ["huáng", "yī", "shǐ", "zhě", "bái", "shān", "ér"],
+      "translation": "是穿黄衣的太监和穿白衫的差役。",
+      "noteIds": ["n-huangyi", "n-baishan"]
+    },
+    {
+      "text": "手把文书口称敕，",
+      "pinyin": ["shǒu", "bǎ", "wén", "shū", "kǒu", "chēng", "chì"],
+      "translation": "他们手里拿着文书，口口声声说是皇帝的命令，",
+      "noteIds": ["n-chi"]
+    },
+    {
+      "text": "回车叱牛牵向北。",
+      "pinyin": ["huí", "chē", "chì", "niú", "qiān", "xiàng", "běi"],
+      "translation": "吆喝着牛调转车头，把炭车往北边皇宫方向拉走。",
+      "noteIds": ["n-chinu"]
+    },
+    {
+      "text": "一车炭，千余斤，",
+      "pinyin": ["yī", "chē", "tàn", "qiān", "yú", "jīn"],
+      "translation": "一车炭，足有千多斤，",
+      "noteIds": []
+    },
+    {
+      "text": "宫使驱将惜不得。",
+      "pinyin": ["gōng", "shǐ", "qū", "jiāng", "xī", "bù", "dé"],
+      "translation": "宫使硬赶着走，老人心疼也留不住。",
+      "noteIds": ["n-qu", "n-jiang"]
+    },
+    {
+      "text": "半匹红纱一丈绫，",
+      "pinyin": ["bàn", "pǐ", "hóng", "shā", "yī", "zhàng", "líng"],
+      "translation": "那半匹红纱和一丈绫子，",
+      "noteIds": ["n-sha", "n-ling"]
+    },
+    {
+      "text": "系向牛头充炭直。",
+      "pinyin": ["xì", "xiàng", "niú", "tóu", "chōng", "tàn", "zhí"],
+      "translation": "被拴在牛头上，就算买炭的钱了。",
+      "noteIds": ["n-xi", "n-zhi"]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-xin",
+      "word": "薪",
+      "pinyin": "xīn",
+      "meaning": "柴草。“伐薪”就是上山砍柴。"
+    },
+    {
+      "id": "n-cangcang",
+      "word": "苍苍",
+      "pinyin": "cāng cāng",
+      "meaning": "灰白色，形容两鬓头发花白。"
+    },
+    {
+      "id": "n-bin",
+      "word": "鬓",
+      "pinyin": "bìn",
+      "meaning": "脸旁靠近耳朵的头发。"
+    },
+    {
+      "id": "n-ying",
+      "word": "营",
+      "pinyin": "yíng",
+      "meaning": "谋求、打算。“何所营”就是图个什么。"
+    },
+    {
+      "id": "n-yishang",
+      "word": "衣裳",
+      "pinyin": "yī shang",
+      "meaning": "衣服。裳在这里读轻声 shang。"
+    },
+    {
+      "id": "n-dan",
+      "word": "单",
+      "pinyin": "dān",
+      "meaning": "单薄。“衣正单”就是衣服正单薄。"
+    },
+    {
+      "id": "n-jian",
+      "word": "贱",
+      "pinyin": "jiàn",
+      "meaning": "价钱低。“炭贱”就是炭卖不上价钱。"
+    },
+    {
+      "id": "n-zhan",
+      "word": "辗",
+      "pinyin": "zhǎn",
+      "meaning": "轧、碾。“辗冰辙”就是车轮轧过结了冰的路面。"
+    },
+    {
+      "id": "n-zhe",
+      "word": "辙",
+      "pinyin": "zhé",
+      "meaning": "车轮压出的槽印。"
+    },
+    {
+      "id": "n-pianpian",
+      "word": "翩翩",
+      "pinyin": "piān piān",
+      "meaning": "轻快得意的样子，这里写宫使骑马而来的神气。"
+    },
+    {
+      "id": "n-ji",
+      "word": "骑",
+      "pinyin": "jì",
+      "meaning": "指骑马的人。“两骑”就是两个骑马的人，骑读 jì。"
+    },
+    {
+      "id": "n-huangyi",
+      "word": "黄衣使者",
+      "pinyin": "huáng yī shǐ zhě",
+      "meaning": "指穿黄衣的宫中太监。"
+    },
+    {
+      "id": "n-baishan",
+      "word": "白衫儿",
+      "pinyin": "bái shān ér",
+      "meaning": "太监手下帮着抢东西的差役。"
+    },
+    {
+      "id": "n-chi",
+      "word": "敕",
+      "pinyin": "chì",
+      "meaning": "皇帝的命令。“口称敕”就是嘴里喊着皇上的命令。"
+    },
+    {
+      "id": "n-chinu",
+      "word": "叱",
+      "pinyin": "chì",
+      "meaning": "大声呵斥。“叱牛”就是吆喝着牛。"
+    },
+    {
+      "id": "n-qu",
+      "word": "驱",
+      "pinyin": "qū",
+      "meaning": "赶、驱赶，写宫使硬逼着老人赶车走。"
+    },
+    {
+      "id": "n-jiang",
+      "word": "将",
+      "pinyin": "jiāng",
+      "meaning": "助词，用在动词后面，没有实在意思。"
+    },
+    {
+      "id": "n-sha",
+      "word": "红纱",
+      "pinyin": "hóng shā",
+      "meaning": "红色的薄丝织品，这里指宫使拿来抵炭价的旧纱。"
+    },
+    {
+      "id": "n-ling",
+      "word": "绫",
+      "pinyin": "líng",
+      "meaning": "一种很薄的花丝织品。"
+    },
+    {
+      "id": "n-xi",
+      "word": "系",
+      "pinyin": "jì",
+      "meaning": "打结、拴挂。“系向牛头”就是把纱和绫拴在牛头上。"
+    },
+    {
+      "id": "n-zhi",
+      "word": "直",
+      "pinyin": "zhí",
+      "meaning": "同“值”，价钱。“充炭直”就是当作炭的价钱。"
+    }
+  ],
+  "translation": "有一个卖炭的老翁，整年在终南山里砍柴烧炭。他满面灰尘，脸上全是烟熏火燎的颜色，两鬓头发花白，十个手指头被炭染得乌黑。卖炭得到的钱用来做什么？只换身上的衣服和口中的饭食。可怜他身上的衣服那样单薄，心里却担心炭价太低，盼望天气更冷一些。昨夜城外下了一尺厚的大雪，天刚亮他就赶着炭车，轧过结了冰的车辙。牛累了，人饿了，太阳已经升得老高，他只好在集市南门外的泥地里歇脚。那轻快得意的两个骑马人是谁？是穿黄衣的太监和穿白衫的差役。他们手里拿着文书，口口声声说是皇帝的命令，吆喝着牛调转车头，把炭车往北边皇宫方向拉走。一车炭，足有千多斤，宫使硬赶着走，老人心疼也留不住。那半匹红纱和一丈绫子，被拴在牛头上，就算买炭的钱了。",
+  "appreciation": "这首诗最让人心疼的是两处“矛盾”：老人衣衫单薄，却盼望天更冷，好让炭卖个好价；炭被抢走，他却“惜不得”，连一句反抗都不敢说。白居易不动声色地一路写下来，老人的可怜和宫使的蛮横全在里面了。结尾半匹纱、一丈绫挂在牛头上，像一张收据，也像一声叹息——这就是“苦宫市”三个字的力量。",
+  "background": "《卖炭翁》是白居易《新乐府》五十首中的一首，题目下他自己注明写的是“苦宫市也”。宫市就是宫里派太监到街上强买东西的陋习，拿几句文书就能把老百姓的东西白白抢走。约公元 809 年，白居易在长安做左拾遗，便用这首诗替受苦的百姓说话。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "烧炭艰辛",
+      "text": "老人在终南山里砍柴烧炭，满面烟火色，十指乌黑。"
+    },
+    {
+      "step": 2,
+      "title": "雪天卖炭",
+      "text": "夜里下了一尺雪，老人盼着天冷炭价高，天不亮就赶车进城。"
+    },
+    {
+      "step": 3,
+      "title": "宫使掠夺",
+      "text": "黄衣太监拿着文书口称敕令，硬把一车炭往皇宫方向拉走。"
+    },
+    {
+      "step": 4,
+      "title": "炭换破纱",
+      "text": "千余斤炭，只换来牛头上系着的半匹红纱、一丈绫。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "骑",
+      "reading": "jì",
+      "reason": "“翩翩两骑”指两个骑马的人，“骑”作名词读 jì。",
+      "standard": "不要读成 qí"
+    },
+    {
+      "char": "敕",
+      "reading": "chì",
+      "reason": "“敕”是皇帝的命令，读 chì。",
+      "standard": "不要读成 shì"
+    },
+    {
+      "char": "系",
+      "reading": "jì",
+      "reason": "“系向牛头”的“系”是拴、挂的意思，读 jì。",
+      "standard": "不要读成 xì"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《白居易集》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 3010
+}

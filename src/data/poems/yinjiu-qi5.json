@@ -1,0 +1,157 @@
+{
+  "id": "qita-hanwei-taoyuanming-yinjiu-qi5",
+  "slug": "yinjiu-qi5",
+  "title": "饮酒·其五",
+  "titlePinyin": "yǐn jiǔ · qí wǔ",
+  "dynasty": "qita",
+  "era": "hanwei",
+  "genre": "shi",
+  "form": "五言古诗",
+  "authorId": "taoyuanming",
+  "gradeBand": "ext",
+  "difficulty": 3,
+  "tags": ["田园", "五言古诗", "菊花", "飞鸟"],
+  "writtenYear": 417,
+  "writtenLabel": "约公元 417 年（陶渊明晚年归隐期间所作，《饮酒》组诗共二十首，这是第五首）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "采菊东篱下，悠然见南山。",
+    "问君何能尔？心远地自偏。"
+  ],
+  "lines": [
+    {
+      "text": "结庐在人境，",
+      "pinyin": ["jié", "lú", "zài", "rén", "jìng"],
+      "translation": "我把家安在人来人往的地方，",
+      "noteIds": ["n-jielu"]
+    },
+    {
+      "text": "而无车马喧。",
+      "pinyin": ["ér", "wú", "chē", "mǎ", "xuān"],
+      "translation": "却听不到车马的喧闹。",
+      "noteIds": ["n-chemaxuan"]
+    },
+    {
+      "text": "问君何能尔？",
+      "pinyin": ["wèn", "jūn", "hé", "néng", "ěr"],
+      "translation": "问我怎么能这样？",
+      "noteIds": ["n-nenger"]
+    },
+    {
+      "text": "心远地自偏。",
+      "pinyin": ["xīn", "yuǎn", "dì", "zì", "piān"],
+      "translation": "只要心离世俗远了，住的地方自然就清静了。",
+      "noteIds": []
+    },
+    {
+      "text": "采菊东篱下，",
+      "pinyin": ["cǎi", "jú", "dōng", "lí", "xià"],
+      "translation": "在东边的篱笆下采摘菊花，",
+      "noteIds": []
+    },
+    {
+      "text": "悠然见南山。",
+      "pinyin": ["yōu", "rán", "jiàn", "nán", "shān"],
+      "translation": "不经意一抬头，悠悠地望见了南山。",
+      "noteIds": ["n-nanshan"]
+    },
+    {
+      "text": "山气日夕佳，",
+      "pinyin": ["shān", "qì", "rì", "xī", "jiā"],
+      "translation": "傍晚的山间云气真好，",
+      "noteIds": ["n-shanqi", "n-rixi"]
+    },
+    {
+      "text": "飞鸟相与还。",
+      "pinyin": ["fēi", "niǎo", "xiāng", "yǔ", "huán"],
+      "translation": "飞鸟结伴回巢。",
+      "noteIds": ["n-xiangyuhuan"]
+    },
+    {
+      "text": "此中有真意，",
+      "pinyin": ["cǐ", "zhōng", "yǒu", "zhēn", "yì"],
+      "translation": "这里头藏着人生的真意，",
+      "noteIds": ["n-zhenyi"]
+    },
+    {
+      "text": "欲辨已忘言。",
+      "pinyin": ["yù", "biàn", "yǐ", "wàng", "yán"],
+      "translation": "想把它说清楚，却已经忘了该怎么用语言表达。",
+      "noteIds": ["n-bian"]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-jielu",
+      "word": "结庐",
+      "pinyin": "jié lú",
+      "meaning": "建造房屋。结：jié，建造；庐：lú，简陋的屋子。"
+    },
+    {
+      "id": "n-chemaxuan",
+      "word": "车马喧",
+      "pinyin": "chē mǎ xuān",
+      "meaning": "车马的喧闹声，指世俗间交往应酬的热闹。"
+    },
+    {
+      "id": "n-nenger",
+      "word": "何能尔",
+      "pinyin": "hé néng ěr",
+      "meaning": "怎样才能这样。尔：ěr，如此、这样。"
+    },
+    {
+      "id": "n-nanshan",
+      "word": "南山",
+      "pinyin": "nán shān",
+      "meaning": "南边的山，一说指庐山。"
+    },
+    {
+      "id": "n-shanqi",
+      "word": "山气",
+      "pinyin": "shān qì",
+      "meaning": "山间的云气、雾气。"
+    },
+    {
+      "id": "n-rixi",
+      "word": "日夕",
+      "pinyin": "rì xī",
+      "meaning": "傍晚。"
+    },
+    {
+      "id": "n-xiangyuhuan",
+      "word": "相与还",
+      "pinyin": "xiāng yǔ huán",
+      "meaning": "结伴回巢。还：huán，返回。"
+    },
+    {
+      "id": "n-zhenyi",
+      "word": "真意",
+      "pinyin": "zhēn yì",
+      "meaning": "人生真正的意义，这里指从田园生活中体会到的乐趣。"
+    },
+    {
+      "id": "n-bian",
+      "word": "辨",
+      "pinyin": "biàn",
+      "meaning": "辨别、说明。欲辨已忘言：想把它说清楚，却忘了该用什么话。"
+    }
+  ],
+  "translation": "我把家安在人来人往的地方，却听不到车马的喧闹。问我怎么能这样？只要心离世俗远了，住的地方自然就清静了。在东边的篱笆下采摘菊花，不经意一抬头，悠悠地望见了南山。傍晚的山间云气真好，飞鸟结伴回巢。这里头藏着人生的真意，想把它说清楚，却已经忘了该怎么用语言表达。",
+  "appreciation": "这首诗开头就像聊天：住在闹市里，为什么听不见车马的吵闹？因为心远了。“采菊东篱下，悠然见南山”是最有名的一句，一个“见”字用得妙——不是刻意去看，而是采菊时一抬头，南山自然撞进眼里。傍晚的云气、回巢的飞鸟，都那么自在。诗人不急着解释这种快乐，说想说时已经忘了怎么说，这才是真正的悠闲。",
+  "background": "《饮酒》是陶渊明归隐后写的一组诗，共二十首，都是酒后随想，这首是第五首，也是最著名的一首。当时他离开官场已经多年，日子清苦，却过得心安自在，这首诗写的就是他田园生活的从容。",
+  "storyline": [
+    { "step": 1, "title": "住在热闹处", "text": "诗人把家安在人烟聚集之地，却听不见车马的喧闹。" },
+    { "step": 2, "title": "心远地自偏", "text": "他自问自答：心里远离了名利，住处自然就清静了。" },
+    { "step": 3, "title": "东篱见南山", "text": "他在东篱下采菊，一抬头，悠悠然望见了南边的青山。" },
+    { "step": 4, "title": "飞鸟日夕还", "text": "傍晚山间云气美好，飞鸟结伴归巢，诗人悟出其中的真意。" }
+  ],
+  "pinyinNotes": [
+    { "char": "见", "reading": "jiàn", "reason": "“悠然见南山”的“见”是无意中望见，教材读 jiàn。", "standard": "一说读 xiàn，同“现”，通行为 jiàn" },
+    { "char": "还", "reading": "huán", "reason": "“相与还”是飞鸟结伴回巢，读 huán。", "standard": "不要读成 hái" },
+    { "char": "辨", "reading": "biàn", "reason": "“欲辨已忘言”的“辨”是辨别的辨，指想说明白，读 biàn。" }
+  ],
+  "sources": ["《陶渊明集》"],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 3008
+}

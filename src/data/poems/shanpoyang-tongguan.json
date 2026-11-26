@@ -1,0 +1,139 @@
+{
+  "id": "qita-yuandai-zhangyanghao-shanpoyang-tongguan",
+  "slug": "shanpoyang-tongguan",
+  "title": "山坡羊·潼关怀古",
+  "titlePinyin": "shān pō yáng · tóng guān huái gǔ",
+  "dynasty": "qita",
+  "era": "yuandai",
+  "genre": "ci",
+  "form": "曲（小令）",
+  "authorId": "zhangyanghao",
+  "gradeBand": "ext",
+  "difficulty": 3,
+  "tags": ["元曲", "怀古", "潼关", "小令"],
+  "writtenYear": 1329,
+  "writtenLabel": "公元 1329 年（天历二年，张养浩受命赴关中赈灾，途经潼关时所作）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "伤心秦汉经行处，宫阙万间都做了土。",
+    "兴，百姓苦；亡，百姓苦。"
+  ],
+  "lines": [
+    {
+      "text": "峰峦如聚，",
+      "pinyin": ["fēng", "luán", "rú", "jù"],
+      "translation": "群峰好像从四面八方聚集过来，",
+      "noteIds": ["n-fengluan"]
+    },
+    {
+      "text": "波涛如怒，",
+      "pinyin": ["bō", "tāo", "rú", "nù"],
+      "translation": "黄河的波涛好像在愤怒地咆哮，",
+      "noteIds": []
+    },
+    {
+      "text": "山河表里潼关路。",
+      "pinyin": ["shān", "hé", "biǎo", "lǐ", "tóng", "guān", "lù"],
+      "translation": "潼关这条路上，外有黄河、内有华山，地势十分险要。",
+      "noteIds": ["n-shanhebiaoli"]
+    },
+    {
+      "text": "望西都，",
+      "pinyin": ["wàng", "xī", "dū"],
+      "translation": "远远望向西都长安，",
+      "noteIds": ["n-xidu"]
+    },
+    {
+      "text": "意踌躇。",
+      "pinyin": ["yì", "chóu", "chú"],
+      "translation": "心里思绪重重，犹豫徘徊。",
+      "noteIds": ["n-chouchu"]
+    },
+    {
+      "text": "伤心秦汉经行处，",
+      "pinyin": ["shāng", "xīn", "qín", "hàn", "jīng", "xíng", "chù"],
+      "translation": "从秦汉宫城经过的地方，如今让人伤心不已，",
+      "noteIds": ["n-jingxingchu"]
+    },
+    {
+      "text": "宫阙万间都做了土。",
+      "pinyin": ["gōng", "què", "wàn", "jiān", "dōu", "zuò", "le", "tǔ"],
+      "translation": "万间宫殿都化作了尘土。",
+      "noteIds": ["n-gongque"]
+    },
+    {
+      "text": "兴，百姓苦；",
+      "pinyin": ["xīng", "bǎi", "xìng", "kǔ"],
+      "translation": "王朝兴盛，百姓受苦；",
+      "noteIds": ["n-xing"]
+    },
+    {
+      "text": "亡，百姓苦。",
+      "pinyin": ["wáng", "bǎi", "xìng", "kǔ"],
+      "translation": "王朝灭亡，百姓还是受苦。",
+      "noteIds": []
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-fengluan",
+      "word": "峰峦",
+      "pinyin": "fēng luán",
+      "meaning": "山峰。峦：luán，连绵的山。如聚：像聚集在一起，形容山多而密。"
+    },
+    {
+      "id": "n-shanhebiaoli",
+      "word": "山河表里",
+      "pinyin": "shān hé biǎo lǐ",
+      "meaning": "潼关外有黄河，内有华山（一说以黄河为表、华山为里），地势十分险要。"
+    },
+    {
+      "id": "n-xidu",
+      "word": "西都",
+      "pinyin": "xī dū",
+      "meaning": "指长安，西汉、东汉都曾建都于此。"
+    },
+    {
+      "id": "n-chouchu",
+      "word": "踌躇",
+      "pinyin": "chóu chú",
+      "meaning": "犹豫、徘徊，这里指心里不平静，思绪重重。"
+    },
+    {
+      "id": "n-jingxingchu",
+      "word": "经行处",
+      "pinyin": "jīng xíng chù",
+      "meaning": "经过的地方。秦汉经行处：秦汉以来历代王朝兴亡经过的地方。"
+    },
+    {
+      "id": "n-gongque",
+      "word": "宫阙",
+      "pinyin": "gōng què",
+      "meaning": "宫殿。阙：què，古代宫殿门前的望楼。"
+    },
+    {
+      "id": "n-xing",
+      "word": "兴",
+      "pinyin": "xīng",
+      "meaning": "兴旺、兴盛，与下文的“亡”相对，这里读 xīng。"
+    }
+  ],
+  "translation": "群峰好像从四面八方聚集过来，黄河的波涛好像在愤怒地咆哮，潼关这条路上外有黄河、内有华山，地势十分险要。远远望向西都长安，心里思绪重重。从秦汉宫城经过的地方，如今让人伤心不已，万间宫殿都化作了尘土。王朝兴盛，百姓受苦；王朝灭亡，百姓还是受苦。",
+  "appreciation": "这首小令开头就气势逼人：山峰“如聚”，波涛“如怒”，山水都有了脾气。可诗人站在险要的潼关古道上，想到的不是风景，而是脚下这片土地埋着多少王朝的兴亡。万间宫殿都成了土，最后落笔八个字——“兴，百姓苦；亡，百姓苦”，把千百年的历史一下子看透了，这是元曲里最有分量的句子。",
+  "background": "公元1329年，关中大旱，饥民遍地。已经辞官多年的张养浩被召去赈灾，他立即动身，一路散尽家财救济灾民。途经潼关时，他望着山河宫阙的遗迹，想到秦汉以来百姓的苦难，写下了这首怀古名曲。",
+  "storyline": [
+    { "step": 1, "title": "潼关道上", "text": "诗人奔赴关中赈灾，来到峰峦聚集、黄河咆哮的潼关。" },
+    { "step": 2, "title": "遥望西都", "text": "远远望见长安方向，他心事重重，脚步都慢了下来。" },
+    { "step": 3, "title": "宫殿化尘土", "text": "想起秦汉的万间宫殿如今都成了尘土，他满心悲伤。" },
+    { "step": 4, "title": "一语道破", "text": "王朝兴起还是灭亡，受苦的都是百姓，他写下这声长叹。" }
+  ],
+  "pinyinNotes": [
+    { "char": "阙", "reading": "què", "reason": "“宫阙”的“阙”指宫殿门前的望楼，读 què。", "standard": "不要误读成 quē" },
+    { "char": "兴", "reading": "xīng", "reason": "这里的“兴”是兴盛的意思，读 xīng。", "standard": "不要读成 xìng" },
+    { "char": "躇", "reading": "chú", "reason": "“踌躇”形容犹豫不决、心事重重，读 chóu chú。" }
+  ],
+  "sources": ["《全元散曲》", "《云庄乐府》"],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 3011
+}

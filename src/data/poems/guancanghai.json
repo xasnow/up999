@@ -1,0 +1,163 @@
+{
+  "id": "qita-hanwei-caocao-guancanghai",
+  "slug": "guancanghai",
+  "title": "观沧海",
+  "titlePinyin": "guān cāng hǎi",
+  "dynasty": "qita",
+  "era": "hanwei",
+  "genre": "shi",
+  "form": "四言古诗",
+  "authorId": "caocao",
+  "gradeBand": "ext",
+  "difficulty": 3,
+  "tags": ["山水", "四言古诗", "大海", "秋风"],
+  "writtenYear": 207,
+  "writtenLabel": "公元 207 年（建安十二年，曹操北征乌桓得胜回师途中，登碣石山观海所作）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "东临碣石，以观沧海。",
+    "日月之行，若出其中；星汉灿烂，若出其里。"
+  ],
+  "lines": [
+    {
+      "text": "东临碣石，",
+      "pinyin": ["dōng", "lín", "jié", "shí"],
+      "translation": "向东登上碣石山，",
+      "noteIds": ["n-jieshi"]
+    },
+    {
+      "text": "以观沧海。",
+      "pinyin": ["yǐ", "guān", "cāng", "hǎi"],
+      "translation": "来观赏苍茫的大海。",
+      "noteIds": []
+    },
+    {
+      "text": "水何澹澹，",
+      "pinyin": ["shuǐ", "hé", "dàn", "dàn"],
+      "translation": "海水多么宽阔荡漾，",
+      "noteIds": ["n-dandan"]
+    },
+    {
+      "text": "山岛竦峙。",
+      "pinyin": ["shān", "dǎo", "sǒng", "zhì"],
+      "translation": "海中的山岛高高地挺立着。",
+      "noteIds": ["n-songzhi"]
+    },
+    {
+      "text": "树木丛生，",
+      "pinyin": ["shù", "mù", "cóng", "shēng"],
+      "translation": "岛上树木郁郁葱葱地生长，",
+      "noteIds": []
+    },
+    {
+      "text": "百草丰茂。",
+      "pinyin": ["bǎi", "cǎo", "fēng", "mào"],
+      "translation": "各种草长得又密又茂盛。",
+      "noteIds": []
+    },
+    {
+      "text": "秋风萧瑟，",
+      "pinyin": ["qiū", "fēng", "xiāo", "sè"],
+      "translation": "秋风吹动草木沙沙作响，",
+      "noteIds": ["n-xiaose"]
+    },
+    {
+      "text": "洪波涌起。",
+      "pinyin": ["hóng", "bō", "yǒng", "qǐ"],
+      "translation": "海面上涌起巨大的波涛。",
+      "noteIds": []
+    },
+    {
+      "text": "日月之行，",
+      "pinyin": ["rì", "yuè", "zhī", "xíng"],
+      "translation": "太阳和月亮的运行，",
+      "noteIds": []
+    },
+    {
+      "text": "若出其中；",
+      "pinyin": ["ruò", "chū", "qí", "zhōng"],
+      "translation": "好像就从这大海中出发；",
+      "noteIds": []
+    },
+    {
+      "text": "星汉灿烂，",
+      "pinyin": ["xīng", "hàn", "càn", "làn"],
+      "translation": "银河星光灿烂，",
+      "noteIds": ["n-xinghan"]
+    },
+    {
+      "text": "若出其里。",
+      "pinyin": ["ruò", "chū", "qí", "lǐ"],
+      "translation": "好像也从这大海中生出来。",
+      "noteIds": []
+    },
+    {
+      "text": "幸甚至哉，",
+      "pinyin": ["xìng", "shèn", "zhì", "zāi"],
+      "translation": "真是幸运极了，",
+      "noteIds": ["n-xingshenzhi"]
+    },
+    {
+      "text": "歌以咏志。",
+      "pinyin": ["gē", "yǐ", "yǒng", "zhì"],
+      "translation": "就用这首歌来抒发心中的志向。",
+      "noteIds": []
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-jieshi",
+      "word": "碣石",
+      "pinyin": "jié shí",
+      "meaning": "山名，在今河北昌黎，是一座能望见大海的山。碣：jié。"
+    },
+    {
+      "id": "n-dandan",
+      "word": "澹澹",
+      "pinyin": "dàn dàn",
+      "meaning": "水波摇动的样子，形容海水宽阔起伏。"
+    },
+    {
+      "id": "n-songzhi",
+      "word": "竦峙",
+      "pinyin": "sǒng zhì",
+      "meaning": "高高地挺立。竦：sǒng，高起；峙：zhì，挺立。"
+    },
+    {
+      "id": "n-xiaose",
+      "word": "萧瑟",
+      "pinyin": "xiāo sè",
+      "meaning": "秋风吹动草木的声音，形容风声。"
+    },
+    {
+      "id": "n-xinghan",
+      "word": "星汉",
+      "pinyin": "xīng hàn",
+      "meaning": "银河，天上由许多星星组成的光带。"
+    },
+    {
+      "id": "n-xingshenzhi",
+      "word": "幸甚至哉",
+      "pinyin": "xìng shèn zhì zāi",
+      "meaning": "幸运得很，好极了。这是配乐时加上的套语，和观海的内容没有直接关系。"
+    }
+  ],
+  "translation": "向东登上碣石山，来观赏苍茫的大海。海水多么宽阔荡漾，海中的山岛高高地挺立着。岛上树木郁郁葱葱，各种草长得又密又茂盛。秋风吹动草木沙沙作响，海面上涌起巨大的波涛。太阳和月亮的运行，好像就从这大海中出发；银河星光灿烂，好像也从这大海中生出来。真是幸运极了，就用这首歌来抒发心中的志向。",
+  "appreciation": "这首诗像一幅会动的海景图。诗人站在碣石山上，看大海波涛起伏、山岛高高耸立。最妙的是他想像太阳、月亮和银河都在大海中出没，海一下子大得能装下整个天地。全诗没有一个“愁”字，字里行间全是开阔的胸怀和豪迈的气概，是“建安风骨”的代表作，也被看作我国较早的完整山水诗之一。",
+  "background": "公元207年，曹操北征乌桓大胜，回师途中登上碣石山观海。当时他基本统一了北方，正是踌躇满志的时候。面对波涛汹涌的大海，他把眼前的景色和胸中的抱负一起写进了这首《观沧海》。",
+  "storyline": [
+    { "step": 1, "title": "登临碣石", "text": "北征得胜的曹操路过碣石山，兴致勃勃地登山观海。" },
+    { "step": 2, "title": "大海起波涛", "text": "秋风阵阵，海面宽阔荡漾，涌起层层巨浪，山岛屹立不动。" },
+    { "step": 3, "title": "草木正丰茂", "text": "山岛上树木丛生，百草茂密，一片生机勃勃的景象。" },
+    { "step": 4, "title": "日月海中生", "text": "他想象日月银河都在海中出没，豪情涌上心头，放声吟诗咏志。" }
+  ],
+  "pinyinNotes": [
+    { "char": "碣", "reading": "jié", "reason": "“碣石”是山名，读 jié。", "standard": "不要误读成 jiē" },
+    { "char": "澹", "reading": "dàn", "reason": "“澹澹”形容水波摇动，读 dàn。", "standard": "不要误读成 chán" },
+    { "char": "峙", "reading": "zhì", "reason": "“竦峙”是高高挺立的意思，峙读 zhì。", "standard": "不要误读成 sì" }
+  ],
+  "sources": ["《乐府诗集》", "《曹操集》"],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 3005
+}

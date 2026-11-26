@@ -1,0 +1,169 @@
+{
+  "id": "qita-hanwei-gushishijiu-shejiang-caifurong",
+  "slug": "shejiang-caifurong",
+  "title": "涉江采芙蓉",
+  "titlePinyin": "shè jiāng cǎi fú róng",
+  "dynasty": "qita",
+  "era": "hanwei",
+  "genre": "shi",
+  "form": "五言古诗",
+  "authorId": "gushishijiu",
+  "gradeBand": "ext",
+  "difficulty": 3,
+  "tags": ["思念", "五言古诗", "荷花"],
+  "writtenYear": 180,
+  "writtenLabel": "东汉末年（《古诗十九首》之一）",
+  "orderInAuthor": 3,
+  "famousLines": [
+    "同心而离居，忧伤以终老。"
+  ],
+  "lines": [
+    {
+      "text": "涉江采芙蓉，",
+      "pinyin": ["shè", "jiāng", "cǎi", "fú", "róng"],
+      "translation": "划着船到江中去采荷花，",
+      "noteIds": ["n-furong"]
+    },
+    {
+      "text": "兰泽多芳草。",
+      "pinyin": ["lán", "zé", "duō", "fāng", "cǎo"],
+      "translation": "长满兰草的水泽里，芳草真多啊。",
+      "noteIds": ["n-lanze"]
+    },
+    {
+      "text": "采之欲遗谁？",
+      "pinyin": ["cǎi", "zhī", "yù", "wèi", "shuí"],
+      "translation": "采了花想要送给谁呢？",
+      "noteIds": ["n-wei"]
+    },
+    {
+      "text": "所思在远道。",
+      "pinyin": ["suǒ", "sī", "zài", "yuǎn", "dào"],
+      "translation": "我思念的人正在遥远的路上。",
+      "noteIds": ["n-suosi"]
+    },
+    {
+      "text": "还顾望旧乡，",
+      "pinyin": ["huán", "gù", "wàng", "jiù", "xiāng"],
+      "translation": "回过头去望望故乡，",
+      "noteIds": ["n-huangu"]
+    },
+    {
+      "text": "长路漫浩浩。",
+      "pinyin": ["cháng", "lù", "màn", "hào", "hào"],
+      "translation": "长长的路漫漫无边，望不到头。",
+      "noteIds": ["n-haohao"]
+    },
+    {
+      "text": "同心而离居，",
+      "pinyin": ["tóng", "xīn", "ér", "lí", "jū"],
+      "translation": "心意相通的两个人，却分离在不同的地方，",
+      "noteIds": ["n-tongxin"]
+    },
+    {
+      "text": "忧伤以终老。",
+      "pinyin": ["yōu", "shāng", "yǐ", "zhōng", "lǎo"],
+      "translation": "只能怀着这份忧伤，一直到老。",
+      "noteIds": ["n-zhonglao"]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-furong",
+      "word": "芙蓉",
+      "pinyin": "fú róng",
+      "meaning": "荷花的别称。"
+    },
+    {
+      "id": "n-lanze",
+      "word": "兰泽",
+      "pinyin": "lán zé",
+      "meaning": "长满兰草的低湿之地。泽：聚水的洼地。"
+    },
+    {
+      "id": "n-wei",
+      "word": "遗",
+      "pinyin": "wèi",
+      "meaning": "赠送。“欲遗谁”是想送给谁。"
+    },
+    {
+      "id": "n-suosi",
+      "word": "所思",
+      "pinyin": "suǒ sī",
+      "meaning": "所思念的人。"
+    },
+    {
+      "id": "n-huangu",
+      "word": "还顾",
+      "pinyin": "huán gù",
+      "meaning": "回头看。还：转回。"
+    },
+    {
+      "id": "n-haohao",
+      "word": "浩浩",
+      "pinyin": "hào hào",
+      "meaning": "形容广大无边。“漫浩浩”是路途遥远，没有尽头。"
+    },
+    {
+      "id": "n-tongxin",
+      "word": "同心",
+      "pinyin": "tóng xīn",
+      "meaning": "心意相通，多指感情深厚的夫妻或恋人。"
+    },
+    {
+      "id": "n-zhonglao",
+      "word": "终老",
+      "pinyin": "zhōng lǎo",
+      "meaning": "度过晚年，一直到老。"
+    }
+  ],
+  "translation": "划着船到江中去采荷花，长满兰草的水泽里芳草真多啊。采了花想要送给谁呢？我思念的人正在遥远的路上。回过头去望望故乡，长长的路漫漫无边，望不到头。心意相通的两个人，却分离在不同的地方，只能怀着这份忧伤，一直到老。",
+  "appreciation": "采一朵荷花送给心上人，是江南最温柔的礼物，可是“所思在远道”——花在手边，人在天涯。诗人回望故乡，长路浩浩，望也望不到头。最后一句最痛：明明是“同心”的人，偏偏“离居”，只能让忧伤陪着变老。全诗没有一句呼喊，把一场送不出去的温柔，写成了永远的遗憾。",
+  "background": "本诗出自《古诗十九首》，写于东汉末年。采芳草赠给远方思念的人，是古代常见的风俗。诗人像一位漂泊在外的游子：夏秋之际荷花开满江面，他却隔着重重山水回望故乡，只能把思念折进一朵采下却送不出去的荷花里。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "涉江采莲",
+      "text": "江水清清，他划着小船到江心，采下一朵芳香的荷花。"
+    },
+    {
+      "step": 2,
+      "title": "欲赠无人",
+      "text": "花拿在手里，却不知道送给谁——心爱的人远在天边的路上。"
+    },
+    {
+      "step": 3,
+      "title": "回望故乡",
+      "text": "他回头望向旧日的家乡，只见长路漫漫，浩浩无边。"
+    },
+    {
+      "step": 4,
+      "title": "忧伤终老",
+      "text": "心意相通的人天各一方，这份忧伤也许要一直陪他到老。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "遗",
+      "reading": "wèi",
+      "reason": "“采之欲遗谁”的“遗”是赠送的意思。",
+      "standard": "不读 yí"
+    },
+    {
+      "char": "还",
+      "reading": "huán",
+      "reason": "“还顾望旧乡”的“还”是回转、回头的意思。",
+      "standard": "不读 hái"
+    },
+    {
+      "char": "泽",
+      "reading": "zé",
+      "reason": "“兰泽”指长满兰草的水泽，低湿之地。",
+      "standard": "三点水，与水有关"
+    }
+  ],
+  "sources": ["《文选》", "《古诗十九首》"],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 3002
+}

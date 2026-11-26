@@ -1,0 +1,676 @@
+{
+  "id": "qita-hanwei-beichao-mulanshi",
+  "slug": "mulanshi",
+  "title": "木兰诗",
+  "titlePinyin": "mù lán shī",
+  "dynasty": "qita",
+  "era": "hanwei",
+  "genre": "shi",
+  "form": "乐府",
+  "authorId": "beichao",
+  "gradeBand": "ext",
+  "tags": [
+    "爱国",
+    "乐府",
+    "边塞",
+    "骏马"
+  ],
+  "difficulty": 3,
+  "writtenYear": 550,
+  "writtenLabel": "约公元 550 年（北朝时期，民间长期传唱定型）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "万里赴戎机，关山度若飞。",
+    "双兔傍地走，安能辨我是雄雌？"
+  ],
+  "lines": [
+    {
+      "text": "唧唧复唧唧，",
+      "pinyin": ["jī", "jī", "fù", "jī", "jī"],
+      "translation": "织机声一声接着一声，",
+      "noteIds": ["n-jiji"]
+    },
+    {
+      "text": "木兰当户织。",
+      "pinyin": ["mù", "lán", "dāng", "hù", "zhī"],
+      "translation": "木兰对着门在织布。",
+      "noteIds": ["n-danghu"]
+    },
+    {
+      "text": "不闻机杼声，",
+      "pinyin": ["bù", "wén", "jī", "zhù", "shēng"],
+      "translation": "听不见织机的声音，",
+      "noteIds": ["n-jizhu"]
+    },
+    {
+      "text": "惟闻女叹息。",
+      "pinyin": ["wéi", "wén", "nǚ", "tàn", "xī"],
+      "translation": "只听见姑娘的叹息声。",
+      "noteIds": ["n-weiwen"]
+    },
+    {
+      "text": "问女何所思，",
+      "pinyin": ["wèn", "nǚ", "hé", "suǒ", "sī"],
+      "translation": "问姑娘在想什么，",
+      "noteIds": []
+    },
+    {
+      "text": "问女何所忆。",
+      "pinyin": ["wèn", "nǚ", "hé", "suǒ", "yì"],
+      "translation": "问姑娘在思念什么。",
+      "noteIds": []
+    },
+    {
+      "text": "女亦无所思，",
+      "pinyin": ["nǚ", "yì", "wú", "suǒ", "sī"],
+      "translation": "姑娘说也没有想什么，",
+      "noteIds": []
+    },
+    {
+      "text": "女亦无所忆。",
+      "pinyin": ["nǚ", "yì", "wú", "suǒ", "yì"],
+      "translation": "也没有思念什么。",
+      "noteIds": []
+    },
+    {
+      "text": "昨夜见军帖，",
+      "pinyin": ["zuó", "yè", "jiàn", "jūn", "tiě"],
+      "translation": "昨天夜里看见了征兵的文书，",
+      "noteIds": ["n-juntie"]
+    },
+    {
+      "text": "可汗大点兵，",
+      "pinyin": ["kè", "hán", "dà", "diǎn", "bīng"],
+      "translation": "君主大规模地征兵。",
+      "noteIds": ["n-kehan"]
+    },
+    {
+      "text": "军书十二卷，",
+      "pinyin": ["jūn", "shū", "shí", "èr", "juàn"],
+      "translation": "征兵的名册有很多卷，",
+      "noteIds": ["n-shier"]
+    },
+    {
+      "text": "卷卷有爷名。",
+      "pinyin": ["juàn", "juàn", "yǒu", "yé", "míng"],
+      "translation": "每一卷上都有父亲的名字。",
+      "noteIds": ["n-ye"]
+    },
+    {
+      "text": "阿爷无大儿，",
+      "pinyin": ["ā", "yé", "wú", "dà", "ér"],
+      "translation": "父亲没有成年的儿子，",
+      "noteIds": []
+    },
+    {
+      "text": "木兰无长兄，",
+      "pinyin": ["mù", "lán", "wú", "zhǎng", "xiōng"],
+      "translation": "木兰也没有兄长。",
+      "noteIds": []
+    },
+    {
+      "text": "愿为市鞍马，",
+      "pinyin": ["yuàn", "wèi", "shì", "ān", "mǎ"],
+      "translation": "木兰愿意为此去买来鞍马，",
+      "noteIds": ["n-wei", "n-shi"]
+    },
+    {
+      "text": "从此替爷征。",
+      "pinyin": ["cóng", "cǐ", "tì", "yé", "zhēng"],
+      "translation": "从此替父亲出征。",
+      "noteIds": []
+    },
+    {
+      "text": "东市买骏马，",
+      "pinyin": ["dōng", "shì", "mǎi", "jùn", "mǎ"],
+      "translation": "在东边的集市上买来骏马，",
+      "noteIds": []
+    },
+    {
+      "text": "西市买鞍鞯，",
+      "pinyin": ["xī", "shì", "mǎi", "ān", "jiān"],
+      "translation": "在西边的集市上买来鞍鞯，",
+      "noteIds": ["n-anjian"]
+    },
+    {
+      "text": "南市买辔头，",
+      "pinyin": ["nán", "shì", "mǎi", "pèi", "tóu"],
+      "translation": "在南边的集市上买来辔头，",
+      "noteIds": ["n-peitou"]
+    },
+    {
+      "text": "北市买长鞭。",
+      "pinyin": ["běi", "shì", "mǎi", "cháng", "biān"],
+      "translation": "在北边的集市上买来长鞭。",
+      "noteIds": []
+    },
+    {
+      "text": "旦辞爷娘去，",
+      "pinyin": ["dàn", "cí", "yé", "niáng", "qù"],
+      "translation": "早晨告别爹娘出发，",
+      "noteIds": ["n-dan"]
+    },
+    {
+      "text": "暮宿黄河边，",
+      "pinyin": ["mù", "sù", "huáng", "hé", "biān"],
+      "translation": "晚上宿营在黄河边上，",
+      "noteIds": []
+    },
+    {
+      "text": "不闻爷娘唤女声，",
+      "pinyin": ["bù", "wén", "yé", "niáng", "huàn", "nǚ", "shēng"],
+      "translation": "听不见爹娘呼唤女儿的声音，",
+      "noteIds": []
+    },
+    {
+      "text": "但闻黄河流水鸣溅溅。",
+      "pinyin": ["dàn", "wén", "huáng", "hé", "liú", "shuǐ", "míng", "jiān", "jiān"],
+      "translation": "只听见黄河水奔流溅溅作响。",
+      "noteIds": ["n-jianjian"]
+    },
+    {
+      "text": "旦辞黄河去，",
+      "pinyin": ["dàn", "cí", "huáng", "hé", "qù"],
+      "translation": "早晨辞别黄河上路，",
+      "noteIds": []
+    },
+    {
+      "text": "暮至黑山头，",
+      "pinyin": ["mù", "zhì", "hēi", "shān", "tóu"],
+      "translation": "晚上到达黑山头，",
+      "noteIds": []
+    },
+    {
+      "text": "不闻爷娘唤女声，",
+      "pinyin": ["bù", "wén", "yé", "niáng", "huàn", "nǚ", "shēng"],
+      "translation": "听不见爹娘呼唤女儿的声音，",
+      "noteIds": []
+    },
+    {
+      "text": "但闻燕山胡骑鸣啾啾。",
+      "pinyin": ["dàn", "wén", "yān", "shān", "hú", "jì", "míng", "jiū", "jiū"],
+      "translation": "只听见燕山下胡人的战马啾啾嘶鸣。",
+      "noteIds": ["n-yanshan", "n-huji", "n-jiujiu"]
+    },
+    {
+      "text": "万里赴戎机，",
+      "pinyin": ["wàn", "lǐ", "fù", "róng", "jī"],
+      "translation": "不远万里奔赴战场，",
+      "noteIds": ["n-rongji"]
+    },
+    {
+      "text": "关山度若飞。",
+      "pinyin": ["guān", "shān", "dù", "ruò", "fēi"],
+      "translation": "像飞一样越过一道道关隘山岭。",
+      "noteIds": ["n-du"]
+    },
+    {
+      "text": "朔气传金柝，",
+      "pinyin": ["shuò", "qì", "chuán", "jīn", "tuò"],
+      "translation": "北方的寒气里传来打更的声音，",
+      "noteIds": ["n-shuoqi", "n-jintuo"]
+    },
+    {
+      "text": "寒光照铁衣。",
+      "pinyin": ["hán", "guāng", "zhào", "tiě", "yī"],
+      "translation": "清冷的月光照着将士的铁甲战袍。",
+      "noteIds": []
+    },
+    {
+      "text": "将军百战死，",
+      "pinyin": ["jiāng", "jūn", "bǎi", "zhàn", "sǐ"],
+      "translation": "将士们身经百战，有的战死沙场，",
+      "noteIds": []
+    },
+    {
+      "text": "壮士十年归。",
+      "pinyin": ["zhuàng", "shì", "shí", "nián", "guī"],
+      "translation": "征战多年的勇士终于胜利归来。",
+      "noteIds": []
+    },
+    {
+      "text": "归来见天子，",
+      "pinyin": ["guī", "lái", "jiàn", "tiān", "zǐ"],
+      "translation": "胜利归来朝见君主，",
+      "noteIds": []
+    },
+    {
+      "text": "天子坐明堂。",
+      "pinyin": ["tiān", "zǐ", "zuò", "míng", "táng"],
+      "translation": "君主坐在朝堂上论功行赏。",
+      "noteIds": []
+    },
+    {
+      "text": "策勋十二转，",
+      "pinyin": ["cè", "xūn", "shí", "èr", "zhuǎn"],
+      "translation": "木兰记下极大的战功，",
+      "noteIds": ["n-cexun", "n-zhuan"]
+    },
+    {
+      "text": "赏赐百千强。",
+      "pinyin": ["shǎng", "cì", "bǎi", "qiān", "qiáng"],
+      "translation": "得到的赏赐比千百份还要多。",
+      "noteIds": ["n-qiang"]
+    },
+    {
+      "text": "可汗问所欲，",
+      "pinyin": ["kè", "hán", "wèn", "suǒ", "yù"],
+      "translation": "君主问木兰想要什么，",
+      "noteIds": []
+    },
+    {
+      "text": "木兰不用尚书郎，",
+      "pinyin": ["mù", "lán", "bù", "yòng", "shàng", "shū", "láng"],
+      "translation": "木兰说自己不想做尚书郎，",
+      "noteIds": ["n-shangshu"]
+    },
+    {
+      "text": "愿驰千里足，",
+      "pinyin": ["yuàn", "chí", "qiān", "lǐ", "zú"],
+      "translation": "只希望骑上千里快马，",
+      "noteIds": []
+    },
+    {
+      "text": "送儿还故乡。",
+      "pinyin": ["sòng", "ér", "huán", "gù", "xiāng"],
+      "translation": "送我回到自己的故乡。",
+      "noteIds": []
+    },
+    {
+      "text": "爷娘闻女来，",
+      "pinyin": ["yé", "niáng", "wén", "nǚ", "lái"],
+      "translation": "爹娘听说女儿回来了，",
+      "noteIds": []
+    },
+    {
+      "text": "出郭相扶将；",
+      "pinyin": ["chū", "guō", "xiāng", "fú", "jiāng"],
+      "translation": "互相搀扶着走出外城迎接；",
+      "noteIds": ["n-guo", "n-fujiang"]
+    },
+    {
+      "text": "阿姊闻妹来，",
+      "pinyin": ["ā", "zǐ", "wén", "mèi", "lái"],
+      "translation": "姐姐听说妹妹回来了，",
+      "noteIds": ["n-azi"]
+    },
+    {
+      "text": "当户理红妆；",
+      "pinyin": ["dāng", "hù", "lǐ", "hóng", "zhuāng"],
+      "translation": "对着门户梳妆打扮起来；",
+      "noteIds": []
+    },
+    {
+      "text": "小弟闻姊来，",
+      "pinyin": ["xiǎo", "dì", "wén", "zǐ", "lái"],
+      "translation": "弟弟听说姐姐回来了，",
+      "noteIds": []
+    },
+    {
+      "text": "磨刀霍霍向猪羊。",
+      "pinyin": ["mó", "dāo", "huò", "huò", "xiàng", "zhū", "yáng"],
+      "translation": "霍霍地磨刀，忙着杀猪宰羊。",
+      "noteIds": ["n-huohuo"]
+    },
+    {
+      "text": "开我东阁门，",
+      "pinyin": ["kāi", "wǒ", "dōng", "gé", "mén"],
+      "translation": "打开我东屋的门，",
+      "noteIds": []
+    },
+    {
+      "text": "坐我西阁床，",
+      "pinyin": ["zuò", "wǒ", "xī", "gé", "chuáng"],
+      "translation": "坐上我西屋的床，",
+      "noteIds": []
+    },
+    {
+      "text": "脱我战时袍，",
+      "pinyin": ["tuō", "wǒ", "zhàn", "shí", "páo"],
+      "translation": "脱下我打仗时穿的战袍，",
+      "noteIds": []
+    },
+    {
+      "text": "著我旧时裳。",
+      "pinyin": ["zhuó", "wǒ", "jiù", "shí", "cháng"],
+      "translation": "穿上我从前女子的衣裙。",
+      "noteIds": ["n-zhuo", "n-chang"]
+    },
+    {
+      "text": "当窗理云鬓，",
+      "pinyin": ["dāng", "chuāng", "lǐ", "yún", "bìn"],
+      "translation": "对着窗子梳理像云一样的鬓发，",
+      "noteIds": ["n-yunbin"]
+    },
+    {
+      "text": "对镜帖花黄。",
+      "pinyin": ["duì", "jìng", "tiē", "huā", "huáng"],
+      "translation": "照着镜子贴上花黄。",
+      "noteIds": ["n-tiehuang"]
+    },
+    {
+      "text": "出门看火伴，",
+      "pinyin": ["chū", "mén", "kàn", "huǒ", "bàn"],
+      "translation": "走出门去看同伍的伙伴，",
+      "noteIds": ["n-huoban"]
+    },
+    {
+      "text": "火伴皆惊忙：",
+      "pinyin": ["huǒ", "bàn", "jiē", "jīng", "máng"],
+      "translation": "伙伴们见了都很吃惊：",
+      "noteIds": []
+    },
+    {
+      "text": "同行十二年，",
+      "pinyin": ["tóng", "xíng", "shí", "èr", "nián"],
+      "translation": "一起行军打仗这么多年，",
+      "noteIds": []
+    },
+    {
+      "text": "不知木兰是女郎。",
+      "pinyin": ["bù", "zhī", "mù", "lán", "shì", "nǚ", "láng"],
+      "translation": "竟然不知道木兰是个姑娘。",
+      "noteIds": []
+    },
+    {
+      "text": "雄兔脚扑朔，",
+      "pinyin": ["xióng", "tù", "jiǎo", "pū", "shuò"],
+      "translation": "雄兔被提起来时脚不停摆动，",
+      "noteIds": ["n-pushuo"]
+    },
+    {
+      "text": "雌兔眼迷离；",
+      "pinyin": ["cí", "tù", "yǎn", "mí", "lí"],
+      "translation": "雌兔被提起来时双眼眯着；",
+      "noteIds": ["n-mili"]
+    },
+    {
+      "text": "双兔傍地走，",
+      "pinyin": ["shuāng", "tù", "bàng", "dì", "zǒu"],
+      "translation": "可是两只兔子贴着地面并排跑起来，",
+      "noteIds": ["n-bang"]
+    },
+    {
+      "text": "安能辨我是雄雌？",
+      "pinyin": ["ān", "néng", "biàn", "wǒ", "shì", "xióng", "cí"],
+      "translation": "又怎能分辨出哪个是雄、哪个是雌呢？",
+      "noteIds": []
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-jiji",
+      "word": "唧唧",
+      "pinyin": "jī jī",
+      "meaning": "织机发出的声响，一说是木兰的叹息声。"
+    },
+    {
+      "id": "n-danghu",
+      "word": "当",
+      "pinyin": "dāng",
+      "meaning": "对着。“当户织”就是对着门织布。"
+    },
+    {
+      "id": "n-jizhu",
+      "word": "机杼",
+      "pinyin": "jī zhù",
+      "meaning": "织布机。杼是织布机上的梭子，读 zhù。"
+    },
+    {
+      "id": "n-weiwen",
+      "word": "惟",
+      "pinyin": "wéi",
+      "meaning": "只。“惟闻”就是只听见。"
+    },
+    {
+      "id": "n-juntie",
+      "word": "军帖",
+      "pinyin": "jūn tiě",
+      "meaning": "征兵的文书。帖在这里读 tiě。"
+    },
+    {
+      "id": "n-kehan",
+      "word": "可汗",
+      "pinyin": "kè hán",
+      "meaning": "古代西北地区少数民族对君主的称呼，读 kè hán。"
+    },
+    {
+      "id": "n-shier",
+      "word": "十二",
+      "pinyin": "shí èr",
+      "meaning": "表示很多，不是确数。下文“十二转”“十二年”用法相同。"
+    },
+    {
+      "id": "n-ye",
+      "word": "爷",
+      "pinyin": "yé",
+      "meaning": "指父亲。下文“爷娘”中的“爷”同。"
+    },
+    {
+      "id": "n-wei",
+      "word": "为",
+      "pinyin": "wèi",
+      "meaning": "为了、替。“愿为市鞍马”就是愿意替父亲去买鞍马。"
+    },
+    {
+      "id": "n-shi",
+      "word": "市",
+      "pinyin": "shì",
+      "meaning": "买。“市鞍马”就是买马鞍和马匹。"
+    },
+    {
+      "id": "n-anjian",
+      "word": "鞍鞯",
+      "pinyin": "ān jiān",
+      "meaning": "马鞍和垫在马鞍下的垫子。鞯读 jiān。"
+    },
+    {
+      "id": "n-peitou",
+      "word": "辔头",
+      "pinyin": "pèi tóu",
+      "meaning": "驾驭马匹用的嚼子和缰绳。辔读 pèi。"
+    },
+    {
+      "id": "n-dan",
+      "word": "旦",
+      "pinyin": "dàn",
+      "meaning": "早晨。“旦辞”就是早上辞别。"
+    },
+    {
+      "id": "n-jianjian",
+      "word": "溅溅",
+      "pinyin": "jiān jiān",
+      "meaning": "水流的声音。"
+    },
+    {
+      "id": "n-yanshan",
+      "word": "燕山",
+      "pinyin": "yān shān",
+      "meaning": "北方的山名。地名里的“燕”读 yān。"
+    },
+    {
+      "id": "n-huji",
+      "word": "胡骑",
+      "pinyin": "hú jì",
+      "meaning": "胡人的战马。骑在这里读 jì，指战马。"
+    },
+    {
+      "id": "n-jiujiu",
+      "word": "啾啾",
+      "pinyin": "jiū jiū",
+      "meaning": "马嘶鸣的声音。"
+    },
+    {
+      "id": "n-rongji",
+      "word": "戎机",
+      "pinyin": "róng jī",
+      "meaning": "军机、战事。戎读 róng。"
+    },
+    {
+      "id": "n-du",
+      "word": "度",
+      "pinyin": "dù",
+      "meaning": "越过。“关山度若飞”就是像飞一样越过一道道关隘山岭。"
+    },
+    {
+      "id": "n-shuoqi",
+      "word": "朔气",
+      "pinyin": "shuò qì",
+      "meaning": "北方的寒气。朔指北方，读 shuò。"
+    },
+    {
+      "id": "n-jintuo",
+      "word": "金柝",
+      "pinyin": "jīn tuò",
+      "meaning": "军中夜里打更用的梆子。柝读 tuò。"
+    },
+    {
+      "id": "n-cexun",
+      "word": "策勋",
+      "pinyin": "cè xūn",
+      "meaning": "记功。策是记录的意思。"
+    },
+    {
+      "id": "n-zhuan",
+      "word": "转",
+      "pinyin": "zhuǎn",
+      "meaning": "勋级每升一级叫“一转”，十二转表示功劳极高。"
+    },
+    {
+      "id": "n-qiang",
+      "word": "强",
+      "pinyin": "qiáng",
+      "meaning": "有余。“百千强”就是比百千还要多。"
+    },
+    {
+      "id": "n-shangshu",
+      "word": "尚书郎",
+      "pinyin": "shàng shū láng",
+      "meaning": "尚书省的官员，泛指朝廷里的高官。"
+    },
+    {
+      "id": "n-guo",
+      "word": "郭",
+      "pinyin": "guō",
+      "meaning": "外城。“出郭”就是走出外城。"
+    },
+    {
+      "id": "n-fujiang",
+      "word": "扶将",
+      "pinyin": "fú jiāng",
+      "meaning": "扶持、搀扶。"
+    },
+    {
+      "id": "n-azi",
+      "word": "姊",
+      "pinyin": "zǐ",
+      "meaning": "姐姐。"
+    },
+    {
+      "id": "n-huohuo",
+      "word": "霍霍",
+      "pinyin": "huò huò",
+      "meaning": "磨刀时发出的急促响声。"
+    },
+    {
+      "id": "n-zhuo",
+      "word": "著",
+      "pinyin": "zhuó",
+      "meaning": "穿。“著我旧时裳”就是穿上从前的衣裳。"
+    },
+    {
+      "id": "n-chang",
+      "word": "裳",
+      "pinyin": "cháng",
+      "meaning": "古代女子的下裙，这里泛指衣裙，读 cháng 不读轻声。"
+    },
+    {
+      "id": "n-yunbin",
+      "word": "云鬓",
+      "pinyin": "yún bìn",
+      "meaning": "像云一样浓密柔软的头发。鬓读 bìn。"
+    },
+    {
+      "id": "n-tiehuang",
+      "word": "帖",
+      "pinyin": "tiē",
+      "meaning": "同“贴”，粘贴。“帖花黄”就是把黄色饰物贴在额头上，是当时女子的装扮。"
+    },
+    {
+      "id": "n-huoban",
+      "word": "火伴",
+      "pinyin": "huǒ bàn",
+      "meaning": "同营的战友。“火”同“伙”，就是伙伴。"
+    },
+    {
+      "id": "n-pushuo",
+      "word": "扑朔",
+      "pinyin": "pū shuò",
+      "meaning": "兔子被提起耳朵悬空时，脚不停摆动的样子。"
+    },
+    {
+      "id": "n-mili",
+      "word": "迷离",
+      "pinyin": "mí lí",
+      "meaning": "眯着眼睛的样子。"
+    },
+    {
+      "id": "n-bang",
+      "word": "傍",
+      "pinyin": "bàng",
+      "meaning": "靠近、并排。“傍地走”就是贴着地面并排跑。"
+    }
+  ],
+  "translation": "织机声一声接着一声，木兰对着门织布，却听不见机杼声，只听见她连连叹息。问她想什么、念什么，她说没有想什么。昨夜军帖下来，君主大规模征兵，名册卷卷都有父亲的名字。父亲没有成年的儿子，木兰没有兄长，她愿意买来鞍马，替父出征。她跑遍东西南北集市，买齐骏马、鞍鞯、辔头、长鞭。清晨辞别爹娘，夜里宿在黄河边，只听见水声溅溅；又暮宿黑山头，只听见燕山胡骑啾啾嘶鸣。她万里奔赴战场，像飞一样越过关山；北方寒气里传来打更声，冷光映着铁甲。将士们身经百战，有的战死沙场，十年后壮士凯旋。木兰朝见天子，记下大功，赏赐极多，可她不要尚书郎，只求骑上千里马送她回故乡。爹娘搀扶着出城相迎，姐姐对户梳妆，弟弟磨刀杀猪宰羊。木兰打开旧屋门，脱下战袍，换回旧衣裳，理云鬓、贴花黄。伙伴们见了全都吃惊：同行十二年，竟不知木兰是女郎。雄兔爱动脚，雌兔爱眯眼，可双兔贴地并跑，又怎能辨出雄雌呢？",
+  "appreciation": "《木兰诗》是北朝民歌中最亮的一颗星。它不写木兰长得多美，专写她怎样当机立断替父从军，怎样在寒夜里赶路，怎样立了大功却不要官职、只想回家。一个又勇敢又孝顺、又平常又了不起的女英雄，就这样活在了纸上。结尾用两只兔子打比方，俏皮又聪明，让人读着读着就笑了。",
+  "background": "这首诗是北朝时北方百姓口耳相传的乐府民歌，讲木兰女扮男装、替父从军的故事。北朝战事频繁，每家都可能被征调，人们把对和平日子的盼望都编进了木兰的故事里，一唱就是几十年。后来它被宋代《乐府诗集》收集起来，成为流传最广的乐府长篇之一。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "替父从军",
+      "text": "军帖点名要父亲出征，木兰决心替父从军，买齐骏马和鞍具。"
+    },
+    {
+      "step": 2,
+      "title": "征途思亲",
+      "text": "朝别黄河暮到黑山，听不见爹娘唤女，只有战马声声嘶鸣。"
+    },
+    {
+      "step": 3,
+      "title": "十年征战",
+      "text": "万里奔赴战地，寒夜打更、冷光照甲，十年苦战凯旋而归。"
+    },
+    {
+      "step": 4,
+      "title": "辞官还乡",
+      "text": "木兰辞官回家，换上红妆惊呆伙伴：同行十二年，不知是女郎。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "可汗",
+      "reading": "kè hán",
+      "reason": "古代少数民族对君主的称呼，是专用读音。",
+      "standard": "不要读成 kě hàn"
+    },
+    {
+      "char": "燕山",
+      "reading": "yān shān",
+      "reason": "山名，地名里的“燕”读 yān。",
+      "standard": "不要读成 yàn shān"
+    },
+    {
+      "char": "著",
+      "reading": "zhuó",
+      "reason": "“著”在这里是“穿”的意思。",
+      "standard": "不要读成 zhù"
+    }
+  ],
+  "sources": [
+    "《乐府诗集》",
+    "《汉魏六朝诗鉴赏辞典》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 3009
+}

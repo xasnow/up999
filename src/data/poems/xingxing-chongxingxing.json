@@ -1,0 +1,254 @@
+{
+  "id": "qita-hanwei-gushishijiu-xingxing-chongxingxing",
+  "slug": "xingxing-chongxingxing",
+  "title": "行行重行行",
+  "titlePinyin": "xíng xíng chóng xíng xíng",
+  "dynasty": "qita",
+  "era": "hanwei",
+  "genre": "shi",
+  "form": "五言古诗",
+  "authorId": "gushishijiu",
+  "gradeBand": "ext",
+  "difficulty": 3,
+  "tags": ["思念", "五言古诗", "天涯"],
+  "writtenYear": 180,
+  "writtenLabel": "东汉末年（《古诗十九首》之一）",
+  "orderInAuthor": 2,
+  "famousLines": [
+    "行行重行行，与君生别离。",
+    "思君令人老，岁月忽已晚。"
+  ],
+  "lines": [
+    {
+      "text": "行行重行行，",
+      "pinyin": ["xíng", "xíng", "chóng", "xíng", "xíng"],
+      "translation": "走啊走啊，走了一程又一程，",
+      "noteIds": ["n-chong"]
+    },
+    {
+      "text": "与君生别离。",
+      "pinyin": ["yǔ", "jūn", "shēng", "bié", "lí"],
+      "translation": "和你活生生地分离。",
+      "noteIds": ["n-shengbieli"]
+    },
+    {
+      "text": "相去万余里，",
+      "pinyin": ["xiāng", "qù", "wàn", "yú", "lǐ"],
+      "translation": "彼此相隔一万多里，",
+      "noteIds": ["n-xiangqu"]
+    },
+    {
+      "text": "各在天一涯。",
+      "pinyin": ["gè", "zài", "tiān", "yī", "yá"],
+      "translation": "各自在天的这一边和那一边。",
+      "noteIds": ["n-ya"]
+    },
+    {
+      "text": "道路阻且长，",
+      "pinyin": ["dào", "lù", "zǔ", "qiě", "cháng"],
+      "translation": "道路艰险阻隔，又那样漫长，",
+      "noteIds": ["n-zu"]
+    },
+    {
+      "text": "会面安可知？",
+      "pinyin": ["huì", "miàn", "ān", "kě", "zhī"],
+      "translation": "哪里还能知道什么时候才能相见呢？",
+      "noteIds": ["n-an"]
+    },
+    {
+      "text": "胡马依北风，",
+      "pinyin": ["hú", "mǎ", "yī", "běi", "fēng"],
+      "translation": "北方的马依恋着北面的风，",
+      "noteIds": ["n-yi"]
+    },
+    {
+      "text": "越鸟巢南枝。",
+      "pinyin": ["yuè", "niǎo", "cháo", "nán", "zhī"],
+      "translation": "南方的鸟筑巢在南边的树枝上。",
+      "noteIds": ["n-chao"]
+    },
+    {
+      "text": "相去日已远，",
+      "pinyin": ["xiāng", "qù", "rì", "yǐ", "yuǎn"],
+      "translation": "分离的日子一天天久了，",
+      "noteIds": []
+    },
+    {
+      "text": "衣带日已缓。",
+      "pinyin": ["yī", "dài", "rì", "yǐ", "huǎn"],
+      "translation": "身上腰带也一天天松缓了——人越想越瘦。",
+      "noteIds": ["n-huan"]
+    },
+    {
+      "text": "浮云蔽白日，",
+      "pinyin": ["fú", "yún", "bì", "bái", "rì"],
+      "translation": "天上的浮云遮住了太阳，",
+      "noteIds": ["n-bi"]
+    },
+    {
+      "text": "游子不顾返。",
+      "pinyin": ["yóu", "zǐ", "bù", "gù", "fǎn"],
+      "translation": "漂泊在外的人却不想着回家。",
+      "noteIds": ["n-gufan"]
+    },
+    {
+      "text": "思君令人老，",
+      "pinyin": ["sī", "jūn", "lìng", "rén", "lǎo"],
+      "translation": "想念你，让人一年年变老，",
+      "noteIds": ["n-ling"]
+    },
+    {
+      "text": "岁月忽已晚。",
+      "pinyin": ["suì", "yuè", "hū", "yǐ", "wǎn"],
+      "translation": "转眼之间，一年又快要过完了。",
+      "noteIds": []
+    },
+    {
+      "text": "弃捐勿复道，",
+      "pinyin": ["qì", "juān", "wù", "fù", "dào"],
+      "translation": "这些心事，丢开先不说了，",
+      "noteIds": ["n-qijuan"]
+    },
+    {
+      "text": "努力加餐饭。",
+      "pinyin": ["nǔ", "lì", "jiā", "cān", "fàn"],
+      "translation": "只盼你努力多吃一点饭，好好保重身体。",
+      "noteIds": ["n-jiacan"]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-chong",
+      "word": "重",
+      "pinyin": "chóng",
+      "meaning": "又、再。“行行重行行”是说走了一程又一程，不停地走。"
+    },
+    {
+      "id": "n-shengbieli",
+      "word": "生别离",
+      "pinyin": "shēng bié lí",
+      "meaning": "活生生地分开，指难以再相见的离别。"
+    },
+    {
+      "id": "n-xiangqu",
+      "word": "相去",
+      "pinyin": "xiāng qù",
+      "meaning": "相距、相隔。"
+    },
+    {
+      "id": "n-ya",
+      "word": "涯",
+      "pinyin": "yá",
+      "meaning": "边际。“天一涯”就是天边、天的一角。"
+    },
+    {
+      "id": "n-zu",
+      "word": "阻",
+      "pinyin": "zǔ",
+      "meaning": "艰险难行，指道路被阻隔。"
+    },
+    {
+      "id": "n-an",
+      "word": "安",
+      "pinyin": "ān",
+      "meaning": "怎么、哪里。“安可知”是哪里能知道。"
+    },
+    {
+      "id": "n-yi",
+      "word": "依",
+      "pinyin": "yī",
+      "meaning": "依恋、亲近。胡马从北方来，仍依恋北风。"
+    },
+    {
+      "id": "n-chao",
+      "word": "巢",
+      "pinyin": "cháo",
+      "meaning": "筑巢，这里当动词用。越鸟从南方来，仍把巢筑在南枝上。"
+    },
+    {
+      "id": "n-huan",
+      "word": "缓",
+      "pinyin": "huǎn",
+      "meaning": "宽松。人因思念变瘦了，腰带就一天天显得松了。"
+    },
+    {
+      "id": "n-bi",
+      "word": "蔽",
+      "pinyin": "bì",
+      "meaning": "遮蔽、遮挡。浮云蔽白日，常比喻奸邪挡住了光明。"
+    },
+    {
+      "id": "n-gufan",
+      "word": "不顾返",
+      "pinyin": "bù gù fǎn",
+      "meaning": "不考虑回家。顾：念、考虑。"
+    },
+    {
+      "id": "n-ling",
+      "word": "令",
+      "pinyin": "lìng",
+      "meaning": "使、让。“令人老”是使人变老。"
+    },
+    {
+      "id": "n-qijuan",
+      "word": "弃捐",
+      "pinyin": "qì juān",
+      "meaning": "抛弃、丢开。这句是说满腹心事先丢开不说了。"
+    },
+    {
+      "id": "n-jiacan",
+      "word": "加餐饭",
+      "pinyin": "jiā cān fàn",
+      "meaning": "多吃一点饭。古人常用“加餐”劝对方保重身体。"
+    }
+  ],
+  "translation": "走啊走啊，走了一程又一程，和你活生生地分离。彼此相隔一万多里，各自在天的这一边和那一边。道路艰险阻隔，又那样漫长，哪里还能知道什么时候才能相见呢？北方的马依恋着北面的风，南方的鸟把巢筑在南边的树枝上。分离的日子一天天久了，身上的腰带也一天天松缓了。天上的浮云遮住了太阳，漂泊在外的人却不想着回家。想念你，让人一年年变老，转眼之间一年又快要过完了。这些心事丢开先不说了，只盼你努力多吃一点饭，好好保重身体。",
+  "appreciation": "开头五个“行”字连用，像一个人越走越远，把思念越拉越长。胡马依北风、越鸟巢南枝——连马和鸟都恋着自己的故乡，人怎么会不想家？“衣带日已缓”不说自己瘦了，只说腰带一天天松了，写得含蓄又伤心。结尾更是千古名句：千言万语说不完，最后只剩一句“努力加餐饭”——分离到极处，牵挂变成了最朴素的叮咛：好好吃饭，保重身体。",
+  "background": "本诗是《古诗十九首》的第一首，写于东汉末年。当时战乱频繁、行役不断，许多人离家远行，夫妻一别就是多年，音信难通。诗人借一位思妇的口吻，把盼人归、怕人老的心事一一道来，说出了无数分离家庭共同的心声。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "越走越远",
+      "text": "你走了一程又一程，越走越远，这一别就是难以再见的分离。"
+    },
+    {
+      "step": 2,
+      "title": "天各一方",
+      "text": "相隔万里，道路险阻漫长，连能不能再见面都不知道。"
+    },
+    {
+      "step": 3,
+      "title": "触景思人",
+      "text": "看胡马恋北风、越鸟巢南枝，她想起自己：岁月催人老，衣带也松了。"
+    },
+    {
+      "step": 4,
+      "title": "加餐保重",
+      "text": "满腹心事说不尽，最后只化成一句叮咛：努力多吃点饭，保重身体。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "重",
+      "reading": "chóng",
+      "reason": "“行行重行行”的“重”是“又、再”的意思，指走了一程又一程。",
+      "standard": "不读 zhòng"
+    },
+    {
+      "char": "涯",
+      "reading": "yá",
+      "reason": "“天一涯”的“涯”是边际的意思，指天的一边。",
+      "standard": "不要读成 ái"
+    },
+    {
+      "char": "长",
+      "reading": "cháng",
+      "reason": "“道路阻且长”的“长”指路途长远。",
+      "standard": "不读 zhǎng"
+    }
+  ],
+  "sources": ["《文选》", "《古诗十九首》"],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 3001
+}

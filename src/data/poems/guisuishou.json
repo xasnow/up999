@@ -1,0 +1,175 @@
+{
+  "id": "qita-hanwei-caocao-guisuishou",
+  "slug": "guisuishou",
+  "title": "龟虽寿",
+  "titlePinyin": "guī suī shòu",
+  "dynasty": "qita",
+  "era": "hanwei",
+  "genre": "shi",
+  "form": "四言古诗",
+  "authorId": "caocao",
+  "gradeBand": "ext",
+  "difficulty": 3,
+  "tags": ["哲理", "四言古诗", "骏马"],
+  "writtenYear": 207,
+  "writtenLabel": "公元 207 年（建安十二年，与《观沧海》同属组诗《步出夏门行》，作于北征乌桓凯旋途中）",
+  "orderInAuthor": 2,
+  "famousLines": [
+    "老骥伏枥，志在千里。",
+    "烈士暮年，壮心不已。"
+  ],
+  "lines": [
+    {
+      "text": "神龟虽寿，",
+      "pinyin": ["shén", "guī", "suī", "shòu"],
+      "translation": "神龟虽然长寿，",
+      "noteIds": ["n-shengui"]
+    },
+    {
+      "text": "犹有竟时。",
+      "pinyin": ["yóu", "yǒu", "jìng", "shí"],
+      "translation": "也有生命结束的一天。",
+      "noteIds": ["n-jingshi"]
+    },
+    {
+      "text": "腾蛇乘雾，",
+      "pinyin": ["téng", "shé", "chéng", "wù"],
+      "translation": "腾蛇即使能驾雾飞行，",
+      "noteIds": ["n-tengshe"]
+    },
+    {
+      "text": "终为土灰。",
+      "pinyin": ["zhōng", "wéi", "tǔ", "huī"],
+      "translation": "最后也会化为尘土。",
+      "noteIds": []
+    },
+    {
+      "text": "老骥伏枥，",
+      "pinyin": ["lǎo", "jì", "fú", "lì"],
+      "translation": "年老的千里马趴在马槽旁，",
+      "noteIds": ["n-laoji", "n-fuli"]
+    },
+    {
+      "text": "志在千里。",
+      "pinyin": ["zhì", "zài", "qiān", "lǐ"],
+      "translation": "心里还想着驰骋千里。",
+      "noteIds": []
+    },
+    {
+      "text": "烈士暮年，",
+      "pinyin": ["liè", "shì", "mù", "nián"],
+      "translation": "有雄心壮志的人到了晚年，",
+      "noteIds": ["n-lieshi"]
+    },
+    {
+      "text": "壮心不已。",
+      "pinyin": ["zhuàng", "xīn", "bù", "yǐ"],
+      "translation": "奋发向上的心思也不会停止。",
+      "noteIds": []
+    },
+    {
+      "text": "盈缩之期，",
+      "pinyin": ["yíng", "suō", "zhī", "qī"],
+      "translation": "人寿命的长短，",
+      "noteIds": ["n-yingsuo"]
+    },
+    {
+      "text": "不但在天；",
+      "pinyin": ["bú", "dàn", "zài", "tiān"],
+      "translation": "不只由老天决定；",
+      "noteIds": []
+    },
+    {
+      "text": "养怡之福，",
+      "pinyin": ["yǎng", "yí", "zhī", "fú"],
+      "translation": "注意保养身心，",
+      "noteIds": ["n-yangyi"]
+    },
+    {
+      "text": "可得永年。",
+      "pinyin": ["kě", "dé", "yǒng", "nián"],
+      "translation": "也可以活得更长久。",
+      "noteIds": []
+    },
+    {
+      "text": "幸甚至哉，",
+      "pinyin": ["xìng", "shèn", "zhì", "zāi"],
+      "translation": "真是幸运极了，",
+      "noteIds": []
+    },
+    {
+      "text": "歌以咏志。",
+      "pinyin": ["gē", "yǐ", "yǒng", "zhì"],
+      "translation": "就用这首歌来抒发心中的志向。",
+      "noteIds": []
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-shengui",
+      "word": "神龟",
+      "pinyin": "shén guī",
+      "meaning": "传说中的灵龟，据说能活几千年。"
+    },
+    {
+      "id": "n-jingshi",
+      "word": "竟时",
+      "pinyin": "jìng shí",
+      "meaning": "终结的时候。竟：jìng，终结、尽头，指死亡。"
+    },
+    {
+      "id": "n-tengshe",
+      "word": "腾蛇",
+      "pinyin": "téng shé",
+      "meaning": "传说中能腾云驾雾飞行的蛇。"
+    },
+    {
+      "id": "n-laoji",
+      "word": "老骥",
+      "pinyin": "lǎo jì",
+      "meaning": "年老的千里马。骥：jì，好马、千里马。"
+    },
+    {
+      "id": "n-fuli",
+      "word": "伏枥",
+      "pinyin": "fú lì",
+      "meaning": "趴在马槽旁。枥：lì，马槽。"
+    },
+    {
+      "id": "n-lieshi",
+      "word": "烈士",
+      "pinyin": "liè shì",
+      "meaning": "有远大抱负的人，不是今天说的为正义献身的人。"
+    },
+    {
+      "id": "n-yingsuo",
+      "word": "盈缩",
+      "pinyin": "yíng suō",
+      "meaning": "本指长短、伸缩，这里指人寿命的长短。"
+    },
+    {
+      "id": "n-yangyi",
+      "word": "养怡",
+      "pinyin": "yǎng yí",
+      "meaning": "保养身心，注意调养。怡：yí，愉快、和悦。"
+    }
+  ],
+  "translation": "神龟虽然长寿，也有生命结束的一天；腾蛇即使能驾雾飞行，最后也会化为尘土。年老的千里马趴在马槽旁，心里还想着驰骋千里；有雄心壮志的人到了晚年，奋发向上的心思也不会停止。人寿命的长短，不只由老天决定；注意保养身心，也可以活得更长久。真是幸运极了，就用这首歌来抒发心中的志向。",
+  "appreciation": "这首诗通篇在讲道理，却一点也不枯燥。神龟、腾蛇再厉害，也有完结的一天，可诗人不怕老——老马趴在马槽边，心里还想着跑千里路。“老骥伏枥，志在千里”八个字，把不服老的精神写得响当当。他还说寿命不完全由天定，保养好身体照样能有所作为，这种积极劲儿在今天也让人提气。",
+  "background": "这首诗和《观沧海》同属组诗《步出夏门行》，写于公元207年曹操北征乌桓凯旋的路上。当时他五十多岁，虽然打了大胜仗，但心中的大业还远没有完成。面对岁月，他没有叹老，反而写下这首壮心不已的言志之作。",
+  "storyline": [
+    { "step": 1, "title": "灵龟有尽头", "text": "传说中活千年的神龟、腾雾飞行的腾蛇，最终也躲不过终结。" },
+    { "step": 2, "title": "老骥志千里", "text": "年老的千里马虽趴在马槽旁，心里仍想着驰骋千里。" },
+    { "step": 3, "title": "壮心不会停", "text": "有志向的人到了晚年，奋发向上的心气儿依然不减。" },
+    { "step": 4, "title": "保养得永年", "text": "寿命不只由天定，好好保养身心，照样能干出一番事业。" }
+  ],
+  "pinyinNotes": [
+    { "char": "骥", "reading": "jì", "reason": "“老骥”指年老的千里马，读 jì。", "standard": "不要误读成 yì" },
+    { "char": "枥", "reading": "lì", "reason": "“伏枥”的“枥”是马槽，读 lì。", "standard": "不要误读成 lì 之外的音" },
+    { "char": "怡", "reading": "yí", "reason": "“养怡”的“怡”是愉快、和悦的意思，读 yí。" }
+  ],
+  "sources": ["《乐府诗集》", "《曹操集》"],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 3006
+}

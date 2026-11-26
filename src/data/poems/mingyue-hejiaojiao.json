@@ -1,0 +1,181 @@
+{
+  "id": "qita-hanwei-gushishijiu-mingyue-hejiaojiao",
+  "slug": "mingyue-hejiaojiao",
+  "title": "明月何皎皎",
+  "titlePinyin": "míng yuè hé jiǎo jiǎo",
+  "dynasty": "qita",
+  "era": "hanwei",
+  "genre": "shi",
+  "form": "五言古诗",
+  "authorId": "gushishijiu",
+  "gradeBand": "ext",
+  "difficulty": 3,
+  "tags": ["思念", "五言古诗", "明月"],
+  "writtenYear": 180,
+  "writtenLabel": "东汉末年（《古诗十九首》之一）",
+  "orderInAuthor": 5,
+  "famousLines": [
+    "明月何皎皎，照我罗床帏。"
+  ],
+  "lines": [
+    {
+      "text": "明月何皎皎，",
+      "pinyin": ["míng", "yuè", "hé", "jiǎo", "jiǎo"],
+      "translation": "明月是多么皎洁明亮，",
+      "noteIds": ["n-jiaojiao"]
+    },
+    {
+      "text": "照我罗床帏。",
+      "pinyin": ["zhào", "wǒ", "luó", "chuáng", "wéi"],
+      "translation": "月光照在我的丝罗床帐上。",
+      "noteIds": ["n-luochuangwei"]
+    },
+    {
+      "text": "忧愁不能寐，",
+      "pinyin": ["yōu", "chóu", "bù", "néng", "mèi"],
+      "translation": "心里忧愁，怎么也睡不着，",
+      "noteIds": ["n-mei"]
+    },
+    {
+      "text": "揽衣起徘徊。",
+      "pinyin": ["lǎn", "yī", "qǐ", "pái", "huái"],
+      "translation": "披上衣服起身，在屋里走来走去。",
+      "noteIds": ["n-lanyi"]
+    },
+    {
+      "text": "客行虽云乐，",
+      "pinyin": ["kè", "xíng", "suī", "yún", "lè"],
+      "translation": "在外面漂泊虽然说也有快乐，",
+      "noteIds": []
+    },
+    {
+      "text": "不如早旋归。",
+      "pinyin": ["bù", "rú", "zǎo", "xuán", "guī"],
+      "translation": "怎么也不如早早回家。",
+      "noteIds": ["n-xuan"]
+    },
+    {
+      "text": "出户独彷徨，",
+      "pinyin": ["chū", "hù", "dú", "páng", "huáng"],
+      "translation": "走出房门独自彷徨，",
+      "noteIds": ["n-panghuang"]
+    },
+    {
+      "text": "愁思当告谁？",
+      "pinyin": ["chóu", "sī", "dāng", "gào", "shuí"],
+      "translation": "满腹愁思又能告诉谁呢？",
+      "noteIds": []
+    },
+    {
+      "text": "引领还入房，",
+      "pinyin": ["yǐn", "lǐng", "huán", "rù", "fáng"],
+      "translation": "抬头望了望月亮，又回到房里，",
+      "noteIds": ["n-yinling"]
+    },
+    {
+      "text": "泪下沾裳衣。",
+      "pinyin": ["lèi", "xià", "zhān", "cháng", "yī"],
+      "translation": "眼泪落下来，沾湿了衣裳。",
+      "noteIds": ["n-chang"]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-jiaojiao",
+      "word": "皎皎",
+      "pinyin": "jiǎo jiǎo",
+      "meaning": "明亮洁白的样子。"
+    },
+    {
+      "id": "n-luochuangwei",
+      "word": "罗床帏",
+      "pinyin": "luó chuáng wéi",
+      "meaning": "罗制的床帐。罗：一种轻软有稀孔的丝织品。"
+    },
+    {
+      "id": "n-mei",
+      "word": "寐",
+      "pinyin": "mèi",
+      "meaning": "睡着。“不能寐”是睡不着觉。"
+    },
+    {
+      "id": "n-lanyi",
+      "word": "揽衣",
+      "pinyin": "lǎn yī",
+      "meaning": "用手拢起衣服，就是披衣起身。"
+    },
+    {
+      "id": "n-xuan",
+      "word": "旋",
+      "pinyin": "xuán",
+      "meaning": "返回。“旋归”是回家。"
+    },
+    {
+      "id": "n-panghuang",
+      "word": "彷徨",
+      "pinyin": "páng huáng",
+      "meaning": "来回走动、心神不定的样子。"
+    },
+    {
+      "id": "n-yinling",
+      "word": "引领",
+      "pinyin": "yǐn lǐng",
+      "meaning": "伸长脖子，抬头远望。"
+    },
+    {
+      "id": "n-chang",
+      "word": "裳",
+      "pinyin": "cháng",
+      "meaning": "下身穿的衣服。“裳衣”泛指衣服。"
+    }
+  ],
+  "translation": "明月是多么皎洁明亮，月光照在我的丝罗床帐上。心里忧愁，怎么也睡不着，披上衣服起身，在屋里走来走去。在外面漂泊虽然说也有快乐，怎么也不如早早回家。走出房门独自彷徨，满腹愁思又能告诉谁呢？抬头望了望月亮，又回到房里，眼泪落下来，沾湿了衣裳。",
+  "appreciation": "月光太亮了，亮得让人睡不着。诗人被月光照醒，披衣起来在屋里走来走去，走到门外又走回来，最后眼泪落在衣裳上。全诗没有一个“想家”的字眼，却句句是想家：客中再快乐也不如回家，愁思满腹又无人可说。月光像一面镜子，照出的全是心事，把一个深夜失眠的游子写得像就在眼前。",
+  "background": "本诗是《古诗十九首》的最后一首，写于东汉末年。当时许多人常年在外游学、做官、谋生，久客不归。诗写一个游子在明月之夜辗转难眠：他徘徊、彷徨，想回家又回不去，只能对着月光悄悄流泪。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "月照难眠",
+      "text": "深夜明月皎皎，照在床帐上，忧愁的人怎么也睡不着。"
+    },
+    {
+      "step": 2,
+      "title": "披衣徘徊",
+      "text": "他披上衣服起身，在屋里走来走去，心乱得静不下来。"
+    },
+    {
+      "step": 3,
+      "title": "出门彷徨",
+      "text": "走出房门独自彷徨，满腹愁思，却找不到一个人可以诉说。"
+    },
+    {
+      "step": 4,
+      "title": "入房垂泪",
+      "text": "他抬头望望月亮，又回身进屋，眼泪悄悄落湿了衣裳。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "彷",
+      "reading": "páng",
+      "reason": "“彷徨”指来回走动、心神不定，“彷”在这里读 páng。",
+      "standard": "不读 fǎng"
+    },
+    {
+      "char": "裳",
+      "reading": "cháng",
+      "reason": "“沾裳衣”的“裳”指下身穿的衣服，古读 cháng。",
+      "standard": "不读 shang"
+    },
+    {
+      "char": "寐",
+      "reading": "mèi",
+      "reason": "“不能寐”的“寐”是睡着的意思。",
+      "standard": "与“梦寐以求”的“寐”同音"
+    }
+  ],
+  "sources": ["《文选》", "《古诗十九首》"],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 3004
+}

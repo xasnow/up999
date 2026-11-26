@@ -1,0 +1,238 @@
+{
+  "id": "tang-shengtang-wangwei-zhongnanshan",
+  "slug": "zhongnanshan",
+  "title": "终南山",
+  "titlePinyin": "zhōng nán shān",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "五言律诗",
+  "authorId": "wangwei",
+  "gradeBand": "ext",
+  "tags": [
+    "山水",
+    "五言律诗",
+    "白云",
+    "云雾"
+  ],
+  "difficulty": 3,
+  "writtenYear": 742,
+  "writtenLabel": "约公元 742 年（王维 41 岁，隐居终南山辋川一带，游山所写）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "白云回望合，青霭入看无。"
+  ],
+  "lines": [
+    {
+      "text": "太乙近天都，",
+      "pinyin": [
+        "tài",
+        "yǐ",
+        "jìn",
+        "tiān",
+        "dū"
+      ],
+      "translation": "终南山的主峰高得快接近天帝住的地方了。",
+      "noteIds": [
+        "n-taiyi",
+        "n-tiandu"
+      ]
+    },
+    {
+      "text": "连山接海隅。",
+      "pinyin": [
+        "lián",
+        "shān",
+        "jiē",
+        "hǎi",
+        "yú"
+      ],
+      "translation": "连绵的山峰一直延伸到海边。",
+      "noteIds": [
+        "n-haiyu"
+      ]
+    },
+    {
+      "text": "白云回望合，",
+      "pinyin": [
+        "bái",
+        "yún",
+        "huí",
+        "wàng",
+        "hé"
+      ],
+      "translation": "回头一望，刚走过的地方白云又合拢了。",
+      "noteIds": []
+    },
+    {
+      "text": "青霭入看无。",
+      "pinyin": [
+        "qīng",
+        "ǎi",
+        "rù",
+        "kān",
+        "wú"
+      ],
+      "translation": "想走近看那青色的雾气，走近了却什么也没有。",
+      "noteIds": [
+        "n-qingai"
+      ]
+    },
+    {
+      "text": "分野中峰变，",
+      "pinyin": [
+        "fēn",
+        "yě",
+        "zhōng",
+        "fēng",
+        "biàn"
+      ],
+      "translation": "山峰划分出的天地区域，以主峰为界各不相同。",
+      "noteIds": [
+        "n-fenye"
+      ]
+    },
+    {
+      "text": "阴晴众壑殊。",
+      "pinyin": [
+        "yīn",
+        "qíng",
+        "zhòng",
+        "hè",
+        "shū"
+      ],
+      "translation": "众多的山谷里，有的阴、有的晴，各不相同。",
+      "noteIds": [
+        "n-shu"
+      ]
+    },
+    {
+      "text": "欲投人处宿，",
+      "pinyin": [
+        "yù",
+        "tóu",
+        "rén",
+        "chù",
+        "sù"
+      ],
+      "translation": "想找有人烟的地方借宿一夜。",
+      "noteIds": [
+        "n-renchu"
+      ]
+    },
+    {
+      "text": "隔水问樵夫。",
+      "pinyin": [
+        "gé",
+        "shuǐ",
+        "wèn",
+        "qiáo",
+        "fū"
+      ],
+      "translation": "隔着溪水，向砍柴的人问路。",
+      "noteIds": [
+        "n-qiaofu"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-taiyi",
+      "word": "太乙",
+      "pinyin": "tài yǐ",
+      "meaning": "终南山的主峰，也用来代指终南山。"
+    },
+    {
+      "id": "n-tiandu",
+      "word": "天都",
+      "pinyin": "tiān dū",
+      "meaning": "传说中天帝住的地方。"
+    },
+    {
+      "id": "n-haiyu",
+      "word": "海隅",
+      "pinyin": "hǎi yú",
+      "meaning": "海角、海边。"
+    },
+    {
+      "id": "n-qingai",
+      "word": "青霭",
+      "pinyin": "qīng ǎi",
+      "meaning": "山中青色的云雾。"
+    },
+    {
+      "id": "n-fenye",
+      "word": "分野",
+      "pinyin": "fēn yě",
+      "meaning": "古人把天上的星区和地上的地区一一对应，分野指划分出的地域。"
+    },
+    {
+      "id": "n-shu",
+      "word": "殊",
+      "pinyin": "shū",
+      "meaning": "不同、有差别。"
+    },
+    {
+      "id": "n-renchu",
+      "word": "人处",
+      "pinyin": "rén chù",
+      "meaning": "有人烟的地方。"
+    },
+    {
+      "id": "n-qiaofu",
+      "word": "樵夫",
+      "pinyin": "qiáo fū",
+      "meaning": "上山砍柴的人。"
+    }
+  ],
+  "translation": "终南山的主峰高得快接近天帝住的地方了，连绵的山峰一直延伸到海边。回头一望，刚走过的地方白云又合拢了；想走近看那青色的雾气，走近了却什么也没有。山峰划分出的天地区域以主峰为界各不相同，众多的山谷里有的阴、有的晴。想找有人烟的地方借宿一夜，隔着溪水向砍柴的人问路。",
+  "appreciation": "诗人用短短四十个字画出了整座终南山。远看，山峰高到天上、长到海边；走进去，白云在身后合拢，雾气在眼前散开；再往山沟里看，这边晴那边阴。最后问樵夫借宿，大山一下子有了人烟和生气。一远一近、一开一合的写法，就像高手画画，把一座大山写活了。",
+  "background": "终南山在长安城南面，绵延八百多里，是唐代文人常去游览、隐居的地方。王维隐居终南山时期写下了这首游山之作，把大山的高远和云雾的变幻都收进了诗里。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "远望大山",
+      "text": "终南山主峰高耸入云，山脉绵延直到海边。"
+    },
+    {
+      "step": 2,
+      "title": "云雾变幻",
+      "text": "回望白云合拢，走近青霭却怎么也看不见。"
+    },
+    {
+      "step": 3,
+      "title": "阴晴各异",
+      "text": "山峰各分一方，众多山谷阴晴各不相同。"
+    },
+    {
+      "step": 4,
+      "title": "问路投宿",
+      "text": "天色渐晚，诗人隔水向樵夫打听借宿的地方。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "霭",
+      "reading": "ǎi",
+      "reason": "“霭”是云雾的意思，“青霭”读 qīng ǎi。"
+    },
+    {
+      "char": "看",
+      "reading": "kān",
+      "reason": "“入看无”的“看”按诗句音律读平声 kān。",
+      "standard": "口语里一般读 kàn"
+    },
+    {
+      "char": "隅",
+      "reading": "yú",
+      "reason": "“隅”是角落的意思，“海隅”指海边，读 yú。"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1048
+}

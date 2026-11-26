@@ -1,0 +1,238 @@
+{
+  "id": "tang-shengtang-wangwei-guoxiangjisi",
+  "slug": "guoxiangjisi",
+  "title": "过香积寺",
+  "titlePinyin": "guò xiāng jī sì",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "五言律诗",
+  "authorId": "wangwei",
+  "gradeBand": "ext",
+  "tags": [
+    "山水",
+    "五言律诗",
+    "钟声",
+    "深山"
+  ],
+  "difficulty": 3,
+  "writtenYear": 750,
+  "writtenLabel": "约公元 750 年（王维 49 岁，在长安近郊游访香积寺）",
+  "orderInAuthor": 9,
+  "famousLines": [
+    "泉声咽危石，日色冷青松。"
+  ],
+  "lines": [
+    {
+      "text": "不知香积寺，",
+      "pinyin": [
+        "bù",
+        "zhī",
+        "xiāng",
+        "jī",
+        "sì"
+      ],
+      "translation": "不知道香积寺在什么地方。",
+      "noteIds": []
+    },
+    {
+      "text": "数里入云峰。",
+      "pinyin": [
+        "shù",
+        "lǐ",
+        "rù",
+        "yún",
+        "fēng"
+      ],
+      "translation": "走了好几里路，走进了云雾缭绕的山峰。",
+      "noteIds": [
+        "n-yunfeng"
+      ]
+    },
+    {
+      "text": "古木无人径，",
+      "pinyin": [
+        "gǔ",
+        "mù",
+        "wú",
+        "rén",
+        "jìng"
+      ],
+      "translation": "古树参天，找不到人走的小路。",
+      "noteIds": [
+        "n-renjing"
+      ]
+    },
+    {
+      "text": "深山何处钟。",
+      "pinyin": [
+        "shēn",
+        "shān",
+        "hé",
+        "chù",
+        "zhōng"
+      ],
+      "translation": "深山里不知从哪里传来钟声。",
+      "noteIds": []
+    },
+    {
+      "text": "泉声咽危石，",
+      "pinyin": [
+        "quán",
+        "shēng",
+        "yè",
+        "wēi",
+        "shí"
+      ],
+      "translation": "泉水在高高的石头间呜咽流淌。",
+      "noteIds": [
+        "n-yan",
+        "n-weishi"
+      ]
+    },
+    {
+      "text": "日色冷青松。",
+      "pinyin": [
+        "rì",
+        "sè",
+        "lěng",
+        "qīng",
+        "sōng"
+      ],
+      "translation": "夕阳的光照在青松上，透出一股清冷。",
+      "noteIds": []
+    },
+    {
+      "text": "薄暮空潭曲，",
+      "pinyin": [
+        "bó",
+        "mù",
+        "kōng",
+        "tán",
+        "qū"
+      ],
+      "translation": "傍晚时分，水潭弯曲的角落里空空静静。",
+      "noteIds": [
+        "n-bomu",
+        "n-tanqu"
+      ]
+    },
+    {
+      "text": "安禅制毒龙。",
+      "pinyin": [
+        "ān",
+        "chán",
+        "zhì",
+        "dú",
+        "lóng"
+      ],
+      "translation": "只有安心入定，才能制伏心里的毒龙。",
+      "noteIds": [
+        "n-anchan",
+        "n-dulong"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-yunfeng",
+      "word": "云峰",
+      "pinyin": "yún fēng",
+      "meaning": "高入云端的山峰。"
+    },
+    {
+      "id": "n-renjing",
+      "word": "人径",
+      "pinyin": "rén jìng",
+      "meaning": "人们走的小路。"
+    },
+    {
+      "id": "n-yan",
+      "word": "咽",
+      "pinyin": "yè",
+      "meaning": "呜咽，形容泉水在高石间流得很艰难，声音低低的。"
+    },
+    {
+      "id": "n-weishi",
+      "word": "危石",
+      "pinyin": "wēi shí",
+      "meaning": "高耸的石头。"
+    },
+    {
+      "id": "n-bomu",
+      "word": "薄暮",
+      "pinyin": "bó mù",
+      "meaning": "傍晚，太阳快落山的时候。"
+    },
+    {
+      "id": "n-tanqu",
+      "word": "潭曲",
+      "pinyin": "tán qū",
+      "meaning": "水潭弯曲的角落。"
+    },
+    {
+      "id": "n-anchan",
+      "word": "安禅",
+      "pinyin": "ān chán",
+      "meaning": "佛家用语，指安静地打坐入定。"
+    },
+    {
+      "id": "n-dulong",
+      "word": "毒龙",
+      "pinyin": "dú lóng",
+      "meaning": "佛家用它比喻人心里的贪念和烦恼。"
+    }
+  ],
+  "translation": "不知道香积寺在什么地方，走了好几里路，走进了云雾缭绕的山峰。古树参天，找不到人走的小路，深山里不知从哪里传来钟声。泉水在高高的石头间呜咽流淌，夕阳的光照在青松上，透出一股清冷。傍晚时分，水潭弯曲的角落里空空静静，只有安心入定，才能制伏心里的毒龙。",
+  "appreciation": "这首诗最妙的是看不见寺，却处处有寺：深山里传来的一声钟，是寺的声音；泉水呜咽、松间冷日，是去寺的路上。一个“咽”字、一个“冷”字，把深山写得又寂静又清冷。最后一句用佛家“制毒龙”的比喻，把一次游山变成了一次修心，让人回味很久。",
+  "background": "香积寺在长安城南的神禾原上，是唐代有名的寺院。王维晚年常在长安近郊游走，这一天他进山访寺，一路深山古木、泉声钟声，回来写下了这首名作。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "入山寻寺",
+      "text": "不知寺在哪里，诗人走进云雾缭绕的山峰。"
+    },
+    {
+      "step": 2,
+      "title": "深山闻钟",
+      "text": "古木参天不见人，忽然远处传来钟声。"
+    },
+    {
+      "step": 3,
+      "title": "泉咽松冷",
+      "text": "泉水在石间呜咽，夕阳把青松照得清冷。"
+    },
+    {
+      "step": 4,
+      "title": "潭边悟禅",
+      "text": "傍晚空潭一片安静，让人想到安心入定的道理。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "咽",
+      "reading": "yè",
+      "reason": "形容泉水声像呜咽，读 yè。",
+      "standard": "不要读成 yān（咽喉）或 yàn（咽下）"
+    },
+    {
+      "char": "禅",
+      "reading": "chán",
+      "reason": "“安禅”是打坐入定的意思，读 chán。",
+      "standard": "不要读成 shàn"
+    },
+    {
+      "char": "薄",
+      "reading": "bó",
+      "reason": "“薄暮”指傍晚，读 bó。",
+      "standard": "不要读成 báo"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1050
+}

@@ -1,0 +1,224 @@
+{
+  "id": "tang-shengtang-wangwei-chouzhangshaofu",
+  "slug": "chouzhangshaofu",
+  "title": "酬张少府",
+  "titlePinyin": "chóu zhāng shào fǔ",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "五言律诗",
+  "authorId": "wangwei",
+  "gradeBand": "ext",
+  "tags": [
+    "山水",
+    "五言律诗",
+    "山月",
+    "弹琴"
+  ],
+  "difficulty": 3,
+  "writtenYear": 759,
+  "writtenLabel": "约公元 759 年（王维 58 岁，居辋川，写诗答和张少府）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "松风吹解带，山月照弹琴。"
+  ],
+  "lines": [
+    {
+      "text": "晚年唯好静，",
+      "pinyin": [
+        "wǎn",
+        "nián",
+        "wéi",
+        "hào",
+        "jìng"
+      ],
+      "translation": "到了晚年我只喜欢安静。",
+      "noteIds": [
+        "n-haojing"
+      ]
+    },
+    {
+      "text": "万事不关心。",
+      "pinyin": [
+        "wàn",
+        "shì",
+        "bù",
+        "guān",
+        "xīn"
+      ],
+      "translation": "什么事都不放在心上了。",
+      "noteIds": []
+    },
+    {
+      "text": "自顾无长策，",
+      "pinyin": [
+        "zì",
+        "gù",
+        "wú",
+        "cháng",
+        "cè"
+      ],
+      "translation": "想想自己拿不出什么高明的办法。",
+      "noteIds": [
+        "n-changce"
+      ]
+    },
+    {
+      "text": "空知返旧林。",
+      "pinyin": [
+        "kōng",
+        "zhī",
+        "fǎn",
+        "jiù",
+        "lín"
+      ],
+      "translation": "只知道回到旧日隐居的林子里去。",
+      "noteIds": [
+        "n-jiulin"
+      ]
+    },
+    {
+      "text": "松风吹解带，",
+      "pinyin": [
+        "sōng",
+        "fēng",
+        "chuī",
+        "jiě",
+        "dài"
+      ],
+      "translation": "松林的风吹着我解开的衣带。",
+      "noteIds": [
+        "n-jiedai"
+      ]
+    },
+    {
+      "text": "山月照弹琴。",
+      "pinyin": [
+        "shān",
+        "yuè",
+        "zhào",
+        "tán",
+        "qín"
+      ],
+      "translation": "山间的月光照着我弹琴。",
+      "noteIds": []
+    },
+    {
+      "text": "君问穷通理，",
+      "pinyin": [
+        "jūn",
+        "wèn",
+        "qióng",
+        "tōng",
+        "lǐ"
+      ],
+      "translation": "你问我人为什么会失意、为什么会显达的道理。",
+      "noteIds": [
+        "n-qiongtong"
+      ]
+    },
+    {
+      "text": "渔歌入浦深。",
+      "pinyin": [
+        "yú",
+        "gē",
+        "rù",
+        "pǔ",
+        "shēn"
+      ],
+      "translation": "你听，渔夫的歌已经唱到水湾深处去了。",
+      "noteIds": [
+        "n-pu"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-haojing",
+      "word": "好静",
+      "pinyin": "hào jìng",
+      "meaning": "喜欢安静。"
+    },
+    {
+      "id": "n-changce",
+      "word": "长策",
+      "pinyin": "cháng cè",
+      "meaning": "高明的计策、好办法。"
+    },
+    {
+      "id": "n-jiulin",
+      "word": "旧林",
+      "pinyin": "jiù lín",
+      "meaning": "从前隐居的树林，指辋川。"
+    },
+    {
+      "id": "n-jiedai",
+      "word": "解带",
+      "pinyin": "jiě dài",
+      "meaning": "解开衣带，表示闲适自在。"
+    },
+    {
+      "id": "n-qiongtong",
+      "word": "穷通",
+      "pinyin": "qióng tōng",
+      "meaning": "穷困和显达，指人生的失意与得意。"
+    },
+    {
+      "id": "n-pu",
+      "word": "浦",
+      "pinyin": "pǔ",
+      "meaning": "水口、水湾。"
+    }
+  ],
+  "translation": "到了晚年我只喜欢安静，什么事都不放在心上了。想想自己拿不出什么高明的办法，只知道回到旧日隐居的林子里去。松林的风吹着我解开的衣带，山间的月光照着我弹琴。你问我人为什么会失意、为什么会显达的道理？你听，渔夫的歌已经唱到水湾深处去了。",
+  "appreciation": "有朋友来问做官和得志的道理，诗人没有正面回答，只是写自己的日子：松风吹动衣带，月亮照着琴弦。最后一句更妙——渔歌飘进水湾深处，好像在说：答案就在这山水里，何必再问呢？全诗安静、清爽，把“不追名逐利”写成了一幅最美的画面。",
+  "background": "王维晚年过着半官半隐的生活。一位姓张的少府（县尉）写诗向他请教人生穷通得失的道理，王维便写了这首诗作答，说自己只想安安静静地归隐山林，去过弹琴听风的日子。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "晚年好静",
+      "text": "诗人说自己老了，只想安安静静地过日子。"
+    },
+    {
+      "step": 2,
+      "title": "松风解带",
+      "text": "松风吹着解开的衣带，山间月亮照着弹琴的人。"
+    },
+    {
+      "step": 3,
+      "title": "友人相问",
+      "text": "朋友来信，问他人生穷困与显达的道理。"
+    },
+    {
+      "step": 4,
+      "title": "渔歌作答",
+      "text": "诗人不作回答，只让他去听水湾深处的渔歌。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "好",
+      "reading": "hào",
+      "reason": "“好静”是喜欢安静的意思，读 hào。",
+      "standard": "不要读成 hǎo"
+    },
+    {
+      "char": "长",
+      "reading": "cháng",
+      "reason": "“长策”是好计策的意思，读 cháng。",
+      "standard": "不要读成 zhǎng"
+    },
+    {
+      "char": "浦",
+      "reading": "pǔ",
+      "reason": "“浦”是水口、水湾的意思，读 pǔ。"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1049
+}

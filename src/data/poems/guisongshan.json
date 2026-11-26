@@ -1,0 +1,223 @@
+{
+  "id": "tang-shengtang-wangwei-guisongshan",
+  "slug": "guisongshan",
+  "title": "归嵩山作",
+  "titlePinyin": "guī sōng shān zuò",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "五言律诗",
+  "authorId": "wangwei",
+  "gradeBand": "ext",
+  "tags": [
+    "山水",
+    "五言律诗",
+    "落日",
+    "秋山"
+  ],
+  "difficulty": 3,
+  "writtenYear": 731,
+  "writtenLabel": "约公元 731 年（王维 30 岁左右，回嵩山隐居途中所作）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "荒城临古渡，落日满秋山。"
+  ],
+  "lines": [
+    {
+      "text": "清川带长薄，",
+      "pinyin": [
+        "qīng",
+        "chuān",
+        "dài",
+        "cháng",
+        "bó"
+      ],
+      "translation": "清澈的河水绕过草木丛生的两岸。",
+      "noteIds": [
+        "n-changbo"
+      ]
+    },
+    {
+      "text": "车马去闲闲。",
+      "pinyin": [
+        "chē",
+        "mǎ",
+        "qù",
+        "xián",
+        "xián"
+      ],
+      "translation": "车马慢慢地、从容地往前走。",
+      "noteIds": [
+        "n-xianxian"
+      ]
+    },
+    {
+      "text": "流水如有意，",
+      "pinyin": [
+        "liú",
+        "shuǐ",
+        "rú",
+        "yǒu",
+        "yì"
+      ],
+      "translation": "流水好像有情有意，一路相送。",
+      "noteIds": []
+    },
+    {
+      "text": "暮禽相与还。",
+      "pinyin": [
+        "mù",
+        "qín",
+        "xiāng",
+        "yǔ",
+        "huán"
+      ],
+      "translation": "傍晚的鸟儿结伴一起飞回巢去。",
+      "noteIds": [
+        "n-xiangyuhuan"
+      ]
+    },
+    {
+      "text": "荒城临古渡，",
+      "pinyin": [
+        "huāng",
+        "chéng",
+        "lín",
+        "gǔ",
+        "dù"
+      ],
+      "translation": "荒凉的城墙对着古老的渡口。",
+      "noteIds": []
+    },
+    {
+      "text": "落日满秋山。",
+      "pinyin": [
+        "luò",
+        "rì",
+        "mǎn",
+        "qiū",
+        "shān"
+      ],
+      "translation": "落日的光辉铺满了秋天的山野。",
+      "noteIds": []
+    },
+    {
+      "text": "迢递嵩高下，",
+      "pinyin": [
+        "tiáo",
+        "dì",
+        "sōng",
+        "gāo",
+        "xià"
+      ],
+      "translation": "远远地来到嵩山的下面。",
+      "noteIds": [
+        "n-tiaodi",
+        "n-songgao"
+      ]
+    },
+    {
+      "text": "归来且闭关。",
+      "pinyin": [
+        "guī",
+        "lái",
+        "qiě",
+        "bì",
+        "guān"
+      ],
+      "translation": "回来以后，就关起门来安静地隐居吧。",
+      "noteIds": [
+        "n-biguan"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-changbo",
+      "word": "长薄",
+      "pinyin": "cháng bó",
+      "meaning": "草木丛生的地方。"
+    },
+    {
+      "id": "n-xianxian",
+      "word": "闲闲",
+      "pinyin": "xián xián",
+      "meaning": "从容悠闲的样子。"
+    },
+    {
+      "id": "n-xiangyuhuan",
+      "word": "相与还",
+      "pinyin": "xiāng yǔ huán",
+      "meaning": "结伴一起回来。"
+    },
+    {
+      "id": "n-tiaodi",
+      "word": "迢递",
+      "pinyin": "tiáo dì",
+      "meaning": "遥远的样子。"
+    },
+    {
+      "id": "n-songgao",
+      "word": "嵩高",
+      "pinyin": "sōng gāo",
+      "meaning": "即嵩山，在今河南登封。"
+    },
+    {
+      "id": "n-biguan",
+      "word": "闭关",
+      "pinyin": "bì guān",
+      "meaning": "关起门来，指闭门谢客、安静隐居。"
+    }
+  ],
+  "translation": "清澈的河水绕过草木丛生的两岸，车马慢慢地、从容地往前走。流水好像有情有意，一路相送；傍晚的鸟儿结伴一起飞回巢去。荒凉的城墙对着古老的渡口，落日的光辉铺满了秋天的山野。远远地来到嵩山的下面，回来以后，就关起门来安静地隐居吧。",
+  "appreciation": "这一路山水写得像回乡一样从容：水有情，鸟结伴，落日铺满秋山。景色越写越静，诗人的心也越走越安。最后“闭关”两个字，把归隐的决心轻轻带出，不喊不闹、不急不躁，正是王维一贯的安静本色。读这首诗，就像跟着他坐了一段慢慢悠悠的车。",
+  "background": "王维年轻时曾在嵩山隐居过一段时间。这首诗写他离开尘世、回嵩山隐居路上的所见：清川、流水、暮鸟、荒城、落日，一路景色静静陪着他归去，心里只有安稳，没有犹豫。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "乘车出行",
+      "text": "清川流水边，车马从容地往嵩山走去。"
+    },
+    {
+      "step": 2,
+      "title": "水鸟相伴",
+      "text": "流水像有意相送，暮鸟也结伴飞回山里。"
+    },
+    {
+      "step": 3,
+      "title": "荒城落日",
+      "text": "古渡旁是荒凉的城，落日照满秋天的山。"
+    },
+    {
+      "step": 4,
+      "title": "闭门隐居",
+      "text": "到了嵩山下，诗人打算闭门安静地隐居。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "薄",
+      "reading": "bó",
+      "reason": "“长薄”指草木丛生的地方，读 bó。",
+      "standard": "不要读成 báo"
+    },
+    {
+      "char": "还",
+      "reading": "huán",
+      "reason": "“相与还”是结伴回来的意思，读 huán。",
+      "standard": "不要读成 hái"
+    },
+    {
+      "char": "迢递",
+      "reading": "tiáo dì",
+      "reason": "形容路途遥远，两个字连读 tiáo dì。"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1052
+}

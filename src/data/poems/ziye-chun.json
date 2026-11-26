@@ -1,0 +1,166 @@
+{
+  "id": "tang-shengtang-libai-ziye-chun",
+  "slug": "ziye-chun",
+  "title": "子夜吴歌·春歌",
+  "titlePinyin": "zǐ yè wú gē · chūn gē",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "五言乐府",
+  "authorId": "libai",
+  "gradeBand": "ext",
+  "tags": [
+    "田园",
+    "春天",
+    "采桑",
+    "五言乐府"
+  ],
+  "difficulty": 3,
+  "writtenYear": 731,
+  "writtenLabel": "约公元 731 年（李白 30 岁，漫游期间拟乐府旧题《子夜四时歌》而作）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "秦地罗敷女，采桑绿水边。"
+  ],
+  "lines": [
+    {
+      "text": "秦地罗敷女，",
+      "pinyin": [
+        "qín",
+        "dì",
+        "luó",
+        "fū",
+        "nǚ"
+      ],
+      "translation": "秦地有位像罗敷那样的姑娘，",
+      "noteIds": [
+        "n-luofu"
+      ]
+    },
+    {
+      "text": "采桑绿水边。",
+      "pinyin": [
+        "cǎi",
+        "sāng",
+        "lǜ",
+        "shuǐ",
+        "biān"
+      ],
+      "translation": "正在碧绿的江水边采桑叶。",
+      "noteIds": []
+    },
+    {
+      "text": "素手青条上，",
+      "pinyin": [
+        "sù",
+        "shǒu",
+        "qīng",
+        "tiáo",
+        "shàng"
+      ],
+      "translation": "雪白的手伸在青青的桑枝上，",
+      "noteIds": []
+    },
+    {
+      "text": "红妆白日鲜。",
+      "pinyin": [
+        "hóng",
+        "zhuāng",
+        "bái",
+        "rì",
+        "xiān"
+      ],
+      "translation": "红妆映着太阳，显得格外鲜亮。",
+      "noteIds": []
+    },
+    {
+      "text": "蚕饥妾欲去，",
+      "pinyin": [
+        "cán",
+        "jī",
+        "qiè",
+        "yù",
+        "qù"
+      ],
+      "translation": "她说：家里的蚕饿了，我要回去了，",
+      "noteIds": [
+        "n-qie"
+      ]
+    },
+    {
+      "text": "五马莫留连。",
+      "pinyin": [
+        "wǔ",
+        "mǎ",
+        "mò",
+        "liú",
+        "lián"
+      ],
+      "translation": "驾着五马大车的官老爷，请别纠缠。",
+      "noteIds": [
+        "n-wuma"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-luofu",
+      "word": "罗敷",
+      "pinyin": "luó fū",
+      "meaning": "汉代乐府《陌上桑》里美丽而机智的采桑女子，这里泛指采桑姑娘。"
+    },
+    {
+      "id": "n-qie",
+      "word": "妾",
+      "pinyin": "qiè",
+      "meaning": "古代女子的自称。"
+    },
+    {
+      "id": "n-wuma",
+      "word": "五马",
+      "pinyin": "wǔ mǎ",
+      "meaning": "汉代太守乘坐五匹马的车，这里指有权势的官员。莫留连，不要纠缠不放。"
+    }
+  ],
+  "translation": "秦地有位像罗敷那样的姑娘，正在碧绿的江水边采桑叶。雪白的手伸在青青的桑枝上，红妆映着太阳格外鲜亮。她说：家里的蚕饿了，我要回去了，驾着五马大车的官老爷请别纠缠。",
+  "appreciation": "这首诗借乐府《陌上桑》里的罗敷故事写春日采桑：素手、青条、红妆、白日，四种颜色互相映衬，画面明亮得像春天的太阳。妙在结尾借姑娘之口一句“蚕饥妾欲去”，又巧又俏皮，既找了回家的理由，又婉转地回绝了纠缠的贵人，把姑娘的聪慧大方写得活灵活现。",
+  "background": "《子夜吴歌》原是南朝乐府《子夜四时歌》，分春、夏、秋、冬四首。李白借用旧题重新创作，这一首化用汉代采桑女罗敷的传说，写秦地春日的采桑姑娘。一般认为作于开元年间他漫游四方的时候。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "春江采桑",
+      "text": "春水碧绿，像罗敷一样的姑娘在江边采桑叶。"
+    },
+    {
+      "step": 2,
+      "title": "素手红妆",
+      "text": "白手伸上青枝，红妆映着白日，人比春光还鲜亮。"
+    },
+    {
+      "step": 3,
+      "title": "蚕饥欲归",
+      "text": "姑娘说家里的蚕饿了，要赶回去喂蚕。"
+    },
+    {
+      "step": 4,
+      "title": "婉拒贵人",
+      "text": "面对五马车的官老爷，她巧妙地说：请别留难。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "敷",
+      "reading": "fū",
+      "reason": "人名“罗敷”读 luó fū。",
+      "standard": "不要读成 fú 或 fù"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》",
+    "《李太白集》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1245
+}

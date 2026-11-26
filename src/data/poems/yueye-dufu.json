@@ -1,0 +1,200 @@
+{
+  "id": "tang-shengtang-dufu-yueye-dufu",
+  "slug": "yueye-dufu",
+  "title": "月夜",
+  "titlePinyin": "yuè yè",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "五言律诗",
+  "authorId": "dufu",
+  "gradeBand": "ext",
+  "tags": [
+    "思念",
+    "五言律诗",
+    "月夜"
+  ],
+  "difficulty": 3,
+  "writtenYear": 756,
+  "writtenLabel": "公元 756 年（杜甫 44 岁，被叛军困在长安，月夜想念鄜州的妻子儿女）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "今夜鄜州月，闺中只独看。"
+  ],
+  "lines": [
+    {
+      "text": "今夜鄜州月，",
+      "pinyin": [
+        "jīn",
+        "yè",
+        "fū",
+        "zhōu",
+        "yuè"
+      ],
+      "translation": "今夜，鄜州的上空挂着月亮。",
+      "noteIds": [
+        "n-fuzhou"
+      ]
+    },
+    {
+      "text": "闺中只独看。",
+      "pinyin": [
+        "guī",
+        "zhōng",
+        "zhǐ",
+        "dú",
+        "kān"
+      ],
+      "translation": "妻子一定在闺房里，独自望着它。",
+      "noteIds": []
+    },
+    {
+      "text": "遥怜小儿女，",
+      "pinyin": [
+        "yáo",
+        "lián",
+        "xiǎo",
+        "ér",
+        "nǚ"
+      ],
+      "translation": "我远远地疼着那些小小的儿女，",
+      "noteIds": []
+    },
+    {
+      "text": "未解忆长安。",
+      "pinyin": [
+        "wèi",
+        "jiě",
+        "yì",
+        "cháng",
+        "ān"
+      ],
+      "translation": "他们还不懂得想念身在长安的父亲。",
+      "noteIds": []
+    },
+    {
+      "text": "香雾云鬟湿，",
+      "pinyin": [
+        "xiāng",
+        "wù",
+        "yún",
+        "huán",
+        "shī"
+      ],
+      "translation": "夜雾打湿了她如云的鬓发，",
+      "noteIds": [
+        "n-yunhuan"
+      ]
+    },
+    {
+      "text": "清辉玉臂寒。",
+      "pinyin": [
+        "qīng",
+        "huī",
+        "yù",
+        "bì",
+        "hán"
+      ],
+      "translation": "清冷的月光，照得她手臂发凉。",
+      "noteIds": []
+    },
+    {
+      "text": "何时倚虚幌，",
+      "pinyin": [
+        "hé",
+        "shí",
+        "yǐ",
+        "xū",
+        "huǎng"
+      ],
+      "translation": "什么时候，我们才能一起靠着透明的帷幔，",
+      "noteIds": [
+        "n-xuhuang"
+      ]
+    },
+    {
+      "text": "双照泪痕干。",
+      "pinyin": [
+        "shuāng",
+        "zhào",
+        "lèi",
+        "hén",
+        "gān"
+      ],
+      "translation": "让月光把两个人的泪痕都照干。",
+      "noteIds": []
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-fuzhou",
+      "word": "鄜州",
+      "pinyin": "fū zhōu",
+      "meaning": "地名，在今陕西富县，当时杜甫的妻子儿女住在那里。"
+    },
+    {
+      "id": "n-yunhuan",
+      "word": "云鬟",
+      "pinyin": "yún huán",
+      "meaning": "女子梳得如云一样的高髻。"
+    },
+    {
+      "id": "n-xuhuang",
+      "word": "虚幌",
+      "pinyin": "xū huǎng",
+      "meaning": "透明的窗帘、帷幔。"
+    }
+  ],
+  "translation": "今夜，鄜州的上空挂着月亮，妻子一定在闺房里，独自望着它。我远远地疼着那些小小的儿女，他们还不懂得想念身在长安的父亲。夜雾打湿了她如云的鬓发，清冷的月光照得她手臂发凉。什么时候，我们才能一起靠着透明的帷幔，让月光把两个人的泪痕都照干。",
+  "appreciation": "想念妻子，却不写自己怎么想，偏说妻子在鄜州独自望月，连孩子都“未解忆”，把思念全推给对方，反而更深一层。第三联写妻子久立月下，雾湿鬓发、月寒玉臂，简直是一幅画。结尾问什么时候能同倚帷幔、让月光照干两人的泪痕——先写泪湿，再盼泪干，盼的就是团圆。古人说这首诗是“从对面想”，说得极准。",
+  "background": "公元 756 年，安史之乱爆发，杜甫把家安顿在鄜州的羌村，自己去投奔新即位的皇帝，半路被叛军抓住，困在长安。八月的一个夜晚，他望着城里的月亮，想起远在鄜州的妻子儿女，写下这首诗。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "月照两地",
+      "text": "今夜长安与鄜州同挂一轮月，诗人猜想妻子正独自望月。"
+    },
+    {
+      "step": 2,
+      "title": "稚子不解",
+      "text": "小儿女跟在母亲身边，还不懂得想念远在长安的父亲。"
+    },
+    {
+      "step": 3,
+      "title": "雾湿臂寒",
+      "text": "夜雾打湿妻子的鬓发，清冷的月光照得她手臂发凉。"
+    },
+    {
+      "step": 4,
+      "title": "盼得双照",
+      "text": "诗人盼望有一天夫妻同倚帷幔，让月光把泪痕照干。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "鄜",
+      "reading": "fū",
+      "reason": "鄜州是地名，“鄜”读 fū。",
+      "standard": "不要读成 lù 或 fú"
+    },
+    {
+      "char": "看",
+      "reading": "kān",
+      "reason": "“独看”的“看”处在押韵处，按诗律读平声 kān。",
+      "standard": "不要读成 kàn"
+    },
+    {
+      "char": "鬟",
+      "reading": "huán",
+      "reason": "“云鬟”指如云的发髻，读 huán。",
+      "standard": "不要读成 huān 或 bān"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1077
+}

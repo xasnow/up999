@@ -1,0 +1,225 @@
+{
+  "id": "tang-shengtang-menghaoran-yanmeidaoshi-shanfang",
+  "slug": "yanmeidaoshi-shanfang",
+  "title": "宴梅道士山房",
+  "titlePinyin": "yàn méi dào shì shān fáng",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "五言律诗",
+  "authorId": "menghaoran",
+  "gradeBand": "ext",
+  "tags": [
+    "友情",
+    "五言律诗",
+    "春天",
+    "桃花"
+  ],
+  "difficulty": 3,
+  "writtenYear": 731,
+  "writtenLabel": "约公元 731 年（孟浩然 43 岁，隐居襄阳，受邀赴梅道士山房宴饮）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "童颜若可驻，何惜醉流霞。"
+  ],
+  "lines": [
+    {
+      "text": "林卧愁春尽，",
+      "pinyin": [
+        "lín",
+        "wò",
+        "chóu",
+        "chūn",
+        "jìn"
+      ],
+      "translation": "躺在山林里，正发愁春天快要过完，",
+      "noteIds": [
+        "n-linwo"
+      ]
+    },
+    {
+      "text": "开轩览物华。",
+      "pinyin": [
+        "kāi",
+        "xuān",
+        "lǎn",
+        "wù",
+        "huá"
+      ],
+      "translation": "打开窗户想看看美好的景物。",
+      "noteIds": [
+        "n-wuhua"
+      ]
+    },
+    {
+      "text": "忽逢青鸟使，",
+      "pinyin": [
+        "hū",
+        "féng",
+        "qīng",
+        "niǎo",
+        "shǐ"
+      ],
+      "translation": "忽然来了梅道士的信使，",
+      "noteIds": [
+        "n-qingniao"
+      ]
+    },
+    {
+      "text": "邀入赤松家。",
+      "pinyin": [
+        "yāo",
+        "rù",
+        "chì",
+        "sōng",
+        "jiā"
+      ],
+      "translation": "邀请我到他的山房做客。",
+      "noteIds": [
+        "n-chisong"
+      ]
+    },
+    {
+      "text": "金灶初开火，",
+      "pinyin": [
+        "jīn",
+        "zào",
+        "chū",
+        "kāi",
+        "huǒ"
+      ],
+      "translation": "炼丹的金炉刚升起火，",
+      "noteIds": [
+        "n-jinzao"
+      ]
+    },
+    {
+      "text": "仙桃正发花。",
+      "pinyin": [
+        "xiān",
+        "táo",
+        "zhèng",
+        "fā",
+        "huā"
+      ],
+      "translation": "仙桃树上正开着花。",
+      "noteIds": []
+    },
+    {
+      "text": "童颜若可驻，",
+      "pinyin": [
+        "tóng",
+        "yán",
+        "ruò",
+        "kě",
+        "zhù"
+      ],
+      "translation": "如果年轻的面容真的可以留住不老，",
+      "noteIds": [
+        "n-zhu"
+      ]
+    },
+    {
+      "text": "何惜醉流霞。",
+      "pinyin": [
+        "hé",
+        "xī",
+        "zuì",
+        "liú",
+        "xiá"
+      ],
+      "translation": "我哪会舍不得在美酒里一醉方休呢。",
+      "noteIds": [
+        "n-liuxia"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-linwo",
+      "word": "林卧",
+      "pinyin": "lín wò",
+      "meaning": "躺卧在山林间，指隐居生活。"
+    },
+    {
+      "id": "n-wuhua",
+      "word": "物华",
+      "pinyin": "wù huá",
+      "meaning": "美好的景物。"
+    },
+    {
+      "id": "n-qingniao",
+      "word": "青鸟使",
+      "pinyin": "qīng niǎo shǐ",
+      "meaning": "神话中西王母的信使青鸟，这里指梅道士派来送信邀约的使者。"
+    },
+    {
+      "id": "n-chisong",
+      "word": "赤松家",
+      "pinyin": "chì sōng jiā",
+      "meaning": "赤松子是传说中的仙人，这里指梅道士的山房。"
+    },
+    {
+      "id": "n-jinzao",
+      "word": "金灶",
+      "pinyin": "jīn zào",
+      "meaning": "炼丹用的炉灶。"
+    },
+    {
+      "id": "n-zhu",
+      "word": "驻",
+      "pinyin": "zhù",
+      "meaning": "停住、留住。“童颜可驻”就是让年轻的面容不老。"
+    },
+    {
+      "id": "n-liuxia",
+      "word": "流霞",
+      "pinyin": "liú xiá",
+      "meaning": "传说中仙人的酒，这里泛指美酒。"
+    }
+  ],
+  "translation": "躺在山林里，正发愁春天快要过完，打开窗户想看看美好的景物。忽然来了梅道士的信使，邀请我到他的山房做客。炼丹的金炉刚升起火，仙桃树上正开着花。如果年轻的面容真的可以留住不老，我哪会舍不得在美酒里一醉方休呢。",
+  "appreciation": "正愁着春天要过完，道士的信使忽然来请，愁一下子变成了欢喜。山房里丹炉生火、仙桃开花，处处带着仙气。诗人还开了个玩笑：只要青春留得住，就情愿喝到醉。全诗轻快俏皮，把朋友间的情谊和山房的仙气融在一起，读来格外有趣。",
+  "background": "孟浩然隐居襄阳的时候，和梅道士是常来常往的好朋友。这一年暮春，梅道士派信使来请他去山房赴宴。诗人带着玩笑的口吻写诗记下这次相聚，把丹炉、仙桃和美酒，写成了一个满是仙气的春天。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "暮春生愁",
+      "text": "诗人躺在山林里发愁，美好的春天眼看就要过完了。"
+    },
+    {
+      "step": 2,
+      "title": "信使相邀",
+      "text": "忽然梅道士的信使来到门前，请他到山房去做客。"
+    },
+    {
+      "step": 3,
+      "title": "丹炉桃花",
+      "text": "山房里炼丹的金炉刚生起火，仙桃树上正开着花。"
+    },
+    {
+      "step": 4,
+      "title": "醉饮流霞",
+      "text": "诗人笑着说只要能留住青春，就情愿喝它一醉方休。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "轩",
+      "reading": "xuān",
+      "reason": "“开轩”的“轩”读 xuān，指窗户。"
+    },
+    {
+      "char": "灶",
+      "reading": "zào",
+      "reason": "“金灶”的“灶”读 zào，是烧火炼丹的炉子。"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1090
+}

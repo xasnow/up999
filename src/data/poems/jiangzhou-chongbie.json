@@ -1,0 +1,226 @@
+{
+  "id": "tang-zhongtang-liuchangqing-jiangzhou-chongbie",
+  "slug": "jiangzhou-chongbie",
+  "title": "江州重别薛六柳八二员外",
+  "titlePinyin": "jiāng zhōu chóng bié xuē liù liǔ bā èr yuán wài",
+  "dynasty": "tangshi",
+  "era": "zhongtang",
+  "genre": "shi",
+  "form": "七言律诗",
+  "authorId": "liuchangqing",
+  "gradeBand": "ext",
+  "tags": [
+    "送别",
+    "明月",
+    "落叶",
+    "七言律诗"
+  ],
+  "difficulty": 3,
+  "writtenYear": 779,
+  "writtenLabel": "约公元 779 年（刘长卿约 53 岁，再贬睦州司马，途经江州与友人道别）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "江上月明胡雁过，淮南木落楚山多。"
+  ],
+  "lines": [
+    {
+      "text": "生涯岂料承优诏，",
+      "pinyin": [
+        "shēng",
+        "yá",
+        "qǐ",
+        "liào",
+        "chéng",
+        "yōu",
+        "zhào"
+      ],
+      "translation": "一生的际遇哪能料到，竟接到这样优待的诏书，",
+      "noteIds": [
+        "n-youzhao"
+      ]
+    },
+    {
+      "text": "世事空知学醉歌。",
+      "pinyin": [
+        "shì",
+        "shì",
+        "kōng",
+        "zhī",
+        "xué",
+        "zuì",
+        "gē"
+      ],
+      "translation": "世事难为，只好空自学着醉酒放歌。",
+      "noteIds": []
+    },
+    {
+      "text": "江上月明胡雁过，",
+      "pinyin": [
+        "jiāng",
+        "shàng",
+        "yuè",
+        "míng",
+        "hú",
+        "yàn",
+        "guò"
+      ],
+      "translation": "江上明月高照，北来的鸿雁飞过，",
+      "noteIds": [
+        "n-huyan"
+      ]
+    },
+    {
+      "text": "淮南木落楚山多。",
+      "pinyin": [
+        "huái",
+        "nán",
+        "mù",
+        "luò",
+        "chǔ",
+        "shān",
+        "duō"
+      ],
+      "translation": "淮南树叶落尽，楚地的山峦重重显现。",
+      "noteIds": [
+        "n-muluo"
+      ]
+    },
+    {
+      "text": "寄身且喜沧洲近，",
+      "pinyin": [
+        "jì",
+        "shēn",
+        "qiě",
+        "xǐ",
+        "cāng",
+        "zhōu",
+        "jìn"
+      ],
+      "translation": "安身之地且喜离水乡不远，",
+      "noteIds": [
+        "n-cangzhou"
+      ]
+    },
+    {
+      "text": "顾影无如白发何。",
+      "pinyin": [
+        "gù",
+        "yǐng",
+        "wú",
+        "rú",
+        "bái",
+        "fà",
+        "hé"
+      ],
+      "translation": "看看自己的影子，对满头白发却无可奈何。",
+      "noteIds": []
+    },
+    {
+      "text": "今日龙钟人共老，",
+      "pinyin": [
+        "jīn",
+        "rì",
+        "lóng",
+        "zhōng",
+        "rén",
+        "gòng",
+        "lǎo"
+      ],
+      "translation": "今日我已老态龙钟，同朋友们一起都老了，",
+      "noteIds": [
+        "n-longzhong"
+      ]
+    },
+    {
+      "text": "愧君犹遣慎风波。",
+      "pinyin": [
+        "kuì",
+        "jūn",
+        "yóu",
+        "qiǎn",
+        "shèn",
+        "fēng",
+        "bō"
+      ],
+      "translation": "惭愧你们还叮嘱我路上小心风浪。",
+      "noteIds": []
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-youzhao",
+      "word": "优诏",
+      "pinyin": "yōu zhào",
+      "meaning": "优待的诏书。这里其实是明褒实贬，诏书上说是优待。"
+    },
+    {
+      "id": "n-huyan",
+      "word": "胡雁",
+      "pinyin": "hú yàn",
+      "meaning": "北方来的大雁。"
+    },
+    {
+      "id": "n-muluo",
+      "word": "木落",
+      "pinyin": "mù luò",
+      "meaning": "树叶落下。"
+    },
+    {
+      "id": "n-cangzhou",
+      "word": "沧洲",
+      "pinyin": "cāng zhōu",
+      "meaning": "靠近水的地方，旧时常指隐士居住之处。"
+    },
+    {
+      "id": "n-longzhong",
+      "word": "龙钟",
+      "pinyin": "lóng zhōng",
+      "meaning": "行动不灵便、衰老的样子。"
+    }
+  ],
+  "translation": "一生的际遇哪能料到，竟接到这样优待的诏书；世事难为，只好空自学着醉酒放歌。江上明月高照，北来的鸿雁飞过；淮南树叶落尽，楚地的山峦重重显现。安身之地且喜离水乡不远，看看自己的影子，对满头白发却无可奈何。今日我已老态龙钟，同朋友们一起都老了，惭愧你们还叮嘱我路上小心风浪。",
+  "appreciation": "诗人再次被贬，路过江州，老朋友设酒送别。他自嘲接到的是优诏，其实是贬谪；江上明月雁影，淮南叶落山明，景色开阔，心里却苦涩。他安慰自己离水乡近了，可对影自照，满头白发，只能一声叹息。朋友叮嘱他小心风浪，他惭愧又感激。全诗把贬谪之痛藏在平静的景色里，越读越深。",
+  "background": "约公元 779 年，刘长卿再次被人诬陷，被贬为睦州司马。南下赴任途中，他经过江州，朋友薛六、柳八两位员外为他送行。明明是被贬，诏书却说是优待。他把委屈和不平写进这首诗，送别时只说愧君犹遣慎风波。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "重别江州",
+      "text": "诗人再次遭贬南下赴任，路过江州，朋友设酒送别。"
+    },
+    {
+      "step": 2,
+      "title": "自嘲优诏",
+      "text": "诏书说是优待，他心里明白是贬谪，只好学着醉酒放歌。"
+    },
+    {
+      "step": 3,
+      "title": "江上夜色",
+      "text": "江上明月高照，鸿雁飞过；淮南叶落，楚山层层显现。"
+    },
+    {
+      "step": 4,
+      "title": "白发伤怀",
+      "text": "对影叹白发已老，又惭愧朋友还叮嘱他小心风浪。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "诏",
+      "reading": "zhào",
+      "reason": "“优诏”是朝廷的诏书，读 zhào。",
+      "standard": "不要读成 zhāo"
+    },
+    {
+      "char": "遣",
+      "reading": "qiǎn",
+      "reason": "“犹遣”是还叮嘱、还派人的意思，读 qiǎn。"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1159
+}

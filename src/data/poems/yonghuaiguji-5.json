@@ -1,0 +1,232 @@
+{
+  "id": "tang-shengtang-dufu-yonghuaiguji-5",
+  "slug": "yonghuaiguji-5",
+  "title": "咏怀古迹·其五",
+  "titlePinyin": "yǒng huái gǔ jì · qí wǔ",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "七言律诗",
+  "authorId": "dufu",
+  "gradeBand": "ext",
+  "tags": [
+    "怀古",
+    "敬佩",
+    "诸葛亮",
+    "七言律诗"
+  ],
+  "difficulty": 3,
+  "writtenYear": 766,
+  "writtenLabel": "约公元 766 年（杜甫 54 岁，寓居夔州，赞颂诸葛亮）",
+  "orderInAuthor": 5,
+  "famousLines": [
+    "诸葛大名垂宇宙，宗臣遗像肃清高。"
+  ],
+  "lines": [
+    {
+      "text": "诸葛大名垂宇宙，",
+      "pinyin": [
+        "zhū",
+        "gě",
+        "dà",
+        "míng",
+        "chuí",
+        "yǔ",
+        "zhòu"
+      ],
+      "translation": "诸葛亮的大名流传天地之间，",
+      "noteIds": []
+    },
+    {
+      "text": "宗臣遗像肃清高。",
+      "pinyin": [
+        "zōng",
+        "chén",
+        "yí",
+        "xiàng",
+        "sù",
+        "qīng",
+        "gāo"
+      ],
+      "translation": "遗像肃穆，他是备受尊崇的高洁之臣。",
+      "noteIds": [
+        "n-zongchen"
+      ]
+    },
+    {
+      "text": "三分割据纡筹策，",
+      "pinyin": [
+        "sān",
+        "fēn",
+        "gē",
+        "jù",
+        "yū",
+        "chóu",
+        "cè"
+      ],
+      "translation": "三分天下、割据一方，靠他深密的筹划，",
+      "noteIds": [
+        "n-yu"
+      ]
+    },
+    {
+      "text": "万古云霄一羽毛。",
+      "pinyin": [
+        "wàn",
+        "gǔ",
+        "yún",
+        "xiāo",
+        "yì",
+        "yǔ",
+        "máo"
+      ],
+      "translation": "他像云霄上独一无二的一只大鹏。",
+      "noteIds": []
+    },
+    {
+      "text": "伯仲之间见伊吕，",
+      "pinyin": [
+        "bó",
+        "zhòng",
+        "zhī",
+        "jiān",
+        "jiàn",
+        "yī",
+        "lǚ"
+      ],
+      "translation": "他的才能与伊尹、吕尚相差无几，",
+      "noteIds": [
+        "n-yilv"
+      ]
+    },
+    {
+      "text": "指挥若定失萧曹。",
+      "pinyin": [
+        "zhǐ",
+        "huī",
+        "ruò",
+        "dìng",
+        "shī",
+        "xiāo",
+        "cáo"
+      ],
+      "translation": "指挥从容镇定，让萧何、曹参都黯然失色。",
+      "noteIds": [
+        "n-xiaocao"
+      ]
+    },
+    {
+      "text": "运移汉祚终难复，",
+      "pinyin": [
+        "yùn",
+        "yí",
+        "hàn",
+        "zuò",
+        "zhōng",
+        "nán",
+        "fù"
+      ],
+      "translation": "汉朝气数已尽，终究难以复兴，",
+      "noteIds": [
+        "n-hanzuo"
+      ]
+    },
+    {
+      "text": "志决身歼军务劳。",
+      "pinyin": [
+        "zhì",
+        "jué",
+        "shēn",
+        "jiān",
+        "jūn",
+        "wù",
+        "láo"
+      ],
+      "translation": "他意志坚决，为军务操劳到献出生命。",
+      "noteIds": []
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-zongchen",
+      "word": "宗臣",
+      "pinyin": "zōng chén",
+      "meaning": "受世人尊崇的大臣。"
+    },
+    {
+      "id": "n-yu",
+      "word": "纡",
+      "pinyin": "yū",
+      "meaning": "深藏、曲折，指筹划对策深密周详。"
+    },
+    {
+      "id": "n-yilv",
+      "word": "伊吕",
+      "pinyin": "yī lǚ",
+      "meaning": "商朝的伊尹和周朝的吕尚，都是开国名相。"
+    },
+    {
+      "id": "n-xiaocao",
+      "word": "萧曹",
+      "pinyin": "xiāo cáo",
+      "meaning": "汉朝开国功臣萧何和曹参。"
+    },
+    {
+      "id": "n-hanzuo",
+      "word": "汉祚",
+      "pinyin": "hàn zuò",
+      "meaning": "汉朝的皇位和国运。"
+    }
+  ],
+  "translation": "诸葛亮的大名流传天地之间，遗像肃穆，他是备受尊崇的高洁之臣。三分天下、割据一方，靠他深密的筹划，他像云霄上独一无二的一只大鹏。他的才能与伊尹、吕尚相差无几，指挥从容镇定，让萧何、曹参都黯然失色。汉朝气数已尽，终究难以复兴，他意志坚决，为军务操劳到献出生命。",
+  "appreciation": "全诗像给诸葛亮画像：先写大名的分量，再用“云霄一羽毛”写出他的超凡脱俗；然后把他和伊尹、吕尚相比，说萧何、曹参都比不上他的从容。可惜天不帮忙，汉朝气数已尽，他操劳到生命最后一刻。赞美和惋惜层层加深，杜甫的敬佩也到了顶点。",
+  "background": "公元766年，杜甫在夔州凭吊武侯祠，想起诸葛亮的名声、谋略和忠诚。诸葛亮是他一生最敬佩的人，他写过好几首怀念的诗。这一首集中夸赞诸葛亮的才能，也为汉朝国运难回、壮志未成而深深叹惋。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "大名垂天",
+      "text": "诸葛亮大名流传宇宙，遗像庄严清高。"
+    },
+    {
+      "step": 2,
+      "title": "深谋远略",
+      "text": "三分天下靠他筹划，如云霄上的大鹏。"
+    },
+    {
+      "step": 3,
+      "title": "比肩名相",
+      "text": "他的才德可比伊尹吕尚，胜过萧何曹参。"
+    },
+    {
+      "step": 4,
+      "title": "志决身殒",
+      "text": "汉运难回，他仍坚决奋斗，劳累到生命尽头。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "纡",
+      "reading": "yū",
+      "reason": "“纡筹策”指深藏计谋、筹划周密，“纡”读 yū。",
+      "standard": "不要读成 yú"
+    },
+    {
+      "char": "祚",
+      "reading": "zuò",
+      "reason": "“汉祚”指国运，“祚”读 zuò。",
+      "standard": "不要读成 zhà"
+    },
+    {
+      "char": "歼",
+      "reading": "jiān",
+      "reason": "“身歼”指为事业献出生命，“歼”读 jiān。"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1143
+}

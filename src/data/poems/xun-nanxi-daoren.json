@@ -1,0 +1,208 @@
+{
+  "id": "tang-zhongtang-liuchangqing-xun-nanxi-daoren",
+  "slug": "xun-nanxi-daoren",
+  "title": "寻南溪常山道人隐居",
+  "titlePinyin": "xún nán xī cháng shān dào rén yǐn jū",
+  "dynasty": "tangshi",
+  "era": "zhongtang",
+  "genre": "shi",
+  "form": "五言律诗",
+  "authorId": "liuchangqing",
+  "gradeBand": "ext",
+  "tags": [
+    "山水",
+    "春天",
+    "白云",
+    "五言律诗"
+  ],
+  "difficulty": 3,
+  "writtenYear": 767,
+  "writtenLabel": "约公元 767 年（刘长卿约 41 岁，宦游江南时寻访山中道人）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "溪花与禅意，相对亦忘言。"
+  ],
+  "lines": [
+    {
+      "text": "一路经行处，",
+      "pinyin": [
+        "yī",
+        "lù",
+        "jīng",
+        "xíng",
+        "chù"
+      ],
+      "translation": "一路走来经过的地方，",
+      "noteIds": []
+    },
+    {
+      "text": "莓苔见履痕。",
+      "pinyin": [
+        "méi",
+        "tái",
+        "jiàn",
+        "lǚ",
+        "hén"
+      ],
+      "translation": "青苔上能看到行人留下的脚印。",
+      "noteIds": [
+        "n-meitai",
+        "n-lvhen"
+      ]
+    },
+    {
+      "text": "白云依静渚，",
+      "pinyin": [
+        "bái",
+        "yún",
+        "yī",
+        "jìng",
+        "zhǔ"
+      ],
+      "translation": "白云依偎着安静的沙洲，",
+      "noteIds": [
+        "n-zhu"
+      ]
+    },
+    {
+      "text": "春草闭闲门。",
+      "pinyin": [
+        "chūn",
+        "cǎo",
+        "bì",
+        "xián",
+        "mén"
+      ],
+      "translation": "春草遮掩着空闲的院门。",
+      "noteIds": []
+    },
+    {
+      "text": "过雨看松色，",
+      "pinyin": [
+        "guò",
+        "yǔ",
+        "kàn",
+        "sōng",
+        "sè"
+      ],
+      "translation": "一阵雨过后，看松林的颜色格外青翠，",
+      "noteIds": []
+    },
+    {
+      "text": "随山到水源。",
+      "pinyin": [
+        "suí",
+        "shān",
+        "dào",
+        "shuǐ",
+        "yuán"
+      ],
+      "translation": "顺着山路走，一直走到溪水的源头。",
+      "noteIds": []
+    },
+    {
+      "text": "溪花与禅意，",
+      "pinyin": [
+        "xī",
+        "huā",
+        "yǔ",
+        "chán",
+        "yì"
+      ],
+      "translation": "溪边的野花和这份宁静的禅意相对着，",
+      "noteIds": [
+        "n-chan"
+      ]
+    },
+    {
+      "text": "相对亦忘言。",
+      "pinyin": [
+        "xiāng",
+        "duì",
+        "yì",
+        "wàng",
+        "yán"
+      ],
+      "translation": "不用说话，心里也已经全明白了。",
+      "noteIds": []
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-meitai",
+      "word": "莓苔",
+      "pinyin": "méi tái",
+      "meaning": "青苔，背阴潮湿的地上生的苔藓。"
+    },
+    {
+      "id": "n-lvhen",
+      "word": "履痕",
+      "pinyin": "lǚ hén",
+      "meaning": "脚步留下的痕迹。履是鞋。"
+    },
+    {
+      "id": "n-zhu",
+      "word": "渚",
+      "pinyin": "zhǔ",
+      "meaning": "水中的小块陆地，小沙洲。"
+    },
+    {
+      "id": "n-chan",
+      "word": "禅意",
+      "pinyin": "chán yì",
+      "meaning": "安静平和、让人心境澄澈的意趣。"
+    }
+  ],
+  "translation": "一路走来经过的地方，青苔上能看到行人留下的脚印。白云依偎着安静的沙洲，春草遮掩着空闲的院门。一阵雨过后，看松林的颜色格外青翠；顺着山路走，一直走到溪水的源头。溪边的野花和这份宁静的禅意相对着，不用说话，心里也已经全明白了。",
+  "appreciation": "诗人沿着小路去寻访山中道人，一路只见青苔上的脚印，静得连人影都没有。白云停在沙洲边，春草掩住柴门，道人不在家，诗人却不扫兴。雨后的松林更绿了，他顺着山路一直走到溪水源头，望着溪边的野花，心里忽然安静下来，连话都不用说了。诗中没有找到道人，却找到了藏在山水里的宁静。",
+  "background": "这首诗约作于唐代宗大历年间。刘长卿在江南游历时，听说南溪有位常山道人隐居，便专门前去拜访。到了山中才发现道人不在家，四周只有白云、春草和溪水。他没有扫兴而归，反而一路玩赏山水，写下这首安静清雅的诗。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "沿路寻访",
+      "text": "诗人沿着山路去寻访隐居的道人，脚下走过一路青苔。"
+    },
+    {
+      "step": 2,
+      "title": "人迹罕至",
+      "text": "青苔上只留着脚印，白云停在沙洲，柴门被春草遮住。"
+    },
+    {
+      "step": 3,
+      "title": "山中看景",
+      "text": "道人不在，诗人也不着急，雨后看松色，随山路走到溪水源。"
+    },
+    {
+      "step": 4,
+      "title": "相对忘言",
+      "text": "他坐在溪边看野花，心里一片安宁，连话都不必说了。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "渚",
+      "reading": "zhǔ",
+      "reason": "“静渚”指安静的沙洲，读 zhǔ。",
+      "standard": "不要读成 zhě"
+    },
+    {
+      "char": "履",
+      "reading": "lǚ",
+      "reason": "“履痕”指脚步的痕迹，“履”读 lǚ。",
+      "standard": "不要读成 lèi"
+    },
+    {
+      "char": "禅",
+      "reading": "chán",
+      "reason": "“禅意”与佛教相关，读 chán。",
+      "standard": "不要读成 shàn"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1106
+}

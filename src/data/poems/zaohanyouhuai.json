@@ -1,0 +1,215 @@
+{
+  "id": "tang-shengtang-menghaoran-zaohanyouhuai",
+  "slug": "zaohanyouhuai",
+  "title": "早寒有怀",
+  "titlePinyin": "zǎo hán yǒu huái",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "五言律诗",
+  "authorId": "menghaoran",
+  "gradeBand": "ext",
+  "tags": [
+    "思乡",
+    "五言律诗",
+    "秋天",
+    "大雁"
+  ],
+  "difficulty": 3,
+  "writtenYear": 730,
+  "writtenLabel": "约公元 730 年（孟浩然 42 岁，漫游吴越途中，深秋行船江上思乡）",
+  "orderInAuthor": 3,
+  "famousLines": [
+    "乡泪客中尽，孤帆天际看。"
+  ],
+  "lines": [
+    {
+      "text": "木落雁南度，",
+      "pinyin": [
+        "mù",
+        "luò",
+        "yàn",
+        "nán",
+        "dù"
+      ],
+      "translation": "树叶落了，大雁向南飞去，",
+      "noteIds": [
+        "n-muluo"
+      ]
+    },
+    {
+      "text": "北风江上寒。",
+      "pinyin": [
+        "běi",
+        "fēng",
+        "jiāng",
+        "shàng",
+        "hán"
+      ],
+      "translation": "北风吹来，江面上寒气阵阵。",
+      "noteIds": []
+    },
+    {
+      "text": "我家襄水曲，",
+      "pinyin": [
+        "wǒ",
+        "jiā",
+        "xiāng",
+        "shuǐ",
+        "qū"
+      ],
+      "translation": "我的家在襄水弯曲的地方，",
+      "noteIds": [
+        "n-xiangshui"
+      ]
+    },
+    {
+      "text": "遥隔楚云端。",
+      "pinyin": [
+        "yáo",
+        "gé",
+        "chǔ",
+        "yún",
+        "duān"
+      ],
+      "translation": "远远隔着楚地的云天。",
+      "noteIds": [
+        "n-chuyun"
+      ]
+    },
+    {
+      "text": "乡泪客中尽，",
+      "pinyin": [
+        "xiāng",
+        "lèi",
+        "kè",
+        "zhōng",
+        "jìn"
+      ],
+      "translation": "思乡的眼泪在客路上快流尽了，",
+      "noteIds": []
+    },
+    {
+      "text": "孤帆天际看。",
+      "pinyin": [
+        "gū",
+        "fān",
+        "tiān",
+        "jì",
+        "kàn"
+      ],
+      "translation": "只望着天边远去的孤帆出神。",
+      "noteIds": []
+    },
+    {
+      "text": "迷津欲有问，",
+      "pinyin": [
+        "mí",
+        "jīn",
+        "yù",
+        "yǒu",
+        "wèn"
+      ],
+      "translation": "想问一问渡口在哪里，",
+      "noteIds": [
+        "n-mijin"
+      ]
+    },
+    {
+      "text": "平海夕漫漫。",
+      "pinyin": [
+        "píng",
+        "hǎi",
+        "xī",
+        "màn",
+        "màn"
+      ],
+      "translation": "只见黄昏里江面平阔如海，水色茫茫一片。",
+      "noteIds": [
+        "n-pinghai"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-muluo",
+      "word": "木落",
+      "pinyin": "mù luò",
+      "meaning": "树叶落下。"
+    },
+    {
+      "id": "n-xiangshui",
+      "word": "襄水曲",
+      "pinyin": "xiāng shuǐ qū",
+      "meaning": "襄水弯曲的地方，指诗人的家乡襄阳。"
+    },
+    {
+      "id": "n-chuyun",
+      "word": "楚云端",
+      "pinyin": "chǔ yún duān",
+      "meaning": "楚地的云天那边。襄阳古属楚地，家远得像在云端。"
+    },
+    {
+      "id": "n-mijin",
+      "word": "迷津",
+      "pinyin": "mí jīn",
+      "meaning": "找不到渡口。津，渡口。"
+    },
+    {
+      "id": "n-pinghai",
+      "word": "平海",
+      "pinyin": "píng hǎi",
+      "meaning": "江面宽阔平静，像大海一样。"
+    }
+  ],
+  "translation": "树叶落了，大雁向南飞去，北风吹来，江面上寒气阵阵。我的家在襄水弯曲的地方，远远隔着楚地的云天。思乡的眼泪在客路上快流尽了，只望着天边远去的孤帆出神。想问一问渡口在哪里，只见黄昏里江面平阔如海，水色茫茫一片。",
+  "appreciation": "木落、雁南、北风，三个词就把深秋江上的寒意写活了。诗人望着南飞的大雁，自己却离家越来越远；眼泪快流尽，只看天边孤帆。结尾想问渡口，江面却平阔得像大海，茫茫望不到边。“迷津”两个字，既是找不到路，也是心里不知往哪儿走，用得很妙。",
+  "background": "孟浩然常年在外漫游，这一年深秋，正行船在江上。树叶落了，大雁向南飞，北风吹得江面寒气袭人，他想起远在襄水边的家乡襄阳。可家乡隔着楚地云天那么远，他望着茫茫江水，写下这首思乡的诗。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "木落雁南",
+      "text": "树叶落了，大雁南飞，北风吹得江上生出寒意。"
+    },
+    {
+      "step": 2,
+      "title": "遥望家乡",
+      "text": "家乡在襄水弯弯的地方，隔着楚地云天那么远。"
+    },
+    {
+      "step": 3,
+      "title": "乡泪孤帆",
+      "text": "思乡泪快流尽，只望着天边远去的孤帆出神。"
+    },
+    {
+      "step": 4,
+      "title": "迷津漫漫",
+      "text": "想问渡口在哪里，只见黄昏的江面平阔又迷茫。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "曲",
+      "reading": "qū",
+      "reason": "“襄水曲”的“曲”指江水弯道，读 qū。",
+      "standard": "不要读成 qǔ"
+    },
+    {
+      "char": "看",
+      "reading": "kàn",
+      "reason": "“天际看”的“看”是望的意思，这里读 kàn。古诗里“看”也常读 kān。"
+    },
+    {
+      "char": "漫",
+      "reading": "màn",
+      "reason": "“漫漫”形容水势大、无边无际，“漫”读 màn。"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1085
+}

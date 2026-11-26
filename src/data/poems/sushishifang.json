@@ -1,0 +1,229 @@
+{
+  "id": "tang-shengtang-menghaoran-sushishifang",
+  "slug": "sushishifang",
+  "title": "宿业师山房期丁大不至",
+  "titlePinyin": "sù yè shī shān fáng qī dīng dà bù zhì",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "五言古诗",
+  "authorId": "menghaoran",
+  "gradeBand": "ext",
+  "tags": [
+    "友情",
+    "五言古诗",
+    "月夜",
+    "黄昏"
+  ],
+  "difficulty": 3,
+  "writtenYear": 724,
+  "writtenLabel": "约公元 724 年（孟浩然 36 岁，隐居襄阳，夜宿山中寺等待友人丁大）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "松月生夜凉，风泉满清听。"
+  ],
+  "lines": [
+    {
+      "text": "夕阳度西岭，",
+      "pinyin": [
+        "xī",
+        "yáng",
+        "dù",
+        "xī",
+        "lǐng"
+      ],
+      "translation": "夕阳翻过西边的山岭，",
+      "noteIds": []
+    },
+    {
+      "text": "群壑倏已暝。",
+      "pinyin": [
+        "qún",
+        "hè",
+        "shū",
+        "yǐ",
+        "míng"
+      ],
+      "translation": "群山山谷一下子暗了下来。",
+      "noteIds": [
+        "n-he",
+        "n-shu",
+        "n-ming"
+      ]
+    },
+    {
+      "text": "松月生夜凉，",
+      "pinyin": [
+        "sōng",
+        "yuè",
+        "shēng",
+        "yè",
+        "liáng"
+      ],
+      "translation": "月亮从松树梢升起，夜里生出凉意，",
+      "noteIds": []
+    },
+    {
+      "text": "风泉满清听。",
+      "pinyin": [
+        "fēng",
+        "quán",
+        "mǎn",
+        "qīng",
+        "tīng"
+      ],
+      "translation": "山风吹动泉水，满耳都是清脆的声响。",
+      "noteIds": [
+        "n-ting"
+      ]
+    },
+    {
+      "text": "樵人归欲尽，",
+      "pinyin": [
+        "qiáo",
+        "rén",
+        "guī",
+        "yù",
+        "jìn"
+      ],
+      "translation": "砍柴的人差不多都回家了，",
+      "noteIds": [
+        "n-qiaoren"
+      ]
+    },
+    {
+      "text": "烟鸟栖初定。",
+      "pinyin": [
+        "yān",
+        "niǎo",
+        "qī",
+        "chū",
+        "dìng"
+      ],
+      "translation": "暮烟中的鸟儿刚刚在巢里安顿下来。",
+      "noteIds": []
+    },
+    {
+      "text": "之子期宿来，",
+      "pinyin": [
+        "zhī",
+        "zǐ",
+        "qī",
+        "sù",
+        "lái"
+      ],
+      "translation": "约好今晚来住宿的丁大还没有到，",
+      "noteIds": [
+        "n-zhizi"
+      ]
+    },
+    {
+      "text": "孤琴候萝径。",
+      "pinyin": [
+        "gū",
+        "qín",
+        "hòu",
+        "luó",
+        "jìng"
+      ],
+      "translation": "我抱着一张琴，站在长满藤萝的小路上等候。",
+      "noteIds": [
+        "n-luojing"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-he",
+      "word": "壑",
+      "pinyin": "hè",
+      "meaning": "山谷。"
+    },
+    {
+      "id": "n-shu",
+      "word": "倏",
+      "pinyin": "shū",
+      "meaning": "忽然、很快地。"
+    },
+    {
+      "id": "n-ming",
+      "word": "暝",
+      "pinyin": "míng",
+      "meaning": "昏暗，指天黑下来。"
+    },
+    {
+      "id": "n-ting",
+      "word": "清听",
+      "pinyin": "qīng tīng",
+      "meaning": "清脆的声响。“满清听”就是满耳都是清脆的声音。"
+    },
+    {
+      "id": "n-qiaoren",
+      "word": "樵人",
+      "pinyin": "qiáo rén",
+      "meaning": "砍柴的人。"
+    },
+    {
+      "id": "n-zhizi",
+      "word": "之子",
+      "pinyin": "zhī zǐ",
+      "meaning": "这个人，指丁大。"
+    },
+    {
+      "id": "n-luojing",
+      "word": "萝径",
+      "pinyin": "luó jìng",
+      "meaning": "爬满藤萝的小路。"
+    }
+  ],
+  "translation": "夕阳翻过西边的山岭，群山山谷一下子暗了下来。月亮从松树梢升起，夜里生出凉意；山风吹动泉水，满耳都是清脆的声响。砍柴的人差不多都回家了，暮烟中的鸟儿刚刚在巢里安顿下来。约好今晚来住宿的丁大还没有到，我抱着一张琴，站在长满藤萝的小路上等候。",
+  "appreciation": "这首诗像一支安静的傍晚小曲。太阳落山，山谷变暗，松间月亮升起，泉水的声音越来越清楚。柴夫回家、飞鸟归巢，一切都有了归宿，只有约好的朋友还没来。诗人不说着急，只是抱着琴站在藤萝小路上静静等候。一个“孤”字，把等待写得很轻，也很动人。",
+  "background": "孟浩然年轻时隐居在襄阳，常去山中的寺庙访友。这一天他夜宿业上人的山房，和友人丁大约好晚上过来相聚。眼看夕阳落山、天色渐暗，朋友还没有到，他就抱着琴站在小路上等候，把这份心情写成了这首诗。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "夕阳西下",
+      "text": "太阳翻过西边的山岭落下去，群山山谷一下子暗了下来。"
+    },
+    {
+      "step": 2,
+      "title": "松月风泉",
+      "text": "月亮从松树间升起，山风吹着泉水，声音清脆好听。"
+    },
+    {
+      "step": 3,
+      "title": "樵人烟鸟",
+      "text": "砍柴人快走完了，暮烟里的鸟儿也刚刚安顿进巢。"
+    },
+    {
+      "step": 4,
+      "title": "抱琴候友",
+      "text": "约好的丁大还没有来，诗人抱着琴在藤萝小路上等候。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "壑",
+      "reading": "hè",
+      "reason": "“群壑”指许多山谷，“壑”读 hè。"
+    },
+    {
+      "char": "倏",
+      "reading": "shū",
+      "reason": "“倏已暝”的“倏”读 shū，是忽然的意思。",
+      "standard": "不要读成 shòu"
+    },
+    {
+      "char": "暝",
+      "reading": "míng",
+      "reason": "“倏已暝”的“暝”读 míng，指天黑昏暗。"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1183
+}

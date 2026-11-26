@@ -1,0 +1,227 @@
+{
+  "id": "tang-shengtang-libai-tingshuseng-tanqin",
+  "slug": "tingshuseng-tanqin",
+  "title": "听蜀僧濬弹琴",
+  "titlePinyin": "tīng shǔ sēng jùn tán qín",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "五言律诗",
+  "authorId": "libai",
+  "gradeBand": "ext",
+  "tags": [
+    "音乐",
+    "五言律诗",
+    "松风",
+    "秋云"
+  ],
+  "difficulty": 3,
+  "writtenYear": 742,
+  "writtenLabel": "约公元 742 年（李白 42 岁，在长安；一说 753 年作于宣城）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "为我一挥手，如听万壑松。",
+    "客心洗流水，余响入霜钟。"
+  ],
+  "lines": [
+    {
+      "text": "蜀僧抱绿绮，",
+      "pinyin": [
+        "shǔ",
+        "sēng",
+        "bào",
+        "lǜ",
+        "qǐ"
+      ],
+      "translation": "蜀地来的僧人抱着绿绮琴，",
+      "noteIds": [
+        "n-lvqi"
+      ]
+    },
+    {
+      "text": "西下峨眉峰。",
+      "pinyin": [
+        "xī",
+        "xià",
+        "é",
+        "méi",
+        "fēng"
+      ],
+      "translation": "从西边的峨眉山上下来。",
+      "noteIds": []
+    },
+    {
+      "text": "为我一挥手，",
+      "pinyin": [
+        "wèi",
+        "wǒ",
+        "yī",
+        "huī",
+        "shǒu"
+      ],
+      "translation": "他为我挥手弹奏一曲，",
+      "noteIds": [
+        "n-huishou"
+      ]
+    },
+    {
+      "text": "如听万壑松。",
+      "pinyin": [
+        "rú",
+        "tīng",
+        "wàn",
+        "hè",
+        "sōng"
+      ],
+      "translation": "我好像听见万条山谷里松涛呼啸。",
+      "noteIds": [
+        "n-he"
+      ]
+    },
+    {
+      "text": "客心洗流水，",
+      "pinyin": [
+        "kè",
+        "xīn",
+        "xǐ",
+        "liú",
+        "shuǐ"
+      ],
+      "translation": "琴声像清清的流水，洗了我这异乡人的心，",
+      "noteIds": [
+        "n-liushui"
+      ]
+    },
+    {
+      "text": "余响入霜钟。",
+      "pinyin": [
+        "yú",
+        "xiǎng",
+        "rù",
+        "shuāng",
+        "zhōng"
+      ],
+      "translation": "余音轻轻融进了山寺的钟声里。",
+      "noteIds": [
+        "n-shuangzhong"
+      ]
+    },
+    {
+      "text": "不觉碧山暮，",
+      "pinyin": [
+        "bù",
+        "jué",
+        "bì",
+        "shān",
+        "mù"
+      ],
+      "translation": "不知不觉，青山已罩上暮色，",
+      "noteIds": []
+    },
+    {
+      "text": "秋云暗几重。",
+      "pinyin": [
+        "qiū",
+        "yún",
+        "àn",
+        "jǐ",
+        "chóng"
+      ],
+      "translation": "秋天的云暗暗地积了好几层。",
+      "noteIds": [
+        "n-chong"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-lvqi",
+      "word": "绿绮",
+      "pinyin": "lǜ qǐ",
+      "meaning": "古琴名，相传是汉代司马相如用过的名琴，这里指好琴。"
+    },
+    {
+      "id": "n-huishou",
+      "word": "挥手",
+      "pinyin": "huī shǒu",
+      "meaning": "这里指弹琴时抬手拨弦的动作。"
+    },
+    {
+      "id": "n-he",
+      "word": "壑",
+      "pinyin": "hè",
+      "meaning": "深谷，山沟。万壑就是万条山谷。"
+    },
+    {
+      "id": "n-liushui",
+      "word": "流水",
+      "pinyin": "liú shuǐ",
+      "meaning": "暗用伯牙、钟子期“高山流水”的典故，形容琴声动人、知音相遇。"
+    },
+    {
+      "id": "n-shuangzhong",
+      "word": "霜钟",
+      "pinyin": "shuāng zhōng",
+      "meaning": "指秋霜后的钟声。古书里说山中的钟一到降霜就会鸣响。"
+    },
+    {
+      "id": "n-chong",
+      "word": "重",
+      "pinyin": "chóng",
+      "meaning": "量词，层。几重就是好几层。"
+    }
+  ],
+  "translation": "蜀地来的僧人抱着绿绮琴，从西边的峨眉山上下来。他为我挥手弹奏一曲，我好像听见万条山谷里松涛呼啸。琴声像清清的流水，洗了我这异乡人的心；余音轻轻融进了山寺的钟声里。不知不觉，青山已罩上暮色，秋天的云暗暗地积了好几层。",
+  "appreciation": "写琴声很难，李白一句“万壑松”就解决了：琴一响，满耳都是山谷里的松涛。他不说琴好听，只说心被“流水”洗过，余音追着霜天的钟声走。等到“不觉”二字出现，天已经黑了，秋云压了好几层——弹了多久？听了多久？琴声的魔力，全藏在时间里。",
+  "background": "李白离开四川后，一直想念家乡。一位同样来自蜀地的僧人抱着名琴来看他，从峨眉山一路下来为他弹奏。熟悉的乡音琴声让他听得出了神，听完才发现天已黄昏。他写下这首诗，记下这次难得的听琴。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "琴僧来访",
+      "text": "一位蜀地僧人抱着绿绮琴，从峨眉山来到李白身边。"
+    },
+    {
+      "step": 2,
+      "title": "挥手成松",
+      "text": "他抬手拨弦弹奏，琴声像万条山谷里刮起了阵阵松涛。"
+    },
+    {
+      "step": 3,
+      "title": "琴洗客心",
+      "text": "琴声像清清流水，把游子心头的疲惫一点点洗净了。"
+    },
+    {
+      "step": 4,
+      "title": "不觉天暗",
+      "text": "听得入了迷，抬起头才见青山日暮，秋云层层变暗。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "濬",
+      "reading": "jùn",
+      "reason": "僧人法名用字，同“浚”，读 jùn。",
+      "standard": "不要读成 ruì"
+    },
+    {
+      "char": "绮",
+      "reading": "qǐ",
+      "reason": "“绿绮”是名琴的名字，“绮”读 qǐ。",
+      "standard": "不要读成 yǐ 或 qí"
+    },
+    {
+      "char": "壑",
+      "reading": "hè",
+      "reason": "“万壑”指万条山谷，“壑”读 hè。",
+      "standard": "不要读成 hào"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》",
+    "《李太白集》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1059
+}

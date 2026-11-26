@@ -1,0 +1,210 @@
+{
+  "id": "tang-shengtang-dufu-zhide-eryzai",
+  "slug": "zhide-eryzai",
+  "title": "至德二载，甫自京金光门出，西京左迁华州掾，与亲别，因出此门，有悲往事",
+  "titlePinyin": "zhì dé èr zǎi, fǔ zì jīng jīn guāng mén chū, xī jīng zuǒ qiān huá zhōu yuàn, yǔ qīn bié, yīn chū cǐ mén, yǒu bēi wǎng shì",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "五言律诗",
+  "authorId": "dufu",
+  "gradeBand": "ext",
+  "tags": [
+    "爱国",
+    "五言律诗",
+    "长安"
+  ],
+  "difficulty": 3,
+  "writtenYear": 757,
+  "writtenLabel": "约公元 757—758 年（杜甫 45 岁，任左拾遗，被调离京城赴华州，重出金光门时回忆往事而作）",
+  "orderInAuthor": 7,
+  "famousLines": [
+    "至今残破胆，应有未招魂。"
+  ],
+  "lines": [
+    {
+      "text": "此道昔归顺，",
+      "pinyin": [
+        "cǐ",
+        "dào",
+        "xī",
+        "guī",
+        "shùn"
+      ],
+      "translation": "当年我从这条路逃出长安，去投奔皇帝。",
+      "noteIds": [
+        "n-guishun"
+      ]
+    },
+    {
+      "text": "西郊胡正繁。",
+      "pinyin": [
+        "xī",
+        "jiāo",
+        "hú",
+        "zhèng",
+        "fán"
+      ],
+      "translation": "那时西郊的胡兵正多，一片混乱。",
+      "noteIds": [
+        "n-hu"
+      ]
+    },
+    {
+      "text": "至今残破胆，",
+      "pinyin": [
+        "zhì",
+        "jīn",
+        "cán",
+        "pò",
+        "dǎn"
+      ],
+      "translation": "直到今天想起来，仍然吓得胆战心惊。",
+      "noteIds": []
+    },
+    {
+      "text": "应有未招魂。",
+      "pinyin": [
+        "yīng",
+        "yǒu",
+        "wèi",
+        "zhāo",
+        "hún"
+      ],
+      "translation": "恐怕还有吓掉的魂魄，没有招回来呢。",
+      "noteIds": []
+    },
+    {
+      "text": "近侍归京邑，",
+      "pinyin": [
+        "jìn",
+        "shì",
+        "guī",
+        "jīng",
+        "yì"
+      ],
+      "translation": "后来我在皇帝身边做小官，回到了京城。",
+      "noteIds": [
+        "n-jinshi"
+      ]
+    },
+    {
+      "text": "移官岂至尊。",
+      "pinyin": [
+        "yí",
+        "guān",
+        "qǐ",
+        "zhì",
+        "zūn"
+      ],
+      "translation": "这次调官远走，难道是皇帝的本意吗？",
+      "noteIds": [
+        "n-zuizun"
+      ]
+    },
+    {
+      "text": "无才日衰老，",
+      "pinyin": [
+        "wú",
+        "cái",
+        "rì",
+        "shuāi",
+        "lǎo"
+      ],
+      "translation": "我没有才能，身体也一天天衰老，",
+      "noteIds": []
+    },
+    {
+      "text": "驻马望千门。",
+      "pinyin": [
+        "zhù",
+        "mǎ",
+        "wàng",
+        "qiān",
+        "mén"
+      ],
+      "translation": "勒住马回头，久久望着重重宫门。",
+      "noteIds": [
+        "n-qianmen"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-guishun",
+      "word": "归顺",
+      "pinyin": "guī shùn",
+      "meaning": "指逃出沦陷的长安，去投奔唐肃宗。"
+    },
+    {
+      "id": "n-hu",
+      "word": "胡",
+      "pinyin": "hú",
+      "meaning": "指安禄山叛军的兵，古时称北方民族为胡。"
+    },
+    {
+      "id": "n-jinshi",
+      "word": "近侍",
+      "pinyin": "jìn shì",
+      "meaning": "在皇帝身边供职的官员，杜甫指自己担任左拾遗。"
+    },
+    {
+      "id": "n-zuizun",
+      "word": "至尊",
+      "pinyin": "zhì zūn",
+      "meaning": "指皇帝。"
+    },
+    {
+      "id": "n-qianmen",
+      "word": "千门",
+      "pinyin": "qiān mén",
+      "meaning": "重重宫门，指皇宫。"
+    }
+  ],
+  "translation": "当年我从这条路逃出长安，去投奔皇帝，那时西郊的胡兵正多，一片混乱。直到今天想起来，仍然吓得胆战心惊，恐怕还有吓掉的魂魄，没有招回来呢。后来我在皇帝身边做小官，回到了京城；这次调官远走，难道是皇帝的本意吗？我没有才能，身体也一天天衰老，勒住马回头，久久望着重重宫门。",
+  "appreciation": "同一道城门，两次走出，心境全然不同。第一次是冒着生命危险逃出长安去投奔皇帝，吓得魂飞魄散；第二次却是被调离京城，忍不住回头张望。“驻马望千门”一句尤其动人：明知自己没有大错，却不多喊冤，只把留恋和不舍都放进久久的回望里。全诗像一段小小的回忆，把安史之乱中个人的惊险和委屈都写了出来。",
+  "background": "安史之乱时，杜甫被叛军困在长安。他冒险从金光门逃出去，投奔了唐肃宗，后来在皇帝身边做左拾遗。不久他被调离京城，去华州做小官，离开时又一次走出金光门。站在门下回望，往事一齐涌上心头，他写下这首诗。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "重出此门",
+      "text": "杜甫被调离京城，赴华州前又一次走出金光门，与亲友告别。"
+    },
+    {
+      "step": 2,
+      "title": "忆昔投奔",
+      "text": "他想起当年从这条路逃出长安、冒着战火投奔皇帝的惊险经历。"
+    },
+    {
+      "step": 3,
+      "title": "心有余悸",
+      "text": "往事至今想来仍心惊胆战，仿佛还有魂魄没有招回来。"
+    },
+    {
+      "step": 4,
+      "title": "驻马回望",
+      "text": "自叹无才又衰老的他勒住马，回头久久望着重重宫门。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "载",
+      "reading": "zǎi",
+      "reason": "题目“至德二载”的“载”是“年”的意思，读 zǎi。",
+      "standard": "不要读成 zài"
+    },
+    {
+      "char": "掾",
+      "reading": "yuàn",
+      "reason": "题目“华州掾”的“掾”指辅佐长官的小官，读 yuàn。",
+      "standard": "不要读成 chuán"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1074
+}

@@ -1,0 +1,376 @@
+{
+  "id": "tang-shengtang-wangwei-songqiwuqian",
+  "slug": "songqiwuqian",
+  "title": "送綦毋潜落第还乡",
+  "titlePinyin": "sòng qí wú qián luò dì huán xiāng",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "五言古诗",
+  "authorId": "wangwei",
+  "gradeBand": "ext",
+  "tags": [
+    "送别",
+    "五言古诗",
+    "落日",
+    "友情"
+  ],
+  "difficulty": 3,
+  "writtenYear": 725,
+  "writtenLabel": "约公元 725 年（王维 24 岁，好友綦毋潜落第还乡，作诗宽慰）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "远树带行客，孤村当落晖。"
+  ],
+  "lines": [
+    {
+      "text": "圣代无隐者，",
+      "pinyin": [
+        "shèng",
+        "dài",
+        "wú",
+        "yǐn",
+        "zhě"
+      ],
+      "translation": "圣明的时代没有隐士。",
+      "noteIds": [
+        "n-shengdai"
+      ]
+    },
+    {
+      "text": "英灵尽来归。",
+      "pinyin": [
+        "yīng",
+        "líng",
+        "jìn",
+        "lái",
+        "guī"
+      ],
+      "translation": "杰出的人才全都出来为朝廷效力。",
+      "noteIds": []
+    },
+    {
+      "text": "遂令东山客，",
+      "pinyin": [
+        "suì",
+        "lìng",
+        "dōng",
+        "shān",
+        "kè"
+      ],
+      "translation": "于是让隐居东山的高士。",
+      "noteIds": [
+        "n-dongshan"
+      ]
+    },
+    {
+      "text": "不得顾采薇。",
+      "pinyin": [
+        "bù",
+        "dé",
+        "gù",
+        "cǎi",
+        "wēi"
+      ],
+      "translation": "也顾不上再去过采薇隐居的生活。",
+      "noteIds": [
+        "n-caiwei"
+      ]
+    },
+    {
+      "text": "既至金门远，",
+      "pinyin": [
+        "jì",
+        "zhì",
+        "jīn",
+        "mén",
+        "yuǎn"
+      ],
+      "translation": "可是到了京城，离朝廷还是那么遥远。",
+      "noteIds": [
+        "n-jinmen"
+      ]
+    },
+    {
+      "text": "孰云吾道非。",
+      "pinyin": [
+        "shú",
+        "yún",
+        "wú",
+        "dào",
+        "fēi"
+      ],
+      "translation": "谁说我们的主张不对呢？",
+      "noteIds": [
+        "n-shuyun"
+      ]
+    },
+    {
+      "text": "江淮度寒食，",
+      "pinyin": [
+        "jiāng",
+        "huái",
+        "dù",
+        "hán",
+        "shí"
+      ],
+      "translation": "你在江淮一带过了寒食节。",
+      "noteIds": [
+        "n-hanshi"
+      ]
+    },
+    {
+      "text": "京洛缝春衣。",
+      "pinyin": [
+        "jīng",
+        "luò",
+        "féng",
+        "chūn",
+        "yī"
+      ],
+      "translation": "又在京城里缝补春衣，苦苦等待考试。",
+      "noteIds": [
+        "n-jingluo"
+      ]
+    },
+    {
+      "text": "置酒长安道，",
+      "pinyin": [
+        "zhì",
+        "jiǔ",
+        "cháng",
+        "ān",
+        "dào"
+      ],
+      "translation": "我在长安道上摆下酒席。",
+      "noteIds": []
+    },
+    {
+      "text": "同心与我违。",
+      "pinyin": [
+        "tóng",
+        "xīn",
+        "yǔ",
+        "wǒ",
+        "wéi"
+      ],
+      "translation": "知心的朋友就要和我分别了。",
+      "noteIds": [
+        "n-wei"
+      ]
+    },
+    {
+      "text": "行当浮桂棹，",
+      "pinyin": [
+        "xíng",
+        "dāng",
+        "fú",
+        "guì",
+        "zhào"
+      ],
+      "translation": "你将要乘船南归。",
+      "noteIds": [
+        "n-guizhao"
+      ]
+    },
+    {
+      "text": "未几拂荆扉。",
+      "pinyin": [
+        "wèi",
+        "jǐ",
+        "fú",
+        "jīng",
+        "fēi"
+      ],
+      "translation": "不久就会推开自家的柴门。",
+      "noteIds": [
+        "n-weiji"
+      ]
+    },
+    {
+      "text": "远树带行客，",
+      "pinyin": [
+        "yuǎn",
+        "shù",
+        "dài",
+        "xíng",
+        "kè"
+      ],
+      "translation": "远处的树影伴随着远行的人。",
+      "noteIds": []
+    },
+    {
+      "text": "孤村当落晖。",
+      "pinyin": [
+        "gū",
+        "cūn",
+        "dāng",
+        "luò",
+        "huī"
+      ],
+      "translation": "孤零零的村庄正对着落日的余晖。",
+      "noteIds": [
+        "n-luohui"
+      ]
+    },
+    {
+      "text": "吾谋适不用，",
+      "pinyin": [
+        "wú",
+        "móu",
+        "shì",
+        "bù",
+        "yòng"
+      ],
+      "translation": "你的才学只是这一次恰好没被采用。",
+      "noteIds": [
+        "n-wumou"
+      ]
+    },
+    {
+      "text": "勿谓知音稀。",
+      "pinyin": [
+        "wù",
+        "wèi",
+        "zhī",
+        "yīn",
+        "xī"
+      ],
+      "translation": "千万别说世上懂得你的人稀少。",
+      "noteIds": [
+        "n-zhiyin"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-shengdai",
+      "word": "圣代",
+      "pinyin": "shèng dài",
+      "meaning": "圣明的时代。"
+    },
+    {
+      "id": "n-dongshan",
+      "word": "东山客",
+      "pinyin": "dōng shān kè",
+      "meaning": "指隐士，东晋的谢安曾在东山隐居。"
+    },
+    {
+      "id": "n-caiwei",
+      "word": "采薇",
+      "pinyin": "cǎi wēi",
+      "meaning": "采野菜，指隐居的生活。"
+    },
+    {
+      "id": "n-jinmen",
+      "word": "金门",
+      "pinyin": "jīn mén",
+      "meaning": "即金马门，汉代人才等候皇帝召见的地方，这里指朝廷。"
+    },
+    {
+      "id": "n-shuyun",
+      "word": "孰云",
+      "pinyin": "shú yún",
+      "meaning": "谁说。"
+    },
+    {
+      "id": "n-hanshi",
+      "word": "寒食",
+      "pinyin": "hán shí",
+      "meaning": "寒食节，在清明前一两天。"
+    },
+    {
+      "id": "n-jingluo",
+      "word": "京洛",
+      "pinyin": "jīng luò",
+      "meaning": "长安和洛阳，指京城。"
+    },
+    {
+      "id": "n-wei",
+      "word": "违",
+      "pinyin": "wéi",
+      "meaning": "离别、分开。"
+    },
+    {
+      "id": "n-guizhao",
+      "word": "桂棹",
+      "pinyin": "guì zhào",
+      "meaning": "桂木做的船桨，代指船。"
+    },
+    {
+      "id": "n-weiji",
+      "word": "未几",
+      "pinyin": "wèi jǐ",
+      "meaning": "不久。"
+    },
+    {
+      "id": "n-luohui",
+      "word": "落晖",
+      "pinyin": "luò huī",
+      "meaning": "落日的余光。"
+    },
+    {
+      "id": "n-wumou",
+      "word": "吾谋适不用",
+      "pinyin": "wú móu shì bù yòng",
+      "meaning": "我的主张恰好没被采用，语出《左传》，意思是没考中不是才能的问题。"
+    },
+    {
+      "id": "n-zhiyin",
+      "word": "知音",
+      "pinyin": "zhī yīn",
+      "meaning": "真正懂得自己的人。"
+    }
+  ],
+  "translation": "圣明的时代没有隐士，杰出的人才全都出来为朝廷效力，于是让隐居东山的高士也顾不上再去过采薇隐居的生活。可是到了京城，离朝廷还是那么遥远，谁说我们的主张不对呢？你在江淮一带过了寒食节，又在京城里缝补春衣，苦苦等待考试。我在长安道上摆下酒席，知心的朋友就要和我分别了。你将要乘船南归，不久就会推开自家的柴门。远处的树影伴随着远行的人，孤零零的村庄正对着落日的余晖。你的才学只是这一次恰好没被采用，千万别说世上懂得你的人稀少。",
+  "appreciation": "朋友没考中要回家，王维安慰他，却先不说“别难过”，而是从天下大势说到一路风景：寒食、春衣、远树、落晖，处处替朋友着想。最后一句最暖：“这次只是没轮上，别说没人懂你。”全诗把落第的失意，写成了真诚又明亮的友情。",
+  "background": "綦毋潜是王维的好友，考进士落榜后准备回南方家乡。王维在长安摆酒为他送行，写下这首诗安慰他，劝他不要灰心，说他的才华总会有人赏识。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "落第还乡",
+      "text": "綦毋潜没有考中进士，只好乘船回南方家乡去。"
+    },
+    {
+      "step": 2,
+      "title": "长安置酒",
+      "text": "王维在长安道上摆酒送行，知心好友就要分别。"
+    },
+    {
+      "step": 3,
+      "title": "一路落晖",
+      "text": "远处的树影伴着行客，孤村正对着落日余晖。"
+    },
+    {
+      "step": 4,
+      "title": "宽慰友人",
+      "text": "诗人劝他：这次只是没被采用，别嫌知音稀少。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "棹",
+      "reading": "zhào",
+      "reason": "“桂棹”是船桨，代指船，读 zhào。",
+      "standard": "不要读成 zhuó"
+    },
+    {
+      "char": "缝",
+      "reading": "féng",
+      "reason": "“缝春衣”是缝制衣服的意思，读 féng。",
+      "standard": "不要读成 fèng"
+    },
+    {
+      "char": "孰",
+      "reading": "shú",
+      "reason": "“孰云”是“谁说”的意思，读 shú。"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1172
+}

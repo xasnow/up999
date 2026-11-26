@@ -1,0 +1,218 @@
+{
+  "id": "tang-zhongtang-liuchangqing-songli-zhongcheng",
+  "slug": "songli-zhongcheng",
+  "title": "送李中丞归汉阳别业",
+  "titlePinyin": "sòng lǐ zhōng chéng guī hàn yáng bié yè",
+  "dynasty": "tangshi",
+  "era": "zhongtang",
+  "genre": "shi",
+  "form": "五言律诗",
+  "authorId": "liuchangqing",
+  "gradeBand": "ext",
+  "tags": [
+    "边塞",
+    "夕阳",
+    "江水",
+    "五言律诗"
+  ],
+  "difficulty": 3,
+  "writtenYear": 771,
+  "writtenLabel": "约公元 771 年（刘长卿约 45 岁，在江南送别罢官归乡的老将军）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "独立三边静，轻生一剑知。"
+  ],
+  "lines": [
+    {
+      "text": "流落征南将，",
+      "pinyin": [
+        "liú",
+        "luò",
+        "zhēng",
+        "nán",
+        "jiàng"
+      ],
+      "translation": "这位漂泊流落的征南将军，",
+      "noteIds": []
+    },
+    {
+      "text": "曾驱十万师。",
+      "pinyin": [
+        "céng",
+        "qū",
+        "shí",
+        "wàn",
+        "shī"
+      ],
+      "translation": "曾经统率过十万大军。",
+      "noteIds": [
+        "n-qu",
+        "n-shi"
+      ]
+    },
+    {
+      "text": "罢归无旧业，",
+      "pinyin": [
+        "bà",
+        "guī",
+        "wú",
+        "jiù",
+        "yè"
+      ],
+      "translation": "罢官归来时，家中没有旧日的产业，",
+      "noteIds": [
+        "n-ba"
+      ]
+    },
+    {
+      "text": "老去恋明时。",
+      "pinyin": [
+        "lǎo",
+        "qù",
+        "liàn",
+        "míng",
+        "shí"
+      ],
+      "translation": "年纪老了，还眷恋着圣明的时代。",
+      "noteIds": []
+    },
+    {
+      "text": "独立三边静，",
+      "pinyin": [
+        "dú",
+        "lì",
+        "sān",
+        "biān",
+        "jìng"
+      ],
+      "translation": "他独自镇守，边疆就安静无事，",
+      "noteIds": [
+        "n-sanbian"
+      ]
+    },
+    {
+      "text": "轻生一剑知。",
+      "pinyin": [
+        "qīng",
+        "shēng",
+        "yī",
+        "jiàn",
+        "zhī"
+      ],
+      "translation": "奋不顾身立下战功，只有随身宝剑知道。",
+      "noteIds": [
+        "n-qingsheng"
+      ]
+    },
+    {
+      "text": "茫茫江汉上，",
+      "pinyin": [
+        "máng",
+        "máng",
+        "jiāng",
+        "hàn",
+        "shàng"
+      ],
+      "translation": "苍茫的江汉平原上，",
+      "noteIds": []
+    },
+    {
+      "text": "日暮欲何之？",
+      "pinyin": [
+        "rì",
+        "mù",
+        "yù",
+        "hé",
+        "zhī"
+      ],
+      "translation": "天色已晚，他要到哪里去呢？",
+      "noteIds": [
+        "n-hezhi"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-qu",
+      "word": "驱",
+      "pinyin": "qū",
+      "meaning": "统率、指挥。"
+    },
+    {
+      "id": "n-shi",
+      "word": "师",
+      "pinyin": "shī",
+      "meaning": "军队。十万师就是十万大军。"
+    },
+    {
+      "id": "n-ba",
+      "word": "罢",
+      "pinyin": "bà",
+      "meaning": "停止，这里指罢官、停职。"
+    },
+    {
+      "id": "n-sanbian",
+      "word": "三边",
+      "pinyin": "sān biān",
+      "meaning": "泛指边疆、边境。"
+    },
+    {
+      "id": "n-qingsheng",
+      "word": "轻生",
+      "pinyin": "qīng shēng",
+      "meaning": "奋不顾身，不怕牺牲性命。"
+    },
+    {
+      "id": "n-hezhi",
+      "word": "何之",
+      "pinyin": "hé zhī",
+      "meaning": "到哪里去。之是往、去的意思。"
+    }
+  ],
+  "translation": "这位漂泊流落的征南将军，曾经统率过十万大军。罢官归来时，家中没有旧日的产业；年纪老了，还眷恋着圣明的时代。他独自镇守，边疆就安静无事；奋不顾身立下战功，只有随身宝剑知道。苍茫的江汉平原上，天色已晚，他要到哪里去呢？",
+  "appreciation": "诗写一位老将军：他曾经率领十万大军，镇守边疆时三边安静，出生入死的功劳只有宝剑知道。如今罢官归来，没有家业，年老时还一心眷恋朝廷。茫茫的江汉水面上，天色已晚，他还能到哪里去呢？诗人送别时满怀敬重和不平，短短几句写出英雄的晚年，读来让人心酸。",
+  "background": "约公元 771 年，刘长卿在江南与一位姓李的中丞相见。这位老将军曾为朝廷南征北战，晚年却被罢官流落，要回汉阳的别业安身。诗人敬重他的战功，又同情他的遭遇，送别时写下这首诗。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "忆当年勇",
+      "text": "老将军当年曾统率十万大军南征，威震边疆各地。"
+    },
+    {
+      "step": 2,
+      "title": "罢归无业",
+      "text": "如今罢官归来，家中没有产业，人也已经年老。"
+    },
+    {
+      "step": 3,
+      "title": "恋念朝廷",
+      "text": "他还一心眷恋着圣明的时代，盼着还能报效国家。"
+    },
+    {
+      "step": 4,
+      "title": "日暮何往",
+      "text": "茫茫江汉之上天色已晚，诗人送他回汉阳别业安身。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "将",
+      "reading": "jiàng",
+      "reason": "“征南将”指将军，“将”读 jiàng。",
+      "standard": "不要读成 jiāng"
+    },
+    {
+      "char": "曾",
+      "reading": "céng",
+      "reason": "“曾驱”是曾经统率过的意思，读 céng。",
+      "standard": "不要读成 zēng"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1109
+}

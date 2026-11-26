@@ -1,0 +1,209 @@
+{
+  "id": "tang-shengtang-dufu-chunsu-zuosheng",
+  "slug": "chunsu-zuosheng",
+  "title": "春宿左省",
+  "titlePinyin": "chūn sù zuǒ shěng",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "五言律诗",
+  "authorId": "dufu",
+  "gradeBand": "ext",
+  "tags": [
+    "爱国",
+    "五言律诗",
+    "月夜",
+    "星辰"
+  ],
+  "difficulty": 3,
+  "writtenYear": 757,
+  "writtenLabel": "约公元 757 年（杜甫 45 岁，在长安任左拾遗，夜里值宿门下省）",
+  "orderInAuthor": 6,
+  "famousLines": [
+    "星临万户动，月傍九霄多。"
+  ],
+  "lines": [
+    {
+      "text": "花隐掖垣暮，",
+      "pinyin": [
+        "huā",
+        "yǐn",
+        "yè",
+        "yuán",
+        "mù"
+      ],
+      "translation": "暮色里，花儿渐渐隐没在宫墙边。",
+      "noteIds": [
+        "n-yeyuan"
+      ]
+    },
+    {
+      "text": "啾啾栖鸟过。",
+      "pinyin": [
+        "jiū",
+        "jiū",
+        "qī",
+        "niǎo",
+        "guō"
+      ],
+      "translation": "归巢的鸟儿啾啾叫着飞过。",
+      "noteIds": []
+    },
+    {
+      "text": "星临万户动，",
+      "pinyin": [
+        "xīng",
+        "lín",
+        "wàn",
+        "hù",
+        "dòng"
+      ],
+      "translation": "星光照着宫中千门万户，仿佛在微微闪动。",
+      "noteIds": []
+    },
+    {
+      "text": "月傍九霄多。",
+      "pinyin": [
+        "yuè",
+        "bàng",
+        "jiǔ",
+        "xiāo",
+        "duō"
+      ],
+      "translation": "月亮挨着高高的九霄，照得宫里格外明亮。",
+      "noteIds": []
+    },
+    {
+      "text": "不寝听金钥，",
+      "pinyin": [
+        "bù",
+        "qǐn",
+        "tīng",
+        "jīn",
+        "yào"
+      ],
+      "translation": "夜里睡不着，留心听着开宫门的锁钥声。",
+      "noteIds": [
+        "n-jinyao"
+      ]
+    },
+    {
+      "text": "因风想玉珂。",
+      "pinyin": [
+        "yīn",
+        "fēng",
+        "xiǎng",
+        "yù",
+        "kē"
+      ],
+      "translation": "风声里，好像响起了百官马上的玉珂声。",
+      "noteIds": [
+        "n-yuke"
+      ]
+    },
+    {
+      "text": "明朝有封事，",
+      "pinyin": [
+        "míng",
+        "zhāo",
+        "yǒu",
+        "fēng",
+        "shì"
+      ],
+      "translation": "因为明天早晨要呈上密封的奏章，",
+      "noteIds": [
+        "n-fengshi"
+      ]
+    },
+    {
+      "text": "数问夜如何。",
+      "pinyin": [
+        "shuò",
+        "wèn",
+        "yè",
+        "rú",
+        "hé"
+      ],
+      "translation": "他一次又一次地问：夜到几更了？",
+      "noteIds": []
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-yeyuan",
+      "word": "掖垣",
+      "pinyin": "yè yuán",
+      "meaning": "宫墙旁的官署，这里指门下省（左省）。"
+    },
+    {
+      "id": "n-jinyao",
+      "word": "金钥",
+      "pinyin": "jīn yào",
+      "meaning": "开宫门的锁钥。"
+    },
+    {
+      "id": "n-yuke",
+      "word": "玉珂",
+      "pinyin": "yù kē",
+      "meaning": "马笼头上的装饰品，马走动时会响。"
+    },
+    {
+      "id": "n-fengshi",
+      "word": "封事",
+      "pinyin": "fēng shì",
+      "meaning": "密封的奏章，直接呈给皇帝的意见。"
+    }
+  ],
+  "translation": "暮色里，花儿渐渐隐没在宫墙边，归巢的鸟儿啾啾叫着飞过。星光照着宫中千门万户，仿佛在微微闪动；月亮挨着高高的九霄，照得宫里格外明亮。夜里睡不着，留心听着开宫门的锁钥声；风声里，好像响起了百官马上的玉珂声。因为明天早晨要呈上密封的奏章，他一次又一次地问：夜到几更了？",
+  "appreciation": "这首诗写的只是一次值夜班：傍晚进宫，星月下睡不着，一大早还要上奏章。可“星临万户动，月傍九霄多”把寻常的宫夜写得又高又亮，气象很大。后四句最见心思：不寝、听金钥、想玉珂、数问夜如何——一个把奏章看得极重的官员形象跃然纸上。诗中没有一句喊忠诚，忠诚却全在这些细节里。",
+  "background": "杜甫在长安担任左拾遗，负责给皇帝提意见。一天夜里，他在门下省值宿。想到第二天清晨要呈上密封的奏章，他一夜睡不安稳，不时打听夜到几更了。这首诗写的就是这个认真又紧张的不眠之夜。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "暮宿左省",
+      "text": "春天傍晚，杜甫值宿在宫墙旁的官署，归鸟啾啾飞过。"
+    },
+    {
+      "step": 2,
+      "title": "星月照宫",
+      "text": "星光照亮千门万户，明月挨着九霄，宫里格外明亮。"
+    },
+    {
+      "step": 3,
+      "title": "夜听金钥",
+      "text": "他惦记着明早的奏章，睡不着，留意着宫门的锁钥声。"
+    },
+    {
+      "step": 4,
+      "title": "数问更时",
+      "text": "他一次又一次打听夜到几更了，生怕误了早朝。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "掖",
+      "reading": "yè",
+      "reason": "“掖垣”指宫墙旁的官署，“掖”读 yè。",
+      "standard": "不要读成 yē"
+    },
+    {
+      "char": "过",
+      "reading": "guō",
+      "reason": "“栖鸟过”的“过”指鸟儿飞过，此处押歌韵，按古音读平声 guō。",
+      "standard": "这里不读 guò"
+    },
+    {
+      "char": "数",
+      "reading": "shuò",
+      "reason": "“数问夜如何”的“数”是“屡次”的意思，读 shuò。",
+      "standard": "不要读成 shù"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1078
+}

@@ -1,0 +1,154 @@
+{
+  "id": "tang-shengtang-libai-yujieyuan",
+  "slug": "yujieyuan",
+  "title": "玉阶怨",
+  "titlePinyin": "yù jiē yuàn",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "五言乐府",
+  "authorId": "libai",
+  "gradeBand": "ext",
+  "tags": [
+    "思念",
+    "五言乐府",
+    "月夜",
+    "秋露"
+  ],
+  "difficulty": 3,
+  "writtenYear": 727,
+  "writtenLabel": "约公元 727 年（李白 27 岁，年轻时漫游江南的时期）",
+  "orderInAuthor": 3,
+  "famousLines": [
+    "却下水晶帘，玲珑望秋月。"
+  ],
+  "lines": [
+    {
+      "text": "玉阶生白露，",
+      "pinyin": [
+        "yù",
+        "jiē",
+        "shēng",
+        "bái",
+        "lù"
+      ],
+      "translation": "玉石台阶上生起了白露，",
+      "noteIds": []
+    },
+    {
+      "text": "夜久侵罗袜。",
+      "pinyin": [
+        "yè",
+        "jiǔ",
+        "qīn",
+        "luó",
+        "wà"
+      ],
+      "translation": "站到深夜，露水浸湿了她的丝罗袜子。",
+      "noteIds": [
+        "n-luowa"
+      ]
+    },
+    {
+      "text": "却下水晶帘，",
+      "pinyin": [
+        "què",
+        "xià",
+        "shuǐ",
+        "jīng",
+        "lián"
+      ],
+      "translation": "回到屋里，放下了水晶珠帘，",
+      "noteIds": [
+        "n-que",
+        "n-shuijing"
+      ]
+    },
+    {
+      "text": "玲珑望秋月。",
+      "pinyin": [
+        "líng",
+        "lóng",
+        "wàng",
+        "qiū",
+        "yuè"
+      ],
+      "translation": "隔着帘子，望着那轮晶莹的秋月。",
+      "noteIds": [
+        "n-linglong"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-luowa",
+      "word": "罗袜",
+      "pinyin": "luó wà",
+      "meaning": "丝罗做成的袜子。"
+    },
+    {
+      "id": "n-que",
+      "word": "却",
+      "pinyin": "què",
+      "meaning": "退回、回到，指回屋里去。"
+    },
+    {
+      "id": "n-shuijing",
+      "word": "水晶帘",
+      "pinyin": "shuǐ jīng lián",
+      "meaning": "水晶珠串成的帘子，晶莹透亮。"
+    },
+    {
+      "id": "n-linglong",
+      "word": "玲珑",
+      "pinyin": "líng lóng",
+      "meaning": "晶莹剔透的样子，既写帘子，也写月光。"
+    }
+  ],
+  "translation": "玉石台阶上生起了白露，站到深夜，露水浸湿了她的丝罗袜子。回到屋里，放下了水晶珠帘，隔着帘子，望着那轮晶莹的秋月。",
+  "appreciation": "题为“怨”，全诗却不见一个“怨”字。玉阶、白露、罗袜、水晶帘、玲珑秋月，全是清冷幽美的物件：她在玉阶上久等，露水浸湿了丝袜；回房放下帘子，还是隔帘望着月亮。久候的失望藏在“夜久”二字里，放下帘子却依然望月，怨意不言自明。只用二十个字，就写尽了女子深夜的等待与幽怨。",
+  "background": "玉阶怨是乐府旧题，专门写宫中或闺中女子的哀怨。这首诗一般认为作于李白年轻时漫游江南的时期。他借用旧题，不直接写怨情，只写白露、罗袜、珠帘和秋月，让一位久等不归、深夜望月的女子形象自然浮现出来。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "玉阶久立",
+      "text": "女子在玉阶上久等，从入夜一直站到深夜。"
+    },
+    {
+      "step": 2,
+      "title": "露湿罗袜",
+      "text": "白露生起，站得太久，露水浸湿了她的丝袜。"
+    },
+    {
+      "step": 3,
+      "title": "回房下帘",
+      "text": "她进屋放下水晶帘，想睡了，心却不甘。"
+    },
+    {
+      "step": 4,
+      "title": "隔帘望月",
+      "text": "隔着帘子，她还在望着那轮玲珑的秋月出神。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "却",
+      "reading": "què",
+      "reason": "“却下水晶帘”的“却”是退回屋里的意思，读 què。",
+      "standard": "不要读成 jiǎo 或误当作“推却”之外的读音"
+    },
+    {
+      "char": "玲珑",
+      "reading": "líng lóng",
+      "reason": "两字都是王字旁，“玲珑”读 líng lóng，形容晶莹剔透。",
+      "standard": "不要读混"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1240
+}

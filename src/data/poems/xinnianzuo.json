@@ -1,0 +1,202 @@
+{
+  "id": "tang-zhongtang-liuchangqing-xinnianzuo",
+  "slug": "xinnianzuo",
+  "title": "新年作",
+  "titlePinyin": "xīn nián zuò",
+  "dynasty": "tangshi",
+  "era": "zhongtang",
+  "genre": "shi",
+  "form": "五言律诗",
+  "authorId": "liuchangqing",
+  "gradeBand": "ext",
+  "tags": [
+    "思乡",
+    "新年",
+    "春天",
+    "五言律诗"
+  ],
+  "difficulty": 3,
+  "writtenYear": 758,
+  "writtenLabel": "约公元 758 年（刘长卿约 32 岁，被贬潘州南巴，新年在贬所度过）",
+  "orderInAuthor": 2,
+  "famousLines": [
+    "乡心新岁切，天畔独潸然。"
+  ],
+  "lines": [
+    {
+      "text": "乡心新岁切，",
+      "pinyin": [
+        "xiāng",
+        "xīn",
+        "xīn",
+        "suì",
+        "qiè"
+      ],
+      "translation": "新年到来，想念家乡的心情更加急切，",
+      "noteIds": []
+    },
+    {
+      "text": "天畔独潸然。",
+      "pinyin": [
+        "tiān",
+        "pàn",
+        "dú",
+        "shān",
+        "rán"
+      ],
+      "translation": "我独自在天边流下眼泪。",
+      "noteIds": [
+        "n-shanran"
+      ]
+    },
+    {
+      "text": "老至居人下，",
+      "pinyin": [
+        "lǎo",
+        "zhì",
+        "jū",
+        "rén",
+        "xià"
+      ],
+      "translation": "年纪渐渐老了，职位还居在别人之下，",
+      "noteIds": [
+        "n-juxia"
+      ]
+    },
+    {
+      "text": "春归在客先。",
+      "pinyin": [
+        "chūn",
+        "guī",
+        "zài",
+        "kè",
+        "xiān"
+      ],
+      "translation": "春天已经回到家乡，我这个漂泊的人却还回不去。",
+      "noteIds": []
+    },
+    {
+      "text": "岭猿同旦暮，",
+      "pinyin": [
+        "lǐng",
+        "yuán",
+        "tóng",
+        "dàn",
+        "mù"
+      ],
+      "translation": "山岭上的猿猴伴着我从早到晚，",
+      "noteIds": [
+        "n-liling"
+      ]
+    },
+    {
+      "text": "江柳共风烟。",
+      "pinyin": [
+        "jiāng",
+        "liǔ",
+        "gòng",
+        "fēng",
+        "yān"
+      ],
+      "translation": "江边的柳树和我一同笼罩在风烟里。",
+      "noteIds": []
+    },
+    {
+      "text": "已似长沙傅，",
+      "pinyin": [
+        "yǐ",
+        "sì",
+        "cháng",
+        "shā",
+        "fù"
+      ],
+      "translation": "我已经像当年的长沙王太傅贾谊一样，",
+      "noteIds": [
+        "n-changshafu"
+      ]
+    },
+    {
+      "text": "从今又几年。",
+      "pinyin": [
+        "cóng",
+        "jīn",
+        "yòu",
+        "jǐ",
+        "nián"
+      ],
+      "translation": "从今往后，这样的日子还要再过多少年呢？",
+      "noteIds": []
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-shanran",
+      "word": "潸然",
+      "pinyin": "shān rán",
+      "meaning": "流泪的样子。"
+    },
+    {
+      "id": "n-juxia",
+      "word": "居人下",
+      "pinyin": "jū rén xià",
+      "meaning": "职位处在别人之下。"
+    },
+    {
+      "id": "n-liling",
+      "word": "岭猿",
+      "pinyin": "lǐng yuán",
+      "meaning": "五岭一带的猿猴。五岭在南方，是诗人贬所附近的山岭。"
+    },
+    {
+      "id": "n-changshafu",
+      "word": "长沙傅",
+      "pinyin": "cháng shā fù",
+      "meaning": "指西汉贾谊，他才华出众却被贬为长沙王太傅。"
+    }
+  ],
+  "translation": "新年到来，想念家乡的心情更加急切，我独自在天边流下眼泪。年纪渐渐老了，职位还居在别人之下；春天已经回到家乡，我这个漂泊的人却还回不去。山岭上的猿猴伴着我从早到晚，江边的柳树和我一同笼罩在风烟里。我已经像当年的长沙王太傅贾谊一样，从今往后，这样的日子还要再过多少年呢？",
+  "appreciation": "新年本是团圆的日子，诗人却独自在天边落泪。他说自己年纪大了还屈居人下，春天都先回了家乡，人却回不去。山里的猿猴陪他度过早晚，江边的柳树陪他一起迎着风烟。他自比被贬长沙的贾谊，忍不住问：这样的日子还要过几年？全诗把思乡的急切和遭遇的不平都写得真切动人。",
+  "background": "约公元 758 年，刘长卿被人诬陷，被贬为潘州南巴尉。过年前后，他正处在贬谪的漂泊里。新年一到，家家团圆，他想起远方的家乡和自己的遭遇，在天边写下这首诗。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "新岁思乡",
+      "text": "新年到了，诗人在遥远的天边，想家想得更急切了。"
+    },
+    {
+      "step": 2,
+      "title": "独自落泪",
+      "text": "想到自己年老了还居人下，他独自流下了眼泪。"
+    },
+    {
+      "step": 3,
+      "title": "猿柳相伴",
+      "text": "山里的猿猴伴他度过朝夕，江边柳树陪他一起迎着风烟。"
+    },
+    {
+      "step": 4,
+      "title": "自比贾谊",
+      "text": "他自比被贬长沙的贾谊，不知这样的日子还有几年。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "切",
+      "reading": "qiè",
+      "reason": "“乡心切”是说思乡心切、心情急迫，“切”读 qiè。",
+      "standard": "不要读成 qiē"
+    },
+    {
+      "char": "潸",
+      "reading": "shān",
+      "reason": "“潸然”形容流泪的样子，读 shān。"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1107
+}

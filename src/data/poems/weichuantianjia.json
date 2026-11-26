@@ -1,0 +1,263 @@
+{
+  "id": "tang-shengtang-wangwei-weichuantianjia",
+  "slug": "weichuantianjia",
+  "title": "渭川田家",
+  "titlePinyin": "wèi chuān tián jiā",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "五言古诗",
+  "authorId": "wangwei",
+  "gradeBand": "ext",
+  "tags": [
+    "田园",
+    "五言古诗",
+    "夕阳",
+    "牛羊"
+  ],
+  "difficulty": 3,
+  "writtenYear": 744,
+  "writtenLabel": "约公元 744 年（王维 43 岁，居辋川，傍晚看到农家晚归的景象）",
+  "orderInAuthor": 5,
+  "famousLines": [
+    "斜光照墟落，穷巷牛羊归。"
+  ],
+  "lines": [
+    {
+      "text": "斜光照墟落，",
+      "pinyin": [
+        "xié",
+        "guāng",
+        "zhào",
+        "xū",
+        "luò"
+      ],
+      "translation": "夕阳斜照着村庄。",
+      "noteIds": [
+        "n-xuluo"
+      ]
+    },
+    {
+      "text": "穷巷牛羊归。",
+      "pinyin": [
+        "qióng",
+        "xiàng",
+        "niú",
+        "yáng",
+        "guī"
+      ],
+      "translation": "深巷里牛羊慢慢走回来了。",
+      "noteIds": [
+        "n-qiongxiang"
+      ]
+    },
+    {
+      "text": "野老念牧童，",
+      "pinyin": [
+        "yě",
+        "lǎo",
+        "niàn",
+        "mù",
+        "tóng"
+      ],
+      "translation": "村里的老人惦记着放牛的孩子。",
+      "noteIds": [
+        "n-yelao"
+      ]
+    },
+    {
+      "text": "倚杖候荆扉。",
+      "pinyin": [
+        "yǐ",
+        "zhàng",
+        "hòu",
+        "jīng",
+        "fēi"
+      ],
+      "translation": "拄着拐杖在柴门口等他回来。",
+      "noteIds": [
+        "n-jingfei"
+      ]
+    },
+    {
+      "text": "雉雊麦苗秀，",
+      "pinyin": [
+        "zhì",
+        "gòu",
+        "mài",
+        "miáo",
+        "xiù"
+      ],
+      "translation": "野鸡啼叫，麦苗正在抽穗。",
+      "noteIds": [
+        "n-zhigou"
+      ]
+    },
+    {
+      "text": "蚕眠桑叶稀。",
+      "pinyin": [
+        "cán",
+        "mián",
+        "sāng",
+        "yè",
+        "xī"
+      ],
+      "translation": "蚕睡着了，桑叶也变得稀疏。",
+      "noteIds": [
+        "n-canmian"
+      ]
+    },
+    {
+      "text": "田夫荷锄至，",
+      "pinyin": [
+        "tián",
+        "fū",
+        "hè",
+        "chú",
+        "zhì"
+      ],
+      "translation": "农夫扛着锄头回来。",
+      "noteIds": [
+        "n-hechu"
+      ]
+    },
+    {
+      "text": "相见语依依。",
+      "pinyin": [
+        "xiāng",
+        "jiàn",
+        "yǔ",
+        "yī",
+        "yī"
+      ],
+      "translation": "见面就亲亲热热地说起话来。",
+      "noteIds": []
+    },
+    {
+      "text": "即此羡闲逸，",
+      "pinyin": [
+        "jí",
+        "cǐ",
+        "xiàn",
+        "xián",
+        "yì"
+      ],
+      "translation": "看到这样安闲自在的日子，我真心羡慕。",
+      "noteIds": []
+    },
+    {
+      "text": "怅然吟式微。",
+      "pinyin": [
+        "chàng",
+        "rán",
+        "yín",
+        "shì",
+        "wēi"
+      ],
+      "translation": "惆怅地吟起“天黑了，为什么不回家”的古歌。",
+      "noteIds": [
+        "n-shiwei"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-xuluo",
+      "word": "墟落",
+      "pinyin": "xū luò",
+      "meaning": "村庄。"
+    },
+    {
+      "id": "n-qiongxiang",
+      "word": "穷巷",
+      "pinyin": "qióng xiàng",
+      "meaning": "深巷，偏僻的小巷。"
+    },
+    {
+      "id": "n-yelao",
+      "word": "野老",
+      "pinyin": "yě lǎo",
+      "meaning": "村里的老人。"
+    },
+    {
+      "id": "n-jingfei",
+      "word": "荆扉",
+      "pinyin": "jīng fēi",
+      "meaning": "用荆条编的柴门。"
+    },
+    {
+      "id": "n-zhigou",
+      "word": "雉雊",
+      "pinyin": "zhì gòu",
+      "meaning": "野鸡鸣叫。"
+    },
+    {
+      "id": "n-canmian",
+      "word": "蚕眠",
+      "pinyin": "cán mián",
+      "meaning": "蚕吐丝作茧前不吃不动，像睡着了一样。"
+    },
+    {
+      "id": "n-hechu",
+      "word": "荷锄",
+      "pinyin": "hè chú",
+      "meaning": "扛着锄头。"
+    },
+    {
+      "id": "n-shiwei",
+      "word": "式微",
+      "pinyin": "shì wēi",
+      "meaning": "《诗经》里的句子：“式微式微，胡不归？”意思是天黑了，为什么不回家呢？"
+    }
+  ],
+  "translation": "夕阳斜照着村庄，深巷里牛羊慢慢走回来了。村里的老人惦记着放牛的孩子，拄着拐杖在柴门口等他。野鸡啼叫，麦苗正在抽穗；蚕睡着了，桑叶也变得稀疏。农夫扛着锄头回来，见面就亲亲热热地说起话来。看到这样安闲自在的日子，我真心羡慕，惆怅地吟起“天黑了，为什么不回家”的古歌。",
+  "appreciation": "诗人站在村口，看了一天里最平常的一幕：牛羊回圈，老人等孩子，农夫扛着锄头说笑。每个人都在“归”，只有诗人自己还留在官场里，进退两难。全诗没有一句抱怨，只把羡慕和惆怅都放进最后那句古老的歌谣里，读起来格外动人。",
+  "background": "王维过着半官半隐的生活，傍晚路过渭水边的村庄，看到农家晚归的景象。他想到自己在官场里的疲惫，写下这首诗，表达了对田园生活的羡慕和想早日归隐的心愿。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "夕照归牛",
+      "text": "夕阳照着村庄，牛羊慢慢走回深巷里。"
+    },
+    {
+      "step": 2,
+      "title": "老人候门",
+      "text": "老人拄着拐杖，在柴门口等牧童回家。"
+    },
+    {
+      "step": 3,
+      "title": "农夫闲话",
+      "text": "扛锄头的农夫回来，见面亲热地聊起天来。"
+    },
+    {
+      "step": 4,
+      "title": "诗人兴叹",
+      "text": "诗人满心羡慕，轻声吟起“式微”的古歌。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "雉雊",
+      "reading": "zhì gòu",
+      "reason": "“雉”是野鸡，“雊”是野鸡叫，两个字分别读 zhì、gòu。"
+    },
+    {
+      "char": "荷",
+      "reading": "hè",
+      "reason": "“荷锄”是扛着锄头的意思，读 hè。",
+      "standard": "不要读成 hé"
+    },
+    {
+      "char": "式微",
+      "reading": "shì wēi",
+      "reason": "出自《诗经》，意思是“天黑了，该回家了”。"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1169
+}

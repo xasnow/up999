@@ -1,0 +1,209 @@
+{
+  "id": "tang-zhongtang-liuchangqing-jianbie-wangshiyi",
+  "slug": "jianbie-wangshiyi",
+  "title": "饯别王十一南游",
+  "titlePinyin": "jiàn bié wáng shí yī nán yóu",
+  "dynasty": "tangshi",
+  "era": "zhongtang",
+  "genre": "shi",
+  "form": "五言律诗",
+  "authorId": "liuchangqing",
+  "gradeBand": "ext",
+  "tags": [
+    "送别",
+    "长江",
+    "落日",
+    "五言律诗"
+  ],
+  "difficulty": 3,
+  "writtenYear": 770,
+  "writtenLabel": "约公元 770 年（刘长卿约 44 岁，在江边为友人王十一饯行）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "长江一帆远，落日五湖春。"
+  ],
+  "lines": [
+    {
+      "text": "望君烟水阔，",
+      "pinyin": [
+        "wàng",
+        "jūn",
+        "yān",
+        "shuǐ",
+        "kuò"
+      ],
+      "translation": "望着你的小船驶向烟水茫茫的远方，",
+      "noteIds": []
+    },
+    {
+      "text": "挥手泪沾巾。",
+      "pinyin": [
+        "huī",
+        "shǒu",
+        "lèi",
+        "zhān",
+        "jīn"
+      ],
+      "translation": "我挥手告别，泪水打湿了手巾。",
+      "noteIds": []
+    },
+    {
+      "text": "飞鸟没何处，",
+      "pinyin": [
+        "fēi",
+        "niǎo",
+        "mò",
+        "hé",
+        "chù"
+      ],
+      "translation": "你的船像飞鸟一样，隐没在什么地方呢？",
+      "noteIds": [
+        "n-mo"
+      ]
+    },
+    {
+      "text": "青山空向人。",
+      "pinyin": [
+        "qīng",
+        "shān",
+        "kōng",
+        "xiàng",
+        "rén"
+      ],
+      "translation": "只有青山白白地对着送行的人。",
+      "noteIds": []
+    },
+    {
+      "text": "长江一帆远，",
+      "pinyin": [
+        "cháng",
+        "jiāng",
+        "yī",
+        "fān",
+        "yuǎn"
+      ],
+      "translation": "长江上只见一片白帆越行越远，",
+      "noteIds": []
+    },
+    {
+      "text": "落日五湖春。",
+      "pinyin": [
+        "luò",
+        "rì",
+        "wǔ",
+        "hú",
+        "chūn"
+      ],
+      "translation": "落日映照着五湖的春色。",
+      "noteIds": [
+        "n-wuhu"
+      ]
+    },
+    {
+      "text": "谁见汀洲上，",
+      "pinyin": [
+        "shuí",
+        "jiàn",
+        "tīng",
+        "zhōu",
+        "shàng"
+      ],
+      "translation": "谁能看见我站在水中的小洲上，",
+      "noteIds": [
+        "n-tingzhou"
+      ]
+    },
+    {
+      "text": "相思愁白蘋。",
+      "pinyin": [
+        "xiāng",
+        "sī",
+        "chóu",
+        "bái",
+        "pín"
+      ],
+      "translation": "对着白蘋草发愁，深深想念着你。",
+      "noteIds": [
+        "n-baipin"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-mo",
+      "word": "没",
+      "pinyin": "mò",
+      "meaning": "隐没、消失。"
+    },
+    {
+      "id": "n-wuhu",
+      "word": "五湖",
+      "pinyin": "wǔ hú",
+      "meaning": "泛指太湖一带的湖泊。"
+    },
+    {
+      "id": "n-tingzhou",
+      "word": "汀洲",
+      "pinyin": "tīng zhōu",
+      "meaning": "水边或水中的小块平地、小洲。"
+    },
+    {
+      "id": "n-baipin",
+      "word": "白蘋",
+      "pinyin": "bái pín",
+      "meaning": "一种开白花的水草，浮在水面上。"
+    }
+  ],
+  "translation": "望着你的小船驶向烟水茫茫的远方，我挥手告别，泪水打湿了手巾。你的船像飞鸟一样，隐没在什么地方呢？只有青山白白地对着送行的人。长江上只见一片白帆越行越远，落日映照着五湖的春色。谁能看见我站在水中的小洲上，对着白蘋草发愁，深深想念着你。",
+  "appreciation": "朋友乘船远去，诗人一直望着烟水茫茫的远方，挥手时泪水沾湿了手巾。船像飞鸟一样消失不见，只剩青山白白地对着送行的人。长江上白帆越来越远，落日照着五湖春色。他站在长满白蘋的汀洲上，把说不完的想念都交给这片江水。全诗句句写景，又句句含情，是送别诗里的名作。",
+  "background": "约公元 770 年，刘长卿的友人王十一要乘船去南方游历。诗人在江边设酒为他送行。船走远了，他还站在汀洲上望着江面。朋友走后，他写下这首诗，把离别的不舍都写进了烟水、青山和落日里。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "江边饯行",
+      "text": "王十一乘船南游，诗人在江边设酒为他送行。"
+    },
+    {
+      "step": 2,
+      "title": "挥手落泪",
+      "text": "船渐行渐远，诗人挥手告别，泪水打湿了手巾。"
+    },
+    {
+      "step": 3,
+      "title": "帆影远去",
+      "text": "长江上只剩一片白帆，慢慢消失在落日映照的五湖。"
+    },
+    {
+      "step": 4,
+      "title": "汀洲相思",
+      "text": "诗人站在长满白蘋的汀洲上，望着江水久久想念。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "没",
+      "reading": "mò",
+      "reason": "“飞鸟没何处”的“没”是隐没、消失的意思，读 mò。",
+      "standard": "不要读成 méi"
+    },
+    {
+      "char": "汀",
+      "reading": "tīng",
+      "reason": "“汀洲”是水边的小洲，读 tīng。",
+      "standard": "不要读成 dīng"
+    },
+    {
+      "char": "蘋",
+      "reading": "pín",
+      "reason": "“白蘋”是水中开白花的草，读 pín。",
+      "standard": "不要读成 píng"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1110
+}

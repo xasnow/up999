@@ -1,0 +1,233 @@
+{
+  "id": "tang-shengtang-dufu-yonghuaiguji-3",
+  "slug": "yonghuaiguji-3",
+  "title": "咏怀古迹·其三",
+  "titlePinyin": "yǒng huái gǔ jì · qí sān",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "七言律诗",
+  "authorId": "dufu",
+  "gradeBand": "ext",
+  "tags": [
+    "怀古",
+    "琵琶",
+    "黄昏",
+    "七言律诗"
+  ],
+  "difficulty": 3,
+  "writtenYear": 766,
+  "writtenLabel": "约公元 766 年（杜甫 54 岁，寓居夔州，咏叹王昭君）",
+  "orderInAuthor": 3,
+  "famousLines": [
+    "一去紫台连朔漠，独留青冢向黄昏。"
+  ],
+  "lines": [
+    {
+      "text": "群山万壑赴荆门，",
+      "pinyin": [
+        "qún",
+        "shān",
+        "wàn",
+        "hè",
+        "fù",
+        "jīng",
+        "mén"
+      ],
+      "translation": "千山万谷，一路奔向荆门山，",
+      "noteIds": []
+    },
+    {
+      "text": "生长明妃尚有村。",
+      "pinyin": [
+        "shēng",
+        "zhǎng",
+        "míng",
+        "fēi",
+        "shàng",
+        "yǒu",
+        "cūn"
+      ],
+      "translation": "那里还有个村庄，是生长明妃的地方。",
+      "noteIds": [
+        "n-mingfei"
+      ]
+    },
+    {
+      "text": "一去紫台连朔漠，",
+      "pinyin": [
+        "yí",
+        "qù",
+        "zǐ",
+        "tái",
+        "lián",
+        "shuò",
+        "mò"
+      ],
+      "translation": "她一离开紫台，就走向北方的大沙漠，",
+      "noteIds": [
+        "n-shuomo"
+      ]
+    },
+    {
+      "text": "独留青冢向黄昏。",
+      "pinyin": [
+        "dú",
+        "liú",
+        "qīng",
+        "zhǒng",
+        "xiàng",
+        "huáng",
+        "hūn"
+      ],
+      "translation": "只留下一座青冢，独自面对着黄昏。",
+      "noteIds": [
+        "n-qingzhong"
+      ]
+    },
+    {
+      "text": "画图省识春风面，",
+      "pinyin": [
+        "huà",
+        "tú",
+        "xǐng",
+        "shí",
+        "chūn",
+        "fēng",
+        "miàn"
+      ],
+      "translation": "皇帝只凭一张画像，略略认了她的模样，",
+      "noteIds": [
+        "n-shengshi"
+      ]
+    },
+    {
+      "text": "环佩空归月夜魂。",
+      "pinyin": [
+        "huán",
+        "pèi",
+        "kōng",
+        "guī",
+        "yuè",
+        "yè",
+        "hún"
+      ],
+      "translation": "她戴环佩的魂魄，只能在月夜白白回到家乡。",
+      "noteIds": [
+        "n-huanpei"
+      ]
+    },
+    {
+      "text": "千载琵琶作胡语，",
+      "pinyin": [
+        "qiān",
+        "zǎi",
+        "pí",
+        "pá",
+        "zuò",
+        "hú",
+        "yǔ"
+      ],
+      "translation": "千百年来琵琶弹着塞外的曲调，",
+      "noteIds": []
+    },
+    {
+      "text": "分明怨恨曲中论。",
+      "pinyin": [
+        "fēn",
+        "míng",
+        "yuàn",
+        "hèn",
+        "qǔ",
+        "zhōng",
+        "lún"
+      ],
+      "translation": "曲子里分明诉说着满腹怨恨。",
+      "noteIds": []
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-mingfei",
+      "word": "明妃",
+      "pinyin": "míng fēi",
+      "meaning": "王昭君，汉元帝时远嫁塞外和亲的宫女。"
+    },
+    {
+      "id": "n-shuomo",
+      "word": "朔漠",
+      "pinyin": "shuò mò",
+      "meaning": "北方的大沙漠。紫台指汉朝宫廷。"
+    },
+    {
+      "id": "n-qingzhong",
+      "word": "青冢",
+      "pinyin": "qīng zhǒng",
+      "meaning": "王昭君的坟墓，传说塞外草是白的，只有它的上面长青草。"
+    },
+    {
+      "id": "n-shengshi",
+      "word": "省识",
+      "pinyin": "xǐng shí",
+      "meaning": "曾经看过、略略认得。"
+    },
+    {
+      "id": "n-huanpei",
+      "word": "环佩",
+      "pinyin": "huán pèi",
+      "meaning": "女子身上的玉饰，走路时叮当作响。"
+    }
+  ],
+  "translation": "千山万谷，一路奔向荆门山，那里还有个村庄，是生长明妃的地方。她一离开紫台，就走向北方的大沙漠，只留下一座青冢，独自面对着黄昏。皇帝只凭一张画像，略略认了她的模样，她戴环佩的魂魄，只能在月夜白白回到家乡。千百年来琵琶弹着塞外的曲调，曲子里分明诉说着满腹怨恨。",
+  "appreciation": "开头千山万壑好像都赶着奔向荆门，气势很大，只为迎接一位山村姑娘。昭君远嫁大漠，一座青冢独对黄昏，画面又大又冷。杜甫不解释，只用“一去”“独留”两个词，就把一生的委屈写完了。结尾琵琶曲里的怨恨，其实也有他自己回不了家的怨恨。",
+  "background": "公元766年，杜甫寓居夔州。附近的荆门山一带相传是王昭君的故乡。杜甫想到昭君因画师作假被派去和亲，一生回不了故乡，又联想到自己多年漂泊在外，感慨两种人同样的无奈，写下这首咏叹昭君的名作。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "群山赴门",
+      "text": "千山万谷一路奔向荆门，迎接远道的故事。"
+    },
+    {
+      "step": 2,
+      "title": "村出明妃",
+      "text": "山村里走出王昭君，她远嫁塞外大漠。"
+    },
+    {
+      "step": 3,
+      "title": "青冢黄昏",
+      "text": "大漠上只留一座青冢，独自对着黄昏。"
+    },
+    {
+      "step": 4,
+      "title": "琵琶诉怨",
+      "text": "千年来的琵琶曲里，分明唱着她的怨恨。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "省",
+      "reading": "xǐng",
+      "reason": "“画图省识”是说皇帝只凭画像略略看过，“省”读 xǐng。",
+      "standard": "不要读成 shěng"
+    },
+    {
+      "char": "论",
+      "reading": "lún",
+      "reason": "“曲中论”的“论”在诗里押平声韵，读 lún。",
+      "standard": "不要读成 lùn"
+    },
+    {
+      "char": "载",
+      "reading": "zǎi",
+      "reason": "“千载”指一千年，读 zǎi。",
+      "standard": "不要读成 zài"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1141
+}

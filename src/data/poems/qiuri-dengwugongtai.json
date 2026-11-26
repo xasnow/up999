@@ -1,0 +1,217 @@
+{
+  "id": "tang-zhongtang-liuchangqing-qiuri-dengwugongtai",
+  "slug": "qiuri-dengwugongtai",
+  "title": "秋日登吴公台上寺远眺",
+  "titlePinyin": "qiū rì dēng wú gōng tái shàng sì yuǎn tiào",
+  "dynasty": "tangshi",
+  "era": "zhongtang",
+  "genre": "shi",
+  "form": "五言律诗",
+  "authorId": "liuchangqing",
+  "gradeBand": "ext",
+  "tags": [
+    "怀古",
+    "秋天",
+    "夕阳",
+    "五言律诗"
+  ],
+  "difficulty": 3,
+  "writtenYear": 762,
+  "writtenLabel": "约公元 762 年（刘长卿约 36 岁，客居扬州，秋日登吴公台远眺）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "夕阳依旧垒，寒磬满空林。"
+  ],
+  "lines": [
+    {
+      "text": "古台摇落后，",
+      "pinyin": [
+        "gǔ",
+        "tái",
+        "yáo",
+        "luò",
+        "hòu"
+      ],
+      "translation": "古老的吴公台在风雨中残破凋零之后，",
+      "noteIds": [
+        "n-wugongtai",
+        "n-yaoluo"
+      ]
+    },
+    {
+      "text": "秋日望乡心。",
+      "pinyin": [
+        "qiū",
+        "rì",
+        "wàng",
+        "xiāng",
+        "xīn"
+      ],
+      "translation": "我在秋日登上它远望，满心都是思乡之情。",
+      "noteIds": []
+    },
+    {
+      "text": "野寺来人少，",
+      "pinyin": [
+        "yě",
+        "sì",
+        "lái",
+        "rén",
+        "shǎo"
+      ],
+      "translation": "山野的寺庙很少有人来，",
+      "noteIds": []
+    },
+    {
+      "text": "云峰隔水深。",
+      "pinyin": [
+        "yún",
+        "fēng",
+        "gé",
+        "shuǐ",
+        "shēn"
+      ],
+      "translation": "云雾中的山峰隔着深水遥遥相望。",
+      "noteIds": []
+    },
+    {
+      "text": "夕阳依旧垒，",
+      "pinyin": [
+        "xī",
+        "yáng",
+        "yī",
+        "jiù",
+        "lěi"
+      ],
+      "translation": "夕阳照着旧日的营垒，",
+      "noteIds": [
+        "n-jiulei"
+      ]
+    },
+    {
+      "text": "寒磬满空林。",
+      "pinyin": [
+        "hán",
+        "qìng",
+        "mǎn",
+        "kōng",
+        "lín"
+      ],
+      "translation": "清冷的磬声回荡在空旷的树林里。",
+      "noteIds": [
+        "n-qing"
+      ]
+    },
+    {
+      "text": "惆怅南朝事，",
+      "pinyin": [
+        "chóu",
+        "chàng",
+        "nán",
+        "cháo",
+        "shì"
+      ],
+      "translation": "南朝的兴亡旧事让人惆怅，",
+      "noteIds": [
+        "n-nanchao",
+        "n-chouzhang"
+      ]
+    },
+    {
+      "text": "长江独至今。",
+      "pinyin": [
+        "cháng",
+        "jiāng",
+        "dú",
+        "zhì",
+        "jīn"
+      ],
+      "translation": "只有长江独自流到今天。",
+      "noteIds": []
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-wugongtai",
+      "word": "吴公台",
+      "pinyin": "wú gōng tái",
+      "meaning": "古台名，在今江苏扬州西北，是南朝留下的古迹。"
+    },
+    {
+      "id": "n-yaoluo",
+      "word": "摇落",
+      "pinyin": "yáo luò",
+      "meaning": "凋残、零落，这里指古台已经破败。"
+    },
+    {
+      "id": "n-jiulei",
+      "word": "旧垒",
+      "pinyin": "jiù lěi",
+      "meaning": "旧时的营垒、堡垒。"
+    },
+    {
+      "id": "n-qing",
+      "word": "磬",
+      "pinyin": "qìng",
+      "meaning": "寺庙里用的铜制乐器，做法事时敲响。"
+    },
+    {
+      "id": "n-nanchao",
+      "word": "南朝",
+      "pinyin": "nán cháo",
+      "meaning": "指先后建都在南方的宋、齐、梁、陈四个朝代。"
+    },
+    {
+      "id": "n-chouzhang",
+      "word": "惆怅",
+      "pinyin": "chóu chàng",
+      "meaning": "伤感，心里不好受。"
+    }
+  ],
+  "translation": "古老的吴公台在风雨中残破凋零之后，我在秋日登上它远望，满心都是思乡之情。山野的寺庙很少有人来，云雾中的山峰隔着深水遥遥相望。夕阳照着旧日的营垒，清冷的磬声回荡在空旷的树林里。南朝的兴亡旧事让人惆怅，只有长江独自流到今天。",
+  "appreciation": "诗人秋日登上吴公台远望，古台已经残破，山寺里人影稀少，夕阳照着旧营垒，清冷的磬声回荡在空林。他想起南朝的兴亡，那些热闹都过去了，只有长江还在独自流淌。乡愁和怀古的感慨叠在一起，全诗安静又苍凉，像一幅淡淡的水墨秋景，读起来余味悠长。",
+  "background": "约公元 762 年，刘长卿客居扬州一带。吴公台是南朝留下的古台，台上有座旧寺。一个秋天的傍晚，他登上古台远眺，看到残台、古寺和夕阳，想起南朝的兴亡，也想起自己漂泊的处境，写下这首诗。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "秋登古台",
+      "text": "秋天的傍晚，诗人登上破败的吴公台，向远处眺望。"
+    },
+    {
+      "step": 2,
+      "title": "野寺云峰",
+      "text": "山寺少有人来，云雾中的山峰隔着深水遥遥相望。"
+    },
+    {
+      "step": 3,
+      "title": "夕照闻磬",
+      "text": "夕阳照在旧营垒上，清冷的磬声传遍空旷的树林。"
+    },
+    {
+      "step": 4,
+      "title": "感叹兴亡",
+      "text": "想起南朝的兴亡旧事，如今只有长江独自流到今天。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "磬",
+      "reading": "qìng",
+      "reason": "寺庙里敲的乐器叫“磬”，读 qìng。",
+      "standard": "不要读成 qíng"
+    },
+    {
+      "char": "垒",
+      "reading": "lěi",
+      "reason": "“旧垒”指旧时的营垒，“垒”读 lěi。",
+      "standard": "不要读成 lèi"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1108
+}

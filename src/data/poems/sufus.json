@@ -1,0 +1,231 @@
+{
+  "id": "tang-shengtang-dufu-sufus",
+  "slug": "sufus",
+  "title": "宿府",
+  "titlePinyin": "sù fǔ",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "七言律诗",
+  "authorId": "dufu",
+  "gradeBand": "ext",
+  "tags": [
+    "孤独",
+    "秋天",
+    "月夜",
+    "七言律诗"
+  ],
+  "difficulty": 3,
+  "writtenYear": 764,
+  "writtenLabel": "公元 764 年（杜甫 52 岁，秋夜独宿成都严武幕府）",
+  "orderInAuthor": 8,
+  "famousLines": [
+    "永夜角声悲自语，中天月色好谁看。"
+  ],
+  "lines": [
+    {
+      "text": "清秋幕府井梧寒，",
+      "pinyin": [
+        "qīng",
+        "qiū",
+        "mù",
+        "fǔ",
+        "jǐng",
+        "wú",
+        "hán"
+      ],
+      "translation": "清冷的秋天，幕府井边的梧桐带着寒意，",
+      "noteIds": [
+        "n-mufu",
+        "n-jingwu"
+      ]
+    },
+    {
+      "text": "独宿江城蜡炬残。",
+      "pinyin": [
+        "dú",
+        "sù",
+        "jiāng",
+        "chéng",
+        "là",
+        "jù",
+        "cán"
+      ],
+      "translation": "我独自睡在江城，蜡烛快要烧完。",
+      "noteIds": []
+    },
+    {
+      "text": "永夜角声悲自语，",
+      "pinyin": [
+        "yǒng",
+        "yè",
+        "jiǎo",
+        "shēng",
+        "bēi",
+        "zì",
+        "yǔ"
+      ],
+      "translation": "漫漫长夜里，号角声像在悲伤地自言自语，",
+      "noteIds": []
+    },
+    {
+      "text": "中天月色好谁看。",
+      "pinyin": [
+        "zhōng",
+        "tiān",
+        "yuè",
+        "sè",
+        "hǎo",
+        "shuí",
+        "kān"
+      ],
+      "translation": "半空的月色虽好，又有谁来欣赏呢？",
+      "noteIds": []
+    },
+    {
+      "text": "风尘荏苒音书绝，",
+      "pinyin": [
+        "fēng",
+        "chén",
+        "rěn",
+        "rǎn",
+        "yīn",
+        "shū",
+        "jué"
+      ],
+      "translation": "战乱中日子一天天过去，家里的音信全都断了，",
+      "noteIds": [
+        "n-renran"
+      ]
+    },
+    {
+      "text": "关塞萧条行路难。",
+      "pinyin": [
+        "guān",
+        "sài",
+        "xiāo",
+        "tiáo",
+        "xíng",
+        "lù",
+        "nán"
+      ],
+      "translation": "关塞冷冷清清，回家的路那么难走。",
+      "noteIds": []
+    },
+    {
+      "text": "已忍伶俜十年事，",
+      "pinyin": [
+        "yǐ",
+        "rěn",
+        "líng",
+        "pīng",
+        "shí",
+        "nián",
+        "shì"
+      ],
+      "translation": "孤孤单单的日子我已忍了十年，",
+      "noteIds": [
+        "n-lingping"
+      ]
+    },
+    {
+      "text": "强移栖息一枝安。",
+      "pinyin": [
+        "qiǎng",
+        "yí",
+        "qī",
+        "xī",
+        "yì",
+        "zhī",
+        "ān"
+      ],
+      "translation": "如今勉强像鸟儿一样，找一根树枝暂时安身。",
+      "noteIds": [
+        "n-qiang"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-mufu",
+      "word": "幕府",
+      "pinyin": "mù fǔ",
+      "meaning": "将军的府署，杜甫当时在严武幕府里做幕僚。"
+    },
+    {
+      "id": "n-jingwu",
+      "word": "井梧",
+      "pinyin": "jǐng wú",
+      "meaning": "井边的梧桐树。"
+    },
+    {
+      "id": "n-renran",
+      "word": "荏苒",
+      "pinyin": "rěn rǎn",
+      "meaning": "时间不知不觉地过去。"
+    },
+    {
+      "id": "n-lingping",
+      "word": "伶俜",
+      "pinyin": "líng pīng",
+      "meaning": "孤独无依的样子。"
+    },
+    {
+      "id": "n-qiang",
+      "word": "强",
+      "pinyin": "qiǎng",
+      "meaning": "勉强。"
+    }
+  ],
+  "translation": "清冷的秋天，幕府井边的梧桐带着寒意，我独自睡在江城，蜡烛快要烧完。漫漫长夜里，号角声像在悲伤地自言自语，半空的月色虽好，又有谁来欣赏呢？战乱中日子一天天过去，家里的音信全都断了，关塞冷冷清清，回家的路那么难走。孤孤单单的日子我已忍了十年，如今勉强像鸟儿一样，找一根树枝暂时安身。",
+  "appreciation": "一支快烧完的蜡烛，照着睡不着的人。号角声、月色、井边的梧桐，都是长夜里陪他的声音和影子。诗里没有一个字喊苦，可是“好谁看”三个字，把没人分担的心事全说了出来。最后他把自己比作停在树枝上的小鸟，只求一根枝条安身，读起来让人心疼。",
+  "background": "公元764年秋天，杜甫回到成都，在朋友严武的幕府里做幕僚。幕府生活拘束，他夜里独自留宿府中，听着号角声，想起战乱中失散的兄弟和走不通的回乡路，写下这首《宿府》。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "秋夜留宿",
+      "text": "秋夜杜甫独自留宿幕府，井边梧桐透着寒气。"
+    },
+    {
+      "step": 2,
+      "title": "角声月色",
+      "text": "长夜号角悲鸣，月中天色虽好却无人共赏。"
+    },
+    {
+      "step": 3,
+      "title": "音书断绝",
+      "text": "战乱中消息断绝，回乡的路困难重重。"
+    },
+    {
+      "step": 4,
+      "title": "孤鸟栖枝",
+      "text": "他忍耐十年孤独，只求像鸟儿暂栖一枝。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "看",
+      "reading": "kān",
+      "reason": "“好谁看”的“看”在诗句里读平声 kān，才合韵律。",
+      "standard": "不要读成 kàn"
+    },
+    {
+      "char": "强",
+      "reading": "qiǎng",
+      "reason": "“强移”是勉强的意思，读 qiǎng。",
+      "standard": "不要读成 qiáng"
+    },
+    {
+      "char": "伶俜",
+      "reading": "líng pīng",
+      "reason": "“伶俜”是孤单的样子，两个字要连起来读准。"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1144
+}

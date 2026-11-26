@@ -1,0 +1,229 @@
+{
+  "id": "tang-shengtang-wangwei-wangchuan-xianju",
+  "slug": "wangchuan-xianju",
+  "title": "辋川闲居赠裴秀才迪",
+  "titlePinyin": "wǎng chuān xián jū zèng péi xiù cái dí",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "五言律诗",
+  "authorId": "wangwei",
+  "gradeBand": "ext",
+  "tags": [
+    "田园",
+    "五言律诗",
+    "落日",
+    "炊烟"
+  ],
+  "difficulty": 3,
+  "writtenYear": 744,
+  "writtenLabel": "约公元 744 年（王维 43 岁，居辋川，与好友裴迪互相唱和）",
+  "orderInAuthor": 4,
+  "famousLines": [
+    "渡头余落日，墟里上孤烟。"
+  ],
+  "lines": [
+    {
+      "text": "寒山转苍翠，",
+      "pinyin": [
+        "hán",
+        "shān",
+        "zhuǎn",
+        "cāng",
+        "cuì"
+      ],
+      "translation": "秋天的寒山渐渐变得苍翠。",
+      "noteIds": []
+    },
+    {
+      "text": "秋水日潺湲。",
+      "pinyin": [
+        "qiū",
+        "shuǐ",
+        "rì",
+        "chán",
+        "yuán"
+      ],
+      "translation": "秋水每天潺潺地流淌。",
+      "noteIds": [
+        "n-chanyuan"
+      ]
+    },
+    {
+      "text": "倚杖柴门外，",
+      "pinyin": [
+        "yǐ",
+        "zhàng",
+        "chái",
+        "mén",
+        "wài"
+      ],
+      "translation": "我拄着拐杖站在柴门外。",
+      "noteIds": [
+        "n-xizhang"
+      ]
+    },
+    {
+      "text": "临风听暮蝉。",
+      "pinyin": [
+        "lín",
+        "fēng",
+        "tīng",
+        "mù",
+        "chán"
+      ],
+      "translation": "迎着晚风，听傍晚的蝉鸣。",
+      "noteIds": []
+    },
+    {
+      "text": "渡头余落日，",
+      "pinyin": [
+        "dù",
+        "tóu",
+        "yú",
+        "luò",
+        "rì"
+      ],
+      "translation": "渡口上还剩下落日的余光。",
+      "noteIds": [
+        "n-dutou"
+      ]
+    },
+    {
+      "text": "墟里上孤烟。",
+      "pinyin": [
+        "xū",
+        "lǐ",
+        "shàng",
+        "gū",
+        "yān"
+      ],
+      "translation": "村子里升起了一缕孤单的炊烟。",
+      "noteIds": [
+        "n-xuli",
+        "n-guyan"
+      ]
+    },
+    {
+      "text": "复值接舆醉，",
+      "pinyin": [
+        "fù",
+        "zhí",
+        "jiē",
+        "yú",
+        "zuì"
+      ],
+      "translation": "又碰上你像接舆一样喝醉了。",
+      "noteIds": [
+        "n-jieyu"
+      ]
+    },
+    {
+      "text": "狂歌五柳前。",
+      "pinyin": [
+        "kuáng",
+        "gē",
+        "wǔ",
+        "liǔ",
+        "qián"
+      ],
+      "translation": "在我这个“五柳先生”面前放声高歌。",
+      "noteIds": [
+        "n-wuliu"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-chanyuan",
+      "word": "潺湲",
+      "pinyin": "chán yuán",
+      "meaning": "水慢慢流动的样子。"
+    },
+    {
+      "id": "n-xizhang",
+      "word": "倚杖",
+      "pinyin": "yǐ zhàng",
+      "meaning": "拄着拐杖。"
+    },
+    {
+      "id": "n-dutou",
+      "word": "渡头",
+      "pinyin": "dù tóu",
+      "meaning": "渡口。"
+    },
+    {
+      "id": "n-xuli",
+      "word": "墟里",
+      "pinyin": "xū lǐ",
+      "meaning": "村庄。"
+    },
+    {
+      "id": "n-guyan",
+      "word": "孤烟",
+      "pinyin": "gū yān",
+      "meaning": "一缕炊烟。"
+    },
+    {
+      "id": "n-jieyu",
+      "word": "接舆",
+      "pinyin": "jiē yú",
+      "meaning": "春秋时楚国的隐士，装疯唱歌避开做官，这里指好友裴迪。"
+    },
+    {
+      "id": "n-wuliu",
+      "word": "五柳",
+      "pinyin": "wǔ liǔ",
+      "meaning": "指陶渊明，他在屋前种五棵柳树，自称“五柳先生”，这里诗人自比。"
+    }
+  ],
+  "translation": "秋天的寒山渐渐变得苍翠，秋水每天潺潺地流淌。我拄着拐杖站在柴门外，迎着晚风听傍晚的蝉鸣。渡口上还剩下落日的余光，村子里升起了一缕孤单的炊烟。又碰上你像接舆一样喝醉了，在我这个“五柳先生”面前放声高歌。",
+  "appreciation": "诗人拄着拐杖站在门口，听风里的蝉声，看落日一点点沉下去、炊烟一缕升上来，这些平常的傍晚被他写成了一幅温暖的画。最后好友醉醺醺地来放歌，画面一下子热闹起来。有山有水有朋友，闲居的日子虽然简单，却处处是诗意。",
+  "background": "王维在蓝田辋川买下别业，好友裴迪常来这里，两人一起游山、写诗、互相唱和。秋天的一个傍晚，王维倚着拐杖在柴门外看山看水，裴迪醉后放歌，王维便写下这首诗赠给他。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "寒山秋水",
+      "text": "秋天的山渐渐苍翠，秋水每天缓缓地流淌。"
+    },
+    {
+      "step": 2,
+      "title": "倚杖听蝉",
+      "text": "诗人拄杖立在柴门外，迎着晚风听暮蝉。"
+    },
+    {
+      "step": 3,
+      "title": "落日炊烟",
+      "text": "渡口留着落日余光，村里升起一缕炊烟。"
+    },
+    {
+      "step": 4,
+      "title": "狂歌醉友",
+      "text": "好友裴迪醉了，在诗人门前放声高歌。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "湲",
+      "reading": "yuán",
+      "reason": "“潺湲”形容水慢慢流动，读 chán yuán。"
+    },
+    {
+      "char": "舆",
+      "reading": "yú",
+      "reason": "“接舆”是古代隐士的名字，读 jiē yú。"
+    },
+    {
+      "char": "墟",
+      "reading": "xū",
+      "reason": "“墟里”是村庄的意思，读 xū lǐ。"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1051
+}

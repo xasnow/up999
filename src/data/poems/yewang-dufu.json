@@ -1,0 +1,232 @@
+{
+  "id": "tang-shengtang-dufu-yewang-dufu",
+  "slug": "yewang-dufu",
+  "title": "野望",
+  "titlePinyin": "yě wàng",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "七言律诗",
+  "authorId": "dufu",
+  "gradeBand": "ext",
+  "tags": [
+    "思乡",
+    "冬天",
+    "白雪",
+    "七言律诗"
+  ],
+  "difficulty": 3,
+  "writtenYear": 764,
+  "writtenLabel": "公元 764 年（杜甫 52 岁，在成都，骑马出郊远望）",
+  "orderInAuthor": 10,
+  "famousLines": [
+    "海内风尘诸弟隔，天涯涕泪一身遥。"
+  ],
+  "lines": [
+    {
+      "text": "西山白雪三城戍，",
+      "pinyin": [
+        "xī",
+        "shān",
+        "bái",
+        "xuě",
+        "sān",
+        "chéng",
+        "shù"
+      ],
+      "translation": "西山顶上白雪皑皑，山下三座边城驻着军队，",
+      "noteIds": [
+        "n-sancheng"
+      ]
+    },
+    {
+      "text": "南浦清江万里桥。",
+      "pinyin": [
+        "nán",
+        "pǔ",
+        "qīng",
+        "jiāng",
+        "wàn",
+        "lǐ",
+        "qiáo"
+      ],
+      "translation": "南边的水滨、清清的江水，还有那万里桥。",
+      "noteIds": [
+        "n-nanpu"
+      ]
+    },
+    {
+      "text": "海内风尘诸弟隔，",
+      "pinyin": [
+        "hǎi",
+        "nèi",
+        "fēng",
+        "chén",
+        "zhū",
+        "dì",
+        "gé"
+      ],
+      "translation": "国内战乱不休，几个弟弟隔在各处，",
+      "noteIds": []
+    },
+    {
+      "text": "天涯涕泪一身遥。",
+      "pinyin": [
+        "tiān",
+        "yá",
+        "tì",
+        "lèi",
+        "yì",
+        "shēn",
+        "yáo"
+      ],
+      "translation": "我在天边流落，常常独自流泪。",
+      "noteIds": []
+    },
+    {
+      "text": "惟将迟暮供多病，",
+      "pinyin": [
+        "wéi",
+        "jiāng",
+        "chí",
+        "mù",
+        "gōng",
+        "duō",
+        "bìng"
+      ],
+      "translation": "只有把迟暮的年岁，交给多病的身体，",
+      "noteIds": []
+    },
+    {
+      "text": "未有涓埃答圣朝。",
+      "pinyin": [
+        "wèi",
+        "yǒu",
+        "juān",
+        "āi",
+        "dá",
+        "shèng",
+        "cháo"
+      ],
+      "translation": "却拿不出一点微小的贡献，报答朝廷。",
+      "noteIds": [
+        "n-juanai",
+        "n-shengchao"
+      ]
+    },
+    {
+      "text": "跨马出郊时极目，",
+      "pinyin": [
+        "kuà",
+        "mǎ",
+        "chū",
+        "jiāo",
+        "shí",
+        "jí",
+        "mù"
+      ],
+      "translation": "骑马出城到郊外，常常放眼远望，",
+      "noteIds": [
+        "n-jimu"
+      ]
+    },
+    {
+      "text": "不堪人事日萧条。",
+      "pinyin": [
+        "bù",
+        "kān",
+        "rén",
+        "shì",
+        "rì",
+        "xiāo",
+        "tiáo"
+      ],
+      "translation": "眼看世事一天比一天萧条，心里实在难受。",
+      "noteIds": []
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-sancheng",
+      "word": "三城",
+      "pinyin": "sān chéng",
+      "meaning": "松州、维州、保州三座边城，常年驻军防备外敌。"
+    },
+    {
+      "id": "n-nanpu",
+      "word": "南浦",
+      "pinyin": "nán pǔ",
+      "meaning": "成都南边的水滨。"
+    },
+    {
+      "id": "n-juanai",
+      "word": "涓埃",
+      "pinyin": "juān āi",
+      "meaning": "细小的水流和尘土，比喻微小的贡献。"
+    },
+    {
+      "id": "n-shengchao",
+      "word": "圣朝",
+      "pinyin": "shèng cháo",
+      "meaning": "朝廷。"
+    },
+    {
+      "id": "n-jimu",
+      "word": "极目",
+      "pinyin": "jí mù",
+      "meaning": "用尽目力放眼远望。"
+    }
+  ],
+  "translation": "西山顶上白雪皑皑，山下三座边城驻着军队，南边的水滨、清清的江水，还有那万里桥。国内战乱不休，几个弟弟隔在各处，我在天边流落，常常独自流泪。只有把迟暮的年岁，交给多病的身体，却拿不出一点微小的贡献，报答朝廷。骑马出城到郊外，常常放眼远望，眼看世事一天比一天萧条，心里实在难受。",
+  "appreciation": "一开篇就是远景：雪山、边城、清江、长桥，视野放得很开，心里的话却越说越紧。中间四句说兄弟离散、报国无门，一位骑马出城的老人把眼泪留在了郊外。诗把“望”字写活了——望见的不只是风景，还有战乱里放不下的家和朝廷。",
+  "background": "公元764年，杜甫在成都。当时吐蕃不断侵扰西部边境，松、维、保三城驻军防守，中原各地仍有战乱，他和几个弟弟多年音信不通。一天骑马出城远望，他把家国之忧写成这首《野望》。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "雪山边城",
+      "text": "西山白雪覆盖，三座边城驻兵防守。"
+    },
+    {
+      "step": 2,
+      "title": "清江长桥",
+      "text": "南浦清江水绕着万里桥，家在天涯。"
+    },
+    {
+      "step": 3,
+      "title": "弟隔泪遥",
+      "text": "战乱中兄弟离散，诗人独自在天边流泪。"
+    },
+    {
+      "step": 4,
+      "title": "出郊极目",
+      "text": "骑马出郊远望，世事萧条让人不忍再看。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "戍",
+      "reading": "shù",
+      "reason": "“三城戍”是驻防的意思，“戍”读 shù。",
+      "standard": "不要和“戌”（xū）“戊”（wù）混淆"
+    },
+    {
+      "char": "供",
+      "reading": "gōng",
+      "reason": "“供多病”的“供”是交给、供给的意思，读 gōng。",
+      "standard": "不要读成 gòng"
+    },
+    {
+      "char": "涓",
+      "reading": "juān",
+      "reason": "“涓埃”指细小的贡献，“涓”读 juān。",
+      "standard": "不要读成 juàn"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1148
+}

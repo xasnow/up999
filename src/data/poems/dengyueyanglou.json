@@ -1,0 +1,210 @@
+{
+  "id": "tang-shengtang-dufu-dengyueyanglou",
+  "slug": "dengyueyanglou",
+  "title": "登岳阳楼",
+  "titlePinyin": "dēng yuè yáng lóu",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "五言律诗",
+  "authorId": "dufu",
+  "gradeBand": "ext",
+  "tags": [
+    "爱国",
+    "五言律诗",
+    "洞庭湖",
+    "孤舟"
+  ],
+  "difficulty": 3,
+  "writtenYear": 767,
+  "writtenLabel": "约公元 767 年（杜甫 55 岁，晚年漂泊到洞庭湖边，登上岳阳楼）",
+  "orderInAuthor": 11,
+  "famousLines": [
+    "吴楚东南坼，乾坤日夜浮。"
+  ],
+  "lines": [
+    {
+      "text": "昔闻洞庭水，",
+      "pinyin": [
+        "xī",
+        "wén",
+        "dòng",
+        "tíng",
+        "shuǐ"
+      ],
+      "translation": "很早以前就听说过洞庭湖的水。",
+      "noteIds": []
+    },
+    {
+      "text": "今上岳阳楼。",
+      "pinyin": [
+        "jīn",
+        "shàng",
+        "yuè",
+        "yáng",
+        "lóu"
+      ],
+      "translation": "今天，我终于登上了岳阳楼。",
+      "noteIds": []
+    },
+    {
+      "text": "吴楚东南坼，",
+      "pinyin": [
+        "wú",
+        "chǔ",
+        "dōng",
+        "nán",
+        "chè"
+      ],
+      "translation": "洞庭湖把吴楚两地从东南方向分开。",
+      "noteIds": [
+        "n-che"
+      ]
+    },
+    {
+      "text": "乾坤日夜浮。",
+      "pinyin": [
+        "qián",
+        "kūn",
+        "rì",
+        "yè",
+        "fú"
+      ],
+      "translation": "天地仿佛日夜漂浮在湖面上。",
+      "noteIds": [
+        "n-qiankun"
+      ]
+    },
+    {
+      "text": "亲朋无一字，",
+      "pinyin": [
+        "qīn",
+        "péng",
+        "wú",
+        "yī",
+        "zì"
+      ],
+      "translation": "亲朋好友连一个字的消息都没有。",
+      "noteIds": []
+    },
+    {
+      "text": "老病有孤舟。",
+      "pinyin": [
+        "lǎo",
+        "bìng",
+        "yǒu",
+        "gū",
+        "zhōu"
+      ],
+      "translation": "年老多病的我，只有一条孤单的小船。",
+      "noteIds": []
+    },
+    {
+      "text": "戎马关山北，",
+      "pinyin": [
+        "róng",
+        "mǎ",
+        "guān",
+        "shān",
+        "běi"
+      ],
+      "translation": "北方关山之外，战马还在嘶鸣。",
+      "noteIds": [
+        "n-rongma"
+      ]
+    },
+    {
+      "text": "凭轩涕泗流。",
+      "pinyin": [
+        "píng",
+        "xuān",
+        "tì",
+        "sì",
+        "liú"
+      ],
+      "translation": "我靠着栏杆，忍不住老泪纵横。",
+      "noteIds": [
+        "n-pingxuan",
+        "n-tisi"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-che",
+      "word": "坼",
+      "pinyin": "chè",
+      "meaning": "分裂、裂开，这里指洞庭湖把吴楚大地分开。"
+    },
+    {
+      "id": "n-qiankun",
+      "word": "乾坤",
+      "pinyin": "qián kūn",
+      "meaning": "天地，这里说日月天地像浮在湖上。"
+    },
+    {
+      "id": "n-rongma",
+      "word": "戎马",
+      "pinyin": "róng mǎ",
+      "meaning": "战马，指战争，这里说北方战事还没有停息。"
+    },
+    {
+      "id": "n-pingxuan",
+      "word": "凭轩",
+      "pinyin": "píng xuān",
+      "meaning": "靠在楼窗的栏杆上。"
+    },
+    {
+      "id": "n-tisi",
+      "word": "涕泗",
+      "pinyin": "tì sì",
+      "meaning": "眼泪和鼻涕，形容伤心到极点。"
+    }
+  ],
+  "translation": "很早以前就听说过洞庭湖的水，今天，我终于登上了岳阳楼。洞庭湖把吴楚两地从东南方向分开，天地仿佛日夜漂浮在湖面上。亲朋好友连一个字的消息都没有，年老多病的我，只有一条孤单的小船。北方关山之外，战马还在嘶鸣，我靠着栏杆，忍不住老泪纵横。",
+  "appreciation": "诗的前四句写洞庭湖的浩大：湖水把吴楚大地分开，连天地都像日夜浮在湖面上，气势惊人。后四句笔锋一转：亲人没有音信，自己又老又病，守着一条小船。湖越大，人越显得孤单。可诗人惦记的不是自己的苦，而是北方还没有停息的战火，于是靠着栏杆落泪。小船与大湖、个人与国家，对比之下格外动人。",
+  "background": "杜甫晚年沿江漂泊，来到洞庭湖边。他年轻时就听说了洞庭湖，如今终于登上岳阳楼，可人已经又老又病，只能住在一条小船上。望着茫茫大湖，想到北方还在打仗，他写下这首诗，也把心里的伤心都留在了楼头。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "登楼远眺",
+      "text": "杜甫登上向往已久的岳阳楼，眺望烟波浩渺的洞庭湖。"
+    },
+    {
+      "step": 2,
+      "title": "湖分吴楚",
+      "text": "湖水浩浩荡荡，把吴楚大地分开，天地仿佛都浮在湖上。"
+    },
+    {
+      "step": 3,
+      "title": "老病孤舟",
+      "text": "亲朋没有一个字的消息，年老多病的他只有一条小船。"
+    },
+    {
+      "step": 4,
+      "title": "凭轩落泪",
+      "text": "想到北方关山外还在打仗，他靠着栏杆，泪水直流。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "坼",
+      "reading": "chè",
+      "reason": "“坼”是裂开的意思，“吴楚东南坼”读 chè。",
+      "standard": "不要读成 chāi"
+    },
+    {
+      "char": "乾",
+      "reading": "qián",
+      "reason": "“乾坤”指天地，“乾”读 qián。",
+      "standard": "不要读成 gān"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1070
+}

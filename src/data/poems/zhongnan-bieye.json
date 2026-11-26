@@ -1,0 +1,237 @@
+{
+  "id": "tang-shengtang-wangwei-zhongnan-bieye",
+  "slug": "zhongnan-bieye",
+  "title": "终南别业",
+  "titlePinyin": "zhōng nán bié yè",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "五言律诗",
+  "authorId": "wangwei",
+  "gradeBand": "ext",
+  "tags": [
+    "山水",
+    "五言律诗",
+    "白云",
+    "隐逸"
+  ],
+  "difficulty": 3,
+  "writtenYear": 758,
+  "writtenLabel": "约公元 758 年（王维 57 岁，半官半隐，住在终南山辋川一带）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "行到水穷处，坐看云起时。"
+  ],
+  "lines": [
+    {
+      "text": "中岁颇好道，",
+      "pinyin": [
+        "zhōng",
+        "suì",
+        "pō",
+        "hào",
+        "dào"
+      ],
+      "translation": "中年时我就很喜欢研究佛理。",
+      "noteIds": [
+        "n-zhongsui",
+        "n-haodao"
+      ]
+    },
+    {
+      "text": "晚家南山陲。",
+      "pinyin": [
+        "wǎn",
+        "jiā",
+        "nán",
+        "shān",
+        "chuí"
+      ],
+      "translation": "晚年安家在终南山的边上。",
+      "noteIds": [
+        "n-chui"
+      ]
+    },
+    {
+      "text": "兴来每独往，",
+      "pinyin": [
+        "xìng",
+        "lái",
+        "měi",
+        "dú",
+        "wǎng"
+      ],
+      "translation": "兴致来了，就常常独自出游。",
+      "noteIds": [
+        "n-xing"
+      ]
+    },
+    {
+      "text": "胜事空自知。",
+      "pinyin": [
+        "shèng",
+        "shì",
+        "kōng",
+        "zì",
+        "zhī"
+      ],
+      "translation": "这种美好的快乐，只有自己心里知道。",
+      "noteIds": [
+        "n-shengshi",
+        "n-kong"
+      ]
+    },
+    {
+      "text": "行到水穷处，",
+      "pinyin": [
+        "xíng",
+        "dào",
+        "shuǐ",
+        "qióng",
+        "chù"
+      ],
+      "translation": "沿着水一直走，走到水流的尽头。",
+      "noteIds": []
+    },
+    {
+      "text": "坐看云起时。",
+      "pinyin": [
+        "zuò",
+        "kàn",
+        "yún",
+        "qǐ",
+        "shí"
+      ],
+      "translation": "就坐下来，看云慢慢升起来。",
+      "noteIds": []
+    },
+    {
+      "text": "偶然值林叟，",
+      "pinyin": [
+        "ǒu",
+        "rán",
+        "zhí",
+        "lín",
+        "sǒu"
+      ],
+      "translation": "偶然遇见山里的老人。",
+      "noteIds": [
+        "n-zhi",
+        "n-linsou"
+      ]
+    },
+    {
+      "text": "谈笑无还期。",
+      "pinyin": [
+        "tán",
+        "xiào",
+        "wú",
+        "huán",
+        "qī"
+      ],
+      "translation": "一起谈笑，忘记了回家的时间。",
+      "noteIds": []
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-zhongsui",
+      "word": "中岁",
+      "pinyin": "zhōng suì",
+      "meaning": "中年。"
+    },
+    {
+      "id": "n-haodao",
+      "word": "好道",
+      "pinyin": "hào dào",
+      "meaning": "喜欢研究佛理。"
+    },
+    {
+      "id": "n-chui",
+      "word": "陲",
+      "pinyin": "chuí",
+      "meaning": "边缘，山边。"
+    },
+    {
+      "id": "n-xing",
+      "word": "兴",
+      "pinyin": "xìng",
+      "meaning": "兴致、兴趣。"
+    },
+    {
+      "id": "n-shengshi",
+      "word": "胜事",
+      "pinyin": "shèng shì",
+      "meaning": "美好的事。"
+    },
+    {
+      "id": "n-kong",
+      "word": "空",
+      "pinyin": "kōng",
+      "meaning": "只是、只有，白白地。"
+    },
+    {
+      "id": "n-zhi",
+      "word": "值",
+      "pinyin": "zhí",
+      "meaning": "遇见、碰上。"
+    },
+    {
+      "id": "n-linsou",
+      "word": "林叟",
+      "pinyin": "lín sǒu",
+      "meaning": "山林里的老人。"
+    }
+  ],
+  "translation": "中年时我就很喜欢研究佛理，晚年安家在终南山的边上。兴致来了，就常常独自出游，这种美好的快乐只有自己心里知道。沿着水一直走，走到水流的尽头，就坐下来看云慢慢升起来。偶然遇见山里的老人，一起谈笑，忘记了回家的时间。",
+  "appreciation": "诗人写自己隐居生活的自在：想去哪儿就去哪儿，走到水的尽头没有了路，也不着急，索性坐下来看云卷云舒。这份随遇而安的从容，成了后世许多人向往的生活态度。全诗没有一个难懂的字，却把“顺其自然”的道理写得又美又轻，读着读着心就静了下来。",
+  "background": "王维中年以后信奉佛教，一边在朝廷做官，一边在终南山下的辋川建了别墅，过着半官半隐的生活。他喜欢独自在山里漫游，这首诗写的就是他晚年隐居时随意散步、遇云看云、遇人谈笑的日常。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "中年好道",
+      "text": "诗人中年就喜欢佛理，晚年住在终南山的边上。"
+    },
+    {
+      "step": 2,
+      "title": "独自出游",
+      "text": "兴致来了就一个人进山散步，快乐只有自己知道。"
+    },
+    {
+      "step": 3,
+      "title": "坐看云起",
+      "text": "走到水的尽头，索性坐下来看云慢慢升起。"
+    },
+    {
+      "step": 4,
+      "title": "笑忘归期",
+      "text": "遇见山中老人，一起谈笑，忘记了回家的时间。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "好",
+      "reading": "hào",
+      "reason": "“好道”是喜好佛理的意思，读 hào。",
+      "standard": "不要读成 hǎo"
+    },
+    {
+      "char": "兴",
+      "reading": "xìng",
+      "reason": "“兴来”是兴致来了的意思，读 xìng。",
+      "standard": "不要读成 xīng"
+    },
+    {
+      "char": "叟",
+      "reading": "sǒu",
+      "reason": "“叟”是老人的意思，“林叟”读 lín sǒu。"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1047
+}

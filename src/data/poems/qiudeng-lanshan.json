@@ -1,0 +1,295 @@
+{
+  "id": "tang-shengtang-menghaoran-qiudeng-lanshan",
+  "slug": "qiudeng-lanshan",
+  "title": "秋登兰山寄张五",
+  "titlePinyin": "qiū dēng lán shān jì zhāng wǔ",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "五言古诗",
+  "authorId": "menghaoran",
+  "gradeBand": "ext",
+  "tags": [
+    "思念",
+    "五言古诗",
+    "秋天",
+    "重阳节"
+  ],
+  "difficulty": 3,
+  "writtenYear": 727,
+  "writtenLabel": "约公元 727 年（孟浩然 39 岁，隐居襄阳，重阳前后登高怀念友人张五）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "天边树若荠，江畔洲如月。"
+  ],
+  "lines": [
+    {
+      "text": "北山白云里，",
+      "pinyin": [
+        "běi",
+        "shān",
+        "bái",
+        "yún",
+        "lǐ"
+      ],
+      "translation": "北山藏在白云里，",
+      "noteIds": []
+    },
+    {
+      "text": "隐者自怡悦。",
+      "pinyin": [
+        "yǐn",
+        "zhě",
+        "zì",
+        "yí",
+        "yuè"
+      ],
+      "translation": "隐居的张五自得其乐。",
+      "noteIds": [
+        "n-yinzhe",
+        "n-yiyue"
+      ]
+    },
+    {
+      "text": "相望试登高，",
+      "pinyin": [
+        "xiāng",
+        "wàng",
+        "shì",
+        "dēng",
+        "gāo"
+      ],
+      "translation": "为了远远望你一眼，我试着登上高处，",
+      "noteIds": []
+    },
+    {
+      "text": "心随雁飞灭。",
+      "pinyin": [
+        "xīn",
+        "suí",
+        "yàn",
+        "fēi",
+        "miè"
+      ],
+      "translation": "心却随着大雁飞远，渐渐望不见了。",
+      "noteIds": [
+        "n-feimie"
+      ]
+    },
+    {
+      "text": "愁因薄暮起，",
+      "pinyin": [
+        "chóu",
+        "yīn",
+        "bó",
+        "mù",
+        "qǐ"
+      ],
+      "translation": "愁绪因傍晚的暮色而起，",
+      "noteIds": [
+        "n-bomu"
+      ]
+    },
+    {
+      "text": "兴是清秋发。",
+      "pinyin": [
+        "xìng",
+        "shì",
+        "qīng",
+        "qiū",
+        "fā"
+      ],
+      "translation": "兴致却由清爽的秋天引发。",
+      "noteIds": [
+        "n-xing"
+      ]
+    },
+    {
+      "text": "时见归村人，",
+      "pinyin": [
+        "shí",
+        "jiàn",
+        "guī",
+        "cūn",
+        "rén"
+      ],
+      "translation": "不时看见回村的人，",
+      "noteIds": []
+    },
+    {
+      "text": "沙行渡头歇。",
+      "pinyin": [
+        "shā",
+        "xíng",
+        "dù",
+        "tóu",
+        "xiē"
+      ],
+      "translation": "沿着沙滩在渡口歇脚。",
+      "noteIds": [
+        "n-shaxing"
+      ]
+    },
+    {
+      "text": "天边树若荠，",
+      "pinyin": [
+        "tiān",
+        "biān",
+        "shù",
+        "ruò",
+        "jì"
+      ],
+      "translation": "天边的树细得像荠菜，",
+      "noteIds": [
+        "n-qi"
+      ]
+    },
+    {
+      "text": "江畔洲如月。",
+      "pinyin": [
+        "jiāng",
+        "pàn",
+        "zhōu",
+        "rú",
+        "yuè"
+      ],
+      "translation": "江边的沙洲弯得像一弯月亮。",
+      "noteIds": []
+    },
+    {
+      "text": "何当载酒来，",
+      "pinyin": [
+        "hé",
+        "dāng",
+        "zài",
+        "jiǔ",
+        "lái"
+      ],
+      "translation": "你什么时候能带着酒来，",
+      "noteIds": [
+        "n-hedang",
+        "n-zaijiu"
+      ]
+    },
+    {
+      "text": "共醉重阳节。",
+      "pinyin": [
+        "gòng",
+        "zuì",
+        "chóng",
+        "yáng",
+        "jié"
+      ],
+      "translation": "让我们一起在重阳节里醉一场呢。",
+      "noteIds": []
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-yinzhe",
+      "word": "隐者",
+      "pinyin": "yǐn zhě",
+      "meaning": "隐居的人，这里指隐居在北山的张五。"
+    },
+    {
+      "id": "n-yiyue",
+      "word": "怡悦",
+      "pinyin": "yí yuè",
+      "meaning": "愉快、喜悦。"
+    },
+    {
+      "id": "n-feimie",
+      "word": "飞灭",
+      "pinyin": "fēi miè",
+      "meaning": "雁影飞远，渐渐看不见了。"
+    },
+    {
+      "id": "n-bomu",
+      "word": "薄暮",
+      "pinyin": "bó mù",
+      "meaning": "傍晚，太阳快落山的时候。"
+    },
+    {
+      "id": "n-xing",
+      "word": "兴",
+      "pinyin": "xìng",
+      "meaning": "兴致。"
+    },
+    {
+      "id": "n-shaxing",
+      "word": "沙行",
+      "pinyin": "shā xíng",
+      "meaning": "沿着沙滩走。"
+    },
+    {
+      "id": "n-qi",
+      "word": "荠",
+      "pinyin": "jì",
+      "meaning": "一种野菜，荠菜。天边的树远远看去细小得像荠菜。"
+    },
+    {
+      "id": "n-hedang",
+      "word": "何当",
+      "pinyin": "hé dāng",
+      "meaning": "什么时候能够。"
+    },
+    {
+      "id": "n-zaijiu",
+      "word": "载酒",
+      "pinyin": "zài jiǔ",
+      "meaning": "带着酒来。"
+    }
+  ],
+  "translation": "北山藏在白云里，隐居的张五自得其乐。为了远远望你一眼，我试着登上高处，心却随着大雁飞远，渐渐望不见了。愁绪因傍晚的暮色而起，兴致却由清爽的秋天引发。不时看见回村的人，沿着沙滩在渡口歇脚。天边的树细得像荠菜，江边的沙洲弯得像一弯月亮。你什么时候能带着酒来，让我们一起在重阳节里醉一场呢。",
+  "appreciation": "登上高处看秋天：白云里有隐士朋友，雁影飞远，愁也跟着升起；清爽的秋风又让人来了兴致。天边的树小得像荠菜，江边的沙洲弯得像月亮，把登高望远的景象写得又远又真切。结尾盼朋友带酒来同醉重阳，一句话把想念和约定都说尽了，轻轻快快又情意满满。",
+  "background": "孟浩然隐居襄阳的时候，朋友张五隐居在北面的山上。重阳节前后，他登上兰山（一作万山）远望，想念山那边的老朋友，就写下这首诗寄给他。诗的结尾还顺便发出一个约定：重阳节那天，一起带酒赏秋，不醉不归。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "云里北山",
+      "text": "北山隐在白云深处，隐居在山里的张五自得其乐。"
+    },
+    {
+      "step": 2,
+      "title": "登高望雁",
+      "text": "诗人试着登高远望，心随着雁群飞远，渐渐看不见。"
+    },
+    {
+      "step": 3,
+      "title": "秋愁村渡",
+      "text": "暮色带来一点愁，清秋带来兴致，村人正歇在渡口。"
+    },
+    {
+      "step": 4,
+      "title": "重阳之约",
+      "text": "天边树细如荠菜，盼朋友带酒来，同醉重阳佳节。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "荠",
+      "reading": "jì",
+      "reason": "“树若荠”的“荠”读 jì，是一种野菜的名字。",
+      "standard": "不要读成 qí"
+    },
+    {
+      "char": "兴",
+      "reading": "xìng",
+      "reason": "“兴是清秋发”的“兴”指兴致，读 xìng。",
+      "standard": "不要读成 xīng"
+    },
+    {
+      "char": "载",
+      "reading": "zài",
+      "reason": "“载酒”是带着酒来，“载”读 zài。",
+      "standard": "不要读成 zǎi"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1181
+}

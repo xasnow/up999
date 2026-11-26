@@ -1,0 +1,235 @@
+{
+  "id": "tang-zhongtang-liuchangqing-zixiakou-yingwuzhou",
+  "slug": "zixiakou-yingwuzhou",
+  "title": "自夏口至鹦鹉洲夕望岳阳寄源中丞",
+  "titlePinyin": "zì xià kǒu zhì yīng wǔ zhōu xī wàng yuè yáng jì yuán zhōng chéng",
+  "dynasty": "tangshi",
+  "era": "zhongtang",
+  "genre": "shi",
+  "form": "七言律诗",
+  "authorId": "liuchangqing",
+  "gradeBand": "ext",
+  "tags": [
+    "思乡",
+    "长江",
+    "夕阳",
+    "七言律诗"
+  ],
+  "difficulty": 3,
+  "writtenYear": 776,
+  "writtenLabel": "约公元 776 年（刘长卿约 50 岁，任职鄂岳，行船至鹦鹉洲，望岳阳寄友）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "汉口夕阳斜度鸟，洞庭秋水远连天。"
+  ],
+  "lines": [
+    {
+      "text": "汀洲无浪复无烟，",
+      "pinyin": [
+        "tīng",
+        "zhōu",
+        "wú",
+        "làng",
+        "fù",
+        "wú",
+        "yān"
+      ],
+      "translation": "鹦鹉洲上没有波浪，也没有烟霭，",
+      "noteIds": [
+        "n-tingzhou"
+      ]
+    },
+    {
+      "text": "楚客相思益渺然。",
+      "pinyin": [
+        "chǔ",
+        "kè",
+        "xiāng",
+        "sī",
+        "yì",
+        "miǎo",
+        "rán"
+      ],
+      "translation": "我这客居楚地的人，思念更加悠远迷茫。",
+      "noteIds": [
+        "n-chuke"
+      ]
+    },
+    {
+      "text": "汉口夕阳斜度鸟，",
+      "pinyin": [
+        "hàn",
+        "kǒu",
+        "xī",
+        "yáng",
+        "xié",
+        "dù",
+        "niǎo"
+      ],
+      "translation": "汉口的上空，夕阳里鸟儿斜斜飞过，",
+      "noteIds": []
+    },
+    {
+      "text": "洞庭秋水远连天。",
+      "pinyin": [
+        "dòng",
+        "tíng",
+        "qiū",
+        "shuǐ",
+        "yuǎn",
+        "lián",
+        "tiān"
+      ],
+      "translation": "洞庭湖的秋水，远远地与天相连。",
+      "noteIds": []
+    },
+    {
+      "text": "孤城背岭寒吹角，",
+      "pinyin": [
+        "gū",
+        "chéng",
+        "bèi",
+        "lǐng",
+        "hán",
+        "chuī",
+        "jiǎo"
+      ],
+      "translation": "背靠山岭的孤城吹起寒冷的号角，",
+      "noteIds": [
+        "n-jiao"
+      ]
+    },
+    {
+      "text": "独树临江夜泊船。",
+      "pinyin": [
+        "dú",
+        "shù",
+        "lín",
+        "jiāng",
+        "yè",
+        "bó",
+        "chuán"
+      ],
+      "translation": "临江的独树下，夜里停泊着船。",
+      "noteIds": [
+        "n-bo"
+      ]
+    },
+    {
+      "text": "贾谊上书忧汉室，",
+      "pinyin": [
+        "jiǎ",
+        "yì",
+        "shàng",
+        "shū",
+        "yōu",
+        "hàn",
+        "shì"
+      ],
+      "translation": "当年贾谊上书担忧汉朝的天下，",
+      "noteIds": [
+        "n-hanshi"
+      ]
+    },
+    {
+      "text": "长沙谪去古今怜。",
+      "pinyin": [
+        "cháng",
+        "shā",
+        "zhé",
+        "qù",
+        "gǔ",
+        "jīn",
+        "lián"
+      ],
+      "translation": "却被贬去长沙，古往今来的人都为他叹怜。",
+      "noteIds": [
+        "n-zhequ"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-tingzhou",
+      "word": "汀洲",
+      "pinyin": "tīng zhōu",
+      "meaning": "水中的小块陆地，这里指鹦鹉洲。"
+    },
+    {
+      "id": "n-chuke",
+      "word": "楚客",
+      "pinyin": "chǔ kè",
+      "meaning": "客居楚地的人，这里指诗人自己。"
+    },
+    {
+      "id": "n-jiao",
+      "word": "角",
+      "pinyin": "jiǎo",
+      "meaning": "军中号角，古时用来报时报警。"
+    },
+    {
+      "id": "n-bo",
+      "word": "泊",
+      "pinyin": "bó",
+      "meaning": "停船靠岸。"
+    },
+    {
+      "id": "n-hanshi",
+      "word": "汉室",
+      "pinyin": "hàn shì",
+      "meaning": "汉朝的朝廷、江山。"
+    },
+    {
+      "id": "n-zhequ",
+      "word": "谪去",
+      "pinyin": "zhé qù",
+      "meaning": "被贬谪离开京城。"
+    }
+  ],
+  "translation": "鹦鹉洲上没有波浪，也没有烟霭，我这客居楚地的人，思念更加悠远迷茫。汉口的上空，夕阳里鸟儿斜斜飞过；洞庭湖的秋水，远远地与天相连。背靠山岭的孤城吹起寒冷的号角，临江的独树下，夜里停泊着船。当年贾谊上书担忧汉朝的天下，却被贬去长沙，古往今来的人都为他叹怜。",
+  "appreciation": "诗人乘船从夏口到鹦鹉洲，傍晚遥望岳阳。江面无浪无烟，夕阳斜照飞鸟，洞庭秋水连天，孤城寒角声里，船在独树下过夜，景色开阔又苍凉。结尾想起贾谊上书忧国却被贬长沙，古往今来的人都怜惜他。诗人借贾谊写自己，把思乡、怀友和怀才不遇的感慨，都融进这片秋江暮色里。",
+  "background": "约公元 776 年，刘长卿任职鄂岳转运留后，驻在夏口。一次乘船经过鹦鹉洲，傍晚远望岳阳方向，秋江暮色苍茫，他想起远方的朋友源中丞，也想起被贬长沙的贾谊，写诗寄去自己的思念与不平。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "舟行江上",
+      "text": "诗人乘船离开夏口，沿江而行，来到鹦鹉洲边。"
+    },
+    {
+      "step": 2,
+      "title": "夕望岳阳",
+      "text": "夕阳斜照飞鸟掠过，洞庭湖的秋水远远与天相连。"
+    },
+    {
+      "step": 3,
+      "title": "孤城夜泊",
+      "text": "背山的孤城吹起寒角，船在临江的独树下停泊过夜。"
+    },
+    {
+      "step": 4,
+      "title": "怜才寄友",
+      "text": "他想起贾谊忧国却被贬长沙，写诗寄给源中丞诉思念。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "汀",
+      "reading": "tīng",
+      "reason": "“汀洲”是水中的小洲，读 tīng。",
+      "standard": "不要读成 dīng"
+    },
+    {
+      "char": "泊",
+      "reading": "bó",
+      "reason": "“夜泊船”是夜里停船过夜，“泊”读 bó。",
+      "standard": "不要读成 pō"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1161
+}

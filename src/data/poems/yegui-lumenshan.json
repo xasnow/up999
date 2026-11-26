@@ -1,0 +1,238 @@
+{
+  "id": "tang-shengtang-menghaoran-yegui-lumenshan",
+  "slug": "yegui-lumenshan",
+  "title": "夜归鹿门山歌",
+  "titlePinyin": "yè guī lù mén shān gē",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "七言古诗",
+  "authorId": "menghaoran",
+  "gradeBand": "ext",
+  "tags": [
+    "山水",
+    "七言古诗",
+    "月夜"
+  ],
+  "difficulty": 3,
+  "writtenYear": 725,
+  "writtenLabel": "约公元 725 年（孟浩然 37 岁，隐居襄阳鹿门山，夜渡归来所作）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "岩扉松径长寂寥，惟有幽人自来去。"
+  ],
+  "lines": [
+    {
+      "text": "山寺钟鸣昼已昏，",
+      "pinyin": [
+        "shān",
+        "sì",
+        "zhōng",
+        "míng",
+        "zhòu",
+        "yǐ",
+        "hūn"
+      ],
+      "translation": "山上的寺庙敲响了钟，天色已经昏暗下来，",
+      "noteIds": [
+        "n-zhou"
+      ]
+    },
+    {
+      "text": "渔梁渡头争渡喧。",
+      "pinyin": [
+        "yú",
+        "liáng",
+        "dù",
+        "tóu",
+        "zhēng",
+        "dù",
+        "xuān"
+      ],
+      "translation": "渔梁渡口，人们争着过渡，一片喧闹。",
+      "noteIds": [
+        "n-yuliang"
+      ]
+    },
+    {
+      "text": "人随沙岸向江村，",
+      "pinyin": [
+        "rén",
+        "suí",
+        "shā",
+        "àn",
+        "xiàng",
+        "jiāng",
+        "cūn"
+      ],
+      "translation": "人们沿着沙岸走回江边的村子，",
+      "noteIds": []
+    },
+    {
+      "text": "余亦乘舟归鹿门。",
+      "pinyin": [
+        "yú",
+        "yì",
+        "chéng",
+        "zhōu",
+        "guī",
+        "lù",
+        "mén"
+      ],
+      "translation": "我也乘着小船回到鹿门山。",
+      "noteIds": []
+    },
+    {
+      "text": "鹿门月照开烟树，",
+      "pinyin": [
+        "lù",
+        "mén",
+        "yuè",
+        "zhào",
+        "kāi",
+        "yān",
+        "shù"
+      ],
+      "translation": "月光照开雾气笼罩的树林，",
+      "noteIds": [
+        "n-yanshu"
+      ]
+    },
+    {
+      "text": "忽到庞公栖隐处。",
+      "pinyin": [
+        "hū",
+        "dào",
+        "páng",
+        "gōng",
+        "qī",
+        "yǐn",
+        "chù"
+      ],
+      "translation": "忽然就到了当年庞公隐居的地方。",
+      "noteIds": [
+        "n-panggong"
+      ]
+    },
+    {
+      "text": "岩扉松径长寂寥，",
+      "pinyin": [
+        "yán",
+        "fēi",
+        "sōng",
+        "jìng",
+        "cháng",
+        "jì",
+        "liáo"
+      ],
+      "translation": "石门前的松林小路一直那么安静，",
+      "noteIds": [
+        "n-yanfei"
+      ]
+    },
+    {
+      "text": "惟有幽人自来去。",
+      "pinyin": [
+        "wéi",
+        "yǒu",
+        "yōu",
+        "rén",
+        "zì",
+        "lái",
+        "qù"
+      ],
+      "translation": "只有幽静的隐士来来去去。",
+      "noteIds": [
+        "n-youren"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-zhou",
+      "word": "昼",
+      "pinyin": "zhòu",
+      "meaning": "白天。“昼已昏”就是天色已经到了黄昏。"
+    },
+    {
+      "id": "n-yuliang",
+      "word": "渔梁",
+      "pinyin": "yú liáng",
+      "meaning": "渔梁洲，汉水中的一块沙洲，那里有个热闹的渡口。"
+    },
+    {
+      "id": "n-yanshu",
+      "word": "烟树",
+      "pinyin": "yān shù",
+      "meaning": "被暮霭笼罩、模模糊糊的树影。"
+    },
+    {
+      "id": "n-panggong",
+      "word": "庞公",
+      "pinyin": "páng gōng",
+      "meaning": "东汉隐士庞德公，曾带着家人隐居在鹿门山。"
+    },
+    {
+      "id": "n-yanfei",
+      "word": "岩扉",
+      "pinyin": "yán fēi",
+      "meaning": "山石之间的门户，指隐士住的石屋。"
+    },
+    {
+      "id": "n-youren",
+      "word": "幽人",
+      "pinyin": "yōu rén",
+      "meaning": "隐士。这里既指庞公那样的隐者，也是诗人自己。"
+    }
+  ],
+  "translation": "山上的寺庙敲响了钟，天色已经昏暗下来。渔梁渡口，人们争着过渡，一片喧闹。人们沿着沙岸走回江边的村子，我也乘着小船回到鹿门山。月光照开雾气笼罩的树林，忽然就到了当年庞公隐居的地方。石门前的松林小路一直那么安静，只有幽静的隐士来来去去。",
+  "appreciation": "同样是傍晚回家：渡口的人们争着上船，热热闹闹回江村；诗人却独自摇着小船回鹿门山。两条路一对比，写出两种生活，一种热闹在人间，一种安静在山林。月光照开烟霭中的树影，“忽到”庞公旧居，有惊喜也有亲切。最后幽人来来去去，把隐居生活的自在说到了家。",
+  "background": "孟浩然住在襄阳涧南园，又在鹿门山有隐居的住所。这一天他从山寺游罢，傍晚在渔梁渡口坐船回鹿门山，看着人们争着回村的热闹，想起东汉隐士庞德公也在这山里隐居过，便写下这首山歌，唱出自己对隐逸生活的喜爱。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "山寺钟鸣",
+      "text": "傍晚山寺敲响钟声，天色已经渐渐昏暗下来。"
+    },
+    {
+      "step": 2,
+      "title": "渡口争渡",
+      "text": "渔梁渡口人们争着上船，沿着沙岸走回江边村子。"
+    },
+    {
+      "step": 3,
+      "title": "月照鹿门",
+      "text": "诗人独自乘船回鹿门山，月光照开雾气中的树影。"
+    },
+    {
+      "step": 4,
+      "title": "幽人往来",
+      "text": "到了庞公隐居的旧地，松径石门旁幽人自在来去。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "昼",
+      "reading": "zhòu",
+      "reason": "“昼已昏”的“昼”读 zhòu，是白天的意思。",
+      "standard": "不要读成 zhōu"
+    },
+    {
+      "char": "庞",
+      "reading": "páng",
+      "reason": "“庞公”指东汉隐士庞德公，“庞”读 páng。"
+    },
+    {
+      "char": "寥",
+      "reading": "liáo",
+      "reason": "“寂寥”形容冷清安静，“寥”读 liáo。"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1220
+}

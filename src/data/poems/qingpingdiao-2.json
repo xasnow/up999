@@ -1,0 +1,163 @@
+{
+  "id": "tang-shengtang-libai-qingpingdiao-2",
+  "slug": "qingpingdiao-2",
+  "title": "清平调·其二",
+  "titlePinyin": "qīng píng diào · qí èr",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "七言乐府",
+  "authorId": "libai",
+  "gradeBand": "ext",
+  "tags": [
+    "咏物",
+    "牡丹",
+    "汉宫",
+    "七言乐府"
+  ],
+  "difficulty": 3,
+  "writtenYear": 743,
+  "writtenLabel": "约公元 743 年（李白 42 岁，供奉翰林，奉诏作于长安沉香亭）",
+  "orderInAuthor": 2,
+  "famousLines": [
+    "一枝红艳露凝香，云雨巫山枉断肠。"
+  ],
+  "lines": [
+    {
+      "text": "一枝红艳露凝香，",
+      "pinyin": [
+        "yì",
+        "zhī",
+        "hóng",
+        "yàn",
+        "lù",
+        "níng",
+        "xiāng"
+      ],
+      "translation": "一枝红艳的牡丹沾着露水，像凝着香气，",
+      "noteIds": [
+        "n-hongyan"
+      ]
+    },
+    {
+      "text": "云雨巫山枉断肠。",
+      "pinyin": [
+        "yún",
+        "yǔ",
+        "wū",
+        "shān",
+        "wǎng",
+        "duàn",
+        "cháng"
+      ],
+      "translation": "传说中巫山神女的故事，再动人也是虚幻的。",
+      "noteIds": [
+        "n-yunyu"
+      ]
+    },
+    {
+      "text": "借问汉宫谁得似，",
+      "pinyin": [
+        "jiè",
+        "wèn",
+        "hàn",
+        "gōng",
+        "shuí",
+        "dé",
+        "sì"
+      ],
+      "translation": "请问汉宫里谁能和她相比？",
+      "noteIds": []
+    },
+    {
+      "text": "可怜飞燕倚新妆。",
+      "pinyin": [
+        "kě",
+        "lián",
+        "fēi",
+        "yàn",
+        "yǐ",
+        "xīn",
+        "zhuāng"
+      ],
+      "translation": "可爱的赵飞燕，也要倚着新妆才勉强像她。",
+      "noteIds": [
+        "n-feiyan",
+        "n-kejian"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-hongyan",
+      "word": "红艳",
+      "pinyin": "hóng yàn",
+      "meaning": "指红艳的牡丹，也比喻美人的容颜。"
+    },
+    {
+      "id": "n-yunyu",
+      "word": "云雨巫山",
+      "pinyin": "yún yǔ wū shān",
+      "meaning": "楚王梦见巫山神女的传说，这里说这样的传说再美也是虚枉的。"
+    },
+    {
+      "id": "n-feiyan",
+      "word": "飞燕",
+      "pinyin": "fēi yàn",
+      "meaning": "赵飞燕，汉成帝的皇后，古代著名的美人。"
+    },
+    {
+      "id": "n-kejian",
+      "word": "可怜",
+      "pinyin": "kě lián",
+      "meaning": "可爱、可羡的意思，不是可怜。"
+    }
+  ],
+  "translation": "一枝红艳的牡丹沾着露水，像凝着香气。传说中巫山神女的故事，再动人也是虚幻的。请问汉宫里谁能和她相比？可爱的赵飞燕，也要倚着新妆才勉强像她。",
+  "appreciation": "第一句只写一朵花，却让人看见一位美人：红艳、带露、含香。第二句请出巫山神女作对比，说那样的仙境也是虚的，眼前的美才是真的。第三、四句再请出汉宫第一美人赵飞燕，说她还得靠新妆帮忙，而眼前人不假装扮，胜过飞燕。一比再比，把夸赞推向高处。",
+  "background": "这是《清平调》的第二首。牡丹在沉香亭前盛开，玄宗命李白以花与贵妃互相映衬作歌。诗人不直接描写容貌，而是用神女、飞燕两个著名的美人典故，从侧面烘托贵妃之美。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "一枝红艳",
+      "text": "园中牡丹开得正艳，像沾着露水、凝着香气的美人。"
+    },
+    {
+      "step": 2,
+      "title": "神女虚话",
+      "text": "比起传说里的巫山神女，眼前的花与美人更加真实动人。"
+    },
+    {
+      "step": 3,
+      "title": "汉宫比美",
+      "text": "请问汉宫里谁能比得上？只有赵飞燕倚着新妆才像。"
+    },
+    {
+      "step": 4,
+      "title": "花即是人",
+      "text": "飞燕还得靠新妆，眼前的人不用打扮，比花还美。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "似",
+      "reading": "sì",
+      "reason": "“谁得似”的“似”是像、比得上的意思，读 sì。",
+      "standard": "不要读成 shì"
+    },
+    {
+      "char": "倚",
+      "reading": "yǐ",
+      "reason": "“倚新妆”是靠仗着新妆的意思，读 yǐ。",
+      "standard": "不要读成 qí"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》",
+    "《李太白集》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1234
+}

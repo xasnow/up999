@@ -1,0 +1,164 @@
+{
+  "id": "tang-shengtang-libai-qingpingdiao-1",
+  "slug": "qingpingdiao-1",
+  "title": "清平调·其一",
+  "titlePinyin": "qīng píng diào · qí yī",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "七言乐府",
+  "authorId": "libai",
+  "gradeBand": "ext",
+  "tags": [
+    "咏物",
+    "牡丹",
+    "月下",
+    "七言乐府"
+  ],
+  "difficulty": 3,
+  "writtenYear": 743,
+  "writtenLabel": "约公元 743 年（李白 42 岁，供奉翰林，奉诏作于长安沉香亭）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "云想衣裳花想容，春风拂槛露华浓。"
+  ],
+  "lines": [
+    {
+      "text": "云想衣裳花想容，",
+      "pinyin": [
+        "yún",
+        "xiǎng",
+        "yī",
+        "cháng",
+        "huā",
+        "xiǎng",
+        "róng"
+      ],
+      "translation": "云霞想变成她的衣裳，花儿想变成她的容貌，",
+      "noteIds": [
+        "n-yishang"
+      ]
+    },
+    {
+      "text": "春风拂槛露华浓。",
+      "pinyin": [
+        "chūn",
+        "fēng",
+        "fú",
+        "jiàn",
+        "lù",
+        "huá",
+        "nóng"
+      ],
+      "translation": "春风吹拂着栏杆，沾着露水的牡丹开得格外浓艳。",
+      "noteIds": [
+        "n-jian"
+      ]
+    },
+    {
+      "text": "若非群玉山头见，",
+      "pinyin": [
+        "ruò",
+        "fēi",
+        "qún",
+        "yù",
+        "shān",
+        "tóu",
+        "jiàn"
+      ],
+      "translation": "这样的美人如果不是在群玉山头见到，",
+      "noteIds": [
+        "n-qunyu"
+      ]
+    },
+    {
+      "text": "会向瑶台月下逢。",
+      "pinyin": [
+        "huì",
+        "xiàng",
+        "yáo",
+        "tái",
+        "yuè",
+        "xià",
+        "féng"
+      ],
+      "translation": "就只会在瑶台的月光下与她相逢。",
+      "noteIds": [
+        "n-yaotai"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-yishang",
+      "word": "衣裳",
+      "pinyin": "yī cháng",
+      "meaning": "衣裳。古音读 cháng，裳指下身的裙子。"
+    },
+    {
+      "id": "n-jian",
+      "word": "槛",
+      "pinyin": "jiàn",
+      "meaning": "栏杆。"
+    },
+    {
+      "id": "n-qunyu",
+      "word": "群玉",
+      "pinyin": "qún yù",
+      "meaning": "群玉山，传说中西王母居住的仙山。"
+    },
+    {
+      "id": "n-yaotai",
+      "word": "瑶台",
+      "pinyin": "yáo tái",
+      "meaning": "传说中神仙住的地方，用美玉筑成。"
+    }
+  ],
+  "translation": "云霞想变成她的衣裳，花儿想变成她的容貌。春风吹拂着栏杆，沾着露水的牡丹开得格外浓艳。这样的美人，如果不是在群玉山头见到，就只会在瑶台的月光下与她相逢。",
+  "appreciation": "这首诗最妙的是两个“想”字：不说人像云、像花，而说云想变成她的衣裳、花想变成她的容貌，人比云和花还美。第二句写春风拂过栏杆、露水让牡丹更艳，正像君王的恩宠让她容光焕发。后两句把人捧上仙山瑶台，一层比一层高，夸赞得漂亮又自然。",
+  "background": "公元 743 年春天，唐玄宗和杨贵妃在长安兴庆宫沉香亭前赏牡丹，觉得旧歌词不合适，便召翰林供奉李白来写新词。李白就在沉香亭写下《清平调》三首，这是第一首，借牡丹夸赞贵妃之美。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "沉香亭畔",
+      "text": "春天的长安，玄宗陪贵妃在沉香亭前赏牡丹，叫李白当场写新歌。"
+    },
+    {
+      "step": 2,
+      "title": "云与花",
+      "text": "李白写道：云想变成她的衣裳，花想变成她的容貌。"
+    },
+    {
+      "step": 3,
+      "title": "露华正浓",
+      "text": "春风拂过栏杆，牡丹沾着露水，开得格外浓艳。"
+    },
+    {
+      "step": 4,
+      "title": "瑶台仙子",
+      "text": "诗人说，这样的美人只有在月下瑶台才能见到。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "裳",
+      "reading": "cháng",
+      "reason": "“云想衣裳”的“裳”是古代下身的裙子，读 cháng。",
+      "standard": "不要读成 shang"
+    },
+    {
+      "char": "槛",
+      "reading": "jiàn",
+      "reason": "“拂槛”是春风吹拂栏杆的意思，读 jiàn。",
+      "standard": "不要读成 kǎn"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》",
+    "《李太白集》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1233
+}

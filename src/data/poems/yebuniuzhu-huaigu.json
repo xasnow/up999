@@ -1,0 +1,205 @@
+{
+  "id": "tang-shengtang-libai-yebuniuzhu-huaigu",
+  "slug": "yebuniuzhu-huaigu",
+  "title": "夜泊牛渚怀古",
+  "titlePinyin": "yè bó niú zhǔ huái gǔ",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "五言律诗",
+  "authorId": "libai",
+  "gradeBand": "ext",
+  "tags": [
+    "怀古",
+    "五言律诗",
+    "明月",
+    "枫叶"
+  ],
+  "difficulty": 3,
+  "writtenYear": 726,
+  "writtenLabel": "约公元 726 年（李白 26 岁，漫游江南，夜泊牛渚）",
+  "orderInAuthor": 2,
+  "famousLines": [
+    "登舟望秋月，空忆谢将军。",
+    "明朝挂帆席，枫叶落纷纷。"
+  ],
+  "lines": [
+    {
+      "text": "牛渚西江夜，",
+      "pinyin": [
+        "niú",
+        "zhǔ",
+        "xī",
+        "jiāng",
+        "yè"
+      ],
+      "translation": "秋夜里，船停泊在西江的牛渚，",
+      "noteIds": [
+        "n-niuzhu"
+      ]
+    },
+    {
+      "text": "青天无片云。",
+      "pinyin": [
+        "qīng",
+        "tiān",
+        "wú",
+        "piàn",
+        "yún"
+      ],
+      "translation": "青青的天上没有一丝云。",
+      "noteIds": []
+    },
+    {
+      "text": "登舟望秋月，",
+      "pinyin": [
+        "dēng",
+        "zhōu",
+        "wàng",
+        "qiū",
+        "yuè"
+      ],
+      "translation": "我登上船头，望着秋天的月亮，",
+      "noteIds": []
+    },
+    {
+      "text": "空忆谢将军。",
+      "pinyin": [
+        "kōng",
+        "yì",
+        "xiè",
+        "jiāng",
+        "jūn"
+      ],
+      "translation": "徒然想起当年的谢将军。",
+      "noteIds": [
+        "n-xiejiangjun"
+      ]
+    },
+    {
+      "text": "余亦能高咏，",
+      "pinyin": [
+        "yú",
+        "yì",
+        "néng",
+        "gāo",
+        "yǒng"
+      ],
+      "translation": "我也能像当年那样高声吟咏，",
+      "noteIds": []
+    },
+    {
+      "text": "斯人不可闻。",
+      "pinyin": [
+        "sī",
+        "rén",
+        "bù",
+        "kě",
+        "wén"
+      ],
+      "translation": "可惜再也遇不到听诗识才的人了。",
+      "noteIds": [
+        "n-siren"
+      ]
+    },
+    {
+      "text": "明朝挂帆席，",
+      "pinyin": [
+        "míng",
+        "zhāo",
+        "guà",
+        "fān",
+        "xí"
+      ],
+      "translation": "明天一早就要挂起船帆离开，",
+      "noteIds": [
+        "n-fanxi"
+      ]
+    },
+    {
+      "text": "枫叶落纷纷。",
+      "pinyin": [
+        "fēng",
+        "yè",
+        "luò",
+        "fēn",
+        "fēn"
+      ],
+      "translation": "只见枫叶纷纷飘落。",
+      "noteIds": []
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-niuzhu",
+      "word": "牛渚",
+      "pinyin": "niú zhǔ",
+      "meaning": "山名，在今安徽当涂西北的长江边，山下有矶，叫牛渚矶。"
+    },
+    {
+      "id": "n-xiejiangjun",
+      "word": "谢将军",
+      "pinyin": "xiè jiāng jūn",
+      "meaning": "指东晋谢尚。他镇守此地时，曾在秋夜泛舟，听到袁宏在船上吟诗，很赏识他。"
+    },
+    {
+      "id": "n-siren",
+      "word": "斯人",
+      "pinyin": "sī rén",
+      "meaning": "这个人，指谢尚那样能听诗识才的人。"
+    },
+    {
+      "id": "n-fanxi",
+      "word": "帆席",
+      "pinyin": "fān xí",
+      "meaning": "船帆。挂帆席：扯起帆，准备开船。"
+    }
+  ],
+  "translation": "秋夜里，船停泊在西江的牛渚，青青的天上没有一丝云。我登上船头，望着秋天的月亮，徒然想起当年的谢将军。我也能像当年那样高声吟咏，可惜再也遇不到听诗识才的人了。明天一早就要挂起船帆离开，只见枫叶纷纷飘落。",
+  "appreciation": "这是一首有名的“无对仗律诗”，写得像说话一样自然。李白夜泊牛渚，望月想起谢将军月夜听诗、赏识穷书生的故事：自己一样会高声吟咏，却再没有人来听。他不喊委屈，只让枫叶落满江面——那纷纷飘落的，其实是一个人才华无人赏识的叹息。",
+  "background": "约公元 726 年，二十多岁的李白漫游江南，夜里把船停在牛渚。这里流传着谢将军秋夜听诗、赏识人才的佳话。李白想到自己满腹诗才，却还没遇到赏识他的人，望着秋月写下这首诗。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "夜泊牛渚",
+      "text": "秋夜，小船停在牛渚的江边，青天上没有一片云彩。"
+    },
+    {
+      "step": 2,
+      "title": "望月怀古",
+      "text": "李白登上船头望月，想起谢将军秋夜听诗识才的故事。"
+    },
+    {
+      "step": 3,
+      "title": "无人可闻",
+      "text": "自己也会高声吟咏，可惜谢将军那样的人再也遇不到。"
+    },
+    {
+      "step": 4,
+      "title": "挂帆别去",
+      "text": "天亮后挂起船帆离开，枫叶正纷纷飘落在江面上。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "渚",
+      "reading": "zhǔ",
+      "reason": "“牛渚”是山名，“渚”是水边的小块陆地，读 zhǔ。",
+      "standard": "不要读成 zhě"
+    },
+    {
+      "char": "朝",
+      "reading": "zhāo",
+      "reason": "“明朝”指明天早晨，“朝”读 zhāo。",
+      "standard": "不要读成 cháo"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》",
+    "《李太白集》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1060
+}

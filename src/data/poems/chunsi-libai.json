@@ -1,0 +1,186 @@
+{
+  "id": "tang-shengtang-libai-chunsi-libai",
+  "slug": "chunsi-libai",
+  "title": "春思",
+  "titlePinyin": "chūn sī",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "五言古诗",
+  "authorId": "libai",
+  "gradeBand": "ext",
+  "tags": [
+    "思念",
+    "五言古诗",
+    "春天",
+    "春风"
+  ],
+  "difficulty": 3,
+  "writtenYear": 727,
+  "writtenLabel": "创作年份无确考，这里取约公元 727 年（李白 27 岁，居安陆时期）",
+  "orderInAuthor": 2,
+  "famousLines": [
+    "燕草如碧丝，秦桑低绿枝。",
+    "春风不相识，何事入罗帏。"
+  ],
+  "lines": [
+    {
+      "text": "燕草如碧丝，",
+      "pinyin": [
+        "yān",
+        "cǎo",
+        "rú",
+        "bì",
+        "sī"
+      ],
+      "translation": "燕地的春草才细得像碧绿的丝，",
+      "noteIds": [
+        "n-yandi"
+      ]
+    },
+    {
+      "text": "秦桑低绿枝。",
+      "pinyin": [
+        "qín",
+        "sāng",
+        "dī",
+        "lǜ",
+        "zhī"
+      ],
+      "translation": "秦地的桑树已经压弯了绿枝。",
+      "noteIds": [
+        "n-qindi"
+      ]
+    },
+    {
+      "text": "当君怀归日，",
+      "pinyin": [
+        "dāng",
+        "jūn",
+        "huái",
+        "guī",
+        "rì"
+      ],
+      "translation": "当你动念想回家的时候，",
+      "noteIds": []
+    },
+    {
+      "text": "是妾断肠时。",
+      "pinyin": [
+        "shì",
+        "qiè",
+        "duàn",
+        "cháng",
+        "shí"
+      ],
+      "translation": "正是我思念到肝肠寸断的时候。",
+      "noteIds": [
+        "n-qie"
+      ]
+    },
+    {
+      "text": "春风不相识，",
+      "pinyin": [
+        "chūn",
+        "fēng",
+        "bù",
+        "xiāng",
+        "shí"
+      ],
+      "translation": "春风啊，我与你素不相识，",
+      "noteIds": []
+    },
+    {
+      "text": "何事入罗帏。",
+      "pinyin": [
+        "hé",
+        "shì",
+        "rù",
+        "luó",
+        "wéi"
+      ],
+      "translation": "为什么偏偏要吹进我的罗帐里来？",
+      "noteIds": [
+        "n-luowei"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-yandi",
+      "word": "燕",
+      "pinyin": "yān",
+      "meaning": "古国名，在今河北北部一带，是丈夫戍守的边地。燕草：燕地的春草。"
+    },
+    {
+      "id": "n-qindi",
+      "word": "秦",
+      "pinyin": "qín",
+      "meaning": "今陕西一带，是妻子居住的地方。秦桑：秦地的桑树。"
+    },
+    {
+      "id": "n-qie",
+      "word": "妾",
+      "pinyin": "qiè",
+      "meaning": "古代女子对自己的称呼。"
+    },
+    {
+      "id": "n-luowei",
+      "word": "罗帏",
+      "pinyin": "luó wéi",
+      "meaning": "丝织的帐子，挂在床前。"
+    }
+  ],
+  "translation": "燕地的春草才细得像碧绿的丝，秦地的桑树已经压弯了绿枝。当你动念想回家的时候，正是我思念到肝肠寸断的时候。春风啊，我与你素不相识，为什么偏偏要吹进我的罗帐里来？",
+  "appreciation": "这首诗的妙处全在“错位”：燕地草刚发芽，秦地桑已压枝，同一阵春风，两地快慢不同，思念便一深一浅。诗人不直接说“我想你”，而是拦住春风质问：“我认识你吗？你为什么钻进我的罗帐？”一句看似不讲理的问话，把少妇的深情、埋怨和坚定，全写活了。",
+  "background": "这是一首写思妇想念远行丈夫的诗。燕地是征人戍守的边地，秦地是妻子住的地方。一般认为它作于开元年间李白居住湖北安陆的时期。他代少妇说出心里话：春天到了，丈夫快回来吧。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "春草初生",
+      "text": "燕地的春草刚像碧丝一样冒头，丈夫还在北方。"
+    },
+    {
+      "step": 2,
+      "title": "秦桑已绿",
+      "text": "秦地的桑枝已被春叶压低，家中妻子望眼欲穿。"
+    },
+    {
+      "step": 3,
+      "title": "两处同思",
+      "text": "你动念想家的那一天，正是我伤心断肠的时候。"
+    },
+    {
+      "step": 4,
+      "title": "质问春风",
+      "text": "她拦住春风质问：与我素不相识，凭什么进罗帐？"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "燕",
+      "reading": "yān",
+      "reason": "“燕草”指燕地的草，“燕”是古国名，读 yān。",
+      "standard": "不要读成 yàn"
+    },
+    {
+      "char": "妾",
+      "reading": "qiè",
+      "reason": "“妾”是古代女子自称，读 qiè。",
+      "standard": "不要读成 qiē"
+    },
+    {
+      "char": "帏",
+      "reading": "wéi",
+      "reason": "“罗帏”是丝织的帐子，“帏”读 wéi。"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》",
+    "《李太白集》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1176
+}

@@ -1,0 +1,859 @@
+{
+  "id": "tang-shengtang-libai-mengyou-tianmu",
+  "slug": "mengyou-tianmu",
+  "title": "梦游天姥吟留别",
+  "titlePinyin": "mèng yóu tiān mǔ yín liú bié",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "七言古诗",
+  "authorId": "libai",
+  "gradeBand": "ext",
+  "tags": [
+    "山水",
+    "七言古诗",
+    "仙山",
+    "云霞"
+  ],
+  "difficulty": 3,
+  "writtenYear": 745,
+  "writtenLabel": "约公元 745 年（李白 45 岁，被“赐金放还”离开长安后，将南下吴越，留别友人）",
+  "orderInAuthor": 14,
+  "famousLines": [
+    "安能摧眉折腰事权贵，使我不得开心颜！",
+    "天姥连天向天横，势拔五岳掩赤城。"
+  ],
+  "lines": [
+    {
+      "text": "海客谈瀛洲，",
+      "pinyin": [
+        "hǎi",
+        "kè",
+        "tán",
+        "yíng",
+        "zhōu"
+      ],
+      "translation": "航海的人谈起瀛洲，",
+      "noteIds": [
+        "n-yingzhou"
+      ]
+    },
+    {
+      "text": "烟涛微茫信难求。",
+      "pinyin": [
+        "yān",
+        "tāo",
+        "wēi",
+        "máng",
+        "xìn",
+        "nán",
+        "qiú"
+      ],
+      "translation": "说那里烟波渺茫，实在难以找到。",
+      "noteIds": []
+    },
+    {
+      "text": "越人语天姥，",
+      "pinyin": [
+        "yuè",
+        "rén",
+        "yǔ",
+        "tiān",
+        "mǔ"
+      ],
+      "translation": "越地的人说起天姥山，",
+      "noteIds": [
+        "n-tianmu"
+      ]
+    },
+    {
+      "text": "云霞明灭或可睹。",
+      "pinyin": [
+        "yún",
+        "xiá",
+        "míng",
+        "miè",
+        "huò",
+        "kě",
+        "dǔ"
+      ],
+      "translation": "说山上云霞忽明忽暗，有时还能看见。",
+      "noteIds": []
+    },
+    {
+      "text": "天姥连天向天横，",
+      "pinyin": [
+        "tiān",
+        "mǔ",
+        "lián",
+        "tiān",
+        "xiàng",
+        "tiān",
+        "héng"
+      ],
+      "translation": "天姥山连着天，横在天边，",
+      "noteIds": []
+    },
+    {
+      "text": "势拔五岳掩赤城。",
+      "pinyin": [
+        "shì",
+        "bá",
+        "wǔ",
+        "yuè",
+        "yǎn",
+        "chì",
+        "chéng"
+      ],
+      "translation": "山势高过五岳，盖过了赤城山。",
+      "noteIds": [
+        "n-chicheng"
+      ]
+    },
+    {
+      "text": "天台四万八千丈，",
+      "pinyin": [
+        "tiān",
+        "tāi",
+        "sì",
+        "wàn",
+        "bā",
+        "qiān",
+        "zhàng"
+      ],
+      "translation": "天台山有四万八千丈高，",
+      "noteIds": [
+        "n-tiantai"
+      ]
+    },
+    {
+      "text": "对此欲倒东南倾。",
+      "pinyin": [
+        "duì",
+        "cǐ",
+        "yù",
+        "dǎo",
+        "dōng",
+        "nán",
+        "qīng"
+      ],
+      "translation": "对着天姥山却像要倾倒，拜倒在它的东南方。",
+      "noteIds": []
+    },
+    {
+      "text": "我欲因之梦吴越，",
+      "pinyin": [
+        "wǒ",
+        "yù",
+        "yīn",
+        "zhī",
+        "mèng",
+        "wú",
+        "yuè"
+      ],
+      "translation": "我想根据这些传说梦游吴越，",
+      "noteIds": []
+    },
+    {
+      "text": "一夜飞度镜湖月。",
+      "pinyin": [
+        "yī",
+        "yè",
+        "fēi",
+        "dù",
+        "jìng",
+        "hú",
+        "yuè"
+      ],
+      "translation": "一夜之间，飞过了月下的镜湖。",
+      "noteIds": [
+        "n-jinghu"
+      ]
+    },
+    {
+      "text": "湖月照我影，",
+      "pinyin": [
+        "hú",
+        "yuè",
+        "zhào",
+        "wǒ",
+        "yǐng"
+      ],
+      "translation": "湖上的月光照着我的影子，",
+      "noteIds": []
+    },
+    {
+      "text": "送我至剡溪。",
+      "pinyin": [
+        "sòng",
+        "wǒ",
+        "zhì",
+        "shàn",
+        "xī"
+      ],
+      "translation": "把我送到剡溪。",
+      "noteIds": [
+        "n-shanxi"
+      ]
+    },
+    {
+      "text": "谢公宿处今尚在，",
+      "pinyin": [
+        "xiè",
+        "gōng",
+        "sù",
+        "chù",
+        "jīn",
+        "shàng",
+        "zài"
+      ],
+      "translation": "谢灵运当年住宿的地方如今还在，",
+      "noteIds": [
+        "n-xiegong"
+      ]
+    },
+    {
+      "text": "渌水荡漾清猿啼。",
+      "pinyin": [
+        "lù",
+        "shuǐ",
+        "dàng",
+        "yàng",
+        "qīng",
+        "yuán",
+        "tí"
+      ],
+      "translation": "清澈的溪水荡漾，猿猴的啼声凄清。",
+      "noteIds": []
+    },
+    {
+      "text": "脚著谢公屐，",
+      "pinyin": [
+        "jiǎo",
+        "zhuó",
+        "xiè",
+        "gōng",
+        "jī"
+      ],
+      "translation": "我脚上穿着谢公特制的木屐，",
+      "noteIds": [
+        "n-ji"
+      ]
+    },
+    {
+      "text": "身登青云梯。",
+      "pinyin": [
+        "shēn",
+        "dēng",
+        "qīng",
+        "yún",
+        "tī"
+      ],
+      "translation": "攀着高入青云的石阶上山。",
+      "noteIds": [
+        "n-qingyunti"
+      ]
+    },
+    {
+      "text": "半壁见海日，",
+      "pinyin": [
+        "bàn",
+        "bì",
+        "jiàn",
+        "hǎi",
+        "rì"
+      ],
+      "translation": "在半山腰就看见海上日出，",
+      "noteIds": []
+    },
+    {
+      "text": "空中闻天鸡。",
+      "pinyin": [
+        "kōng",
+        "zhōng",
+        "wén",
+        "tiān",
+        "jī"
+      ],
+      "translation": "半空中听到天鸡啼叫。",
+      "noteIds": [
+        "n-tianji"
+      ]
+    },
+    {
+      "text": "千岩万转路不定，",
+      "pinyin": [
+        "qiān",
+        "yán",
+        "wàn",
+        "zhuǎn",
+        "lù",
+        "bù",
+        "dìng"
+      ],
+      "translation": "山岩千转万转，道路变化不定，",
+      "noteIds": []
+    },
+    {
+      "text": "迷花倚石忽已暝。",
+      "pinyin": [
+        "mí",
+        "huā",
+        "yǐ",
+        "shí",
+        "hū",
+        "yǐ",
+        "míng"
+      ],
+      "translation": "看着野花迷了眼，靠着石头歇息，天忽然就黑了。",
+      "noteIds": [
+        "n-ming"
+      ]
+    },
+    {
+      "text": "熊咆龙吟殷岩泉，",
+      "pinyin": [
+        "xióng",
+        "páo",
+        "lóng",
+        "yín",
+        "yǐn",
+        "yán",
+        "quán"
+      ],
+      "translation": "熊在咆哮，龙在长吟，岩中的泉水轰响震动，",
+      "noteIds": [
+        "n-yin"
+      ]
+    },
+    {
+      "text": "栗深林兮惊层巅。",
+      "pinyin": [
+        "lì",
+        "shēn",
+        "lín",
+        "xī",
+        "jīng",
+        "céng",
+        "diān"
+      ],
+      "translation": "使幽深的森林战栗，使层层山峰震惊。",
+      "noteIds": []
+    },
+    {
+      "text": "云青青兮欲雨，",
+      "pinyin": [
+        "yún",
+        "qīng",
+        "qīng",
+        "xī",
+        "yù",
+        "yǔ"
+      ],
+      "translation": "乌云黑沉沉的，快要下雨，",
+      "noteIds": []
+    },
+    {
+      "text": "水澹澹兮生烟。",
+      "pinyin": [
+        "shuǐ",
+        "dàn",
+        "dàn",
+        "xī",
+        "shēng",
+        "yān"
+      ],
+      "translation": "水波摇荡，泛起烟雾。",
+      "noteIds": []
+    },
+    {
+      "text": "列缺霹雳，",
+      "pinyin": [
+        "liè",
+        "quē",
+        "pī",
+        "lì"
+      ],
+      "translation": "闪电炸出霹雳巨响，",
+      "noteIds": [
+        "n-lieque"
+      ]
+    },
+    {
+      "text": "丘峦崩摧。",
+      "pinyin": [
+        "qiū",
+        "luán",
+        "bēng",
+        "cuī"
+      ],
+      "translation": "山峦仿佛崩裂开来。",
+      "noteIds": []
+    },
+    {
+      "text": "洞天石扉，",
+      "pinyin": [
+        "dòng",
+        "tiān",
+        "shí",
+        "fēi"
+      ],
+      "translation": "仙境洞府的石门，",
+      "noteIds": [
+        "n-shifei"
+      ]
+    },
+    {
+      "text": "訇然中开。",
+      "pinyin": [
+        "hōng",
+        "rán",
+        "zhōng",
+        "kāi"
+      ],
+      "translation": "轰隆一声，从中间打开。",
+      "noteIds": [
+        "n-hongran"
+      ]
+    },
+    {
+      "text": "青冥浩荡不见底，",
+      "pinyin": [
+        "qīng",
+        "míng",
+        "hào",
+        "dàng",
+        "bù",
+        "jiàn",
+        "dǐ"
+      ],
+      "translation": "洞里青天浩荡，望不到底，",
+      "noteIds": []
+    },
+    {
+      "text": "日月照耀金银台。",
+      "pinyin": [
+        "rì",
+        "yuè",
+        "zhào",
+        "yào",
+        "jīn",
+        "yín",
+        "tái"
+      ],
+      "translation": "日月照耀着金银筑成的楼台。",
+      "noteIds": [
+        "n-jinyintai"
+      ]
+    },
+    {
+      "text": "霓为衣兮风为马，",
+      "pinyin": [
+        "ní",
+        "wéi",
+        "yī",
+        "xī",
+        "fēng",
+        "wéi",
+        "mǎ"
+      ],
+      "translation": "神仙们用彩虹做衣裳，拿风当骏马，",
+      "noteIds": []
+    },
+    {
+      "text": "云之君兮纷纷而来下。",
+      "pinyin": [
+        "yún",
+        "zhī",
+        "jūn",
+        "xī",
+        "fēn",
+        "fēn",
+        "ér",
+        "lái",
+        "xià"
+      ],
+      "translation": "云里的神仙纷纷飘落下来。",
+      "noteIds": [
+        "n-yunzhijun"
+      ]
+    },
+    {
+      "text": "虎鼓瑟兮鸾回车，",
+      "pinyin": [
+        "hǔ",
+        "gǔ",
+        "sè",
+        "xī",
+        "luán",
+        "huí",
+        "chē"
+      ],
+      "translation": "老虎弹着瑟，鸾鸟驾着车，",
+      "noteIds": [
+        "n-luan"
+      ]
+    },
+    {
+      "text": "仙之人兮列如麻。",
+      "pinyin": [
+        "xiān",
+        "zhī",
+        "rén",
+        "xī",
+        "liè",
+        "rú",
+        "má"
+      ],
+      "translation": "仙人们排成队伍，多得像麻。",
+      "noteIds": []
+    },
+    {
+      "text": "忽魂悸以魄动，",
+      "pinyin": [
+        "hū",
+        "hún",
+        "jì",
+        "yǐ",
+        "pò",
+        "dòng"
+      ],
+      "translation": "我忽然心惊魂动，",
+      "noteIds": []
+    },
+    {
+      "text": "恍惊起而长嗟。",
+      "pinyin": [
+        "huǎng",
+        "jīng",
+        "qǐ",
+        "ér",
+        "cháng",
+        "jiē"
+      ],
+      "translation": "猛然惊醒，站起来长声叹息。",
+      "noteIds": []
+    },
+    {
+      "text": "惟觉时之枕席，",
+      "pinyin": [
+        "wéi",
+        "jué",
+        "shí",
+        "zhī",
+        "zhěn",
+        "xí"
+      ],
+      "translation": "醒来时只剩身边的枕头和席子，",
+      "noteIds": [
+        "n-jue"
+      ]
+    },
+    {
+      "text": "失向来之烟霞。",
+      "pinyin": [
+        "shī",
+        "xiàng",
+        "lái",
+        "zhī",
+        "yān",
+        "xiá"
+      ],
+      "translation": "方才梦里的烟霞仙境全都消失了。",
+      "noteIds": [
+        "n-xianglai"
+      ]
+    },
+    {
+      "text": "世间行乐亦如此，",
+      "pinyin": [
+        "shì",
+        "jiān",
+        "xíng",
+        "lè",
+        "yì",
+        "rú",
+        "cǐ"
+      ],
+      "translation": "世间的欢乐也像这样虚幻，",
+      "noteIds": []
+    },
+    {
+      "text": "古来万事东流水。",
+      "pinyin": [
+        "gǔ",
+        "lái",
+        "wàn",
+        "shì",
+        "dōng",
+        "liú",
+        "shuǐ"
+      ],
+      "translation": "自古以来的万事，都像东流的江水一样一去不返。",
+      "noteIds": []
+    },
+    {
+      "text": "别君去兮何时还？",
+      "pinyin": [
+        "bié",
+        "jūn",
+        "qù",
+        "xī",
+        "hé",
+        "shí",
+        "huán"
+      ],
+      "translation": "和你分别，什么时候才能回来？",
+      "noteIds": []
+    },
+    {
+      "text": "且放白鹿青崖间，",
+      "pinyin": [
+        "qiě",
+        "fàng",
+        "bái",
+        "lù",
+        "qīng",
+        "yá",
+        "jiān"
+      ],
+      "translation": "暂且把白鹿放在青崖之间，",
+      "noteIds": [
+        "n-bailu"
+      ]
+    },
+    {
+      "text": "须行即骑访名山。",
+      "pinyin": [
+        "xū",
+        "xíng",
+        "jí",
+        "qí",
+        "fǎng",
+        "míng",
+        "shān"
+      ],
+      "translation": "要走的时候就骑上它，去寻访名山。",
+      "noteIds": []
+    },
+    {
+      "text": "安能摧眉折腰事权贵，",
+      "pinyin": [
+        "ān",
+        "néng",
+        "cuī",
+        "méi",
+        "zhé",
+        "yāo",
+        "shì",
+        "quán",
+        "guì"
+      ],
+      "translation": "怎么能低头弯腰去侍奉权贵，",
+      "noteIds": [
+        "n-cuimei"
+      ]
+    },
+    {
+      "text": "使我不得开心颜！",
+      "pinyin": [
+        "shǐ",
+        "wǒ",
+        "bù",
+        "dé",
+        "kāi",
+        "xīn",
+        "yán"
+      ],
+      "translation": "让我不能舒心畅快、笑口常开！",
+      "noteIds": []
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-yingzhou",
+      "word": "瀛洲",
+      "pinyin": "yíng zhōu",
+      "meaning": "传说中的海上仙山，在东海之中，可望而不可即。"
+    },
+    {
+      "id": "n-tianmu",
+      "word": "天姥",
+      "pinyin": "tiān mǔ",
+      "meaning": "山名，在今浙江新昌一带，传说登山的人能听到天姥娘娘的歌声。"
+    },
+    {
+      "id": "n-chicheng",
+      "word": "赤城",
+      "pinyin": "chì chéng",
+      "meaning": "山名，在天台山北面，山石赤红，远望像城墙。"
+    },
+    {
+      "id": "n-tiantai",
+      "word": "天台",
+      "pinyin": "tiān tái",
+      "meaning": "山名，在今浙江天台县北，地名读 tāi。"
+    },
+    {
+      "id": "n-jinghu",
+      "word": "镜湖",
+      "pinyin": "jìng hú",
+      "meaning": "湖名，在今浙江绍兴，水平如镜。"
+    },
+    {
+      "id": "n-shanxi",
+      "word": "剡溪",
+      "pinyin": "shàn xī",
+      "meaning": "水名，在今浙江嵊州一带，是去天姥山必经的水路。"
+    },
+    {
+      "id": "n-xiegong",
+      "word": "谢公",
+      "pinyin": "xiè gōng",
+      "meaning": "南朝诗人谢灵运，他游天姥山时曾在此住宿。"
+    },
+    {
+      "id": "n-ji",
+      "word": "屐",
+      "pinyin": "jī",
+      "meaning": "木头做的鞋。谢灵运特制带齿的登山木屐，上山去前齿，下山去后齿。"
+    },
+    {
+      "id": "n-qingyunti",
+      "word": "青云梯",
+      "pinyin": "qīng yún tī",
+      "meaning": "高入青云的石阶山路。"
+    },
+    {
+      "id": "n-tianji",
+      "word": "天鸡",
+      "pinyin": "tiān jī",
+      "meaning": "传说东南有桃都山，山上有大树，树上金鸡一叫，天下的鸡都跟着叫。"
+    },
+    {
+      "id": "n-ming",
+      "word": "暝",
+      "pinyin": "míng",
+      "meaning": "黄昏，天黑。"
+    },
+    {
+      "id": "n-yin",
+      "word": "殷",
+      "pinyin": "yǐn",
+      "meaning": "震动、轰响，形容泉水轰鸣。"
+    },
+    {
+      "id": "n-lieque",
+      "word": "列缺",
+      "pinyin": "liè quē",
+      "meaning": "闪电。缺，指闪电时云层出现的裂缝。"
+    },
+    {
+      "id": "n-shifei",
+      "word": "石扉",
+      "pinyin": "shí fēi",
+      "meaning": "石门，这里指仙境洞府的门。"
+    },
+    {
+      "id": "n-hongran",
+      "word": "訇然",
+      "pinyin": "hōng rán",
+      "meaning": "轰隆一声巨响的样子。"
+    },
+    {
+      "id": "n-jinyintai",
+      "word": "金银台",
+      "pinyin": "jīn yín tái",
+      "meaning": "金银筑成的楼台，神仙居住的地方。"
+    },
+    {
+      "id": "n-yunzhijun",
+      "word": "云之君",
+      "pinyin": "yún zhī jūn",
+      "meaning": "云里的神仙。"
+    },
+    {
+      "id": "n-luan",
+      "word": "鸾",
+      "pinyin": "luán",
+      "meaning": "传说中凤凰一类的神鸟，这里指鸾鸟为神仙驾车。"
+    },
+    {
+      "id": "n-jue",
+      "word": "觉",
+      "pinyin": "jué",
+      "meaning": "睡醒。"
+    },
+    {
+      "id": "n-xianglai",
+      "word": "向来",
+      "pinyin": "xiàng lái",
+      "meaning": "原来、先前，指梦里刚才的景象。"
+    },
+    {
+      "id": "n-bailu",
+      "word": "白鹿",
+      "pinyin": "bái lù",
+      "meaning": "传说神仙常骑白鹿。"
+    },
+    {
+      "id": "n-cuimei",
+      "word": "摧眉折腰",
+      "pinyin": "cuī méi zhé yāo",
+      "meaning": "低头弯腰，形容卑躬屈膝地讨好、侍奉别人。"
+    }
+  ],
+  "translation": "航海的人谈起瀛洲，说那里烟波渺茫，实在难以找到；越地的人说起天姥山，说山上云霞忽明忽暗，有时还能看见。天姥山连着天，横在天边，山势高过五岳，盖过了赤城山。天台山有四万八千丈高，对着天姥山却像要倾倒，拜倒在它的东南方。我想根据这些传说梦游吴越，一夜之间飞过了月下的镜湖。湖上的月光照着我的影子，把我送到剡溪。谢灵运当年住宿的地方如今还在，清澈的溪水荡漾，猿猴的啼声凄清。我脚上穿着谢公特制的木屐，攀着高入青云的石阶。在半山腰就看见海上日出，半空中听到天鸡啼叫。山岩千转万转，道路变化不定，看着野花迷了眼，靠着石头歇息，天忽然就黑了。熊在咆哮，龙在长吟，岩中的泉水轰响震动，使幽深的森林战栗，使层层山峰震惊。乌云黑沉沉的快要下雨，水波摇荡泛起烟雾。闪电炸出霹雳，山峦仿佛崩裂。仙境的石门轰隆一声，从中间打开。洞里青天浩荡望不到底，日月照耀着金银筑成的楼台。神仙们用彩虹做衣裳、拿风当骏马，云里的神仙纷纷飘落下来。老虎弹着瑟，鸾鸟驾着车，仙人们排成队伍，多得像麻。我忽然心惊魂动，猛然惊醒，站起来长声叹息。醒来时只剩枕席，方才梦里的烟霞全都消失了。世间的欢乐也像这样虚幻，自古万事都像东流水一样一去不返。和你分别，什么时候才能回来？暂且把白鹿放在青崖之间，要走时就骑上它去访名山。怎么能低头弯腰去侍奉权贵，让我不能舒心畅快、笑口常开！",
+  "appreciation": "这是李白离开长安后的一声长啸。他把一场大梦写得惊心动魄：从月夜飞渡镜湖，到山腰看日出、半空闻天鸡，再到雷电轰鸣、石门洞开、仙人纷纷而下，想象一层比一层奇。梦醒后只剩枕席，于是悟出“古来万事东流水”，最后用“安能摧眉折腰事权贵”喊出全部骨气。全诗句式长短不拘、来去无踪，正配得上他不羁的想象，是李白浪漫主义的代表作。",
+  "background": "天宝三载（744），李白在长安遭受排挤，被“赐金放还”。次年（745），他将由东鲁南下吴越，临行前写下这首诗留别朋友，一题作“梦游天姥山别东鲁诸公”。诗人借一场梦游倾吐别情，也借梦境与现实的落差，表明自己不肯向权贵低头折腰的态度。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "梦游起程",
+      "text": "听说天姥山高接云天，李白夜里梦见自己飞渡镜湖来到剡溪。"
+    },
+    {
+      "step": 2,
+      "title": "攀上仙山",
+      "text": "他穿谢公木屐登上青云梯，山腰看日出，半空听天鸡。"
+    },
+    {
+      "step": 3,
+      "title": "仙境洞开",
+      "text": "忽然雷电大作，石门訇然打开，神仙们驾鸾乘车纷纷而来。"
+    },
+    {
+      "step": 4,
+      "title": "醒后长啸",
+      "text": "梦醒只剩枕席，他悟出万事如流水，立志不向权贵低头。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "姥",
+      "reading": "mǔ",
+      "reason": "“天姥山”的“姥”读 mǔ。",
+      "standard": "不要读成 lǎo"
+    },
+    {
+      "char": "剡",
+      "reading": "shàn",
+      "reason": "“剡溪”是浙江的水名，“剡”读 shàn。",
+      "standard": "不要读成 yǎn"
+    },
+    {
+      "char": "殷",
+      "reading": "yǐn",
+      "reason": "“殷岩泉”是泉水轰响震动的意思，“殷”读 yǐn。",
+      "standard": "不要读成 yīn"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》",
+    "《李太白集》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1207
+}

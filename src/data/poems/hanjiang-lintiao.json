@@ -1,0 +1,237 @@
+{
+  "id": "tang-shengtang-wangwei-hanjiang-lintiao",
+  "slug": "hanjiang-lintiao",
+  "title": "汉江临眺",
+  "titlePinyin": "hàn jiāng lín tiào",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "五言律诗",
+  "authorId": "wangwei",
+  "gradeBand": "ext",
+  "tags": [
+    "山水",
+    "五言律诗",
+    "长江",
+    "远眺"
+  ],
+  "difficulty": 3,
+  "writtenYear": 740,
+  "writtenLabel": "约公元 740 年（王维 39 岁，去南方主持选官路过襄阳，登城远眺汉江）",
+  "orderInAuthor": 3,
+  "famousLines": [
+    "江流天地外，山色有无中。"
+  ],
+  "lines": [
+    {
+      "text": "楚塞三湘接，",
+      "pinyin": [
+        "chǔ",
+        "sài",
+        "sān",
+        "xiāng",
+        "jiē"
+      ],
+      "translation": "楚地的边境和三湘大地连接在一起。",
+      "noteIds": [
+        "n-chusai",
+        "n-sanxiang"
+      ]
+    },
+    {
+      "text": "荆门九派通。",
+      "pinyin": [
+        "jīng",
+        "mén",
+        "jiǔ",
+        "pài",
+        "tōng"
+      ],
+      "translation": "荆门山下，长江的九条支流到处相通。",
+      "noteIds": [
+        "n-jiupai"
+      ]
+    },
+    {
+      "text": "江流天地外，",
+      "pinyin": [
+        "jiāng",
+        "liú",
+        "tiān",
+        "dì",
+        "wài"
+      ],
+      "translation": "江水滚滚流去，好像一直流到天地之外。",
+      "noteIds": []
+    },
+    {
+      "text": "山色有无中。",
+      "pinyin": [
+        "shān",
+        "sè",
+        "yǒu",
+        "wú",
+        "zhōng"
+      ],
+      "translation": "远处的山色时隐时现，若有若无。",
+      "noteIds": []
+    },
+    {
+      "text": "郡邑浮前浦，",
+      "pinyin": [
+        "jùn",
+        "yì",
+        "fú",
+        "qián",
+        "pǔ"
+      ],
+      "translation": "沿江的城镇好像漂浮在岸前的水边。",
+      "noteIds": [
+        "n-junyi",
+        "n-pu"
+      ]
+    },
+    {
+      "text": "波澜动远空。",
+      "pinyin": [
+        "bō",
+        "lán",
+        "dòng",
+        "yuǎn",
+        "kōng"
+      ],
+      "translation": "翻滚的波涛仿佛摇动着远处的天空。",
+      "noteIds": []
+    },
+    {
+      "text": "襄阳好风日，",
+      "pinyin": [
+        "xiāng",
+        "yáng",
+        "hǎo",
+        "fēng",
+        "rì"
+      ],
+      "translation": "襄阳的风光、天气这么美好。",
+      "noteIds": [
+        "n-fengri"
+      ]
+    },
+    {
+      "text": "留醉与山翁。",
+      "pinyin": [
+        "liú",
+        "zuì",
+        "yǔ",
+        "shān",
+        "wēng"
+      ],
+      "translation": "我真想留下来，和山翁那样的人一起畅饮一醉。",
+      "noteIds": [
+        "n-shanweng",
+        "n-yu"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-chusai",
+      "word": "楚塞",
+      "pinyin": "chǔ sài",
+      "meaning": "古代楚国的边境地带。"
+    },
+    {
+      "id": "n-sanxiang",
+      "word": "三湘",
+      "pinyin": "sān xiāng",
+      "meaning": "湘江流域一带，泛指今湖南地区。"
+    },
+    {
+      "id": "n-jiupai",
+      "word": "九派",
+      "pinyin": "jiǔ pài",
+      "meaning": "长江在湖北、江西一带分出的许多支流。"
+    },
+    {
+      "id": "n-junyi",
+      "word": "郡邑",
+      "pinyin": "jùn yì",
+      "meaning": "州城、城镇。"
+    },
+    {
+      "id": "n-pu",
+      "word": "浦",
+      "pinyin": "pǔ",
+      "meaning": "水边、河岸。"
+    },
+    {
+      "id": "n-fengri",
+      "word": "风日",
+      "pinyin": "fēng rì",
+      "meaning": "风光、好天气。"
+    },
+    {
+      "id": "n-shanweng",
+      "word": "山翁",
+      "pinyin": "shān wēng",
+      "meaning": "指晋代人山简，他镇守襄阳时常喝酒，这里借指当地爱喝酒的老人。"
+    },
+    {
+      "id": "n-yu",
+      "word": "与",
+      "pinyin": "yǔ",
+      "meaning": "跟、和。"
+    }
+  ],
+  "translation": "楚地的边境和三湘大地连成一片，荆门山下长江九条支流四处相通。江水滚滚流去，好像流到了天地之外；远处的山色时隐时现，若有若无。沿江的城镇好像漂浮在岸前的水边，翻滚的波涛仿佛摇动着远处的天空。襄阳的风光天气这么美好，我真想留下来，和山翁那样的人一起畅饮一醉。",
+  "appreciation": "这首诗写的是汉江的辽阔。诗人站在高处远望，江水仿佛流到天地外面去了，远山忽隐忽现，像蒙着一层薄纱。城镇像浮在水上，浪涛好像把天空都摇动了——诗人不说江有多大，却让你自己感觉出来。最后一句想留下来喝酒，把面对大好河山的欢喜写得又真实又洒脱。",
+  "background": "开元二十八年（740），王维以殿中侍御史的身份去南方主持选官事务，路过襄阳。他登上城头远眺，只见汉江浩浩荡荡奔流而去，便写下这首名作。这是他山水诗中气势最开阔的一首。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "登临远眺",
+      "text": "诗人登上襄阳城头，眺望汉江和远处的群山。"
+    },
+    {
+      "step": 2,
+      "title": "江连天地",
+      "text": "江水浩浩荡荡，好像一直流到天地之外。"
+    },
+    {
+      "step": 3,
+      "title": "山色朦胧",
+      "text": "远山忽隐忽现，城镇仿佛浮在水边，波涛摇动天空。"
+    },
+    {
+      "step": 4,
+      "title": "留醉襄阳",
+      "text": "风光这样美好，诗人想留下来与山翁一醉方休。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "塞",
+      "reading": "sài",
+      "reason": "“楚塞”指边界地带，读 sài。",
+      "standard": "不要读成 sāi 或 sè"
+    },
+    {
+      "char": "浦",
+      "reading": "pǔ",
+      "reason": "“浦”是水边的意思，读 pǔ。",
+      "standard": "不要读成 fǔ"
+    },
+    {
+      "char": "与",
+      "reading": "yǔ",
+      "reason": "“留醉与山翁”的“与”是“跟、和”的意思，读 yǔ。"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1046
+}

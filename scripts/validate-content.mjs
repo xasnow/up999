@@ -47,9 +47,10 @@ for (const d of dynasties) {
 }
 const dynastyIds = new Set(dynasties.map((d) => d.id));
 
-// ---------- 规则 1：slug 全站唯一、格式合法 ----------
+// ---------- 规则 1：slug 全站唯一、格式合法；全局编号 no 唯一 ----------
 const SLUG_RE = /^[a-z0-9-]+$/;
 const slugSeen = new Map();
+const noSeen = new Map();
 for (const { file, data: a } of authorFiles) {
   if (!SLUG_RE.test(a.slug ?? '')) err(file, `slug 非法：${a.slug}（仅允许 a-z 0-9 -）`);
   if (slugSeen.has(a.slug)) err(file, `slug 重复：${a.slug}（已在 ${slugSeen.get(a.slug)} 使用）`);
@@ -59,6 +60,13 @@ for (const { file, data: p } of poemFiles) {
   if (!SLUG_RE.test(p.slug ?? '')) err(file, `slug 非法：${p.slug}`);
   if (slugSeen.has(p.slug)) err(file, `slug 重复：${p.slug}（已在 ${slugSeen.get(p.slug)} 使用）`);
   slugSeen.set(p.slug, file);
+  if (typeof p.no !== 'number' || !Number.isInteger(p.no) || p.no <= 0) {
+    err(file, `缺少全局编号 no（跑 npm run manifest 回写）：${p.no}`);
+  } else if (noSeen.has(p.no)) {
+    err(file, `全局编号 no 重复：${p.no}（已被 ${noSeen.get(p.no)} 使用）`);
+  } else {
+    noSeen.set(p.no, file);
+  }
 }
 
 // ---------- 规则 2：引用完整性 ----------

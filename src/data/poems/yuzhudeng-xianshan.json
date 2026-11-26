@@ -1,0 +1,219 @@
+{
+  "id": "tang-shengtang-menghaoran-yuzhudeng-xianshan",
+  "slug": "yuzhudeng-xianshan",
+  "title": "与诸子登岘山",
+  "titlePinyin": "yǔ zhū zǐ dēng xiàn shān",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "五言律诗",
+  "authorId": "menghaoran",
+  "gradeBand": "ext",
+  "tags": [
+    "怀古",
+    "五言律诗",
+    "秋天",
+    "山水"
+  ],
+  "difficulty": 3,
+  "writtenYear": 732,
+  "writtenLabel": "约公元 732 年（孟浩然 44 岁，与朋友们登上襄阳岘山怀古）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "人事有代谢，往来成古今。"
+  ],
+  "lines": [
+    {
+      "text": "人事有代谢，",
+      "pinyin": [
+        "rén",
+        "shì",
+        "yǒu",
+        "dài",
+        "xiè"
+      ],
+      "translation": "人间的事总在更替变化，",
+      "noteIds": [
+        "n-daixie"
+      ]
+    },
+    {
+      "text": "往来成古今。",
+      "pinyin": [
+        "wǎng",
+        "lái",
+        "chéng",
+        "gǔ",
+        "jīn"
+      ],
+      "translation": "来来去去之间就分出了古和今。",
+      "noteIds": []
+    },
+    {
+      "text": "江山留胜迹，",
+      "pinyin": [
+        "jiāng",
+        "shān",
+        "liú",
+        "shèng",
+        "jì"
+      ],
+      "translation": "江山留下许多名胜古迹，",
+      "noteIds": [
+        "n-shengji"
+      ]
+    },
+    {
+      "text": "我辈复登临。",
+      "pinyin": [
+        "wǒ",
+        "bèi",
+        "fù",
+        "dēng",
+        "lín"
+      ],
+      "translation": "我们又来登临观赏。",
+      "noteIds": []
+    },
+    {
+      "text": "水落鱼梁浅，",
+      "pinyin": [
+        "shuǐ",
+        "luò",
+        "yú",
+        "liáng",
+        "qiǎn"
+      ],
+      "translation": "水位落下，鱼梁洲露出浅浅的滩，",
+      "noteIds": [
+        "n-yuliang"
+      ]
+    },
+    {
+      "text": "天寒梦泽深。",
+      "pinyin": [
+        "tiān",
+        "hán",
+        "mèng",
+        "zé",
+        "shēn"
+      ],
+      "translation": "天气寒冷，云梦泽显得幽深辽远。",
+      "noteIds": [
+        "n-mengze"
+      ]
+    },
+    {
+      "text": "羊公碑尚在，",
+      "pinyin": [
+        "yáng",
+        "gōng",
+        "bēi",
+        "shàng",
+        "zài"
+      ],
+      "translation": "羊公碑还立在这里，",
+      "noteIds": [
+        "n-yanggongbei"
+      ]
+    },
+    {
+      "text": "读罢泪沾襟。",
+      "pinyin": [
+        "dú",
+        "bà",
+        "lèi",
+        "zhān",
+        "jīn"
+      ],
+      "translation": "读着碑上的文字，泪水打湿了衣襟。",
+      "noteIds": [
+        "n-jin"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-daixie",
+      "word": "代谢",
+      "pinyin": "dài xiè",
+      "meaning": "更替变化。"
+    },
+    {
+      "id": "n-shengji",
+      "word": "胜迹",
+      "pinyin": "shèng jì",
+      "meaning": "有名的古迹。"
+    },
+    {
+      "id": "n-yuliang",
+      "word": "鱼梁",
+      "pinyin": "yú liáng",
+      "meaning": "鱼梁洲，汉水中的一块沙洲。"
+    },
+    {
+      "id": "n-mengze",
+      "word": "梦泽",
+      "pinyin": "mèng zé",
+      "meaning": "云梦泽，古代的大湖泽。"
+    },
+    {
+      "id": "n-yanggongbei",
+      "word": "羊公碑",
+      "pinyin": "yáng gōng bēi",
+      "meaning": "西晋名臣羊祜镇守襄阳时常登岘山，百姓感念他，为他立碑，人称“堕泪碑”。"
+    },
+    {
+      "id": "n-jin",
+      "word": "襟",
+      "pinyin": "jīn",
+      "meaning": "衣襟。"
+    }
+  ],
+  "translation": "人间的事总在更替变化，来来去去之间就分出了古和今。江山留下许多名胜古迹，我们又来登临观赏。水位落下，鱼梁洲露出浅浅的滩；天气寒冷，云梦泽显得幽深辽远。羊公碑还立在这里，读着碑上的文字，泪水打湿了衣襟。",
+  "appreciation": "开头两句像格言：人来人往，不知不觉就分出了古和今。登上岘山，看水落洲浅、天寒泽深，风景清冷旷远。想起羊祜当年也曾登此山，感叹古人早已不在；如今碑还立着，读罢却忍不住落泪——是替古人落泪，也是为自己还没成就功业而着急。",
+  "background": "岘山在襄阳城南，西晋名臣羊祜镇守襄阳时常来登山，感叹古人早已消逝，自己也会被时间忘掉。百姓感念羊祜，为他立了堕泪碑。孟浩然和几位朋友登上岘山，看到羊公碑，想起时光流逝、功业难成，写下这首怀古诗。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "人事代谢",
+      "text": "人间的事总是新旧更替，一来一往就分出了古今。"
+    },
+    {
+      "step": 2,
+      "title": "登临胜迹",
+      "text": "诗人与几位朋友登上岘山，观看江山留下的古迹。"
+    },
+    {
+      "step": 3,
+      "title": "水落天寒",
+      "text": "江水退落鱼梁洲变得浅了，天寒云梦泽显得深远。"
+    },
+    {
+      "step": 4,
+      "title": "读碑落泪",
+      "text": "羊公碑还立在山上，读罢碑上的文字，泪湿了衣襟。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "岘",
+      "reading": "xiàn",
+      "reason": "岘山在襄阳城南，山名“岘”读 xiàn。",
+      "standard": "不要读成 jiàn"
+    },
+    {
+      "char": "沾",
+      "reading": "zhān",
+      "reason": "“泪沾襟”的“沾”读 zhān，是浸湿的意思。",
+      "standard": "不要读成 zhàn"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1089
+}

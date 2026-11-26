@@ -1,0 +1,324 @@
+{
+  "id": "tang-shengtang-wangwei-qingxi",
+  "slug": "qingxi",
+  "title": "青溪",
+  "titlePinyin": "qīng xī",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "五言古诗",
+  "authorId": "wangwei",
+  "gradeBand": "ext",
+  "tags": [
+    "山水",
+    "五言古诗",
+    "溪水",
+    "菱荇"
+  ],
+  "difficulty": 3,
+  "writtenYear": 741,
+  "writtenLabel": "约公元 741 年（王维 40 岁前后，游历黄花川时写溪水景色）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "声喧乱石中，色静深松里。"
+  ],
+  "lines": [
+    {
+      "text": "言入黄花川，",
+      "pinyin": [
+        "yán",
+        "rù",
+        "huáng",
+        "huā",
+        "chuān"
+      ],
+      "translation": "我进入黄花川。",
+      "noteIds": [
+        "n-yan",
+        "n-huanghuachuan"
+      ]
+    },
+    {
+      "text": "每逐清溪水。",
+      "pinyin": [
+        "měi",
+        "zhú",
+        "qīng",
+        "xī",
+        "shuǐ"
+      ],
+      "translation": "常常沿着这条清溪一路行走。",
+      "noteIds": [
+        "n-zhu"
+      ]
+    },
+    {
+      "text": "随山将万转，",
+      "pinyin": [
+        "suí",
+        "shān",
+        "jiāng",
+        "wàn",
+        "zhuǎn"
+      ],
+      "translation": "溪水跟着山势千回万转。",
+      "noteIds": []
+    },
+    {
+      "text": "趣途无百里。",
+      "pinyin": [
+        "qù",
+        "tú",
+        "wú",
+        "bǎi",
+        "lǐ"
+      ],
+      "translation": "走完这一段路，却不到一百里。",
+      "noteIds": [
+        "n-qu"
+      ]
+    },
+    {
+      "text": "声喧乱石中，",
+      "pinyin": [
+        "shēng",
+        "xuān",
+        "luàn",
+        "shí",
+        "zhōng"
+      ],
+      "translation": "水流过乱石时，声音喧闹。",
+      "noteIds": [
+        "n-xuan"
+      ]
+    },
+    {
+      "text": "色静深松里。",
+      "pinyin": [
+        "sè",
+        "jìng",
+        "shēn",
+        "sōng",
+        "lǐ"
+      ],
+      "translation": "流进深松林里，颜色一片安静。",
+      "noteIds": []
+    },
+    {
+      "text": "漾漾泛菱荇，",
+      "pinyin": [
+        "yàng",
+        "yàng",
+        "fàn",
+        "líng",
+        "xìng"
+      ],
+      "translation": "水波轻轻荡漾，漂着菱角和荇菜。",
+      "noteIds": [
+        "n-yangyang",
+        "n-lingxing"
+      ]
+    },
+    {
+      "text": "澄澄映葭苇。",
+      "pinyin": [
+        "chéng",
+        "chéng",
+        "yìng",
+        "jiā",
+        "wěi"
+      ],
+      "translation": "清亮的水面映出岸边的芦苇。",
+      "noteIds": [
+        "n-chengcheng",
+        "n-jiawei"
+      ]
+    },
+    {
+      "text": "我心素已闲，",
+      "pinyin": [
+        "wǒ",
+        "xīn",
+        "sù",
+        "yǐ",
+        "xián"
+      ],
+      "translation": "我的心一向安闲。",
+      "noteIds": [
+        "n-su"
+      ]
+    },
+    {
+      "text": "清川澹如此。",
+      "pinyin": [
+        "qīng",
+        "chuān",
+        "dàn",
+        "rú",
+        "cǐ"
+      ],
+      "translation": "就像这清溪一样平静。",
+      "noteIds": [
+        "n-dan"
+      ]
+    },
+    {
+      "text": "请留盘石上，",
+      "pinyin": [
+        "qǐng",
+        "liú",
+        "pán",
+        "shí",
+        "shàng"
+      ],
+      "translation": "就让我留在这大石头上。",
+      "noteIds": [
+        "n-panshi"
+      ]
+    },
+    {
+      "text": "垂钓将已矣。",
+      "pinyin": [
+        "chuí",
+        "diào",
+        "jiāng",
+        "yǐ",
+        "yǐ"
+      ],
+      "translation": "在这里垂钓，就这样度过余生吧。",
+      "noteIds": [
+        "n-jiangyiyi"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-yan",
+      "word": "言",
+      "pinyin": "yán",
+      "meaning": "语气助词，没有实际意思。"
+    },
+    {
+      "id": "n-huanghuachuan",
+      "word": "黄花川",
+      "pinyin": "huáng huā chuān",
+      "meaning": "地名，在今陕西境内。"
+    },
+    {
+      "id": "n-zhu",
+      "word": "逐",
+      "pinyin": "zhú",
+      "meaning": "追随、沿着。"
+    },
+    {
+      "id": "n-qu",
+      "word": "趣",
+      "pinyin": "qū",
+      "meaning": "同“趋”，赶路、行进。"
+    },
+    {
+      "id": "n-xuan",
+      "word": "喧",
+      "pinyin": "xuān",
+      "meaning": "声音大而杂。"
+    },
+    {
+      "id": "n-yangyang",
+      "word": "漾漾",
+      "pinyin": "yàng yàng",
+      "meaning": "水波轻轻晃动的样子。"
+    },
+    {
+      "id": "n-lingxing",
+      "word": "菱荇",
+      "pinyin": "líng xìng",
+      "meaning": "菱角和荇菜，都是水里的植物。"
+    },
+    {
+      "id": "n-chengcheng",
+      "word": "澄澄",
+      "pinyin": "chéng chéng",
+      "meaning": "水清亮干净的样子。"
+    },
+    {
+      "id": "n-jiawei",
+      "word": "葭苇",
+      "pinyin": "jiā wěi",
+      "meaning": "芦苇。"
+    },
+    {
+      "id": "n-su",
+      "word": "素",
+      "pinyin": "sù",
+      "meaning": "平素、一向。"
+    },
+    {
+      "id": "n-dan",
+      "word": "澹",
+      "pinyin": "dàn",
+      "meaning": "安静、平静。"
+    },
+    {
+      "id": "n-panshi",
+      "word": "盘石",
+      "pinyin": "pán shí",
+      "meaning": "大石头。"
+    },
+    {
+      "id": "n-jiangyiyi",
+      "word": "将已矣",
+      "pinyin": "jiāng yǐ yǐ",
+      "meaning": "就这样算了，指从此垂钓度日、终老于此。"
+    }
+  ],
+  "translation": "我进入黄花川，常常沿着这条清溪一路行走。溪水跟着山势千回万转，走完这一段路却不到一百里。水流过乱石时声音喧闹，流进深松林里颜色一片安静。水波轻轻荡漾，漂着菱角和荇菜；清亮的水面映出岸边的芦苇。我的心一向安闲，就像这清溪一样平静。就让我留在这大石头上，在这里垂钓，度过余生吧。",
+  "appreciation": "一条小溪，诗人写出了它的两种脾气：在乱石里喧哗，在松林里安静；水动时漾着菱荇，水清时照见芦苇。一动一静，像会呼吸一样。最后诗人说想留下来钓鱼，其实是说：这条溪的平静，正是我心里想要的日子。景和心融在一起，读着读着心也静了。",
+  "background": "青溪在今陕西境内，王维游历途中曾沿着它行走。溪水随山势转弯，一路上时闹时静，诗人把见到的景色和自己安闲的心境写在了一起。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "逐溪而行",
+      "text": "诗人走进黄花川，沿着清清的溪水一路散步。"
+    },
+    {
+      "step": 2,
+      "title": "万转百里",
+      "text": "溪水随山势千回万转，走完这段路却不到百里。"
+    },
+    {
+      "step": 3,
+      "title": "闹静相间",
+      "text": "乱石中水声喧哗，深松林里溪色一片安静。"
+    },
+    {
+      "step": 4,
+      "title": "石上垂钓",
+      "text": "诗人想留在大石头上垂钓，悠闲地度过一生。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "趣",
+      "reading": "qū",
+      "reason": "“趣途”里“趣”同“趋”，是赶路的意思，读 qū。",
+      "standard": "不要读成 qù"
+    },
+    {
+      "char": "荇",
+      "reading": "xìng",
+      "reason": "“荇”是水生植物，“菱荇”读 líng xìng。"
+    },
+    {
+      "char": "澹",
+      "reading": "dàn",
+      "reason": "“澹”是水面安静的意思，读 dàn。"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1173
+}

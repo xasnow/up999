@@ -1,0 +1,521 @@
+{
+  "id": "tang-shengtang-libai-jiangjinjiu",
+  "slug": "jiangjinjiu",
+  "title": "将进酒",
+  "titlePinyin": "qiāng jìn jiǔ",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "杂言乐府",
+  "authorId": "libai",
+  "gradeBand": "ext",
+  "tags": [
+    "哲理",
+    "友情",
+    "黄河",
+    "杂言乐府"
+  ],
+  "difficulty": 3,
+  "writtenYear": 752,
+  "writtenLabel": "约公元 752 年（李白 51 岁，与友人岑勋、元丹丘在嵩山宴饮时所作）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "天生我材必有用，千金散尽还复来。",
+    "君不见黄河之水天上来，奔流到海不复回。"
+  ],
+  "lines": [
+    {
+      "text": "君不见黄河之水天上来，",
+      "pinyin": [
+        "jūn",
+        "bú",
+        "jiàn",
+        "huáng",
+        "hé",
+        "zhī",
+        "shuǐ",
+        "tiān",
+        "shàng",
+        "lái"
+      ],
+      "translation": "你难道没看见，黄河的水从天上来，",
+      "noteIds": []
+    },
+    {
+      "text": "奔流到海不复回。",
+      "pinyin": [
+        "bēn",
+        "liú",
+        "dào",
+        "hǎi",
+        "bú",
+        "fù",
+        "huí"
+      ],
+      "translation": "奔流入海，再也不回头。",
+      "noteIds": []
+    },
+    {
+      "text": "君不见高堂明镜悲白发，",
+      "pinyin": [
+        "jūn",
+        "bú",
+        "jiàn",
+        "gāo",
+        "táng",
+        "míng",
+        "jìng",
+        "bēi",
+        "bái",
+        "fà"
+      ],
+      "translation": "你难道没看见，高堂上对镜自照，为满头白发而悲伤，",
+      "noteIds": []
+    },
+    {
+      "text": "朝如青丝暮成雪。",
+      "pinyin": [
+        "zhāo",
+        "rú",
+        "qīng",
+        "sī",
+        "mù",
+        "chéng",
+        "xuě"
+      ],
+      "translation": "早晨还像黑丝，傍晚就变得像雪一样白。",
+      "noteIds": []
+    },
+    {
+      "text": "人生得意须尽欢，",
+      "pinyin": [
+        "rén",
+        "shēng",
+        "dé",
+        "yì",
+        "xū",
+        "jìn",
+        "huān"
+      ],
+      "translation": "人生得意的时刻，就要尽情欢乐，",
+      "noteIds": []
+    },
+    {
+      "text": "莫使金樽空对月。",
+      "pinyin": [
+        "mò",
+        "shǐ",
+        "jīn",
+        "zūn",
+        "kōng",
+        "duì",
+        "yuè"
+      ],
+      "translation": "别让金杯空空地对着明月。",
+      "noteIds": [
+        "n-zun"
+      ]
+    },
+    {
+      "text": "天生我材必有用，",
+      "pinyin": [
+        "tiān",
+        "shēng",
+        "wǒ",
+        "cái",
+        "bì",
+        "yǒu",
+        "yòng"
+      ],
+      "translation": "上天生下我，这才华必定有用处，",
+      "noteIds": []
+    },
+    {
+      "text": "千金散尽还复来。",
+      "pinyin": [
+        "qiān",
+        "jīn",
+        "sàn",
+        "jìn",
+        "huán",
+        "fù",
+        "lái"
+      ],
+      "translation": "千金花光了，还会再回来。",
+      "noteIds": [
+        "n-sanjin"
+      ]
+    },
+    {
+      "text": "烹羊宰牛且为乐，",
+      "pinyin": [
+        "pēng",
+        "yáng",
+        "zǎi",
+        "niú",
+        "qiě",
+        "wéi",
+        "lè"
+      ],
+      "translation": "煮羊宰牛，暂且尽情欢乐，",
+      "noteIds": []
+    },
+    {
+      "text": "会须一饮三百杯。",
+      "pinyin": [
+        "huì",
+        "xū",
+        "yì",
+        "yǐn",
+        "sān",
+        "bǎi",
+        "bēi"
+      ],
+      "translation": "要喝就痛快地喝上三百杯。",
+      "noteIds": [
+        "n-huisu"
+      ]
+    },
+    {
+      "text": "岑夫子，丹丘生，",
+      "pinyin": [
+        "cén",
+        "fū",
+        "zǐ",
+        "dān",
+        "qiū",
+        "shēng"
+      ],
+      "translation": "岑夫子，丹丘生，",
+      "noteIds": [
+        "n-cenfuzi"
+      ]
+    },
+    {
+      "text": "将进酒，杯莫停。",
+      "pinyin": [
+        "qiāng",
+        "jìn",
+        "jiǔ",
+        "bēi",
+        "mò",
+        "tíng"
+      ],
+      "translation": "请喝酒，杯子别停下。",
+      "noteIds": []
+    },
+    {
+      "text": "与君歌一曲，",
+      "pinyin": [
+        "yǔ",
+        "jūn",
+        "gē",
+        "yì",
+        "qǔ"
+      ],
+      "translation": "我为你们唱一首歌，",
+      "noteIds": []
+    },
+    {
+      "text": "请君为我倾耳听。",
+      "pinyin": [
+        "qǐng",
+        "jūn",
+        "wèi",
+        "wǒ",
+        "qīng",
+        "ěr",
+        "tīng"
+      ],
+      "translation": "请你们侧耳为我倾听。",
+      "noteIds": []
+    },
+    {
+      "text": "钟鼓馔玉不足贵，",
+      "pinyin": [
+        "zhōng",
+        "gǔ",
+        "zhuàn",
+        "yù",
+        "bù",
+        "zú",
+        "guì"
+      ],
+      "translation": "鸣钟奏乐、美食如玉的富贵生活，不值得羡慕，",
+      "noteIds": [
+        "n-zhuanyu"
+      ]
+    },
+    {
+      "text": "但愿长醉不复醒。",
+      "pinyin": [
+        "dàn",
+        "yuàn",
+        "cháng",
+        "zuì",
+        "bú",
+        "fù",
+        "xǐng"
+      ],
+      "translation": "只愿长醉，不再醒来。",
+      "noteIds": []
+    },
+    {
+      "text": "古来圣贤皆寂寞，",
+      "pinyin": [
+        "gǔ",
+        "lái",
+        "shèng",
+        "xián",
+        "jiē",
+        "jì",
+        "mò"
+      ],
+      "translation": "自古圣贤都冷落寂寞，",
+      "noteIds": []
+    },
+    {
+      "text": "惟有饮者留其名。",
+      "pinyin": [
+        "wéi",
+        "yǒu",
+        "yǐn",
+        "zhě",
+        "liú",
+        "qí",
+        "míng"
+      ],
+      "translation": "只有豪饮的人留下了名声。",
+      "noteIds": []
+    },
+    {
+      "text": "陈王昔时宴平乐，",
+      "pinyin": [
+        "chén",
+        "wáng",
+        "xī",
+        "shí",
+        "yàn",
+        "pián",
+        "lè"
+      ],
+      "translation": "陈王曹植当年在平乐观设宴，",
+      "noteIds": [
+        "n-chenwang",
+        "n-pingle"
+      ]
+    },
+    {
+      "text": "斗酒十千恣欢谑。",
+      "pinyin": [
+        "dǒu",
+        "jiǔ",
+        "shí",
+        "qiān",
+        "zì",
+        "huān",
+        "xuè"
+      ],
+      "translation": "一斗酒值十千钱，也照样纵情欢乐。",
+      "noteIds": [
+        "n-huanxue"
+      ]
+    },
+    {
+      "text": "主人何为言少钱，",
+      "pinyin": [
+        "zhǔ",
+        "rén",
+        "hé",
+        "wèi",
+        "yán",
+        "shǎo",
+        "qián"
+      ],
+      "translation": "主人何必说钱不够，",
+      "noteIds": []
+    },
+    {
+      "text": "径须沽取对君酌。",
+      "pinyin": [
+        "jìng",
+        "xū",
+        "gū",
+        "qǔ",
+        "duì",
+        "jūn",
+        "zhuó"
+      ],
+      "translation": "只管买酒来，和你们对饮。",
+      "noteIds": [
+        "n-jingxu"
+      ]
+    },
+    {
+      "text": "五花马，千金裘，",
+      "pinyin": [
+        "wǔ",
+        "huā",
+        "mǎ",
+        "qiān",
+        "jīn",
+        "qiú"
+      ],
+      "translation": "名贵的五花马，值千金的皮裘，",
+      "noteIds": [
+        "n-wuhua"
+      ]
+    },
+    {
+      "text": "呼儿将出换美酒，",
+      "pinyin": [
+        "hū",
+        "ér",
+        "jiāng",
+        "chū",
+        "huàn",
+        "měi",
+        "jiǔ"
+      ],
+      "translation": "叫孩子统统拿去换美酒，",
+      "noteIds": [
+        "n-jiangchu"
+      ]
+    },
+    {
+      "text": "与尔同销万古愁。",
+      "pinyin": [
+        "yǔ",
+        "ěr",
+        "tóng",
+        "xiāo",
+        "wàn",
+        "gǔ",
+        "chóu"
+      ],
+      "translation": "和你们一起消掉这万古的愁绪。",
+      "noteIds": []
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-zun",
+      "word": "樽",
+      "pinyin": "zūn",
+      "meaning": "古代盛酒的杯子。"
+    },
+    {
+      "id": "n-sanjin",
+      "word": "散尽",
+      "pinyin": "sàn jìn",
+      "meaning": "全部花光。散，撒开、花掉。"
+    },
+    {
+      "id": "n-huisu",
+      "word": "会须",
+      "pinyin": "huì xū",
+      "meaning": "应当、一定要。"
+    },
+    {
+      "id": "n-cenfuzi",
+      "word": "岑夫子",
+      "pinyin": "cén fū zǐ",
+      "meaning": "指李白的朋友岑勋；丹丘生指隐士元丹丘。夫子、生都是对朋友的称呼。"
+    },
+    {
+      "id": "n-zhuanyu",
+      "word": "钟鼓馔玉",
+      "pinyin": "zhōng gǔ zhuàn yù",
+      "meaning": "指富贵人家鸣钟奏乐、享用精美食物的生活。馔，食物。"
+    },
+    {
+      "id": "n-chenwang",
+      "word": "陈王",
+      "pinyin": "chén wáng",
+      "meaning": "曹植，曹操的儿子，才华横溢却不得志，被封为陈王。"
+    },
+    {
+      "id": "n-pingle",
+      "word": "平乐",
+      "pinyin": "pián lè",
+      "meaning": "平乐观，汉代宫观名，在洛阳附近。"
+    },
+    {
+      "id": "n-huanxue",
+      "word": "恣欢谑",
+      "pinyin": "zì huān xuè",
+      "meaning": "纵情地欢乐戏谑。恣，放纵；谑，玩笑。"
+    },
+    {
+      "id": "n-jingxu",
+      "word": "径须",
+      "pinyin": "jìng xū",
+      "meaning": "只管、尽管。沽，买。"
+    },
+    {
+      "id": "n-wuhua",
+      "word": "五花马",
+      "pinyin": "wǔ huā mǎ",
+      "meaning": "毛色剪成五瓣花纹的名贵马。裘，皮衣。"
+    },
+    {
+      "id": "n-jiangchu",
+      "word": "将出",
+      "pinyin": "jiāng chū",
+      "meaning": "拿出去。将，拿、取。"
+    }
+  ],
+  "translation": "你难道没看见，黄河的水从天上来，奔流入海再不回头？你难道没看见，高堂上对镜自照，为白发而悲伤，早晨还像黑丝，傍晚就白得像雪？人生得意就要尽情欢乐，别让金杯空对明月。天生我材必有用，千金散尽还会回来。煮羊宰牛暂且欢乐，要喝就喝上三百杯。岑夫子，丹丘生，请喝酒，杯莫停。我为你们唱一首歌，请你们倾耳细听：鸣钟奏乐、美食如玉的富贵不值得羡慕，只愿长醉不再醒。自古圣贤都寂寞，只有饮者留名。陈王曹植当年在平乐观设宴，一斗十千照样纵情欢乐。主人何必说钱少，只管买酒来对饮。五花马、千金裘，叫孩子拿去换美酒，和你们一起消掉万古愁。",
+  "appreciation": "开篇两组排比像大河奔来：黄河从天上来，一去不回；人生朝暮之间就白了头。时间的紧迫感逼出“得意须尽欢”的豪饮。可豪放之中处处是痛：“天生我材必有用”是失意者的自我打气，“圣贤皆寂寞”是不平的反话。全诗大起大落，句式忽长忽短，像喝了酒说话，越说越痛快，最后“与尔同销万古愁”收束，豪情与悲愤一起倾泻而出。",
+  "background": "约公元 752 年，李白离开长安后漫游各地，与友人岑勋、隐士元丹丘在嵩山相聚宴饮。此时他求仕失败已有多年，满腹才气无处施展，借酒抒怀，写下这首《将进酒》。“将进酒”是乐府旧题，将，意为“请”。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "黄河奔来",
+      "text": "抬头望大河之水天上来，奔流入海不回头。"
+    },
+    {
+      "step": 2,
+      "title": "朝丝暮雪",
+      "text": "对镜悲叹，早晨的黑发傍晚就白得像雪。"
+    },
+    {
+      "step": 3,
+      "title": "劝酒高歌",
+      "text": "他招呼岑夫子、丹丘生：请进酒，杯莫停，听我唱一曲。"
+    },
+    {
+      "step": 4,
+      "title": "换酒销愁",
+      "text": "五花马、千金裘都拿去换酒，与朋友同销万古愁。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "将",
+      "reading": "qiāng",
+      "reason": "诗题“将进酒”和诗中“将进酒，杯莫停”的“将”是“请”的意思，读 qiāng；而“呼儿将出”的“将”是“拿”的意思，读 jiāng。",
+      "standard": "题目不要读成 jiāng jìn jiǔ"
+    },
+    {
+      "char": "馔",
+      "reading": "zhuàn",
+      "reason": "“钟鼓馔玉”的“馔”指食物，读 zhuàn。",
+      "standard": "不要读成 zàn 或 zuàn"
+    },
+    {
+      "char": "平",
+      "reading": "pián",
+      "reason": "“宴平乐”的“平乐”指宫观名“平乐观”，读 pián lè。",
+      "standard": "不要读成 píng"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》",
+    "《李太白集》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1239
+}

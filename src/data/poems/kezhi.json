@@ -1,0 +1,232 @@
+{
+  "id": "tang-shengtang-dufu-kezhi",
+  "slug": "kezhi",
+  "title": "客至",
+  "titlePinyin": "kè zhì",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "七言律诗",
+  "authorId": "dufu",
+  "gradeBand": "ext",
+  "tags": [
+    "友情",
+    "春天",
+    "春水",
+    "七言律诗"
+  ],
+  "difficulty": 3,
+  "writtenYear": 761,
+  "writtenLabel": "公元 761 年（杜甫 49 岁，客至成都草堂）",
+  "orderInAuthor": 4,
+  "famousLines": [
+    "花径不曾缘客扫，蓬门今始为君开。"
+  ],
+  "lines": [
+    {
+      "text": "舍南舍北皆春水，",
+      "pinyin": [
+        "shè",
+        "nán",
+        "shè",
+        "běi",
+        "jiē",
+        "chūn",
+        "shuǐ"
+      ],
+      "translation": "草堂的南北都是春水，",
+      "noteIds": []
+    },
+    {
+      "text": "但见群鸥日日来。",
+      "pinyin": [
+        "dàn",
+        "jiàn",
+        "qún",
+        "ōu",
+        "rì",
+        "rì",
+        "lái"
+      ],
+      "translation": "只见一群群鸥鸟天天飞来。",
+      "noteIds": []
+    },
+    {
+      "text": "花径不曾缘客扫，",
+      "pinyin": [
+        "huā",
+        "jìng",
+        "bù",
+        "céng",
+        "yuán",
+        "kè",
+        "sǎo"
+      ],
+      "translation": "开满花的小路，不曾为客人扫过，",
+      "noteIds": []
+    },
+    {
+      "text": "蓬门今始为君开。",
+      "pinyin": [
+        "péng",
+        "mén",
+        "jīn",
+        "shǐ",
+        "wèi",
+        "jūn",
+        "kāi"
+      ],
+      "translation": "简陋的柴门，今天第一次为您打开。",
+      "noteIds": [
+        "n-pengmen"
+      ]
+    },
+    {
+      "text": "盘飧市远无兼味，",
+      "pinyin": [
+        "pán",
+        "sūn",
+        "shì",
+        "yuǎn",
+        "wú",
+        "jiān",
+        "wèi"
+      ],
+      "translation": "离集市远，盘里的菜没有几样，",
+      "noteIds": [
+        "n-pansun",
+        "n-jianwei"
+      ]
+    },
+    {
+      "text": "樽酒家贫只旧醅。",
+      "pinyin": [
+        "zūn",
+        "jiǔ",
+        "jiā",
+        "pín",
+        "zhǐ",
+        "jiù",
+        "pēi"
+      ],
+      "translation": "家境清贫，杯里只有自酿的浊酒。",
+      "noteIds": [
+        "n-jiupei"
+      ]
+    },
+    {
+      "text": "肯与邻翁相对饮，",
+      "pinyin": [
+        "kěn",
+        "yǔ",
+        "lín",
+        "wēng",
+        "xiāng",
+        "duì",
+        "yǐn"
+      ],
+      "translation": "您要是肯和隔壁的老翁一起喝一杯，",
+      "noteIds": []
+    },
+    {
+      "text": "隔篱呼取尽余杯。",
+      "pinyin": [
+        "gé",
+        "lí",
+        "hū",
+        "qǔ",
+        "jìn",
+        "yú",
+        "bēi"
+      ],
+      "translation": "我就隔着篱笆喊他过来，咱们干杯尽兴。",
+      "noteIds": [
+        "n-huqu"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-pengmen",
+      "word": "蓬门",
+      "pinyin": "péng mén",
+      "meaning": "用蓬草编成的门，指简陋的家。"
+    },
+    {
+      "id": "n-pansun",
+      "word": "盘飧",
+      "pinyin": "pán sūn",
+      "meaning": "盘中的饭菜。"
+    },
+    {
+      "id": "n-jianwei",
+      "word": "兼味",
+      "pinyin": "jiān wèi",
+      "meaning": "好几样的菜。"
+    },
+    {
+      "id": "n-jiupei",
+      "word": "旧醅",
+      "pinyin": "jiù pēi",
+      "meaning": "没有经过过滤的家酿浊酒。"
+    },
+    {
+      "id": "n-huqu",
+      "word": "呼取",
+      "pinyin": "hū qǔ",
+      "meaning": "呼叫，叫来。"
+    }
+  ],
+  "translation": "草堂的南北都是春水，只见一群群鸥鸟天天飞来。开满花的小路，不曾为客人扫过，简陋的柴门，今天第一次为您打开。离集市远，盘里的菜没有几样，家境清贫，杯里只有自酿的浊酒。您要是肯和隔壁的老翁一起喝一杯，我就隔着篱笆喊他过来，咱们干杯尽兴。",
+  "appreciation": "全诗像一场朴素的迎客戏：先写门前春水、日日来访的鸥鸟，说明平时安静少客；再写扫花径、开柴门，把欢迎写得郑重又欢喜。菜少酒薄，句句是道歉，句句是真心。结尾隔着篱笆喊邻居来陪酒，热闹一下子到了眼前。朋友的情分，比菜更丰盛。",
+  "background": "公元761年春天，杜甫住在成都草堂。朋友崔明府远道来访，杜甫很高兴。家门口春水环绕、鸥鸟成群，他把迎接朋友、招呼酒饭的过程写成这首诗，题目就叫《客至》，像一份写给朋友的请柬。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "春水鸥鸟",
+      "text": "草堂四周春水环绕，只见群鸥日日飞来。"
+    },
+    {
+      "step": 2,
+      "title": "花径柴门",
+      "text": "听说客人来了，扫花径、开柴门迎接。"
+    },
+    {
+      "step": 3,
+      "title": "粗茶淡饭",
+      "text": "离市远菜简单，家贫只有浊酒待客。"
+    },
+    {
+      "step": 4,
+      "title": "隔篱邀翁",
+      "text": "客人若肯，就隔着篱笆喊邻翁同来干杯。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "飧",
+      "reading": "sūn",
+      "reason": "“盘飧”指盘中的饭菜，“飧”读 sūn。",
+      "standard": "不要读成 cān"
+    },
+    {
+      "char": "醅",
+      "reading": "pēi",
+      "reason": "“旧醅”是自家酿的浊酒，“醅”读 pēi。",
+      "standard": "不要读成 pē"
+    },
+    {
+      "char": "为",
+      "reading": "wèi",
+      "reason": "“今始为君开”是专为你而开，“为”读 wèi。",
+      "standard": "不要读成 wéi"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1147
+}

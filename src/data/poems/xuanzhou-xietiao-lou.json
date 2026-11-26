@@ -1,0 +1,357 @@
+{
+  "id": "tang-shengtang-libai-xuanzhou-xietiao-lou",
+  "slug": "xuanzhou-xietiao-lou",
+  "title": "宣州谢朓楼饯别校书叔云",
+  "titlePinyin": "xuān zhōu xiè tiǎo lóu jiàn bié jiào shū shū yún",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "七言古诗",
+  "authorId": "libai",
+  "gradeBand": "ext",
+  "tags": [
+    "送别",
+    "七言古诗",
+    "秋雁",
+    "明月"
+  ],
+  "difficulty": 3,
+  "writtenYear": 753,
+  "writtenLabel": "约公元 753 年（李白 53 岁，漫游宣城，在谢朓楼为族叔李云饯行）",
+  "orderInAuthor": 8,
+  "famousLines": [
+    "抽刀断水水更流，举杯销愁愁更愁。",
+    "长风万里送秋雁，对此可以酣高楼。"
+  ],
+  "lines": [
+    {
+      "text": "弃我去者，",
+      "pinyin": [
+        "qì",
+        "wǒ",
+        "qù",
+        "zhě"
+      ],
+      "translation": "抛下我而去的，",
+      "noteIds": []
+    },
+    {
+      "text": "昨日之日不可留。",
+      "pinyin": [
+        "zuó",
+        "rì",
+        "zhī",
+        "rì",
+        "bù",
+        "kě",
+        "liú"
+      ],
+      "translation": "是昨天的日子，它再也留不住了。",
+      "noteIds": []
+    },
+    {
+      "text": "乱我心者，",
+      "pinyin": [
+        "luàn",
+        "wǒ",
+        "xīn",
+        "zhě"
+      ],
+      "translation": "让我心烦意乱的，",
+      "noteIds": []
+    },
+    {
+      "text": "今日之日多烦忧。",
+      "pinyin": [
+        "jīn",
+        "rì",
+        "zhī",
+        "rì",
+        "duō",
+        "fán",
+        "yōu"
+      ],
+      "translation": "是今天的日子，充满烦恼和忧愁。",
+      "noteIds": []
+    },
+    {
+      "text": "长风万里送秋雁，",
+      "pinyin": [
+        "cháng",
+        "fēng",
+        "wàn",
+        "lǐ",
+        "sòng",
+        "qiū",
+        "yàn"
+      ],
+      "translation": "万里长风送来秋天的鸿雁，",
+      "noteIds": []
+    },
+    {
+      "text": "对此可以酣高楼。",
+      "pinyin": [
+        "duì",
+        "cǐ",
+        "kě",
+        "yǐ",
+        "hān",
+        "gāo",
+        "lóu"
+      ],
+      "translation": "面对这景色，正好在高楼上畅快地饮酒。",
+      "noteIds": [
+        "n-han"
+      ]
+    },
+    {
+      "text": "蓬莱文章建安骨，",
+      "pinyin": [
+        "péng",
+        "lái",
+        "wén",
+        "zhāng",
+        "jiàn",
+        "ān",
+        "gǔ"
+      ],
+      "translation": "你的文章像汉代蓬莱的文章，有建安时代刚健的风骨，",
+      "noteIds": [
+        "n-penglai",
+        "n-jianangu"
+      ]
+    },
+    {
+      "text": "中间小谢又清发。",
+      "pinyin": [
+        "zhōng",
+        "jiān",
+        "xiǎo",
+        "xiè",
+        "yòu",
+        "qīng",
+        "fā"
+      ],
+      "translation": "中间的小谢谢朓，诗又写得清新秀发。",
+      "noteIds": [
+        "n-xiaoxie",
+        "n-qingfa"
+      ]
+    },
+    {
+      "text": "俱怀逸兴壮思飞，",
+      "pinyin": [
+        "jù",
+        "huái",
+        "yì",
+        "xìng",
+        "zhuàng",
+        "sī",
+        "fēi"
+      ],
+      "translation": "我们俩都怀着超逸的兴致和豪壮的思绪，想要飞翔，",
+      "noteIds": [
+        "n-yixing"
+      ]
+    },
+    {
+      "text": "欲上青天揽明月。",
+      "pinyin": [
+        "yù",
+        "shàng",
+        "qīng",
+        "tiān",
+        "lǎn",
+        "míng",
+        "yuè"
+      ],
+      "translation": "想飞上青天，把明月摘下来。",
+      "noteIds": [
+        "n-lan"
+      ]
+    },
+    {
+      "text": "抽刀断水水更流，",
+      "pinyin": [
+        "chōu",
+        "dāo",
+        "duàn",
+        "shuǐ",
+        "shuǐ",
+        "gèng",
+        "liú"
+      ],
+      "translation": "抽出刀来砍断流水，水反而流得更急，",
+      "noteIds": []
+    },
+    {
+      "text": "举杯销愁愁更愁。",
+      "pinyin": [
+        "jǔ",
+        "bēi",
+        "xiāo",
+        "chóu",
+        "chóu",
+        "gèng",
+        "chóu"
+      ],
+      "translation": "举起酒杯想消掉愁绪，愁反而变得更愁。",
+      "noteIds": [
+        "n-xiao"
+      ]
+    },
+    {
+      "text": "人生在世不称意，",
+      "pinyin": [
+        "rén",
+        "shēng",
+        "zài",
+        "shì",
+        "bù",
+        "chèn",
+        "yì"
+      ],
+      "translation": "人生在世，如果不能称心如意，",
+      "noteIds": [
+        "n-chengyi"
+      ]
+    },
+    {
+      "text": "明朝散发弄扁舟。",
+      "pinyin": [
+        "míng",
+        "zhāo",
+        "sàn",
+        "fà",
+        "nòng",
+        "piān",
+        "zhōu"
+      ],
+      "translation": "不如明天早晨披散了头发，驾一叶小船漂游江湖去。",
+      "noteIds": [
+        "n-santoufa",
+        "n-pianzhou"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-han",
+      "word": "酣",
+      "pinyin": "hān",
+      "meaning": "畅快地喝酒。"
+    },
+    {
+      "id": "n-penglai",
+      "word": "蓬莱文章",
+      "pinyin": "péng lái wén zhāng",
+      "meaning": "东汉时人们把皇家藏书的地方叫“蓬莱”，这里指汉代的文章。"
+    },
+    {
+      "id": "n-jianangu",
+      "word": "建安骨",
+      "pinyin": "jiàn ān gǔ",
+      "meaning": "建安时期曹操父子和“建安七子”刚健有力的诗文风格，叫“建安风骨”。"
+    },
+    {
+      "id": "n-xiaoxie",
+      "word": "小谢",
+      "pinyin": "xiǎo xiè",
+      "meaning": "南朝诗人谢朓，与“大谢”谢灵运相对，谢朓楼正是他任宣城太守时建的。"
+    },
+    {
+      "id": "n-qingfa",
+      "word": "清发",
+      "pinyin": "qīng fā",
+      "meaning": "清新秀发，指诗风清新俊逸。"
+    },
+    {
+      "id": "n-yixing",
+      "word": "逸兴",
+      "pinyin": "yì xìng",
+      "meaning": "超逸豪放的兴致。"
+    },
+    {
+      "id": "n-lan",
+      "word": "揽",
+      "pinyin": "lǎn",
+      "meaning": "摘取、采揽。"
+    },
+    {
+      "id": "n-xiao",
+      "word": "销",
+      "pinyin": "xiāo",
+      "meaning": "消除、消解。"
+    },
+    {
+      "id": "n-chengyi",
+      "word": "称意",
+      "pinyin": "chèn yì",
+      "meaning": "称心如意。"
+    },
+    {
+      "id": "n-santoufa",
+      "word": "散发",
+      "pinyin": "sàn fà",
+      "meaning": "披散头发，不加束冠，指摆脱拘束、放浪不羁。"
+    },
+    {
+      "id": "n-pianzhou",
+      "word": "扁舟",
+      "pinyin": "piān zhōu",
+      "meaning": "小船。"
+    }
+  ],
+  "translation": "抛下我而去的，是昨天的日子，它再也留不住了；让我心烦意乱的，是今天的日子，充满烦恼和忧愁。万里长风送来秋天的鸿雁，面对这景色，正好在高楼上畅快地饮酒。你的文章像汉代蓬莱的文章，有建安时代刚健的风骨；中间的小谢谢朓，诗又写得清新秀发。我们俩都怀着超逸的兴致和豪壮的思绪，想要飞翔，想飞上青天把明月摘下来。抽出刀来砍断流水，水反而流得更急；举起酒杯想消掉愁绪，愁反而变得更愁。人生在世，如果不能称心如意，不如明天早晨披散了头发，驾一叶小船漂游江湖去。",
+  "appreciation": "这首饯别诗跳过寻常的叙别套路，劈头两句就用重叠的“昨日”“今日”，把时光飞逝、烦忧难解的感觉一下子推到眼前。中间忽而畅饮高楼，忽而要摘明月，豪气冲天；接着“抽刀断水”一联，用斩不断、销不掉的比喻，写尽愁绪的连绵。末了“散发弄扁舟”，是失意后的决绝，也是李白的洒脱。全诗大起大落，如江河奔流，是李白七古的名篇。",
+  "background": "天宝十二载（753）前后，李白在宣城一带漫游。谢朓楼是南朝诗人谢朓任宣城太守时建造的名楼，李白在这里设宴，为即将离别的族叔、秘书省校书郎李云送行。他离开长安多年，抱负无处施展，借这顿饯别的酒，抒发了怀才不遇的烦忧。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "高楼饯别",
+      "text": "宣州谢朓楼上，李白设酒为族叔校书郎李云送行。"
+    },
+    {
+      "step": 2,
+      "title": "望雁畅饮",
+      "text": "长风万里送来秋雁，两人对景豪饮，谈诗论文兴致正高。"
+    },
+    {
+      "step": 3,
+      "title": "断水消愁",
+      "text": "想摘明月而不得，抽刀断水水更流，愁绪越销越浓。"
+    },
+    {
+      "step": 4,
+      "title": "弄舟江湖",
+      "text": "人生既然不称意，不如明朝披发驾扁舟，浪迹五湖。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "称",
+      "reading": "chèn",
+      "reason": "“不称意”是称心的意思，“称”读 chèn。",
+      "standard": "不要读成 chēng"
+    },
+    {
+      "char": "散",
+      "reading": "sàn",
+      "reason": "“散发”是披散头发的意思，读 sàn。",
+      "standard": "不要读成 sǎn"
+    },
+    {
+      "char": "扁",
+      "reading": "piān",
+      "reason": "“扁舟”是小船的意思，“扁”读 piān。",
+      "standard": "不要读成 biǎn"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1205
+}

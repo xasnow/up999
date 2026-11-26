@@ -1,0 +1,239 @@
+{
+  "id": "tang-shengtang-dufu-geye",
+  "slug": "geye",
+  "title": "阁夜",
+  "titlePinyin": "gé yè",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "七言律诗",
+  "authorId": "dufu",
+  "gradeBand": "ext",
+  "tags": [
+    "思乡",
+    "冬天",
+    "雪",
+    "七言律诗"
+  ],
+  "difficulty": 3,
+  "writtenYear": 766,
+  "writtenLabel": "公元 766 年（杜甫 54 岁，冬夜寓居夔州西阁）",
+  "orderInAuthor": 6,
+  "famousLines": [
+    "五更鼓角声悲壮，三峡星河影动摇。"
+  ],
+  "lines": [
+    {
+      "text": "岁暮阴阳催短景，",
+      "pinyin": [
+        "suì",
+        "mù",
+        "yīn",
+        "yáng",
+        "cuī",
+        "duǎn",
+        "jǐng"
+      ],
+      "translation": "年底的日子，白昼越来越短，",
+      "noteIds": [
+        "n-yinyang",
+        "n-duanjing"
+      ]
+    },
+    {
+      "text": "天涯霜雪霁寒宵。",
+      "pinyin": [
+        "tiān",
+        "yá",
+        "shuāng",
+        "xuě",
+        "jì",
+        "hán",
+        "xiāo"
+      ],
+      "translation": "在这天涯尽头，霜雪刚停，寒夜分外清冷。",
+      "noteIds": [
+        "n-ji"
+      ]
+    },
+    {
+      "text": "五更鼓角声悲壮，",
+      "pinyin": [
+        "wǔ",
+        "gēng",
+        "gǔ",
+        "jiǎo",
+        "shēng",
+        "bēi",
+        "zhuàng"
+      ],
+      "translation": "五更天，军中的鼓角声又悲又壮，",
+      "noteIds": []
+    },
+    {
+      "text": "三峡星河影动摇。",
+      "pinyin": [
+        "sān",
+        "xiá",
+        "xīng",
+        "hé",
+        "yǐng",
+        "dòng",
+        "yáo"
+      ],
+      "translation": "三峡上空的银河，倒影在江里摇动。",
+      "noteIds": []
+    },
+    {
+      "text": "野哭千家闻战伐，",
+      "pinyin": [
+        "yě",
+        "kū",
+        "qiān",
+        "jiā",
+        "wén",
+        "zhàn",
+        "fá"
+      ],
+      "translation": "荒野上千家的哭声，传来了战争的消息，",
+      "noteIds": [
+        "n-zhanfa"
+      ]
+    },
+    {
+      "text": "夷歌数处起渔樵。",
+      "pinyin": [
+        "yí",
+        "gē",
+        "shù",
+        "chù",
+        "qǐ",
+        "yú",
+        "qiáo"
+      ],
+      "translation": "好几处渔夫樵夫的歌声，唱着异乡的调子。",
+      "noteIds": []
+    },
+    {
+      "text": "卧龙跃马终黄土，",
+      "pinyin": [
+        "wò",
+        "lóng",
+        "yuè",
+        "mǎ",
+        "zhōng",
+        "huáng",
+        "tǔ"
+      ],
+      "translation": "像卧龙诸葛亮、跃马称帝的公孙述，都终归黄土，",
+      "noteIds": [
+        "n-wolong",
+        "n-yuema"
+      ]
+    },
+    {
+      "text": "人事音书漫寂寥。",
+      "pinyin": [
+        "rén",
+        "shì",
+        "yīn",
+        "shū",
+        "màn",
+        "jì",
+        "liáo"
+      ],
+      "translation": "亲友的消息断绝，人间的事，就任它冷清下去吧。",
+      "noteIds": []
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-yinyang",
+      "word": "阴阳",
+      "pinyin": "yīn yáng",
+      "meaning": "指日月、时光。"
+    },
+    {
+      "id": "n-duanjing",
+      "word": "短景",
+      "pinyin": "duǎn jǐng",
+      "meaning": "冬天白天短。“景”在这里指日光。"
+    },
+    {
+      "id": "n-ji",
+      "word": "霁",
+      "pinyin": "jì",
+      "meaning": "雨雪停止，天气放晴。"
+    },
+    {
+      "id": "n-zhanfa",
+      "word": "战伐",
+      "pinyin": "zhàn fá",
+      "meaning": "战争，指当时蜀中各处发生的战乱。"
+    },
+    {
+      "id": "n-wolong",
+      "word": "卧龙",
+      "pinyin": "wò lóng",
+      "meaning": "诸葛亮的号，他曾在蜀中建功立业。"
+    },
+    {
+      "id": "n-yuema",
+      "word": "跃马",
+      "pinyin": "yuè mǎ",
+      "meaning": "指西汉末年在蜀中称帝的公孙述。"
+    }
+  ],
+  "translation": "年底的日子，白昼越来越短，在这天涯尽头，霜雪刚停，寒夜分外清冷。五更天，军中的鼓角声又悲又壮，三峡上空的银河，倒影在江里摇动。荒野上千家的哭声，传来了战争的消息，好几处渔夫樵夫的歌声，唱着异乡的调子。像卧龙诸葛亮、跃马称帝的公孙述，都终归黄土，亲友的消息断绝，人间的事，就任它冷清下去吧。",
+  "appreciation": "冬夜本来安静，杜甫却写出了满耳的声音：鼓角、哭声、渔歌，连同摇动的星河，把乱世的悲凉全凑在一个寒夜里。他想到再了不起的人物最后都成了黄土，就把眼前的苦楚放轻了些。声音和星光一起写，天地很大，人心很小，全诗沉郁却开阔。",
+  "background": "公元766年冬，杜甫住在夔州西阁。当时蜀中发生战乱，荒野上千家哭泣，夜里又常听见军营鼓角和渔人的歌声。一个霜雪刚停的寒夜，他听着这一切写下这首《阁夜》，把冬夜里的天地和心事都收进诗里。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "岁暮寒宵",
+      "text": "年末白昼变短，霜雪初停的冬夜特别冷。"
+    },
+    {
+      "step": 2,
+      "title": "鼓角星河",
+      "text": "五更鼓角悲壮，三峡江面上星河摇动。"
+    },
+    {
+      "step": 3,
+      "title": "野哭夷歌",
+      "text": "荒野传千家哭声，渔樵唱着几处异乡歌。"
+    },
+    {
+      "step": 4,
+      "title": "终归黄土",
+      "text": "想到英雄终成黄土，诗人任凭人事寂寥。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "景",
+      "reading": "jǐng",
+      "reason": "“短景”的“景”指日光，冬天白昼短，读 jǐng。",
+      "standard": "意思是日光，不要误当成“风景”来理解"
+    },
+    {
+      "char": "霁",
+      "reading": "jì",
+      "reason": "“霁”是雪停天晴的意思，读 jì。",
+      "standard": "不要读成 qí"
+    },
+    {
+      "char": "更",
+      "reading": "gēng",
+      "reason": "“五更”是深夜到清晨的更次，“更”读 gēng。",
+      "standard": "不要读成 gèng"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1145
+}

@@ -1,0 +1,220 @@
+{
+  "id": "tang-shengtang-libai-zengmenghaoran",
+  "slug": "zengmenghaoran",
+  "title": "赠孟浩然",
+  "titlePinyin": "zèng mèng hào rán",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "五言律诗",
+  "authorId": "libai",
+  "gradeBand": "ext",
+  "tags": [
+    "友情",
+    "五言律诗",
+    "明月",
+    "松云"
+  ],
+  "difficulty": 3,
+  "writtenYear": 727,
+  "writtenLabel": "约公元 727 年（李白 27 岁，居湖北安陆，敬慕孟浩然）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "红颜弃轩冕，白首卧松云。",
+    "醉月频中圣，迷花不事君。"
+  ],
+  "lines": [
+    {
+      "text": "吾爱孟夫子，",
+      "pinyin": [
+        "wú",
+        "ài",
+        "mèng",
+        "fū",
+        "zǐ"
+      ],
+      "translation": "我敬爱的孟夫子，",
+      "noteIds": [
+        "n-fuzi"
+      ]
+    },
+    {
+      "text": "风流天下闻。",
+      "pinyin": [
+        "fēng",
+        "liú",
+        "tiān",
+        "xià",
+        "wén"
+      ],
+      "translation": "风流潇洒的名声天下人都听说。",
+      "noteIds": []
+    },
+    {
+      "text": "红颜弃轩冕，",
+      "pinyin": [
+        "hóng",
+        "yán",
+        "qì",
+        "xuān",
+        "miǎn"
+      ],
+      "translation": "他年轻时就不要官位，",
+      "noteIds": [
+        "n-xuanmian"
+      ]
+    },
+    {
+      "text": "白首卧松云。",
+      "pinyin": [
+        "bái",
+        "shǒu",
+        "wò",
+        "sōng",
+        "yún"
+      ],
+      "translation": "到老了还隐居在松风白云之间。",
+      "noteIds": [
+        "n-songyun"
+      ]
+    },
+    {
+      "text": "醉月频中圣，",
+      "pinyin": [
+        "zuì",
+        "yuè",
+        "pín",
+        "zhòng",
+        "shèng"
+      ],
+      "translation": "他在月光下频频喝醉，",
+      "noteIds": [
+        "n-zhongsheng"
+      ]
+    },
+    {
+      "text": "迷花不事君。",
+      "pinyin": [
+        "mí",
+        "huā",
+        "bù",
+        "shì",
+        "jūn"
+      ],
+      "translation": "在花丛中流连忘返，从来不去侍奉君王。",
+      "noteIds": []
+    },
+    {
+      "text": "高山安可仰，",
+      "pinyin": [
+        "gāo",
+        "shān",
+        "ān",
+        "kě",
+        "yǎng"
+      ],
+      "translation": "他像高山一样，让我怎么仰得尽呢？",
+      "noteIds": []
+    },
+    {
+      "text": "徒此揖清芬。",
+      "pinyin": [
+        "tú",
+        "cǐ",
+        "yī",
+        "qīng",
+        "fēn"
+      ],
+      "translation": "我只能在这里拱手，敬仰他清雅的芬芳。",
+      "noteIds": [
+        "n-yi",
+        "n-qingfen"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-fuzi",
+      "word": "夫子",
+      "pinyin": "fū zǐ",
+      "meaning": "对孟浩然的尊称。夫子是对有学问、有品德的人的敬称。"
+    },
+    {
+      "id": "n-xuanmian",
+      "word": "轩冕",
+      "pinyin": "xuān miǎn",
+      "meaning": "轩车和礼帽，代指官职。弃轩冕就是放弃做官。"
+    },
+    {
+      "id": "n-songyun",
+      "word": "松云",
+      "pinyin": "sōng yún",
+      "meaning": "松树和白云，指隐居的山林生活。"
+    },
+    {
+      "id": "n-zhongsheng",
+      "word": "中圣",
+      "pinyin": "zhòng shèng",
+      "meaning": "喝醉酒。古人把清酒叫“圣人”，“中圣”就是喝到了酒、醉了。"
+    },
+    {
+      "id": "n-yi",
+      "word": "揖",
+      "pinyin": "yī",
+      "meaning": "拱手行礼。"
+    },
+    {
+      "id": "n-qingfen",
+      "word": "清芬",
+      "pinyin": "qīng fēn",
+      "meaning": "清幽的香气，指孟浩然高洁的品格。"
+    }
+  ],
+  "translation": "我敬爱的孟夫子，风流潇洒的名声天下人都听说。他年轻时就不要官位，到老了还隐居在松风白云之间。他在月光下频频喝醉，在花丛中流连忘返，从来不去侍奉君王。他像高山一样，让我怎么仰得尽呢？我只能在这里拱手，敬仰他清雅的芬芳。",
+  "appreciation": "这是李白的“追星”之作。一开口就是“吾爱孟夫子”，爱得坦坦荡荡。中间四句是一幅隐士画像：年轻时丢下官车礼帽，老了还卧在松云里；月下常醉，花间常迷，就是不去做官。结尾把人比作高山——高得望不到顶，只能拱手致敬。全诗像大白话，敬意却一层比一层深。",
+  "background": "李白住在湖北安陆时，认识了比他大十二岁的诗人孟浩然。孟浩然一辈子隐居襄阳，不追求做官，活得潇洒自在，李白非常佩服，写下这首诗相赠，把他的风度夸给天下人听。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "直言敬爱",
+      "text": "李白开口就说：我敬爱的孟夫子，好名声天下皆知。"
+    },
+    {
+      "step": 2,
+      "title": "不慕官位",
+      "text": "他年轻时就抛下官车礼帽，到老都住在松风白云间。"
+    },
+    {
+      "step": 3,
+      "title": "月醉花迷",
+      "text": "他月下频频醉饮，赏花入迷，从来不去侍奉君王。"
+    },
+    {
+      "step": 4,
+      "title": "高山敬仰",
+      "text": "他的品格像高山望不到顶，李白拱手敬他一身清芬。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "中",
+      "reading": "zhòng",
+      "reason": "“频中圣”的“中”是喝醉酒的意思，读 zhòng。",
+      "standard": "不要读成 zhōng"
+    },
+    {
+      "char": "揖",
+      "reading": "yī",
+      "reason": "“揖”是拱手行礼的动作，读 yī。",
+      "standard": "不要读成 jí"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》",
+    "《李太白集》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1061
+}

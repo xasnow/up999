@@ -1,0 +1,230 @@
+{
+  "id": "tang-shengtang-menghaoran-wangdongtinghu",
+  "slug": "wangdongtinghu",
+  "title": "望洞庭湖赠张丞相",
+  "titlePinyin": "wàng dòng tíng hú zèng zhāng chéng xiàng",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "五言律诗",
+  "authorId": "menghaoran",
+  "gradeBand": "ext",
+  "tags": [
+    "志向",
+    "五言律诗",
+    "洞庭湖",
+    "秋水"
+  ],
+  "difficulty": 3,
+  "writtenYear": 733,
+  "writtenLabel": "约公元 733 年（孟浩然 45 岁，献诗张九龄丞相，希望得到引荐）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "气蒸云梦泽，波撼岳阳城。"
+  ],
+  "lines": [
+    {
+      "text": "八月湖水平，",
+      "pinyin": [
+        "bā",
+        "yuè",
+        "hú",
+        "shuǐ",
+        "píng"
+      ],
+      "translation": "八月的湖水涨得和岸差不多平，",
+      "noteIds": []
+    },
+    {
+      "text": "涵虚混太清。",
+      "pinyin": [
+        "hán",
+        "xū",
+        "hùn",
+        "tài",
+        "qīng"
+      ],
+      "translation": "水色天光混成了一片。",
+      "noteIds": [
+        "n-hanxu",
+        "n-taiqing"
+      ]
+    },
+    {
+      "text": "气蒸云梦泽，",
+      "pinyin": [
+        "qì",
+        "zhēng",
+        "yún",
+        "mèng",
+        "zé"
+      ],
+      "translation": "水汽蒸腾，笼罩着古老的云梦泽，",
+      "noteIds": [
+        "n-yunmengze"
+      ]
+    },
+    {
+      "text": "波撼岳阳城。",
+      "pinyin": [
+        "bō",
+        "hàn",
+        "yuè",
+        "yáng",
+        "chéng"
+      ],
+      "translation": "波涛汹涌，撼动着岳阳城。",
+      "noteIds": [
+        "n-han"
+      ]
+    },
+    {
+      "text": "欲济无舟楫，",
+      "pinyin": [
+        "yù",
+        "jì",
+        "wú",
+        "zhōu",
+        "jí"
+      ],
+      "translation": "想渡过大湖，却没有船和桨，",
+      "noteIds": [
+        "n-zhouji"
+      ]
+    },
+    {
+      "text": "端居耻圣明。",
+      "pinyin": [
+        "duān",
+        "jū",
+        "chǐ",
+        "shèng",
+        "míng"
+      ],
+      "translation": "闲居在家，在圣明的时代里实在感到羞愧。",
+      "noteIds": [
+        "n-duanju"
+      ]
+    },
+    {
+      "text": "坐观垂钓者，",
+      "pinyin": [
+        "zuò",
+        "guān",
+        "chuí",
+        "diào",
+        "zhě"
+      ],
+      "translation": "坐着看别人垂钓，",
+      "noteIds": []
+    },
+    {
+      "text": "徒有羡鱼情。",
+      "pinyin": [
+        "tú",
+        "yǒu",
+        "xiàn",
+        "yú",
+        "qíng"
+      ],
+      "translation": "自己空有羡慕鱼儿的心情。",
+      "noteIds": [
+        "n-xianyu"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-hanxu",
+      "word": "涵虚",
+      "pinyin": "hán xū",
+      "meaning": "水汽包含着天空。涵，包含；虚，天空。"
+    },
+    {
+      "id": "n-taiqing",
+      "word": "太清",
+      "pinyin": "tài qīng",
+      "meaning": "天空。"
+    },
+    {
+      "id": "n-yunmengze",
+      "word": "云梦泽",
+      "pinyin": "yún mèng zé",
+      "meaning": "古代的大湖泽，在今湖北、湖南一带，后来多指洞庭湖一带。"
+    },
+    {
+      "id": "n-han",
+      "word": "撼",
+      "pinyin": "hàn",
+      "meaning": "摇动、震动。"
+    },
+    {
+      "id": "n-zhouji",
+      "word": "舟楫",
+      "pinyin": "zhōu jí",
+      "meaning": "船和桨，这里比喻能引荐自己做官的人。"
+    },
+    {
+      "id": "n-duanju",
+      "word": "端居",
+      "pinyin": "duān jū",
+      "meaning": "闲居，什么事也不做。"
+    },
+    {
+      "id": "n-xianyu",
+      "word": "羡鱼",
+      "pinyin": "xiàn yú",
+      "meaning": "古话说“临渊羡鱼，不如退而结网”，看着鱼眼馋不如回去织网。这里指想做官却没有门路。"
+    }
+  ],
+  "translation": "八月的湖水涨得和岸差不多平，水色天光混成了一片。水汽蒸腾，笼罩着古老的云梦泽；波涛汹涌，撼动着岳阳城。想渡过大湖，却没有船和桨；闲居在家，在圣明的时代里实在感到羞愧。坐着看别人垂钓，自己空有羡慕鱼儿的心情。",
+  "appreciation": "前四句写洞庭湖，气魄大得少见：湖水和天空混成一片，水汽蒸腾云梦泽，波涛能撼动岳阳城。后四句说得客气又巧妙：想过湖没有船，是想请张丞相帮忙当“舟楫”；空看人家钓鱼，是说想做官还没有门路。写景豪壮，求荐含蓄，一首诗把两种本事都做到了最好。",
+  "background": "开元二十一年（733），张九龄做了丞相。孟浩然漫游到洞庭湖边，想请对方引荐自己，就把八月洞庭湖的壮阔景象写成这首诗寄给张丞相，既显出了才气，又委婉地说出了希望得到提携的心愿。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "八月湖平",
+      "text": "八月湖水大涨，湖面和天空混成水天一色的景象。"
+    },
+    {
+      "step": 2,
+      "title": "蒸泽撼城",
+      "text": "湖上水汽蒸腾笼罩着云梦泽，波涛撼动着岳阳城。"
+    },
+    {
+      "step": 3,
+      "title": "欲济无舟",
+      "text": "想过湖却没有船和桨，闲居在家愧对圣明的时代。"
+    },
+    {
+      "step": 4,
+      "title": "羡鱼寄望",
+      "text": "空看别人垂钓满心羡慕，盼丞相递来引荐的船桨。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "楫",
+      "reading": "jí",
+      "reason": "“舟楫”的“楫”读 jí，指船和桨。",
+      "standard": "不要读成 jī"
+    },
+    {
+      "char": "撼",
+      "reading": "hàn",
+      "reason": "“波撼岳阳城”的“撼”读 hàn，是摇动的意思。"
+    },
+    {
+      "char": "混",
+      "reading": "hùn",
+      "reason": "“混太清”的“混”读 hùn，是混同、交融的意思。"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1088
+}

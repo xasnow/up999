@@ -1,0 +1,254 @@
+{
+  "id": "tang-shengtang-menghaoran-xiari-nanting",
+  "slug": "xiari-nanting",
+  "title": "夏日南亭怀辛大",
+  "titlePinyin": "xià rì nán tíng huái xīn dà",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "五言古诗",
+  "authorId": "menghaoran",
+  "gradeBand": "ext",
+  "tags": [
+    "思念",
+    "五言古诗",
+    "夏夜",
+    "荷风"
+  ],
+  "difficulty": 3,
+  "writtenYear": 726,
+  "writtenLabel": "约公元 726 年（孟浩然 38 岁，隐居襄阳，夏夜在南亭纳凉怀友）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "荷风送香气，竹露滴清响。"
+  ],
+  "lines": [
+    {
+      "text": "山光忽西落，",
+      "pinyin": [
+        "shān",
+        "guāng",
+        "hū",
+        "xī",
+        "luò"
+      ],
+      "translation": "山上的日光忽然向西落下去，",
+      "noteIds": [
+        "n-shanguang"
+      ]
+    },
+    {
+      "text": "池月渐东上。",
+      "pinyin": [
+        "chí",
+        "yuè",
+        "jiàn",
+        "dōng",
+        "shàng"
+      ],
+      "translation": "池边的月亮渐渐从东边升上来。",
+      "noteIds": [
+        "n-chiyue"
+      ]
+    },
+    {
+      "text": "散发乘夕凉，",
+      "pinyin": [
+        "sàn",
+        "fà",
+        "chéng",
+        "xī",
+        "liáng"
+      ],
+      "translation": "我披散着头发乘着傍晚的凉意，",
+      "noteIds": [
+        "n-sanfa"
+      ]
+    },
+    {
+      "text": "开轩卧闲敞。",
+      "pinyin": [
+        "kāi",
+        "xuān",
+        "wò",
+        "xián",
+        "chǎng"
+      ],
+      "translation": "打开窗户，悠闲地躺在宽敞的地方。",
+      "noteIds": [
+        "n-xianchang"
+      ]
+    },
+    {
+      "text": "荷风送香气，",
+      "pinyin": [
+        "hé",
+        "fēng",
+        "sòng",
+        "xiāng",
+        "qì"
+      ],
+      "translation": "风吹荷花送来香气，",
+      "noteIds": []
+    },
+    {
+      "text": "竹露滴清响。",
+      "pinyin": [
+        "zhú",
+        "lù",
+        "dī",
+        "qīng",
+        "xiǎng"
+      ],
+      "translation": "竹叶上的露水滴下清脆的声响。",
+      "noteIds": [
+        "n-qingxiang"
+      ]
+    },
+    {
+      "text": "欲取鸣琴弹，",
+      "pinyin": [
+        "yù",
+        "qǔ",
+        "míng",
+        "qín",
+        "tán"
+      ],
+      "translation": "想取出琴来弹上一曲，",
+      "noteIds": []
+    },
+    {
+      "text": "恨无知音赏。",
+      "pinyin": [
+        "hèn",
+        "wú",
+        "zhī",
+        "yīn",
+        "shǎng"
+      ],
+      "translation": "可惜没有知音来欣赏。",
+      "noteIds": []
+    },
+    {
+      "text": "感此怀故人，",
+      "pinyin": [
+        "gǎn",
+        "cǐ",
+        "huái",
+        "gù",
+        "rén"
+      ],
+      "translation": "想到这里更加怀念老朋友，",
+      "noteIds": []
+    },
+    {
+      "text": "中宵劳梦想。",
+      "pinyin": [
+        "zhōng",
+        "xiāo",
+        "láo",
+        "mèng",
+        "xiǎng"
+      ],
+      "translation": "半夜里做梦都在想念他。",
+      "noteIds": [
+        "n-zhongxiao",
+        "n-lao"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-shanguang",
+      "word": "山光",
+      "pinyin": "shān guāng",
+      "meaning": "山上的日光。"
+    },
+    {
+      "id": "n-chiyue",
+      "word": "池月",
+      "pinyin": "chí yuè",
+      "meaning": "池边的月亮。"
+    },
+    {
+      "id": "n-sanfa",
+      "word": "散发",
+      "pinyin": "sàn fà",
+      "meaning": "披散开头发，形容闲适自在、不拘礼节。"
+    },
+    {
+      "id": "n-xianchang",
+      "word": "闲敞",
+      "pinyin": "xián chǎng",
+      "meaning": "安静又宽敞的地方。"
+    },
+    {
+      "id": "n-qingxiang",
+      "word": "清响",
+      "pinyin": "qīng xiǎng",
+      "meaning": "清脆的声响。"
+    },
+    {
+      "id": "n-zhongxiao",
+      "word": "中宵",
+      "pinyin": "zhōng xiāo",
+      "meaning": "半夜。"
+    },
+    {
+      "id": "n-lao",
+      "word": "劳",
+      "pinyin": "láo",
+      "meaning": "这里是“苦念”的意思，做梦都在惦记。"
+    }
+  ],
+  "translation": "山上的日光忽然向西落下去，池边的月亮渐渐从东边升上来。我披散着头发乘着傍晚的凉意，打开窗户，悠闲地躺在宽敞的地方。风吹荷花送来香气，竹叶上的露水滴下清脆的声响。想取出琴来弹上一曲，可惜没有知音来欣赏。想到这里更加怀念老朋友，半夜里做梦都在想念他。",
+  "appreciation": "夏夜乘凉本来很舒服：太阳换成月亮，荷风送香，竹露滴答。可诗人想弹琴时，发现身边没有知音，舒服立刻少了一半。前面写得越舒服，后面“恨无知音赏”就越动人。想念朋友一直想到半夜做梦，一份友情写得又轻又深，一点也不喊叫。",
+  "background": "这首诗写于孟浩然隐居襄阳的时期。夏日傍晚，他在南亭乘凉，山光月色、荷香竹露都让他觉得舒服自在。可惜好朋友辛大不在身边，连弹琴都没人听。于是他写下这首诗，把夏夜的清爽和对朋友的想念一起寄了出去。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "日落月上",
+      "text": "山上的日光忽然西落，池边的月亮渐渐东升。"
+    },
+    {
+      "step": 2,
+      "title": "散发乘凉",
+      "text": "诗人披散头发打开窗户，悠闲地躺在敞亮的亭里。"
+    },
+    {
+      "step": 3,
+      "title": "荷香竹露",
+      "text": "风送来荷花的香气，竹叶上滴下露水的清响。"
+    },
+    {
+      "step": 4,
+      "title": "弹琴怀友",
+      "text": "想弹琴却没有知音欣赏，半夜做梦都在想念故人。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "散",
+      "reading": "sàn",
+      "reason": "“散发”指披散开头发，“散”读 sàn。",
+      "standard": "不要读成 sǎn"
+    },
+    {
+      "char": "敞",
+      "reading": "chǎng",
+      "reason": "“闲敞”指宽敞安静的地方，“敞”读 chǎng。"
+    },
+    {
+      "char": "宵",
+      "reading": "xiāo",
+      "reason": "“中宵”是半夜，“宵”读 xiāo。"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1182
+}

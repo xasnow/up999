@@ -1,0 +1,704 @@
+{
+  "id": "tang-shengtang-libai-shudaonan",
+  "slug": "shudaonan",
+  "title": "蜀道难",
+  "titlePinyin": "shǔ dào nán",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "杂言乐府",
+  "authorId": "libai",
+  "gradeBand": "ext",
+  "tags": [
+    "山水",
+    "蜀道",
+    "惊叹",
+    "杂言乐府"
+  ],
+  "difficulty": 3,
+  "writtenYear": 730,
+  "writtenLabel": "约公元 730 年（李白 29 岁，一说初入长安送友人入蜀所作）",
+  "orderInAuthor": 8,
+  "famousLines": [
+    "蜀道之难，难于上青天，使人听此凋朱颜！",
+    "一夫当关，万夫莫开。"
+  ],
+  "lines": [
+    {
+      "text": "噫吁嚱，危乎高哉！",
+      "pinyin": [
+        "yī",
+        "xū",
+        "xī",
+        "wēi",
+        "hū",
+        "gāo",
+        "zāi"
+      ],
+      "translation": "啊！高得吓人，险得惊人！",
+      "noteIds": [
+        "n-yuxi"
+      ]
+    },
+    {
+      "text": "蜀道之难，难于上青天！",
+      "pinyin": [
+        "shǔ",
+        "dào",
+        "zhī",
+        "nán",
+        "nán",
+        "yú",
+        "shàng",
+        "qīng",
+        "tiān"
+      ],
+      "translation": "走蜀道的难处，比上天还难！",
+      "noteIds": []
+    },
+    {
+      "text": "蚕丛及鱼凫，开国何茫然！",
+      "pinyin": [
+        "cán",
+        "cóng",
+        "jí",
+        "yú",
+        "fú",
+        "kāi",
+        "guó",
+        "hé",
+        "máng",
+        "rán"
+      ],
+      "translation": "从蚕丛、鱼凫开国以来，蜀地有多少年月，已茫然难知！",
+      "noteIds": [
+        "n-cancong"
+      ]
+    },
+    {
+      "text": "尔来四万八千岁，不与秦塞通人烟。",
+      "pinyin": [
+        "ěr",
+        "lái",
+        "sì",
+        "wàn",
+        "bā",
+        "qiān",
+        "suì",
+        "bù",
+        "yǔ",
+        "qín",
+        "sài",
+        "tōng",
+        "rén",
+        "yān"
+      ],
+      "translation": "四万八千年以来，蜀地和秦地边塞都不通人烟。",
+      "noteIds": [
+        "n-qinsai"
+      ]
+    },
+    {
+      "text": "西当太白有鸟道，可以横绝峨眉巅。",
+      "pinyin": [
+        "xī",
+        "dāng",
+        "tài",
+        "bái",
+        "yǒu",
+        "niǎo",
+        "dào",
+        "kě",
+        "yǐ",
+        "héng",
+        "jué",
+        "é",
+        "méi",
+        "diān"
+      ],
+      "translation": "西边只有太白山上鸟儿能飞的小道，可以飞越到峨眉山顶。",
+      "noteIds": [
+        "n-hengjue"
+      ]
+    },
+    {
+      "text": "地崩山摧壮士死，然后天梯石栈相钩连。",
+      "pinyin": [
+        "dì",
+        "bēng",
+        "shān",
+        "cuī",
+        "zhuàng",
+        "shì",
+        "sǐ",
+        "rán",
+        "hòu",
+        "tiān",
+        "tī",
+        "shí",
+        "zhàn",
+        "xiāng",
+        "gōu",
+        "lián"
+      ],
+      "translation": "传说山崩地裂、五个壮士遇难之后，才有天梯一样的山路和栈道连了起来。",
+      "noteIds": [
+        "n-wuding",
+        "n-shizhan"
+      ]
+    },
+    {
+      "text": "上有六龙回日之高标，下有冲波逆折之回川。",
+      "pinyin": [
+        "shàng",
+        "yǒu",
+        "liù",
+        "lóng",
+        "huí",
+        "rì",
+        "zhī",
+        "gāo",
+        "biāo",
+        "xià",
+        "yǒu",
+        "chōng",
+        "bō",
+        "nì",
+        "zhé",
+        "zhī",
+        "huí",
+        "chuān"
+      ],
+      "translation": "上有挡住太阳、连六龙拉日车都要绕行的山峰，下有激浪冲撞、曲折回旋的河川。",
+      "noteIds": [
+        "n-huiri"
+      ]
+    },
+    {
+      "text": "黄鹤之飞尚不得过，猿猱欲度愁攀援。",
+      "pinyin": [
+        "huáng",
+        "hè",
+        "zhī",
+        "fēi",
+        "shàng",
+        "bù",
+        "dé",
+        "guò",
+        "yuán",
+        "náo",
+        "yù",
+        "dù",
+        "chóu",
+        "pān",
+        "yuán"
+      ],
+      "translation": "黄鹤善飞也飞不过去，猿猴想攀过去也发愁。",
+      "noteIds": [
+        "n-nao"
+      ]
+    },
+    {
+      "text": "青泥何盘盘，百步九折萦岩峦。",
+      "pinyin": [
+        "qīng",
+        "ní",
+        "hé",
+        "pán",
+        "pán",
+        "bǎi",
+        "bù",
+        "jiǔ",
+        "zhé",
+        "yíng",
+        "yán",
+        "luán"
+      ],
+      "translation": "青泥岭的山路多么曲折，走一百步就要转九道弯，绕着山岩盘旋。",
+      "noteIds": [
+        "n-qingni"
+      ]
+    },
+    {
+      "text": "扪参历井仰胁息，以手抚膺坐长叹。",
+      "pinyin": [
+        "mén",
+        "shēn",
+        "lì",
+        "jǐng",
+        "yǎng",
+        "xié",
+        "xī",
+        "yǐ",
+        "shǒu",
+        "fǔ",
+        "yīng",
+        "zuò",
+        "cháng",
+        "tàn"
+      ],
+      "translation": "山高得伸手能摸到参星、井星，仰头屏住呼吸；行人用手按着胸口，坐下来长叹。",
+      "noteIds": [
+        "n-manshen",
+        "n-xiexi"
+      ]
+    },
+    {
+      "text": "问君西游何时还？畏途巉岩不可攀。",
+      "pinyin": [
+        "wèn",
+        "jūn",
+        "xī",
+        "yóu",
+        "hé",
+        "shí",
+        "huán",
+        "wèi",
+        "tú",
+        "chán",
+        "yán",
+        "bù",
+        "kě",
+        "pān"
+      ],
+      "translation": "问你这次西游什么时候回来？可怕的路和陡峭的山岩没法攀登。",
+      "noteIds": [
+        "n-chanyan"
+      ]
+    },
+    {
+      "text": "但见悲鸟号古木，雄飞雌从绕林间。",
+      "pinyin": [
+        "dàn",
+        "jiàn",
+        "bēi",
+        "niǎo",
+        "háo",
+        "gǔ",
+        "mù",
+        "xióng",
+        "fēi",
+        "cí",
+        "cóng",
+        "rào",
+        "lín",
+        "jiān"
+      ],
+      "translation": "只看见悲伤的鸟在古树上啼叫，雄鸟飞在前，雌鸟跟着，绕着树林飞。",
+      "noteIds": [
+        "n-haogumu"
+      ]
+    },
+    {
+      "text": "又闻子规啼夜月，愁空山。",
+      "pinyin": [
+        "yòu",
+        "wén",
+        "zǐ",
+        "guī",
+        "tí",
+        "yè",
+        "yuè",
+        "chóu",
+        "kōng",
+        "shān"
+      ],
+      "translation": "又听见杜鹃在月夜里啼叫，空山一片愁。",
+      "noteIds": [
+        "n-zigui"
+      ]
+    },
+    {
+      "text": "蜀道之难，难于上青天，使人听此凋朱颜！",
+      "pinyin": [
+        "shǔ",
+        "dào",
+        "zhī",
+        "nán",
+        "nán",
+        "yú",
+        "shàng",
+        "qīng",
+        "tiān",
+        "shǐ",
+        "rén",
+        "tīng",
+        "cǐ",
+        "diāo",
+        "zhū",
+        "yán"
+      ],
+      "translation": "走蜀道的难处，比上天还难，听到这些就让人吓得脸色都变了！",
+      "noteIds": [
+        "n-diaozhuyan"
+      ]
+    },
+    {
+      "text": "连峰去天不盈尺，枯松倒挂倚绝壁。",
+      "pinyin": [
+        "lián",
+        "fēng",
+        "qù",
+        "tiān",
+        "bù",
+        "yíng",
+        "chǐ",
+        "kū",
+        "sōng",
+        "dào",
+        "guà",
+        "yǐ",
+        "jué",
+        "bì"
+      ],
+      "translation": "山峰连着山峰，离天不满一尺，枯松倒挂在绝壁上。",
+      "noteIds": []
+    },
+    {
+      "text": "飞湍瀑流争喧豗，砯崖转石万壑雷。",
+      "pinyin": [
+        "fēi",
+        "tuān",
+        "pù",
+        "liú",
+        "zhēng",
+        "xuān",
+        "huī",
+        "pīng",
+        "yá",
+        "zhuǎn",
+        "shí",
+        "wàn",
+        "hè",
+        "léi"
+      ],
+      "translation": "急流和瀑布争先轰响，冲击山崖、滚动石头，千山万谷里响声像打雷。",
+      "noteIds": [
+        "n-xuanhui",
+        "n-pingya"
+      ]
+    },
+    {
+      "text": "其险也如此，嗟尔远道之人胡为乎来哉！",
+      "pinyin": [
+        "qí",
+        "xiǎn",
+        "yě",
+        "rú",
+        "cǐ",
+        "jiē",
+        "ěr",
+        "yuǎn",
+        "dào",
+        "zhī",
+        "rén",
+        "hú",
+        "wèi",
+        "hū",
+        "lái",
+        "zāi"
+      ],
+      "translation": "蜀道险恶到了这个地步，唉，你这远道而来的人为什么还要来呢！",
+      "noteIds": [
+        "n-jieer"
+      ]
+    },
+    {
+      "text": "剑阁峥嵘而崔嵬，一夫当关，万夫莫开。",
+      "pinyin": [
+        "jiàn",
+        "gé",
+        "zhēng",
+        "róng",
+        "ér",
+        "cuī",
+        "wéi",
+        "yì",
+        "fū",
+        "dāng",
+        "guān",
+        "wàn",
+        "fū",
+        "mò",
+        "kāi"
+      ],
+      "translation": "剑阁高大险峻，一个人把守关口，一万人也攻不开。",
+      "noteIds": [
+        "n-cuiwei"
+      ]
+    },
+    {
+      "text": "所守或匪亲，化为狼与豺。",
+      "pinyin": [
+        "suǒ",
+        "shǒu",
+        "huò",
+        "fěi",
+        "qīn",
+        "huà",
+        "wéi",
+        "láng",
+        "yǔ",
+        "chái"
+      ],
+      "translation": "守关的人如果不可靠，就会变成伤害行人的豺狼。",
+      "noteIds": [
+        "n-feiqin"
+      ]
+    },
+    {
+      "text": "朝避猛虎，夕避长蛇，磨牙吮血，杀人如麻。",
+      "pinyin": [
+        "zhāo",
+        "bì",
+        "měng",
+        "hǔ",
+        "xī",
+        "bì",
+        "cháng",
+        "shé",
+        "mó",
+        "yá",
+        "shǔn",
+        "xuè",
+        "shā",
+        "rén",
+        "rú",
+        "má"
+      ],
+      "translation": "早上要躲避猛虎，傍晚要躲避长蛇，它们磨着牙、吸人血，杀死的人多得像麻。",
+      "noteIds": [
+        "n-shunxue"
+      ]
+    },
+    {
+      "text": "锦城虽云乐，不如早还家。",
+      "pinyin": [
+        "jǐn",
+        "chéng",
+        "suī",
+        "yún",
+        "lè",
+        "bù",
+        "rú",
+        "zǎo",
+        "huán",
+        "jiā"
+      ],
+      "translation": "成都虽说快乐，还是不如早点回家。",
+      "noteIds": []
+    },
+    {
+      "text": "蜀道之难，难于上青天，侧身西望长咨嗟！",
+      "pinyin": [
+        "shǔ",
+        "dào",
+        "zhī",
+        "nán",
+        "nán",
+        "yú",
+        "shàng",
+        "qīng",
+        "tiān",
+        "cè",
+        "shēn",
+        "xī",
+        "wàng",
+        "cháng",
+        "zī",
+        "jiē"
+      ],
+      "translation": "走蜀道的难处，比上天还难，我侧身向西远望，只能发出长长的叹息！",
+      "noteIds": [
+        "n-zijie"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-yuxi",
+      "word": "噫吁嚱",
+      "pinyin": "yī xū xī",
+      "meaning": "惊叹的声音，是蜀地的方言。噫、吁、嚱三个字都表示感叹。"
+    },
+    {
+      "id": "n-cancong",
+      "word": "蚕丛及鱼凫",
+      "pinyin": "cán cóng jí yú fú",
+      "meaning": "传说中古蜀国最早的两代国王。"
+    },
+    {
+      "id": "n-qinsai",
+      "word": "秦塞",
+      "pinyin": "qín sài",
+      "meaning": "秦地的边塞要塞。塞在这里读 sài，指边塞。"
+    },
+    {
+      "id": "n-hengjue",
+      "word": "横绝",
+      "pinyin": "héng jué",
+      "meaning": "横着飞越。太白是秦岭主峰太白山，峨眉巅指峨眉山顶。"
+    },
+    {
+      "id": "n-wuding",
+      "word": "地崩山摧壮士死",
+      "pinyin": "dì bēng shān cuī zhuàng shì sǐ",
+      "meaning": "用“五丁开山”的传说：五位力士拉蛇山崩压死，从此才有路通往蜀地。"
+    },
+    {
+      "id": "n-shizhan",
+      "word": "石栈",
+      "pinyin": "shí zhàn",
+      "meaning": "在崖壁上凿孔、架木铺成的栈道。"
+    },
+    {
+      "id": "n-huiri",
+      "word": "六龙回日",
+      "pinyin": "liù lóng huí rì",
+      "meaning": "神话中说太阳由六条龙拉着车走，山峰太高，连太阳的车都要绕开。高标指高耸的山峰。"
+    },
+    {
+      "id": "n-nao",
+      "word": "猿猱",
+      "pinyin": "yuán náo",
+      "meaning": "猿猴。猱是一种善于攀爬的猴子。度，越过。"
+    },
+    {
+      "id": "n-qingni",
+      "word": "青泥",
+      "pinyin": "qīng ní",
+      "meaning": "青泥岭，入蜀道路上的要地。盘盘，山路曲折盘旋的样子。"
+    },
+    {
+      "id": "n-manshen",
+      "word": "扪参历井",
+      "pinyin": "mén shēn lì jǐng",
+      "meaning": "摸到参星、经过井星。参、井都是星宿名，参读 shēn。形容山高得快碰到天了。"
+    },
+    {
+      "id": "n-xiexi",
+      "word": "胁息",
+      "pinyin": "xié xī",
+      "meaning": "屏住呼吸。抚膺，用手按着胸口；膺，胸。"
+    },
+    {
+      "id": "n-chanyan",
+      "word": "巉岩",
+      "pinyin": "chán yán",
+      "meaning": "陡峭险恶的山岩。"
+    },
+    {
+      "id": "n-haogumu",
+      "word": "号古木",
+      "pinyin": "háo gǔ mù",
+      "meaning": "在古树上大声啼叫。号，大声哭叫。"
+    },
+    {
+      "id": "n-zigui",
+      "word": "子规",
+      "pinyin": "zǐ guī",
+      "meaning": "杜鹃鸟，啼声悲切，多在月夜听到。"
+    },
+    {
+      "id": "n-diaozhuyan",
+      "word": "凋朱颜",
+      "pinyin": "diāo zhū yán",
+      "meaning": "让红润的容颜失色。凋，凋谢，这里指吓得变了脸色。"
+    },
+    {
+      "id": "n-xuanhui",
+      "word": "喧豗",
+      "pinyin": "xuān huī",
+      "meaning": "喧闹轰响。豗，撞击声。飞湍，飞泻的急流；湍，急流的水。"
+    },
+    {
+      "id": "n-pingya",
+      "word": "砯崖转石",
+      "pinyin": "pīng yá zhuǎn shí",
+      "meaning": "水冲击山崖，石头滚动。砯，水冲击岩石的声音；壑，山谷。"
+    },
+    {
+      "id": "n-jieer",
+      "word": "嗟尔",
+      "pinyin": "jiē ěr",
+      "meaning": "唉，你们。嗟，叹息声；胡为乎，为什么。"
+    },
+    {
+      "id": "n-cuiwei",
+      "word": "崔嵬",
+      "pinyin": "cuī wéi",
+      "meaning": "山高大险峻的样子。峥嵘，高峻。"
+    },
+    {
+      "id": "n-feiqin",
+      "word": "匪亲",
+      "pinyin": "fěi qīn",
+      "meaning": "不是可信赖的亲近之人。匪，同“非”。"
+    },
+    {
+      "id": "n-shunxue",
+      "word": "吮血",
+      "pinyin": "shǔn xuè",
+      "meaning": "吸人血。吮，用嘴吸。"
+    },
+    {
+      "id": "n-zijie",
+      "word": "咨嗟",
+      "pinyin": "zī jiē",
+      "meaning": "叹息。锦城指成都。"
+    }
+  ],
+  "translation": "啊！高得吓人，险得惊人！走蜀道的难处，比上天还难！从蚕丛、鱼凫开国以来，多少年月已茫然难知，四万八千年不与秦地边塞相通。西边只有太白山上的鸟道，可以飞越到峨眉山顶。传说山崩地裂、五壮士遇难之后，才有天梯般的山路和栈道相连。上有挡住太阳的高峰，下有冲撞回旋的河川。黄鹤飞不过，猿猴愁攀援。青泥岭百步九折，绕着山岩盘旋。伸手能摸到参星井星，行人屏息抚胸，坐下长叹。问君西游何时回？畏途巉岩不可攀。只见悲鸟号古木，雄飞雌从绕林间；又闻子规啼夜月，愁满空山。蜀道之难难于上青天，使人听此凋朱颜！连峰离天不满一尺，枯松倒挂绝壁。飞湍瀑流争相轰响，砯崖转石，万壑如雷。险到这般地步，嗟尔远道之人为何还要来！剑阁峥嵘崔嵬，一夫当关，万夫莫开。守关的若非亲近可靠的人，就会化作豺狼。朝避猛虎，夕避长蛇，磨牙吮血，杀人如麻。锦城虽云乐，不如早还家。蜀道之难难于上青天，侧身西望长咨嗟！",
+  "appreciation": "全诗以“蜀道之难，难于上青天”三次呼喊串起，一开头就是“噫吁嚱”的惊叹，像大幕猛地拉开。诗人从传说写起，再写山高、水险、鸟兽难行，又借悲鸟、子规渲染空山愁气，接着瀑布轰雷、剑阁当关，一层比一层惊心。句式忽长忽短，读起来像山路一样起伏，把蜀道的奇险写成了震撼人心的画卷，也流露着对友人旅途安全的担忧。",
+  "background": "《蜀道难》是乐府旧题。通行说法认为李白约在公元 730 年初入长安时作此诗，送友人入蜀。他曾在蜀地长大，深知入蜀道路的艰险，又借剑阁易守难攻、局势凶险的描写，提醒友人乱世之中早早回家。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "仰天惊叹",
+      "text": "一声惊叹劈空而来：蜀道之难，难于上青天！"
+    },
+    {
+      "step": 2,
+      "title": "鸟道开山",
+      "text": "只有鸟儿能飞的山道，是五壮士用生命换来的栈道。"
+    },
+    {
+      "step": 3,
+      "title": "山高水吼",
+      "text": "高峰挡日、猿猴愁攀，瀑布轰鸣如万壑打雷。"
+    },
+    {
+      "step": 4,
+      "title": "剑阁当关",
+      "text": "剑阁一夫当关、万夫莫开，诗人西望蜀道长叹。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "吁",
+      "reading": "xū",
+      "reason": "开头的惊叹声“噫吁嚱”读 yī xū xī，是蜀地方言式的感叹。",
+      "standard": "“吁”不要读成 yù 或 xū 之外的音"
+    },
+    {
+      "char": "巉",
+      "reading": "chán",
+      "reason": "“巉岩”指陡峭险恶的山岩，读 chán yán。",
+      "standard": "不要读成 chán 之外的音，如 chān"
+    },
+    {
+      "char": "砯",
+      "reading": "pīng",
+      "reason": "“砯崖转石”的“砯”是水冲击岩石的声音，读 pīng。",
+      "standard": "不要读成 bīng 或 píng"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》",
+    "《李太白集》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1244
+}

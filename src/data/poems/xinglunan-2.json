@@ -1,0 +1,371 @@
+{
+  "id": "tang-shengtang-libai-xinglunan-2",
+  "slug": "xinglunan-2",
+  "title": "行路难·其二",
+  "titlePinyin": "xíng lù nán · qí èr",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "杂言乐府",
+  "authorId": "libai",
+  "gradeBand": "ext",
+  "tags": [
+    "哲理",
+    "怀古",
+    "长安",
+    "杂言乐府"
+  ],
+  "difficulty": 3,
+  "writtenYear": 744,
+  "writtenLabel": "约公元 744 年（李白 43 岁，被“赐金放还”、离开长安时所作）",
+  "orderInAuthor": 5,
+  "famousLines": [
+    "大道如青天，我独不得出。",
+    "行路难，归去来！"
+  ],
+  "lines": [
+    {
+      "text": "大道如青天，",
+      "pinyin": [
+        "dà",
+        "dào",
+        "rú",
+        "qīng",
+        "tiān"
+      ],
+      "translation": "大路宽广得像青天一样，",
+      "noteIds": []
+    },
+    {
+      "text": "我独不得出。",
+      "pinyin": [
+        "wǒ",
+        "dú",
+        "bù",
+        "dé",
+        "chū"
+      ],
+      "translation": "唯独我走不出去。",
+      "noteIds": []
+    },
+    {
+      "text": "羞逐长安社中儿，",
+      "pinyin": [
+        "xiū",
+        "zhú",
+        "cháng",
+        "ān",
+        "shè",
+        "zhōng",
+        "ér"
+      ],
+      "translation": "我不愿意跟着长安市井里的少年，",
+      "noteIds": [
+        "n-shezhong"
+      ]
+    },
+    {
+      "text": "赤鸡白雉赌梨栗。",
+      "pinyin": [
+        "chì",
+        "jī",
+        "bái",
+        "zhì",
+        "dǔ",
+        "lí",
+        "lì"
+      ],
+      "translation": "斗鸡走狗，用梨和栗子打赌消遣。",
+      "noteIds": [
+        "n-zhi"
+      ]
+    },
+    {
+      "text": "弹剑作歌奏苦声，",
+      "pinyin": [
+        "tán",
+        "jiàn",
+        "zuò",
+        "gē",
+        "zòu",
+        "kǔ",
+        "shēng"
+      ],
+      "translation": "我像冯谖一样弹着剑唱歌，发出的全是苦闷的声音，",
+      "noteIds": [
+        "n-danshi"
+      ]
+    },
+    {
+      "text": "曳裾王门不称情。",
+      "pinyin": [
+        "yè",
+        "jū",
+        "wáng",
+        "mén",
+        "bù",
+        "chèn",
+        "qíng"
+      ],
+      "translation": "在王侯门下做食客，实在不合我的心意。",
+      "noteIds": [
+        "n-yeju"
+      ]
+    },
+    {
+      "text": "淮阴市井笑韩信，",
+      "pinyin": [
+        "huái",
+        "yīn",
+        "shì",
+        "jǐng",
+        "xiào",
+        "hán",
+        "xìn"
+      ],
+      "translation": "淮阴的市井百姓曾经嘲笑韩信，",
+      "noteIds": [
+        "n-huaixin"
+      ]
+    },
+    {
+      "text": "汉朝公卿忌贾生。",
+      "pinyin": [
+        "hàn",
+        "cháo",
+        "gōng",
+        "qīng",
+        "jì",
+        "jiǎ",
+        "shēng"
+      ],
+      "translation": "汉朝的公卿大臣也忌恨贾谊。",
+      "noteIds": [
+        "n-jiasheng"
+      ]
+    },
+    {
+      "text": "君不见昔时燕家重郭隗，",
+      "pinyin": [
+        "jūn",
+        "bú",
+        "jiàn",
+        "xī",
+        "shí",
+        "yān",
+        "jiā",
+        "zhòng",
+        "guō",
+        "wěi"
+      ],
+      "translation": "你难道没看见当年燕国多么敬重郭隗，",
+      "noteIds": [
+        "n-guowei"
+      ]
+    },
+    {
+      "text": "拥篲折节无嫌猜。",
+      "pinyin": [
+        "yōng",
+        "huì",
+        "zhé",
+        "jié",
+        "wú",
+        "xián",
+        "cāi"
+      ],
+      "translation": "燕昭王拿着扫帚清扫道路、屈身相迎，没有一点猜疑。",
+      "noteIds": [
+        "n-yonghui"
+      ]
+    },
+    {
+      "text": "剧辛乐毅感恩分，",
+      "pinyin": [
+        "jù",
+        "xīn",
+        "yuè",
+        "yì",
+        "gǎn",
+        "ēn",
+        "fèn"
+      ],
+      "translation": "剧辛、乐毅感念这份知遇之恩，",
+      "noteIds": [
+        "n-juxin"
+      ]
+    },
+    {
+      "text": "输肝剖胆效英才。",
+      "pinyin": [
+        "shū",
+        "gān",
+        "pōu",
+        "dǎn",
+        "xiào",
+        "yīng",
+        "cái"
+      ],
+      "translation": "掏出肝胆来报效，一个个尽显英才本色。",
+      "noteIds": []
+    },
+    {
+      "text": "昭王白骨萦蔓草，",
+      "pinyin": [
+        "zhāo",
+        "wáng",
+        "bái",
+        "gǔ",
+        "yíng",
+        "màn",
+        "cǎo"
+      ],
+      "translation": "如今燕昭王的白骨已缠绕上蔓生的野草，",
+      "noteIds": []
+    },
+    {
+      "text": "谁人更扫黄金台？",
+      "pinyin": [
+        "shuí",
+        "rén",
+        "gèng",
+        "sǎo",
+        "huáng",
+        "jīn",
+        "tái"
+      ],
+      "translation": "还有谁再去打扫那招贤的黄金台呢？",
+      "noteIds": [
+        "n-huangjintai"
+      ]
+    },
+    {
+      "text": "行路难，归去来！",
+      "pinyin": [
+        "xíng",
+        "lù",
+        "nán",
+        "guī",
+        "qù",
+        "lái"
+      ],
+      "translation": "人生的路这么难走，不如回去吧！",
+      "noteIds": []
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-shezhong",
+      "word": "社中儿",
+      "pinyin": "shè zhōng ér",
+      "meaning": "市井中的少年。社是古代基层的居民组织。"
+    },
+    {
+      "id": "n-zhi",
+      "word": "雉",
+      "pinyin": "zhì",
+      "meaning": "野鸡，这里指供斗戏的鸡鸟。"
+    },
+    {
+      "id": "n-danshi",
+      "word": "弹剑作歌",
+      "pinyin": "tán jiàn zuò gē",
+      "meaning": "用战国冯谖寄食孟尝君门下、弹剑而歌“长铗归来”的典故，感叹自己不受重视。"
+    },
+    {
+      "id": "n-yeju",
+      "word": "曳裾王门",
+      "pinyin": "yè jū wáng mén",
+      "meaning": "拖着衣襟出入王侯之门，指在权贵门下做食客。曳，拖；裾，衣服的前后襟。"
+    },
+    {
+      "id": "n-huaixin",
+      "word": "淮阴市井笑韩信",
+      "pinyin": "huái yīn shì jǐng xiào hán xìn",
+      "meaning": "韩信未发达时，淮阴的屠夫当众羞辱他，让他从胯下爬过。"
+    },
+    {
+      "id": "n-jiasheng",
+      "word": "贾生",
+      "pinyin": "jiǎ shēng",
+      "meaning": "贾谊，西汉才子，因大臣忌恨被贬长沙。"
+    },
+    {
+      "id": "n-guowei",
+      "word": "郭隗",
+      "pinyin": "guō wěi",
+      "meaning": "战国燕国人。燕昭王先重用他，招来了乐毅等更多贤才。"
+    },
+    {
+      "id": "n-yonghui",
+      "word": "拥篲",
+      "pinyin": "yōng huì",
+      "meaning": "抱着扫帚在前引路，表示恭敬迎接贤士。篲，扫帚。"
+    },
+    {
+      "id": "n-juxin",
+      "word": "剧辛乐毅",
+      "pinyin": "jù xīn yuè yì",
+      "meaning": "剧辛、乐毅都是战国名将贤士，受燕昭王重用，为燕国建功。乐毅的“乐”读 yuè。"
+    },
+    {
+      "id": "n-huangjintai",
+      "word": "黄金台",
+      "pinyin": "huáng jīn tái",
+      "meaning": "燕昭王在易水边筑台，放置千金招揽天下贤士。"
+    }
+  ],
+  "translation": "大路宽广得像青天一样，唯独我走不出去。我不愿跟着长安市井的少年斗鸡赌博消遣；像冯谖那样弹剑而歌，声音苦闷；在王侯门下做食客，又实在不合心意。淮阴的市井曾嘲笑韩信，汉朝公卿忌恨贾谊。你难道没看见当年燕昭王敬重郭隗，拿着扫帚屈身相迎、毫无猜疑，剧辛、乐毅感念恩义，掏出肝胆报效？如今昭王白骨上缠满野草，还有谁去打扫黄金台？人生的路这么难走，不如回去吧！",
+  "appreciation": "开头两句最震撼：大路宽得像青天，偏偏我一个人走不出去，一宽一窄，把怀才不遇的憋闷喊了出来。诗人不愿斗鸡讨好，也不肯屈身权贵门下，又借韩信、贾谊自比，说明才士常有、识才者难得。燕昭王千金招贤的故事里藏着热望，可“谁人更扫黄金台”一问，希望又落了空，最后只能长叹一声“归去来”。",
+  "background": "这是《行路难》的第二首。李白在长安本想凭才干辅佐朝政，却只被当作点缀升平的文人，还遭人排挤，最终被“赐金放还”。他借古人遭遇抒发不遇之愤，与第一首的结尾昂扬不同，这首以“归去来”作结，愤意更深。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "大道青天",
+      "text": "长安大道宽得像青天，李白却说唯独自己走不出去。"
+    },
+    {
+      "step": 2,
+      "title": "不肯同流",
+      "text": "他不屑斗鸡赌博，也不愿在权贵门下委屈自己。"
+    },
+    {
+      "step": 3,
+      "title": "古人自比",
+      "text": "韩信曾被嘲笑，贾谊曾被忌恨，才士总是难遇明主。"
+    },
+    {
+      "step": 4,
+      "title": "归去来兮",
+      "text": "燕昭王的黄金台早已无人打扫，他长叹一声：回去吧！"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "篲",
+      "reading": "huì",
+      "reason": "“拥篲”的“篲”是扫帚的意思，读 huì。",
+      "standard": "生僻字，不要读成 huī 或 zhì"
+    },
+    {
+      "char": "隗",
+      "reading": "wěi",
+      "reason": "“郭隗”是人名，读 Guō Wěi。",
+      "standard": "不要读成 kuí"
+    },
+    {
+      "char": "称",
+      "reading": "chèn",
+      "reason": "“不称情”的“称”是相称、适合的意思，读 chèn。",
+      "standard": "不要读成 chēng"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》",
+    "《李太白集》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1237
+}

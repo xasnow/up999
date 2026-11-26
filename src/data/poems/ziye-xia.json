@@ -1,0 +1,180 @@
+{
+  "id": "tang-shengtang-libai-ziye-xia",
+  "slug": "ziye-xia",
+  "title": "子夜吴歌·夏歌",
+  "titlePinyin": "zǐ yè wú gē · xià gē",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "五言乐府",
+  "authorId": "libai",
+  "gradeBand": "ext",
+  "tags": [
+    "田园",
+    "夏天",
+    "荷花",
+    "五言乐府"
+  ],
+  "difficulty": 3,
+  "writtenYear": 731,
+  "writtenLabel": "约公元 731 年（李白 30 岁，漫游期间拟乐府旧题《子夜四时歌》而作）",
+  "orderInAuthor": 2,
+  "famousLines": [
+    "镜湖三百里，菡萏发荷花。"
+  ],
+  "lines": [
+    {
+      "text": "镜湖三百里，",
+      "pinyin": [
+        "jìng",
+        "hú",
+        "sān",
+        "bǎi",
+        "lǐ"
+      ],
+      "translation": "三百里的镜湖之上，",
+      "noteIds": [
+        "n-jinghu"
+      ]
+    },
+    {
+      "text": "菡萏发荷花。",
+      "pinyin": [
+        "hàn",
+        "dàn",
+        "fā",
+        "hé",
+        "huā"
+      ],
+      "translation": "荷花苞儿绽开，开成了满湖荷花。",
+      "noteIds": [
+        "n-handan"
+      ]
+    },
+    {
+      "text": "五月西施采，",
+      "pinyin": [
+        "wǔ",
+        "yuè",
+        "xī",
+        "shī",
+        "cǎi"
+      ],
+      "translation": "五月里西施来采莲，",
+      "noteIds": [
+        "n-xishi"
+      ]
+    },
+    {
+      "text": "人看隘若耶。",
+      "pinyin": [
+        "rén",
+        "kàn",
+        "ài",
+        "ruò",
+        "yē"
+      ],
+      "translation": "看的人挤满了若耶溪，连溪水都显得窄了。",
+      "noteIds": [
+        "n-ruoye"
+      ]
+    },
+    {
+      "text": "回舟不待月，",
+      "pinyin": [
+        "huí",
+        "zhōu",
+        "bú",
+        "dài",
+        "yuè"
+      ],
+      "translation": "她划船回去，不等月亮升起，",
+      "noteIds": []
+    },
+    {
+      "text": "归去越王家。",
+      "pinyin": [
+        "guī",
+        "qù",
+        "yuè",
+        "wáng",
+        "jiā"
+      ],
+      "translation": "就回到了越王宫里。",
+      "noteIds": []
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-jinghu",
+      "word": "镜湖",
+      "pinyin": "jìng hú",
+      "meaning": "在今浙江绍兴一带的湖泊，水面像镜子一样平静。"
+    },
+    {
+      "id": "n-handan",
+      "word": "菡萏",
+      "pinyin": "hàn dàn",
+      "meaning": "荷花的花苞，也泛指荷花。"
+    },
+    {
+      "id": "n-xishi",
+      "word": "西施",
+      "pinyin": "xī shī",
+      "meaning": "春秋时越国的著名美女，传说她曾在若耶溪边采莲、浣纱。"
+    },
+    {
+      "id": "n-ruoye",
+      "word": "隘若耶",
+      "pinyin": "ài ruò yē",
+      "meaning": "把若耶溪都挤窄了。隘，狭窄；若耶，若耶溪，西施采莲的地方。"
+    }
+  ],
+  "translation": "三百里的镜湖上，荷花苞儿绽开，开成了满湖荷花。五月里西施来采莲，看的人挤满了若耶溪，连溪水都显得窄了。她划船回去，不等月亮升起，就回到了越王宫里。",
+  "appreciation": "起句就铺开三百里镜湖、满湖荷花的壮阔画面，接着让西施的影子落在莲叶之间。最妙的是“人看隘若耶”：不写西施多美，只写看的人太多，把一条溪都挤窄了，美从侧面透出来。结尾“不待月”“归越王家”，悄悄点到她入宫的命运，留下一声轻轻的叹息。",
+  "background": "这是《子夜吴歌》四首中的夏歌，借越地夏日采莲的景象，写美女西施的传说。西施本在若耶溪边采莲浣纱，后被越王献入吴宫。李白以花衬人，又暗含对美人身世的感慨，一般认为是开元年间漫游吴越时所作。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "满湖荷花",
+      "text": "三百里镜湖上，荷花苞一朵朵绽开。"
+    },
+    {
+      "step": 2,
+      "title": "西施采莲",
+      "text": "五月里，西施划着小船在花间采莲。"
+    },
+    {
+      "step": 3,
+      "title": "争看佳人",
+      "text": "看的人太多，把若耶溪都挤得显得窄了。"
+    },
+    {
+      "step": 4,
+      "title": "月上归宫",
+      "text": "月亮还没升起，她的船已回到越王宫。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "菡萏",
+      "reading": "hàn dàn",
+      "reason": "“菡萏”是荷花花苞的古称，两个字连读 hàn dàn。",
+      "standard": "两个字都是生僻字，不要读错"
+    },
+    {
+      "char": "隘",
+      "reading": "ài",
+      "reason": "“隘”是狭窄的意思，读 ài。",
+      "standard": "不要读成 yì"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》",
+    "《李太白集》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1246
+}

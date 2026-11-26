@@ -1,0 +1,218 @@
+{
+  "id": "tang-shengtang-menghaoran-qinzhong-jiyuan",
+  "slug": "qinzhong-jiyuan",
+  "title": "秦中寄远上人",
+  "titlePinyin": "qín zhōng jì yuǎn shàng rén",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "五言律诗",
+  "authorId": "menghaoran",
+  "gradeBand": "ext",
+  "tags": [
+    "志向",
+    "五言律诗",
+    "秋天",
+    "蝉声"
+  ],
+  "difficulty": 3,
+  "writtenYear": 728,
+  "writtenLabel": "约公元 728 年（孟浩然 40 岁，客居长安求仕困窘，寄诗僧人远上人）",
+  "orderInAuthor": 3,
+  "famousLines": [
+    "黄金然桂尽，壮志逐年衰。"
+  ],
+  "lines": [
+    {
+      "text": "一丘常欲卧，",
+      "pinyin": [
+        "yī",
+        "qiū",
+        "cháng",
+        "yù",
+        "wò"
+      ],
+      "translation": "我常常想躲到山丘里去隐居，",
+      "noteIds": [
+        "n-yiqiu"
+      ]
+    },
+    {
+      "text": "三径苦无资。",
+      "pinyin": [
+        "sān",
+        "jìng",
+        "kǔ",
+        "wú",
+        "zī"
+      ],
+      "translation": "可要经营一个小家，苦于没有钱。",
+      "noteIds": [
+        "n-sanjing"
+      ]
+    },
+    {
+      "text": "北土非吾愿，",
+      "pinyin": [
+        "běi",
+        "tǔ",
+        "fēi",
+        "wú",
+        "yuàn"
+      ],
+      "translation": "待在北方京城不是我的心愿，",
+      "noteIds": [
+        "n-beitu"
+      ]
+    },
+    {
+      "text": "东林怀我师。",
+      "pinyin": [
+        "dōng",
+        "lín",
+        "huái",
+        "wǒ",
+        "shī"
+      ],
+      "translation": "我怀念东林寺里修行的老师。",
+      "noteIds": [
+        "n-donglin"
+      ]
+    },
+    {
+      "text": "黄金然桂尽，",
+      "pinyin": [
+        "huáng",
+        "jīn",
+        "rán",
+        "guì",
+        "jìn"
+      ],
+      "translation": "带的钱像烧桂木一样快用光了，",
+      "noteIds": [
+        "n-rangui"
+      ]
+    },
+    {
+      "text": "壮志逐年衰。",
+      "pinyin": [
+        "zhuàng",
+        "zhì",
+        "zhú",
+        "nián",
+        "shuāi"
+      ],
+      "translation": "雄心壮志也一年比一年衰退。",
+      "noteIds": []
+    },
+    {
+      "text": "日夕凉风至，",
+      "pinyin": [
+        "rì",
+        "xī",
+        "liáng",
+        "fēng",
+        "zhì"
+      ],
+      "translation": "傍晚凉风吹来，",
+      "noteIds": []
+    },
+    {
+      "text": "闻蝉但益悲。",
+      "pinyin": [
+        "wén",
+        "chán",
+        "dàn",
+        "yì",
+        "bēi"
+      ],
+      "translation": "听见蝉声阵阵，心里只觉得更加悲伤。",
+      "noteIds": [
+        "n-dan"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-yiqiu",
+      "word": "一丘",
+      "pinyin": "yī qiū",
+      "meaning": "一座山丘，指隐居山林的生活。"
+    },
+    {
+      "id": "n-sanjing",
+      "word": "三径",
+      "pinyin": "sān jìng",
+      "meaning": "隐士家园的代称。西汉隐士蒋诩家中有三条小路，只与两位好友来往。"
+    },
+    {
+      "id": "n-beitu",
+      "word": "北土",
+      "pinyin": "běi tǔ",
+      "meaning": "北方，指京城长安一带。"
+    },
+    {
+      "id": "n-donglin",
+      "word": "东林",
+      "pinyin": "dōng lín",
+      "meaning": "佛寺的代称，指远上人修行的地方。"
+    },
+    {
+      "id": "n-rangui",
+      "word": "然桂",
+      "pinyin": "rán guì",
+      "meaning": "“然”同“燃”。柴火贵得像桂树，形容在京城生活花销极大。"
+    },
+    {
+      "id": "n-dan",
+      "word": "但",
+      "pinyin": "dàn",
+      "meaning": "只、只是。"
+    }
+  ],
+  "translation": "我常常想躲到山丘里去隐居，可要经营一个小家，苦于没有钱。待在北方京城不是我的心愿，我怀念东林寺里修行的老师。带的钱像烧桂木一样快用光了，雄心壮志也一年比一年衰退。傍晚凉风吹来，听见蝉声阵阵，心里只觉得更加悲伤。",
+  "appreciation": "想隐居，没有钱；想求官，又不是心愿——两头都不顺，这就是诗人客居长安的难处。“黄金然桂尽”用烧贵如桂木的柴，把日子难过写得又形象又心酸。结尾添上傍晚凉风和阵阵蝉声，悲伤就更深一层。全诗把壮志一点点消磨的心情，说得老实又动人。",
+  "background": "开元十六年前后，四十岁的孟浩然到长安谋求仕进，处处不顺心，生活也陷入困窘。他写这首诗寄给僧人远上人，说出想隐居又没有钱、留京城又不情愿的两难处境，抒发心中的苦闷和悲伤。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "心向山林",
+      "text": "诗人一直想归隐到山丘里，苦于手里没有钱财。"
+    },
+    {
+      "step": 2,
+      "title": "身在北土",
+      "text": "身在北方京城不合心意，心里怀念远方的师父。"
+    },
+    {
+      "step": 3,
+      "title": "囊空志衰",
+      "text": "带的钱像烧桂木一样用光，壮志一年比一年衰退。"
+    },
+    {
+      "step": 4,
+      "title": "风蝉添悲",
+      "text": "傍晚凉风吹来，蝉声阵阵，听来只觉更加悲伤。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "然",
+      "reading": "rán",
+      "reason": "“然桂”的“然”同“燃”，是燃烧的意思。"
+    },
+    {
+      "char": "径",
+      "reading": "jìng",
+      "reason": "“三径”的“径”读 jìng，指小路。",
+      "standard": "不要读成 jīng"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1087
+}

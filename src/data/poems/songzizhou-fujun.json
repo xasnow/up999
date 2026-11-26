@@ -1,0 +1,259 @@
+{
+  "id": "tang-shengtang-wangwei-songzizhou-fujun",
+  "slug": "songzizhou-fujun",
+  "title": "送梓州李使君",
+  "titlePinyin": "sòng zǐ zhōu lǐ shǐ jūn",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "五言律诗",
+  "authorId": "wangwei",
+  "gradeBand": "ext",
+  "tags": [
+    "送别",
+    "五言律诗",
+    "杜鹃",
+    "山中"
+  ],
+  "difficulty": 3,
+  "writtenYear": 760,
+  "writtenLabel": "约公元 760 年（王维 59 岁，在长安任尚书右丞，写诗送李使君去梓州赴任）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "山中一夜雨，树杪百重泉。",
+    "万壑树参天，千山响杜鹃。"
+  ],
+  "lines": [
+    {
+      "text": "万壑树参天，",
+      "pinyin": [
+        "wàn",
+        "hè",
+        "shù",
+        "cān",
+        "tiān"
+      ],
+      "translation": "千万条山谷里，大树高高地耸入天空。",
+      "noteIds": [
+        "n-he",
+        "n-cantian"
+      ]
+    },
+    {
+      "text": "千山响杜鹃。",
+      "pinyin": [
+        "qiān",
+        "shān",
+        "xiǎng",
+        "dù",
+        "juān"
+      ],
+      "translation": "千百座山上，到处都是杜鹃鸟的叫声。",
+      "noteIds": [
+        "n-dujuan"
+      ]
+    },
+    {
+      "text": "山中一夜雨，",
+      "pinyin": [
+        "shān",
+        "zhōng",
+        "yí",
+        "yè",
+        "yǔ"
+      ],
+      "translation": "山里下了一整夜的雨。",
+      "noteIds": []
+    },
+    {
+      "text": "树杪百重泉。",
+      "pinyin": [
+        "shù",
+        "miǎo",
+        "bǎi",
+        "chóng",
+        "quán"
+      ],
+      "translation": "树梢上好像挂着上百层流下的泉水。",
+      "noteIds": [
+        "n-shumiao",
+        "n-chong"
+      ]
+    },
+    {
+      "text": "汉女输橦布，",
+      "pinyin": [
+        "hàn",
+        "nǚ",
+        "shū",
+        "tóng",
+        "bù"
+      ],
+      "translation": "蜀地的女子要缴纳橦木花织成的布。",
+      "noteIds": [
+        "n-shu",
+        "n-tongbu"
+      ]
+    },
+    {
+      "text": "巴人讼芋田。",
+      "pinyin": [
+        "bā",
+        "rén",
+        "sòng",
+        "yù",
+        "tián"
+      ],
+      "translation": "巴地的人们常为种芋头的田地打官司。",
+      "noteIds": [
+        "n-song",
+        "n-yutian"
+      ]
+    },
+    {
+      "text": "文翁翻教授，",
+      "pinyin": [
+        "wén",
+        "wēng",
+        "fān",
+        "jiào",
+        "shòu"
+      ],
+      "translation": "希望你像汉代的文翁那样翻新教化、办教育。",
+      "noteIds": [
+        "n-wenweng",
+        "n-fan"
+      ]
+    },
+    {
+      "text": "不敢倚先贤。",
+      "pinyin": [
+        "bù",
+        "gǎn",
+        "yǐ",
+        "xiān",
+        "xián"
+      ],
+      "translation": "不能只倚仗前贤的功业，自己不去努力。",
+      "noteIds": []
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-he",
+      "word": "壑",
+      "pinyin": "hè",
+      "meaning": "深沟，这里指山谷。"
+    },
+    {
+      "id": "n-cantian",
+      "word": "参天",
+      "pinyin": "cān tiān",
+      "meaning": "树木高高耸立，快碰到天空了。"
+    },
+    {
+      "id": "n-dujuan",
+      "word": "杜鹃",
+      "pinyin": "dù juān",
+      "meaning": "鸟名，又叫子规，叫声很响亮。"
+    },
+    {
+      "id": "n-shumiao",
+      "word": "树杪",
+      "pinyin": "shù miǎo",
+      "meaning": "树梢。"
+    },
+    {
+      "id": "n-chong",
+      "word": "重",
+      "pinyin": "chóng",
+      "meaning": "量词，指层。"
+    },
+    {
+      "id": "n-shu",
+      "word": "输",
+      "pinyin": "shū",
+      "meaning": "缴纳、上交。"
+    },
+    {
+      "id": "n-tongbu",
+      "word": "橦布",
+      "pinyin": "tóng bù",
+      "meaning": "用橦树花织成的布，是蜀地的特产。"
+    },
+    {
+      "id": "n-song",
+      "word": "讼",
+      "pinyin": "sòng",
+      "meaning": "打官司。"
+    },
+    {
+      "id": "n-yutian",
+      "word": "芋田",
+      "pinyin": "yù tián",
+      "meaning": "种芋头的田地。"
+    },
+    {
+      "id": "n-wenweng",
+      "word": "文翁",
+      "pinyin": "wén wēng",
+      "meaning": "汉代蜀郡太守，曾兴办学校教育百姓，是有名的好官。"
+    },
+    {
+      "id": "n-fan",
+      "word": "翻",
+      "pinyin": "fān",
+      "meaning": "翻新、倡导，指推广教育教化。"
+    }
+  ],
+  "translation": "千万条山谷里，大树高高耸入天空，千百座山上到处是杜鹃鸟的叫声。山里下了一整夜的雨，树梢上好像挂着上百层泉水。蜀地的女子要缴纳橦木花织成的布，巴地的人们常为芋田打官司。希望你像文翁那样翻新教化、兴办教育，不要只倚仗前贤的功业而无所作为。",
+  "appreciation": "这是送别诗中很特别的一首：诗人不写离别的愁绪，反而把朋友要去的地方写成一幅生气勃勃的大画。大树高到天上，杜鹃叫满千山，一场夜雨过后，树梢像挂起了千层泉水，声音、颜色全都有。诗的最后还劝朋友像好官文翁一样办好教育，把送别变成了真诚的鼓励。",
+  "background": "唐代送人去外地做官，常写诗相赠。一位姓李的使君要去梓州（今四川三台）上任，王维写下这首诗为他送行。诗人把四川山高林密、雨水丰富的景象想象成画，还劝朋友到了那里要像汉代文翁一样兴办教育、勤政爱民。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "大树参天",
+      "text": "千山万壑间大树高耸入云，满山都是杜鹃鸟的啼叫。"
+    },
+    {
+      "step": 2,
+      "title": "夜雨悬泉",
+      "text": "山中下了一夜大雨，树梢上像挂着上百层泉水。"
+    },
+    {
+      "step": 3,
+      "title": "蜀地风情",
+      "text": "蜀女要交橦布，巴人为芋田的事常常打官司。"
+    },
+    {
+      "step": 4,
+      "title": "寄语使君",
+      "text": "诗人勉励李使君像文翁一样兴教化、勤政爱民。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "参",
+      "reading": "cān",
+      "reason": "“参天”是高耸入天的意思，读 cān。",
+      "standard": "不要读成 shēn"
+    },
+    {
+      "char": "橦",
+      "reading": "tóng",
+      "reason": "橦是一种树，“橦布”指用橦树花织的布，读 tóng。"
+    },
+    {
+      "char": "杪",
+      "reading": "miǎo",
+      "reason": "“树杪”是树梢的意思，读 miǎo。"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1045
+}

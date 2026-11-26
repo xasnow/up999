@@ -1,0 +1,180 @@
+{
+  "id": "tang-shengtang-libai-ziye-qiu",
+  "slug": "ziye-qiu",
+  "title": "子夜吴歌·秋歌",
+  "titlePinyin": "zǐ yè wú gē · qiū gē",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "五言乐府",
+  "authorId": "libai",
+  "gradeBand": "ext",
+  "tags": [
+    "思乡",
+    "月夜",
+    "秋天",
+    "五言乐府"
+  ],
+  "difficulty": 3,
+  "writtenYear": 731,
+  "writtenLabel": "约公元 731 年（李白 30 岁，漫游期间拟乐府旧题《子夜四时歌》而作）",
+  "orderInAuthor": 3,
+  "famousLines": [
+    "长安一片月，万户捣衣声。"
+  ],
+  "lines": [
+    {
+      "text": "长安一片月，",
+      "pinyin": [
+        "cháng",
+        "ān",
+        "yí",
+        "piàn",
+        "yuè"
+      ],
+      "translation": "长安城笼罩在一片月光里，",
+      "noteIds": []
+    },
+    {
+      "text": "万户捣衣声。",
+      "pinyin": [
+        "wàn",
+        "hù",
+        "dǎo",
+        "yī",
+        "shēng"
+      ],
+      "translation": "千家万户传来捣衣的声音。",
+      "noteIds": [
+        "n-diaoyi"
+      ]
+    },
+    {
+      "text": "秋风吹不尽，",
+      "pinyin": [
+        "qiū",
+        "fēng",
+        "chuī",
+        "bù",
+        "jìn"
+      ],
+      "translation": "秋风吹不尽这声声思情，",
+      "noteIds": []
+    },
+    {
+      "text": "总是玉关情。",
+      "pinyin": [
+        "zǒng",
+        "shì",
+        "yù",
+        "guān",
+        "qíng"
+      ],
+      "translation": "那都是对远在玉门关的亲人的牵挂。",
+      "noteIds": [
+        "n-yuguan"
+      ]
+    },
+    {
+      "text": "何日平胡虏，",
+      "pinyin": [
+        "hé",
+        "rì",
+        "píng",
+        "hú",
+        "lǔ"
+      ],
+      "translation": "什么时候才能平定入侵的敌人，",
+      "noteIds": [
+        "n-hulu"
+      ]
+    },
+    {
+      "text": "良人罢远征。",
+      "pinyin": [
+        "liáng",
+        "rén",
+        "bà",
+        "yuǎn",
+        "zhēng"
+      ],
+      "translation": "让我的丈夫结束远征，回家团聚。",
+      "noteIds": [
+        "n-liangren"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-diaoyi",
+      "word": "捣衣",
+      "pinyin": "dǎo yī",
+      "meaning": "秋天把布帛放在砧上用棒敲打，好裁制寒衣。秋夜捣衣，多是妇女在为远征的亲人赶做冬衣。"
+    },
+    {
+      "id": "n-yuguan",
+      "word": "玉关",
+      "pinyin": "yù guān",
+      "meaning": "玉门关，在今甘肃，是通往西域边地的关口。"
+    },
+    {
+      "id": "n-hulu",
+      "word": "胡虏",
+      "pinyin": "hú lǔ",
+      "meaning": "古代对北方入侵部族的称呼。"
+    },
+    {
+      "id": "n-liangren",
+      "word": "良人",
+      "pinyin": "liáng rén",
+      "meaning": "丈夫。罢，停止、结束。"
+    }
+  ],
+  "translation": "长安城笼罩在一片月光里，千家万户传来捣衣的声音。秋风吹不尽这声声思情，那都是对远在玉门关的亲人的牵挂。什么时候才能平定入侵的敌人，让我的丈夫结束远征，回家团聚。",
+  "appreciation": "一句“长安一片月，万户捣衣声”，月色和捣衣声洒满全城，把无数思妇的心事汇成了同一幅画面。秋风本吹不尽捣衣声，诗人说吹不尽的是“玉关情”，声音里全是牵挂。结尾何日平虏、良人罢征，个人思念连着天下太平，短短六句，既有画面，又有声音，还有家国之情，是李白乐府中最动人的篇章之一。",
+  "background": "这是《子夜吴歌》四首中的秋歌，也是最有名的一首。唐代常年有将士戍守西北边关，秋夜长安的妇女们捣衣赶制寒衣寄给远方的丈夫。李白听见满城捣衣声，写下这首诗，为千万思妇说出心里的话。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "月满长安",
+      "text": "秋夜的月光洒满长安城，一片银白。"
+    },
+    {
+      "step": 2,
+      "title": "万户捣衣",
+      "text": "家家户户传来捣衣声，人们在赶做冬衣。"
+    },
+    {
+      "step": 3,
+      "title": "风吹不尽",
+      "text": "秋风怎么也吹不散这些声音，声声都是对玉门关亲人的思念。"
+    },
+    {
+      "step": 4,
+      "title": "盼罢远征",
+      "text": "她们盼着平定胡虏，让丈夫早日回家。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "捣",
+      "reading": "dǎo",
+      "reason": "“捣衣”是用棒敲打衣服的意思，读 dǎo。",
+      "standard": "不要读成 dǎo 之外的音"
+    },
+    {
+      "char": "虏",
+      "reading": "lǔ",
+      "reason": "“平胡虏”的“虏”指入侵的敌人，读 lǔ。",
+      "standard": "不要读成 lǔ 之外的音，如 luó"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》",
+    "《李太白集》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1247
+}

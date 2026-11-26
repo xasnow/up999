@@ -1,0 +1,320 @@
+{
+  "id": "tang-shengtang-libai-xiazhongnanshan",
+  "slug": "xiazhongnanshan",
+  "title": "下终南山过斛斯山人宿置酒",
+  "titlePinyin": "xià zhōng nán shān guò hú sī shān rén sù zhì jiǔ",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "五言古诗",
+  "authorId": "libai",
+  "gradeBand": "ext",
+  "tags": [
+    "田园",
+    "五言古诗",
+    "明月",
+    "绿竹"
+  ],
+  "difficulty": 3,
+  "writtenYear": 730,
+  "writtenLabel": "约公元 730 年（李白 30 岁，初入长安时期，游终南山作）",
+  "orderInAuthor": 7,
+  "famousLines": [
+    "暮从碧山下，山月随人归。",
+    "我醉君复乐，陶然共忘机。"
+  ],
+  "lines": [
+    {
+      "text": "暮从碧山下，",
+      "pinyin": [
+        "mù",
+        "cóng",
+        "bì",
+        "shān",
+        "xià"
+      ],
+      "translation": "傍晚我从碧绿的终南山下来，",
+      "noteIds": []
+    },
+    {
+      "text": "山月随人归。",
+      "pinyin": [
+        "shān",
+        "yuè",
+        "suí",
+        "rén",
+        "guī"
+      ],
+      "translation": "月亮一路跟着人回家。",
+      "noteIds": []
+    },
+    {
+      "text": "却顾所来径，",
+      "pinyin": [
+        "què",
+        "gù",
+        "suǒ",
+        "lái",
+        "jìng"
+      ],
+      "translation": "回头望望来时的小路，",
+      "noteIds": [
+        "n-jing"
+      ]
+    },
+    {
+      "text": "苍苍横翠微。",
+      "pinyin": [
+        "cāng",
+        "cāng",
+        "héng",
+        "cuì",
+        "wēi"
+      ],
+      "translation": "暮色里苍苍茫茫，横着一片青翠的山坡。",
+      "noteIds": [
+        "n-cuiwei"
+      ]
+    },
+    {
+      "text": "相携及田家，",
+      "pinyin": [
+        "xiāng",
+        "xié",
+        "jí",
+        "tián",
+        "jiā"
+      ],
+      "translation": "结伴来到山人的农家，",
+      "noteIds": []
+    },
+    {
+      "text": "童稚开荆扉。",
+      "pinyin": [
+        "tóng",
+        "zhì",
+        "kāi",
+        "jīng",
+        "fēi"
+      ],
+      "translation": "孩子们打开了柴门。",
+      "noteIds": [
+        "n-tongzhi",
+        "n-jingfei"
+      ]
+    },
+    {
+      "text": "绿竹入幽径，",
+      "pinyin": [
+        "lǜ",
+        "zhú",
+        "rù",
+        "yōu",
+        "jìng"
+      ],
+      "translation": "绿竹掩着幽静的小路，",
+      "noteIds": []
+    },
+    {
+      "text": "青萝拂行衣。",
+      "pinyin": [
+        "qīng",
+        "luó",
+        "fú",
+        "xíng",
+        "yī"
+      ],
+      "translation": "青萝轻轻拂过行人的衣裳。",
+      "noteIds": []
+    },
+    {
+      "text": "欢言得所憩，",
+      "pinyin": [
+        "huān",
+        "yán",
+        "dé",
+        "suǒ",
+        "qì"
+      ],
+      "translation": "说说笑笑，找到了歇脚的好地方，",
+      "noteIds": [
+        "n-qi"
+      ]
+    },
+    {
+      "text": "美酒聊共挥。",
+      "pinyin": [
+        "měi",
+        "jiǔ",
+        "liáo",
+        "gòng",
+        "huī"
+      ],
+      "translation": "美酒摆上，大家随意举杯同饮。",
+      "noteIds": [
+        "n-liao",
+        "n-hui"
+      ]
+    },
+    {
+      "text": "长歌吟松风，",
+      "pinyin": [
+        "cháng",
+        "gē",
+        "yín",
+        "sōng",
+        "fēng"
+      ],
+      "translation": "放声长歌，歌声应和着松间的风，",
+      "noteIds": []
+    },
+    {
+      "text": "曲尽河星稀。",
+      "pinyin": [
+        "qǔ",
+        "jìn",
+        "hé",
+        "xīng",
+        "xī"
+      ],
+      "translation": "一曲唱完，银河的星星已经稀疏。",
+      "noteIds": [
+        "n-hexing"
+      ]
+    },
+    {
+      "text": "我醉君复乐，",
+      "pinyin": [
+        "wǒ",
+        "zuì",
+        "jūn",
+        "fù",
+        "lè"
+      ],
+      "translation": "我醉了，你也快乐，",
+      "noteIds": []
+    },
+    {
+      "text": "陶然共忘机。",
+      "pinyin": [
+        "táo",
+        "rán",
+        "gòng",
+        "wàng",
+        "jī"
+      ],
+      "translation": "我们高高兴兴，把世间的计较都忘了。",
+      "noteIds": [
+        "n-wangji"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-jing",
+      "word": "径",
+      "pinyin": "jìng",
+      "meaning": "小路。"
+    },
+    {
+      "id": "n-cuiwei",
+      "word": "翠微",
+      "pinyin": "cuì wēi",
+      "meaning": "青翠的山坡，这里指终南山。"
+    },
+    {
+      "id": "n-tongzhi",
+      "word": "童稚",
+      "pinyin": "tóng zhì",
+      "meaning": "小孩子。"
+    },
+    {
+      "id": "n-jingfei",
+      "word": "荆扉",
+      "pinyin": "jīng fēi",
+      "meaning": "柴门，用树枝、荆条编成的门。"
+    },
+    {
+      "id": "n-qi",
+      "word": "憩",
+      "pinyin": "qì",
+      "meaning": "休息。得所憩：找到了歇脚的好地方。"
+    },
+    {
+      "id": "n-liao",
+      "word": "聊",
+      "pinyin": "liáo",
+      "meaning": "姑且，随意地。"
+    },
+    {
+      "id": "n-hui",
+      "word": "挥",
+      "pinyin": "huī",
+      "meaning": "挥杯，举杯喝酒。"
+    },
+    {
+      "id": "n-hexing",
+      "word": "河星稀",
+      "pinyin": "hé xīng xī",
+      "meaning": "银河里的星星稀疏了，说明夜已经很深。河指银河。"
+    },
+    {
+      "id": "n-wangji",
+      "word": "忘机",
+      "pinyin": "wàng jī",
+      "meaning": "忘掉计较、算计的心思，指心境淡泊自在。"
+    }
+  ],
+  "translation": "傍晚我从碧绿的终南山下来，月亮一路跟着人回家。回头望望来时的小路，暮色里苍苍茫茫，横着一片青翠的山坡。结伴来到山人的农家，孩子们打开了柴门。绿竹掩着幽静的小路，青萝轻轻拂过行人的衣裳。说说笑笑，找到了歇脚的好地方，美酒摆上，大家随意举杯同饮。放声长歌，歌声应和着松间的风，一曲唱完，银河的星星已经稀疏。我醉了，你也快乐，我们高高兴兴，把世间的计较都忘了。",
+  "appreciation": "这首诗像一段轻松的夜游记录：下山有月亮跟着走，回望来路一片青翠，进农家有孩子笑着开门，喝酒喝到银河星稀。最打动人的是“陶然共忘机”——主人不问客人是谁，客人不想明天的事，大家把心放进了月光、松风和酒里。李白的洒脱，山里的宁静，融成了同一个夜晚。",
+  "background": "约公元 730 年，李白第一次到长安求仕，没能如愿，常到城南的终南山游赏散心。这天傍晚他从山上下来，路过朋友斛斯山人的家，主人热情留宿、摆酒相待。宾主痛饮高歌，尽兴而醉，李白写下这首诗记下这个畅快的夜晚。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "月下下山",
+      "text": "傍晚从碧绿的终南山下来，山月一路跟着人回家。"
+    },
+    {
+      "step": 2,
+      "title": "回望山径",
+      "text": "回头看来时的小路，暮色中青翠山色苍茫横卧。"
+    },
+    {
+      "step": 3,
+      "title": "山家开樽",
+      "text": "结伴走到山人家，孩子打开柴门，绿竹青萝迎客。"
+    },
+    {
+      "step": 4,
+      "title": "陶然忘机",
+      "text": "美酒长歌到银河星稀，宾主都醉了，忘尽世间计较。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "斛",
+      "reading": "hú",
+      "reason": "“斛斯”是复姓，“斛”是古代量器，读 hú。",
+      "standard": "不要读成 jiǎo"
+    },
+    {
+      "char": "憩",
+      "reading": "qì",
+      "reason": "“憩”是休息的意思，读 qì。",
+      "standard": "不要读成 tì"
+    },
+    {
+      "char": "稚",
+      "reading": "zhì",
+      "reason": "“童稚”指小孩子，“稚”读 zhì。"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》",
+    "《李太白集》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1175
+}

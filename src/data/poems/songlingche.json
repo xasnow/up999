@@ -1,0 +1,154 @@
+{
+  "id": "tang-zhongtang-liuchangqing-songlingche",
+  "slug": "songlingche",
+  "title": "送灵澈上人",
+  "titlePinyin": "sòng líng chè shàng rén",
+  "dynasty": "tangshi",
+  "era": "zhongtang",
+  "genre": "shi",
+  "form": "五言绝句",
+  "authorId": "liuchangqing",
+  "gradeBand": "ext",
+  "tags": [
+    "送别",
+    "竹林",
+    "斜阳",
+    "五言绝句"
+  ],
+  "difficulty": 3,
+  "writtenYear": 769,
+  "writtenLabel": "约公元 769 年（刘长卿约 43 岁，在江南送别年轻诗僧灵澈）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "荷笠带斜阳，青山独归远。"
+  ],
+  "lines": [
+    {
+      "text": "苍苍竹林寺，",
+      "pinyin": [
+        "cāng",
+        "cāng",
+        "zhú",
+        "lín",
+        "sì"
+      ],
+      "translation": "苍翠的竹林深处，藏着一座寺院，",
+      "noteIds": [
+        "n-cangcang"
+      ]
+    },
+    {
+      "text": "杳杳钟声晚。",
+      "pinyin": [
+        "yǎo",
+        "yǎo",
+        "zhōng",
+        "shēng",
+        "wǎn"
+      ],
+      "translation": "傍晚时分，传来幽远悠长的钟声。",
+      "noteIds": [
+        "n-yaoyao"
+      ]
+    },
+    {
+      "text": "荷笠带斜阳，",
+      "pinyin": [
+        "hè",
+        "lì",
+        "dài",
+        "xié",
+        "yáng"
+      ],
+      "translation": "灵澈上人戴着斗笠，身上披着斜阳，",
+      "noteIds": [
+        "n-heli",
+        "n-xieyang"
+      ]
+    },
+    {
+      "text": "青山独归远。",
+      "pinyin": [
+        "qīng",
+        "shān",
+        "dú",
+        "guī",
+        "yuǎn"
+      ],
+      "translation": "独自走回青山深处，越走越远。",
+      "noteIds": []
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-cangcang",
+      "word": "苍苍",
+      "pinyin": "cāng cāng",
+      "meaning": "深青色，形容竹林茂密苍翠。"
+    },
+    {
+      "id": "n-yaoyao",
+      "word": "杳杳",
+      "pinyin": "yǎo yǎo",
+      "meaning": "幽深遥远、隐约看不清的样子。"
+    },
+    {
+      "id": "n-heli",
+      "word": "荷笠",
+      "pinyin": "hè lì",
+      "meaning": "戴着斗笠。荷是背、戴的意思，笠是斗笠。"
+    },
+    {
+      "id": "n-xieyang",
+      "word": "斜阳",
+      "pinyin": "xié yáng",
+      "meaning": "傍晚西斜的太阳。"
+    }
+  ],
+  "translation": "苍翠的竹林深处，藏着一座寺院，傍晚时分，传来幽远悠长的钟声。灵澈上人戴着斗笠，身上披着斜阳，独自走回青山深处，越走越远。",
+  "appreciation": "竹林深处的寺院传来傍晚的钟声，灵澈上人戴着斗笠，身披斜阳，独自走回远处的青山。诗人送他到江边，看着那小小的身影越走越远。全诗像一幅淡淡的水墨画，有钟声，有斜阳，有青山。送别却不见眼泪，只有一份安静洒脱的情谊，读完心里也变得干净清亮。",
+  "background": "约公元 769 年，年轻的诗僧灵澈在江南一带云游，与刘长卿相识。傍晚时分，他要回竹林寺方向的山中去。刘长卿送他上山，看着斜阳里戴笠独行的背影，写下这首送别小诗。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "竹林寺晚",
+      "text": "苍翠竹林中的寺院里，傍晚传来悠远的钟声。"
+    },
+    {
+      "step": 2,
+      "title": "荷笠出发",
+      "text": "灵澈上人戴着斗笠，身上还披着落日的余光。"
+    },
+    {
+      "step": 3,
+      "title": "独归青山",
+      "text": "他独自走回青山深处，小小的身影越走越远。"
+    },
+    {
+      "step": 4,
+      "title": "目送情长",
+      "text": "诗人站在原地久久望着，把情谊留在斜阳里。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "荷",
+      "reading": "hè",
+      "reason": "“荷笠”是戴着斗笠，“荷”作动词表示背、戴，读 hè。",
+      "standard": "不要读成 hé"
+    },
+    {
+      "char": "杳",
+      "reading": "yǎo",
+      "reason": "“杳杳”形容深远隐约，读 yǎo。",
+      "standard": "不要读成 miǎo"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1008
+}

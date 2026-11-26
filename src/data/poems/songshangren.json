@@ -1,0 +1,145 @@
+{
+  "id": "tang-zhongtang-liuchangqing-songshangren",
+  "slug": "songshangren",
+  "title": "送上人",
+  "titlePinyin": "sòng shàng rén",
+  "dynasty": "tangshi",
+  "era": "zhongtang",
+  "genre": "shi",
+  "form": "五言绝句",
+  "authorId": "liuchangqing",
+  "gradeBand": "ext",
+  "tags": [
+    "送别",
+    "白云",
+    "野鹤",
+    "五言绝句"
+  ],
+  "difficulty": 3,
+  "writtenYear": 772,
+  "writtenLabel": "约公元 772 年（刘长卿约 46 岁，送僧人朋友归山隐居）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "孤云将野鹤，岂向人间住。"
+  ],
+  "lines": [
+    {
+      "text": "孤云将野鹤，",
+      "pinyin": [
+        "gū",
+        "yún",
+        "jiāng",
+        "yě",
+        "hè"
+      ],
+      "translation": "你像一朵孤云带着野鹤，自由自在，",
+      "noteIds": [
+        "n-jiang",
+        "n-yehe"
+      ]
+    },
+    {
+      "text": "岂向人间住？",
+      "pinyin": [
+        "qǐ",
+        "xiàng",
+        "rén",
+        "jiān",
+        "zhù"
+      ],
+      "translation": "怎么会住在喧闹的人间呢？",
+      "noteIds": []
+    },
+    {
+      "text": "莫买沃洲山，",
+      "pinyin": [
+        "mò",
+        "mǎi",
+        "wò",
+        "zhōu",
+        "shān"
+      ],
+      "translation": "不要去买沃洲山来隐居，",
+      "noteIds": [
+        "n-wozhoushan"
+      ]
+    },
+    {
+      "text": "时人已知处。",
+      "pinyin": [
+        "shí",
+        "rén",
+        "yǐ",
+        "zhī",
+        "chù"
+      ],
+      "translation": "那里如今人人都知道，已经不清静了。",
+      "noteIds": []
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-jiang",
+      "word": "将",
+      "pinyin": "jiāng",
+      "meaning": "与、偕同，这里是带着、伴着的意思。"
+    },
+    {
+      "id": "n-yehe",
+      "word": "野鹤",
+      "pinyin": "yě hè",
+      "meaning": "野外自由生活的鹤，常用来比喻高洁闲逸的出家人。"
+    },
+    {
+      "id": "n-wozhoushan",
+      "word": "沃洲山",
+      "pinyin": "wò zhōu shān",
+      "meaning": "在今浙江新昌，是有名的山水胜地，古代僧人常去隐居修行。"
+    }
+  ],
+  "translation": "你像一朵孤云带着野鹤，自由自在，怎么会住在喧闹的人间呢？不要去买沃洲山来隐居，那里如今人人都知道，已经不清静了。",
+  "appreciation": "诗人把朋友比作孤云野鹤，说他这样的人不该住在热闹的人间。朋友要去山里修行，诗人却劝他：沃洲山虽好，如今名气太大，人人都知道，去了也不清静。全诗说的是送别，其实句句是对朋友的体贴：真正的清净不在名山，而在心里。话说得风趣，情意却很深。",
+  "background": "约公元 772 年，刘长卿的一位僧人朋友要离开人间烟火，去山里隐居修行。沃洲山是当时很有名的修行胜地，去的人多了，渐渐热闹起来。诗人送别时劝他另觅清静处，写下这首有趣又深情的小诗。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "孤云野鹤",
+      "text": "诗人称赞朋友像孤云伴着野鹤，自由自在又高洁。"
+    },
+    {
+      "step": 2,
+      "title": "不住人间",
+      "text": "这样的人远离尘俗，本就不该住在喧闹的人间。"
+    },
+    {
+      "step": 3,
+      "title": "好心提醒",
+      "text": "朋友想去沃洲山修行，诗人提醒他那里早已人人知晓。"
+    },
+    {
+      "step": 4,
+      "title": "另觅清静",
+      "text": "名山也变热闹了，真正的清静要到心里去找。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "将",
+      "reading": "jiāng",
+      "reason": "“孤云将野鹤”的“将”是偕同、带着的意思，读 jiāng。",
+      "standard": "不要读成 jiàng"
+    },
+    {
+      "char": "沃",
+      "reading": "wò",
+      "reason": "“沃洲山”的山名，读 wò。"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1010
+}

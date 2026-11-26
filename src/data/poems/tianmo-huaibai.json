@@ -1,0 +1,216 @@
+{
+  "id": "tang-shengtang-dufu-tianmo-huaibai",
+  "slug": "tianmo-huaibai",
+  "title": "天末怀李白",
+  "titlePinyin": "tiān mò huái lǐ bái",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "五言律诗",
+  "authorId": "dufu",
+  "gradeBand": "ext",
+  "tags": [
+    "友情",
+    "五言律诗",
+    "鸿雁",
+    "秋水"
+  ],
+  "difficulty": 3,
+  "writtenYear": 759,
+  "writtenLabel": "公元 759 年（杜甫 47 岁，在秦州，听说李白流放途中，写诗怀念）",
+  "orderInAuthor": 2,
+  "famousLines": [
+    "文章憎命达，魑魅喜人过。"
+  ],
+  "lines": [
+    {
+      "text": "凉风起天末，",
+      "pinyin": [
+        "liáng",
+        "fēng",
+        "qǐ",
+        "tiān",
+        "mò"
+      ],
+      "translation": "凉风从天边吹起。",
+      "noteIds": [
+        "n-tianmo"
+      ]
+    },
+    {
+      "text": "君子意如何。",
+      "pinyin": [
+        "jūn",
+        "zǐ",
+        "yì",
+        "rú",
+        "hé"
+      ],
+      "translation": "不知道远方的你，心情怎么样？",
+      "noteIds": []
+    },
+    {
+      "text": "鸿雁几时到，",
+      "pinyin": [
+        "hóng",
+        "yàn",
+        "jǐ",
+        "shí",
+        "dào"
+      ],
+      "translation": "捎信的大雁，什么时候才能飞到？",
+      "noteIds": []
+    },
+    {
+      "text": "江湖秋水多。",
+      "pinyin": [
+        "jiāng",
+        "hú",
+        "qiū",
+        "shuǐ",
+        "duō"
+      ],
+      "translation": "江湖上秋水漫漫，一路艰险重重。",
+      "noteIds": []
+    },
+    {
+      "text": "文章憎命达，",
+      "pinyin": [
+        "wén",
+        "zhāng",
+        "zēng",
+        "mìng",
+        "dá"
+      ],
+      "translation": "上天好像忌恨有才华的人，偏偏不让他们顺遂。",
+      "noteIds": [
+        "n-zeng"
+      ]
+    },
+    {
+      "text": "魑魅喜人过。",
+      "pinyin": [
+        "chī",
+        "mèi",
+        "xǐ",
+        "rén",
+        "guō"
+      ],
+      "translation": "山精水怪正等着有人经过，好下手害人。",
+      "noteIds": [
+        "n-chimei"
+      ]
+    },
+    {
+      "text": "应共冤魂语，",
+      "pinyin": [
+        "yīng",
+        "gòng",
+        "yuān",
+        "hún",
+        "yǔ"
+      ],
+      "translation": "你应该会同那位含冤的诗人说说话吧，",
+      "noteIds": [
+        "n-yuanhun"
+      ]
+    },
+    {
+      "text": "投诗赠汨罗。",
+      "pinyin": [
+        "tóu",
+        "shī",
+        "zèng",
+        "mì",
+        "luó"
+      ],
+      "translation": "把诗投进汨罗江，赠给他的在天之灵。",
+      "noteIds": [
+        "n-miluo"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-tianmo",
+      "word": "天末",
+      "pinyin": "tiān mò",
+      "meaning": "天边，指极远的地方。"
+    },
+    {
+      "id": "n-zeng",
+      "word": "憎",
+      "pinyin": "zēng",
+      "meaning": "恨、忌恨。“文章憎命达”是说文章越好的人，命运偏偏越不顺。"
+    },
+    {
+      "id": "n-chimei",
+      "word": "魑魅",
+      "pinyin": "chī mèi",
+      "meaning": "山林里害人的妖怪。"
+    },
+    {
+      "id": "n-yuanhun",
+      "word": "冤魂",
+      "pinyin": "yuān hún",
+      "meaning": "指含冤投江而死的屈原。"
+    },
+    {
+      "id": "n-miluo",
+      "word": "汨罗",
+      "pinyin": "mì luó",
+      "meaning": "汨罗江，在今湖南，是屈原投江的地方。"
+    }
+  ],
+  "translation": "凉风从天边吹起，不知道远方的你，心情怎么样？捎信的大雁什么时候才能飞到？江湖上秋水漫漫，一路艰险重重。上天好像忌恨有才华的人，偏偏不让他们顺遂；山精水怪正等着有人经过，好下手害人。你应该会同那位含冤的诗人说说话吧，把诗投进汨罗江，赠给他的在天之灵。",
+  "appreciation": "起笔就让人心里发凉：凉风从天边吹来，最惦记的人恰好在最远的地方。中间两句是全诗的名句——文章越好，命运越坎坷；连妖怪都专等着过路人吃亏。诗人用这样愤愤的话，替朋友的遭遇抱不平。结尾想象李白把诗投进汨罗江送给屈原，把眼前朋友的委屈和千年前诗人的冤屈连在一起，思念里满是敬意。",
+  "background": "公元 759 年，李白因为卷入一场皇室纷争，被判流放夜郎，走到半路才遇到大赦。杜甫远在秦州，消息不清不楚，心里非常挂念这位老朋友。秋风吹起时，他写下这首诗，问候远方，也为朋友的遭遇抱不平。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "天末起风",
+      "text": "凉风从天边吹起，身在秦州的杜甫，挂念流放远方的老友李白。"
+    },
+    {
+      "step": 2,
+      "title": "盼雁传书",
+      "text": "他盼着鸿雁捎来消息，又担心江湖秋水多、路上艰险。"
+    },
+    {
+      "step": 3,
+      "title": "才命相妨",
+      "text": "诗人愤愤不平：文章越好命运越差，妖怪还专等路人上当。"
+    },
+    {
+      "step": 4,
+      "title": "投诗汨罗",
+      "text": "他想象李白同屈原的冤魂说话，把诗投进汨罗江相赠。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "魑魅",
+      "reading": "chī mèi",
+      "reason": "山林里害人的妖怪叫“魑魅”，两个字要读准。"
+    },
+    {
+      "char": "汨",
+      "reading": "mì",
+      "reason": "汨罗江是屈原投江的地方，“汨”读 mì。",
+      "standard": "不要和“汩（gǔ）”混错"
+    },
+    {
+      "char": "过",
+      "reading": "guō",
+      "reason": "“喜人过”的“过”指有人经过，此处押歌韵，按古音读平声 guō。",
+      "standard": "这里不读 guò"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1076
+}

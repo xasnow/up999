@@ -1,0 +1,397 @@
+{
+  "id": "tang-shengtang-libai-xinglunan-3",
+  "slug": "xinglunan-3",
+  "title": "行路难·其三",
+  "titlePinyin": "xíng lù nán · qí sān",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "杂言乐府",
+  "authorId": "libai",
+  "gradeBand": "ext",
+  "tags": [
+    "哲理",
+    "怀古",
+    "秋风",
+    "杂言乐府"
+  ],
+  "difficulty": 3,
+  "writtenYear": 744,
+  "writtenLabel": "约公元 744 年（李白 43 岁，被“赐金放还”、离开长安时所作）",
+  "orderInAuthor": 6,
+  "famousLines": [
+    "且乐生前一杯酒，何须身后千载名？"
+  ],
+  "lines": [
+    {
+      "text": "有耳莫洗颍川水，",
+      "pinyin": [
+        "yǒu",
+        "ěr",
+        "mò",
+        "xǐ",
+        "yǐng",
+        "chuān",
+        "shuǐ"
+      ],
+      "translation": "有耳朵就别去颍川水里洗，",
+      "noteIds": [
+        "n-yingchuan"
+      ]
+    },
+    {
+      "text": "有口莫食首阳蕨。",
+      "pinyin": [
+        "yǒu",
+        "kǒu",
+        "mò",
+        "shí",
+        "shǒu",
+        "yáng",
+        "jué"
+      ],
+      "translation": "有嘴就别去吃首阳山的蕨菜。",
+      "noteIds": [
+        "n-shouyang"
+      ]
+    },
+    {
+      "text": "含光混世贵无名，",
+      "pinyin": [
+        "hán",
+        "guāng",
+        "hùn",
+        "shì",
+        "guì",
+        "wú",
+        "míng"
+      ],
+      "translation": "把才华藏在身上、混同世俗，可贵的是不求名声，",
+      "noteIds": [
+        "n-hanguang"
+      ]
+    },
+    {
+      "text": "何用孤高比云月？",
+      "pinyin": [
+        "hé",
+        "yòng",
+        "gū",
+        "gāo",
+        "bǐ",
+        "yún",
+        "yuè"
+      ],
+      "translation": "何必孤芳自赏，自比天上的云和月？",
+      "noteIds": []
+    },
+    {
+      "text": "吾观自古贤达人，",
+      "pinyin": [
+        "wú",
+        "guān",
+        "zì",
+        "gǔ",
+        "xián",
+        "dá",
+        "rén"
+      ],
+      "translation": "我看自古以来的贤能通达之人，",
+      "noteIds": []
+    },
+    {
+      "text": "功成不退皆殒身。",
+      "pinyin": [
+        "gōng",
+        "chéng",
+        "bù",
+        "tuì",
+        "jiē",
+        "yǔn",
+        "shēn"
+      ],
+      "translation": "功成名就却不肯退身的，都丢了性命。",
+      "noteIds": [
+        "n-yunshen"
+      ]
+    },
+    {
+      "text": "子胥既弃吴江上，",
+      "pinyin": [
+        "zǐ",
+        "xū",
+        "jì",
+        "qì",
+        "wú",
+        "jiāng",
+        "shàng"
+      ],
+      "translation": "伍子胥被抛弃，尸身抛在吴江上，",
+      "noteIds": [
+        "n-zixu"
+      ]
+    },
+    {
+      "text": "屈原终投湘水滨。",
+      "pinyin": [
+        "qū",
+        "yuán",
+        "zhōng",
+        "tóu",
+        "xiāng",
+        "shuǐ",
+        "bīn"
+      ],
+      "translation": "屈原最终投进了湘水之滨。",
+      "noteIds": []
+    },
+    {
+      "text": "陆机雄才岂自保？",
+      "pinyin": [
+        "lù",
+        "jī",
+        "xióng",
+        "cái",
+        "qǐ",
+        "zì",
+        "bǎo"
+      ],
+      "translation": "陆机这样的大才子，难道能保住自己？",
+      "noteIds": [
+        "n-luji"
+      ]
+    },
+    {
+      "text": "李斯税驾苦不早。",
+      "pinyin": [
+        "lǐ",
+        "sī",
+        "shuì",
+        "jià",
+        "kǔ",
+        "bù",
+        "zǎo"
+      ],
+      "translation": "李斯叹息想卸下重担，只恨退身太晚了。",
+      "noteIds": [
+        "n-lisi"
+      ]
+    },
+    {
+      "text": "华亭鹤唳讵可闻？",
+      "pinyin": [
+        "huá",
+        "tíng",
+        "hè",
+        "lì",
+        "jù",
+        "kě",
+        "wén"
+      ],
+      "translation": "华亭的鹤鸣，陆机临刑前还能再听到吗？",
+      "noteIds": [
+        "n-huating"
+      ]
+    },
+    {
+      "text": "上蔡苍鹰何足道？",
+      "pinyin": [
+        "shàng",
+        "cài",
+        "cāng",
+        "yīng",
+        "hé",
+        "zú",
+        "dào"
+      ],
+      "translation": "上蔡东门的苍鹰，李斯再也牵不到了，还有什么可说？",
+      "noteIds": [
+        "n-shangcai"
+      ]
+    },
+    {
+      "text": "君不见吴中张翰称达生，",
+      "pinyin": [
+        "jūn",
+        "bú",
+        "jiàn",
+        "wú",
+        "zhōng",
+        "zhāng",
+        "hàn",
+        "chēng",
+        "dá",
+        "shēng"
+      ],
+      "translation": "你难道没看见吴中的张翰被人称赞为通达之人，",
+      "noteIds": [
+        "n-zhanghan"
+      ]
+    },
+    {
+      "text": "秋风忽忆江东行。",
+      "pinyin": [
+        "qiū",
+        "fēng",
+        "hū",
+        "yì",
+        "jiāng",
+        "dōng",
+        "xíng"
+      ],
+      "translation": "秋风一起，他就想起家乡，立刻动身回江东去。",
+      "noteIds": []
+    },
+    {
+      "text": "且乐生前一杯酒，",
+      "pinyin": [
+        "qiě",
+        "lè",
+        "shēng",
+        "qián",
+        "yì",
+        "bēi",
+        "jiǔ"
+      ],
+      "translation": "不如快活地在生前喝下一杯酒，",
+      "noteIds": []
+    },
+    {
+      "text": "何须身后千载名？",
+      "pinyin": [
+        "hé",
+        "xū",
+        "shēn",
+        "hòu",
+        "qiān",
+        "zǎi",
+        "míng"
+      ],
+      "translation": "何必在乎死后千年的名声？",
+      "noteIds": [
+        "n-qianzai"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-yingchuan",
+      "word": "颍川水",
+      "pinyin": "yǐng chuān shuǐ",
+      "meaning": "相传尧时的隐士许由在颍水边洗耳，表示不愿听做官的话。"
+    },
+    {
+      "id": "n-shouyang",
+      "word": "首阳蕨",
+      "pinyin": "shǒu yáng jué",
+      "meaning": "商朝末年伯夷、叔齐不食周粟，在首阳山采蕨菜充饥，最后饿死。"
+    },
+    {
+      "id": "n-hanguang",
+      "word": "含光混世",
+      "pinyin": "hán guāng hùn shì",
+      "meaning": "把才华光芒含藏起来，混同于世俗之中，不炫耀自己。"
+    },
+    {
+      "id": "n-yunshen",
+      "word": "殒身",
+      "pinyin": "yǔn shēn",
+      "meaning": "丧命、丢掉性命。"
+    },
+    {
+      "id": "n-zixu",
+      "word": "子胥",
+      "pinyin": "zǐ xū",
+      "meaning": "伍子胥，春秋吴国功臣，因直言被吴王赐死，尸身被抛入江中。"
+    },
+    {
+      "id": "n-luji",
+      "word": "陆机",
+      "pinyin": "lù jī",
+      "meaning": "西晋著名文学家，后被谗言所害，临刑前叹再也听不到华亭鹤鸣。"
+    },
+    {
+      "id": "n-huating",
+      "word": "华亭鹤唳",
+      "pinyin": "huá tíng hè lì",
+      "meaning": "华亭是陆机的家乡，他以鹤鸣好听闻名。唳，鹤叫。"
+    },
+    {
+      "id": "n-lisi",
+      "word": "税驾",
+      "pinyin": "shuì jià",
+      "meaning": "解下驾车的马，比喻退身休息。李斯被杀前叹想再牵黄犬出上蔡东门也不可得。"
+    },
+    {
+      "id": "n-shangcai",
+      "word": "上蔡苍鹰",
+      "pinyin": "shàng cài cāng yīng",
+      "meaning": "李斯临刑前对儿子说，想再像从前那样牵黄犬、架苍鹰出上蔡东门打猎，已不可能。"
+    },
+    {
+      "id": "n-zhanghan",
+      "word": "张翰",
+      "pinyin": "zhāng hàn",
+      "meaning": "西晋人，在洛阳做官，见秋风起想起家乡的莼菜羹、鲈鱼脍，立刻辞官回江东。"
+    },
+    {
+      "id": "n-qianzai",
+      "word": "千载",
+      "pinyin": "qiān zǎi",
+      "meaning": "千年。载，年。"
+    }
+  ],
+  "translation": "有耳朵就别去颍川水里洗，有嘴就别去吃首阳山的蕨菜。把才华藏起来混同世俗，可贵的是不求名声，何必孤芳自赏去比云月？我看自古贤能通达之人，功成不退的都丢了性命：伍子胥被抛尸吴江，屈原投进湘水；陆机那样的大才子也难自保，李斯想退身只恨太晚。华亭的鹤鸣还能听到吗？上蔡的苍鹰还有什么可说？你难道没看见吴中的张翰被称作通达的人，秋风一起就动身回江东？不如生前快活地喝一杯酒，何必在乎死后千年的名声？",
+  "appreciation": "这一首全用古人说事：许由洗耳、夷齐采蕨是被称赞的清高，李白却说“莫洗”“莫食”，语出惊人；接着连举伍子胥、屈原、陆机、李斯四个功成不退、下场凄惨的例子，说明留恋功名的危险。结尾推出看得通透的张翰，秋风起就辞官回家，只留一句“且乐生前一杯酒”，把满腔不平化作旷达，也藏着说不出的愤懑。",
+  "background": "这是《行路难》的第三首。李白在长安亲见朝中倾轧，自己也被排挤离京，对“功成身退”有了痛切的体会。他借历史上功臣才子的悲剧提醒自己和世人：与其恋栈丧身，不如及早抽身。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "洗耳何用",
+      "text": "别学许由去颍川洗耳，也别学夷齐吃首阳蕨菜。"
+    },
+    {
+      "step": 2,
+      "title": "藏光于世",
+      "text": "把才华藏起来，不求名声，才是真正的可贵。"
+    },
+    {
+      "step": 3,
+      "title": "古人下场",
+      "text": "伍子胥、屈原、陆机、李斯，功成不退都丢了性命。"
+    },
+    {
+      "step": 4,
+      "title": "秋风归去",
+      "text": "学张翰见秋风就回家，生前有酒且尽欢。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "颍",
+      "reading": "yǐng",
+      "reason": "“颍川”是水名，读 Yǐng Chuān。",
+      "standard": "不要读成 jǐng 或 róng"
+    },
+    {
+      "char": "蕨",
+      "reading": "jué",
+      "reason": "“首阳蕨”的“蕨”是蕨菜，一种野菜，读 jué。",
+      "standard": "不要读成 juē"
+    },
+    {
+      "char": "唳",
+      "reading": "lì",
+      "reason": "“鹤唳”的“唳”是鹤叫的意思，读 lì。",
+      "standard": "不要读成 lèi"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》",
+    "《李太白集》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1238
+}

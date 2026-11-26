@@ -1,0 +1,164 @@
+{
+  "id": "tang-shengtang-libai-qingpingdiao-3",
+  "slug": "qingpingdiao-3",
+  "title": "清平调·其三",
+  "titlePinyin": "qīng píng diào · qí sān",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "七言乐府",
+  "authorId": "libai",
+  "gradeBand": "ext",
+  "tags": [
+    "咏物",
+    "牡丹",
+    "春天",
+    "七言乐府"
+  ],
+  "difficulty": 3,
+  "writtenYear": 743,
+  "writtenLabel": "约公元 743 年（李白 42 岁，供奉翰林，奉诏作于长安沉香亭）",
+  "orderInAuthor": 3,
+  "famousLines": [
+    "名花倾国两相欢，长得君王带笑看。"
+  ],
+  "lines": [
+    {
+      "text": "名花倾国两相欢，",
+      "pinyin": [
+        "míng",
+        "huā",
+        "qīng",
+        "guó",
+        "liǎng",
+        "xiāng",
+        "huān"
+      ],
+      "translation": "名贵的牡丹和倾国的美人，两相辉映，喜气洋洋，",
+      "noteIds": [
+        "n-qingguo"
+      ]
+    },
+    {
+      "text": "长得君王带笑看。",
+      "pinyin": [
+        "cháng",
+        "dé",
+        "jūn",
+        "wáng",
+        "dài",
+        "xiào",
+        "kān"
+      ],
+      "translation": "常常赢得君王带着笑容观赏。",
+      "noteIds": [
+        "n-zhangde"
+      ]
+    },
+    {
+      "text": "解释春风无限恨，",
+      "pinyin": [
+        "jiě",
+        "shì",
+        "chūn",
+        "fēng",
+        "wú",
+        "xiàn",
+        "hèn"
+      ],
+      "translation": "春风懂得消解人间无限的愁恨，",
+      "noteIds": [
+        "n-jieshi"
+      ]
+    },
+    {
+      "text": "沉香亭北倚阑干。",
+      "pinyin": [
+        "chén",
+        "xiāng",
+        "tíng",
+        "běi",
+        "yǐ",
+        "lán",
+        "gān"
+      ],
+      "translation": "此刻他们正在沉香亭北，倚着栏杆赏花。",
+      "noteIds": [
+        "n-langan"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-qingguo",
+      "word": "倾国",
+      "pinyin": "qīng guó",
+      "meaning": "美得能让全城全国的人都来看，这里指杨贵妃。"
+    },
+    {
+      "id": "n-zhangde",
+      "word": "长得",
+      "pinyin": "zhǎng dé",
+      "meaning": "长，常常、总是的意思；长得，总是得到。"
+    },
+    {
+      "id": "n-jieshi",
+      "word": "解释",
+      "pinyin": "jiě shì",
+      "meaning": "消解、消除，指春风吹散心中的愁恨。和今天的“解释”意思不同。"
+    },
+    {
+      "id": "n-langan",
+      "word": "阑干",
+      "pinyin": "lán gān",
+      "meaning": "栏杆。"
+    }
+  ],
+  "translation": "名贵的牡丹和倾国的美人，两相辉映，喜气洋洋，常常赢得君王带着笑容观赏。春风懂得消解人间无限的愁恨，此刻他们正在沉香亭北，倚着栏杆赏花。",
+  "appreciation": "前两首夸人，这一首把花、人、君王写进同一个画面：名花配美人，君王含笑看，一片和乐。结句落到沉香亭北、倚着栏杆的实景上，好像镜头从仙境慢慢收回眼前。全组诗到这里收束，有花、有人、有情、有景，既风光又妥帖，难怪玄宗听了很高兴。",
+  "background": "这是《清平调》的第三首，也是收尾的一首。乐工李龟年当场按词歌唱，玄宗亲自吹玉笛相和。诗末点出“沉香亭北倚阑干”，正是当天赏花的实景，把眼前欢宴定格成千古画面。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "名花美人",
+      "text": "亭前牡丹盛开，与倾城的美人互相辉映。"
+    },
+    {
+      "step": 2,
+      "title": "君王含笑",
+      "text": "玄宗带着笑容，久久观赏这花好人也好的场面。"
+    },
+    {
+      "step": 3,
+      "title": "春风消恨",
+      "text": "春风仿佛懂得人心，把所有愁恨都吹散了。"
+    },
+    {
+      "step": 4,
+      "title": "亭北倚栏",
+      "text": "沉香亭北，君王与美人倚着栏杆，一同赏花听歌。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "看",
+      "reading": "kān",
+      "reason": "“带笑看”的“看”处在押韵的位置，按古诗读平声 kān。",
+      "standard": "不要读成 kàn"
+    },
+    {
+      "char": "阑",
+      "reading": "lán",
+      "reason": "“阑干”就是栏杆，读 lán gān。",
+      "standard": "“阑”不要读成 lín"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》",
+    "《李太白集》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1235
+}

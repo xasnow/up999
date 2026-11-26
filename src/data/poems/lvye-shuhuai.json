@@ -1,0 +1,201 @@
+{
+  "id": "tang-shengtang-dufu-lvye-shuhuai",
+  "slug": "lvye-shuhuai",
+  "title": "旅夜书怀",
+  "titlePinyin": "lǚ yè shū huái",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "五言律诗",
+  "authorId": "dufu",
+  "gradeBand": "ext",
+  "tags": [
+    "月亮",
+    "五言律诗",
+    "大江",
+    "沙鸥"
+  ],
+  "difficulty": 3,
+  "writtenYear": 765,
+  "writtenLabel": "公元 765 年（杜甫 53 岁，离开成都草堂，乘船东下，夜里写诗抒怀）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "星垂平野阔，月涌大江流。"
+  ],
+  "lines": [
+    {
+      "text": "细草微风岸，",
+      "pinyin": [
+        "xì",
+        "cǎo",
+        "wēi",
+        "fēng",
+        "àn"
+      ],
+      "translation": "岸边的细草在微风中轻轻摇动。",
+      "noteIds": []
+    },
+    {
+      "text": "危樯独夜舟。",
+      "pinyin": [
+        "wēi",
+        "qiáng",
+        "dú",
+        "yè",
+        "zhōu"
+      ],
+      "translation": "高高的桅杆下，一条小船在夜里独自停泊。",
+      "noteIds": [
+        "n-weiqiang"
+      ]
+    },
+    {
+      "text": "星垂平野阔，",
+      "pinyin": [
+        "xīng",
+        "chuí",
+        "píng",
+        "yě",
+        "kuò"
+      ],
+      "translation": "星星低垂，显得原野格外辽阔。",
+      "noteIds": []
+    },
+    {
+      "text": "月涌大江流，",
+      "pinyin": [
+        "yuè",
+        "yǒng",
+        "dà",
+        "jiāng",
+        "liú"
+      ],
+      "translation": "月亮随着波涛涌动，大江滚滚东流。",
+      "noteIds": []
+    },
+    {
+      "text": "名岂文章著，",
+      "pinyin": [
+        "míng",
+        "qǐ",
+        "wén",
+        "zhāng",
+        "zhù"
+      ],
+      "translation": "我的名声，难道是靠文章显扬出来的吗？",
+      "noteIds": [
+        "n-zhu"
+      ]
+    },
+    {
+      "text": "官应老病休，",
+      "pinyin": [
+        "guān",
+        "yīng",
+        "lǎo",
+        "bìng",
+        "xiū"
+      ],
+      "translation": "官职大概也因为年老多病，就此罢了。",
+      "noteIds": []
+    },
+    {
+      "text": "飘飘何所似，",
+      "pinyin": [
+        "piāo",
+        "piāo",
+        "hé",
+        "suǒ",
+        "sì"
+      ],
+      "translation": "这样四处飘泊，像什么呢？",
+      "noteIds": []
+    },
+    {
+      "text": "天地一沙鸥。",
+      "pinyin": [
+        "tiān",
+        "dì",
+        "yī",
+        "shā",
+        "ōu"
+      ],
+      "translation": "就像茫茫天地间，一只孤单的沙鸥。",
+      "noteIds": [
+        "n-shaou"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-weiqiang",
+      "word": "危樯",
+      "pinyin": "wēi qiáng",
+      "meaning": "船上高高的桅杆。"
+    },
+    {
+      "id": "n-zhu",
+      "word": "著",
+      "pinyin": "zhù",
+      "meaning": "显扬、出名。"
+    },
+    {
+      "id": "n-shaou",
+      "word": "沙鸥",
+      "pinyin": "shā ōu",
+      "meaning": "一种水鸟，常用来比喻漂泊不定的人。"
+    }
+  ],
+  "translation": "岸边的细草在微风中轻轻摇动，高高的桅杆下，一条小船在夜里独自停泊。星星低垂，显得原野格外辽阔；月亮随着波涛涌动，大江滚滚东流。我的名声，难道是靠文章显扬出来的吗？官职大概也因为年老多病，就此罢了。这样四处飘泊，像什么呢？就像茫茫天地间，一只孤单的沙鸥。",
+  "appreciation": "前四句写夜景，越写越开阔：细草、微风、孤舟还小，到了“星垂平野阔，月涌大江流”，天地一下子变得无边无际。后四句反过来写自己：名声不靠文章，官职因老病而罢休，四处飘泊的自己，不过是天地间一只小小的沙鸥。景越大，人越小，两句对比，把漂泊的孤单写得又含蓄又沉重。",
+  "background": "公元 765 年，杜甫在成都失去依靠，带着家人乘船离开草堂，沿江东下。夜里船泊在岸边，他看着辽阔的原野和奔流的大江，想到自己四处漂泊、功业无成，写下这首诗抒发心里的感慨。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "夜泊孤舟",
+      "text": "微风吹动岸边细草，一条挂着高桅的小船在夜里独自停泊。"
+    },
+    {
+      "step": 2,
+      "title": "星野江月",
+      "text": "星星低垂原野辽阔，月光随波涛涌动，大江滚滚东流。"
+    },
+    {
+      "step": 3,
+      "title": "感叹身世",
+      "text": "诗人自问：名声岂靠文章显扬？官职也该因老病罢了。"
+    },
+    {
+      "step": 4,
+      "title": "天地沙鸥",
+      "text": "四处飘泊的自己，就像茫茫天地间一只孤单的沙鸥。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "樯",
+      "reading": "qiáng",
+      "reason": "“危樯”指船上高高的桅杆，读 qiáng。",
+      "standard": "不要读成 qiāng"
+    },
+    {
+      "char": "著",
+      "reading": "zhù",
+      "reason": "“名岂文章著”的“著”读 zhù，是显扬、有名的意思。",
+      "standard": "不要读成 zhe 或 zháo"
+    },
+    {
+      "char": "应",
+      "reading": "yīng",
+      "reason": "“官应老病休”的“应”是“大概”的意思，读 yīng。",
+      "standard": "不要读成 yìng"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1073
+}

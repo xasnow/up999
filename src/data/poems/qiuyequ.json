@@ -1,0 +1,188 @@
+{
+  "id": "tang-shengtang-wangwei-qiuyequ",
+  "slug": "qiuyequ",
+  "title": "秋夜曲",
+  "titlePinyin": "qiū yè qǔ",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "七言绝句",
+  "authorId": "wangwei",
+  "gradeBand": "ext",
+  "tags": [
+    "思念",
+    "七言绝句",
+    "月夜",
+    "秋天"
+  ],
+  "difficulty": 3,
+  "writtenYear": 720,
+  "writtenLabel": "约公元 720 年（王维 19 岁左右，早期借用乐府旧题写的诗）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "银筝夜久殷勤弄，心怯空房不忍归。"
+  ],
+  "lines": [
+    {
+      "text": "桂魄初生秋露微，",
+      "pinyin": [
+        "guì",
+        "pò",
+        "chū",
+        "shēng",
+        "qiū",
+        "lù",
+        "wēi"
+      ],
+      "translation": "月亮刚刚升起来，秋露又轻又凉。",
+      "noteIds": [
+        "n-guipo"
+      ]
+    },
+    {
+      "text": "轻罗已薄未更衣，",
+      "pinyin": [
+        "qīng",
+        "luó",
+        "yǐ",
+        "bó",
+        "wèi",
+        "gēng",
+        "yī"
+      ],
+      "translation": "身上的丝衣已经单薄，她却一直没有心思去换。",
+      "noteIds": [
+        "n-qingluo",
+        "n-bo",
+        "n-gengyi"
+      ]
+    },
+    {
+      "text": "银筝夜久殷勤弄，",
+      "pinyin": [
+        "yín",
+        "zhēng",
+        "yè",
+        "jiǔ",
+        "yīn",
+        "qín",
+        "nòng"
+      ],
+      "translation": "夜深了，她还在一遍又一遍地弹着银筝。",
+      "noteIds": [
+        "n-yinqin",
+        "n-nong"
+      ]
+    },
+    {
+      "text": "心怯空房不忍归。",
+      "pinyin": [
+        "xīn",
+        "qiè",
+        "kōng",
+        "fáng",
+        "bù",
+        "rěn",
+        "guī"
+      ],
+      "translation": "心里害怕回到空荡荡的房间，不忍心回去。",
+      "noteIds": [
+        "n-qie"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-guipo",
+      "word": "桂魄",
+      "pinyin": "guì pò",
+      "meaning": "月亮。传说月中有桂树，所以把月亮叫作桂魄。"
+    },
+    {
+      "id": "n-qingluo",
+      "word": "轻罗",
+      "pinyin": "qīng luó",
+      "meaning": "轻薄的丝织衣服。"
+    },
+    {
+      "id": "n-bo",
+      "word": "薄",
+      "pinyin": "bó",
+      "meaning": "单薄。"
+    },
+    {
+      "id": "n-gengyi",
+      "word": "更衣",
+      "pinyin": "gēng yī",
+      "meaning": "换衣服。"
+    },
+    {
+      "id": "n-yinqin",
+      "word": "殷勤",
+      "pinyin": "yīn qín",
+      "meaning": "反复不断地、用心地。"
+    },
+    {
+      "id": "n-nong",
+      "word": "弄",
+      "pinyin": "nòng",
+      "meaning": "弹奏。"
+    },
+    {
+      "id": "n-qie",
+      "word": "怯",
+      "pinyin": "qiè",
+      "meaning": "胆怯、害怕。"
+    }
+  ],
+  "translation": "月亮刚刚升起来，秋露又轻又凉。身上的丝衣已经单薄，她却一直没有心思去换。夜深了，她还在一遍又一遍地弹着银筝，心里害怕回到空荡荡的房间，不忍心回去。",
+  "appreciation": "这首诗写一个秋夜里的女子。月亮升起、秋露渐凉，她衣裳薄了也不换，只是一遍遍弹着筝。为什么？因为屋子里空空的，只有她自己。诗人不写“孤独”两个字，只写月亮、露水、筝声和一个不肯回房的身影，把思念写得很轻、也很深。",
+  "background": "《秋夜曲》是乐府旧题，多写女子秋夜里的思念。王维借用这个题目，用二十八个字画出了一个深秋月夜独自弹筝的女子形象，一般认为这是他早期的乐府作品。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "月升露凉",
+      "text": "月亮刚刚升上天空，秋夜的露水又轻又凉。"
+    },
+    {
+      "step": 2,
+      "title": "单衣不换",
+      "text": "女子身上的丝衣已经单薄，她却没有心思去换。"
+    },
+    {
+      "step": 3,
+      "title": "夜久弹筝",
+      "text": "夜已经很深了，她还在一遍又一遍地弹着银筝。"
+    },
+    {
+      "step": 4,
+      "title": "不忍归房",
+      "text": "她害怕回到空荡荡的房间，不忍心回去睡下。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "魄",
+      "reading": "pò",
+      "reason": "“桂魄”是月亮的别称，读 guì pò。"
+    },
+    {
+      "char": "薄",
+      "reading": "bó",
+      "reason": "“已薄”是说衣裳已经单薄，读 bó。",
+      "standard": "不要读成 báo"
+    },
+    {
+      "char": "怯",
+      "reading": "qiè",
+      "reason": "“怯”是害怕的意思，读 qiè。"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1229
+}

@@ -1,0 +1,186 @@
+{
+  "id": "tang-shengtang-libai-ziye-dong",
+  "slug": "ziye-dong",
+  "title": "子夜吴歌·冬歌",
+  "titlePinyin": "zǐ yè wú gē · dōng gē",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "五言乐府",
+  "authorId": "libai",
+  "gradeBand": "ext",
+  "tags": [
+    "思念",
+    "冬天",
+    "征袍",
+    "五言乐府"
+  ],
+  "difficulty": 3,
+  "writtenYear": 731,
+  "writtenLabel": "约公元 731 年（李白 30 岁，漫游期间拟乐府旧题《子夜四时歌》而作）",
+  "orderInAuthor": 4,
+  "famousLines": [
+    "明朝驿使发，一夜絮征袍。"
+  ],
+  "lines": [
+    {
+      "text": "明朝驿使发，",
+      "pinyin": [
+        "míng",
+        "zhāo",
+        "yì",
+        "shǐ",
+        "fā"
+      ],
+      "translation": "明天一早，驿站的信使就要出发，",
+      "noteIds": [
+        "n-yishi"
+      ]
+    },
+    {
+      "text": "一夜絮征袍。",
+      "pinyin": [
+        "yí",
+        "yè",
+        "xù",
+        "zhēng",
+        "páo"
+      ],
+      "translation": "她们连夜往征袍里絮上丝绵。",
+      "noteIds": [
+        "n-zhengpao"
+      ]
+    },
+    {
+      "text": "素手抽针冷，",
+      "pinyin": [
+        "sù",
+        "shǒu",
+        "chōu",
+        "zhēn",
+        "lěng"
+      ],
+      "translation": "雪白的手抽着针，冷得发僵，",
+      "noteIds": []
+    },
+    {
+      "text": "那堪把剪刀。",
+      "pinyin": [
+        "nǎ",
+        "kān",
+        "bǎ",
+        "jiǎn",
+        "dāo"
+      ],
+      "translation": "更别说还要握着冰冷的剪刀。",
+      "noteIds": [
+        "n-nakan"
+      ]
+    },
+    {
+      "text": "裁缝寄远道，",
+      "pinyin": [
+        "cái",
+        "féng",
+        "jì",
+        "yuǎn",
+        "dào"
+      ],
+      "translation": "裁好缝好，托人寄往远方的边关，",
+      "noteIds": []
+    },
+    {
+      "text": "几日到临洮。",
+      "pinyin": [
+        "jǐ",
+        "rì",
+        "dào",
+        "lín",
+        "táo"
+      ],
+      "translation": "要多少天才能送到临洮呢？",
+      "noteIds": [
+        "n-lintao"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-yishi",
+      "word": "驿使",
+      "pinyin": "yì shǐ",
+      "meaning": "驿站上传递书信、物品的信使。明朝，明天早晨。"
+    },
+    {
+      "id": "n-zhengpao",
+      "word": "絮征袍",
+      "pinyin": "xù zhēng páo",
+      "meaning": "往征人的战袍里铺进丝绵。絮，铺絮；征袍，远征的人穿的袍子。"
+    },
+    {
+      "id": "n-nakan",
+      "word": "那堪",
+      "pinyin": "nǎ kān",
+      "meaning": "哪里受得住、更不用说。那，同“哪”；堪，忍受。"
+    },
+    {
+      "id": "n-lintao",
+      "word": "临洮",
+      "pinyin": "lín táo",
+      "meaning": "地名，在今甘肃，唐代的边防重地。洮指洮河。"
+    }
+  ],
+  "translation": "明天一早，驿站的信使就要出发，她们连夜往征袍里絮上丝绵。雪白的手抽着针，冷得发僵，更别说还要握着冰冷的剪刀。裁好缝好，托人寄往远方的边关，要多少天才能送到临洮呢？",
+  "appreciation": "全诗只写一件事：一夜赶缝冬衣。驿使明天就出发，时间逼得紧，素手抽针发冷、剪刀也冰凉，动作细节里全是熬了一夜的辛苦。最后不写盼丈夫，只问一句“几日到临洮”，把思妇的牵挂藏在这条遥远的路上。秋歌唱相思，冬歌唱寄衣，前后两首连起来读，别有一番深情。",
+  "background": "这是《子夜吴歌》四首中的冬歌。唐代戍边的将士冬天急需寒衣，家中的妻子要赶在信使出发前把征袍缝好寄出。李白抓住“一夜絮征袍”这个细节，写出千家万户对远方亲人的牵挂，一般认为是开元年间所作。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "驿使将发",
+      "text": "听说信使明天一早就要出发送信送衣。"
+    },
+    {
+      "step": 2,
+      "title": "连夜絮袍",
+      "text": "思妇点亮灯，连夜往征袍里絮丝绵。"
+    },
+    {
+      "step": 3,
+      "title": "手冷针僵",
+      "text": "素手抽针冷得发僵，还握着冰凉的剪刀。"
+    },
+    {
+      "step": 4,
+      "title": "遥问临洮",
+      "text": "衣裳缝好了，可它几天才能到临洮？"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "絮",
+      "reading": "xù",
+      "reason": "“絮征袍”的“絮”是往衣服里铺丝绵的意思，读 xù。",
+      "standard": "不要读成 nǚ 或 rú"
+    },
+    {
+      "char": "那",
+      "reading": "nǎ",
+      "reason": "“那堪”就是“哪堪”，是“哪里受得住”的意思，读 nǎ。",
+      "standard": "不要读成 nà"
+    },
+    {
+      "char": "洮",
+      "reading": "táo",
+      "reason": "地名“临洮”读 lín táo。",
+      "standard": "不要读成 táo 之外的音，如 yáo"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》",
+    "《李太白集》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1248
+}

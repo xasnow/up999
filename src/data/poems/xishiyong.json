@@ -1,0 +1,334 @@
+{
+  "id": "tang-shengtang-wangwei-xishiyong",
+  "slug": "xishiyong",
+  "title": "西施咏",
+  "titlePinyin": "xī shī yǒng",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "五言古诗",
+  "authorId": "wangwei",
+  "gradeBand": "ext",
+  "tags": [
+    "怀古",
+    "五言古诗",
+    "吴宫",
+    "美人"
+  ],
+  "difficulty": 3,
+  "writtenYear": 718,
+  "writtenLabel": "约公元 718 年（王维 17 岁左右，青年时期借西施的故事感叹世态）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "朝为越溪女，暮作吴宫妃。"
+  ],
+  "lines": [
+    {
+      "text": "艳色天下重，",
+      "pinyin": [
+        "yàn",
+        "sè",
+        "tiān",
+        "xià",
+        "zhòng"
+      ],
+      "translation": "美丽的容貌天下人都看重。",
+      "noteIds": []
+    },
+    {
+      "text": "西施宁久微。",
+      "pinyin": [
+        "xī",
+        "shī",
+        "níng",
+        "jiǔ",
+        "wēi"
+      ],
+      "translation": "西施这样的美人，怎么会长久卑微呢？",
+      "noteIds": [
+        "n-ning",
+        "n-wei-wei"
+      ]
+    },
+    {
+      "text": "朝为越溪女，",
+      "pinyin": [
+        "zhāo",
+        "wéi",
+        "yuè",
+        "xī",
+        "nǚ"
+      ],
+      "translation": "早晨还是越溪边洗纱的姑娘。",
+      "noteIds": [
+        "n-zhaowei"
+      ]
+    },
+    {
+      "text": "暮作吴宫妃。",
+      "pinyin": [
+        "mù",
+        "zuò",
+        "wú",
+        "gōng",
+        "fēi"
+      ],
+      "translation": "晚上就做了吴王宫里的妃子。",
+      "noteIds": []
+    },
+    {
+      "text": "贱日岂殊众，",
+      "pinyin": [
+        "jiàn",
+        "rì",
+        "qǐ",
+        "shū",
+        "zhòng"
+      ],
+      "translation": "低微的日子里，她和普通人有什么不同？",
+      "noteIds": [
+        "n-shu"
+      ]
+    },
+    {
+      "text": "贵来方悟稀。",
+      "pinyin": [
+        "guì",
+        "lái",
+        "fāng",
+        "wù",
+        "xī"
+      ],
+      "translation": "尊贵了以后，才知道这样的人确实稀少。",
+      "noteIds": []
+    },
+    {
+      "text": "邀人傅脂粉，",
+      "pinyin": [
+        "yāo",
+        "rén",
+        "fù",
+        "zhī",
+        "fěn"
+      ],
+      "translation": "要请别人来帮她涂脂抹粉。",
+      "noteIds": [
+        "n-fu"
+      ]
+    },
+    {
+      "text": "不自著罗衣。",
+      "pinyin": [
+        "bù",
+        "zì",
+        "zhuó",
+        "luó",
+        "yī"
+      ],
+      "translation": "连丝罗衣裳都不用自己穿。",
+      "noteIds": [
+        "n-zhuo"
+      ]
+    },
+    {
+      "text": "君宠益娇态，",
+      "pinyin": [
+        "jūn",
+        "chǒng",
+        "yì",
+        "jiāo",
+        "tài"
+      ],
+      "translation": "君王越宠爱，她的姿态越显得娇美。",
+      "noteIds": []
+    },
+    {
+      "text": "君怜无是非。",
+      "pinyin": [
+        "jūn",
+        "lián",
+        "wú",
+        "shì",
+        "fēi"
+      ],
+      "translation": "君王怜爱她，她做什么都没有对错。",
+      "noteIds": [
+        "n-wushifei"
+      ]
+    },
+    {
+      "text": "当时浣纱伴，",
+      "pinyin": [
+        "dāng",
+        "shí",
+        "huàn",
+        "shā",
+        "bàn"
+      ],
+      "translation": "当年一起洗纱的伙伴。",
+      "noteIds": [
+        "n-huansha"
+      ]
+    },
+    {
+      "text": "莫得同车归。",
+      "pinyin": [
+        "mò",
+        "dé",
+        "tóng",
+        "chē",
+        "guī"
+      ],
+      "translation": "谁也没能和她同车回乡。",
+      "noteIds": []
+    },
+    {
+      "text": "持谢邻家子，",
+      "pinyin": [
+        "chí",
+        "xiè",
+        "lín",
+        "jiā",
+        "zǐ"
+      ],
+      "translation": "奉告邻家的姑娘们。",
+      "noteIds": [
+        "n-chixie"
+      ]
+    },
+    {
+      "text": "效颦安可希。",
+      "pinyin": [
+        "xiào",
+        "pín",
+        "ān",
+        "kě",
+        "xī"
+      ],
+      "translation": "皱着眉头去学西施，怎么能求得那样的好运呢？",
+      "noteIds": [
+        "n-xiaopin",
+        "n-xi"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-ning",
+      "word": "宁",
+      "pinyin": "níng",
+      "meaning": "难道、怎么。"
+    },
+    {
+      "id": "n-wei-wei",
+      "word": "微",
+      "pinyin": "wēi",
+      "meaning": "卑微、地位低。"
+    },
+    {
+      "id": "n-zhaowei",
+      "word": "为",
+      "pinyin": "wéi",
+      "meaning": "成为、做。"
+    },
+    {
+      "id": "n-shu",
+      "word": "殊",
+      "pinyin": "shū",
+      "meaning": "与众不同、有差别。"
+    },
+    {
+      "id": "n-fu",
+      "word": "傅",
+      "pinyin": "fù",
+      "meaning": "涂、抹。"
+    },
+    {
+      "id": "n-zhuo",
+      "word": "著",
+      "pinyin": "zhuó",
+      "meaning": "穿、戴。"
+    },
+    {
+      "id": "n-wushifei",
+      "word": "无是非",
+      "pinyin": "wú shì fēi",
+      "meaning": "没有对错，君王怜爱她，她说什么做什么都是对的。"
+    },
+    {
+      "id": "n-huansha",
+      "word": "浣纱",
+      "pinyin": "huàn shā",
+      "meaning": "洗纱，西施没入宫时在溪边洗纱。"
+    },
+    {
+      "id": "n-chixie",
+      "word": "持谢",
+      "pinyin": "chí xiè",
+      "meaning": "奉告、劝告。"
+    },
+    {
+      "id": "n-xiaopin",
+      "word": "效颦",
+      "pinyin": "xiào pín",
+      "meaning": "学西施皱眉的样子。传说邻家丑女学她皱眉，反而更难看，就是“东施效颦”。"
+    },
+    {
+      "id": "n-xi",
+      "word": "希",
+      "pinyin": "xī",
+      "meaning": "希求、求得。"
+    }
+  ],
+  "translation": "美丽的容貌天下人都看重，西施这样的美人怎么会长久卑微呢？早晨还是越溪边洗纱的姑娘，晚上就做了吴王宫里的妃子。低微的日子里，她和普通人有什么不同？尊贵了以后，才知道这样的人确实稀少。如今要请别人来帮她涂脂抹粉，连丝罗衣裳都不用自己穿。君王越宠爱，她的姿态越显得娇美；君王怜爱她，她做什么都没有对错。当年一起洗纱的伙伴，谁也没能和她同车回乡。奉告邻家的姑娘们：皱着眉头去学西施，怎么能求得那样的好运呢？",
+  "appreciation": "这首诗写的是西施，说的是世态人情。一个人得势前后，旁人的态度全变了；最可惜的是当年一起洗纱的伙伴，再也追不上她了。结尾借“东施效颦”的典故提醒世人：别人的好运学不来，做好自己才最要紧。诗写得像讲故事，道理却很深。",
+  "background": "西施是春秋时越国的美女，被越王献给吴王。年轻的王维借她的故事感叹：世人只看重得势的人，没得势时谁都不理你。一般认为这是他青年时期的作品，诗里也藏着他自己盼望施展才华的心情。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "溪边浣纱",
+      "text": "西施本来只是越溪边洗纱的普通姑娘，没人特别注意她。"
+    },
+    {
+      "step": 2,
+      "title": "一朝入宫",
+      "text": "命运忽然改变：早晨还是浣纱女，晚上成了吴宫妃子。"
+    },
+    {
+      "step": 3,
+      "title": "得宠娇态",
+      "text": "君王宠爱她，她愈发娇美，说的话再没人敢说不对。"
+    },
+    {
+      "step": 4,
+      "title": "效颦难学",
+      "text": "奉劝邻家姑娘：胡乱皱眉学西施，怎么求得这样的好运呢？"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "著",
+      "reading": "zhuó",
+      "reason": "“著罗衣”是穿丝罗衣裳，读 zhuó。",
+      "standard": "不要读成 zhù"
+    },
+    {
+      "char": "浣",
+      "reading": "huàn",
+      "reason": "“浣纱”是洗纱的意思，读 huàn。",
+      "standard": "不要读成 wán"
+    },
+    {
+      "char": "颦",
+      "reading": "pín",
+      "reason": "“颦”是皱眉的意思，“效颦”读 xiào pín。"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1170
+}

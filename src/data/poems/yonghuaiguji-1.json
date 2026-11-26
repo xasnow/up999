@@ -1,0 +1,219 @@
+{
+  "id": "tang-shengtang-dufu-yonghuaiguji-1",
+  "slug": "yonghuaiguji-1",
+  "title": "咏怀古迹·其一",
+  "titlePinyin": "yǒng huái gǔ jì · qí yī",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "七言律诗",
+  "authorId": "dufu",
+  "gradeBand": "ext",
+  "tags": [
+    "怀古",
+    "漂泊",
+    "三峡",
+    "七言律诗"
+  ],
+  "difficulty": 3,
+  "writtenYear": 766,
+  "writtenLabel": "约公元 766 年（杜甫 54 岁，寓居夔州，凭吊古迹）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "支离东北风尘际，漂泊西南天地间。"
+  ],
+  "lines": [
+    {
+      "text": "支离东北风尘际，",
+      "pinyin": [
+        "zhī",
+        "lí",
+        "dōng",
+        "běi",
+        "fēng",
+        "chén",
+        "jì"
+      ],
+      "translation": "战乱中我在东北一带四处奔波，身心像要碎了一样，",
+      "noteIds": []
+    },
+    {
+      "text": "漂泊西南天地间。",
+      "pinyin": [
+        "piāo",
+        "bó",
+        "xī",
+        "nán",
+        "tiān",
+        "dì",
+        "jiān"
+      ],
+      "translation": "后来又漂泊到西南的天地之间。",
+      "noteIds": [
+        "n-piaobo"
+      ]
+    },
+    {
+      "text": "三峡楼台淹日月，",
+      "pinyin": [
+        "sān",
+        "xiá",
+        "lóu",
+        "tái",
+        "yān",
+        "rì",
+        "yuè"
+      ],
+      "translation": "在三峡的楼台里，一天天打发着日子，",
+      "noteIds": []
+    },
+    {
+      "text": "五溪衣服共云山。",
+      "pinyin": [
+        "wǔ",
+        "xī",
+        "yī",
+        "fú",
+        "gòng",
+        "yún",
+        "shān"
+      ],
+      "translation": "与五溪一带的人们同住在这云遮雾绕的山里。",
+      "noteIds": [
+        "n-wuxi"
+      ]
+    },
+    {
+      "text": "羯胡事主终无赖，",
+      "pinyin": [
+        "jié",
+        "hú",
+        "shì",
+        "zhǔ",
+        "zhōng",
+        "wú",
+        "lài"
+      ],
+      "translation": "发动叛乱的人对待君主，终究不讲信义，",
+      "noteIds": [
+        "n-jiehu"
+      ]
+    },
+    {
+      "text": "词客哀时且未还。",
+      "pinyin": [
+        "cí",
+        "kè",
+        "āi",
+        "shí",
+        "qiě",
+        "wèi",
+        "huán"
+      ],
+      "translation": "我这写诗的人为国事哀伤，却还不能回家。",
+      "noteIds": []
+    },
+    {
+      "text": "庾信平生最萧瑟，",
+      "pinyin": [
+        "yǔ",
+        "xìn",
+        "píng",
+        "shēng",
+        "zuì",
+        "xiāo",
+        "sè"
+      ],
+      "translation": "庾信的一生最是凄凉坎坷，",
+      "noteIds": [
+        "n-yuxin"
+      ]
+    },
+    {
+      "text": "暮年诗赋动江关。",
+      "pinyin": [
+        "mù",
+        "nián",
+        "shī",
+        "fù",
+        "dòng",
+        "jiāng",
+        "guān"
+      ],
+      "translation": "可他晚年的诗赋，却震动了大江南北。",
+      "noteIds": []
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-piaobo",
+      "word": "漂泊",
+      "pinyin": "piāo bó",
+      "meaning": "像浮在水面的船一样，到处流浪，没有固定的家。"
+    },
+    {
+      "id": "n-wuxi",
+      "word": "五溪",
+      "pinyin": "wǔ xī",
+      "meaning": "西南地区的五条溪水一带，指当时少数民族聚居的地方。"
+    },
+    {
+      "id": "n-jiehu",
+      "word": "羯胡",
+      "pinyin": "jié hú",
+      "meaning": "指发动叛乱的安禄山。"
+    },
+    {
+      "id": "n-yuxin",
+      "word": "庾信",
+      "pinyin": "yǔ xìn",
+      "meaning": "南北朝时的诗人，长期流落北方，常在文章里思念家乡。"
+    }
+  ],
+  "translation": "战乱中我在东北一带四处奔波，身心像要碎了一样，后来又漂泊到西南的天地之间。在三峡的楼台里一天天打发日子，与五溪一带的人们同住在这云山之间。发动叛乱的人对待君主终究不讲信义，我这写诗的人为国事哀伤，却还不能回家。庾信的一生最是凄凉坎坷，可他晚年的诗赋，却震动了大江南北。",
+  "appreciation": "这首诗像一张漂泊的地图：先写东北的战火，再写西南的浪迹，人生的辛苦全在两个地名里。杜甫想起同样流落他乡的诗人庾信，发现苦难没有打垮他，反而让他晚年的诗写得更有力量。诗人借庾信说自己：漂泊虽然让人心酸，诗却可以留下名字。",
+  "background": "公元766年前后，杜甫住在夔州。他想起自己从北方战乱里逃出来，一路漂到西南，多年回不了家。当地有许多古迹，他借着凭吊古人写下五首《咏怀古迹》，这一首借诗人庾信写自己的漂泊。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "战乱流离",
+      "text": "北方发生战乱，杜甫四处逃难，身心疲惫。"
+    },
+    {
+      "step": 2,
+      "title": "漂泊西南",
+      "text": "他一路南下，漂泊到三峡一带的山水之间。"
+    },
+    {
+      "step": 3,
+      "title": "想起庾信",
+      "text": "他想起南北朝诗人庾信，也是晚年流落北方。"
+    },
+    {
+      "step": 4,
+      "title": "诗赋动人",
+      "text": "庾信把辛酸写进诗赋，反而名动天下。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "羯",
+      "reading": "jié",
+      "reason": "“羯胡”指叛乱的安禄山，“羯”读 jié。",
+      "standard": "不要读成 jiē"
+    },
+    {
+      "char": "庾",
+      "reading": "yǔ",
+      "reason": "诗人庾信的姓，读 yǔ。",
+      "standard": "不要读成 yú"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1139
+}

@@ -1,7 +1,7 @@
 {
   "id": "tang-shengtang-libai-yuexiaduzhuo",
   "slug": "yuexiaduzhuo",
-  "title": "月下独酌（节选）",
+  "title": "月下独酌（其一）",
   "titlePinyin": "yuè xià dú zhuó",
   "dynasty": "tangshi",
   "era": "shengtang",
@@ -11,15 +11,16 @@
   "gradeBand": "ext",
   "tags": [
     "月亮",
-    "想象力",
-    "五言古诗"
+    "五言古诗",
+    "月夜"
   ],
   "difficulty": 3,
-  "writtenYear": 740,
-  "writtenLabel": "约公元 740 年（李白在长安，独自饮酒时）",
-  "orderInAuthor": 12,
+  "writtenYear": 744,
+  "writtenLabel": "约公元 744 年（李白 44 岁，供奉翰林后期，在长安）",
+  "orderInAuthor": 1,
   "famousLines": [
-    "举杯邀明月，对影成三人。"
+    "举杯邀明月，对影成三人。",
+    "永结无情游，相期邈云汉。"
   ],
   "lines": [
     {
@@ -43,7 +44,7 @@
         "xiāng",
         "qīn"
       ],
-      "translation": "一个人喝，没有亲人朋友陪着。",
+      "translation": "一个人喝，没有亲人朋友陪伴。",
       "noteIds": [
         "n-zhuo",
         "n-xiangqin"
@@ -58,7 +59,7 @@
         "míng",
         "yuè"
       ],
-      "translation": "举起酒杯，邀请明月做伴，",
+      "translation": "我举起酒杯邀请明月，",
       "noteIds": [
         "n-yao"
       ]
@@ -72,9 +73,145 @@
         "sān",
         "rén"
       ],
-      "translation": "加上影子，正好凑成三个人。",
+      "translation": "加上影子，正好成了三个人。",
       "noteIds": [
         "n-ying"
+      ]
+    },
+    {
+      "text": "月既不解饮，",
+      "pinyin": [
+        "yuè",
+        "jì",
+        "bù",
+        "jiě",
+        "yǐn"
+      ],
+      "translation": "可惜月亮不懂得喝酒的乐趣，",
+      "noteIds": [
+        "n-jieyin"
+      ]
+    },
+    {
+      "text": "影徒随我身。",
+      "pinyin": [
+        "yǐng",
+        "tú",
+        "suí",
+        "wǒ",
+        "shēn"
+      ],
+      "translation": "影子也只会白白地跟着我。",
+      "noteIds": [
+        "n-tu"
+      ]
+    },
+    {
+      "text": "暂伴月将影，",
+      "pinyin": [
+        "zàn",
+        "bàn",
+        "yuè",
+        "jiāng",
+        "yǐng"
+      ],
+      "translation": "暂且同月亮和影子做伴吧，",
+      "noteIds": [
+        "n-jiang"
+      ]
+    },
+    {
+      "text": "行乐须及春。",
+      "pinyin": [
+        "xíng",
+        "lè",
+        "xū",
+        "jí",
+        "chūn"
+      ],
+      "translation": "及时行乐，要趁着大好春光。",
+      "noteIds": [
+        "n-jichun"
+      ]
+    },
+    {
+      "text": "我歌月徘徊，",
+      "pinyin": [
+        "wǒ",
+        "gē",
+        "yuè",
+        "pái",
+        "huái"
+      ],
+      "translation": "我唱歌时，月亮在天上徘徊不走，",
+      "noteIds": [
+        "n-paihuai"
+      ]
+    },
+    {
+      "text": "我舞影零乱。",
+      "pinyin": [
+        "wǒ",
+        "wǔ",
+        "yǐng",
+        "líng",
+        "luàn"
+      ],
+      "translation": "我起舞时，影子跟着摇晃散乱。",
+      "noteIds": []
+    },
+    {
+      "text": "醒时同交欢，",
+      "pinyin": [
+        "xǐng",
+        "shí",
+        "tóng",
+        "jiāo",
+        "huān"
+      ],
+      "translation": "清醒时我们一起欢乐，",
+      "noteIds": [
+        "n-jiaohuan"
+      ]
+    },
+    {
+      "text": "醉后各分散。",
+      "pinyin": [
+        "zuì",
+        "hòu",
+        "gè",
+        "fēn",
+        "sàn"
+      ],
+      "translation": "醉了以后就各自分开。",
+      "noteIds": []
+    },
+    {
+      "text": "永结无情游，",
+      "pinyin": [
+        "yǒng",
+        "jié",
+        "wú",
+        "qíng",
+        "yóu"
+      ],
+      "translation": "但愿永远结成这场没有机心的交游，",
+      "noteIds": [
+        "n-wuqingyou"
+      ]
+    },
+    {
+      "text": "相期邈云汉。",
+      "pinyin": [
+        "xiāng",
+        "qī",
+        "miǎo",
+        "yún",
+        "hàn"
+      ],
+      "translation": "约定在遥远的银河上再相见。",
+      "noteIds": [
+        "n-xiangqi"
       ]
     }
   ],
@@ -102,48 +239,116 @@
       "word": "影",
       "pinyin": "yǐng",
       "meaning": "月光下自己的影子。"
+    },
+    {
+      "id": "n-jieyin",
+      "word": "解饮",
+      "pinyin": "jiě yǐn",
+      "meaning": "懂得喝酒的乐趣。解：懂得。"
+    },
+    {
+      "id": "n-tu",
+      "word": "徒",
+      "pinyin": "tú",
+      "meaning": "只，白白地。"
+    },
+    {
+      "id": "n-jiang",
+      "word": "将",
+      "pinyin": "jiāng",
+      "meaning": "和，同。“月将影”就是月亮和影子。"
+    },
+    {
+      "id": "n-jichun",
+      "word": "及春",
+      "pinyin": "jí chūn",
+      "meaning": "趁着大好春光。及：趁着。"
+    },
+    {
+      "id": "n-paihuai",
+      "word": "徘徊",
+      "pinyin": "pái huái",
+      "meaning": "来回走动，不肯离开。指月亮随着歌声缓缓移动。"
+    },
+    {
+      "id": "n-jiaohuan",
+      "word": "交欢",
+      "pinyin": "jiāo huān",
+      "meaning": "一起欢乐。"
+    },
+    {
+      "id": "n-wuqingyou",
+      "word": "无情游",
+      "pinyin": "wú qíng yóu",
+      "meaning": "月亮和影子是没有感情的东西，同它们结交、忘掉人间利害的交游，叫“无情游”。"
+    },
+    {
+      "id": "n-xiangqi",
+      "word": "相期",
+      "pinyin": "xiāng qī",
+      "meaning": "相约。邈：遥远；云汉：银河。这句说相约在遥远的银河上再见。"
     }
   ],
-  "translation": "花丛中间摆着一壶酒，一个人喝，没有亲人朋友陪着。我举起酒杯，邀请明月一起来做伴；加上月光下的影子，正好凑成三个人。",
-  "appreciation": "一个人喝酒多冷清呀，可李白一点都不觉得。他邀请月亮当客人，又把影子拉来当同伴，凑成一桌热闹的“三人酒局”。没人陪他，他就把整个夜晚变成朋友。这就是李白的本事：再安静的地方，也能开出浪漫的花。",
-  "background": "公元740年前后，李白在长安做官。白天忙公务，晚上常常独自一人。这天夜里他在花园里摆上酒，身边没有朋友。他抬头看见又大又亮的月亮，低头看见自己的影子，灵机一动，写下了这首《月下独酌》。",
+  "translation": "花丛中间摆着一壶酒，一个人喝，没有亲人朋友陪伴。我举起酒杯邀请明月，加上影子正好成了三个人。可惜月亮不懂得喝酒的乐趣，影子也只会白白地跟着我。暂且同月亮和影子做伴吧，及时行乐要趁着大好春光。我唱歌时，月亮在天上徘徊不走；我起舞时，影子跟着摇晃散乱。清醒时我们一起欢乐，醉了以后就各自分开。但愿永远结成这场没有机心的交游，约定在遥远的银河上再相见。",
+  "appreciation": "一个人喝酒本该冷清，李白却把冷清喝成了热闹：月亮是客人，影子是同伴，凑成一桌“三人”酒席。唱起歌，月亮停下脚步；跳起舞，影子跟着乱晃。可他心里明白，酒醒人散，热闹终是一场空——那就约定到天上的银河再相见吧。孤独被他写得又浪漫又坦荡，这就是李白的本事。",
+  "background": "约公元 744 年，李白在长安做翰林供奉。他抱着大志进京，却只被皇帝当作写诗凑趣的文人，心里苦闷。这天夜里，他在花间独自摆酒，身边没有亲友。他抬头邀明月，低头唤影子，写下这首《月下独酌》，把一个人的酒局变成了三个人的热闹。",
   "storyline": [
     {
       "step": 1,
-      "title": "花间摆酒",
-      "text": "李白在花丛中摆好一壶酒，等朋友来。"
+      "title": "花间独酌",
+      "text": "李白在花丛中独自摆上一壶酒，身边没有亲友陪伴。"
     },
     {
       "step": 2,
-      "title": "无人赴约",
-      "text": "等到夜深，一个人也没来。"
+      "title": "邀月对影",
+      "text": "他举杯请明月同饮，加上影子正好凑成三个人。"
     },
     {
       "step": 3,
-      "title": "请来明月",
-      "text": "他举起杯子，邀请天上的月亮做客。"
+      "title": "歌月舞影",
+      "text": "他放声歌唱月亮徘徊不走，起身起舞影子摇乱。"
     },
     {
       "step": 4,
-      "title": "三人成局",
-      "text": "月亮、影子加上他自己，热闹的酒局开始了。"
+      "title": "相约云汉",
+      "text": "他约定与月影结成永远的好友，相会在遥远银河。"
     }
   ],
-  "pinyinNotes": [],
+  "pinyinNotes": [
+    {
+      "char": "酌",
+      "reading": "zhuó",
+      "reason": "“独酌”是一个人喝酒，“酌”读 zhuó。",
+      "standard": "不要读成 sháo"
+    },
+    {
+      "char": "将",
+      "reading": "jiāng",
+      "reason": "“暂伴月将影”的“将”是“和”的意思，读 jiāng。",
+      "standard": "不要读成 jiàng"
+    },
+    {
+      "char": "邈",
+      "reading": "miǎo",
+      "reason": "“邈”是遥远的意思，“相期邈云汉”读 miǎo。"
+    }
+  ],
   "sources": [
-    "《李白全集编年注释》",
-    "《唐诗鉴赏辞典》（上海辞书出版社）"
+    "《全唐诗》",
+    "《唐诗三百首》",
+    "《李太白集》"
   ],
   "status": "published",
-  "updatedAt": "2026-11-24",
+  "updatedAt": "2026-11-26",
   "images": {
     "cover": {
       "src": "/assets/img/poems/yuexiaduzhuo-cover.jpg",
       "width": 2240,
       "height": 1680,
-      "alt": "《月下独酌（节选）》场景插画",
+      "alt": "《月下独酌（其一）》场景插画",
       "credit": "AI 辅助生成 · up999.cn",
       "aiGenerated": true
     }
-  }
+  },
+  "no": 34
 }

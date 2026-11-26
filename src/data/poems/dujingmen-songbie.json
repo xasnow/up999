@@ -1,0 +1,211 @@
+{
+  "id": "tang-shengtang-libai-dujingmen-songbie",
+  "slug": "dujingmen-songbie",
+  "title": "渡荆门送别",
+  "titlePinyin": "dù jīng mén sòng bié",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "五言律诗",
+  "authorId": "libai",
+  "gradeBand": "ext",
+  "tags": [
+    "山水",
+    "五言律诗",
+    "长江",
+    "明月"
+  ],
+  "difficulty": 3,
+  "writtenYear": 725,
+  "writtenLabel": "约公元 725 年（李白 25 岁，初次出蜀远游）",
+  "orderInAuthor": 12,
+  "famousLines": [
+    "山随平野尽，江入大荒流。",
+    "仍怜故乡水，万里送行舟。"
+  ],
+  "lines": [
+    {
+      "text": "渡远荆门外，",
+      "pinyin": [
+        "dù",
+        "yuǎn",
+        "jīng",
+        "mén",
+        "wài"
+      ],
+      "translation": "乘船远行，出了荆门山，",
+      "noteIds": [
+        "n-jingmen"
+      ]
+    },
+    {
+      "text": "来从楚国游。",
+      "pinyin": [
+        "lái",
+        "cóng",
+        "chǔ",
+        "guó",
+        "yóu"
+      ],
+      "translation": "来到古时楚国的地界漫游。",
+      "noteIds": []
+    },
+    {
+      "text": "山随平野尽，",
+      "pinyin": [
+        "shān",
+        "suí",
+        "píng",
+        "yě",
+        "jìn"
+      ],
+      "translation": "群山随着平原的出现渐渐消失，",
+      "noteIds": []
+    },
+    {
+      "text": "江入大荒流。",
+      "pinyin": [
+        "jiāng",
+        "rù",
+        "dà",
+        "huāng",
+        "liú"
+      ],
+      "translation": "江水流入广阔无边的原野。",
+      "noteIds": [
+        "n-dahuang"
+      ]
+    },
+    {
+      "text": "月下飞天镜，",
+      "pinyin": [
+        "yuè",
+        "xià",
+        "fēi",
+        "tiān",
+        "jìng"
+      ],
+      "translation": "月亮映在江里，像天上飞来的一面镜子，",
+      "noteIds": []
+    },
+    {
+      "text": "云生结海楼。",
+      "pinyin": [
+        "yún",
+        "shēng",
+        "jié",
+        "hǎi",
+        "lóu"
+      ],
+      "translation": "云彩聚结起来，变出海市蜃楼。",
+      "noteIds": [
+        "n-hailou"
+      ]
+    },
+    {
+      "text": "仍怜故乡水，",
+      "pinyin": [
+        "réng",
+        "lián",
+        "gù",
+        "xiāng",
+        "shuǐ"
+      ],
+      "translation": "我还是舍不得故乡的江水啊，",
+      "noteIds": [
+        "n-lian",
+        "n-guxiangshui"
+      ]
+    },
+    {
+      "text": "万里送行舟。",
+      "pinyin": [
+        "wàn",
+        "lǐ",
+        "sòng",
+        "xíng",
+        "zhōu"
+      ],
+      "translation": "它不远万里，一路送着我的小船。",
+      "noteIds": []
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-jingmen",
+      "word": "荆门",
+      "pinyin": "jīng mén",
+      "meaning": "山名，在今湖北宜都西北的长江边，是出四川的门户。"
+    },
+    {
+      "id": "n-dahuang",
+      "word": "大荒",
+      "pinyin": "dà huāng",
+      "meaning": "广阔无边的原野。"
+    },
+    {
+      "id": "n-hailou",
+      "word": "海楼",
+      "pinyin": "hǎi lóu",
+      "meaning": "海市蜃楼，光在大气中折射形成的奇妙景象。"
+    },
+    {
+      "id": "n-lian",
+      "word": "怜",
+      "pinyin": "lián",
+      "meaning": "爱，爱惜。仍怜就是还是舍不得。"
+    },
+    {
+      "id": "n-guxiangshui",
+      "word": "故乡水",
+      "pinyin": "gù xiāng shuǐ",
+      "meaning": "指长江水。李白的家乡在四川，长江从四川流来，所以他叫它“故乡水”。"
+    }
+  ],
+  "translation": "乘船远行，出了荆门山，来到古时楚国的地界漫游。群山随着平原的出现渐渐消失，江水流入广阔无边的原野。月亮映在江里，像天上飞来的一面镜子；云彩聚结起来，变出海市蜃楼。我还是舍不得故乡的江水啊，它不远万里，一路送着我的小船。",
+  "appreciation": "二十五岁的李白第一次出四川，天地忽然打开了。“山随平野尽，江入大荒流”，山在退，野在长，十个字写尽出峡后的开阔。月亮成了飞天镜，云霞结成海楼，处处新鲜。可结尾一转，送船万里的竟是“故乡水”——少年看遍新风景，心里最舍不得的还是家。",
+  "background": "约公元 725 年，二十五岁的李白第一次离开四川，乘船顺长江东下游历。船出荆门山，高峡变成平原，景色完全变了样。第一次离家这么远，他写下这首诗，谢谢一路送他远行的故乡江水。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "出蜀过荆门",
+      "text": "李白乘船出四川，过了荆门山，进入楚国故地漫游。"
+    },
+    {
+      "step": 2,
+      "title": "山尽野开",
+      "text": "群山渐渐退尽，眼前展开平原，江水流向无边旷野。"
+    },
+    {
+      "step": 3,
+      "title": "月镜海楼",
+      "text": "江中月影像天上飞来的镜子，云霞结成海市蜃楼。"
+    },
+    {
+      "step": 4,
+      "title": "故乡水送",
+      "text": "他恋恋不舍：是故乡的江水，万里迢迢送他的小船。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "荆",
+      "reading": "jīng",
+      "reason": "“荆门”是山名，“荆”读 jīng。",
+      "standard": "不要读成 jīn"
+    },
+    {
+      "char": "怜",
+      "reading": "lián",
+      "reason": "“仍怜”的“怜”是爱惜、舍不得的意思，读 lián。"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》",
+    "《李太白集》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1062
+}

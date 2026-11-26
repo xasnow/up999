@@ -1,0 +1,210 @@
+{
+  "id": "tang-shengtang-menghaoran-sutonglujiang",
+  "slug": "sutonglujiang",
+  "title": "宿桐庐江寄广陵旧游",
+  "titlePinyin": "sù tóng lú jiāng jì guǎng líng jiù yóu",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "五言律诗",
+  "authorId": "menghaoran",
+  "gradeBand": "ext",
+  "tags": [
+    "思乡",
+    "五言律诗",
+    "月夜",
+    "孤舟"
+  ],
+  "difficulty": 3,
+  "writtenYear": 730,
+  "writtenLabel": "约公元 730 年（孟浩然 42 岁，离京漫游吴越，夜宿桐庐江寄扬州旧友）",
+  "orderInAuthor": 4,
+  "famousLines": [
+    "风鸣两岸叶，月照一孤舟。"
+  ],
+  "lines": [
+    {
+      "text": "山暝闻猿愁，",
+      "pinyin": [
+        "shān",
+        "míng",
+        "wén",
+        "yuán",
+        "chóu"
+      ],
+      "translation": "山色暗下来，听见猿猴的啼声，叫人发愁，",
+      "noteIds": [
+        "n-shanming"
+      ]
+    },
+    {
+      "text": "沧江急夜流。",
+      "pinyin": [
+        "cāng",
+        "jiāng",
+        "jí",
+        "yè",
+        "liú"
+      ],
+      "translation": "桐庐江的水在夜里急急地流。",
+      "noteIds": [
+        "n-cangjiang"
+      ]
+    },
+    {
+      "text": "风鸣两岸叶，",
+      "pinyin": [
+        "fēng",
+        "míng",
+        "liǎng",
+        "àn",
+        "yè"
+      ],
+      "translation": "风吹响两岸的树叶，",
+      "noteIds": []
+    },
+    {
+      "text": "月照一孤舟。",
+      "pinyin": [
+        "yuè",
+        "zhào",
+        "yī",
+        "gū",
+        "zhōu"
+      ],
+      "translation": "月光照着一条孤单的小船。",
+      "noteIds": []
+    },
+    {
+      "text": "建德非吾土，",
+      "pinyin": [
+        "jiàn",
+        "dé",
+        "fēi",
+        "wú",
+        "tǔ"
+      ],
+      "translation": "建德不是我的故乡，",
+      "noteIds": [
+        "n-jiande"
+      ]
+    },
+    {
+      "text": "维扬忆旧游。",
+      "pinyin": [
+        "wéi",
+        "yáng",
+        "yì",
+        "jiù",
+        "yóu"
+      ],
+      "translation": "我在这里想念扬州的老朋友。",
+      "noteIds": [
+        "n-weiyang"
+      ]
+    },
+    {
+      "text": "还将两行泪，",
+      "pinyin": [
+        "hái",
+        "jiāng",
+        "liǎng",
+        "háng",
+        "lèi"
+      ],
+      "translation": "就把这两行热泪，",
+      "noteIds": []
+    },
+    {
+      "text": "遥寄海西头。",
+      "pinyin": [
+        "yáo",
+        "jì",
+        "hǎi",
+        "xī",
+        "tóu"
+      ],
+      "translation": "远远地寄到扬州去吧。",
+      "noteIds": [
+        "n-haixitou"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-shanming",
+      "word": "山暝",
+      "pinyin": "shān míng",
+      "meaning": "山色昏暗，天黑下来。"
+    },
+    {
+      "id": "n-cangjiang",
+      "word": "沧江",
+      "pinyin": "cāng jiāng",
+      "meaning": "青苍色的江水，这里指桐庐江。"
+    },
+    {
+      "id": "n-jiande",
+      "word": "建德",
+      "pinyin": "jiàn dé",
+      "meaning": "今浙江建德一带，在桐庐江边，不是诗人的家乡。"
+    },
+    {
+      "id": "n-weiyang",
+      "word": "维扬",
+      "pinyin": "wéi yáng",
+      "meaning": "扬州的别称，就是广陵。"
+    },
+    {
+      "id": "n-haixitou",
+      "word": "海西头",
+      "pinyin": "hǎi xī tóu",
+      "meaning": "扬州的又一古称，古人说扬州“淮南江北海西头”。"
+    }
+  ],
+  "translation": "山色暗下来，听见猿猴的啼声，叫人发愁；桐庐江的水在夜里急急地流。风吹响两岸的树叶，月光照着一条孤单的小船。建德不是我的故乡，我在这里想念扬州的老朋友。就把这两行热泪，远远地寄到扬州去吧。",
+  "appreciation": "天暗、猿愁、夜江急流，一开口就是旅人的愁。风吹响两岸树叶，月光偏偏照着一条孤舟，把“一个人在外”写进了画面。想起故乡襄阳，又想念扬州的朋友，眼泪只好托付给江水寄去。全诗像夜里江面上的一声轻叹，冷冷清清，却字字真心。",
+  "background": "开元十八年（730）前后，孟浩然离开洛阳前往吴越漫游。夜里船停宿在桐庐江上，江边山色昏暗，猿声惹愁，孤舟冷月让他想念起远方的故乡和在扬州的老朋友，于是写下这首诗，寄给广陵的旧友们。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "暮猿催愁",
+      "text": "山色昏暗猿声啼，桐庐江水在夜里急急地流。"
+    },
+    {
+      "step": 2,
+      "title": "风叶孤舟",
+      "text": "风吹响两岸树叶，月光照着江上的一条孤舟。"
+    },
+    {
+      "step": 3,
+      "title": "异乡忆友",
+      "text": "建德不是自己的故乡，诗人想念扬州的旧友。"
+    },
+    {
+      "step": 4,
+      "title": "泪寄海西",
+      "text": "两行热泪无处诉说，只能托付江水遥寄到扬州。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "暝",
+      "reading": "míng",
+      "reason": "“山暝”的“暝”读 míng，指天色昏暗。"
+    },
+    {
+      "char": "行",
+      "reading": "háng",
+      "reason": "“两行泪”的“行”读 háng，一串眼泪叫一行。",
+      "standard": "不要读成 xíng"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1083
+}

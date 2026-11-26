@@ -1,0 +1,201 @@
+{
+  "id": "tang-shengtang-dufu-yueye-yisedi",
+  "slug": "yueye-yisedi",
+  "title": "月夜忆舍弟",
+  "titlePinyin": "yuè yè yì shè dì",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "五言律诗",
+  "authorId": "dufu",
+  "gradeBand": "ext",
+  "tags": [
+    "思念",
+    "五言律诗",
+    "月夜",
+    "秋天"
+  ],
+  "difficulty": 3,
+  "writtenYear": 759,
+  "writtenLabel": "公元 759 年（杜甫 47 岁，在秦州，战乱中思念失散的弟弟们）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "露从今夜白，月是故乡明。"
+  ],
+  "lines": [
+    {
+      "text": "戍鼓断人行，",
+      "pinyin": [
+        "shù",
+        "gǔ",
+        "duàn",
+        "rén",
+        "xíng"
+      ],
+      "translation": "戍楼上鼓声一响，路上就断了行人。",
+      "noteIds": [
+        "n-shugu"
+      ]
+    },
+    {
+      "text": "边秋一雁声，",
+      "pinyin": [
+        "biān",
+        "qiū",
+        "yī",
+        "yàn",
+        "shēng"
+      ],
+      "translation": "边地的秋天，传来一只孤雁的叫声。",
+      "noteIds": []
+    },
+    {
+      "text": "露从今夜白，",
+      "pinyin": [
+        "lù",
+        "cóng",
+        "jīn",
+        "yè",
+        "bái"
+      ],
+      "translation": "今夜正逢白露节气，露水从今夜起更凉了。",
+      "noteIds": [
+        "n-bailu"
+      ]
+    },
+    {
+      "text": "月是故乡明，",
+      "pinyin": [
+        "yuè",
+        "shì",
+        "gù",
+        "xiāng",
+        "míng"
+      ],
+      "translation": "月亮，还是故乡的更加明亮。",
+      "noteIds": []
+    },
+    {
+      "text": "有弟皆分散，",
+      "pinyin": [
+        "yǒu",
+        "dì",
+        "jiē",
+        "fēn",
+        "sàn"
+      ],
+      "translation": "有弟弟们，却都分散在各地，",
+      "noteIds": []
+    },
+    {
+      "text": "无家问死生。",
+      "pinyin": [
+        "wú",
+        "jiā",
+        "wèn",
+        "sǐ",
+        "shēng"
+      ],
+      "translation": "家已经没有了，连他们的死活都没处打听。",
+      "noteIds": []
+    },
+    {
+      "text": "寄书长不达，",
+      "pinyin": [
+        "jì",
+        "shū",
+        "cháng",
+        "bù",
+        "dá"
+      ],
+      "translation": "寄出去的家信，常常送不到。",
+      "noteIds": []
+    },
+    {
+      "text": "况乃未休兵。",
+      "pinyin": [
+        "kuàng",
+        "nǎi",
+        "wèi",
+        "xiū",
+        "bīng"
+      ],
+      "translation": "更何况战乱还没有停止呢。",
+      "noteIds": [
+        "n-xiubing"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-shugu",
+      "word": "戍鼓",
+      "pinyin": "shù gǔ",
+      "meaning": "戍楼上用来报时或报信的鼓声。"
+    },
+    {
+      "id": "n-bailu",
+      "word": "白露",
+      "pinyin": "bái lù",
+      "meaning": "二十四节气之一，在九月上旬，天气转凉。"
+    },
+    {
+      "id": "n-xiubing",
+      "word": "休兵",
+      "pinyin": "xiū bīng",
+      "meaning": "停止战争。"
+    }
+  ],
+  "translation": "戍楼上鼓声一响，路上就断了行人。边地的秋天，传来一只孤雁的叫声。今夜正逢白露节气，露水从今夜起更凉了；月亮，还是故乡的更加明亮。有弟弟们，却都分散在各地，家已经没有了，连他们的死活都没处打听。寄出去的家信常常送不到，更何况战乱还没有停止呢。",
+  "appreciation": "明明是同一轮月亮，诗人却说“月是故乡明”。月亮本来不分彼此，可想念家乡的人，看哪里都不如故乡亮。这样的“无理”，恰恰写出了最真的感情。“露从今夜白”对“月是故乡明”，一句说节气，一句说心情，成了千百年来最打动人的思乡名句。后两联写弟弟们分散、书信不通，把个人的想念放进战乱的背景里，读来更觉沉重。",
+  "background": "公元 759 年，安史之乱还没有平息，杜甫的几个弟弟分散在战乱各地，音信全无。这一年秋天他在秦州，正逢白露节气，夜里的月亮格外清晰。他望着月亮想念弟弟们，写下这首诗。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "戍鼓雁声",
+      "text": "秋夜戍鼓响过，路上断了行人，天边传来孤雁的叫声。"
+    },
+    {
+      "step": 2,
+      "title": "白露月明",
+      "text": "正逢白露节气，诗人望月，觉得月亮还是故乡的最明。"
+    },
+    {
+      "step": 3,
+      "title": "兄弟失散",
+      "text": "弟弟们各自分散，家已不成家，连死活都无处打听。"
+    },
+    {
+      "step": 4,
+      "title": "书信不达",
+      "text": "寄出的家信常常送不到，更何况战乱还没有平息。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "戍",
+      "reading": "shù",
+      "reason": "“戍鼓”的“戍”指守边，读 shù。",
+      "standard": "不要和“戊（wù）”“戌（xū）”混错"
+    },
+    {
+      "char": "行",
+      "reading": "xíng",
+      "reason": "“断人行”的“行”指行人，读 xíng。",
+      "standard": "不要读成 háng"
+    },
+    {
+      "char": "长",
+      "reading": "cháng",
+      "reason": "“长不达”的“长”是“常常”的意思，读 cháng。",
+      "standard": "不要读成 zhǎng"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1075
+}

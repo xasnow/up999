@@ -1,0 +1,195 @@
+{
+  "id": "tang-shengtang-dufu-biefangtaiwei",
+  "slug": "biefangtaiwei",
+  "title": "别房太尉墓",
+  "titlePinyin": "bié fáng tài wèi mù",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "五言律诗",
+  "authorId": "dufu",
+  "gradeBand": "ext",
+  "tags": [
+    "友情",
+    "五言律诗",
+    "断云",
+    "莺啼"
+  ],
+  "difficulty": 3,
+  "writtenYear": 763,
+  "writtenLabel": "公元 763 年（杜甫 51 岁，在阆州，动身离开前到房琯墓前告别）",
+  "orderInAuthor": 3,
+  "famousLines": [
+    "近泪无干土，低空有断云。"
+  ],
+  "lines": [
+    {
+      "text": "他乡复行役，",
+      "pinyin": [
+        "tā",
+        "xiāng",
+        "fù",
+        "xíng",
+        "yì"
+      ],
+      "translation": "我又要在异乡奔波赶路了。",
+      "noteIds": [
+        "n-xingyi"
+      ]
+    },
+    {
+      "text": "驻马别孤坟。",
+      "pinyin": [
+        "zhù",
+        "mǎ",
+        "bié",
+        "gū",
+        "fén"
+      ],
+      "translation": "我停下马来，向你孤单的坟墓告别。",
+      "noteIds": []
+    },
+    {
+      "text": "近泪无干土，",
+      "pinyin": [
+        "jìn",
+        "lèi",
+        "wú",
+        "gān",
+        "tǔ"
+      ],
+      "translation": "泪水落下来，坟前竟没有一块干土。",
+      "noteIds": []
+    },
+    {
+      "text": "低空有断云，",
+      "pinyin": [
+        "dī",
+        "kōng",
+        "yǒu",
+        "duàn",
+        "yún"
+      ],
+      "translation": "低低的天空，飘着断断续续的云。",
+      "noteIds": []
+    },
+    {
+      "text": "对棋陪谢傅，",
+      "pinyin": [
+        "duì",
+        "qí",
+        "péi",
+        "xiè",
+        "fù"
+      ],
+      "translation": "想起当年陪你下棋，就像人们陪着谢安那样。",
+      "noteIds": [
+        "n-xiefu"
+      ]
+    },
+    {
+      "text": "把剑觅徐君，",
+      "pinyin": [
+        "bǎ",
+        "jiàn",
+        "mì",
+        "xú",
+        "jūn"
+      ],
+      "translation": "如今我像季子挂剑那样，来寻觅你这位徐君。",
+      "noteIds": [
+        "n-xujun"
+      ]
+    },
+    {
+      "text": "唯见林花落，",
+      "pinyin": [
+        "wéi",
+        "jiàn",
+        "lín",
+        "huā",
+        "luò"
+      ],
+      "translation": "眼前只看见林中的花一片片飘落，",
+      "noteIds": []
+    },
+    {
+      "text": "莺啼送客闻。",
+      "pinyin": [
+        "yīng",
+        "tí",
+        "sòng",
+        "kè",
+        "wén"
+      ],
+      "translation": "耳边只听见黄莺啼叫，像在替人送客。",
+      "noteIds": []
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-xingyi",
+      "word": "行役",
+      "pinyin": "xíng yì",
+      "meaning": "为了公事在外面奔波赶路。"
+    },
+    {
+      "id": "n-xiefu",
+      "word": "谢傅",
+      "pinyin": "xiè fù",
+      "meaning": "指东晋名相谢安，这里用来比喻房琯。"
+    },
+    {
+      "id": "n-xujun",
+      "word": "徐君",
+      "pinyin": "xú jūn",
+      "meaning": "春秋时徐国国君。季札曾把宝剑心许给他，徐君去世后，季札把剑挂在墓前的树上。这里借这个典故怀念亡友。"
+    }
+  ],
+  "translation": "我又要在异乡奔波赶路了，我停下马来，向你孤单的坟墓告别。泪水落下来，坟前竟没有一块干土。低低的天空，飘着断断续续的云。想起当年陪你下棋，就像人们陪着谢安那样；如今我像季子挂剑那样，来寻觅你这位徐君。眼前只看见林中的花一片片飘落，耳边只听见黄莺啼叫，像在替人送客。",
+  "appreciation": "这首诗写得朴实又深情。诗人在坟前落泪，泪水把坟前的土都打湿了，一句“近泪无干土”，比多少句“我很悲伤”都更有分量。中间用谢安和徐君两个典故夸赞亡友、追忆交情，把思念写得含蓄郑重。结尾不直说舍不得，只写林花落、莺啼叫，让满林子的春光都带着送别的味道。",
+  "background": "房琯当过宰相，是杜甫的老朋友，杜甫当年还因为替他说话丢了官。房琯去世后葬在阆州。公元 763 年，杜甫要离开这一带，动身前专门骑马来到好友墓前告别，写下这首诗。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "异乡奔波",
+      "text": "杜甫在异乡又要上路奔波，动身前先去拜别亡友的孤坟。"
+    },
+    {
+      "step": 2,
+      "title": "驻马泪落",
+      "text": "他停下马站在坟前，泪水洒落，把坟前的泥土都打湿了。"
+    },
+    {
+      "step": 3,
+      "title": "追忆旧交",
+      "text": "他想起陪好友下棋的往事，情谊像古人季札一样郑重长久。"
+    },
+    {
+      "step": 4,
+      "title": "莺啼送客",
+      "text": "只见林花飘落，耳边黄莺啼叫，仿佛也在替他送别亡友。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "役",
+      "reading": "yì",
+      "reason": "“行役”指在外奔波当差，“役”读 yì。",
+      "standard": "不要读成 shì"
+    },
+    {
+      "char": "觅",
+      "reading": "mì",
+      "reason": "“把剑觅徐君”的“觅”读 mì，是寻找的意思。",
+      "standard": "不要读成 mǐ"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1072
+}

@@ -1,0 +1,234 @@
+{
+  "id": "tang-zhongtang-liuchangqing-changsha-guojiayi-zhai",
+  "slug": "changsha-guojiayi-zhai",
+  "title": "长沙过贾谊宅",
+  "titlePinyin": "cháng shā guò jiǎ yì zhái",
+  "dynasty": "tangshi",
+  "era": "zhongtang",
+  "genre": "shi",
+  "form": "七言律诗",
+  "authorId": "liuchangqing",
+  "gradeBand": "ext",
+  "tags": [
+    "怀古",
+    "秋草",
+    "寒林",
+    "七言律诗"
+  ],
+  "difficulty": 3,
+  "writtenYear": 758,
+  "writtenLabel": "约公元 758 年（刘长卿约 32 岁，被贬南巴途中经过长沙，访贾谊故居）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "汉文有道恩犹薄，湘水无情吊岂知。"
+  ],
+  "lines": [
+    {
+      "text": "三年谪宦此栖迟，",
+      "pinyin": [
+        "sān",
+        "nián",
+        "zhé",
+        "huàn",
+        "cǐ",
+        "qī",
+        "chí"
+      ],
+      "translation": "贾谊被贬在这里一住就是三年，",
+      "noteIds": [
+        "n-zhehuan",
+        "n-qichi"
+      ]
+    },
+    {
+      "text": "万古惟留楚客悲。",
+      "pinyin": [
+        "wàn",
+        "gǔ",
+        "wéi",
+        "liú",
+        "chǔ",
+        "kè",
+        "bēi"
+      ],
+      "translation": "千秋万代只留下楚地客子的悲伤。",
+      "noteIds": [
+        "n-chuke"
+      ]
+    },
+    {
+      "text": "秋草独寻人去后，",
+      "pinyin": [
+        "qiū",
+        "cǎo",
+        "dú",
+        "xún",
+        "rén",
+        "qù",
+        "hòu"
+      ],
+      "translation": "我在秋草中独自寻访，人早已离去，",
+      "noteIds": []
+    },
+    {
+      "text": "寒林空见日斜时。",
+      "pinyin": [
+        "hán",
+        "lín",
+        "kōng",
+        "jiàn",
+        "rì",
+        "xié",
+        "shí"
+      ],
+      "translation": "寒林里空见夕阳西斜的时分。",
+      "noteIds": []
+    },
+    {
+      "text": "汉文有道恩犹薄，",
+      "pinyin": [
+        "hàn",
+        "wén",
+        "yǒu",
+        "dào",
+        "ēn",
+        "yóu",
+        "bó"
+      ],
+      "translation": "汉文帝虽是有道的明君，对贾谊的恩情还是太薄，",
+      "noteIds": [
+        "n-hanwen"
+      ]
+    },
+    {
+      "text": "湘水无情吊岂知。",
+      "pinyin": [
+        "xiāng",
+        "shuǐ",
+        "wú",
+        "qíng",
+        "diào",
+        "qǐ",
+        "zhī"
+      ],
+      "translation": "湘水无情，凭吊之情它又哪里知道。",
+      "noteIds": [
+        "n-diao"
+      ]
+    },
+    {
+      "text": "寂寂江山摇落处，",
+      "pinyin": [
+        "jì",
+        "jì",
+        "jiāng",
+        "shān",
+        "yáo",
+        "luò",
+        "chù"
+      ],
+      "translation": "寂静冷落的江山、草木凋零的地方，",
+      "noteIds": [
+        "n-yaoluo"
+      ]
+    },
+    {
+      "text": "怜君何事到天涯？",
+      "pinyin": [
+        "lián",
+        "jūn",
+        "hé",
+        "shì",
+        "dào",
+        "tiān",
+        "yá"
+      ],
+      "translation": "可怜你为什么被贬到这么远的天涯？",
+      "noteIds": []
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-zhehuan",
+      "word": "谪宦",
+      "pinyin": "zhé huàn",
+      "meaning": "被贬降官职。"
+    },
+    {
+      "id": "n-qichi",
+      "word": "栖迟",
+      "pinyin": "qī chí",
+      "meaning": "停留、居住。"
+    },
+    {
+      "id": "n-chuke",
+      "word": "楚客",
+      "pinyin": "chǔ kè",
+      "meaning": "客居楚地的人，这里既指贾谊，也指诗人自己。"
+    },
+    {
+      "id": "n-hanwen",
+      "word": "汉文",
+      "pinyin": "hàn wén",
+      "meaning": "指汉文帝，西汉有道的君主。"
+    },
+    {
+      "id": "n-diao",
+      "word": "吊",
+      "pinyin": "diào",
+      "meaning": "凭吊，怀念古人。"
+    },
+    {
+      "id": "n-yaoluo",
+      "word": "摇落",
+      "pinyin": "yáo luò",
+      "meaning": "草木凋残零落。"
+    }
+  ],
+  "translation": "贾谊被贬在这里一住就是三年，千秋万代只留下楚地客子的悲伤。我在秋草中独自寻访，人早已离去；寒林里空见夕阳西斜的时分。汉文帝虽是有道的明君，对贾谊的恩情还是太薄；湘水无情，凭吊之情它又哪里知道。寂静冷落的江山、草木凋零的地方，可怜你为什么被贬到这么远的天涯？",
+  "appreciation": "诗人被贬途中经过长沙，寻访贾谊住过的老宅。秋草没人，寒林日斜，当年被贬三年的贾谊只剩下千年的悲伤。他说汉文帝虽是明君，对贾谊的恩情还是太薄；湘水无情，凭吊它也听不懂。最后一句问贾谊为何被贬到天涯，其实是问自己。怀古和身世完全融在一起，是唐代七律的名篇。",
+  "background": "约公元 758 年，刘长卿被诬陷贬为潘州南巴尉，南下途中经过长沙。他想起西汉贾谊也是被贬到长沙，住过三年，心里非常感慨。秋草寒林的傍晚，他寻访贾谊故居，写下这首借古人酒杯、浇自己心中块垒的诗。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "贬途经潭",
+      "text": "诗人被贬南下，途中经过长沙，特来寻访贾谊故居。"
+    },
+    {
+      "step": 2,
+      "title": "秋草斜阳",
+      "text": "秋草中独自寻访故人，寒林里只见日斜时分。"
+    },
+    {
+      "step": 3,
+      "title": "感叹恩薄",
+      "text": "他感叹汉文帝虽是有道明君，对贾谊的恩情仍然太薄。"
+    },
+    {
+      "step": 4,
+      "title": "吊人自伤",
+      "text": "怜惜贾谊被贬到天涯，其实也是怜惜自己同样的命运。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "谪",
+      "reading": "zhé",
+      "reason": "“谪宦”指被贬官，读 zhé。",
+      "standard": "不要读成 dí"
+    },
+    {
+      "char": "栖",
+      "reading": "qī",
+      "reason": "“栖迟”是停留居住的意思，读 qī。",
+      "standard": "不要读成 xī"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1160
+}

@@ -1,0 +1,628 @@
+{
+  "id": "tang-shengtang-libai-lushanyao",
+  "slug": "lushanyao",
+  "title": "庐山谣寄卢侍御虚舟",
+  "titlePinyin": "lú shān yáo jì lú shì yù xū zhōu",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "七言古诗",
+  "authorId": "libai",
+  "gradeBand": "ext",
+  "tags": [
+    "山水",
+    "七言古诗",
+    "庐山",
+    "瀑布"
+  ],
+  "difficulty": 3,
+  "writtenYear": 760,
+  "writtenLabel": "约公元 760 年（李白 60 岁，流放遇赦后重游庐山，寄给好友卢虚舟）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "我本楚狂人，凤歌笑孔丘。",
+    "登高壮观天地间，大江茫茫去不还。"
+  ],
+  "lines": [
+    {
+      "text": "我本楚狂人，",
+      "pinyin": [
+        "wǒ",
+        "běn",
+        "chǔ",
+        "kuáng",
+        "rén"
+      ],
+      "translation": "我本来就像楚国的狂士接舆，",
+      "noteIds": [
+        "n-chukuang"
+      ]
+    },
+    {
+      "text": "凤歌笑孔丘。",
+      "pinyin": [
+        "fèng",
+        "gē",
+        "xiào",
+        "kǒng",
+        "qiū"
+      ],
+      "translation": "唱着凤歌笑那四处求官的孔丘。",
+      "noteIds": [
+        "n-fengge"
+      ]
+    },
+    {
+      "text": "手持绿玉杖，",
+      "pinyin": [
+        "shǒu",
+        "chí",
+        "lǜ",
+        "yù",
+        "zhàng"
+      ],
+      "translation": "手里拿着仙人用的绿玉杖，",
+      "noteIds": [
+        "n-lvyuzhang"
+      ]
+    },
+    {
+      "text": "朝别黄鹤楼。",
+      "pinyin": [
+        "zhāo",
+        "bié",
+        "huáng",
+        "hè",
+        "lóu"
+      ],
+      "translation": "清晨辞别黄鹤楼。",
+      "noteIds": []
+    },
+    {
+      "text": "五岳寻仙不辞远，",
+      "pinyin": [
+        "wǔ",
+        "yuè",
+        "xún",
+        "xiān",
+        "bù",
+        "cí",
+        "yuǎn"
+      ],
+      "translation": "为了寻访神仙，走遍五岳也不嫌路远，",
+      "noteIds": []
+    },
+    {
+      "text": "一生好入名山游。",
+      "pinyin": [
+        "yī",
+        "shēng",
+        "hào",
+        "rù",
+        "míng",
+        "shān",
+        "yóu"
+      ],
+      "translation": "这一生就喜欢到名山去游历。",
+      "noteIds": []
+    },
+    {
+      "text": "庐山秀出南斗傍，",
+      "pinyin": [
+        "lú",
+        "shān",
+        "xiù",
+        "chū",
+        "nán",
+        "dǒu",
+        "bàng"
+      ],
+      "translation": "庐山秀丽地挺立在南斗星旁边，",
+      "noteIds": [
+        "n-nandou"
+      ]
+    },
+    {
+      "text": "屏风九叠云锦张，",
+      "pinyin": [
+        "píng",
+        "fēng",
+        "jiǔ",
+        "dié",
+        "yún",
+        "jǐn",
+        "zhāng"
+      ],
+      "translation": "九叠云屏像铺开的云锦一样，",
+      "noteIds": [
+        "n-pingfeng"
+      ]
+    },
+    {
+      "text": "影落明湖青黛光。",
+      "pinyin": [
+        "yǐng",
+        "luò",
+        "míng",
+        "hú",
+        "qīng",
+        "dài",
+        "guāng"
+      ],
+      "translation": "山影落在明净的湖水里，泛出青黛色的光。",
+      "noteIds": [
+        "n-dai"
+      ]
+    },
+    {
+      "text": "金阙前开二峰长，",
+      "pinyin": [
+        "jīn",
+        "què",
+        "qián",
+        "kāi",
+        "èr",
+        "fēng",
+        "cháng"
+      ],
+      "translation": "金阙岩前两座山峰高耸屹立，",
+      "noteIds": [
+        "n-jinque"
+      ]
+    },
+    {
+      "text": "银河倒挂三石梁。",
+      "pinyin": [
+        "yín",
+        "hé",
+        "dào",
+        "guà",
+        "sān",
+        "shí",
+        "liáng"
+      ],
+      "translation": "瀑布像银河倒挂在三根石梁上。",
+      "noteIds": [
+        "n-shiliang"
+      ]
+    },
+    {
+      "text": "香炉瀑布遥相望，",
+      "pinyin": [
+        "xiāng",
+        "lú",
+        "pù",
+        "bù",
+        "yáo",
+        "xiāng",
+        "wàng"
+      ],
+      "translation": "香炉峰的瀑布远远地相对相望，",
+      "noteIds": [
+        "n-xianglu"
+      ]
+    },
+    {
+      "text": "回崖沓嶂凌苍苍。",
+      "pinyin": [
+        "huí",
+        "yá",
+        "tà",
+        "zhàng",
+        "líng",
+        "cāng",
+        "cāng"
+      ],
+      "translation": "曲折的山崖、重叠的山峰，高入青天。",
+      "noteIds": [
+        "n-tazhang"
+      ]
+    },
+    {
+      "text": "翠影红霞映朝日，",
+      "pinyin": [
+        "cuì",
+        "yǐng",
+        "hóng",
+        "xiá",
+        "yìng",
+        "zhāo",
+        "rì"
+      ],
+      "translation": "翠绿的山影、红色的朝霞，映着初升的太阳，",
+      "noteIds": []
+    },
+    {
+      "text": "鸟飞不到吴天长。",
+      "pinyin": [
+        "niǎo",
+        "fēi",
+        "bù",
+        "dào",
+        "wú",
+        "tiān",
+        "cháng"
+      ],
+      "translation": "鸟也飞不过这辽阔的吴天。",
+      "noteIds": []
+    },
+    {
+      "text": "登高壮观天地间，",
+      "pinyin": [
+        "dēng",
+        "gāo",
+        "zhuàng",
+        "guān",
+        "tiān",
+        "dì",
+        "jiān"
+      ],
+      "translation": "登上高峰，天地尽收眼底，气象壮观，",
+      "noteIds": []
+    },
+    {
+      "text": "大江茫茫去不还。",
+      "pinyin": [
+        "dà",
+        "jiāng",
+        "máng",
+        "máng",
+        "qù",
+        "bù",
+        "huán"
+      ],
+      "translation": "长江茫茫东流，一去不再回头。",
+      "noteIds": []
+    },
+    {
+      "text": "黄云万里动风色，",
+      "pinyin": [
+        "huáng",
+        "yún",
+        "wàn",
+        "lǐ",
+        "dòng",
+        "fēng",
+        "sè"
+      ],
+      "translation": "万里黄云卷动，天色随风变幻，",
+      "noteIds": []
+    },
+    {
+      "text": "白波九道流雪山。",
+      "pinyin": [
+        "bái",
+        "bō",
+        "jiǔ",
+        "dào",
+        "liú",
+        "xuě",
+        "shān"
+      ],
+      "translation": "九道白色的江波，像流动的雪山。",
+      "noteIds": [
+        "n-jiudao"
+      ]
+    },
+    {
+      "text": "好为庐山谣，",
+      "pinyin": [
+        "hào",
+        "wéi",
+        "lú",
+        "shān",
+        "yáo"
+      ],
+      "translation": "我高兴地唱起庐山的歌谣，",
+      "noteIds": []
+    },
+    {
+      "text": "兴因庐山发。",
+      "pinyin": [
+        "xìng",
+        "yīn",
+        "lú",
+        "shān",
+        "fā"
+      ],
+      "translation": "诗兴因为庐山而激发。",
+      "noteIds": []
+    },
+    {
+      "text": "闲窥石镜清我心，",
+      "pinyin": [
+        "xián",
+        "kuī",
+        "shí",
+        "jìng",
+        "qīng",
+        "wǒ",
+        "xīn"
+      ],
+      "translation": "闲来照照石镜，让心境清爽，",
+      "noteIds": [
+        "n-shijing"
+      ]
+    },
+    {
+      "text": "谢公行处苍苔没。",
+      "pinyin": [
+        "xiè",
+        "gōng",
+        "xíng",
+        "chù",
+        "cāng",
+        "tái",
+        "mò"
+      ],
+      "translation": "谢灵运走过的地方，已被青苔掩没。",
+      "noteIds": [
+        "n-xiegong"
+      ]
+    },
+    {
+      "text": "早服还丹无世情，",
+      "pinyin": [
+        "zǎo",
+        "fú",
+        "huán",
+        "dān",
+        "wú",
+        "shì",
+        "qíng"
+      ],
+      "translation": "我要早早服下仙丹，抛却世俗之情，",
+      "noteIds": [
+        "n-huandan"
+      ]
+    },
+    {
+      "text": "琴心三叠道初成。",
+      "pinyin": [
+        "qín",
+        "xīn",
+        "sān",
+        "dié",
+        "dào",
+        "chū",
+        "chéng"
+      ],
+      "translation": "练到心神宁静平和，学道便初有所成。",
+      "noteIds": [
+        "n-qinxin"
+      ]
+    },
+    {
+      "text": "遥见仙人彩云里，",
+      "pinyin": [
+        "yáo",
+        "jiàn",
+        "xiān",
+        "rén",
+        "cǎi",
+        "yún",
+        "lǐ"
+      ],
+      "translation": "远远望见神仙站在彩云里，",
+      "noteIds": []
+    },
+    {
+      "text": "手把芙蓉朝玉京。",
+      "pinyin": [
+        "shǒu",
+        "bǎ",
+        "fú",
+        "róng",
+        "cháo",
+        "yù",
+        "jīng"
+      ],
+      "translation": "手拿莲花，去朝拜天上的玉京。",
+      "noteIds": [
+        "n-yujing"
+      ]
+    },
+    {
+      "text": "先期汗漫九垓上，",
+      "pinyin": [
+        "xiān",
+        "qī",
+        "hàn",
+        "màn",
+        "jiǔ",
+        "gāi",
+        "shàng"
+      ],
+      "translation": "我要先和仙人汗漫约会在九天之上，",
+      "noteIds": [
+        "n-hanman",
+        "n-jiugai"
+      ]
+    },
+    {
+      "text": "愿接卢敖游太清。",
+      "pinyin": [
+        "yuàn",
+        "jiē",
+        "lú",
+        "áo",
+        "yóu",
+        "tài",
+        "qīng"
+      ],
+      "translation": "愿接你卢敖，一同遨游太清仙境。",
+      "noteIds": [
+        "n-luao"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-chukuang",
+      "word": "楚狂人",
+      "pinyin": "chǔ kuáng rén",
+      "meaning": "春秋时楚国的狂士接舆，假装疯癫不做官，作者以他自比。"
+    },
+    {
+      "id": "n-fengge",
+      "word": "凤歌",
+      "pinyin": "fèng gē",
+      "meaning": "接舆走过孔子车前唱的“凤兮凤兮”之歌，劝孔子别在乱世奔波求官。"
+    },
+    {
+      "id": "n-lvyuzhang",
+      "word": "绿玉杖",
+      "pinyin": "lǜ yù zhàng",
+      "meaning": "镶着绿玉的手杖，传说中神仙所持。"
+    },
+    {
+      "id": "n-nandou",
+      "word": "南斗",
+      "pinyin": "nán dǒu",
+      "meaning": "星宿名，古人认为南斗星对应浔阳一带，所以说庐山在南斗傍。"
+    },
+    {
+      "id": "n-pingfeng",
+      "word": "屏风九叠",
+      "pinyin": "píng fēng jiǔ dié",
+      "meaning": "庐山胜景，像屏风一样层层叠叠的山峰，又叫九叠云屏。"
+    },
+    {
+      "id": "n-dai",
+      "word": "黛",
+      "pinyin": "dài",
+      "meaning": "青黑色的颜料，用来形容山影映在湖水里的颜色。"
+    },
+    {
+      "id": "n-jinque",
+      "word": "金阙",
+      "pinyin": "jīn què",
+      "meaning": "庐山的金阙岩，两座山峰相对，像宫殿前的门阙。"
+    },
+    {
+      "id": "n-shiliang",
+      "word": "三石梁",
+      "pinyin": "sān shí liáng",
+      "meaning": "庐山三叠泉一带，瀑布像银河倒挂在三根石梁上。"
+    },
+    {
+      "id": "n-xianglu",
+      "word": "香炉",
+      "pinyin": "xiāng lú",
+      "meaning": "庐山香炉峰，峰顶云雾缭绕像香炉。"
+    },
+    {
+      "id": "n-tazhang",
+      "word": "沓嶂",
+      "pinyin": "tà zhàng",
+      "meaning": "层层重叠的山峰。"
+    },
+    {
+      "id": "n-jiudao",
+      "word": "九道",
+      "pinyin": "jiǔ dào",
+      "meaning": "长江流到浔阳分为九条支流，所以叫九江、九道。"
+    },
+    {
+      "id": "n-shijing",
+      "word": "石镜",
+      "pinyin": "shí jìng",
+      "meaning": "庐山一块又圆又亮的石头，光洁如镜，能照出人影。"
+    },
+    {
+      "id": "n-xiegong",
+      "word": "谢公",
+      "pinyin": "xiè gōng",
+      "meaning": "南朝诗人谢灵运，他游庐山时曾在这里行走。"
+    },
+    {
+      "id": "n-huandan",
+      "word": "还丹",
+      "pinyin": "huán dān",
+      "meaning": "道家炼成的仙丹，据说服后成仙。"
+    },
+    {
+      "id": "n-qinxin",
+      "word": "琴心三叠",
+      "pinyin": "qín xīn sān dié",
+      "meaning": "道家修炼术语，指心神宁静平和，像琴音一样和谐。"
+    },
+    {
+      "id": "n-yujing",
+      "word": "玉京",
+      "pinyin": "yù jīng",
+      "meaning": "道教传说中天帝居住的都城。"
+    },
+    {
+      "id": "n-hanman",
+      "word": "汗漫",
+      "pinyin": "hàn màn",
+      "meaning": "传说中不可知其名的仙人。"
+    },
+    {
+      "id": "n-jiugai",
+      "word": "九垓",
+      "pinyin": "jiǔ gāi",
+      "meaning": "九重天，极高的天空。"
+    },
+    {
+      "id": "n-luao",
+      "word": "卢敖",
+      "pinyin": "lú áo",
+      "meaning": "秦代的方士，这里借指诗题中的好友卢虚舟。"
+    }
+  ],
+  "translation": "我本来就像楚国的狂士接舆，唱着凤歌笑那四处奔波求官的孔丘。手里拿着仙人用的绿玉杖，清晨辞别黄鹤楼。为了寻访神仙，走遍五岳也不嫌路远，这一生就喜欢到名山去游历。庐山秀丽地挺立在南斗星旁边，九叠云屏像铺开的云锦，山影落在明净的湖水里，泛出青黛色的光。金阙岩前两座山峰高耸，瀑布像银河倒挂在三根石梁上。香炉峰的瀑布远远相望，曲折的山崖、重叠的山峰高入青天。翠绿的山影、红色的朝霞映着朝阳，鸟也飞不过这辽阔的吴天。登上高峰，天地尽收眼底，长江茫茫东流，一去不再回头。万里黄云卷动天色，九道白波像流动的雪山。我高兴地唱起庐山歌谣，诗兴因庐山而激发。闲来照照石镜让心境清爽，谢灵运走过的地方已被青苔掩没。我要早早服下仙丹、抛却世俗之情，练到心神平和，学道初有所成。远远望见神仙站在彩云里，手拿莲花去朝拜玉京。我要先和仙人汗漫约会在九天之上，愿接你卢敖，一同遨游太清仙境。",
+  "appreciation": "这首诗像一场从人间飞向天上的旅行。开头一声“我本楚狂人”，先把自己的狂放亮出来；接着一路写庐山：九叠屏风、银河倒挂、翠影红霞，色彩浓丽，气势飞动。登高望远一段，大江、黄云、白波九道，境界壮阔无边。结尾忽然飘然成仙，手把芙蓉、朝拜玉京，把寄给朋友的话也带上了九天。全诗想象飞腾，正见李白“一生好入名山游”的浪漫本色。",
+  "background": "上元元年（760）春，李白流放夜郎途中遇赦归来，重游庐山。经历了一生坎坷，他一心想访仙学道、远离尘世。这首诗是他游庐山后寄给朋友、殿中侍御史卢虚舟的，既是庐山壮丽景色的赞歌，也是他晚年求仙出世心情的写照。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "楚狂辞楼",
+      "text": "李白自比狂士接舆，清晨拿着仙人手杖辞别黄鹤楼。"
+    },
+    {
+      "step": 2,
+      "title": "遍游五岳",
+      "text": "他一生爱进名山，为寻仙不辞路远，来到秀出天外的庐山。"
+    },
+    {
+      "step": 3,
+      "title": "登高壮观",
+      "text": "登上山顶，大江茫茫东去，黄云万里、白波九道，壮丽无边。"
+    },
+    {
+      "step": 4,
+      "title": "邀友游仙",
+      "text": "他想象仙人手把芙蓉朝拜玉京，愿与卢虚舟同游九天仙境。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "朝",
+      "reading": "cháo",
+      "reason": "“朝玉京”是朝拜的意思，读 cháo；“朝别黄鹤楼”“映朝日”中的“朝”读 zhāo。",
+      "standard": "朝拜不要读成 zhāo"
+    },
+    {
+      "char": "沓",
+      "reading": "tà",
+      "reason": "“沓嶂”是重叠的山峰，“沓”读 tà。",
+      "standard": "不要读成 dá 或 tǎ"
+    },
+    {
+      "char": "垓",
+      "reading": "gāi",
+      "reason": "“九垓”指九重天，“垓”读 gāi。",
+      "standard": "不要读成 hái 或误认成形近字"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》",
+    "《李太白集》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1206
+}

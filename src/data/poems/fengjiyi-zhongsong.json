@@ -1,0 +1,203 @@
+{
+  "id": "tang-shengtang-dufu-fengjiyi-zhongsong",
+  "slug": "fengjiyi-zhongsong",
+  "title": "奉济驿重送严公四韵",
+  "titlePinyin": "fèng jì yì chóng sòng yán gōng sì yùn",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "五言律诗",
+  "authorId": "dufu",
+  "gradeBand": "ext",
+  "tags": [
+    "送别",
+    "五言律诗",
+    "青山",
+    "月夜"
+  ],
+  "difficulty": 3,
+  "writtenYear": 762,
+  "writtenLabel": "公元 762 年（杜甫 50 岁，好友严武奉召回京，杜甫远送到奉济驿）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "远送从此别，青山空复情。"
+  ],
+  "lines": [
+    {
+      "text": "远送从此别，",
+      "pinyin": [
+        "yuǎn",
+        "sòng",
+        "cóng",
+        "cǐ",
+        "bié"
+      ],
+      "translation": "一路远远相送，就要在这里分别了。",
+      "noteIds": []
+    },
+    {
+      "text": "青山空复情。",
+      "pinyin": [
+        "qīng",
+        "shān",
+        "kōng",
+        "fù",
+        "qíng"
+      ],
+      "translation": "青山好像也含着惜别之情，可它终究留不住你。",
+      "noteIds": [
+        "n-kong"
+      ]
+    },
+    {
+      "text": "几时杯重把？",
+      "pinyin": [
+        "jǐ",
+        "shí",
+        "bēi",
+        "chóng",
+        "bǎ"
+      ],
+      "translation": "什么时候才能再次举杯共饮呢？",
+      "noteIds": [
+        "n-chong"
+      ]
+    },
+    {
+      "text": "昨夜月同行。",
+      "pinyin": [
+        "zuó",
+        "yè",
+        "yuè",
+        "tóng",
+        "xíng"
+      ],
+      "translation": "昨天夜里，我们还一起在月色中同行。",
+      "noteIds": []
+    },
+    {
+      "text": "列郡讴歌惜，",
+      "pinyin": [
+        "liè",
+        "jùn",
+        "ōu",
+        "gē",
+        "xī"
+      ],
+      "translation": "你治理过的各郡百姓都歌颂你，舍不得你走。",
+      "noteIds": [
+        "n-ouge"
+      ]
+    },
+    {
+      "text": "三朝出入荣。",
+      "pinyin": [
+        "sān",
+        "cháo",
+        "chū",
+        "rù",
+        "róng"
+      ],
+      "translation": "你接连辅佐三代皇帝，出入朝廷十分荣耀。",
+      "noteIds": [
+        "n-sanchao"
+      ]
+    },
+    {
+      "text": "江村独归处，",
+      "pinyin": [
+        "jiāng",
+        "cūn",
+        "dú",
+        "guī",
+        "chù"
+      ],
+      "translation": "送别之后，我独自回到江边的村庄，",
+      "noteIds": []
+    },
+    {
+      "text": "寂寞养残生。",
+      "pinyin": [
+        "jì",
+        "mò",
+        "yǎng",
+        "cán",
+        "shēng"
+      ],
+      "translation": "往后就靠着寂寞，度过剩下的岁月了。",
+      "noteIds": []
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-kong",
+      "word": "空",
+      "pinyin": "kōng",
+      "meaning": "白白地、徒然地，这里说青山再有情也留不住人。"
+    },
+    {
+      "id": "n-chong",
+      "word": "重",
+      "pinyin": "chóng",
+      "meaning": "再、又，“杯重把”就是再次举杯。"
+    },
+    {
+      "id": "n-ouge",
+      "word": "讴歌",
+      "pinyin": "ōu gē",
+      "meaning": "歌颂、赞美。"
+    },
+    {
+      "id": "n-sanchao",
+      "word": "三朝",
+      "pinyin": "sān cháo",
+      "meaning": "三个朝代，指严武辅佐过三代皇帝。"
+    }
+  ],
+  "translation": "一路远远相送，就要在这里分别了。青山好像也含着惜别之情，可它终究留不住你。什么时候才能再次举杯共饮呢？昨天夜里，我们还一起在月色中同行。你治理过的各郡百姓都歌颂你、舍不得你，你辅佐三代皇帝，出入朝廷十分荣耀。送别之后，我独自回到江边的村庄，往后就靠着寂寞，度过剩下的岁月了。",
+  "appreciation": "这首送别诗没有大声喊难过，而是把情放在青山和月色里。青山徒然有情，留不住友人；昨夜还一起赏月，今天就要各奔东西，一句“几时杯重把”，不舍全在里面了。后四句夸赞严武得人心、有功劳，也是宽慰朋友。最后写自己独自回村、寂寞度日，把送别后的冷清留给读者，情意绵长。",
+  "background": "严武是杜甫在成都的好友，曾照顾杜甫一家。公元 762 年，严武奉皇帝的命令回京城，杜甫一直送出很远，直到奉济驿才分别。想到严武走后自己没了依靠，他写下这首送别诗。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "远送好友",
+      "text": "好友严武奉召回京，杜甫依依不舍，一路远远相送到奉济驿。"
+    },
+    {
+      "step": 2,
+      "title": "青山含情",
+      "text": "分别在即，青山静静立着，好像也含着挽留不住的情意。"
+    },
+    {
+      "step": 3,
+      "title": "回想昨夜",
+      "text": "他想起昨夜还在月下同行，不知何时才能再举杯共饮。"
+    },
+    {
+      "step": 4,
+      "title": "独归江村",
+      "text": "送走好友，他独自回到江村，往后在寂寞中度过残年。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "重",
+      "reading": "chóng",
+      "reason": "题目“重送”和诗中“杯重把”的“重”都是“再”的意思，读 chóng。",
+      "standard": "不要读成 zhòng"
+    },
+    {
+      "char": "朝",
+      "reading": "cháo",
+      "reason": "“三朝”指三个朝代，读 cháo。",
+      "standard": "不要读成 zhāo"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1071
+}

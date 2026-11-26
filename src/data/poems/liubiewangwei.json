@@ -1,0 +1,215 @@
+{
+  "id": "tang-shengtang-menghaoran-liubiewangwei",
+  "slug": "liubiewangwei",
+  "title": "留别王维",
+  "titlePinyin": "liú bié wáng wéi",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "五言律诗",
+  "authorId": "menghaoran",
+  "gradeBand": "ext",
+  "tags": [
+    "送别",
+    "五言律诗",
+    "芳草"
+  ],
+  "difficulty": 3,
+  "writtenYear": 729,
+  "writtenLabel": "约公元 729 年（孟浩然 41 岁，长安应举落第后离开京城，留别王维）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "当路谁相假，知音世所稀。"
+  ],
+  "lines": [
+    {
+      "text": "寂寂竟何待，",
+      "pinyin": [
+        "jì",
+        "jì",
+        "jìng",
+        "hé",
+        "dài"
+      ],
+      "translation": "冷冷清清的，我还在等待什么呢？",
+      "noteIds": [
+        "n-jiji"
+      ]
+    },
+    {
+      "text": "朝朝空自归。",
+      "pinyin": [
+        "zhāo",
+        "zhāo",
+        "kōng",
+        "zì",
+        "guī"
+      ],
+      "translation": "天天出门，天天空手而回。",
+      "noteIds": []
+    },
+    {
+      "text": "欲寻芳草去，",
+      "pinyin": [
+        "yù",
+        "xún",
+        "fāng",
+        "cǎo",
+        "qù"
+      ],
+      "translation": "想回到芳草芬芳的田园去隐居，",
+      "noteIds": [
+        "n-fangcao"
+      ]
+    },
+    {
+      "text": "惜与故人违。",
+      "pinyin": [
+        "xī",
+        "yǔ",
+        "gù",
+        "rén",
+        "wéi"
+      ],
+      "translation": "又舍不得和老朋友分离。",
+      "noteIds": [
+        "n-wei"
+      ]
+    },
+    {
+      "text": "当路谁相假，",
+      "pinyin": [
+        "dāng",
+        "lù",
+        "shuí",
+        "xiāng",
+        "jiǎ"
+      ],
+      "translation": "当权的人有谁肯帮我提携呢？",
+      "noteIds": [
+        "n-danglu",
+        "n-xiangjia"
+      ]
+    },
+    {
+      "text": "知音世所稀。",
+      "pinyin": [
+        "zhī",
+        "yīn",
+        "shì",
+        "suǒ",
+        "xī"
+      ],
+      "translation": "世上知音实在太少了。",
+      "noteIds": []
+    },
+    {
+      "text": "只应守寂寞，",
+      "pinyin": [
+        "zhǐ",
+        "yīng",
+        "shǒu",
+        "jì",
+        "mò"
+      ],
+      "translation": "看来只应该守着寂寞，",
+      "noteIds": []
+    },
+    {
+      "text": "还掩故园扉。",
+      "pinyin": [
+        "hái",
+        "yǎn",
+        "gù",
+        "yuán",
+        "fēi"
+      ],
+      "translation": "回去关上自家故园的门了。",
+      "noteIds": [
+        "n-fei"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-jiji",
+      "word": "寂寂",
+      "pinyin": "jì jì",
+      "meaning": "冷落、没有指望的样子。"
+    },
+    {
+      "id": "n-fangcao",
+      "word": "芳草",
+      "pinyin": "fāng cǎo",
+      "meaning": "香草，指隐居的田园生活。"
+    },
+    {
+      "id": "n-wei",
+      "word": "违",
+      "pinyin": "wéi",
+      "meaning": "分离。"
+    },
+    {
+      "id": "n-danglu",
+      "word": "当路",
+      "pinyin": "dāng lù",
+      "meaning": "当权的人。"
+    },
+    {
+      "id": "n-xiangjia",
+      "word": "相假",
+      "pinyin": "xiāng jiǎ",
+      "meaning": "相帮、提携。假，借用，引申为帮助。"
+    },
+    {
+      "id": "n-fei",
+      "word": "扉",
+      "pinyin": "fēi",
+      "meaning": "门扇。"
+    }
+  ],
+  "translation": "冷冷清清的，我还在等待什么呢？天天出门，天天空手而回。想回到芳草芬芳的田园去隐居，又舍不得和老朋友分离。当权的人有谁肯帮我提携呢？世上知音实在太少了。看来只应该守着寂寞，回去关上自家故园的门了。",
+  "appreciation": "天天出门又天天空手回来，开头两句把求官失意说得直白又心酸。想去田园，又舍不得知心朋友，短短两句把“走还是留”的为难写活了。再问当权的谁肯帮忙，叹知音世上稀少，最后只好关门守着寂寞。全诗像一声叹气，把落第后的失望说得明明白白。",
+  "background": "孟浩然四十岁左右到长安应进士试，没有考中，想留下来谋个官职，也始终没有结果。离开京城之前，他写下这首诗向好友王维告别，说出自己失意、知音难遇，准备回襄阳归隐田园的心情。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "空自归来",
+      "text": "天天出门求告又空手回来，不知还在等什么。"
+    },
+    {
+      "step": 2,
+      "title": "欲去惜别",
+      "text": "想回芳草田园隐居，又舍不得与老朋友分别。"
+    },
+    {
+      "step": 3,
+      "title": "知音难遇",
+      "text": "当权的没有一个肯提携，世上知音实在太少了。"
+    },
+    {
+      "step": 4,
+      "title": "掩门归隐",
+      "text": "只好守着寂寞回到家乡去，关上自家故园的柴门。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "假",
+      "reading": "jiǎ",
+      "reason": "“谁相假”的“假”读 jiǎ，是帮助、提携的意思。"
+    },
+    {
+      "char": "掩",
+      "reading": "yǎn",
+      "reason": "“还掩”的“掩”读 yǎn，是关上的意思。"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1084
+}

@@ -1,0 +1,218 @@
+{
+  "id": "tang-shengtang-dufu-yonghuaiguji-2",
+  "slug": "yonghuaiguji-2",
+  "title": "咏怀古迹·其二",
+  "titlePinyin": "yǒng huái gǔ jì · qí èr",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "七言律诗",
+  "authorId": "dufu",
+  "gradeBand": "ext",
+  "tags": [
+    "怀古",
+    "悲秋",
+    "秋天",
+    "七言律诗"
+  ],
+  "difficulty": 3,
+  "writtenYear": 766,
+  "writtenLabel": "约公元 766 年（杜甫 54 岁，寓居夔州，凭吊宋玉故宅）",
+  "orderInAuthor": 2,
+  "famousLines": [
+    "摇落深知宋玉悲，风流儒雅亦吾师。"
+  ],
+  "lines": [
+    {
+      "text": "摇落深知宋玉悲，",
+      "pinyin": [
+        "yáo",
+        "luò",
+        "shēn",
+        "zhī",
+        "sòng",
+        "yù",
+        "bēi"
+      ],
+      "translation": "秋天草木凋落，我最懂宋玉的悲伤，",
+      "noteIds": [
+        "n-yaoluo",
+        "n-songyu"
+      ]
+    },
+    {
+      "text": "风流儒雅亦吾师。",
+      "pinyin": [
+        "fēng",
+        "liú",
+        "rú",
+        "yǎ",
+        "yì",
+        "wú",
+        "shī"
+      ],
+      "translation": "他风度翩翩、文雅出众，也是我的老师。",
+      "noteIds": []
+    },
+    {
+      "text": "怅望千秋一洒泪，",
+      "pinyin": [
+        "chàng",
+        "wàng",
+        "qiān",
+        "qiū",
+        "yì",
+        "sǎ",
+        "lèi"
+      ],
+      "translation": "隔着千年的光阴怅然远望，忍不住流泪，",
+      "noteIds": []
+    },
+    {
+      "text": "萧条异代不同时。",
+      "pinyin": [
+        "xiāo",
+        "tiáo",
+        "yì",
+        "dài",
+        "bù",
+        "tóng",
+        "shí"
+      ],
+      "translation": "我们生在不同的时代，同样冷清，不能同在一个时候。",
+      "noteIds": []
+    },
+    {
+      "text": "江山故宅空文藻，",
+      "pinyin": [
+        "jiāng",
+        "shān",
+        "gù",
+        "zhái",
+        "kōng",
+        "wén",
+        "zǎo"
+      ],
+      "translation": "江山里他的老宅还在，文章词藻却白白流传，",
+      "noteIds": [
+        "n-guzhai"
+      ]
+    },
+    {
+      "text": "云雨荒台岂梦思。",
+      "pinyin": [
+        "yún",
+        "yǔ",
+        "huāng",
+        "tái",
+        "qǐ",
+        "mèng",
+        "sī"
+      ],
+      "translation": "那传说中的云雨高台早已荒废，难道真只是梦里的思念？",
+      "noteIds": []
+    },
+    {
+      "text": "最是楚宫俱泯灭，",
+      "pinyin": [
+        "zuì",
+        "shì",
+        "chǔ",
+        "gōng",
+        "jù",
+        "mǐn",
+        "miè"
+      ],
+      "translation": "最可惜的是楚宫全都消失了，",
+      "noteIds": [
+        "n-minmie"
+      ]
+    },
+    {
+      "text": "舟人指点到今疑。",
+      "pinyin": [
+        "zhōu",
+        "rén",
+        "zhǐ",
+        "diǎn",
+        "dào",
+        "jīn",
+        "yí"
+      ],
+      "translation": "船工指点着说“就是这里”，到今天还让人半信半疑。",
+      "noteIds": []
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-yaoluo",
+      "word": "摇落",
+      "pinyin": "yáo luò",
+      "meaning": "草木凋落，指秋天。宋玉写过“悲哉秋之为气”的名句。"
+    },
+    {
+      "id": "n-songyu",
+      "word": "宋玉",
+      "pinyin": "sòng yù",
+      "meaning": "战国时楚国的辞赋家，一生不得志，爱在文章里写悲秋。"
+    },
+    {
+      "id": "n-guzhai",
+      "word": "故宅",
+      "pinyin": "gù zhái",
+      "meaning": "宋玉住过的老房子。"
+    },
+    {
+      "id": "n-minmie",
+      "word": "泯灭",
+      "pinyin": "mǐn miè",
+      "meaning": "消失，毁灭。"
+    }
+  ],
+  "translation": "秋天草木凋落，我最懂宋玉的悲伤，他风度翩翩、文雅出众，也是我的老师。隔着千年的光阴怅然远望，忍不住流泪，我们生在不同的时代，同样冷清，不能同在一个时候。江山里他的老宅还在，文章词藻却白白流传，那传说中的云雨高台早已荒废，难道真只是梦里的思念？最可惜的是楚宫全都消失了，船工指点着说“就是这里”，到今天还让人半信半疑。",
+  "appreciation": "杜甫漂到三峡，路过宋玉的故宅，把这位前辈当成知音。宋玉写过悲秋的名句，杜甫也在异乡的秋天里漂泊，两个人隔着千年流泪。他觉得房子还在，文章才华却被辜负，这才是最可惜的事。全诗像一次跨越千年的探访，同情别人，也叹息自己。",
+  "background": "公元766年，杜甫住在夔州，那里相传是战国诗人宋玉的故乡，还留着他的故宅和楚宫旧址。杜甫想到宋玉一生不被重用，只能借文章写心事，觉得和自己很像，于是写下这首怀古诗，把宋玉当作隔代的老师。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "秋色摇落",
+      "text": "秋天草木凋零，杜甫想起宋玉的悲秋名句。"
+    },
+    {
+      "step": 2,
+      "title": "认作老师",
+      "text": "宋玉文雅又有才华，杜甫把他当作自己的老师。"
+    },
+    {
+      "step": 3,
+      "title": "怅望流泪",
+      "text": "隔着千年光阴，两位诗人的心事一样冷清。"
+    },
+    {
+      "step": 4,
+      "title": "故宅荒台",
+      "text": "故宅还在文章空存，楚宫消失，船工指点也说不清。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "宅",
+      "reading": "zhái",
+      "reason": "“故宅”是老房子，读 zhái。",
+      "standard": "不要读成 zhé"
+    },
+    {
+      "char": "泯",
+      "reading": "mǐn",
+      "reason": "“泯灭”是消失的意思，读 mǐn。",
+      "standard": "不要读成 mín"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1140
+}

@@ -1,0 +1,223 @@
+{
+  "id": "tang-shengtang-dufu-yonghuaiguji-4",
+  "slug": "yonghuaiguji-4",
+  "title": "咏怀古迹·其四",
+  "titlePinyin": "yǒng huái gǔ jì · qí sì",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "七言律诗",
+  "authorId": "dufu",
+  "gradeBand": "ext",
+  "tags": [
+    "怀古",
+    "三国",
+    "白帝城",
+    "七言律诗"
+  ],
+  "difficulty": 3,
+  "writtenYear": 766,
+  "writtenLabel": "约公元 766 年（杜甫 54 岁，寓居夔州，凭吊刘备故迹）",
+  "orderInAuthor": 4,
+  "famousLines": [
+    "翠华想像空山里，玉殿虚无野寺中。"
+  ],
+  "lines": [
+    {
+      "text": "蜀主窥吴幸三峡，",
+      "pinyin": [
+        "shǔ",
+        "zhǔ",
+        "kuī",
+        "wú",
+        "xìng",
+        "sān",
+        "xiá"
+      ],
+      "translation": "刘备为了攻打东吴，来到三峡一带，",
+      "noteIds": [
+        "n-xing"
+      ]
+    },
+    {
+      "text": "崩年亦在永安宫。",
+      "pinyin": [
+        "bēng",
+        "nián",
+        "yì",
+        "zài",
+        "yǒng",
+        "ān",
+        "gōng"
+      ],
+      "translation": "他去世的那一年，就在永安宫里。",
+      "noteIds": [
+        "n-yongangong"
+      ]
+    },
+    {
+      "text": "翠华想像空山里，",
+      "pinyin": [
+        "cuì",
+        "huá",
+        "xiǎng",
+        "xiàng",
+        "kōng",
+        "shān",
+        "lǐ"
+      ],
+      "translation": "空山里只能想象皇帝仪仗翠旗的样子，",
+      "noteIds": [
+        "n-cuihua"
+      ]
+    },
+    {
+      "text": "玉殿虚无野寺中。",
+      "pinyin": [
+        "yù",
+        "diàn",
+        "xū",
+        "wú",
+        "yě",
+        "sì",
+        "zhōng"
+      ],
+      "translation": "当年的玉殿已没了踪影，只剩下荒野中的寺庙。",
+      "noteIds": []
+    },
+    {
+      "text": "古庙杉松巢水鹤，",
+      "pinyin": [
+        "gǔ",
+        "miào",
+        "shān",
+        "sōng",
+        "cháo",
+        "shuǐ",
+        "hè"
+      ],
+      "translation": "古庙的杉树上，水鹤做着窝，",
+      "noteIds": []
+    },
+    {
+      "text": "岁时伏腊走村翁。",
+      "pinyin": [
+        "suì",
+        "shí",
+        "fú",
+        "là",
+        "zǒu",
+        "cūn",
+        "wēng"
+      ],
+      "translation": "逢年过节，村里的老人都赶来祭祀。",
+      "noteIds": [
+        "n-fula"
+      ]
+    },
+    {
+      "text": "武侯祠堂常邻近，",
+      "pinyin": [
+        "wǔ",
+        "hóu",
+        "cí",
+        "táng",
+        "cháng",
+        "lín",
+        "jìn"
+      ],
+      "translation": "武侯祠就在近旁，",
+      "noteIds": []
+    },
+    {
+      "text": "一体君臣祭祀同。",
+      "pinyin": [
+        "yì",
+        "tǐ",
+        "jūn",
+        "chén",
+        "jì",
+        "sì",
+        "tóng"
+      ],
+      "translation": "君主和大臣被一起祭祀，永远同在。",
+      "noteIds": []
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-xing",
+      "word": "幸",
+      "pinyin": "xìng",
+      "meaning": "古代皇帝到某地叫“幸”。"
+    },
+    {
+      "id": "n-yongangong",
+      "word": "永安宫",
+      "pinyin": "yǒng ān gōng",
+      "meaning": "在白帝城，刘备兵败后在这里病逝。"
+    },
+    {
+      "id": "n-cuihua",
+      "word": "翠华",
+      "pinyin": "cuì huá",
+      "meaning": "用翠鸟羽毛装饰的旗帜，皇帝仪仗用的。"
+    },
+    {
+      "id": "n-fula",
+      "word": "伏腊",
+      "pinyin": "fú là",
+      "meaning": "夏天的伏日和冬天的腊日，古代的两个祭日。"
+    }
+  ],
+  "translation": "刘备为了攻打东吴，来到三峡一带，他去世的那一年，就在永安宫里。空山里只能想象皇帝仪仗翠旗的样子，当年的玉殿已没了踪影，只剩下荒野中的寺庙。古庙的杉树上水鹤做着窝，逢年过节，村里的老人都赶来祭祀。武侯祠就在近旁，君主和大臣被一起祭祀，永远同在。",
+  "appreciation": "这首诗凭吊白帝城里的刘备。皇帝的翠旗、华美的玉殿都不见了，只剩古庙、杉松和赶来祭祀的村翁。杜甫最感动的是最后一联：君臣生前的情义没有被人忘记，连祭祀也在一起。荒凉里带着温暖，也藏着他对明君贤臣的向往。",
+  "background": "公元766年前后，杜甫住在夔州。白帝城是刘备兵败后病逝的地方，附近还有刘备与诸葛亮的祠庙。杜甫游览这些古迹，想起三国君臣的故事，写下这首怀古诗，也希望自己和天下人都能遇到好君王、好大臣。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "征吴驻跸",
+      "text": "刘备出兵伐吴，一路来到三峡白帝城。"
+    },
+    {
+      "step": 2,
+      "title": "永安辞世",
+      "text": "他就在永安宫里，走完了人生最后一程。"
+    },
+    {
+      "step": 3,
+      "title": "古庙萧条",
+      "text": "华丽宫殿早已无踪，古庙杉松上水鹤筑巢。"
+    },
+    {
+      "step": 4,
+      "title": "君臣同祭",
+      "text": "村翁按时祭祀，刘备和诸葛亮享受同一份香火。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "窥",
+      "reading": "kuī",
+      "reason": "“窥吴”指刘备出兵攻打东吴，“窥”读 kuī。",
+      "standard": "不要读成 kuí"
+    },
+    {
+      "char": "腊",
+      "reading": "là",
+      "reason": "“伏腊”是两个祭日，“腊”读 là。"
+    },
+    {
+      "char": "巢",
+      "reading": "cháo",
+      "reason": "“巢水鹤”是水鹤在杉松上筑巢，“巢”当动词用。"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1142
+}

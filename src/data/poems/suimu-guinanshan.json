@@ -1,0 +1,223 @@
+{
+  "id": "tang-shengtang-menghaoran-suimu-guinanshan",
+  "slug": "suimu-guinanshan",
+  "title": "岁暮归南山",
+  "titlePinyin": "suì mù guī nán shān",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "五言律诗",
+  "authorId": "menghaoran",
+  "gradeBand": "ext",
+  "tags": [
+    "志向",
+    "五言律诗",
+    "白发",
+    "月夜"
+  ],
+  "difficulty": 3,
+  "writtenYear": 729,
+  "writtenLabel": "约公元 729 年（孟浩然 41 岁，长安应举落第，岁暮返回襄阳南山故居）",
+  "orderInAuthor": 2,
+  "famousLines": [
+    "不才明主弃，多病故人疏。"
+  ],
+  "lines": [
+    {
+      "text": "北阙休上书，",
+      "pinyin": [
+        "běi",
+        "què",
+        "xiū",
+        "shàng",
+        "shū"
+      ],
+      "translation": "不要再向朝廷上书求官了，",
+      "noteIds": [
+        "n-beique"
+      ]
+    },
+    {
+      "text": "南山归敝庐。",
+      "pinyin": [
+        "nán",
+        "shān",
+        "guī",
+        "bì",
+        "lú"
+      ],
+      "translation": "回南山我那破旧的家去吧。",
+      "noteIds": [
+        "n-bilu"
+      ]
+    },
+    {
+      "text": "不才明主弃，",
+      "pinyin": [
+        "bù",
+        "cái",
+        "míng",
+        "zhǔ",
+        "qì"
+      ],
+      "translation": "因为没有才干，被贤明的君主丢弃；",
+      "noteIds": []
+    },
+    {
+      "text": "多病故人疏。",
+      "pinyin": [
+        "duō",
+        "bìng",
+        "gù",
+        "rén",
+        "shū"
+      ],
+      "translation": "因为多病，老朋友也渐渐疏远。",
+      "noteIds": []
+    },
+    {
+      "text": "白发催年老，",
+      "pinyin": [
+        "bái",
+        "fà",
+        "cuī",
+        "nián",
+        "lǎo"
+      ],
+      "translation": "白发催着人变老，",
+      "noteIds": []
+    },
+    {
+      "text": "青阳逼岁除。",
+      "pinyin": [
+        "qīng",
+        "yáng",
+        "bī",
+        "suì",
+        "chú"
+      ],
+      "translation": "春天又逼着旧的一年快过去。",
+      "noteIds": [
+        "n-qingyang",
+        "n-suichu"
+      ]
+    },
+    {
+      "text": "永怀愁不寐，",
+      "pinyin": [
+        "yǒng",
+        "huái",
+        "chóu",
+        "bù",
+        "mèi"
+      ],
+      "translation": "我长久地怀着愁绪，夜里睡不着，",
+      "noteIds": [
+        "n-bumei"
+      ]
+    },
+    {
+      "text": "松月夜窗虚。",
+      "pinyin": [
+        "sōng",
+        "yuè",
+        "yè",
+        "chuāng",
+        "xū"
+      ],
+      "translation": "只见松间月光照进窗户，空空荡荡。",
+      "noteIds": [
+        "n-xu"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-beique",
+      "word": "北阙",
+      "pinyin": "běi què",
+      "meaning": "宫殿北面的门楼，是臣子上书奏事的地方，代指朝廷。"
+    },
+    {
+      "id": "n-bilu",
+      "word": "敝庐",
+      "pinyin": "bì lú",
+      "meaning": "破旧的房子，指诗人在南山的家。"
+    },
+    {
+      "id": "n-qingyang",
+      "word": "青阳",
+      "pinyin": "qīng yáng",
+      "meaning": "指春天。"
+    },
+    {
+      "id": "n-suichu",
+      "word": "岁除",
+      "pinyin": "suì chú",
+      "meaning": "年终。"
+    },
+    {
+      "id": "n-bumei",
+      "word": "不寐",
+      "pinyin": "bù mèi",
+      "meaning": "睡不着。"
+    },
+    {
+      "id": "n-xu",
+      "word": "虚",
+      "pinyin": "xū",
+      "meaning": "空空荡荡。月光照进窗户，显得一片冷清。"
+    }
+  ],
+  "translation": "不要再向朝廷上书求官了，回南山我那破旧的家去吧。因为没有才干，被贤明的君主丢弃；因为多病，老朋友也渐渐疏远。白发催着人变老，春天又逼着旧的一年快过去。我长久地怀着愁绪，夜里睡不着，只见松间月光照进窗户，空空荡荡。",
+  "appreciation": "上书求官这条路走不通了，诗人说“休上书”，回破屋去吧——像是赌气，更是失望。“不才明主弃”表面怪自己没本事，其实藏着说不出的委屈。白发催人老，春天逼走旧岁，时间一寸一寸地紧逼。最后松月照着空窗，睡不着的人把满腹愁绪写得又静又冷。",
+  "background": "孟浩然四十岁左右到长安应试，没有考中，求官也一直没有结果。这一年岁末，他回到襄阳南山的老家。想到上书无门、年岁渐老，夜里翻来覆去睡不着，他写下这首诗，把满心的失望和委屈轻轻说了出来。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "无门归山",
+      "text": "上书求官没了指望，诗人回南山破旧的老屋。"
+    },
+    {
+      "step": 2,
+      "title": "自叹身世",
+      "text": "说自己没才干被君主弃，多病连朋友也疏远。"
+    },
+    {
+      "step": 3,
+      "title": "白发逼岁",
+      "text": "白发催着人变老，春天又逼着旧的一年过去。"
+    },
+    {
+      "step": 4,
+      "title": "松月空窗",
+      "text": "愁得整夜睡不着，松间月光把窗户照得空空。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "阙",
+      "reading": "què",
+      "reason": "“北阙”的“阙”读 què，指宫门前的高楼。",
+      "standard": "不要读成 quē"
+    },
+    {
+      "char": "敝",
+      "reading": "bì",
+      "reason": "“敝庐”的“敝”读 bì，是破旧的意思。"
+    },
+    {
+      "char": "寐",
+      "reading": "mèi",
+      "reason": "“不寐”的“寐”读 mèi，是睡着的意思。",
+      "standard": "不要读成 wèi"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1086
+}

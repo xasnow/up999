@@ -1,0 +1,154 @@
+{
+  "id": "tang-zhongtang-liuchangqing-tingtanqin",
+  "slug": "tingtanqin",
+  "title": "听弹琴",
+  "titlePinyin": "tīng tán qín",
+  "dynasty": "tangshi",
+  "era": "zhongtang",
+  "genre": "shi",
+  "form": "五言绝句",
+  "authorId": "liuchangqing",
+  "gradeBand": "ext",
+  "tags": [
+    "友情",
+    "松风",
+    "琴声",
+    "五言绝句"
+  ],
+  "difficulty": 3,
+  "writtenYear": 768,
+  "writtenLabel": "约公元 768 年（刘长卿约 42 岁，客居江南时听人弹古琴有感）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "泠泠七弦上，静听松风寒。"
+  ],
+  "lines": [
+    {
+      "text": "泠泠七弦上，",
+      "pinyin": [
+        "líng",
+        "líng",
+        "qī",
+        "xián",
+        "shàng"
+      ],
+      "translation": "七弦琴上发出泠泠的清音，",
+      "noteIds": [
+        "n-lingling",
+        "n-qixian"
+      ]
+    },
+    {
+      "text": "静听松风寒。",
+      "pinyin": [
+        "jìng",
+        "tīng",
+        "sōng",
+        "fēng",
+        "hán"
+      ],
+      "translation": "静静听来，像风吹松林般清寒。",
+      "noteIds": [
+        "n-songfenghan"
+      ]
+    },
+    {
+      "text": "古调虽自爱，",
+      "pinyin": [
+        "gǔ",
+        "diào",
+        "suī",
+        "zì",
+        "ài"
+      ],
+      "translation": "这样古老的曲调虽然我打心底喜爱，",
+      "noteIds": [
+        "n-gudiao"
+      ]
+    },
+    {
+      "text": "今人多不弹。",
+      "pinyin": [
+        "jīn",
+        "rén",
+        "duō",
+        "bù",
+        "tán"
+      ],
+      "translation": "如今的人却大多不再弹了。",
+      "noteIds": []
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-lingling",
+      "word": "泠泠",
+      "pinyin": "líng líng",
+      "meaning": "形容琴声清脆清凉。"
+    },
+    {
+      "id": "n-qixian",
+      "word": "七弦",
+      "pinyin": "qī xián",
+      "meaning": "指七弦琴，就是古琴。"
+    },
+    {
+      "id": "n-songfenghan",
+      "word": "松风寒",
+      "pinyin": "sōng fēng hán",
+      "meaning": "形容琴声像风吹进松林一样清冷，也暗指琴曲《风入松》。"
+    },
+    {
+      "id": "n-gudiao",
+      "word": "古调",
+      "pinyin": "gǔ diào",
+      "meaning": "古老的曲调，指清雅的旧曲。"
+    }
+  ],
+  "translation": "七弦琴上发出泠泠的清音，静静听来，像风吹松林般清寒。这样古老的曲调虽然我打心底喜爱，如今的人却大多不再弹了。",
+  "appreciation": "古琴泠泠作响，像清风吹过松林，带来一阵阵寒意。诗人静静地听着，越来越喜欢这古老的曲调，可惜如今已经很少有人弹它了。短短二十个字，表面写琴，其实写人心：清雅珍贵的东西没人懂得欣赏，就像诗人自己怀才不遇。诗里的寂寞和坚持，让人读后久久回味。",
+  "background": "约公元 768 年，刘长卿在江南听人弹古琴。古琴已有上千年历史，弹的是清雅的古老曲调，可当时流行的音乐早已换了新声。诗人一边听一边想：自己坚守的品格，是不是也像这古调一样无人欣赏？于是写下这首诗。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "琴声泠泠",
+      "text": "七弦古琴轻轻弹响，泠泠的声音又清脆又清凉。"
+    },
+    {
+      "step": 2,
+      "title": "静听松风",
+      "text": "诗人静坐聆听，像听见风吹过松林带来的阵阵寒意。"
+    },
+    {
+      "step": 3,
+      "title": "古调自爱",
+      "text": "他由衷喜爱这古老而清雅的曲调，越听越入迷。"
+    },
+    {
+      "step": 4,
+      "title": "今人不弹",
+      "text": "可惜如今的人大多不弹古调，诗人心中一阵怅然。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "泠",
+      "reading": "líng",
+      "reason": "“泠泠”形容琴声清脆悦耳，读 líng。",
+      "standard": "不要读成 lěng"
+    },
+    {
+      "char": "调",
+      "reading": "diào",
+      "reason": "“古调”指古老的曲调，“调”读 diào。",
+      "standard": "不要读成 tiáo"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1009
+}

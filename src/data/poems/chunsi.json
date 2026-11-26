@@ -1,0 +1,96 @@
+{
+  "id": "tang-zhongtang-huangfurran-chunsi",
+  "slug": "chunsi",
+  "title": "春思",
+  "titlePinyin": "chūn sī",
+  "dynasty": "tangshi",
+  "era": "zhongtang",
+  "genre": "shi",
+  "form": "七言律诗",
+  "authorId": "huangfurran",
+  "gradeBand": "ext",
+  "tags": ["思念", "七言律诗", "月亮", "春天"],
+  "difficulty": 3,
+  "writtenYear": 760,
+  "writtenLabel": "约公元 760 年前后（皇甫冉 44 岁，安史之乱未平，征人远戍北方，诗写家中妻子的思念）",
+  "orderInAuthor": 1,
+  "famousLines": ["家住层城临汉苑，心随明月到胡天。"],
+  "lines": [
+    {
+      "text": "莺啼燕语报新年，",
+      "pinyin": ["yīng", "tí", "yàn", "yǔ", "bào", "xīn", "nián"],
+      "translation": "黄莺啼叫，燕子呢喃，报告新的一年来了，",
+      "noteIds": []
+    },
+    {
+      "text": "马邑龙堆路几千。",
+      "pinyin": ["mǎ", "yì", "lóng", "duī", "lù", "jǐ", "qiān"],
+      "translation": "可丈夫远在马邑、白龙堆，回家的路有几千个里程。",
+      "noteIds": ["n-mayi", "n-longdui"]
+    },
+    {
+      "text": "家住层城临汉苑，",
+      "pinyin": ["jiā", "zhù", "céng", "chéng", "lín", "hàn", "yuàn"],
+      "translation": "我家住在长安城，紧靠着皇宫的园苑，",
+      "noteIds": ["n-cengcheng"]
+    },
+    {
+      "text": "心随明月到胡天。",
+      "pinyin": ["xīn", "suí", "míng", "yuè", "dào", "hú", "tiān"],
+      "translation": "心却随着明月飞到了北方胡人的天空。",
+      "noteIds": []
+    },
+    {
+      "text": "机中锦字论长恨，",
+      "pinyin": ["jī", "zhōng", "jǐn", "zì", "lùn", "cháng", "hèn"],
+      "translation": "织机上织着锦字回文，诉说不尽的愁恨，",
+      "noteIds": ["n-jinzi"]
+    },
+    {
+      "text": "楼上花枝笑独眠。",
+      "pinyin": ["lóu", "shàng", "huā", "zhī", "xiào", "dú", "mián"],
+      "translation": "楼头的花枝偏偏开放，好像在笑话我一个人孤眠。",
+      "noteIds": []
+    },
+    {
+      "text": "为问元戎窦车骑，",
+      "pinyin": ["wèi", "wèn", "yuán", "róng", "dòu", "jū", "jì"],
+      "translation": "请问统领大军的车骑将军窦宪，",
+      "noteIds": ["n-yuanrong", "n-cheji"]
+    },
+    {
+      "text": "何时返旆勒燕然。",
+      "pinyin": ["hé", "shí", "fǎn", "pèi", "lè", "yān", "rán"],
+      "translation": "什么时候才能得胜回师，在燕然山上刻石记功？",
+      "noteIds": ["n-pei", "n-yanran"]
+    }
+  ],
+  "notes": [
+    { "id": "n-mayi", "word": "马邑", "pinyin": "mǎ yì", "meaning": "秦汉时的北方边城，在今山西朔州一带。" },
+    { "id": "n-longdui", "word": "龙堆", "pinyin": "lóng duī", "meaning": "即白龙堆，古代西域的大沙漠。" },
+    { "id": "n-cengcheng", "word": "层城", "pinyin": "céng chéng", "meaning": "指京城长安。" },
+    { "id": "n-jinzi", "word": "锦字", "pinyin": "jǐn zì", "meaning": "用前秦苏蕙织锦回文寄给丈夫的典故，指妻子写给丈夫的书信。" },
+    { "id": "n-yuanrong", "word": "元戎", "pinyin": "yuán róng", "meaning": "军队的主帅。" },
+    { "id": "n-cheji", "word": "车骑", "pinyin": "jū jì", "meaning": "车骑将军，借指东汉大破匈奴的窦宪。" },
+    { "id": "n-pei", "word": "旆", "pinyin": "pèi", "meaning": "旗子，返旆指军队回师。" },
+    { "id": "n-yanran", "word": "燕然", "pinyin": "yān rán", "meaning": "山名，窦宪打败匈奴后在此刻石记功。" }
+  ],
+  "translation": "黄莺啼叫，燕子呢喃，报告新的一年来了，可丈夫远在马邑、白龙堆，回家的路有几千个里程。我家住在长安城，紧靠皇宫的园苑，心却随着明月飞到北方胡人的天空。织机上织着锦字回文，诉说不尽的愁恨，楼头的花枝偏偏开着，好像笑话我独自孤眠。请问统领大军的车骑将军窦宪，什么时候才能得胜回师、在燕然山刻石记功？",
+  "appreciation": "新年到了，莺啼燕语一片热闹，可是路上的丈夫还在几千里的边塞。家明明在长安的繁华处，心却跟着月亮飞到胡地。织机上织着诉不完的愁恨，楼头的花开得再好，也像在笑她一个人睡。结尾一句问将军何时凯旋，把小家庭的思念连到大战争的胜败。春天越热闹，越衬出独守的人孤单。",
+  "background": "安史之乱后，许多将士长期驻守北方，家中的妻子年年盼望他们回来。皇甫冉借一位长安女子新年里想念远方丈夫的心情写下这首诗，也写出了乱世中无数家庭的离愁。",
+  "storyline": [
+    { "step": 1, "title": "莺燕报春", "text": "新年莺啼燕语，春天热热闹闹地来了。" },
+    { "step": 2, "title": "人隔千里", "text": "丈夫远在边塞沙漠，回家的路有几千个里程。" },
+    { "step": 3, "title": "心随明月", "text": "家在京城，心却随月亮飞到胡地的天空。" },
+    { "step": 4, "title": "盼师凯旋", "text": "织锦诉恨，盼望大军得胜、刻石燕然而归。" }
+  ],
+  "pinyinNotes": [
+    { "char": "燕然", "reading": "yān rán", "reason": "“燕然”是山名，“燕”读 yān。", "standard": "不要读成 yàn" },
+    { "char": "旆", "reading": "pèi", "reason": "“返旆”指军队回师，“旆”读 pèi。" },
+    { "char": "骑", "reading": "jì", "reason": "“车骑”指车骑将军，“骑”读 jì。", "standard": "不要读成 qí" }
+  ],
+  "sources": ["《全唐诗》", "《唐诗三百首》"],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1150
+}

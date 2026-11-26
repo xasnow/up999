@@ -1,0 +1,165 @@
+{
+  "id": "tang-wantang-lishangyin-liangsi",
+  "slug": "liangsi",
+  "title": "凉思",
+  "titlePinyin": "liáng sī",
+  "dynasty": "tangshi",
+  "era": "wantang",
+  "genre": "shi",
+  "form": "五言律诗",
+  "authorId": "lishangyin",
+  "gradeBand": "ext",
+  "tags": [
+    "友情",
+    "五言律诗",
+    "秋天",
+    "蝉声"
+  ],
+  "difficulty": 3,
+  "writtenYear": 846,
+  "writtenLabel": "作年不详，约公元 846 年（李商隐 34 岁前后，客中思念友人而作）",
+  "orderInAuthor": 1,
+  "no": 1065,
+  "famousLines": [
+    "客去波平槛，蝉休露满枝。"
+  ],
+  "lines": [
+    {
+      "text": "客去波平槛，",
+      "pinyin": ["kè", "qù", "bō", "píng", "jiàn"],
+      "translation": "客人离去后，池水上涨得与栏杆齐平。",
+      "noteIds": ["n-jian"]
+    },
+    {
+      "text": "蝉休露满枝。",
+      "pinyin": ["chán", "xiū", "lù", "mǎn", "zhī"],
+      "translation": "蝉声停歇，露水挂满枝头。",
+      "noteIds": []
+    },
+    {
+      "text": "永怀当此节，",
+      "pinyin": ["yǒng", "huái", "dāng", "cǐ", "jié"],
+      "translation": "在这个时节，我久久地思念着你。",
+      "noteIds": []
+    },
+    {
+      "text": "倚立自移时。",
+      "pinyin": ["yǐ", "lì", "zì", "yí", "shí"],
+      "translation": "倚着栏杆站立，不知不觉已过了许久。",
+      "noteIds": ["n-yishi"]
+    },
+    {
+      "text": "北斗兼春远，",
+      "pinyin": ["běi", "dǒu", "jiān", "chūn", "yuǎn"],
+      "translation": "你在京城，离我像隔了一年春天那样遥远。",
+      "noteIds": ["n-beidou"]
+    },
+    {
+      "text": "南陵寓使迟。",
+      "pinyin": ["nán", "líng", "yù", "shǐ", "chí"],
+      "translation": "你寓居南陵，托使者捎来的音信迟迟未至。",
+      "noteIds": ["n-nanling", "n-yushi"]
+    },
+    {
+      "text": "天涯占梦数，",
+      "pinyin": ["tiān", "yá", "zhān", "mèng", "shuò"],
+      "translation": "我流落天涯，一次次占卜梦的吉凶。",
+      "noteIds": ["n-zhanmeng", "n-shu"]
+    },
+    {
+      "text": "疑误有新知。",
+      "pinyin": ["yí", "wù", "yǒu", "xīn", "zhī"],
+      "translation": "疑心是你有了新的知己，把我耽误忘了。",
+      "noteIds": ["n-xinzhi"]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-jian",
+      "word": "槛",
+      "pinyin": "jiàn",
+      "meaning": "栏杆。"
+    },
+    {
+      "id": "n-yishi",
+      "word": "移时",
+      "pinyin": "yí shí",
+      "meaning": "经历一段时间，不知不觉时光流逝。"
+    },
+    {
+      "id": "n-beidou",
+      "word": "北斗",
+      "pinyin": "běi dǒu",
+      "meaning": "借指京城长安，友人所在之处。"
+    },
+    {
+      "id": "n-nanling",
+      "word": "南陵",
+      "pinyin": "nán líng",
+      "meaning": "地名，在今安徽南陵，友人寓居之处。"
+    },
+    {
+      "id": "n-yushi",
+      "word": "寓使",
+      "pinyin": "yù shǐ",
+      "meaning": "托人捎信，指传递书信的使者。"
+    },
+    {
+      "id": "n-zhanmeng",
+      "word": "占梦",
+      "pinyin": "zhān mèng",
+      "meaning": "根据梦境占卜吉凶。"
+    },
+    {
+      "id": "n-shu",
+      "word": "数",
+      "pinyin": "shuò",
+      "meaning": "屡次，多次。"
+    },
+    {
+      "id": "n-xinzhi",
+      "word": "新知",
+      "pinyin": "xīn zhī",
+      "meaning": "新结交的知己朋友。"
+    }
+  ],
+  "translation": "客人离去后，池水上涨得与栏杆齐平；蝉声停歇，露水挂满枝头。在这个时节，我久久地思念着你，倚着栏杆站立，不知不觉已过了许久。你在京城，离我像隔了一年春天那样遥远；你寓居南陵，托使者捎来的音信迟迟未至。我流落天涯，一次次占卜梦的吉凶，疑心是你有了新的知己，把我耽误忘了。",
+  "appreciation": "客人刚走，诗人就倚着栏杆站了很久：池水涨得和栏杆齐平，蝉声停了，露水爬满枝头。思念友人却久无音信，他甚至一次次占梦，还疑心对方是不是交了新朋友、把自己忘了。这几句写得又诚实又心酸——把盼信人患得患失的小心思全说了出来。全诗清冷安静，凉的不只是秋天的池水，还有等待中渐渐悬起来的心。",
+  "background": "李商隐一生辗转各地做幕僚，与友人聚少离多。这首诗写于他客居之时：友人离去后音信迟迟不来，诗人在秋凉中倚栏久立，由思念而生猜疑，写下了这首情真意切的怀友之作。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "客去水平",
+      "text": "客人离去，池水涨得与栏杆齐平。"
+    },
+    {
+      "step": 2,
+      "title": "蝉休露满",
+      "text": "蝉声停歇，露水挂满了枝头。"
+    },
+    {
+      "step": 3,
+      "title": "倚立怀人",
+      "text": "他倚着栏杆久久站立，思念远方的友人。"
+    },
+    {
+      "step": 4,
+      "title": "占梦疑新",
+      "text": "音信迟迟不来，他占梦猜疑友人有了新知。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "数",
+      "reading": "shuò",
+      "reason": "“占梦数”是多次占梦之意，“数”表屡次读 shuò。",
+      "standard": "不要读成 shù 或 shǔ"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26"
+}

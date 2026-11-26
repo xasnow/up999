@@ -1,0 +1,151 @@
+{
+  "id": "tang-zhongtang-liuyuxi-chunci",
+  "slug": "chunci",
+  "title": "春词",
+  "titlePinyin": "chūn cí",
+  "dynasty": "tangshi",
+  "era": "zhongtang",
+  "genre": "shi",
+  "form": "七言绝句",
+  "authorId": "liuyuxi",
+  "gradeBand": "ext",
+  "tags": [
+    "宫怨",
+    "七言绝句",
+    "春天",
+    "蜻蜓"
+  ],
+  "difficulty": 3,
+  "writtenYear": 804,
+  "writtenLabel": "约公元 804 年（刘禹锡 33 岁，在长安做官时的作品）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "行到中庭数花朵，蜻蜓飞上玉搔头。"
+  ],
+  "lines": [
+    {
+      "text": "新妆宜面下朱楼，",
+      "pinyin": [
+        "xīn",
+        "zhuāng",
+        "yí",
+        "miàn",
+        "xià",
+        "zhū",
+        "lóu"
+      ],
+      "translation": "她化好新妆，妆扮得匀净合宜，走下朱红的楼阁。",
+      "noteIds": [
+        "n-yimian"
+      ]
+    },
+    {
+      "text": "深锁春光一院愁。",
+      "pinyin": [
+        "shēn",
+        "suǒ",
+        "chūn",
+        "guāng",
+        "yī",
+        "yuàn",
+        "chóu"
+      ],
+      "translation": "深深的院子锁住了春光，也锁住满怀的愁绪。",
+      "noteIds": []
+    },
+    {
+      "text": "行到中庭数花朵，",
+      "pinyin": [
+        "xíng",
+        "dào",
+        "zhōng",
+        "tíng",
+        "shǔ",
+        "huā",
+        "duǒ"
+      ],
+      "translation": "走到院子中间，一朵一朵数着枝头的花朵解闷，",
+      "noteIds": []
+    },
+    {
+      "text": "蜻蜓飞上玉搔头。",
+      "pinyin": [
+        "qīng",
+        "tíng",
+        "fēi",
+        "shàng",
+        "yù",
+        "sāo",
+        "tóu"
+      ],
+      "translation": "一只蜻蜓飞上来，落在她的玉簪上。",
+      "noteIds": [
+        "n-yusaotou"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-yimian",
+      "word": "宜面",
+      "pinyin": "yí miàn",
+      "meaning": "脂粉涂抹得均匀合脸，妆扮得恰到好处。"
+    },
+    {
+      "id": "n-yusaotou",
+      "word": "玉搔头",
+      "pinyin": "yù sāo tóu",
+      "meaning": "玉簪，因为可以用来搔头，所以叫玉搔头。"
+    }
+  ],
+  "translation": "她化好新妆，妆扮得匀净合宜，走下朱红的楼阁。深深的院子锁住了春光，也锁住满怀的愁绪。走到院子中间，一朵一朵数着枝头的花朵解闷，一只蜻蜓飞上来，落在她的玉簪上。",
+  "appreciation": "这首诗妙在结尾。美人新妆下楼，本想散心，可院门深锁，春光再多也被锁在里面；她数着花朵打发愁闷，一只蜻蜓却把她头上的玉簪当成了花朵，轻轻飞了上来。人静得连蜻蜓都不怕她，这份冷清不言而喻。全诗不写一个怨字，寂寞却从画面里透出来，含蓄极了。",
+  "background": "这首诗写的是深宫女子的一天：打扮得漂漂亮亮，却无处可去。刘禹锡作此诗的具体年份难以确考，大约在他青年时期于长安做官的时候。他用极轻巧的一笔——蜻蜓飞上玉簪，把宫女的寂寞写活了。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "新妆下楼",
+      "text": "她化好新妆，从朱红的楼上轻轻走下。"
+    },
+    {
+      "step": 2,
+      "title": "院锁春光",
+      "text": "深院锁住春光，满院子都是愁。"
+    },
+    {
+      "step": 3,
+      "title": "数花解闷",
+      "text": "她走到庭院中间，一朵一朵数着花。"
+    },
+    {
+      "step": 4,
+      "title": "蜻蜓上簪",
+      "text": "蜻蜓飞来，停在她的玉簪上。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "宜",
+      "reading": "yí",
+      "reason": "“宜面”指妆扮得匀称合适，读 yí。"
+    },
+    {
+      "char": "数",
+      "reading": "shǔ",
+      "reason": "“数花朵”是一个一个点数的意思，读 shǔ。",
+      "standard": "不读 shù"
+    },
+    {
+      "char": "搔",
+      "reading": "sāo",
+      "reason": "“玉搔头”是玉簪，“搔”是用手指挠的意思，读 sāo。"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1041
+}

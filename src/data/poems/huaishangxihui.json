@@ -1,0 +1,139 @@
+{
+  "id": "tang-zhongtang-weiyingwu-huaishangxihui",
+  "slug": "huaishangxihui",
+  "title": "淮上喜会梁川故人",
+  "titlePinyin": "huái shàng xǐ huì liáng chuān gù rén",
+  "dynasty": "tangshi",
+  "era": "zhongtang",
+  "genre": "shi",
+  "form": "五言律诗",
+  "authorId": "weiyingwu",
+  "gradeBand": "ext",
+  "tags": ["友情", "五言律诗", "浮云", "秋山"],
+  "difficulty": 3,
+  "writtenYear": 769,
+  "writtenLabel": "约公元 769 年（韦应物 32 岁，南游江淮，在淮水边偶遇旧友）",
+  "orderInAuthor": 1,
+  "no": 1092,
+  "famousLines": [
+    "浮云一别后，流水十年间。"
+  ],
+  "lines": [
+    {
+      "text": "江汉曾为客，",
+      "pinyin": ["jiāng", "hàn", "céng", "wéi", "kè"],
+      "translation": "当年我们一同客居江汉一带。",
+      "noteIds": ["n-ke"]
+    },
+    {
+      "text": "相逢每醉还。",
+      "pinyin": ["xiāng", "féng", "měi", "zuì", "huán"],
+      "translation": "每次相聚，总要喝到醉了才回家。",
+      "noteIds": ["n-huan"]
+    },
+    {
+      "text": "浮云一别后，",
+      "pinyin": ["fú", "yún", "yī", "bié", "hòu"],
+      "translation": "自从分别以后，我们像浮云各自飘泊，",
+      "noteIds": []
+    },
+    {
+      "text": "流水十年间。",
+      "pinyin": ["liú", "shuǐ", "shí", "nián", "jiān"],
+      "translation": "十年光阴像流水一样过去了。",
+      "noteIds": []
+    },
+    {
+      "text": "欢笑情如旧，",
+      "pinyin": ["huān", "xiào", "qíng", "rú", "jiù"],
+      "translation": "今日重逢，欢笑的情谊还像从前一样，",
+      "noteIds": []
+    },
+    {
+      "text": "萧疏鬓已斑。",
+      "pinyin": ["xiāo", "shū", "bìn", "yǐ", "bān"],
+      "translation": "只是两鬓已经稀疏花白。",
+      "noteIds": ["n-bin"]
+    },
+    {
+      "text": "何因不归去？",
+      "pinyin": ["hé", "yīn", "bù", "guī", "qù"],
+      "translation": "问我为什么不回故乡去？",
+      "noteIds": []
+    },
+    {
+      "text": "淮上有秋山。",
+      "pinyin": ["huái", "shàng", "yǒu", "qiū", "shān"],
+      "translation": "因为淮水上还有这片秋天的山色。",
+      "noteIds": []
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-ke",
+      "word": "客",
+      "pinyin": "kè",
+      "meaning": "客居，寄居他乡。"
+    },
+    {
+      "id": "n-huan",
+      "word": "还",
+      "pinyin": "huán",
+      "meaning": "回家、返回。"
+    },
+    {
+      "id": "n-bin",
+      "word": "鬓",
+      "pinyin": "bìn",
+      "meaning": "耳朵前边靠脸颊的头发。"
+    }
+  ],
+  "translation": "当年我们一同客居江汉一带，每次相聚总要喝到醉了才回家。自从分别以后，我们像浮云各自飘泊，十年光阴像流水一样过去了。今日重逢，欢笑的情谊还像从前一样，只是两鬓已经稀疏花白。问我为什么不回故乡去？因为淮水上还有这片秋天的山色。",
+  "appreciation": "最出名的是“浮云一别后，流水十年间”两句：浮云飘忽，好比各自漂泊的人；流水不回头，好比一去十年的光阴。重逢时欢笑还像从前，鬓发却已斑白，喜和悲混在一起。结尾不说想家，只说舍不得淮上的秋山，把难言的感慨轻轻收住，余味很长。",
+  "background": "韦应物早年曾客居江汉一带。约公元 769 年，他南游江淮，在淮水边遇见十年前相识的旧友。老友重逢又惊又喜，可十年漂泊，两人都已鬓发斑白，诗人于是写下这首感慨很深的重逢诗。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "忆江汉同醉",
+      "text": "想当年一同客居江汉，每次相见总是一醉方休才回家。"
+    },
+    {
+      "step": 2,
+      "title": "浮云流水",
+      "text": "分别以后像浮云各自漂泊，十年光阴像流水一样过去。"
+    },
+    {
+      "step": 3,
+      "title": "淮上重逢",
+      "text": "今天在淮水边重逢，欢笑的情谊还和从前一模一样。"
+    },
+    {
+      "step": 4,
+      "title": "鬓白看秋山",
+      "text": "只是两鬓已经稀疏花白，不如一起看看淮上的秋色山影。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "还",
+      "reading": "huán",
+      "reason": "“每醉还”的“还”是回家的意思，读 huán。",
+      "standard": "不要读成 hái"
+    },
+    {
+      "char": "曾",
+      "reading": "céng",
+      "reason": "“曾为客”的“曾”是曾经的意思，读 céng。",
+      "standard": "不要读成 zēng"
+    },
+    {
+      "char": "为",
+      "reading": "wéi",
+      "reason": "“曾为客”的“为”是“作客”的意思，读 wéi。",
+      "standard": "不要读成 wèi"
+    }
+  ],
+  "sources": ["《全唐诗》", "《唐诗三百首》"],
+  "status": "published",
+  "updatedAt": "2026-11-26"
+}

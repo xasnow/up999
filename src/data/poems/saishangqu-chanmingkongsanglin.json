@@ -1,0 +1,224 @@
+{
+  "id": "tang-shengtang-wangchangling-saishangqu-chanmingkongsanglin",
+  "slug": "saishangqu-chanmingkongsanglin",
+  "title": "塞上曲·蝉鸣空桑林",
+  "titlePinyin": "sài shàng qǔ · chán míng kōng sāng lín",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "五言乐府",
+  "authorId": "wangchangling",
+  "gradeBand": "ext",
+  "tags": [
+    "边塞",
+    "五言乐府",
+    "秋天",
+    "黄沙"
+  ],
+  "difficulty": 3,
+  "writtenYear": 727,
+  "writtenLabel": "约公元 727 年（王昌龄 29 岁，青年游历西北边塞之后）",
+  "orderInAuthor": 2,
+  "famousLines": [
+    "从来幽并客，皆共尘沙老。"
+  ],
+  "lines": [
+    {
+      "text": "蝉鸣空桑林，",
+      "pinyin": [
+        "chán",
+        "míng",
+        "kōng",
+        "sāng",
+        "lín"
+      ],
+      "translation": "蝉在空疏的桑林中鸣叫，",
+      "noteIds": []
+    },
+    {
+      "text": "八月萧关道。",
+      "pinyin": [
+        "bā",
+        "yuè",
+        "xiāo",
+        "guān",
+        "dào"
+      ],
+      "translation": "八月里我走在萧关道上。",
+      "noteIds": [
+        "n-xiaoguan"
+      ]
+    },
+    {
+      "text": "出塞入塞寒，",
+      "pinyin": [
+        "chū",
+        "sài",
+        "rù",
+        "sài",
+        "hán"
+      ],
+      "translation": "出关入关，一路寒凉，",
+      "noteIds": []
+    },
+    {
+      "text": "处处黄芦草。",
+      "pinyin": [
+        "chù",
+        "chù",
+        "huáng",
+        "lú",
+        "cǎo"
+      ],
+      "translation": "到处都是枯黄的芦草。",
+      "noteIds": []
+    },
+    {
+      "text": "从来幽并客，",
+      "pinyin": [
+        "cóng",
+        "lái",
+        "yōu",
+        "bīng",
+        "kè"
+      ],
+      "translation": "自古以来幽州、并州的健儿，",
+      "noteIds": [
+        "n-youbing"
+      ]
+    },
+    {
+      "text": "皆共尘沙老。",
+      "pinyin": [
+        "jiē",
+        "gòng",
+        "chén",
+        "shā",
+        "lǎo"
+      ],
+      "translation": "都在风沙之中默默终老。",
+      "noteIds": [
+        "n-chensha"
+      ]
+    },
+    {
+      "text": "莫学游侠儿，",
+      "pinyin": [
+        "mò",
+        "xué",
+        "yóu",
+        "xiá",
+        "ér"
+      ],
+      "translation": "不要学那些游侠少年，",
+      "noteIds": [
+        "n-youxia"
+      ]
+    },
+    {
+      "text": "矜夸紫骝好。",
+      "pinyin": [
+        "jīn",
+        "kuā",
+        "zǐ",
+        "liú",
+        "hǎo"
+      ],
+      "translation": "只知道骄傲地夸耀自己的紫色骏马。",
+      "noteIds": [
+        "n-jinkua",
+        "n-ziliu"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-xiaoguan",
+      "word": "萧关",
+      "pinyin": "xiāo guān",
+      "meaning": "古代西北边塞上的重要关口，在今宁夏境内。"
+    },
+    {
+      "id": "n-youbing",
+      "word": "幽并",
+      "pinyin": "yōu bīng",
+      "meaning": "幽州和并州，古代多出勇武健儿的地方。"
+    },
+    {
+      "id": "n-chensha",
+      "word": "尘沙",
+      "pinyin": "chén shā",
+      "meaning": "风沙尘土，指边塞艰苦的征战生活。"
+    },
+    {
+      "id": "n-youxia",
+      "word": "游侠儿",
+      "pinyin": "yóu xiá ér",
+      "meaning": "逞意气、爱炫耀的年轻侠客。"
+    },
+    {
+      "id": "n-jinkua",
+      "word": "矜夸",
+      "pinyin": "jīn kuā",
+      "meaning": "骄傲地夸口、炫耀。"
+    },
+    {
+      "id": "n-ziliu",
+      "word": "紫骝",
+      "pinyin": "zǐ liú",
+      "meaning": "一种名贵的骏马，黑鬣黑尾的红马。"
+    }
+  ],
+  "translation": "蝉在空疏的桑林中鸣叫，八月里我走在萧关道上。出关入关，一路寒凉，到处都是枯黄的芦草。自古以来幽州、并州的健儿，都在风沙之中默默终老。不要学那些游侠少年，只知道骄傲地夸耀自己的紫色骏马。",
+  "appreciation": "前四句用蝉声、桑林、萧关道、黄芦草，把边塞八月的荒寒铺展在读者眼前。后四句是诗人的一番议论：真正的幽并健儿，一生默默地在尘沙中老去；而城里那些游侠少年，只会夸耀自己的紫色骏马。“老”字沉痛，“夸”字可鄙，两相对照，诗人劝人务实、反对浮夸的意思，不用说也明白了。",
+  "background": "王昌龄年轻时曾到西北边塞游历。八月里他走在萧关道上，听见蝉在空疏的桑林里鸣叫，看见出关入关的路边长满枯黄的芦草。他知道幽州、并州的战士常年与风沙为伴，在苦寒中慢慢老去，于是写下这首诗，劝人们不要学只知夸耀骏马的游侠儿。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "蝉鸣桑林",
+      "text": "八月边塞，蝉在空荡的桑林里不停地叫着。"
+    },
+    {
+      "step": 2,
+      "title": "出入萧关",
+      "text": "我走在萧关道上，出关入关，处处寒凉。"
+    },
+    {
+      "step": 3,
+      "title": "黄芦满地",
+      "text": "道路两边，到处是枯黄的芦草，一片荒凉。"
+    },
+    {
+      "step": 4,
+      "title": "健儿尘沙",
+      "text": "幽并健儿在风沙中老去，莫学游侠夸骏马。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "塞",
+      "reading": "sài",
+      "reason": "“出塞入塞”的“塞”是边关的意思，读 sài。",
+      "standard": "不读 sāi"
+    },
+    {
+      "char": "并",
+      "reading": "bīng",
+      "reason": "“幽并”指幽州和并州，地名，“并”读 bīng。",
+      "standard": "不读 bìng"
+    },
+    {
+      "char": "矜",
+      "reading": "jīn",
+      "reason": "“矜夸”是骄傲夸口的意思，“矜”读 jīn。",
+      "standard": "不读 jīng"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1226
+}

@@ -1,0 +1,448 @@
+{
+  "id": "tang-shengtang-dufu-aijiangtou",
+  "slug": "aijiangtou",
+  "title": "哀江头",
+  "titlePinyin": "āi jiāng tóu",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "七言乐府",
+  "authorId": "dufu",
+  "gradeBand": "ext",
+  "tags": [
+    "爱国",
+    "怀古",
+    "春天",
+    "七言乐府"
+  ],
+  "difficulty": 3,
+  "writtenYear": 757,
+  "writtenLabel": "公元 757 年春（杜甫 45 岁，被叛军困在长安，潜行曲江而作）",
+  "orderInAuthor": 8,
+  "famousLines": [
+    "明眸皓齿今何在？血污游魂归不得。",
+    "黄昏胡骑尘满城，欲往城南望城北。"
+  ],
+  "lines": [
+    {
+      "text": "少陵野老吞声哭，",
+      "pinyin": [
+        "shào",
+        "líng",
+        "yě",
+        "lǎo",
+        "tūn",
+        "shēng",
+        "kū"
+      ],
+      "translation": "少陵的野老我，只能把哭声咽进喉咙，",
+      "noteIds": [
+        "n-shaoling"
+      ]
+    },
+    {
+      "text": "春日潜行曲江曲。",
+      "pinyin": [
+        "chūn",
+        "rì",
+        "qián",
+        "xíng",
+        "qū",
+        "jiāng",
+        "qū"
+      ],
+      "translation": "春天里偷偷走到曲江的曲折深处。",
+      "noteIds": [
+        "n-qujiang"
+      ]
+    },
+    {
+      "text": "江头宫殿锁千门，",
+      "pinyin": [
+        "jiāng",
+        "tóu",
+        "gōng",
+        "diàn",
+        "suǒ",
+        "qiān",
+        "mén"
+      ],
+      "translation": "江边的宫殿千门紧锁，",
+      "noteIds": []
+    },
+    {
+      "text": "细柳新蒲为谁绿？",
+      "pinyin": [
+        "xì",
+        "liǔ",
+        "xīn",
+        "pú",
+        "wèi",
+        "shuí",
+        "lǜ"
+      ],
+      "translation": "细柳和新生的香蒲，还为谁发绿呢？",
+      "noteIds": []
+    },
+    {
+      "text": "忆昔霓旌下南苑，",
+      "pinyin": [
+        "yì",
+        "xī",
+        "ní",
+        "jīng",
+        "xià",
+        "nán",
+        "yuàn"
+      ],
+      "translation": "回想当年皇帝的霓旌仪仗来到南苑，",
+      "noteIds": [
+        "n-nijing"
+      ]
+    },
+    {
+      "text": "苑中万物生颜色。",
+      "pinyin": [
+        "yuàn",
+        "zhōng",
+        "wàn",
+        "wù",
+        "shēng",
+        "yán",
+        "sè"
+      ],
+      "translation": "苑中万物都好像焕发出光彩。",
+      "noteIds": []
+    },
+    {
+      "text": "昭阳殿里第一人，",
+      "pinyin": [
+        "zhāo",
+        "yáng",
+        "diàn",
+        "lǐ",
+        "dì",
+        "yī",
+        "rén"
+      ],
+      "translation": "昭阳殿里最得宠的那个人，",
+      "noteIds": [
+        "n-zhaoyang"
+      ]
+    },
+    {
+      "text": "同辇随君侍君侧。",
+      "pinyin": [
+        "tóng",
+        "niǎn",
+        "suí",
+        "jūn",
+        "shì",
+        "jūn",
+        "cè"
+      ],
+      "translation": "与皇帝同车而行，随侍在君王身边。",
+      "noteIds": [
+        "n-nian"
+      ]
+    },
+    {
+      "text": "辇前才人带弓箭，",
+      "pinyin": [
+        "niǎn",
+        "qián",
+        "cái",
+        "rén",
+        "dài",
+        "gōng",
+        "jiàn"
+      ],
+      "translation": "车前骑马的才人带着弓箭，",
+      "noteIds": [
+        "n-cairen"
+      ]
+    },
+    {
+      "text": "白马嚼啮黄金勒。",
+      "pinyin": [
+        "bái",
+        "mǎ",
+        "jué",
+        "niè",
+        "huáng",
+        "jīn",
+        "lè"
+      ],
+      "translation": "白马嘴里衔着黄金做的马嚼。",
+      "noteIds": [
+        "n-nie",
+        "n-le"
+      ]
+    },
+    {
+      "text": "翻身向天仰射云，",
+      "pinyin": [
+        "fān",
+        "shēn",
+        "xiàng",
+        "tiān",
+        "yǎng",
+        "shè",
+        "yún"
+      ],
+      "translation": "才人翻身向天，仰射云中的飞鸟，",
+      "noteIds": []
+    },
+    {
+      "text": "一笑正坠双飞翼。",
+      "pinyin": [
+        "yī",
+        "xiào",
+        "zhèng",
+        "zhuì",
+        "shuāng",
+        "fēi",
+        "yì"
+      ],
+      "translation": "美人一笑，正好射落一双比翼齐飞的鸟。",
+      "noteIds": []
+    },
+    {
+      "text": "明眸皓齿今何在？",
+      "pinyin": [
+        "míng",
+        "móu",
+        "hào",
+        "chǐ",
+        "jīn",
+        "hé",
+        "zài"
+      ],
+      "translation": "那明亮的眼睛、洁白的牙齿如今在哪里？",
+      "noteIds": [
+        "n-mingmou"
+      ]
+    },
+    {
+      "text": "血污游魂归不得。",
+      "pinyin": [
+        "xuè",
+        "wū",
+        "yóu",
+        "hún",
+        "guī",
+        "bù",
+        "dé"
+      ],
+      "translation": "沾满血污的游魂，再也不能归来了。",
+      "noteIds": []
+    },
+    {
+      "text": "清渭东流剑阁深，",
+      "pinyin": [
+        "qīng",
+        "wèi",
+        "dōng",
+        "liú",
+        "jiàn",
+        "gé",
+        "shēn"
+      ],
+      "translation": "清清的渭水向东流，剑阁在深山之中，",
+      "noteIds": [
+        "n-qingwei"
+      ]
+    },
+    {
+      "text": "去住彼此无消息。",
+      "pinyin": [
+        "qù",
+        "zhù",
+        "bǐ",
+        "cǐ",
+        "wú",
+        "xiāo",
+        "xī"
+      ],
+      "translation": "走的人和留下的人，从此再无消息。",
+      "noteIds": []
+    },
+    {
+      "text": "人生有情泪沾臆，",
+      "pinyin": [
+        "rén",
+        "shēng",
+        "yǒu",
+        "qíng",
+        "lèi",
+        "zhān",
+        "yì"
+      ],
+      "translation": "人是有感情的，眼泪打湿了衣襟，",
+      "noteIds": []
+    },
+    {
+      "text": "江水江花岂终极。",
+      "pinyin": [
+        "jiāng",
+        "shuǐ",
+        "jiāng",
+        "huā",
+        "qǐ",
+        "zhōng",
+        "jí"
+      ],
+      "translation": "可江水照样流，江花照样开，哪有尽头。",
+      "noteIds": []
+    },
+    {
+      "text": "黄昏胡骑尘满城，",
+      "pinyin": [
+        "huáng",
+        "hūn",
+        "hú",
+        "jì",
+        "chén",
+        "mǎn",
+        "chéng"
+      ],
+      "translation": "黄昏时叛军的骑兵扬起满城的尘土，",
+      "noteIds": [
+        "n-huqi"
+      ]
+    },
+    {
+      "text": "欲往城南望城北。",
+      "pinyin": [
+        "yù",
+        "wǎng",
+        "chéng",
+        "nán",
+        "wàng",
+        "chéng",
+        "běi"
+      ],
+      "translation": "我想往城南走，心却慌得望向了城北。",
+      "noteIds": []
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-shaoling",
+      "word": "少陵",
+      "pinyin": "shào líng",
+      "meaning": "长安城南的汉宣帝许皇后陵，杜甫住在附近，自称少陵野老。"
+    },
+    {
+      "id": "n-qujiang",
+      "word": "曲江",
+      "pinyin": "qū jiāng",
+      "meaning": "长安东南的皇家游赏胜地，开元、天宝年间极盛。"
+    },
+    {
+      "id": "n-nijing",
+      "word": "霓旌",
+      "pinyin": "ní jīng",
+      "meaning": "皇帝仪仗中缀着五色羽毛、望之如虹霓的旌旗。"
+    },
+    {
+      "id": "n-zhaoyang",
+      "word": "昭阳殿",
+      "pinyin": "zhāo yáng diàn",
+      "meaning": "汉代宫殿，唐人诗中常借指杨贵妃所居的宫殿。"
+    },
+    {
+      "id": "n-nian",
+      "word": "辇",
+      "pinyin": "niǎn",
+      "meaning": "皇帝乘坐的车。"
+    },
+    {
+      "id": "n-cairen",
+      "word": "才人",
+      "pinyin": "cái rén",
+      "meaning": "宫中武艺出众的女官。"
+    },
+    {
+      "id": "n-nie",
+      "word": "啮",
+      "pinyin": "niè",
+      "meaning": "咬、衔。"
+    },
+    {
+      "id": "n-le",
+      "word": "勒",
+      "pinyin": "lè",
+      "meaning": "带嚼口的马笼头。"
+    },
+    {
+      "id": "n-mingmou",
+      "word": "明眸皓齿",
+      "pinyin": "míng móu hào chǐ",
+      "meaning": "明亮的眼睛、洁白的牙齿，形容杨贵妃的美貌。"
+    },
+    {
+      "id": "n-qingwei",
+      "word": "清渭",
+      "pinyin": "qīng wèi",
+      "meaning": "清澈的渭水，杨贵妃死于马嵬，地近渭水。"
+    },
+    {
+      "id": "n-huqi",
+      "word": "胡骑",
+      "pinyin": "hú jì",
+      "meaning": "指叛军的骑兵。"
+    }
+  ],
+  "translation": "少陵的野老我，只能把哭声咽进喉咙，春天里偷偷走到曲江的曲折深处。江边的宫殿千门紧锁，细柳和新生的香蒲，还为谁发绿呢？回想当年皇帝的霓旌仪仗来到南苑，苑中万物都好像焕发出光彩。昭阳殿里最得宠的那个人，与皇帝同车而行，随侍在君王身边。车前骑马的才人带着弓箭，白马嘴里衔着黄金做的马嚼。才人翻身向天，仰射云中的飞鸟，美人一笑，正好射落一双比翼齐飞的鸟。那明亮的眼睛、洁白的牙齿如今在哪里？沾满血污的游魂，再也不能归来了。清清的渭水向东流，剑阁在深山之中，走的人和留下的人，从此再无消息。人是有感情的，眼泪打湿了衣襟，可江水照样流，江花照样开，哪有尽头。黄昏时叛军的骑兵扬起满城的尘土，我想往城南走，心却慌得望向了城北。",
+  "appreciation": "同是曲江，前后只隔一年：一年前霓旌游苑、才人射鸟、贵妃一笑，万物生辉；一年后宫门紧锁、柳蒲自绿、游魂无归。杜甫把这两幅画面叠在一起，不用一句议论，盛衰的对比自己就说话了。结尾欲往城南、错望城北，把心慌意乱写得入木三分——吞声的哭，原来一直没停。",
+  "background": "公元756年长安沦陷，第二年春天，杜甫被叛军困在城中。曲江是玄宗与杨贵妃昔日游宴的胜地，如今宫殿紧闭、游人绝迹。他趁乱潜行到曲江僻静处，想起旧日繁华与马嵬之变，写下这首含泪的诗。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "潜行曲江",
+      "text": "野老吞声潜行，江头宫门紧锁，柳蒲自绿。"
+    },
+    {
+      "step": 2,
+      "title": "忆昔盛游",
+      "text": "当年霓旌下南苑，贵妃同辇，才人射鸟。"
+    },
+    {
+      "step": 3,
+      "title": "游魂无归",
+      "text": "明眸皓齿今何在？血污游魂归不得。"
+    },
+    {
+      "step": 4,
+      "title": "慌不辨向",
+      "text": "黄昏胡骑尘满城，欲往城南竟望城北。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "曲",
+      "reading": "qū",
+      "reason": "“曲江曲”的“曲”是弯曲、幽深的意思，读 qū。",
+      "standard": "不要读成 qǔ"
+    },
+    {
+      "char": "骑",
+      "reading": "jì",
+      "reason": "“胡骑”指骑兵，是名词，读 jì。",
+      "standard": "不要读成 qí"
+    },
+    {
+      "char": "啮",
+      "reading": "niè",
+      "reason": "“嚼啮”指马咬住嚼子，读 niè。"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1254
+}

@@ -1,0 +1,500 @@
+{
+  "id": "tang-shengtang-wangwei-luoyangnverxing",
+  "slug": "luoyangnverxing",
+  "title": "洛阳女儿行",
+  "titlePinyin": "luò yáng nǚ ér xíng",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "七言乐府",
+  "authorId": "wangwei",
+  "gradeBand": "ext",
+  "tags": [
+    "生活",
+    "七言乐府",
+    "桃花",
+    "富贵"
+  ],
+  "difficulty": 3,
+  "writtenYear": 716,
+  "writtenLabel": "约公元 716 年（王维 15 岁前后的少年之作，借洛阳女儿讽刺豪门奢靡）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "谁怜越女颜如玉，贫贱江头自浣纱。"
+  ],
+  "lines": [
+    {
+      "text": "洛阳女儿对门居，",
+      "pinyin": [
+        "luò",
+        "yáng",
+        "nǚ",
+        "ér",
+        "duì",
+        "mén",
+        "jū"
+      ],
+      "translation": "洛阳有位女儿，就住在我家对门，",
+      "noteIds": []
+    },
+    {
+      "text": "才可颜容十五余。",
+      "pinyin": [
+        "cái",
+        "kě",
+        "yán",
+        "róng",
+        "shí",
+        "wǔ",
+        "yú"
+      ],
+      "translation": "容颜正当十五六岁的妙龄。",
+      "noteIds": [
+        "n-caike"
+      ]
+    },
+    {
+      "text": "良人玉勒乘骢马，",
+      "pinyin": [
+        "liáng",
+        "rén",
+        "yù",
+        "lè",
+        "chéng",
+        "cōng",
+        "mǎ"
+      ],
+      "translation": "她的丈夫骑着玉饰笼头的青白马，",
+      "noteIds": [
+        "n-liangren",
+        "n-yule",
+        "n-congma"
+      ]
+    },
+    {
+      "text": "侍女金盘脍鲤鱼。",
+      "pinyin": [
+        "shì",
+        "nǚ",
+        "jīn",
+        "pán",
+        "kuài",
+        "lǐ",
+        "yú"
+      ],
+      "translation": "侍女端上金盘，盛着细切精美的鲤鱼。",
+      "noteIds": [
+        "n-kuai"
+      ]
+    },
+    {
+      "text": "画阁朱楼尽相望，",
+      "pinyin": [
+        "huà",
+        "gé",
+        "zhū",
+        "lóu",
+        "jìn",
+        "xiāng",
+        "wàng"
+      ],
+      "translation": "画阁红楼一座连着一座，遥遥相对，",
+      "noteIds": []
+    },
+    {
+      "text": "红桃绿柳垂檐向。",
+      "pinyin": [
+        "hóng",
+        "táo",
+        "lǜ",
+        "liǔ",
+        "chuí",
+        "yán",
+        "xiàng"
+      ],
+      "translation": "红桃绿柳低垂在屋檐两旁。",
+      "noteIds": []
+    },
+    {
+      "text": "罗帷送上七香车，",
+      "pinyin": [
+        "luó",
+        "wéi",
+        "sòng",
+        "shàng",
+        "qī",
+        "xiāng",
+        "chē"
+      ],
+      "translation": "丝绸帷帐送她登上七香宝车，",
+      "noteIds": [
+        "n-wei",
+        "n-qixiangche"
+      ]
+    },
+    {
+      "text": "宝扇迎归九华帐。",
+      "pinyin": [
+        "bǎo",
+        "shàn",
+        "yíng",
+        "guī",
+        "jiǔ",
+        "huá",
+        "zhàng"
+      ],
+      "translation": "仪仗宝扇迎她回到九华帐中。",
+      "noteIds": [
+        "n-jiuhuazhang"
+      ]
+    },
+    {
+      "text": "狂夫富贵在青春，",
+      "pinyin": [
+        "kuáng",
+        "fū",
+        "fù",
+        "guì",
+        "zài",
+        "qīng",
+        "chūn"
+      ],
+      "translation": "她丈夫正当青春、富贵得意，",
+      "noteIds": [
+        "n-kuangfu"
+      ]
+    },
+    {
+      "text": "意气骄奢剧季伦。",
+      "pinyin": [
+        "yì",
+        "qì",
+        "jiāo",
+        "shē",
+        "jù",
+        "jì",
+        "lún"
+      ],
+      "translation": "意气骄纵奢侈，超过了富豪石崇。",
+      "noteIds": [
+        "n-jilun"
+      ]
+    },
+    {
+      "text": "自怜碧玉亲教舞，",
+      "pinyin": [
+        "zì",
+        "lián",
+        "bì",
+        "yù",
+        "qīn",
+        "jiào",
+        "wǔ"
+      ],
+      "translation": "他宠爱碧玉般的年轻歌女，亲自教她跳舞，",
+      "noteIds": [
+        "n-biyu"
+      ]
+    },
+    {
+      "text": "不惜珊瑚持与人。",
+      "pinyin": [
+        "bù",
+        "xī",
+        "shān",
+        "hú",
+        "chí",
+        "yǔ",
+        "rén"
+      ],
+      "translation": "舍得把贵重的珊瑚随手送给别人。",
+      "noteIds": []
+    },
+    {
+      "text": "春窗曙灭九微火，",
+      "pinyin": [
+        "chūn",
+        "chuāng",
+        "shǔ",
+        "miè",
+        "jiǔ",
+        "wēi",
+        "huǒ"
+      ],
+      "translation": "春夜的灯烛一直点到天亮才熄灭，",
+      "noteIds": [
+        "n-jiuwei"
+      ]
+    },
+    {
+      "text": "九微片片飞花琐。",
+      "pinyin": [
+        "jiǔ",
+        "wēi",
+        "piàn",
+        "piàn",
+        "fēi",
+        "huā",
+        "suǒ"
+      ],
+      "translation": "灯花的碎屑片片，飞落在雕花窗格上。",
+      "noteIds": [
+        "n-huasuo"
+      ]
+    },
+    {
+      "text": "戏罢曾无理曲时，",
+      "pinyin": [
+        "xì",
+        "bà",
+        "céng",
+        "wú",
+        "lǐ",
+        "qǔ",
+        "shí"
+      ],
+      "translation": "嬉戏完了，从来没有练习曲子的工夫，",
+      "noteIds": [
+        "n-liqu"
+      ]
+    },
+    {
+      "text": "妆成祗是熏香坐。",
+      "pinyin": [
+        "zhuāng",
+        "chéng",
+        "zhǐ",
+        "shì",
+        "xūn",
+        "xiāng",
+        "zuò"
+      ],
+      "translation": "梳妆好了，只是坐在香炉旁熏香。",
+      "noteIds": [
+        "n-zhi"
+      ]
+    },
+    {
+      "text": "城中相识尽繁华，",
+      "pinyin": [
+        "chéng",
+        "zhōng",
+        "xiāng",
+        "shí",
+        "jìn",
+        "fán",
+        "huá"
+      ],
+      "translation": "城里来往相识的，全是富贵人家，",
+      "noteIds": []
+    },
+    {
+      "text": "日夜经过赵李家。",
+      "pinyin": [
+        "rì",
+        "yè",
+        "jīng",
+        "guò",
+        "zhào",
+        "lǐ",
+        "jiā"
+      ],
+      "translation": "日夜往来的，都是赵家李家那样的权贵。",
+      "noteIds": [
+        "n-zhaoli"
+      ]
+    },
+    {
+      "text": "谁怜越女颜如玉，",
+      "pinyin": [
+        "shuí",
+        "lián",
+        "yuè",
+        "nǚ",
+        "yán",
+        "rú",
+        "yù"
+      ],
+      "translation": "可有谁怜惜越女西施容颜如玉，",
+      "noteIds": [
+        "n-yuenv"
+      ]
+    },
+    {
+      "text": "贫贱江头自浣纱。",
+      "pinyin": [
+        "pín",
+        "jiàn",
+        "jiāng",
+        "tóu",
+        "zì",
+        "huàn",
+        "shā"
+      ],
+      "translation": "贫贱时却只能独自在江头浣洗纱线。",
+      "noteIds": [
+        "n-huansha"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-caike",
+      "word": "才可",
+      "pinyin": "cái kě",
+      "meaning": "恰好、刚好，指年纪恰好。"
+    },
+    {
+      "id": "n-liangren",
+      "word": "良人",
+      "pinyin": "liáng rén",
+      "meaning": "古代妻子对丈夫的称呼。"
+    },
+    {
+      "id": "n-yule",
+      "word": "玉勒",
+      "pinyin": "yù lè",
+      "meaning": "用玉装饰的马笼头。"
+    },
+    {
+      "id": "n-congma",
+      "word": "骢马",
+      "pinyin": "cōng mǎ",
+      "meaning": "青白色的骏马。"
+    },
+    {
+      "id": "n-kuai",
+      "word": "脍",
+      "pinyin": "kuài",
+      "meaning": "把鱼肉切成细丝，切得极精细。"
+    },
+    {
+      "id": "n-wei",
+      "word": "罗帷",
+      "pinyin": "luó wéi",
+      "meaning": "轻软丝织品的帐幕。"
+    },
+    {
+      "id": "n-qixiangche",
+      "word": "七香车",
+      "pinyin": "qī xiāng chē",
+      "meaning": "用多种香料涂饰的华贵车子。"
+    },
+    {
+      "id": "n-jiuhuazhang",
+      "word": "九华帐",
+      "pinyin": "jiǔ huá zhàng",
+      "meaning": "绘着繁复花样、非常华美的帐子。"
+    },
+    {
+      "id": "n-kuangfu",
+      "word": "狂夫",
+      "pinyin": "kuáng fū",
+      "meaning": "任性快意的丈夫，这里是带戏谑的称呼。"
+    },
+    {
+      "id": "n-jilun",
+      "word": "剧季伦",
+      "pinyin": "jù jì lún",
+      "meaning": "剧是超过；季伦是西晋首富石崇的字，以豪奢出名。"
+    },
+    {
+      "id": "n-biyu",
+      "word": "碧玉",
+      "pinyin": "bì yù",
+      "meaning": "南朝歌女的名字，借指年轻受宠的侍妾。"
+    },
+    {
+      "id": "n-jiuwei",
+      "word": "九微火",
+      "pinyin": "jiǔ wēi huǒ",
+      "meaning": "九微灯的灯火，九微是一种华贵的灯。"
+    },
+    {
+      "id": "n-huasuo",
+      "word": "花琐",
+      "pinyin": "huā suǒ",
+      "meaning": "雕成连环花纹的窗格。"
+    },
+    {
+      "id": "n-liqu",
+      "word": "理曲",
+      "pinyin": "lǐ qǔ",
+      "meaning": "练习歌曲。"
+    },
+    {
+      "id": "n-zhi",
+      "word": "祗",
+      "pinyin": "zhǐ",
+      "meaning": "同“只”，仅仅。"
+    },
+    {
+      "id": "n-zhaoli",
+      "word": "赵李家",
+      "pinyin": "zhào lǐ jiā",
+      "meaning": "汉成帝时外戚赵飞燕、李平两家，泛指豪门权贵。"
+    },
+    {
+      "id": "n-yuenv",
+      "word": "越女",
+      "pinyin": "yuè nǚ",
+      "meaning": "指西施，越地美女，未发达时在江边浣纱。"
+    },
+    {
+      "id": "n-huansha",
+      "word": "浣纱",
+      "pinyin": "huàn shā",
+      "meaning": "在水边洗纱。西施浣纱是著名的故事。"
+    }
+  ],
+  "translation": "洛阳有位女儿，就住在我家对门，容颜正当十五六岁的妙龄。她的丈夫骑着玉饰笼头的青白马，侍女端上金盘，盛着细切精美的鲤鱼。画阁红楼一座连着一座，遥遥相对，红桃绿柳低垂在屋檐两旁。丝绸帷帐送她登上七香宝车，仪仗宝扇迎她回到九华帐中。她丈夫正当青春、富贵得意，意气骄纵奢侈，超过了富豪石崇。他宠爱碧玉般的年轻歌女，亲自教她跳舞，舍得把贵重的珊瑚随手送给别人。春夜的灯烛一直点到天亮才熄灭，灯花的碎屑片片，飞落在雕花窗格上。她嬉戏完了，从来没有练习曲子的工夫，梳妆好了，只是坐在香炉旁熏香。城里来往相识的，全是富贵人家，日夜往来的，都是赵家李家那样的权贵。可有谁怜惜越女西施容颜如玉，贫贱时却只能独自在江头浣洗纱线。",
+  "appreciation": "这首长诗用华美的辞藻，细写洛阳贵妇的豪奢生活：玉勒骢马、金盘鲤鱼、七香车、九华帐，灯点到天亮，与权贵日夜往来。结尾忽然一转：谁怜惜江头浣纱的越女？同样美貌，命运却天差地别。前面的繁华写得越热闹，最后两句就越冷峻，讽刺与不平全在对比之中。",
+  "background": "这是王维少年时期的作品。当时长安、洛阳的贵族生活极其奢侈，少年王维看在眼里，借洛阳女儿的富贵和越女的贫贱作对比，写下了这首诗，讽刺豪门，也替寒士鸣不平。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "对门少女",
+      "text": "洛阳女儿住在对门，年纪恰好十五六岁。"
+    },
+    {
+      "step": 2,
+      "title": "嫁入豪门",
+      "text": "丈夫骑骢马、摆金盘，住着画阁朱楼。"
+    },
+    {
+      "step": 3,
+      "title": "穷奢极欲",
+      "text": "坐七香车、点九微灯，日夜与权贵往来。"
+    },
+    {
+      "step": 4,
+      "title": "江头浣纱",
+      "text": "结尾一问：贫贱的越女，谁怜惜她独自浣纱？"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "骢",
+      "reading": "cōng",
+      "reason": "“骢马”是青白色的骏马，“骢”读 cōng。"
+    },
+    {
+      "char": "脍",
+      "reading": "kuài",
+      "reason": "“脍”是把鱼肉切成细丝，“金盘脍鲤鱼”极言饮食精美。"
+    },
+    {
+      "char": "祗",
+      "reading": "zhǐ",
+      "reason": "“祗”同“只”，是仅仅的意思。",
+      "standard": "不要读成 dī 或 qí"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1230
+}

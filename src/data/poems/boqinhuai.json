@@ -1,0 +1,175 @@
+{
+  "id": "tang-wantang-dumu-boqinhuai",
+  "slug": "boqinhuai",
+  "title": "泊秦淮",
+  "titlePinyin": "bó qín huái",
+  "dynasty": "tangshi",
+  "era": "wantang",
+  "genre": "shi",
+  "form": "七言绝句",
+  "authorId": "dumu",
+  "gradeBand": "ext",
+  "tags": [
+    "爱国",
+    "七言绝句",
+    "月夜",
+    "烟波"
+  ],
+  "difficulty": 3,
+  "writtenYear": 833,
+  "writtenLabel": "约公元 833 年（杜牧 31 岁，由宣州赴扬州途中，夜泊金陵秦淮河）",
+  "orderInAuthor": 1,
+  "no": 1029,
+  "famousLines": [
+    "商女不知亡国恨，隔江犹唱后庭花。"
+  ],
+  "lines": [
+    {
+      "text": "烟笼寒水月笼沙，",
+      "pinyin": [
+        "yān",
+        "lóng",
+        "hán",
+        "shuǐ",
+        "yuè",
+        "lóng",
+        "shā"
+      ],
+      "translation": "烟雾笼罩着寒冷的江水，月光笼罩着沙岸，",
+      "noteIds": [
+        "n-long"
+      ]
+    },
+    {
+      "text": "夜泊秦淮近酒家。",
+      "pinyin": [
+        "yè",
+        "bó",
+        "qín",
+        "huái",
+        "jìn",
+        "jiǔ",
+        "jiā"
+      ],
+      "translation": "夜里船泊秦淮河，靠近岸上的酒家。",
+      "noteIds": [
+        "n-qinhuai"
+      ]
+    },
+    {
+      "text": "商女不知亡国恨，",
+      "pinyin": [
+        "shāng",
+        "nǚ",
+        "bù",
+        "zhī",
+        "wáng",
+        "guó",
+        "hèn"
+      ],
+      "translation": "歌女不懂得亡国的悲恨，",
+      "noteIds": [
+        "n-shangnv"
+      ]
+    },
+    {
+      "text": "隔江犹唱后庭花。",
+      "pinyin": [
+        "gé",
+        "jiāng",
+        "yóu",
+        "chàng",
+        "hòu",
+        "tíng",
+        "huā"
+      ],
+      "translation": "隔着江水，还在唱那支《后庭花》。",
+      "noteIds": [
+        "n-houtinghua",
+        "n-you"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-long",
+      "word": "笼",
+      "pinyin": "lóng",
+      "meaning": "笼罩，像罩子一样盖住。"
+    },
+    {
+      "id": "n-qinhuai",
+      "word": "秦淮",
+      "pinyin": "qín huái",
+      "meaning": "河名，流经金陵（今南京），两岸酒楼歌馆很多。"
+    },
+    {
+      "id": "n-shangnv",
+      "word": "商女",
+      "pinyin": "shāng nǚ",
+      "meaning": "在酒楼里卖唱的歌女。"
+    },
+    {
+      "id": "n-houtinghua",
+      "word": "后庭花",
+      "pinyin": "hòu tíng huā",
+      "meaning": "歌曲《玉树后庭花》的简称，是南朝亡国之君陈后主所作，后来被看作亡国之音。"
+    },
+    {
+      "id": "n-you",
+      "word": "犹",
+      "pinyin": "yóu",
+      "meaning": "还，仍在。"
+    }
+  ],
+  "translation": "烟雾笼罩着寒冷的江水，月光笼罩着沙岸，夜里船泊秦淮河，靠近岸上的酒家。歌女不懂得亡国的悲恨，隔着江水，还在唱那支《后庭花》。",
+  "appreciation": "前两句像一幅夜泊的水墨画：烟、水、月、沙都被“笼”字轻轻罩住，朦胧又清冷。后两句笔锋一转：歌女隔着江还在唱亡国之曲。诗人责怪的其实不是歌女，而是点歌听歌的达官贵人——国势已经衰弱，他们还在寻欢作乐。小小一首诗，写尽了诗人的忧国之心。",
+  "background": "唐朝晚期，藩镇割据、宦官专权，国力一天天衰弱。约833年，杜牧乘船经过金陵，夜里停泊在秦淮河上。两岸酒楼灯火通明，歌女还在唱着陈后主的亡国之曲。诗人有感而发，写下这首名作。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "烟月笼江",
+      "text": "夜雾和月光笼罩着秦淮河，寒水白沙一片朦胧。"
+    },
+    {
+      "step": 2,
+      "title": "系舟酒家",
+      "text": "诗人把船停在河边，紧挨着灯火通明的酒家。"
+    },
+    {
+      "step": 3,
+      "title": "隔江歌声",
+      "text": "对岸传来歌声，歌女正唱着曲子《玉树后庭花》。"
+    },
+    {
+      "step": 4,
+      "title": "忧从中来",
+      "text": "诗人想起这是亡国之曲，为不顾国事的人们深深忧虑。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "笼",
+      "reading": "lóng",
+      "reason": "“烟笼寒水”是烟雾笼罩着寒水，读 lóng。",
+      "standard": "不要读成 lǒng"
+    },
+    {
+      "char": "泊",
+      "reading": "bó",
+      "reason": "“夜泊”是夜里停船靠岸，读 bó。",
+      "standard": "不要读成 pō"
+    },
+    {
+      "char": "犹",
+      "reading": "yóu",
+      "reason": "“犹唱”是还在唱，读 yóu。"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26"
+}

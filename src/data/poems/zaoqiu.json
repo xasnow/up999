@@ -1,0 +1,151 @@
+{
+  "id": "tang-wantang-xuhun-zaoqiu",
+  "slug": "zaoqiu",
+  "title": "早秋",
+  "titlePinyin": "zǎo qiū",
+  "dynasty": "tangshi",
+  "era": "wantang",
+  "genre": "shi",
+  "form": "五言律诗",
+  "authorId": "xuhun",
+  "gradeBand": "ext",
+  "tags": ["秋天", "五言律诗", "早雁", "银河"],
+  "difficulty": 3,
+  "writtenYear": 820,
+  "writtenLabel": "约公元 820 年（许浑约 29 岁，早年客居江南，在旅舍中写下早秋夜色）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "淮南一叶下，自觉洞庭波。"
+  ],
+  "lines": [
+    {
+      "text": "遥夜泛清瑟，",
+      "pinyin": ["yáo", "yè", "fàn", "qīng", "sè"],
+      "translation": "漫漫长夜里，我弹起了清凉的瑟。",
+      "noteIds": ["n-yaoye", "n-qingse"]
+    },
+    {
+      "text": "西风生翠萝。",
+      "pinyin": ["xī", "fēng", "shēng", "cuì", "luó"],
+      "translation": "秋风吹拂着青翠的藤萝。",
+      "noteIds": ["n-cuiluo"]
+    },
+    {
+      "text": "残萤栖玉露，",
+      "pinyin": ["cán", "yíng", "qī", "yù", "lù"],
+      "translation": "残余的萤火虫停在白玉般的露水上。",
+      "noteIds": []
+    },
+    {
+      "text": "早雁拂金河。",
+      "pinyin": ["zǎo", "yàn", "fú", "jīn", "hé"],
+      "translation": "早来的大雁轻轻掠过秋夜的银河。",
+      "noteIds": ["n-jinhe"]
+    },
+    {
+      "text": "高树晓还密，",
+      "pinyin": ["gāo", "shù", "xiǎo", "hái", "mì"],
+      "translation": "高高的树到天亮还显得很茂密。",
+      "noteIds": []
+    },
+    {
+      "text": "远山晴更多。",
+      "pinyin": ["yuǎn", "shān", "qíng", "gèng", "duō"],
+      "translation": "天晴时，远处能看到的山更多了。",
+      "noteIds": []
+    },
+    {
+      "text": "淮南一叶下，",
+      "pinyin": ["huái", "nán", "yī", "yè", "xià"],
+      "translation": "想起《淮南子》里一片落叶的话。",
+      "noteIds": ["n-huainan"]
+    },
+    {
+      "text": "自觉洞庭波。",
+      "pinyin": ["zì", "jué", "dòng", "tíng", "bō"],
+      "translation": "我仿佛已经听到了洞庭湖上秋波的声音。",
+      "noteIds": ["n-dongting"]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-yaoye",
+      "word": "遥夜",
+      "pinyin": "yáo yè",
+      "meaning": "漫长的夜晚。"
+    },
+    {
+      "id": "n-qingse",
+      "word": "清瑟",
+      "pinyin": "qīng sè",
+      "meaning": "清凉的瑟声。瑟是一种像琴的弦乐器。"
+    },
+    {
+      "id": "n-cuiluo",
+      "word": "翠萝",
+      "pinyin": "cuì luó",
+      "meaning": "青绿色的藤萝。"
+    },
+    {
+      "id": "n-jinhe",
+      "word": "金河",
+      "pinyin": "jīn hé",
+      "meaning": "秋天的银河。古人把秋天和“金”联系在一起。"
+    },
+    {
+      "id": "n-huainan",
+      "word": "淮南一叶",
+      "pinyin": "huái nán yī yè",
+      "meaning": "《淮南子》里说，看见一片叶子落下，就知道秋天要来了。"
+    },
+    {
+      "id": "n-dongting",
+      "word": "洞庭波",
+      "pinyin": "dòng tíng bō",
+      "meaning": "洞庭湖上吹起的秋波，用了“洞庭波兮木叶下”的诗意。"
+    }
+  ],
+  "translation": "漫漫长夜里，我弹起了清凉的瑟，秋风吹拂着青翠的藤萝。残余的萤火虫停在白玉般的露水上，早来的大雁轻轻掠过秋夜的银河。高高的树到天亮还显得很茂密，天晴时远处能看到的山更多了。想起《淮南子》里一片落叶的话，我仿佛已经听到了洞庭湖上秋波的声音。",
+  "appreciation": "这首诗写的是初秋的夜晚和清晨。诗人不说“秋天来了”，而是让秋风、萤火虫、大雁、露水一件件登场，好像秋天是自己悄悄走过来的。最后两句特别妙：看见一片叶子落下来，诗人不用去洞庭湖，就已经感觉到洞庭湖上的秋波了。整首诗又轻又凉，像一杯早秋的凉茶，把季节的变化写得又安静又聪明。",
+  "background": "许浑年轻时客居江南，一个夏末的夜晚，他在住处弹琴乘凉。夜风吹过藤萝，露水里有残存的萤火虫，天上飞过最早南归的大雁。他忽然意识到秋天已经悄悄来了，于是写下这首《早秋》，把初秋的凉意一点一点描了出来。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "长夜弹瑟",
+      "text": "夏末的夜晚特别漫长，诗人弹起了一支清凉的瑟曲。"
+    },
+    {
+      "step": 2,
+      "title": "秋风夜色",
+      "text": "秋风吹动翠绿的藤萝，残余的萤火虫停在白玉般的露珠上。"
+    },
+    {
+      "step": 3,
+      "title": "早雁掠空",
+      "text": "最早南飞的大雁排成一行，轻轻掠过秋夜明亮的银河。"
+    },
+    {
+      "step": 4,
+      "title": "一叶知秋",
+      "text": "一片叶子轻轻落下，诗人仿佛听见了洞庭湖上的秋波。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "拂",
+      "reading": "fú",
+      "reason": "“早雁拂金河”的“拂”是轻轻擦过的意思，读 fú。",
+      "standard": "不要读成 fó"
+    },
+    {
+      "char": "还",
+      "reading": "hái",
+      "reason": "“晓还密”的“还”表示“仍然”，读 hái。",
+      "standard": "不要读成 huán"
+    }
+  ],
+  "sources": ["《全唐诗》", "《唐诗三百首》", "《丁卯集》"],
+  "no": 1103,
+  "status": "published",
+  "updatedAt": "2026-11-26"
+}

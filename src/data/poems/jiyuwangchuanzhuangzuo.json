@@ -1,0 +1,260 @@
+{
+  "id": "tang-shengtang-wangwei-jiyuwangchuanzhuangzuo",
+  "slug": "jiyuwangchuanzhuangzuo",
+  "title": "积雨辋川庄作",
+  "titlePinyin": "jī yǔ wǎng chuān zhuāng zuò",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "七言律诗",
+  "authorId": "wangwei",
+  "gradeBand": "ext",
+  "tags": [
+    "田园",
+    "七言律诗",
+    "白鹭",
+    "夏天"
+  ],
+  "difficulty": 3,
+  "writtenYear": 755,
+  "writtenLabel": "约公元 755 年（王维 54 岁，隐居辋川别业）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "漠漠水田飞白鹭，阴阴夏木啭黄鹂。"
+  ],
+  "lines": [
+    {
+      "text": "积雨空林烟火迟，",
+      "pinyin": [
+        "jī",
+        "yǔ",
+        "kōng",
+        "lín",
+        "yān",
+        "huǒ",
+        "chí"
+      ],
+      "translation": "久雨后的空旷山林里，炊烟缓缓升起，",
+      "noteIds": []
+    },
+    {
+      "text": "蒸藜炊黍饷东菑。",
+      "pinyin": [
+        "zhēng",
+        "lí",
+        "chuī",
+        "shǔ",
+        "xiàng",
+        "dōng",
+        "zī"
+      ],
+      "translation": "村里人蒸好野菜、煮好黄米饭，送到东边的田头。",
+      "noteIds": [
+        "n-li",
+        "n-xiang",
+        "n-zi"
+      ]
+    },
+    {
+      "text": "漠漠水田飞白鹭，",
+      "pinyin": [
+        "mò",
+        "mò",
+        "shuǐ",
+        "tián",
+        "fēi",
+        "bái",
+        "lù"
+      ],
+      "translation": "广阔的水田上，白鹭自由地飞翔，",
+      "noteIds": [
+        "n-momo"
+      ]
+    },
+    {
+      "text": "阴阴夏木啭黄鹂。",
+      "pinyin": [
+        "yīn",
+        "yīn",
+        "xià",
+        "mù",
+        "zhuàn",
+        "huáng",
+        "lí"
+      ],
+      "translation": "浓密的夏日树荫里，黄鹂婉转地啼唱。",
+      "noteIds": [
+        "n-zhuan"
+      ]
+    },
+    {
+      "text": "山中习静观朝槿，",
+      "pinyin": [
+        "shān",
+        "zhōng",
+        "xí",
+        "jìng",
+        "guān",
+        "zhāo",
+        "jǐn"
+      ],
+      "translation": "我在山中修习静坐，看木槿花清晨开放，",
+      "noteIds": [
+        "n-chaojin"
+      ]
+    },
+    {
+      "text": "松下清斋折露葵。",
+      "pinyin": [
+        "sōng",
+        "xià",
+        "qīng",
+        "zhāi",
+        "zhé",
+        "lù",
+        "kuí"
+      ],
+      "translation": "在松树下吃素斋，采折带着露水的葵菜。",
+      "noteIds": [
+        "n-lukui"
+      ]
+    },
+    {
+      "text": "野老与人争席罢，",
+      "pinyin": [
+        "yě",
+        "lǎo",
+        "yǔ",
+        "rén",
+        "zhēng",
+        "xí",
+        "bà"
+      ],
+      "translation": "我已是能和乡里人随意争座位的野老，",
+      "noteIds": [
+        "n-zhengxi"
+      ]
+    },
+    {
+      "text": "海鸥何事更相疑。",
+      "pinyin": [
+        "hǎi",
+        "ōu",
+        "hé",
+        "shì",
+        "gèng",
+        "xiāng",
+        "yí"
+      ],
+      "translation": "海鸥啊，又为什么还要猜疑我呢？",
+      "noteIds": [
+        "n-haiou"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-li",
+      "word": "藜",
+      "pinyin": "lí",
+      "meaning": "一种野菜，嫩叶可以吃。"
+    },
+    {
+      "id": "n-xiang",
+      "word": "饷",
+      "pinyin": "xiàng",
+      "meaning": "把饭食送给田里劳作的人。"
+    },
+    {
+      "id": "n-zi",
+      "word": "菑",
+      "pinyin": "zī",
+      "meaning": "开垦了一年的田地，这里泛指田亩。"
+    },
+    {
+      "id": "n-momo",
+      "word": "漠漠",
+      "pinyin": "mò mò",
+      "meaning": "形容水田广阔、烟雨迷蒙的样子。"
+    },
+    {
+      "id": "n-zhuan",
+      "word": "啭",
+      "pinyin": "zhuàn",
+      "meaning": "鸟儿婉转地叫。"
+    },
+    {
+      "id": "n-chaojin",
+      "word": "朝槿",
+      "pinyin": "zhāo jǐn",
+      "meaning": "木槿花，早晨开放，傍晚凋谢，常用来比喻世事短暂。"
+    },
+    {
+      "id": "n-lukui",
+      "word": "露葵",
+      "pinyin": "lù kuí",
+      "meaning": "带着露水的葵菜，古人常吃的蔬菜。"
+    },
+    {
+      "id": "n-zhengxi",
+      "word": "争席",
+      "pinyin": "zhēng xí",
+      "meaning": "争抢座位，典出《庄子》，形容随和自然、没有隔阂。"
+    },
+    {
+      "id": "n-haiou",
+      "word": "海鸥相疑",
+      "pinyin": "hǎi ōu xiāng yí",
+      "meaning": "典出《列子》：人若没有机心，海鸥就肯亲近；有了机心，海鸥就猜疑不落。"
+    }
+  ],
+  "translation": "久雨后的空旷山林里，炊烟缓缓升起，村里人蒸好野菜、煮好黄米饭，送到东边的田头。广阔的水田上，白鹭自由地飞翔，浓密的夏日树荫里，黄鹂婉转地啼唱。我在山中修习静坐，看木槿花清晨开放，在松树下吃素斋，采折带着露水的葵菜。我已是能和乡里人随意争座位的野老，海鸥啊，又为什么还要猜疑我呢？",
+  "appreciation": "这首诗是王维田园诗的名篇。前四句一句一个画面：农妇送饭、白鹭飞田、黄鹂鸣树，浓丽的色彩配着雨后的湿润，像一幅着色的水彩画。后四句写诗人自己的隐居生活，看花、吃斋，与乡野融为一体，连海鸥也不再猜疑。诗里有禅意，也有对平淡生活的由衷欢喜。",
+  "background": "王维中年后在辋川购置别业，半官半隐。这首诗写久雨之后的辋川夏日，村农送饭、鸟雀飞鸣，诗人静观草木、素食清斋，写出了他晚年与世无争的心境。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "积雨炊烟",
+      "text": "久雨的林子里炊烟缓缓升起，村里人往田头送饭。"
+    },
+    {
+      "step": 2,
+      "title": "鹭飞鹂鸣",
+      "text": "水田上白鹭飞翔，树荫里黄鹂婉转啼唱。"
+    },
+    {
+      "step": 3,
+      "title": "静观清斋",
+      "text": "诗人在山中学静坐，看木槿花开，采露葵吃素斋。"
+    },
+    {
+      "step": 4,
+      "title": "鸥鸟不疑",
+      "text": "老人与乡邻随意相处，连海鸥也不再有猜疑。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "菑",
+      "reading": "zī",
+      "reason": "“菑”指开垦一年的田地，“饷东菑”是给东边田里的人送饭。"
+    },
+    {
+      "char": "饷",
+      "reading": "xiàng",
+      "reason": "“饷”是把饭食送给干活的人，读第四声。"
+    },
+    {
+      "char": "啭",
+      "reading": "zhuàn",
+      "reason": "“啭”是鸟儿婉转地叫，“啭黄鹂”是黄鹂鸣叫。"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1125
+}

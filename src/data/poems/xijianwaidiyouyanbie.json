@@ -1,0 +1,135 @@
+{
+  "id": "tang-zhongtang-liyi-xijianwaidiyouyanbie",
+  "slug": "xijianwaidiyouyanbie",
+  "title": "喜见外弟又言别",
+  "titlePinyin": "xǐ jiàn wài dì yòu yán bié",
+  "dynasty": "tangshi",
+  "era": "zhongtang",
+  "genre": "shi",
+  "form": "五言律诗",
+  "authorId": "liyi",
+  "gradeBand": "ext",
+  "tags": ["思念", "五言律诗", "秋天", "秋山"],
+  "difficulty": 3,
+  "writtenYear": 765,
+  "writtenLabel": "约公元 765 年（李益 18 岁左右，安史之乱后与分别十年的表弟重逢又别）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "问姓惊初见，称名忆旧容。"
+  ],
+  "lines": [
+    {
+      "text": "十年离乱后，",
+      "pinyin": ["shí", "nián", "lí", "luàn", "hòu"],
+      "translation": "经过十年战乱离散之后，",
+      "noteIds": ["n-liluan"]
+    },
+    {
+      "text": "长大一相逢。",
+      "pinyin": ["zhǎng", "dà", "yì", "xiāng", "féng"],
+      "translation": "我们都长大了，才意外相逢。",
+      "noteIds": ["n-waidi"]
+    },
+    {
+      "text": "问姓惊初见，",
+      "pinyin": ["wèn", "xìng", "jīng", "chū", "jiàn"],
+      "translation": "刚见面时问起姓氏，心里吃了一惊，",
+      "noteIds": []
+    },
+    {
+      "text": "称名忆旧容。",
+      "pinyin": ["chēng", "míng", "yì", "jiù", "róng"],
+      "translation": "说出名字，才想起儿时的旧容貌。",
+      "noteIds": []
+    },
+    {
+      "text": "别来沧海事，",
+      "pinyin": ["bié", "lái", "cāng", "hǎi", "shì"],
+      "translation": "分别以来经历了多少沧海桑田的变化，",
+      "noteIds": ["n-canghai"]
+    },
+    {
+      "text": "语罢暮天钟。",
+      "pinyin": ["yǔ", "bà", "mù", "tiān", "zhōng"],
+      "translation": "说完了话，已是黄昏的钟声响起。",
+      "noteIds": []
+    },
+    {
+      "text": "明日巴陵道，",
+      "pinyin": ["míng", "rì", "bā", "líng", "dào"],
+      "translation": "明天你就要走上去巴陵的路，",
+      "noteIds": ["n-baling"]
+    },
+    {
+      "text": "秋山又几重。",
+      "pinyin": ["qiū", "shān", "yòu", "jǐ", "chóng"],
+      "translation": "我们之间又要隔着几重秋山。",
+      "noteIds": ["n-chong"]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-liluan",
+      "word": "离乱",
+      "pinyin": "lí luàn",
+      "meaning": "因战乱而离散流落。"
+    },
+    {
+      "id": "n-waidi",
+      "word": "外弟",
+      "pinyin": "wài dì",
+      "meaning": "表弟，即母亲一方的表兄弟。"
+    },
+    {
+      "id": "n-canghai",
+      "word": "沧海事",
+      "pinyin": "cāng hǎi shì",
+      "meaning": "沧海变桑田那样的大变化，指十年间的巨大变迁。"
+    },
+    {
+      "id": "n-baling",
+      "word": "巴陵",
+      "pinyin": "bā líng",
+      "meaning": "地名，今湖南岳阳。"
+    },
+    {
+      "id": "n-chong",
+      "word": "重",
+      "pinyin": "chóng",
+      "meaning": "层，重叠。"
+    }
+  ],
+  "translation": "经过十年战乱离散之后，我们都长大了，才意外相逢。刚见面时问起姓氏，心里吃了一惊；说出名字，才想起儿时的旧容貌。分别以来经历了多少沧海桑田的变化，说完了话，已是黄昏的钟声响起。明天你就要走上去巴陵的路，我们之间又要隔着几重秋山。",
+  "appreciation": "重逢写得很妙：先问姓，再称名，一层层才认出彼此，把久别乍见的惊喜写得活灵活现。可是刚说完这十年的事，暮钟就响了，明天又要分手。诗把大欢喜和大伤感放在短短八句里，聚短别长，让人读出乱世里亲情的珍贵。",
+  "background": "李益少年时正逢安史之乱，亲戚家人四处流散，音信全无。约公元765年前后，他在旅途中意外遇见分别了十年的表弟，久别重逢来不及高兴，转眼又要分手，便写下这首诗，记下这段悲喜交集的时刻。",
+  "storyline": [
+    { "step": 1, "title": "乱后重逢", "text": "十年战乱流离失散，表兄弟长大后意外重逢。" },
+    { "step": 2, "title": "依稀相认", "text": "问过姓氏先吃一惊，说出名字才认出旧容颜。" },
+    { "step": 3, "title": "诉说沧桑", "text": "细说十年沧桑变化，说不完已是暮钟声响。" },
+    { "step": 4, "title": "明日又别", "text": "明天表弟就要走上巴陵道，又要隔几重秋山。" }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "重",
+      "reading": "chóng",
+      "reason": "“秋山又几重”的“重”指重叠的山层，读 chóng。",
+      "standard": "不要读成 zhòng"
+    },
+    {
+      "char": "长",
+      "reading": "zhǎng",
+      "reason": "“长大”的“长”指长大成人，读 zhǎng。",
+      "standard": "不要读成 cháng"
+    },
+    {
+      "char": "称",
+      "reading": "chēng",
+      "reason": "“称名”指说出名字，读 chēng。",
+      "standard": "不要读成 chèn"
+    }
+  ],
+  "sources": ["《全唐诗》", "《唐诗三百首》"],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1064
+}

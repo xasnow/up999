@@ -1,0 +1,232 @@
+{
+  "id": "tang-zhongtang-hanyu-shanshi",
+  "slug": "shanshi",
+  "title": "山石",
+  "titlePinyin": "shān shí",
+  "dynasty": "tangshi",
+  "era": "zhongtang",
+  "genre": "shi",
+  "form": "七言古诗",
+  "authorId": "hanyu",
+  "gradeBand": "ext",
+  "tags": [
+    "山水",
+    "七言古诗",
+    "山寺",
+    "月夜"
+  ],
+  "difficulty": 3,
+  "writtenYear": 801,
+  "writtenLabel": "约公元801年（韩愈34岁，游洛阳惠林寺，留宿一夜后作此诗）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "山石荦确行径微，黄昏到寺蝙蝠飞。",
+    "人生如此自可乐，岂必局束为人鞿？"
+  ],
+  "lines": [
+    {
+      "text": "山石荦确行径微，",
+      "pinyin": ["shān", "shí", "luò", "què", "xíng", "jìng", "wēi"],
+      "translation": "山石嶙峋不平，山路又窄又险，",
+      "noteIds": ["n-luoque"]
+    },
+    {
+      "text": "黄昏到寺蝙蝠飞。",
+      "pinyin": ["huáng", "hūn", "dào", "sì", "biān", "fú", "fēi"],
+      "translation": "黄昏时赶到寺庙，蝙蝠正飞来飞去。",
+      "noteIds": []
+    },
+    {
+      "text": "升堂坐阶新雨足，",
+      "pinyin": ["shēng", "táng", "zuò", "jiē", "xīn", "yǔ", "zú"],
+      "translation": "走进佛堂，坐在台阶上，一场新雨刚下透，",
+      "noteIds": []
+    },
+    {
+      "text": "芭蕉叶大栀子肥。",
+      "pinyin": ["bā", "jiāo", "yè", "dà", "zhī", "zi", "féi"],
+      "translation": "芭蕉叶子大大的，栀子花开得又肥又亮。",
+      "noteIds": ["n-zhike"]
+    },
+    {
+      "text": "僧言古壁佛画好，",
+      "pinyin": ["sēng", "yán", "gǔ", "bì", "fó", "huà", "hǎo"],
+      "translation": "僧人说古壁上的佛像画画得真好，",
+      "noteIds": []
+    },
+    {
+      "text": "以火来照所见稀。",
+      "pinyin": ["yǐ", "huǒ", "lái", "zhào", "suǒ", "jiàn", "xī"],
+      "translation": "点起火把来照，能看见的已经不多。",
+      "noteIds": []
+    },
+    {
+      "text": "铺床拂席置羹饭，",
+      "pinyin": ["pū", "chuáng", "fú", "xí", "zhì", "gēng", "fàn"],
+      "translation": "和尚铺好床、拂净席子，摆上简单的饭菜，",
+      "noteIds": []
+    },
+    {
+      "text": "疏粝亦足饱我饥。",
+      "pinyin": ["shū", "lì", "yì", "zú", "bǎo", "wǒ", "jī"],
+      "translation": "粗茶淡饭也足够填饱我的肚子。",
+      "noteIds": ["n-shuli"]
+    },
+    {
+      "text": "夜深静卧百虫绝，",
+      "pinyin": ["yè", "shēn", "jìng", "wò", "bǎi", "chóng", "jué"],
+      "translation": "夜深了，静静躺下，各种虫鸣都停了，",
+      "noteIds": []
+    },
+    {
+      "text": "清月出岭光入扉。",
+      "pinyin": ["qīng", "yuè", "chū", "lǐng", "guāng", "rù", "fēi"],
+      "translation": "一轮清亮的月亮翻出山岭，月光照进窗户。",
+      "noteIds": []
+    },
+    {
+      "text": "天明独去无道路，",
+      "pinyin": ["tiān", "míng", "dú", "qù", "wú", "dào", "lù"],
+      "translation": "天亮时独自出发，看不清哪是道路，",
+      "noteIds": []
+    },
+    {
+      "text": "出入高下穷烟霏。",
+      "pinyin": ["chū", "rù", "gāo", "xià", "qióng", "yān", "fēi"],
+      "translation": "在高低起伏的山雾里，走遍了没走过的路。",
+      "noteIds": []
+    },
+    {
+      "text": "山红涧碧纷烂漫，",
+      "pinyin": ["shān", "hóng", "jiàn", "bì", "fēn", "làn", "màn"],
+      "translation": "山上红花、涧边绿草，一片绚烂，",
+      "noteIds": []
+    },
+    {
+      "text": "时见松枥皆十围。",
+      "pinyin": ["shí", "jiàn", "sōng", "lì", "jiē", "shí", "wéi"],
+      "translation": "一路上常看见合抱粗的松树和枥树。",
+      "noteIds": ["n-shili"]
+    },
+    {
+      "text": "当流赤足踏涧石，",
+      "pinyin": ["dāng", "liú", "chì", "zú", "tà", "jiàn", "shí"],
+      "translation": "遇到溪流，就光着脚踩在涧中的石头上，",
+      "noteIds": []
+    },
+    {
+      "text": "水声激激风吹衣。",
+      "pinyin": ["shuǐ", "shēng", "jī", "jī", "fēng", "chuī", "yī"],
+      "translation": "水声哗哗作响，山风吹动衣裳。",
+      "noteIds": []
+    },
+    {
+      "text": "人生如此自可乐，",
+      "pinyin": ["rén", "shēng", "rú", "cǐ", "zì", "kě", "lè"],
+      "translation": "人生能这样自在，本来就有无穷的乐趣，",
+      "noteIds": []
+    },
+    {
+      "text": "岂必局束为人鞿？",
+      "pinyin": ["qǐ", "bì", "jú", "shù", "wéi", "rén", "jī"],
+      "translation": "何必受拘束，被人像马一样套上缰绳呢？",
+      "noteIds": ["n-ji"]
+    },
+    {
+      "text": "嗟哉吾党二三子，",
+      "pinyin": ["jiē", "zāi", "wú", "dǎng", "èr", "sān", "zǐ"],
+      "translation": "唉，我的几位志同道合的朋友啊，",
+      "noteIds": []
+    },
+    {
+      "text": "安得至老不更归。",
+      "pinyin": ["ān", "dé", "zhì", "lǎo", "bù", "gèng", "guī"],
+      "translation": "怎样才能到老都待在这里，不再回到尘世中去。",
+      "noteIds": []
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-luoque",
+      "word": "荦确",
+      "pinyin": "luò què",
+      "meaning": "山石险峻不平的样子。"
+    },
+    {
+      "id": "n-zhike",
+      "word": "栀子",
+      "pinyin": "zhī zi",
+      "meaning": "一种常绿灌木，夏天开白色大花，很香。"
+    },
+    {
+      "id": "n-shuli",
+      "word": "疏粝",
+      "pinyin": "shū lì",
+      "meaning": "粗糙简单的饭食。"
+    },
+    {
+      "id": "n-shili",
+      "word": "松枥",
+      "pinyin": "sōng lì",
+      "meaning": "松树和枥树，枥同“栎”，一种大树。"
+    },
+    {
+      "id": "n-ji",
+      "word": "鞿",
+      "pinyin": "jī",
+      "meaning": "套在马嘴上的缰绳，比喻束缚人的规矩和俗务。"
+    }
+  ],
+  "translation": "山石嶙峋不平，山路又窄又险，黄昏时赶到寺庙，蝙蝠正飞来飞去。走进佛堂，坐在台阶上，一场新雨刚下透，芭蕉叶子大大的，栀子花开得又肥又亮。僧人说古壁上的佛像画画得真好，点起火把来照，能看见的已经不多。和尚铺好床、拂净席子，摆上简单的饭菜，粗茶淡饭也足够填饱我的肚子。夜深了，静静躺下，各种虫鸣都停了，一轮清亮的月亮翻出山岭，月光照进窗户。天亮时独自出发，看不清哪是道路，在高低起伏的山雾里，走遍了没走过的路。山上红花、涧边绿草，一片绚烂，一路上常看见合抱粗的松树和枥树。遇到溪流，就光着脚踩在涧中的石头上，水声哗哗作响，山风吹动衣裳。人生能这样自在，本来就有无穷的乐趣，何必受拘束，被人像马一样套上缰绳呢？唉，我的几位志同道合的朋友啊，怎样才能到老都待在这里，不再回到尘世中去。",
+  "appreciation": "这首诗像一篇清爽的游记：黄昏进寺、静夜听虫、清月照窗，再写清晨赤脚踩涧石、风吹衣的痛快。诗人用白描的本事，把一天一夜的山寺生活写得又实在又有趣。结尾忽然感慨：这样自由的日子才叫快乐，何必被官场像马一样拴住？山水的自在与俗务的束缚一对比，韩愈的真性情全露了出来。",
+  "background": "韩愈早年仕途不顺，长期在地方幕府里做小官，心情郁郁。贞元十七年，他游览洛阳附近的惠林寺，在寺中住了一夜。第二天清晨独自下山，一路看花踩水，越走越痛快，回家后写下这首诗，抒发对自由生活的向往。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "黄昏抵寺",
+      "text": "黄昏走过险窄的山路，赶到寺里，蝙蝠正满天飞。"
+    },
+    {
+      "step": 2,
+      "title": "雨后清景",
+      "text": "新雨下透，芭蕉叶子又大又绿，栀子花开得肥美。"
+    },
+    {
+      "step": 3,
+      "title": "静夜听月",
+      "text": "夜里虫声停息，一轮清月翻过山岭，照进窗户。"
+    },
+    {
+      "step": 4,
+      "title": "赤足下山",
+      "text": "清晨独自行走山雾中，赤足踩着涧石，风吹衣裳。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "荦确",
+      "reading": "luò què",
+      "reason": "“荦确”形容山石嶙峋不平，“荦”读 luò。",
+      "standard": "不要读成 láo"
+    },
+    {
+      "char": "粝",
+      "reading": "lì",
+      "reason": "“疏粝”指粗糙的饭食，“粝”读 lì。",
+      "standard": "不要读成 làn"
+    },
+    {
+      "char": "鞿",
+      "reading": "jī",
+      "reason": "“鞿”指马缰绳，比喻束缚，读 jī。",
+      "standard": "生僻字，不要读成 jǐng"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1223
+}

@@ -1,0 +1,230 @@
+{
+  "id": "tang-zhongtang-sikongshu-yunyangguanyuhanhensubie",
+  "slug": "yunyangguanyuhanhensubie",
+  "title": "云阳馆与韩绅宿别",
+  "titlePinyin": "yún yáng guǎn yǔ hán shēn xiù bié",
+  "dynasty": "tangshi",
+  "era": "zhongtang",
+  "genre": "shi",
+  "form": "五言律诗",
+  "authorId": "sikongshu",
+  "gradeBand": "ext",
+  "tags": [
+    "友情",
+    "五言律诗",
+    "孤灯",
+    "夜雨"
+  ],
+  "difficulty": 3,
+  "writtenYear": 767,
+  "writtenLabel": "约公元 767 年（司空曙 40 多岁，与韩绅在云阳馆重逢又分别）",
+  "orderInAuthor": 1,
+  "no": 1054,
+  "famousLines": [
+    "乍见翻疑梦，相悲各问年。"
+  ],
+  "lines": [
+    {
+      "text": "故人江海别，",
+      "pinyin": [
+        "gù",
+        "rén",
+        "jiāng",
+        "hǎi",
+        "bié"
+      ],
+      "translation": "自从和老朋友在江海之畔分别，",
+      "noteIds": [
+        "n-jianghai"
+      ]
+    },
+    {
+      "text": "几度隔山川。",
+      "pinyin": [
+        "jǐ",
+        "dù",
+        "gé",
+        "shān",
+        "chuān"
+      ],
+      "translation": "山川阻隔，已经过了好几年。",
+      "noteIds": [
+        "n-jidu"
+      ]
+    },
+    {
+      "text": "乍见翻疑梦，",
+      "pinyin": [
+        "zhà",
+        "jiàn",
+        "fān",
+        "yí",
+        "mèng"
+      ],
+      "translation": "突然见面反而怀疑是在梦里，",
+      "noteIds": [
+        "n-zha",
+        "n-fan"
+      ]
+    },
+    {
+      "text": "相悲各问年。",
+      "pinyin": [
+        "xiāng",
+        "bēi",
+        "gè",
+        "wèn",
+        "nián"
+      ],
+      "translation": "互相悲叹着打听彼此的年纪。",
+      "noteIds": [
+        "n-wennian"
+      ]
+    },
+    {
+      "text": "孤灯寒照雨，",
+      "pinyin": [
+        "gū",
+        "dēng",
+        "hán",
+        "zhào",
+        "yǔ"
+      ],
+      "translation": "一盏孤灯清冷地照着窗外的夜雨，"
+    },
+    {
+      "text": "深竹暗浮烟。",
+      "pinyin": [
+        "shēn",
+        "zhú",
+        "àn",
+        "fú",
+        "yān"
+      ],
+      "translation": "深竹林里浮动着昏暗的烟霭。"
+    },
+    {
+      "text": "更有明朝恨，",
+      "pinyin": [
+        "gèng",
+        "yǒu",
+        "míng",
+        "zhāo",
+        "hèn"
+      ],
+      "translation": "想到明天早晨又要分别，",
+      "noteIds": [
+        "n-mingzhao"
+      ]
+    },
+    {
+      "text": "离杯惜共传。",
+      "pinyin": [
+        "lí",
+        "bēi",
+        "xī",
+        "gòng",
+        "chuán"
+      ],
+      "translation": "今晚这杯离别的酒，要好好传杯共饮、慢慢珍惜。",
+      "noteIds": [
+        "n-gongchuan"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-jianghai",
+      "word": "江海",
+      "pinyin": "jiāng hǎi",
+      "meaning": "泛指远方江湖，形容别后相隔遥远。"
+    },
+    {
+      "id": "n-jidu",
+      "word": "几度",
+      "pinyin": "jǐ dù",
+      "meaning": "多少次，指分别的时间已经很久。"
+    },
+    {
+      "id": "n-zha",
+      "word": "乍",
+      "pinyin": "zhà",
+      "meaning": "突然。"
+    },
+    {
+      "id": "n-fan",
+      "word": "翻",
+      "pinyin": "fān",
+      "meaning": "反而。"
+    },
+    {
+      "id": "n-wennian",
+      "word": "问年",
+      "pinyin": "wèn nián",
+      "meaning": "互问年纪，感叹别后岁月流逝。"
+    },
+    {
+      "id": "n-mingzhao",
+      "word": "明朝",
+      "pinyin": "míng zhāo",
+      "meaning": "明天早晨。"
+    },
+    {
+      "id": "n-gongchuan",
+      "word": "共传",
+      "pinyin": "gòng chuán",
+      "meaning": "一起举杯，把酒传着喝。"
+    }
+  ],
+  "translation": "自从和老朋友在江海之畔分别，山川阻隔，已经过了好几年。突然见面反而怀疑是在梦里，互相悲叹着打听彼此的年纪。一盏孤灯清冷地照着窗外的夜雨，深竹林里浮动着昏暗的烟霭。想到明天早晨又要分别，今晚这杯离别的酒，要好好传杯共饮、慢慢珍惜。",
+  "appreciation": "多年不见的老友突然出现在眼前，诗人反而怀疑自己在做梦，一句“乍见翻疑梦”把重逢的惊喜写活了。互相悲叹着打听年纪，才知分别了多少年。孤灯照着寒雨，深竹里浮动着烟霭，夜越安静，心里的话越多。想到明天又要分别，今晚传杯共饮，每一杯都舍不得喝快。久别乍逢、相逢又别的滋味，全在这首诗里。",
+  "background": "云阳在今陕西泾阳一带。大历年间，司空曙与友人韩绅多年阔别后在云阳客馆重逢，同宿一夜，第二天又要各自上路。久别乍逢、相逢又别的复杂心情，让他写下了这首诗。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "江海久别",
+      "text": "老朋友当年在江海之畔分别，山川阻隔，一别好多年。"
+    },
+    {
+      "step": 2,
+      "title": "乍见疑梦",
+      "text": "突然见面反而像做梦，互相悲叹着打听对方的年纪。"
+    },
+    {
+      "step": 3,
+      "title": "孤灯夜雨",
+      "text": "客馆里孤灯照着寒雨，深竹林里浮动着昏暗的烟。"
+    },
+    {
+      "step": 4,
+      "title": "传杯惜别",
+      "text": "想到明早又要分别，今晚传杯共饮，格外珍惜。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "乍",
+      "reading": "zhà",
+      "reason": "“乍见”是突然相见，读 zhà。",
+      "standard": "不要读成 zuò"
+    },
+    {
+      "char": "朝",
+      "reading": "zhāo",
+      "reason": "“明朝”指明天早晨，读 zhāo。",
+      "standard": "不要读成 cháo"
+    },
+    {
+      "char": "传",
+      "reading": "chuán",
+      "reason": "“共传”是把酒传着喝，读 chuán。",
+      "standard": "不要读成 zhuàn"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26"
+}

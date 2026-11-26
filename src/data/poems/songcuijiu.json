@@ -1,0 +1,147 @@
+{
+  "id": "tang-shengtang-peidi-songcuijiu",
+  "slug": "songcuijiu",
+  "title": "送崔九",
+  "titlePinyin": "sòng cuī jiǔ",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "五言绝句",
+  "authorId": "peidi",
+  "gradeBand": "ext",
+  "tags": [
+    "送别",
+    "五言绝句",
+    "桃源",
+    "丘壑"
+  ],
+  "difficulty": 3,
+  "writtenYear": 757,
+  "writtenLabel": "约公元 757 年（裴迪 41 岁，安史之乱中，友人崔九将归山隐居，作诗相送）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "莫学武陵人，暂游桃源里。"
+  ],
+  "lines": [
+    {
+      "text": "归山深浅去，",
+      "pinyin": [
+        "guī",
+        "shān",
+        "shēn",
+        "qiǎn",
+        "qù"
+      ],
+      "translation": "你回山里去，无论住得深还是浅，",
+      "noteIds": []
+    },
+    {
+      "text": "须尽丘壑美。",
+      "pinyin": [
+        "xū",
+        "jìn",
+        "qiū",
+        "hè",
+        "měi"
+      ],
+      "translation": "都要把山山水水的美好看个够。",
+      "noteIds": [
+        "n-qiuhe"
+      ]
+    },
+    {
+      "text": "莫学武陵人，",
+      "pinyin": [
+        "mò",
+        "xué",
+        "wǔ",
+        "líng",
+        "rén"
+      ],
+      "translation": "不要学武陵的那个渔人，",
+      "noteIds": [
+        "n-wulingren"
+      ]
+    },
+    {
+      "text": "暂游桃源里。",
+      "pinyin": [
+        "zàn",
+        "yóu",
+        "táo",
+        "yuán",
+        "lǐ"
+      ],
+      "translation": "只在桃花源里匆匆游了一趟就出来了。",
+      "noteIds": [
+        "n-taoyuan"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-qiuhe",
+      "word": "丘壑",
+      "pinyin": "qiū hè",
+      "meaning": "山丘和沟谷，泛指山水风景。"
+    },
+    {
+      "id": "n-wulingren",
+      "word": "武陵人",
+      "pinyin": "wǔ líng rén",
+      "meaning": "陶渊明《桃花源记》里那位偶然闯进桃源、很快又离开的武陵渔人。"
+    },
+    {
+      "id": "n-taoyuan",
+      "word": "桃源",
+      "pinyin": "táo yuán",
+      "meaning": "桃花源，传说中与世隔绝的美好地方。"
+    }
+  ],
+  "translation": "你回山里去，无论住得深还是浅，都要把山山水水的美好看个够。不要学武陵的那个渔人，只在桃花源里匆匆游了一趟就出来了。",
+  "appreciation": "这是一首送别诗，却不写离愁，倒像一位老朋友在叮嘱：回山可以，要住踏实，把丘壑之美尽收眼底，别像武陵渔人那样浅尝辄止。“莫学”“暂游”连着两个提醒，既是劝朋友安心归隐，也是诗人自己的心声——乱世之中，山水才是安放身心的地方。说话家常一样，情意却深。",
+  "background": "安史之乱期间，友人崔九要回山里隐居，裴迪写诗相送。诗人借《桃花源记》的故事叮嘱朋友：既然归山，就要真正投入山水，别学那个进出桃花源只匆匆一游的武陵人。诗里也藏着他对时局的无奈和对山林宁静的向往。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "友人归山",
+      "text": "崔九收拾行装，要回山里隐居。"
+    },
+    {
+      "step": 2,
+      "title": "深浅尽兴",
+      "text": "诗人叮嘱：住深住浅都要把丘壑之美看个够。"
+    },
+    {
+      "step": 3,
+      "title": "借桃源话",
+      "text": "他提起武陵渔人闯进桃花源又匆匆离开的故事。"
+    },
+    {
+      "step": 4,
+      "title": "叮咛莫学",
+      "text": "千万别学那位渔人，只把山水当短暂去处。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "壑",
+      "reading": "hè",
+      "reason": "“丘壑”指山丘与沟谷，“壑”读 hè。",
+      "standard": "生僻字，不要读成 hǎo"
+    },
+    {
+      "char": "暂",
+      "reading": "zàn",
+      "reason": "“暂游”是短暂停留的意思，读 zàn。",
+      "standard": "不要读成 zhàn"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1007
+}

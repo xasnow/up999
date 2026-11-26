@@ -1,0 +1,124 @@
+{
+  "id": "tang-wantang-zhuqingyu-jinshishangzhangshuibu",
+  "slug": "jinshishangzhangshuibu",
+  "title": "近试上张水部",
+  "titlePinyin": "jìn shì shàng zhāng shuǐ bù",
+  "dynasty": "tangshi",
+  "era": "wantang",
+  "genre": "shi",
+  "form": "七言绝句",
+  "authorId": "zhuqingyu",
+  "gradeBand": "ext",
+  "tags": ["应试", "七言绝句", "红烛", "画眉"],
+  "difficulty": 3,
+  "writtenYear": 826,
+  "writtenLabel": "约公元 826 年（朱庆馀 30 岁，进京应进士科考试前，以此诗行卷求张籍指点）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "妆罢低声问夫婿，画眉深浅入时无。"
+  ],
+  "lines": [
+    {
+      "text": "洞房昨夜停红烛，",
+      "pinyin": ["dòng", "fáng", "zuó", "yè", "tíng", "hóng", "zhú"],
+      "translation": "新婚的屋子里，昨夜点着一对红烛。",
+      "noteIds": ["n-dongfang", "n-ting"]
+    },
+    {
+      "text": "待晓堂前拜舅姑。",
+      "pinyin": ["dài", "xiǎo", "táng", "qián", "bài", "jiù", "gū"],
+      "translation": "新娘等到天亮，就要到堂前拜见公婆。",
+      "noteIds": ["n-jiugu"]
+    },
+    {
+      "text": "妆罢低声问夫婿，",
+      "pinyin": ["zhuāng", "bà", "dī", "shēng", "wèn", "fū", "xù"],
+      "translation": "梳妆完毕，她轻轻问身旁的丈夫：",
+      "noteIds": []
+    },
+    {
+      "text": "画眉深浅入时无。",
+      "pinyin": ["huà", "méi", "shēn", "qiǎn", "rù", "shí", "wú"],
+      "translation": "我眉毛画的浓淡，时髦不时髦？",
+      "noteIds": ["n-rushi", "n-wu"]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-dongfang",
+      "word": "洞房",
+      "pinyin": "dòng fáng",
+      "meaning": "新婚的房间。"
+    },
+    {
+      "id": "n-ting",
+      "word": "停",
+      "pinyin": "tíng",
+      "meaning": "安放，这里指红烛彻夜点着。"
+    },
+    {
+      "id": "n-jiugu",
+      "word": "舅姑",
+      "pinyin": "jiù gū",
+      "meaning": "公公和婆婆，即丈夫的父母。"
+    },
+    {
+      "id": "n-rushi",
+      "word": "入时",
+      "pinyin": "rù shí",
+      "meaning": "合乎当时的式样，时髦。"
+    },
+    {
+      "id": "n-wu",
+      "word": "无",
+      "pinyin": "wú",
+      "meaning": "句末疑问语气词，相当于“吗”。"
+    }
+  ],
+  "translation": "新婚的屋子里，昨夜点着一对红烛。新娘等到天亮，就要到堂前拜见公婆。梳妆完毕，她轻轻问身旁的丈夫：我眉毛画的浓淡，时髦不时髦？",
+  "appreciation": "诗人假装在写新娘：拜见公婆前，先低声问丈夫自己的妆容合不合时宜。其实他是把自己比作新娘，把考官比作公婆，把张籍比作丈夫，问的是“我的文章合不合考官的心意”。全诗没有一句直说，却句句在问考运，比喻巧妙自然，历来被当作行卷诗的典范。",
+  "background": "唐代考进士的人，常把诗文送给有名望的大官请求推荐，叫“行卷”。朱庆馀考前把自己的诗献给水部员外郎张籍，却不知能不能考中，于是写下这首诗试探。张籍读后夸他“一曲菱歌敌万金”，这一年朱庆馀果然考中了进士。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "红烛洞房",
+      "text": "新婚之夜的红烛，在屋里亮了一整夜。"
+    },
+    {
+      "step": 2,
+      "title": "晓拜公婆",
+      "text": "天快亮了，新娘就要去堂前拜见公婆。"
+    },
+    {
+      "step": 3,
+      "title": "妆成低问",
+      "text": "她梳妆完毕，压低声音问身边的丈夫。"
+    },
+    {
+      "step": 4,
+      "title": "画眉入时",
+      "text": "眉毛画得浓淡正好吗？合不合今天的样子？"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "停",
+      "reading": "tíng",
+      "reason": "这里是“安放”的意思，“停红烛”即点上安放红烛，读 tíng。"
+    },
+    {
+      "char": "舅姑",
+      "reading": "jiù gū",
+      "reason": "指公婆，即丈夫的父母。"
+    },
+    {
+      "char": "无",
+      "reading": "wú",
+      "reason": "句末的疑问语气词，相当于“吗”，读 wú。"
+    }
+  ],
+  "sources": ["《全唐诗》", "《唐诗三百首》"],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1016
+}

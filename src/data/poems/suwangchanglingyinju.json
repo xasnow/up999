@@ -1,0 +1,158 @@
+{
+  "id": "tang-shengtang-changjian-suwangchanglingyinju",
+  "slug": "suwangchanglingyinju",
+  "title": "宿王昌龄隐居",
+  "titlePinyin": "sù wáng chāng líng yǐn jū",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "五言古诗",
+  "authorId": "changjian",
+  "gradeBand": "ext",
+  "difficulty": 3,
+  "tags": ["友情", "五言古诗", "孤云", "松月"],
+  "writtenYear": 734,
+  "writtenLabel": "约公元 734 年（常建 27 岁，夜宿王昌龄旧日隐居处）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "松际露微月，清光犹为君。"
+  ],
+  "lines": [
+    {
+      "text": "清溪深不测，",
+      "pinyin": ["qīng", "xī", "shēn", "bú", "cè"],
+      "translation": "清溪深得望不到底，",
+      "noteIds": []
+    },
+    {
+      "text": "隐处唯孤云。",
+      "pinyin": ["yǐn", "chù", "wéi", "gū", "yún"],
+      "translation": "隐居的地方只见一朵孤云。",
+      "noteIds": ["n-yinchu"]
+    },
+    {
+      "text": "松际露微月，",
+      "pinyin": ["sōng", "jì", "lù", "wēi", "yuè"],
+      "translation": "松树间露出细细的月牙，",
+      "noteIds": []
+    },
+    {
+      "text": "清光犹为君。",
+      "pinyin": ["qīng", "guāng", "yóu", "wèi", "jūn"],
+      "translation": "清亮的光还在照着你。",
+      "noteIds": ["n-weiwei"]
+    },
+    {
+      "text": "茅亭宿花影，",
+      "pinyin": ["máo", "tíng", "sù", "huā", "yǐng"],
+      "translation": "茅亭边花影安睡，",
+      "noteIds": ["n-maoting"]
+    },
+    {
+      "text": "药院滋苔纹。",
+      "pinyin": ["yào", "yuàn", "zī", "tái", "wén"],
+      "translation": "药院里青苔的纹路悄悄生长。",
+      "noteIds": ["n-yaoyuan"]
+    },
+    {
+      "text": "余亦谢时去，",
+      "pinyin": ["yú", "yì", "xiè", "shí", "qù"],
+      "translation": "我也要辞别尘世而去，",
+      "noteIds": ["n-xieshi"]
+    },
+    {
+      "text": "西山鸾鹤群。",
+      "pinyin": ["xī", "shān", "luán", "hè", "qún"],
+      "translation": "到西山与鸾鸟仙鹤结伴。",
+      "noteIds": ["n-luanhe"]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-yinchu",
+      "word": "隐处",
+      "pinyin": "yǐn chù",
+      "meaning": "隐居的地方，指王昌龄未出仕时隐居的清溪山间。"
+    },
+    {
+      "id": "n-weiwei",
+      "word": "犹为君",
+      "pinyin": "yóu wèi jūn",
+      "meaning": "还在照着你。为，这里指月光映照；君，指王昌龄。"
+    },
+    {
+      "id": "n-maoting",
+      "word": "茅亭宿花影",
+      "pinyin": "máo tíng sù huā yǐng",
+      "meaning": "茅亭旁的花影像安歇睡去一样，静静不动。"
+    },
+    {
+      "id": "n-yaoyuan",
+      "word": "药院滋苔纹",
+      "pinyin": "yào yuàn zī tái wén",
+      "meaning": "种药的院子里长满青苔。滋，生长。"
+    },
+    {
+      "id": "n-xieshi",
+      "word": "谢时",
+      "pinyin": "xiè shí",
+      "meaning": "辞别时世，指归隐不再做官。"
+    },
+    {
+      "id": "n-luanhe",
+      "word": "鸾鹤群",
+      "pinyin": "luán hè qún",
+      "meaning": "与鸾、鹤为伍，指隐居求仙。鸾是传说中凤凰一类的神鸟。"
+    }
+  ],
+  "translation": "清溪深得望不到底，隐居的地方只见一朵孤云。松树间露出细细的月牙，清亮的光还在照着你。茅亭边花影安睡，药院里青苔的纹路悄悄生长。我也要辞别尘世而去，到西山与鸾鸟仙鹤结伴。",
+  "appreciation": "诗人夜宿好友旧日的隐居处，替不在的主人看管着一片清幽：溪深、云孤、松月、花影、苔纹，样样安静，也样样留着主人的影子。“清光犹为君”最深情——月色好像特意等着照你，写出对友人高洁品格的敬慕。结尾说自己也要谢时归隐，向往之情与惜友之情融成一片。",
+  "background": "王昌龄早年未得官职时，曾在清溪山中隐居。常建与王昌龄是同榜进士、多年好友。相传常建游历途中夜宿王昌龄当年的隐居之地，见景物依旧、友人不在，既羡慕这份清幽，又思念故人，写下这首诗。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "溪深云孤",
+      "text": "清溪深不见底，隐居的山中只飘着一朵孤云。"
+    },
+    {
+      "step": 2,
+      "title": "松间微月",
+      "text": "松树梢头露出细细的月亮，清光照着旧日的主人。"
+    },
+    {
+      "step": 3,
+      "title": "亭静苔生",
+      "text": "茅亭边花影安睡，药圃里悄悄长出了青苔。"
+    },
+    {
+      "step": 4,
+      "title": "谢时归隐",
+      "text": "诗人看了也动心，愿辞别尘世，去西山同鸾鹤做伴隐居。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "为",
+      "reading": "wèi",
+      "reason": "“清光犹为君”的“为”是“照向、给予”的意思，读 wèi。"
+      ,
+      "standard": "不要读成 wéi"
+    },
+    {
+      "char": "宿花影",
+      "reading": "sù",
+      "reason": "宿指花影像安歇睡去一样静静不动，读 sù。"
+      ,
+      "standard": "不要读成 xiǔ"
+    },
+    {
+      "char": "鸾鹤",
+      "reading": "luán hè",
+      "reason": "鸾是传说中凤凰一类的神鸟，鸾鹤指隐士的仙伴。"
+    }
+  ],
+  "sources": ["《全唐诗》", "《唐诗三百首》"],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1194
+}

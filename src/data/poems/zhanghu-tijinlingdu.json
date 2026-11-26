@@ -1,0 +1,161 @@
+{
+  "id": "tang-zhongtang-zhanghu-tijinlingdu",
+  "slug": "zhanghu-tijinlingdu",
+  "title": "题金陵渡",
+  "titlePinyin": "tí jīn líng dù",
+  "dynasty": "tangshi",
+  "era": "zhongtang",
+  "genre": "shi",
+  "form": "七言绝句",
+  "authorId": "zhanghu",
+  "gradeBand": "ext",
+  "tags": [
+    "思乡",
+    "七言绝句",
+    "斜月",
+    "星火"
+  ],
+  "difficulty": 3,
+  "writtenYear": 832,
+  "writtenLabel": "约公元 832 年（张祜 47 岁，漫游江南，夜宿镇江金陵渡口的小楼上而作）",
+  "orderInAuthor": 5,
+  "famousLines": [
+    "潮落夜江斜月里，两三星火是瓜州。"
+  ],
+  "lines": [
+    {
+      "text": "金陵津渡小山楼，",
+      "pinyin": [
+        "jīn",
+        "líng",
+        "jīn",
+        "dù",
+        "xiǎo",
+        "shān",
+        "lóu"
+      ],
+      "translation": "夜晚，我住在金陵渡口小山上的一座小楼里，",
+      "noteIds": [
+        "n-jindu"
+      ]
+    },
+    {
+      "text": "一宿行人自可愁。",
+      "pinyin": [
+        "yì",
+        "xiǔ",
+        "xíng",
+        "rén",
+        "zì",
+        "kě",
+        "chóu"
+      ],
+      "translation": "一个人过夜，出门在外的愁绪不由自主地涌上心头。",
+      "noteIds": [
+        "n-xingren"
+      ]
+    },
+    {
+      "text": "潮落夜江斜月里，",
+      "pinyin": [
+        "cháo",
+        "luò",
+        "yè",
+        "jiāng",
+        "xié",
+        "yuè",
+        "lǐ"
+      ],
+      "translation": "潮水退落，斜斜的月亮照着沉沉的夜江，",
+      "noteIds": []
+    },
+    {
+      "text": "两三星火是瓜州。",
+      "pinyin": [
+        "liǎng",
+        "sān",
+        "xīng",
+        "huǒ",
+        "shì",
+        "guā",
+        "zhōu"
+      ],
+      "translation": "远处两三点闪烁的灯火，就是对岸的瓜州。",
+      "noteIds": [
+        "n-xinghuo",
+        "n-guazhou"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-jindu",
+      "word": "金陵渡",
+      "pinyin": "jīn líng dù",
+      "meaning": "指润州（今江苏镇江）西边的渡口，就是今天的西津渡。"
+    },
+    {
+      "id": "n-xingren",
+      "word": "行人",
+      "pinyin": "xíng rén",
+      "meaning": "出门旅行的人，这里是诗人说自己。"
+    },
+    {
+      "id": "n-xinghuo",
+      "word": "星火",
+      "pinyin": "xīng huǒ",
+      "meaning": "像星星一样闪烁的点点灯火。"
+    },
+    {
+      "id": "n-guazhou",
+      "word": "瓜州",
+      "pinyin": "guā zhōu",
+      "meaning": "长江北岸的渡口小镇，在今江苏扬州一带，与金陵渡隔江相望，一作“瓜洲”。"
+    }
+  ],
+  "translation": "夜晚，我住在金陵渡口小山上的一座小楼里，一个人过夜，出门在外的愁绪不由自主地涌上心头。潮水退落，斜斜的月亮照着沉沉的夜江，远处两三点闪烁的灯火，就是对岸的瓜州。",
+  "appreciation": "这首诗像一张安静的江上夜景图。小楼、行人写的是“我”，潮水、斜月写的是“夜”；前半首低声发愁，后半首忽然一抬眼，两三点远远的灯火一亮，“是瓜州”三个字像轻轻说出的一句答案。愁意没有说完就收住，江夜的清冷却已铺满纸面，让人读着读着也安静下来。",
+  "background": "张祜长年漫游江南。有一次夜宿镇江的金陵渡口，一个人住在小山楼上。夜里潮水退去，斜月低照，他望着对岸零星的灯火，写下这首《题金陵渡》，把旅人的清愁融进了江上的月色里。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "夜宿渡口",
+      "text": "诗人住在金陵渡口小山上的一座小楼里。"
+    },
+    {
+      "step": 2,
+      "title": "客愁暗生",
+      "text": "一个人过夜，离家的愁绪悄悄涌上心头。"
+    },
+    {
+      "step": 3,
+      "title": "潮落月斜",
+      "text": "夜里潮水退落，斜斜的月亮照着江面。"
+    },
+    {
+      "step": 4,
+      "title": "遥见瓜州",
+      "text": "远处两三点灯火闪烁，那就是对岸的瓜州。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "宿",
+      "reading": "xiǔ",
+      "reason": "“一宿”是住一夜的意思，读 xiǔ。",
+      "standard": "不要读成 sù"
+    },
+    {
+      "char": "一",
+      "reading": "yì",
+      "reason": "“一宿”中“一”变调读 yì，本字读 yī。"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1033
+}

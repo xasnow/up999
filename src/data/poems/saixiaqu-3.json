@@ -1,0 +1,119 @@
+{
+  "id": "tang-zhongtang-lulun-saixiaqu-3",
+  "slug": "saixiaqu-3",
+  "title": "塞下曲·野幕敞琼筵",
+  "titlePinyin": "sài xià qǔ · yě mù chǎng qióng yán",
+  "dynasty": "tangshi",
+  "era": "zhongtang",
+  "genre": "shi",
+  "form": "五言乐府",
+  "authorId": "lulun",
+  "gradeBand": "ext",
+  "tags": ["边塞", "五言乐府", "鼓声", "山川"],
+  "difficulty": 3,
+  "writtenYear": 790,
+  "writtenLabel": "约公元 790 年（卢纶 51 岁，《塞下曲》组诗第三首，写将士凯旋庆功）",
+  "orderInAuthor": 4,
+  "famousLines": [
+    "醉和金甲舞，雷鼓动山川。"
+  ],
+  "lines": [
+    {
+      "text": "野幕敞琼筵，",
+      "pinyin": ["yě", "mù", "chǎng", "qióng", "yán"],
+      "translation": "野外的营帐里摆开了精美的筵席，",
+      "noteIds": ["n-yemu", "n-qiongyan"]
+    },
+    {
+      "text": "羌戎贺劳旋。",
+      "pinyin": ["qiāng", "róng", "hè", "láo", "xuán"],
+      "translation": "边疆各族的人都来庆贺、慰劳凯旋的将士。",
+      "noteIds": ["n-qiangrong", "n-helaoxuan"]
+    },
+    {
+      "text": "醉和金甲舞，",
+      "pinyin": ["zuì", "hé", "jīn", "jiǎ", "wǔ"],
+      "translation": "将士们喝得高兴，披着铁甲跳起舞来，",
+      "noteIds": []
+    },
+    {
+      "text": "雷鼓动山川。",
+      "pinyin": ["léi", "gǔ", "dòng", "shān", "chuān"],
+      "translation": "擂鼓的声音像雷一样，震动了山川。",
+      "noteIds": ["n-leigu"]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-yemu",
+      "word": "野幕",
+      "pinyin": "yě mù",
+      "meaning": "野外的营帐。"
+    },
+    {
+      "id": "n-qiongyan",
+      "word": "琼筵",
+      "pinyin": "qióng yán",
+      "meaning": "精美的筵席。琼是美玉，形容宴席珍贵。"
+    },
+    {
+      "id": "n-qiangrong",
+      "word": "羌戎",
+      "pinyin": "qiāng róng",
+      "meaning": "泛指西北边疆的少数民族部族。"
+    },
+    {
+      "id": "n-helaoxuan",
+      "word": "贺劳旋",
+      "pinyin": "hè láo xuán",
+      "meaning": "庆贺并慰劳打了胜仗回来的将士。旋：凯旋。"
+    },
+    {
+      "id": "n-leigu",
+      "word": "雷鼓",
+      "pinyin": "léi gǔ",
+      "meaning": "像打雷一样用力擂鼓。"
+    }
+  ],
+  "translation": "野外的营帐里摆开了精美的筵席，边疆各族的人都来庆贺、慰劳凯旋的将士。将士们喝得高兴，披着铁甲跳起舞来，擂鼓的声音像雷一样，震动了山川。",
+  "appreciation": "前两首写备箭、射虎，这一首写打完胜仗后的庆功会。最妙的是“醉和金甲舞”——酒喝醉了，铠甲都不脱，披着甲就跳起舞来，又豪放又可爱。鼓声敲得像打雷，连山川都跟着震动。短短二十个字，有筵席、有舞蹈、有鼓声，热闹得让人好像能看见画面、听到声音。",
+  "background": "卢纶所在的军营打了胜仗归来，晚上在野外设宴庆功，边疆各族首领也来道贺。他看到将士们披着铠甲喝酒跳舞、鼓声震天的场面，写下这首诗作为《塞下曲》组诗的第三首。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "野外设宴",
+      "text": "打了胜仗归来，野外的营帐里摆开了丰盛的筵席。"
+    },
+    {
+      "step": 2,
+      "title": "各族来贺",
+      "text": "边疆各族的首领纷纷前来，庆贺慰劳凯旋的将士。"
+    },
+    {
+      "step": 3,
+      "title": "披甲起舞",
+      "text": "将士们喝得高兴，披着铁甲就跳起了豪放的舞蹈。"
+    },
+    {
+      "step": 4,
+      "title": "鼓动山川",
+      "text": "擂鼓声像打雷一样响，连远处的山川都跟着震动起来。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "敞",
+      "reading": "chǎng",
+      "reason": "“敞”是摆开、敞开的意思，读 chǎng。"
+    },
+    {
+      "char": "羌",
+      "reading": "qiāng",
+      "reason": "羌是古代西北的民族名，读 qiāng。"
+    }
+  ],
+  "sources": ["《全唐诗》", "《唐诗三百首》"],
+  "no": 1262,
+  "status": "published",
+  "updatedAt": "2026-11-26"
+}

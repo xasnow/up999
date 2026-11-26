@@ -1,0 +1,94 @@
+{
+  "id": "tang-shengtang-gaoshi-songlishaofu",
+  "slug": "songlishaofu",
+  "title": "送李少府贬峡中王少府贬长沙",
+  "titlePinyin": "sòng lǐ shào fǔ biǎn xiá zhōng wáng shào fǔ biǎn cháng shā",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "七言律诗",
+  "authorId": "gaoshi",
+  "gradeBand": "ext",
+  "tags": ["送别", "七言律诗", "归雁", "秋帆"],
+  "difficulty": 3,
+  "writtenYear": 758,
+  "writtenLabel": "约公元 758 年（高适 54 岁，友人李少府、王少府同被贬往峡中和长沙，作诗送别）",
+  "orderInAuthor": 1,
+  "famousLines": ["巫峡啼猿数行泪，衡阳归雁几封书。"],
+  "lines": [
+    {
+      "text": "嗟君此别意何如，",
+      "pinyin": ["jiē", "jūn", "cǐ", "bié", "yì", "hé", "rú"],
+      "translation": "感叹你们这次分别，心情会怎样呢？",
+      "noteIds": ["n-jie"]
+    },
+    {
+      "text": "驻马衔杯问谪居。",
+      "pinyin": ["zhù", "mǎ", "xián", "bēi", "wèn", "zhé", "jū"],
+      "translation": "我勒住马、举着酒杯，问一问你们将去的贬所。",
+      "noteIds": ["n-xianbei", "n-zheju"]
+    },
+    {
+      "text": "巫峡啼猿数行泪，",
+      "pinyin": ["wū", "xiá", "tí", "yuán", "shù", "háng", "lèi"],
+      "translation": "你去巫峡，听到猿声会落下几行眼泪；",
+      "noteIds": []
+    },
+    {
+      "text": "衡阳归雁几封书。",
+      "pinyin": ["héng", "yáng", "guī", "yàn", "jǐ", "fēng", "shū"],
+      "translation": "你到衡阳，北归的大雁会捎来几封书信。",
+      "noteIds": ["n-hengyang"]
+    },
+    {
+      "text": "青枫江上秋帆远，",
+      "pinyin": ["qīng", "fēng", "jiāng", "shàng", "qiū", "fān", "yuǎn"],
+      "translation": "青枫江上，秋天的船帆越行越远，",
+      "noteIds": ["n-qingfengjiang"]
+    },
+    {
+      "text": "白帝城边古木疏。",
+      "pinyin": ["bái", "dì", "chéng", "biān", "gǔ", "mù", "shū"],
+      "translation": "白帝城边，古老的树木渐渐稀疏。",
+      "noteIds": ["n-baidicheng"]
+    },
+    {
+      "text": "圣代即今多雨露，",
+      "pinyin": ["shèng", "dài", "jí", "jīn", "duō", "yǔ", "lù"],
+      "translation": "如今圣明的朝代恩泽像雨露一样多，",
+      "noteIds": []
+    },
+    {
+      "text": "暂时分手莫踌躇。",
+      "pinyin": ["zàn", "shí", "fēn", "shǒu", "mò", "chóu", "chú"],
+      "translation": "这只是暂时的分别，不必犹豫伤感。",
+      "noteIds": []
+    }
+  ],
+  "notes": [
+    { "id": "n-jie", "word": "嗟", "pinyin": "jiē", "meaning": "叹息。" },
+    { "id": "n-xianbei", "word": "衔杯", "pinyin": "xián bēi", "meaning": "口含酒杯，指饮酒饯别。" },
+    { "id": "n-zheju", "word": "谪居", "pinyin": "zhé jū", "meaning": "被贬官后居住的地方。" },
+    { "id": "n-hengyang", "word": "衡阳归雁", "pinyin": "héng yáng guī yàn", "meaning": "传说大雁南飞到衡阳回雁峰就不再往南，借指王少府的贬所长沙。" },
+    { "id": "n-qingfengjiang", "word": "青枫江", "pinyin": "qīng fēng jiāng", "meaning": "长沙附近湘水的支流，借指王少府所去之地。" },
+    { "id": "n-baidicheng", "word": "白帝城", "pinyin": "bái dì chéng", "meaning": "在今重庆奉节，靠近巫峡，借指李少府所去的峡中。" }
+  ],
+  "translation": "感叹你们这次分别，心情会怎样呢？我勒住马、举着酒杯，问一问你们将去的贬所。你去巫峡，听到猿声会落下几行眼泪；你到衡阳，北归的大雁会捎来几封书信。青枫江上，秋天的船帆越行越远；白帝城边，古老的树木渐渐稀疏。如今圣明朝代的恩泽像雨露一样多，这只是暂时的分别，不必犹豫伤感。",
+  "appreciation": "两位朋友同时被贬，诗人驻马举杯，把牵挂都放进一句问话里。中间四句一人一处：巫峡的猿声让人落泪，衡阳的大雁还能捎信；青枫江的秋帆越走越远，白帝城边古树稀疏。愁景写足之后，结尾忽然一转：圣明朝代恩泽多，分手只是暂时的，不必踌躇。忧愁里带着宽慰和鼓励，正适合送给远行的朋友。",
+  "background": "公元 758 年前后，高适的两位朋友李少府、王少府同时被贬，一个去峡中，一个去长沙。送别时他写下这首诗，把两人的去处分别写进诗里，又真心劝他们不必太难过。",
+  "storyline": [
+    { "step": 1, "title": "驻马问别", "text": "诗人勒马举杯，叹问两位被贬的朋友。" },
+    { "step": 2, "title": "峡中闻猿", "text": "李少府去巫峡，猿声声声催人落泪。" },
+    { "step": 3, "title": "雁到衡阳", "text": "王少府去长沙，归雁或许能捎来书信。" },
+    { "step": 4, "title": "宽慰而别", "text": "他说朝廷恩泽正多，分手只是暂时的。" }
+  ],
+  "pinyinNotes": [
+    { "char": "衔", "reading": "xián", "reason": "“衔杯”的“衔”是含着，读 xián。" },
+    { "char": "谪", "reading": "zhé", "reason": "“谪居”指贬官后住的地方，读 zhé。" },
+    { "char": "踌躇", "reading": "chóu chú", "reason": "犹豫不决的样子，两个字都读轻快些。" }
+  ],
+  "sources": ["《全唐诗》", "《唐诗三百首》"],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1154
+}

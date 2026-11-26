@@ -1,0 +1,94 @@
+{
+  "id": "tang-shengtang-zuyong-wangjimen",
+  "slug": "wangjimen",
+  "title": "望蓟门",
+  "titlePinyin": "wàng jì mén",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "七言律诗",
+  "authorId": "zuyong",
+  "gradeBand": "ext",
+  "tags": ["边塞", "七言律诗", "烽火", "积雪"],
+  "difficulty": 3,
+  "writtenYear": 736,
+  "writtenLabel": "约公元 736 年（祖咏 37 岁，北游幽燕，登临远望蓟门军营时所作）",
+  "orderInAuthor": 1,
+  "famousLines": ["万里寒光生积雪，三边曙色动危旌。"],
+  "lines": [
+    {
+      "text": "燕台一去客心惊，",
+      "pinyin": ["yān", "tái", "yī", "qù", "kè", "xīn", "jīng"],
+      "translation": "一到燕台，我这个远来的客人心里就激动起来，",
+      "noteIds": ["n-yantai"]
+    },
+    {
+      "text": "笳鼓喧喧汉将营。",
+      "pinyin": ["jiā", "gǔ", "xuān", "xuān", "hàn", "jiāng", "yíng"],
+      "translation": "胡笳和战鼓喧闹震响，那是汉家将军的营垒。",
+      "noteIds": ["n-jia"]
+    },
+    {
+      "text": "万里寒光生积雪，",
+      "pinyin": ["wàn", "lǐ", "hán", "guāng", "shēng", "jī", "xuě"],
+      "translation": "万里大地上，积雪泛起刺眼的寒光，",
+      "noteIds": []
+    },
+    {
+      "text": "三边曙色动危旌。",
+      "pinyin": ["sān", "biān", "shǔ", "sè", "dòng", "wēi", "jīng"],
+      "translation": "边地的曙色里，高高的军旗随风翻动。",
+      "noteIds": ["n-sanbian", "n-weijing"]
+    },
+    {
+      "text": "沙场烽火连胡月，",
+      "pinyin": ["shā", "chǎng", "fēng", "huǒ", "lián", "hú", "yuè"],
+      "translation": "沙场上烽火连天，映着胡地的月亮，",
+      "noteIds": []
+    },
+    {
+      "text": "海畔云山拥蓟城。",
+      "pinyin": ["hǎi", "pàn", "yún", "shān", "yōng", "jì", "chéng"],
+      "translation": "海边的云山环抱着蓟门城。",
+      "noteIds": []
+    },
+    {
+      "text": "少小虽非投笔吏，",
+      "pinyin": ["shào", "xiǎo", "suī", "fēi", "tóu", "bǐ", "lì"],
+      "translation": "我从小虽然没学班超那样投笔从戎，",
+      "noteIds": ["n-toubi"]
+    },
+    {
+      "text": "论功还欲请长缨。",
+      "pinyin": ["lùn", "gōng", "huán", "yù", "qǐng", "cháng", "yīng"],
+      "translation": "但论起报国立功，也想像终军那样主动请缨！",
+      "noteIds": ["n-changying"]
+    }
+  ],
+  "notes": [
+    { "id": "n-yantai", "word": "燕台", "pinyin": "yān tái", "meaning": "即黄金台，战国时燕昭王筑台招揽贤才，故址在今北京一带。" },
+    { "id": "n-jia", "word": "笳", "pinyin": "jiā", "meaning": "胡笳，北方军中吹奏的乐器。" },
+    { "id": "n-sanbian", "word": "三边", "pinyin": "sān biān", "meaning": "泛指边境要地。" },
+    { "id": "n-weijing", "word": "危旌", "pinyin": "wēi jīng", "meaning": "高高扬起的军旗。" },
+    { "id": "n-toubi", "word": "投笔吏", "pinyin": "tóu bǐ lì", "meaning": "指东汉班超，扔下笔参军立功。" },
+    { "id": "n-changying", "word": "请长缨", "pinyin": "qǐng cháng yīng", "meaning": "指西汉终军请求长绳，去捆缚南越王，后指主动请求报国。" }
+  ],
+  "translation": "一到燕台，我这远来的客人心里就激动起来，胡笳和战鼓喧闹震响，那是汉家将军的营垒。万里大地上，积雪泛起刺眼的寒光；边地的曙色里，高高的军旗随风翻动。沙场上烽火连天，映着胡地的月亮；海边的云山环抱着蓟门城。我从小虽然没学班超那样投笔从戎，但论起报国立功，也想像终军那样主动请缨！",
+  "appreciation": "诗人一到蓟门，笳鼓声、寒积雪、曙色里的军旗一起涌进眼睛，让人心头一震。烽火连着胡月，云山环抱边城，边关的气势又壮又险。结尾连用两个典故：虽然不像班超那样弃文从武，也想请一条长缨去立功。全诗从“惊”字开始，到“请缨”结束，一路把少年豪气推到顶点。",
+  "background": "祖咏年轻时北游幽燕一带，来到军事重镇蓟门。眼前是连绵的军营和辽阔的边塞风光，他被这气象深深震动，写下这首诗，抒发自己想报效国家的心愿。",
+  "storyline": [
+    { "step": 1, "title": "初望心惊", "text": "来到燕台，笳鼓声中客人的心被震动了。" },
+    { "step": 2, "title": "雪光旗影", "text": "万里积雪寒光刺眼，曙色里军旗高扬。" },
+    { "step": 3, "title": "烽火连月", "text": "沙场烽火映着胡地明月，云山环抱蓟城。" },
+    { "step": 4, "title": "豪情请缨", "text": "诗人愿学终军请长缨，投身报国立功。" }
+  ],
+  "pinyinNotes": [
+    { "char": "蓟", "reading": "jì", "reason": "“蓟门”是地名，读 jì。" },
+    { "char": "燕台", "reading": "yān tái", "reason": "“燕台”是燕国的台，“燕”读 yān。", "standard": "不要读成 yàn" },
+    { "char": "笳", "reading": "jiā", "reason": "“笳鼓”的“笳”是军中乐器，读 jiā。" }
+  ],
+  "sources": ["《全唐诗》", "《唐诗三百首》"],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1152
+}

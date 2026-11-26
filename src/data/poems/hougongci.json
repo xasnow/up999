@@ -1,0 +1,161 @@
+{
+  "id": "tang-zhongtang-baijuyi-hougongci",
+  "slug": "hougongci",
+  "title": "后宫词",
+  "titlePinyin": "hòu gōng cí",
+  "dynasty": "tangshi",
+  "era": "zhongtang",
+  "genre": "shi",
+  "form": "七言绝句",
+  "authorId": "baijuyi",
+  "gradeBand": "ext",
+  "tags": [
+    "宫怨",
+    "七言绝句",
+    "夜晚"
+  ],
+  "difficulty": 3,
+  "writtenYear": 808,
+  "writtenLabel": "约公元 808 年（白居易 36 岁，在长安做官，写下这首宫词）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "红颜未老恩先断，斜倚薰笼坐到明。"
+  ],
+  "lines": [
+    {
+      "text": "泪湿罗巾梦不成，",
+      "pinyin": [
+        "lèi",
+        "shī",
+        "luó",
+        "jīn",
+        "mèng",
+        "bù",
+        "chéng"
+      ],
+      "translation": "眼泪湿透了丝罗手巾，好梦也做不成，",
+      "noteIds": [
+        "n-luojin"
+      ]
+    },
+    {
+      "text": "夜深前殿按歌声。",
+      "pinyin": [
+        "yè",
+        "shēn",
+        "qián",
+        "diàn",
+        "àn",
+        "gē",
+        "shēng"
+      ],
+      "translation": "夜已经深了，前殿还传来打着节拍的歌声。",
+      "noteIds": [
+        "n-ange"
+      ]
+    },
+    {
+      "text": "红颜未老恩先断，",
+      "pinyin": [
+        "hóng",
+        "yán",
+        "wèi",
+        "lǎo",
+        "ēn",
+        "xiān",
+        "duàn"
+      ],
+      "translation": "红润的容颜还没有衰老，宠爱却先已断绝，",
+      "noteIds": [
+        "n-en"
+      ]
+    },
+    {
+      "text": "斜倚薰笼坐到明。",
+      "pinyin": [
+        "xié",
+        "yǐ",
+        "xūn",
+        "lóng",
+        "zuò",
+        "dào",
+        "míng"
+      ],
+      "translation": "她斜倚着薰笼，独自坐到天亮。",
+      "noteIds": [
+        "n-xunlong"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-luojin",
+      "word": "罗巾",
+      "pinyin": "luó jīn",
+      "meaning": "细软的丝罗手巾。"
+    },
+    {
+      "id": "n-ange",
+      "word": "按歌",
+      "pinyin": "àn gē",
+      "meaning": "打着节拍唱歌。"
+    },
+    {
+      "id": "n-en",
+      "word": "恩",
+      "pinyin": "ēn",
+      "meaning": "这里指皇帝对妃嫔的宠爱。"
+    },
+    {
+      "id": "n-xunlong",
+      "word": "薰笼",
+      "pinyin": "xūn lóng",
+      "meaning": "熏香取暖的罩笼，笼里放着燃香，可以熏衣暖身。"
+    }
+  ],
+  "translation": "眼泪湿透了丝罗手巾，好梦也做不成，夜已经深了，前殿还传来打着节拍的歌声。红润的容颜还没有衰老，宠爱却先已断绝，她斜倚着薰笼，独自坐到天亮。",
+  "appreciation": "全诗只有四句，却有层层对比。同一座皇宫里，一边是泪湿罗巾、好梦难成，一边是前殿歌声不断，一墙隔开了两个世界。“红颜未老恩先断”是全诗的中心：人还没有老，宠爱就先断了。末句“坐到明”最沉重——她斜倚着薰笼等了一整夜，什么也没有等到。全诗不说一句怨话，怨气却扑面而来。",
+  "background": "唐代宫廷里有许多妃嫔宫女，一旦失去皇帝的宠爱，就被抛在冷落的宫殿里，夜夜难眠。白居易在长安做官时，听到不少宫中旧事，非常同情这些女子。他选取失宠宫女深夜难眠这一幕，写下这首小诗，为她们说出无处诉说的委屈。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "泪湿罗巾",
+      "text": "深夜里，失宠的宫女泪湿罗巾，好梦难成。"
+    },
+    {
+      "step": 2,
+      "title": "殿上歌声",
+      "text": "前殿却热闹得很，按着节拍的歌声传来。"
+    },
+    {
+      "step": 3,
+      "title": "恩断颜未老",
+      "text": "容颜未老，宠爱先断，命运不由自己。"
+    },
+    {
+      "step": 4,
+      "title": "独坐到明",
+      "text": "她斜倚着薰笼，冷冷清清坐到天亮。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "薰",
+      "reading": "xūn",
+      "reason": "“薰笼”的“薰”是用香熏的意思，读 xūn。",
+      "standard": "不读 xùn"
+    },
+    {
+      "char": "倚",
+      "reading": "yǐ",
+      "reason": "“斜倚”是斜斜地靠着的意思，“倚”读 yǐ。"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1014
+}

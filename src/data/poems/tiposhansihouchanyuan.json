@@ -1,0 +1,158 @@
+{
+  "id": "tang-shengtang-changjian-tiposhansihouchanyuan",
+  "slug": "tiposhansihouchanyuan",
+  "title": "题破山寺后禅院",
+  "titlePinyin": "tí pò shān sì hòu chán yuàn",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "五言律诗",
+  "authorId": "changjian",
+  "gradeBand": "ext",
+  "difficulty": 3,
+  "tags": ["山水", "五言律诗", "古寺", "钟声"],
+  "writtenYear": 732,
+  "writtenLabel": "约公元 732 年（常建 25 岁，弃官后漫游吴中）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "曲径通幽处，禅房花木深。"
+  ],
+  "lines": [
+    {
+      "text": "清晨入古寺，",
+      "pinyin": ["qīng", "chén", "rù", "gǔ", "sì"],
+      "translation": "清晨走进古老的破山寺，",
+      "noteIds": []
+    },
+    {
+      "text": "初日照高林。",
+      "pinyin": ["chū", "rì", "zhào", "gāo", "lín"],
+      "translation": "初升的太阳照着高高的树林。",
+      "noteIds": []
+    },
+    {
+      "text": "曲径通幽处，",
+      "pinyin": ["qū", "jìng", "tōng", "yōu", "chù"],
+      "translation": "弯弯的小路通向幽静之处，",
+      "noteIds": ["n-qujing"]
+    },
+    {
+      "text": "禅房花木深。",
+      "pinyin": ["chán", "fáng", "huā", "mù", "shēn"],
+      "translation": "禅房藏在花木深处。",
+      "noteIds": ["n-chanfang"]
+    },
+    {
+      "text": "山光悦鸟性，",
+      "pinyin": ["shān", "guāng", "yuè", "niǎo", "xìng"],
+      "translation": "山色让鸟儿欢悦，",
+      "noteIds": ["n-yue"]
+    },
+    {
+      "text": "潭影空人心。",
+      "pinyin": ["tán", "yǐng", "kōng", "rén", "xīn"],
+      "translation": "潭影让人心中的杂念都消散。",
+      "noteIds": ["n-kong"]
+    },
+    {
+      "text": "万籁此都寂，",
+      "pinyin": ["wàn", "lài", "cǐ", "dōu", "jì"],
+      "translation": "这时万物声响全都沉寂，",
+      "noteIds": ["n-wanlai"]
+    },
+    {
+      "text": "但余钟磬音。",
+      "pinyin": ["dàn", "yú", "zhōng", "qìng", "yīn"],
+      "translation": "只剩下钟磬的余音在回荡。",
+      "noteIds": ["n-zhongqing"]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-qujing",
+      "word": "曲径",
+      "pinyin": "qū jìng",
+      "meaning": "弯弯曲曲的小路。成语“曲径通幽”就出自这句诗。"
+    },
+    {
+      "id": "n-chanfang",
+      "word": "禅房",
+      "pinyin": "chán fáng",
+      "meaning": "僧人静坐修行的房舍。"
+    },
+    {
+      "id": "n-yue",
+      "word": "悦",
+      "pinyin": "yuè",
+      "meaning": "使……欢悦。山色让鸟儿心情愉悦。"
+    },
+    {
+      "id": "n-kong",
+      "word": "空",
+      "pinyin": "kōng",
+      "meaning": "使……空净。潭影让人心头的杂念都消散了。"
+    },
+    {
+      "id": "n-wanlai",
+      "word": "万籁",
+      "pinyin": "wàn lài",
+      "meaning": "自然界的一切声响。籁，从孔穴中发出的声音。"
+    },
+    {
+      "id": "n-zhongqing",
+      "word": "钟磬",
+      "pinyin": "zhōng qìng",
+      "meaning": "寺院里报时、集众用的钟和磬。磬，用石或玉制成的打击乐器。"
+    }
+  ],
+  "translation": "清晨走进古老的破山寺，初升的太阳照着高高的树林。弯弯的小路通向幽静之处，禅房藏在花木深处。山色让鸟儿欢悦，潭影让人心中的杂念都消散。这时万物声响全都沉寂，只剩下钟磬的余音在回荡。",
+  "appreciation": "这是盛唐山水诗中最幽静的一首。诗人清晨入寺，沿着曲径走向花木深处的禅房，一路由远而近、由外而内。“悦”“空”两字用得极妙：山光潭影不但可看，还能使鸟性欢、人心静。最后万籁俱寂，只剩袅袅钟磬，用一点声音衬出满寺安宁，全诗不着一“静”字，却处处是静。",
+  "background": "常建进士及第后做过小官，不久弃官，漫游山水。相传他游历吴中时来到常熟破山寺，清晨入寺，沿着幽径走到后院禅房，看山光潭影，听钟磬余音，写下这首诗，后来“曲径通幽”成了人人会用的成语。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "清晨入寺",
+      "text": "清晨，诗人走进古老清静的破山寺，朝阳照在高林上。"
+    },
+    {
+      "step": 2,
+      "title": "曲径寻幽",
+      "text": "沿着弯弯的小路往前走，禅房藏在深深的花木之间。"
+    },
+    {
+      "step": 3,
+      "title": "山光潭影",
+      "text": "山色让鸟儿欢唱，清澈的潭影让人的心也空明起来。"
+    },
+    {
+      "step": 4,
+      "title": "钟磬余音",
+      "text": "四周万籁俱寂，只有寺里的钟磬声轻轻回荡在耳边。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "曲径",
+      "reading": "qū jìng",
+      "reason": "“曲”指弯曲，读 qū。"
+      ,
+      "standard": "不要读成 qǔ"
+    },
+    {
+      "char": "万籁",
+      "reading": "wàn lài",
+      "reason": "籁指孔穴中发出的声音，泛指一切声响。"
+    },
+    {
+      "char": "磬",
+      "reading": "qìng",
+      "reason": "磬是寺里用的打击乐器。"
+      ,
+      "standard": "注意与“馨”（xīn）区分"
+    }
+  ],
+  "sources": ["《全唐诗》", "《唐诗三百首》"],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1099
+}

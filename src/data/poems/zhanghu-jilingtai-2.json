@@ -1,0 +1,161 @@
+{
+  "id": "tang-zhongtang-zhanghu-zhanghu-jilingtai-2",
+  "slug": "zhanghu-jilingtai-2",
+  "title": "集灵台·其二",
+  "titlePinyin": "jí líng tái · qí èr",
+  "dynasty": "tangshi",
+  "era": "zhongtang",
+  "genre": "shi",
+  "form": "七言绝句",
+  "authorId": "zhanghu",
+  "gradeBand": "ext",
+  "tags": [
+    "讽喻",
+    "七言绝句",
+    "蛾眉"
+  ],
+  "difficulty": 3,
+  "writtenYear": 827,
+  "writtenLabel": "约公元 827 年（张祜 42 岁，与《集灵台·其一》同时所作，讽刺杨家骄纵）",
+  "orderInAuthor": 4,
+  "famousLines": [
+    "却嫌脂粉污颜色，淡扫蛾眉朝至尊。"
+  ],
+  "lines": [
+    {
+      "text": "虢国夫人承主恩，",
+      "pinyin": [
+        "guó",
+        "guó",
+        "fū",
+        "rén",
+        "chéng",
+        "zhǔ",
+        "ēn"
+      ],
+      "translation": "虢国夫人承受着皇帝的恩宠，",
+      "noteIds": [
+        "n-guofuren"
+      ]
+    },
+    {
+      "text": "平明骑马入宫门。",
+      "pinyin": [
+        "píng",
+        "míng",
+        "qí",
+        "mǎ",
+        "rù",
+        "gōng",
+        "mén"
+      ],
+      "translation": "天刚亮就骑着马，大大方方进入宫门。",
+      "noteIds": [
+        "n-pingming"
+      ]
+    },
+    {
+      "text": "却嫌脂粉污颜色，",
+      "pinyin": [
+        "què",
+        "xián",
+        "zhī",
+        "fěn",
+        "wū",
+        "yán",
+        "sè"
+      ],
+      "translation": "她嫌脂粉会弄脏天生美丽的面容，",
+      "noteIds": []
+    },
+    {
+      "text": "淡扫蛾眉朝至尊。",
+      "pinyin": [
+        "dàn",
+        "sǎo",
+        "é",
+        "méi",
+        "cháo",
+        "zhì",
+        "zūn"
+      ],
+      "translation": "只淡淡描一下眉毛，就来朝见天子。",
+      "noteIds": [
+        "n-emei",
+        "n-zhizun"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-guofuren",
+      "word": "虢国夫人",
+      "pinyin": "guó guó fū rén",
+      "meaning": "杨贵妃的姐姐，因妹妹得宠被封为虢国夫人。"
+    },
+    {
+      "id": "n-pingming",
+      "word": "平明",
+      "pinyin": "píng míng",
+      "meaning": "天刚亮的时候。"
+    },
+    {
+      "id": "n-emei",
+      "word": "蛾眉",
+      "pinyin": "é méi",
+      "meaning": "像蚕蛾触须一样细长弯曲的眉毛，形容女子美丽的眉妆。"
+    },
+    {
+      "id": "n-zhizun",
+      "word": "至尊",
+      "pinyin": "zhì zūn",
+      "meaning": "至高无上的尊位，指皇帝。"
+    }
+  ],
+  "translation": "虢国夫人承受着皇帝的恩宠，天刚亮就骑着马，大大方方进入宫门。她嫌脂粉会弄脏天生美丽的面容，只淡淡描一下眉毛，就来朝见天子。",
+  "appreciation": "二十八个字画出一幅气焰十足的“入宫图”。别人进宫都要精心打扮，虢国夫人偏偏不施脂粉，淡扫蛾眉就敢朝见天子。这是自信，更是仗着恩宠的放肆。“承主恩”“入宫门”“朝至尊”，一路写来步步张扬，诗人不加一句评论，只把她的骄纵画给你看，讽刺全在其中。",
+  "background": "杨贵妃得宠后，三个姐姐分别被封为韩国、虢国、秦国夫人，她们出入宫廷，飞扬跋扈。张祜游览骊山时想起这些旧事，写诗讽刺杨家的骄横，这一首专写虢国夫人倚仗恩宠、素面朝天的气派。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "恩宠加身",
+      "text": "杨贵妃的姐姐被封为虢国夫人，深受皇帝恩宠。"
+    },
+    {
+      "step": 2,
+      "title": "平明入宫",
+      "text": "天刚亮，她就骑着马，径直进入宫门。"
+    },
+    {
+      "step": 3,
+      "title": "素面淡妆",
+      "text": "她嫌脂粉弄脏了天生丽质，只淡淡描了描眉毛。"
+    },
+    {
+      "step": 4,
+      "title": "朝见天子",
+      "text": "不施粉黛地朝见至尊，气派里藏着骄纵。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "虢",
+      "reading": "guó",
+      "reason": "“虢国夫人”是封号，“虢”读 guó。",
+      "standard": "生僻字，不要读成 hǔ"
+    },
+    {
+      "char": "朝",
+      "reading": "cháo",
+      "reason": "“朝至尊”是朝见皇帝，读 cháo。",
+      "standard": "不要读成 zhāo"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1036
+}

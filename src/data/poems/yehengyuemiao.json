@@ -1,0 +1,345 @@
+{
+  "id": "tang-zhongtang-hanyu-yehengyuemiao",
+  "slug": "yehengyuemiao",
+  "title": "谒衡岳庙遂宿岳寺题门楼",
+  "titlePinyin": "yè héng yuè miào suì sù yuè sì tí mén lóu",
+  "dynasty": "tangshi",
+  "era": "zhongtang",
+  "genre": "shi",
+  "form": "七言古诗",
+  "authorId": "hanyu",
+  "gradeBand": "ext",
+  "tags": [
+    "山水",
+    "七言古诗",
+    "衡山",
+    "云雾"
+  ],
+  "difficulty": 3,
+  "writtenYear": 805,
+  "writtenLabel": "公元805年秋（韩愈38岁，遇赦北归途中拜谒南岳衡山庙，夜宿岳寺）",
+  "orderInAuthor": 2,
+  "famousLines": [
+    "须臾静扫众峰出，仰见突兀撑青空。"
+  ],
+  "lines": [
+    {
+      "text": "五岳祭秩皆三公，",
+      "pinyin": ["wǔ", "yuè", "jì", "zhì", "jiē", "sān", "gōng"],
+      "translation": "五岳的祭祀规格，都同三公一样高，",
+      "noteIds": ["n-jizhi"]
+    },
+    {
+      "text": "四方环镇嵩当中。",
+      "pinyin": ["sì", "fāng", "huán", "zhèn", "sōng", "dāng", "zhōng"],
+      "translation": "四方各镇一岳，嵩山稳稳居中。",
+      "noteIds": []
+    },
+    {
+      "text": "火维地荒足妖怪，",
+      "pinyin": ["huǒ", "wéi", "dì", "huāng", "zú", "yāo", "guài"],
+      "translation": "南方属火，这片荒僻的土地上多有精怪，",
+      "noteIds": ["n-huowei"]
+    },
+    {
+      "text": "天假神柄专其雄。",
+      "pinyin": ["tiān", "jiǎ", "shén", "bǐng", "zhuān", "qí", "xióng"],
+      "translation": "上天把神权交给衡山之神，让它独称雄长。",
+      "noteIds": []
+    },
+    {
+      "text": "喷云泄雾藏半腹，",
+      "pinyin": ["pēn", "yún", "xiè", "wù", "cáng", "bàn", "fù"],
+      "translation": "山腰喷云吐雾，把半个山身都藏了起来，",
+      "noteIds": []
+    },
+    {
+      "text": "虽有绝顶谁能穷？",
+      "pinyin": ["suī", "yǒu", "jué", "dǐng", "shéi", "néng", "qióng"],
+      "translation": "纵然有绝顶，谁能爬到头呢？",
+      "noteIds": []
+    },
+    {
+      "text": "我来正逢秋雨节，",
+      "pinyin": ["wǒ", "lái", "zhèng", "féng", "qiū", "yǔ", "jié"],
+      "translation": "我来到这里，正赶上秋雨时节，",
+      "noteIds": []
+    },
+    {
+      "text": "阴气晦昧无清风。",
+      "pinyin": ["yīn", "qì", "huì", "mèi", "wú", "qīng", "fēng"],
+      "translation": "山间阴气沉沉，昏暗得没有一丝清风。",
+      "noteIds": ["n-huimei"]
+    },
+    {
+      "text": "潜心默祷若有应，",
+      "pinyin": ["qián", "xīn", "mò", "dǎo", "ruò", "yǒu", "yìng"],
+      "translation": "我静下心来默默祷告，竟像真有回应，",
+      "noteIds": []
+    },
+    {
+      "text": "岂非正直能感通！",
+      "pinyin": ["qǐ", "fēi", "zhèng", "zhí", "néng", "gǎn", "tōng"],
+      "translation": "难道不正因人正直，才能与神灵相通吗！",
+      "noteIds": []
+    },
+    {
+      "text": "须臾静扫众峰出，",
+      "pinyin": ["xū", "yú", "jìng", "sǎo", "zhòng", "fēng", "chū"],
+      "translation": "一会儿，云雾像被静静扫开，群峰露了出来，",
+      "noteIds": []
+    },
+    {
+      "text": "仰见突兀撑青空。",
+      "pinyin": ["yǎng", "jiàn", "tū", "wù", "chēng", "qīng", "kōng"],
+      "translation": "抬头看，山峰高峻突兀，撑住了青天。",
+      "noteIds": ["n-tuwu"]
+    },
+    {
+      "text": "紫盖连延接天柱，",
+      "pinyin": ["zǐ", "gài", "lián", "yán", "jiē", "tiān", "zhù"],
+      "translation": "紫盖峰绵延起伏，连着天柱峰，",
+      "noteIds": []
+    },
+    {
+      "text": "石廪腾掷堆祝融。",
+      "pinyin": ["shí", "lǐn", "téng", "zhì", "duī", "zhù", "róng"],
+      "translation": "石廪峰腾挪跳跃，簇拥着最高的祝融峰。",
+      "noteIds": ["n-shilin"]
+    },
+    {
+      "text": "森然魄动下马拜，",
+      "pinyin": ["sēn", "rán", "pò", "dòng", "xià", "mǎ", "bài"],
+      "translation": "山势森然，我心惊魄动，连忙下马下拜，",
+      "noteIds": []
+    },
+    {
+      "text": "松柏一径趋灵宫。",
+      "pinyin": ["sōng", "bǎi", "yí", "jìng", "qū", "líng", "gōng"],
+      "translation": "沿着两旁长满松柏的小路，走向衡岳庙。",
+      "noteIds": []
+    },
+    {
+      "text": "粉墙丹柱动光彩，",
+      "pinyin": ["fěn", "qiáng", "dān", "zhù", "dòng", "guāng", "cǎi"],
+      "translation": "白墙红柱，光彩明晃晃地闪动，",
+      "noteIds": []
+    },
+    {
+      "text": "鬼物图画填青红。",
+      "pinyin": ["guǐ", "wù", "tú", "huà", "tián", "qīng", "hóng"],
+      "translation": "墙上画满神鬼，青红颜色涂得满满的。",
+      "noteIds": []
+    },
+    {
+      "text": "升阶伛偻荐脯酒，",
+      "pinyin": ["shēng", "jiē", "yǔ", "lǚ", "jiàn", "fǔ", "jiǔ"],
+      "translation": "我弯着腰登上台阶，献上干肉和酒，",
+      "noteIds": ["n-yulv", "n-fu"]
+    },
+    {
+      "text": "欲以菲薄明其衷。",
+      "pinyin": ["yù", "yǐ", "fěi", "bó", "míng", "qí", "zhōng"],
+      "translation": "想用这点微薄的祭品表明我的心意。",
+      "noteIds": ["n-feibo"]
+    },
+    {
+      "text": "庙令老人识神意，",
+      "pinyin": ["miào", "lìng", "lǎo", "rén", "shí", "shén", "yì"],
+      "translation": "管庙的老人最懂神灵的心意，",
+      "noteIds": []
+    },
+    {
+      "text": "睢盱侦伺能鞠躬。",
+      "pinyin": ["suī", "xū", "zhēn", "sì", "néng", "jū", "gōng"],
+      "translation": "睁大眼睛看着我来意，躬着身子小心伺候。",
+      "noteIds": ["n-suixu"]
+    },
+    {
+      "text": "手持杯珓导我掷，",
+      "pinyin": ["shǒu", "chí", "bēi", "jiào", "dǎo", "wǒ", "zhì"],
+      "translation": "他手拿占卜的杯珓，教我怎么掷，",
+      "noteIds": ["n-beijiao"]
+    },
+    {
+      "text": "云此最吉余难同。",
+      "pinyin": ["yún", "cǐ", "zuì", "jí", "yú", "nán", "tóng"],
+      "translation": "说这个卦最吉利，别的卦都比不上。",
+      "noteIds": []
+    },
+    {
+      "text": "窜逐蛮荒幸不死，",
+      "pinyin": ["cuàn", "zhú", "mán", "huāng", "xìng", "bù", "sǐ"],
+      "translation": "我被放逐到蛮荒之地，侥幸没死，",
+      "noteIds": []
+    },
+    {
+      "text": "衣食才足甘长终。",
+      "pinyin": ["yī", "shí", "cái", "zú", "gān", "cháng", "zhōng"],
+      "translation": "衣食刚刚够用，也甘愿就这样过完一生。",
+      "noteIds": []
+    },
+    {
+      "text": "侯王将相望久绝，",
+      "pinyin": ["hóu", "wáng", "jiàng", "xiàng", "wàng", "jiǔ", "jué"],
+      "translation": "封侯拜相的念头早已断绝，",
+      "noteIds": []
+    },
+    {
+      "text": "神纵欲福难为功！",
+      "pinyin": ["shén", "zòng", "yù", "fú", "nán", "wéi", "gōng"],
+      "translation": "神灵纵然想降福给我，也难有作为！",
+      "noteIds": []
+    },
+    {
+      "text": "夜投佛寺上高阁，",
+      "pinyin": ["yè", "tóu", "fó", "sì", "shàng", "gāo", "gé"],
+      "translation": "夜里投宿岳寺，登上高高的楼阁，",
+      "noteIds": []
+    },
+    {
+      "text": "星月掩映云曈昽。",
+      "pinyin": ["xīng", "yuè", "yǎn", "yìng", "yún", "tóng", "lóng"],
+      "translation": "星光月色掩映着云层，透出蒙蒙的微光。",
+      "noteIds": ["n-tonglong"]
+    },
+    {
+      "text": "猿鸣钟动不知曙，",
+      "pinyin": ["yuán", "míng", "zhōng", "dòng", "bù", "zhī", "shǔ"],
+      "translation": "猿声响起，钟声敲动，我竟不知天已亮，",
+      "noteIds": []
+    },
+    {
+      "text": "杲杲寒日生于东。",
+      "pinyin": ["gǎo", "gǎo", "hán", "rì", "shēng", "yú", "dōng"],
+      "translation": "明亮的秋日已从东边升起来了。",
+      "noteIds": ["n-gao"]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-jizhi",
+      "word": "祭秩",
+      "pinyin": "jì zhì",
+      "meaning": "祭祀的规格等级。"
+    },
+    {
+      "id": "n-huowei",
+      "word": "火维",
+      "pinyin": "huǒ wéi",
+      "meaning": "指南方，古人以五行配方位，南方属火。"
+    },
+    {
+      "id": "n-huimei",
+      "word": "晦昧",
+      "pinyin": "huì mèi",
+      "meaning": "昏暗不明。"
+    },
+    {
+      "id": "n-tuwu",
+      "word": "突兀",
+      "pinyin": "tū wù",
+      "meaning": "高耸突出的样子。"
+    },
+    {
+      "id": "n-shilin",
+      "word": "石廪",
+      "pinyin": "shí lǐn",
+      "meaning": "衡山五峰之一，形状像高高的粮仓。"
+    },
+    {
+      "id": "n-yulv",
+      "word": "伛偻",
+      "pinyin": "yǔ lǚ",
+      "meaning": "弯腰曲背，表示恭敬。"
+    },
+    {
+      "id": "n-fu",
+      "word": "脯",
+      "pinyin": "fǔ",
+      "meaning": "干肉，用来祭祀。"
+    },
+    {
+      "id": "n-feibo",
+      "word": "菲薄",
+      "pinyin": "fěi bó",
+      "meaning": "微薄，指简陋的祭品。"
+    },
+    {
+      "id": "n-suixu",
+      "word": "睢盱",
+      "pinyin": "suī xū",
+      "meaning": "睁眼仰视的样子，这里指庙令老人打量来客。"
+    },
+    {
+      "id": "n-beijiao",
+      "word": "杯珓",
+      "pinyin": "bēi jiào",
+      "meaning": "占卜用具，两片蚌壳形木片，掷在地上看正反面问吉凶。"
+    },
+    {
+      "id": "n-tonglong",
+      "word": "曈昽",
+      "pinyin": "tóng lóng",
+      "meaning": "天快要亮时朦胧的亮光。"
+    },
+    {
+      "id": "n-gao",
+      "word": "杲杲",
+      "pinyin": "gǎo gǎo",
+      "meaning": "太阳明亮的样子。"
+    }
+  ],
+  "translation": "五岳的祭祀规格，都同三公一样高，四方各镇一岳，嵩山稳稳居中。南方属火，这片荒僻的土地上多有精怪，上天把神权交给衡山之神，让它独称雄长。山腰喷云吐雾，把半个山身都藏了起来，纵然有绝顶，谁能爬到头呢？我来到这里，正赶上秋雨时节，山间阴气沉沉，昏暗得没有一丝清风。我静下心来默默祷告，竟像真有回应，难道不正因人正直，才能与神灵相通吗！一会儿，云雾像被静静扫开，群峰露了出来，抬头看，山峰高峻突兀，撑住了青天。紫盖峰绵延起伏，连着天柱峰，石廪峰腾挪跳跃，簇拥着最高的祝融峰。山势森然，我心惊魄动，连忙下马下拜，沿着两旁长满松柏的小路，走向衡岳庙。白墙红柱，光彩明晃晃地闪动，墙上画满神鬼，青红颜色涂得满满的。我弯着腰登上台阶，献上干肉和酒，想用这点微薄的祭品表明我的心意。管庙的老人最懂神灵的心意，睁大眼睛看着我来意，躬着身子小心伺候。他手拿占卜的杯珓，教我怎么掷，说这个卦最吉利，别的卦都比不上。我被放逐到蛮荒之地，侥幸没死，衣食刚刚够用，也甘愿就这样过完一生。封侯拜相的念头早已断绝，神灵纵然想降福给我，也难有作为！夜里投宿岳寺，登上高高的楼阁，星光月色掩映着云层，透出蒙蒙的微光。猿声响起，钟声敲动，我竟不知天已亮，明亮的秋日已从东边升起来了。",
+  "appreciation": "这首诗最精彩的一幕是云开见山：阴雨连绵时，诗人默祷片刻，忽然云雾静扫，群峰一下子撑住青天，紫盖、天柱、石廪、祝融各显雄姿。庙里掷珓问卦一节写得幽默又心酸——庙令热心，诗人却说自己罪臣一名，神也帮不上忙。结尾猿鸣钟动、寒日东升，被贬的人迎来天亮，既是写景，也是给自己的宽慰。",
+  "background": "永贞元年秋，韩愈遇赦，由阳山北上，途经南岳衡山。当时秋雨绵绵，云雾锁山，他进庙祈祷后云开峰现，于是下马拜谒衡岳庙，献祭问卜，夜里宿在岳寺楼阁上，题诗于门楼，记下这一天一夜的经历。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "雾锁衡山",
+      "text": "秋雨时节，衡山阴云昏暗，半山都被云雾藏住。"
+    },
+    {
+      "step": 2,
+      "title": "默祷云开",
+      "text": "诗人潜心默祷，忽然云雾静扫，群峰撑出青天。"
+    },
+    {
+      "step": 3,
+      "title": "入庙问卜",
+      "text": "下马拜庙、献祭掷珓，庙令老人说这是最吉的卦。"
+    },
+    {
+      "step": 4,
+      "title": "夜宿待旦",
+      "text": "夜登阁楼望星月，猿鸣钟动，寒日从东方升起。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "珓",
+      "reading": "jiào",
+      "reason": "“杯珓”是占卜用的蚌壳形木片，“珓”读 jiào。",
+      "standard": "生僻字，不要读成 jiāo"
+    },
+    {
+      "char": "睢盱",
+      "reading": "suī xū",
+      "reason": "“睢盱”是睁眼仰视的样子，两个都是生僻字。",
+      "standard": "不要读成 jū yú"
+    },
+    {
+      "char": "曈昽",
+      "reading": "tóng lóng",
+      "reason": "“曈昽”形容天将亮时的朦胧光亮，两个都是生僻字。",
+      "standard": "不要读成 tóng lóng以外的音"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1225
+}

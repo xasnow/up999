@@ -1,0 +1,163 @@
+{
+  "id": "tang-wantang-lishangyin-jinse",
+  "slug": "jinse",
+  "title": "锦瑟",
+  "titlePinyin": "jǐn sè",
+  "dynasty": "tangshi",
+  "era": "wantang",
+  "genre": "shi",
+  "form": "七言律诗",
+  "authorId": "lishangyin",
+  "gradeBand": "ext",
+  "tags": [
+    "思念",
+    "七言律诗",
+    "锦瑟",
+    "月夜"
+  ],
+  "difficulty": 3,
+  "writtenYear": 858,
+  "writtenLabel": "约公元 858 年（李商隐 46 岁，晚年回首一生之作）",
+  "orderInAuthor": 2,
+  "no": 1136,
+  "famousLines": [
+    "庄生晓梦迷蝴蝶，望帝春心托杜鹃。"
+  ],
+  "lines": [
+    {
+      "text": "锦瑟无端五十弦，",
+      "pinyin": ["jǐn", "sè", "wú", "duān", "wǔ", "shí", "xián"],
+      "translation": "锦瑟啊，你为什么平白有五十根弦？",
+      "noteIds": ["n-jinse", "n-wuduan"]
+    },
+    {
+      "text": "一弦一柱思华年。",
+      "pinyin": ["yī", "xián", "yī", "zhù", "sī", "huá", "nián"],
+      "translation": "一根弦一根柱，都让人思念逝去的年华。",
+      "noteIds": []
+    },
+    {
+      "text": "庄生晓梦迷蝴蝶，",
+      "pinyin": ["zhuāng", "shēng", "xiǎo", "mèng", "mí", "hú", "dié"],
+      "translation": "庄子清晨梦中，分不清是自己变成蝴蝶，还是蝴蝶变成自己，",
+      "noteIds": ["n-zhuangsheng"]
+    },
+    {
+      "text": "望帝春心托杜鹃。",
+      "pinyin": ["wàng", "dì", "chūn", "xīn", "tuō", "dù", "juān"],
+      "translation": "望帝的一片春心，死后托付给了啼血的杜鹃。",
+      "noteIds": ["n-wangdi"]
+    },
+    {
+      "text": "沧海月明珠有泪，",
+      "pinyin": ["cāng", "hǎi", "yuè", "míng", "zhū", "yǒu", "lèi"],
+      "translation": "月明之夜，大海里鲛人的泪珠化成了明珠，",
+      "noteIds": ["n-zhuyoulei"]
+    },
+    {
+      "text": "蓝田日暖玉生烟。",
+      "pinyin": ["lán", "tián", "rì", "nuǎn", "yù", "shēng", "yān"],
+      "translation": "日暖之时，蓝田美玉升起袅袅轻烟。",
+      "noteIds": ["n-lantian"]
+    },
+    {
+      "text": "此情可待成追忆，",
+      "pinyin": ["cǐ", "qíng", "kě", "dài", "chéng", "zhuī", "yì"],
+      "translation": "这样的情怀，哪里用得着等到今天才追忆？",
+      "noteIds": []
+    },
+    {
+      "text": "只是当时已惘然。",
+      "pinyin": ["zhǐ", "shì", "dāng", "shí", "yǐ", "wǎng", "rán"],
+      "translation": "只是身在当时，就已经怅然若失了。",
+      "noteIds": ["n-wangran"]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-jinse",
+      "word": "锦瑟",
+      "pinyin": "jǐn sè",
+      "meaning": "绘饰华美的瑟，古代一种弦乐器。"
+    },
+    {
+      "id": "n-wuduan",
+      "word": "无端",
+      "pinyin": "wú duān",
+      "meaning": "无缘无故。"
+    },
+    {
+      "id": "n-zhuangsheng",
+      "word": "庄生",
+      "pinyin": "zhuāng shēng",
+      "meaning": "庄子。他曾梦见自己变成蝴蝶，醒来后分不清是庄周梦蝶，还是蝶梦庄周。"
+    },
+    {
+      "id": "n-wangdi",
+      "word": "望帝",
+      "pinyin": "wàng dì",
+      "meaning": "周末蜀国国君杜宇，号望帝。传说他死后魂魄化为杜鹃鸟，啼声悲切。"
+    },
+    {
+      "id": "n-zhuyoulei",
+      "word": "珠有泪",
+      "pinyin": "zhū yǒu lèi",
+      "meaning": "传说南海鲛人流泪成珠，珠光与泪光相映。"
+    },
+    {
+      "id": "n-lantian",
+      "word": "蓝田",
+      "pinyin": "lán tián",
+      "meaning": "陕西蓝田山，自古产美玉，日光照射时远望有烟岚浮动。"
+    },
+    {
+      "id": "n-wangran",
+      "word": "惘然",
+      "pinyin": "wǎng rán",
+      "meaning": "怅然若失、迷惘的样子。"
+    }
+  ],
+  "translation": "锦瑟啊，你为什么平白有五十根弦？一根弦一根柱，都让人思念逝去的年华。庄子清晨梦中，分不清是自己变成蝴蝶，还是蝴蝶变成自己；望帝的一片春心，死后托付给了啼血的杜鹃。月明之夜，大海里鲛人的泪珠化成了明珠；日暖之时，蓝田美玉升起袅袅轻烟。这样的情怀，哪里用得着等到今天才追忆？只是身在当时，就已经怅然若失了。",
+  "appreciation": "这是李商隐最难解读、也最动人的一首诗。开篇问锦瑟为什么有五十根弦，其实是在问：我这一生为什么这样多波折？中间四句像四幅迷离的画：庄周梦蝶、望帝啼鹃、沧海珠泪、蓝田玉烟，每一幅都美，每一幅都抓不住。等到末联揭开谜底——这些情怀不必等到今天追忆，当时就已经惘然若失了。一生顺逆、爱恨得失，都融在一片朦胧里，成为千古以来人人会读、人人有自己读法的绝唱。",
+  "background": "这首诗列于《李义山诗集》卷首，被普遍认为是李商隐晚年回首一生的总结之作。诗人借锦瑟起兴，用一连串典故追忆逝去的年华。究竟是悼亡、自伤还是咏怀，历来众说纷纭，正是这份朦胧成就了它的不朽。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "锦瑟起兴",
+      "text": "锦瑟五十弦，一弦一柱都惹人回忆华年。"
+    },
+    {
+      "step": 2,
+      "title": "梦蝶啼鹃",
+      "text": "庄周梦蝶分不清真假，望帝春心化作杜鹃。"
+    },
+    {
+      "step": 3,
+      "title": "珠泪玉烟",
+      "text": "沧海月明珠有泪，蓝田日暖玉生烟。"
+    },
+    {
+      "step": 4,
+      "title": "当时惘然",
+      "text": "此情本待追忆，可惜当时已怅然若失。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "瑟",
+      "reading": "sè",
+      "reason": "古代弦乐器名，读 sè。"
+    },
+    {
+      "char": "惘",
+      "reading": "wǎng",
+      "reason": "“惘然”指怅然若失，读 wǎng。"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26"
+}

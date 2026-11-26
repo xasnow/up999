@@ -1,0 +1,93 @@
+{
+  "id": "tang-wantang-qintaoyu-pinnv",
+  "slug": "pinnv",
+  "title": "贫女",
+  "titlePinyin": "pín nǚ",
+  "dynasty": "tangshi",
+  "era": "wantang",
+  "genre": "shi",
+  "form": "七言律诗",
+  "authorId": "qintaoyu",
+  "gradeBand": "ext",
+  "tags": ["哲理", "七言律诗", "针线", "金线"],
+  "difficulty": 3,
+  "writtenYear": 880,
+  "writtenLabel": "约公元 880 年前后（秦韬玉 40 岁左右，屡试不第，借贫女口吻抒写怀才不遇）",
+  "orderInAuthor": 1,
+  "famousLines": ["苦恨年年压金线，为他人作嫁衣裳。"],
+  "lines": [
+    {
+      "text": "蓬门未识绮罗香，",
+      "pinyin": ["péng", "mén", "wèi", "shí", "qǐ", "luó", "xiāng"],
+      "translation": "穷人家的姑娘从没见过绫罗绸缎的香气，",
+      "noteIds": ["n-pengmen", "n-qiluo"]
+    },
+    {
+      "text": "拟托良媒益自伤。",
+      "pinyin": ["nǐ", "tuō", "liáng", "méi", "yì", "zì", "shāng"],
+      "translation": "想托个好媒人说亲，反倒更添伤感。",
+      "noteIds": []
+    },
+    {
+      "text": "谁爱风流高格调，",
+      "pinyin": ["shuí", "ài", "fēng", "liú", "gāo", "gé", "diào"],
+      "translation": "如今有谁欣赏高尚的品格和风度，",
+      "noteIds": ["n-gediao"]
+    },
+    {
+      "text": "共怜时世俭梳妆。",
+      "pinyin": ["gòng", "lián", "shí", "shì", "jiǎn", "shū", "zhuāng"],
+      "translation": "大家都只争着喜爱时下流行的妆束打扮。",
+      "noteIds": ["n-jianshu"]
+    },
+    {
+      "text": "敢将十指夸针巧，",
+      "pinyin": ["gǎn", "jiāng", "shí", "zhǐ", "kuā", "zhēn", "qiǎo"],
+      "translation": "她敢凭这十根手指夸耀刺绣的巧手，",
+      "noteIds": []
+    },
+    {
+      "text": "不把双眉斗画长。",
+      "pinyin": ["bù", "bǎ", "shuāng", "méi", "dòu", "huà", "cháng"],
+      "translation": "却不肯把双眉画得长长的去跟别人争艳。",
+      "noteIds": []
+    },
+    {
+      "text": "苦恨年年压金线，",
+      "pinyin": ["kǔ", "hèn", "nián", "nián", "yā", "jīn", "xiàn"],
+      "translation": "最恨的是年复一年按着金线刺绣，",
+      "noteIds": ["n-ya"]
+    },
+    {
+      "text": "为他人作嫁衣裳。",
+      "pinyin": ["wèi", "tā", "rén", "zuò", "jià", "yī", "cháng"],
+      "translation": "缝好的都是给别人出嫁穿的衣裳。",
+      "noteIds": []
+    }
+  ],
+  "notes": [
+    { "id": "n-pengmen", "word": "蓬门", "pinyin": "péng mén", "meaning": "蓬草编成的门，指贫苦人家。" },
+    { "id": "n-qiluo", "word": "绮罗", "pinyin": "qǐ luó", "meaning": "华贵的丝织品，指华丽衣服。" },
+    { "id": "n-gediao", "word": "格调", "pinyin": "gé diào", "meaning": "品格、风度。" },
+    { "id": "n-jianshu", "word": "俭梳妆", "pinyin": "jiǎn shū zhuāng", "meaning": "当时流行的一种简朴妆束，世人争相效仿。" },
+    { "id": "n-ya", "word": "压", "pinyin": "yā", "meaning": "手指按住针线，指刺绣的动作。" }
+  ],
+  "translation": "穷人家的姑娘从没见过绫罗绸缎的香气，想托个好媒人说亲，反倒更添伤感。如今有谁欣赏高尚的品格和风度，大家都只争着学时下流行的妆束。她敢凭十根手指夸耀刺绣的巧手，却不肯把双眉画长去和别人争艳。最恨的是年复一年按着金线刺绣，缝好的都是给别人出嫁穿的衣裳。",
+  "appreciation": "这位姑娘手艺极好，品性清高，却因为出身穷苦，连说亲都难。她不肯靠画眉斗艳去讨好世人，只能年年低头刺绣，替别人缝制嫁衣。诗人分明是在说自己：有真本领却无人赏识，辛辛苦苦都在为他人忙碌。全诗句句写贫女，句句也是读书人自己的委屈，难怪“为他人作嫁衣裳”能成为千古名句。",
+  "background": "秦韬玉多次科举落第，空有才学无人赏识。他借一位贫家姑娘的口吻写下这首诗，说手巧心高却嫁不出去，正是许多有才能却不得志的读书人的写照。",
+  "storyline": [
+    { "step": 1, "title": "蓬门孤女", "text": "穷人家的姑娘没穿过绫罗，亲事也没有着落。" },
+    { "step": 2, "title": "清高自守", "text": "她看重品格风度，不肯随俗打扮争艳。" },
+    { "step": 3, "title": "巧手刺绣", "text": "十指灵巧，绣工精细，手艺出众。" },
+    { "step": 4, "title": "为人作嫁", "text": "年年缝出嫁衣，却都是给别人穿的。" }
+  ],
+  "pinyinNotes": [
+    { "char": "绮", "reading": "qǐ", "reason": "“绮罗”的“绮”是有花纹的绸子，读 qǐ。" },
+    { "char": "斗", "reading": "dòu", "reason": "“斗画长”的“斗”是争比的意思，读 dòu。" },
+    { "char": "裳", "reading": "cháng", "reason": "“嫁衣裳”的“裳”古时指下裙，读 cháng，与全诗押韵一致。", "standard": "不要读成 shang" }
+  ],
+  "sources": ["《全唐诗》", "《唐诗三百首》"],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1153
+}

@@ -1,0 +1,230 @@
+{
+  "id": "tang-shengtang-canshen-zoumachuanxing",
+  "slug": "zoumachuanxing",
+  "title": "走马川行奉送封大夫出师西征",
+  "titlePinyin": "zǒu mǎ chuān xíng fèng sòng fēng dài fū chū shī xī zhēng",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "七言古诗",
+  "authorId": "canshen",
+  "gradeBand": "ext",
+  "tags": ["边塞", "七言古诗", "冬天", "风雪"],
+  "difficulty": 3,
+  "writtenYear": 754,
+  "writtenLabel": "约公元 754 年（岑参 40 岁左右，在北庭都护封常清幕府中，作诗为大军西征壮行）",
+  "orderInAuthor": 3,
+  "famousLines": [
+    "轮台九月风夜吼，一川碎石大如斗，随风满地石乱走。",
+    "风头如刀面如割。"
+  ],
+  "lines": [
+    {
+      "text": "君不见走马川行雪海边，",
+      "pinyin": ["jūn", "bú", "jiàn", "zǒu", "mǎ", "chuān", "xíng", "xuě", "hǎi", "biān"],
+      "translation": "你难道没看见吗？走马川在雪海边上。",
+      "noteIds": ["n-zoumachuan"]
+    },
+    {
+      "text": "平沙莽莽黄入天。",
+      "pinyin": ["píng", "shā", "mǎng", "mǎng", "huáng", "rù", "tiān"],
+      "translation": "茫茫的沙漠一直黄到天边。",
+      "noteIds": []
+    },
+    {
+      "text": "轮台九月风夜吼，",
+      "pinyin": ["lún", "tái", "jiǔ", "yuè", "fēng", "yè", "hǒu"],
+      "translation": "九月的轮台，夜里狂风怒吼，",
+      "noteIds": ["n-luntai"]
+    },
+    {
+      "text": "一川碎石大如斗，",
+      "pinyin": ["yì", "chuān", "suì", "shí", "dà", "rú", "dǒu"],
+      "translation": "一川的碎石大得像斗，",
+      "noteIds": ["n-dou"]
+    },
+    {
+      "text": "随风满地石乱走。",
+      "pinyin": ["suí", "fēng", "mǎn", "dì", "shí", "luàn", "zǒu"],
+      "translation": "被风卷得满地乱滚。",
+      "noteIds": []
+    },
+    {
+      "text": "匈奴草黄马正肥，",
+      "pinyin": ["xiōng", "nú", "cǎo", "huáng", "mǎ", "zhèng", "féi"],
+      "translation": "匈奴的草黄了，战马正肥壮，",
+      "noteIds": []
+    },
+    {
+      "text": "金山西见烟尘飞，",
+      "pinyin": ["jīn", "shān", "xī", "jiàn", "yān", "chén", "fēi"],
+      "translation": "金山的西面烟尘滚滚，",
+      "noteIds": ["n-jinshan"]
+    },
+    {
+      "text": "汉家大将西出师。",
+      "pinyin": ["hàn", "jiā", "dà", "jiàng", "xī", "chū", "shī"],
+      "translation": "汉朝的大将带兵向西出征。",
+      "noteIds": ["n-hanjia"]
+    },
+    {
+      "text": "将军金甲夜不脱，",
+      "pinyin": ["jiāng", "jūn", "jīn", "jiǎ", "yè", "bù", "tuō"],
+      "translation": "将军的金甲夜里也不脱下，",
+      "noteIds": []
+    },
+    {
+      "text": "半夜军行戈相拨，",
+      "pinyin": ["bàn", "yè", "jūn", "xíng", "gē", "xiāng", "bō"],
+      "translation": "半夜行军，戈矛相互碰击，",
+      "noteIds": []
+    },
+    {
+      "text": "风头如刀面如割。",
+      "pinyin": ["fēng", "tóu", "rú", "dāo", "miàn", "rú", "gē"],
+      "translation": "风头像刀子一样割在脸上。",
+      "noteIds": []
+    },
+    {
+      "text": "马毛带雪汗气蒸，",
+      "pinyin": ["mǎ", "máo", "dài", "xuě", "hàn", "qì", "zhēng"],
+      "translation": "马毛带着雪，汗气一蒸，",
+      "noteIds": []
+    },
+    {
+      "text": "五花连钱旋作冰，",
+      "pinyin": ["wǔ", "huā", "lián", "qián", "xuán", "zuò", "bīng"],
+      "translation": "名贵的战马转眼就结了冰，",
+      "noteIds": ["n-wuhua", "n-lianqian"]
+    },
+    {
+      "text": "幕中草檄砚水凝。",
+      "pinyin": ["mù", "zhōng", "cǎo", "xí", "yàn", "shuǐ", "níng"],
+      "translation": "营帐里起草文书的砚水也冻住了。",
+      "noteIds": ["n-caoxxi"]
+    },
+    {
+      "text": "虏骑闻之应胆慑，",
+      "pinyin": ["lǔ", "qí", "wén", "zhī", "yīng", "dǎn", "shè"],
+      "translation": "敌人的骑兵听说了一定吓得胆战心惊，",
+      "noteIds": ["n-luqi"]
+    },
+    {
+      "text": "料知短兵不敢接，",
+      "pinyin": ["liào", "zhī", "duǎn", "bīng", "bù", "gǎn", "jiē"],
+      "translation": "料定他们不敢和我们短兵相接，",
+      "noteIds": []
+    },
+    {
+      "text": "车师西门伫献捷。",
+      "pinyin": ["chē", "shī", "xī", "mén", "zhù", "xiàn", "jié"],
+      "translation": "我们就等在车师西门，迎接献上战功的捷报吧。",
+      "noteIds": ["n-cheshi", "n-zhu", "n-xianjie"]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-zoumachuan",
+      "word": "走马川",
+      "pinyin": "zǒu mǎ chuān",
+      "meaning": "地名，在今新疆境内。"
+    },
+    {
+      "id": "n-luntai",
+      "word": "轮台",
+      "pinyin": "lún tái",
+      "meaning": "地名，在今新疆轮台县一带。"
+    },
+    {
+      "id": "n-dou",
+      "word": "斗",
+      "pinyin": "dǒu",
+      "meaning": "量粮食的器具，这里形容石头大。"
+    },
+    {
+      "id": "n-jinshan",
+      "word": "金山",
+      "pinyin": "jīn shān",
+      "meaning": "即阿尔泰山，在新疆北部。"
+    },
+    {
+      "id": "n-hanjia",
+      "word": "汉家",
+      "pinyin": "hàn jiā",
+      "meaning": "唐朝人借汉朝指本朝。"
+    },
+    {
+      "id": "n-wuhua",
+      "word": "五花",
+      "pinyin": "wǔ huā",
+      "meaning": "把马毛剪成五瓣的名贵马。"
+    },
+    {
+      "id": "n-lianqian",
+      "word": "连钱",
+      "pinyin": "lián qián",
+      "meaning": "马身上的斑纹像连成一串的铜钱。"
+    },
+    {
+      "id": "n-caoxxi",
+      "word": "草檄",
+      "pinyin": "cǎo xí",
+      "meaning": "起草讨伐的文书。"
+    },
+    {
+      "id": "n-luqi",
+      "word": "虏骑",
+      "pinyin": "lǔ jì",
+      "meaning": "敌人的骑兵。"
+    },
+    {
+      "id": "n-cheshi",
+      "word": "车师",
+      "pinyin": "chē shī",
+      "meaning": "西域地名，在今新疆吐鲁番一带。"
+    },
+    {
+      "id": "n-zhu",
+      "word": "伫",
+      "pinyin": "zhù",
+      "meaning": "长久站立等候。"
+    },
+    {
+      "id": "n-xianjie",
+      "word": "献捷",
+      "pinyin": "xiàn jié",
+      "meaning": "打胜仗后报告战功。"
+    }
+  ],
+  "translation": "你难道没看见吗？走马川在雪海边上，茫茫的沙漠一直黄到天边。九月的轮台，夜里狂风怒吼，一川的碎石大得像斗，被风卷得满地乱滚。匈奴的草黄了，战马正肥壮，金山的西面烟尘滚滚，汉朝的大将带兵向西出征。将军的金甲夜里也不脱下，半夜行军戈矛相互碰击，风头像刀子一样割在脸上。马毛带着雪，汗气一蒸就结成冰，营帐里起草文书的砚水也冻住了。敌人的骑兵听说了一定吓得胆战心惊，料定不敢和我们短兵相接，我们就等在车师西门，迎接献上战功的捷报吧。",
+  "appreciation": "这首诗把边塞的风写到了极致：风夜吼、石乱走、面如割，一句比一句惊人。夜不脱甲的将军、冻住砚水的营帐，处处显出军旅的辛苦和士气的高昂。全诗句句押韵、三句一转，读起来像战鼓一样急促有力，是岑参边塞诗的代表作。",
+  "background": "公元754年，岑参在安西北庭节度使封常清的幕府中任职，亲眼见过西域的奇寒与狂风。这年九月前后，封常清率军西征，岑参在军中写下这首诗为大军壮行，把走马川的风沙和唐军的士气一起写了出来。",
+  "storyline": [
+    { "step": 1, "title": "狂风夜吼", "text": "九月的轮台狂风怒吼，大如斗的碎石满地乱滚。" },
+    { "step": 2, "title": "大将出师", "text": "匈奴草黄马正肥，汉家大将带兵向西出征。" },
+    { "step": 3, "title": "夜半行军", "text": "将军夜里也不脱金甲，风头像刀子割在脸上。" },
+    { "step": 4, "title": "预祝献捷", "text": "敌人必定胆寒不敢交战，大军将在车师西门献捷。" }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "莽",
+      "reading": "mǎng",
+      "reason": "“平沙莽莽”形容沙漠无边无际，读 mǎng。"
+    },
+    {
+      "char": "檄",
+      "reading": "xí",
+      "reason": "“草檄”指起草讨伐文书，“檄”读 xí。"
+    },
+    {
+      "char": "骑",
+      "reading": "jì",
+      "reason": "“虏骑”指敌人的骑兵，作名词读 jì。",
+      "standard": "不要读成 qí"
+    }
+  ],
+  "sources": ["《全唐诗》", "《唐诗三百首》"],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1203
+}

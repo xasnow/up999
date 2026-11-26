@@ -1,0 +1,159 @@
+{
+  "id": "tang-wantang-lishangyin-wuti-xiangjianshinan",
+  "slug": "wuti-xiangjianshinan",
+  "title": "无题·相见时难别亦难",
+  "titlePinyin": "wú tí·xiāng jiàn shí nán bié yì nán",
+  "dynasty": "tangshi",
+  "era": "wantang",
+  "genre": "shi",
+  "form": "七言律诗",
+  "authorId": "lishangyin",
+  "gradeBand": "ext",
+  "tags": [
+    "思念",
+    "七言律诗",
+    "春蚕",
+    "东风"
+  ],
+  "difficulty": 3,
+  "writtenYear": 856,
+  "writtenLabel": "作年不详，约公元 856 年（大中末年，李商隐 44 岁前后的爱情诗）",
+  "orderInAuthor": 1,
+  "no": 1130,
+  "famousLines": [
+    "春蚕到死丝方尽，蜡炬成灰泪始干。"
+  ],
+  "lines": [
+    {
+      "text": "相见时难别亦难，",
+      "pinyin": ["xiāng", "jiàn", "shí", "nán", "bié", "yì", "nán"],
+      "translation": "相见本就艰难，离别时更难分难舍，",
+      "noteIds": []
+    },
+    {
+      "text": "东风无力百花残。",
+      "pinyin": ["dōng", "fēng", "wú", "lì", "bǎi", "huā", "cán"],
+      "translation": "东风已经无力，百花纷纷凋残。",
+      "noteIds": ["n-dongfeng"]
+    },
+    {
+      "text": "春蚕到死丝方尽，",
+      "pinyin": ["chūn", "cán", "dào", "sǐ", "sī", "fāng", "jìn"],
+      "translation": "春蚕直到死去，才把丝吐尽，",
+      "noteIds": ["n-sifangjin"]
+    },
+    {
+      "text": "蜡炬成灰泪始干。",
+      "pinyin": ["là", "jù", "chéng", "huī", "lèi", "shǐ", "gān"],
+      "translation": "蜡烛烧成灰烬，蜡泪才会流干。",
+      "noteIds": ["n-laju"]
+    },
+    {
+      "text": "晓镜但愁云鬓改，",
+      "pinyin": ["xiǎo", "jìng", "dàn", "chóu", "yún", "bìn", "gǎi"],
+      "translation": "早晨照镜，只愁鬓发如云却日渐改变，",
+      "noteIds": ["n-yunbin"]
+    },
+    {
+      "text": "夜吟应觉月光寒。",
+      "pinyin": ["yè", "yín", "yīng", "jué", "yuè", "guāng", "hán"],
+      "translation": "夜里吟诗，应觉得月光的寒意。",
+      "noteIds": []
+    },
+    {
+      "text": "蓬山此去无多路，",
+      "pinyin": ["péng", "shān", "cǐ", "qù", "wú", "duō", "lù"],
+      "translation": "对方的住处从这里去本没有多少路，",
+      "noteIds": ["n-pengshan"]
+    },
+    {
+      "text": "青鸟殷勤为探看。",
+      "pinyin": ["qīng", "niǎo", "yīn", "qín", "wèi", "tàn", "kān"],
+      "translation": "希望青鸟殷勤地替我去探望。",
+      "noteIds": ["n-qingniao", "n-tankan"]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-dongfeng",
+      "word": "东风",
+      "pinyin": "dōng fēng",
+      "meaning": "春风。"
+    },
+    {
+      "id": "n-sifangjin",
+      "word": "丝方尽",
+      "pinyin": "sī fāng jìn",
+      "meaning": "“丝”与“思”谐音，既指蚕丝吐尽，也指思念至死方休。"
+    },
+    {
+      "id": "n-laju",
+      "word": "蜡炬",
+      "pinyin": "là jù",
+      "meaning": "蜡烛。烛泪流尽才成灰，喻相思之泪。"
+    },
+    {
+      "id": "n-yunbin",
+      "word": "云鬓",
+      "pinyin": "yún bìn",
+      "meaning": "女子浓密如云的鬓发。"
+    },
+    {
+      "id": "n-pengshan",
+      "word": "蓬山",
+      "pinyin": "péng shān",
+      "meaning": "蓬莱山，神话中海上仙山，指可望而难即的地方。"
+    },
+    {
+      "id": "n-qingniao",
+      "word": "青鸟",
+      "pinyin": "qīng niǎo",
+      "meaning": "神话中西王母传信的神鸟，借指传信的使者。"
+    },
+    {
+      "id": "n-tankan",
+      "word": "探看",
+      "pinyin": "tàn kān",
+      "meaning": "探望、探视。"
+    }
+  ],
+  "translation": "相见本就艰难，离别时更难分难舍，东风已经无力，百花纷纷凋残。春蚕直到死去，才把丝吐尽；蜡烛烧成灰烬，蜡泪才会流干。早晨照镜，只愁鬓发如云却日渐改变；夜里吟诗，应觉得月光的寒意。对方的住处从这里去本没有多少路，希望青鸟殷勤地替我去探望。",
+  "appreciation": "这首诗写尽了离别中最深的情。花开到了尽头，风也吹不动了，正是相见难、别亦难的时候。春蚕吐丝，到死才停；蜡烛流泪，成灰才干——两句把“思念到生命尽头”说得又柔又狠，千百年来被用来形容一切至死不休的深情，早已越出了爱情的范围。结尾寄望于神话中的青鸟替自己探望，明知无望仍要一试，把缠绵的痴情写得格外动人。",
+  "background": "李商隐的爱情诗常以《无题》为名，感情深挚而含蓄隐晦。这首诗写他与所爱之人分别后的思念：相见不易，别后思如春蚕、如蜡炬，无一刻停止。写作年代已难确考，一般认为是诗人中年以后的作品。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "相见难别",
+      "text": "相见本已艰难，离别更难分难舍。"
+    },
+    {
+      "step": 2,
+      "title": "东风花残",
+      "text": "暮春时节，东风无力，百花凋残。"
+    },
+    {
+      "step": 3,
+      "title": "蚕丝烛泪",
+      "text": "春蚕到死丝才尽，蜡烛成灰泪才干。"
+    },
+    {
+      "step": 4,
+      "title": "青鸟探看",
+      "text": "蓬山虽远，且托青鸟殷勤探望。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "看",
+      "reading": "kān",
+      "reason": "“探看”在诗中为平声，读 kān。",
+      "standard": "不要读成 kàn"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26"
+}

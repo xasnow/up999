@@ -1,0 +1,120 @@
+{
+  "id": "tang-zhongtang-daishulun-jiang-xiang-gu-ren-ou-ji-ke-she",
+  "slug": "jiang-xiang-gu-ren-ou-ji-ke-she",
+  "title": "江乡故人偶集客舍",
+  "titlePinyin": "jiāng xiāng gù rén ǒu jí kè shè",
+  "dynasty": "tangshi",
+  "era": "zhongtang",
+  "genre": "shi",
+  "form": "五言律诗",
+  "authorId": "daishulun",
+  "gradeBand": "ext",
+  "tags": ["友情", "五言律诗", "月夜", "秋天"],
+  "difficulty": 3,
+  "writtenYear": 769,
+  "writtenLabel": "约公元 769 年（戴叔伦 37 岁，客居长安，与江南故人重逢）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "还作江南会，翻疑梦里逢。"
+  ],
+  "lines": [
+    {
+      "text": "天秋月又满，",
+      "pinyin": ["tiān", "qiū", "yuè", "yòu", "mǎn"],
+      "translation": "秋天的夜空，月亮又圆了，",
+      "noteIds": []
+    },
+    {
+      "text": "城阙夜千重。",
+      "pinyin": ["chéng", "què", "yè", "qiān", "chóng"],
+      "translation": "京城宫阙笼罩在深深的夜色里。",
+      "noteIds": ["n-chengque"]
+    },
+    {
+      "text": "还作江南会，",
+      "pinyin": ["hái", "zuò", "jiāng", "nán", "huì"],
+      "translation": "我们竟像在江南家乡时那样相聚，",
+      "noteIds": ["n-hui"]
+    },
+    {
+      "text": "翻疑梦里逢。",
+      "pinyin": ["fān", "yí", "mèng", "lǐ", "féng"],
+      "translation": "反而让人怀疑是在梦中相逢。",
+      "noteIds": []
+    },
+    {
+      "text": "风枝惊暗鹊，",
+      "pinyin": ["fēng", "zhī", "jīng", "àn", "què"],
+      "translation": "风吹动树枝，惊起了暗处栖息的乌鹊，",
+      "noteIds": []
+    },
+    {
+      "text": "露草覆寒蛩。",
+      "pinyin": ["lù", "cǎo", "fù", "hán", "qióng"],
+      "translation": "露水沾湿秋草，寒蛩在草下低鸣。",
+      "noteIds": ["n-qiong"]
+    },
+    {
+      "text": "羁旅长堪醉，",
+      "pinyin": ["jī", "lǚ", "cháng", "kān", "zuì"],
+      "translation": "客居在外的人正该一醉方休，",
+      "noteIds": ["n-jilv"]
+    },
+    {
+      "text": "相留畏晓钟。",
+      "pinyin": ["xiāng", "liú", "wèi", "xiǎo", "zhōng"],
+      "translation": "我们互相挽留，只怕听见报晓的钟声。",
+      "noteIds": ["n-xiaozhong"]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-chengque",
+      "word": "城阙",
+      "pinyin": "chéng què",
+      "meaning": "京城里的宫阙，这里指长安。"
+    },
+    {
+      "id": "n-hui",
+      "word": "会",
+      "pinyin": "huì",
+      "meaning": "聚会、相会。"
+    },
+    {
+      "id": "n-qiong",
+      "word": "蛩",
+      "pinyin": "qióng",
+      "meaning": "蟋蟀。"
+    },
+    {
+      "id": "n-jilv",
+      "word": "羁旅",
+      "pinyin": "jī lǚ",
+      "meaning": "长期寄居他乡。"
+    },
+    {
+      "id": "n-xiaozhong",
+      "word": "晓钟",
+      "pinyin": "xiǎo zhōng",
+      "meaning": "报晓的钟声，指天亮。"
+    }
+  ],
+  "translation": "秋天的夜空，月亮又圆又亮；京城的夜里，宫阙重重。我们又像在江南家乡时那样相聚，反而让人怀疑是在梦中相逢。风吹动树枝，惊起了暗处的乌鹊；露水沾湿秋草，蟋蟀在草下低鸣。客居他乡就该开怀畅饮，我们互相挽留，只怕天亮时报晓的钟声响起。",
+  "appreciation": "几位江南老乡在长安的客舍里意外相逢，高兴得都不敢相信是真的。诗人写月圆、写惊鹊、写寒蛩，把“夜深人未散”的欢喜写得又暖又轻。最后一句最妙：不写离别，只写“怕听晓钟”——钟声一响，相聚就结束了。把舍不得说成“怕”，友情显得格外真挚动人。",
+  "background": "戴叔伦是江南金坛人，长期在长安求官任职。一个秋夜，几位江南故人偶然在客舍相聚，那晚月亮正圆。老友在他乡重逢，大家又惊又喜，喝酒谈心到深夜，诗人写下这首诗，记下这次难得的团聚。",
+  "storyline": [
+    { "step": 1, "title": "秋夜月圆", "text": "秋天夜里，一轮圆月照着重重宫阙。" },
+    { "step": 2, "title": "他乡重逢", "text": "江南故人偶聚客舍，高兴得像在梦中。" },
+    { "step": 3, "title": "风枝露草", "text": "风吹树枝惊起乌鹊，寒蛩在湿草里低鸣。" },
+    { "step": 4, "title": "畏晓钟声", "text": "众人畅饮挽留，生怕天亮钟响聚会就散。" }
+  ],
+  "pinyinNotes": [
+    { "char": "蛩", "reading": "qióng", "reason": "“寒蛩”是深秋的蟋蟀，“蛩”读 qióng。" },
+    { "char": "羁", "reading": "jī", "reason": "“羁旅”指寄居他乡，“羁”读 jī。" },
+    { "char": "覆", "reading": "fù", "reason": "“露草覆寒蛩”的“覆”是覆盖、遮盖的意思，读 fù。" }
+  ],
+  "sources": ["《全唐诗》", "《唐诗三百首》"],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1117
+}

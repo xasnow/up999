@@ -1,0 +1,119 @@
+{
+  "id": "tang-wantang-yiming-zashi-yiming",
+  "slug": "zashi-yiming",
+  "title": "杂诗",
+  "titlePinyin": "zá shī",
+  "dynasty": "tangshi",
+  "era": "wantang",
+  "genre": "shi",
+  "form": "七言绝句",
+  "authorId": "yiming",
+  "gradeBand": "ext",
+  "tags": ["思乡", "七言绝句", "春天", "杜鹃"],
+  "difficulty": 3,
+  "writtenYear": 870,
+  "writtenLabel": "约公元 870 年前后（唐末，此诗在民间流传，作者佚名）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "等是有家归未得，杜鹃休向耳边啼。"
+  ],
+  "lines": [
+    {
+      "text": "近寒食雨草萋萋，",
+      "pinyin": ["jìn", "hán", "shí", "yǔ", "cǎo", "qī", "qī"],
+      "translation": "快到寒食节了，细雨中春草长得又密又绿，",
+      "noteIds": ["n-hanshi", "n-qiqi"]
+    },
+    {
+      "text": "著麦苗风柳映堤。",
+      "pinyin": ["zhuó", "mài", "miáo", "fēng", "liǔ", "yìng", "dī"],
+      "translation": "风拂过麦苗，柳荫掩映着长堤。",
+      "noteIds": []
+    },
+    {
+      "text": "等是有家归未得，",
+      "pinyin": ["děng", "shì", "yǒu", "jiā", "guī", "wèi", "dé"],
+      "translation": "同样是有家的人，却回不去，",
+      "noteIds": ["n-dengshi"]
+    },
+    {
+      "text": "杜鹃休向耳边啼。",
+      "pinyin": ["dù", "juān", "xiū", "xiàng", "ěr", "biān", "tí"],
+      "translation": "杜鹃鸟啊，请别再对着我的耳朵啼叫了。",
+      "noteIds": ["n-dujuan"]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-hanshi",
+      "word": "寒食",
+      "pinyin": "hán shí",
+      "meaning": "节日名，在清明前一两天，按习俗禁火、吃冷食。"
+    },
+    {
+      "id": "n-qiqi",
+      "word": "萋萋",
+      "pinyin": "qī qī",
+      "meaning": "形容草木长得茂盛。"
+    },
+    {
+      "id": "n-dengshi",
+      "word": "等是",
+      "pinyin": "děng shì",
+      "meaning": "同样是。"
+    },
+    {
+      "id": "n-dujuan",
+      "word": "杜鹃",
+      "pinyin": "dù juān",
+      "meaning": "鸟名，即子规，啼声像“不如归去”，最能勾起思乡之情。"
+    }
+  ],
+  "translation": "快到寒食节了，细雨中春草长得又密又绿，风拂过麦苗，柳荫掩映着长堤。同样是有家的人，却回不去，杜鹃鸟啊，请别再对着我的耳朵啼叫了。",
+  "appreciation": "前两句全是好风景：雨润春草、风拂麦苗、柳映长堤，越是明媚，越衬出诗人心里的事。后两句突然说破：我也有家，就是回不去。连叫声像“不如归去”的杜鹃，都成了扎心的声音，只好求它别再叫了。风景写得很轻，乡愁却写得很重。",
+  "background": "这首诗是唐末在民间流传的作品，作者姓名没有留下来。当时社会动荡，很多人常年在外漂泊，有家难回。诗人抓住寒食前后春景正好、游人思归的时节，写出“有家归未得”的普遍心情，所以能够传唱开来。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "寒食将近",
+      "text": "快到寒食节，细雨把春草浇得又密又绿。"
+    },
+    {
+      "step": 2,
+      "title": "风柳映堤",
+      "text": "风拂麦苗，堤岸两边柳条摇曳，春光正好。"
+    },
+    {
+      "step": 3,
+      "title": "有家难回",
+      "text": "诗人叹气：同样有家，我却回不去。"
+    },
+    {
+      "step": 4,
+      "title": "求鸟莫啼",
+      "text": "杜鹃声声像“不如归去”，求你别再叫了。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "著",
+      "reading": "zhuó",
+      "reason": "这里是“附着、吹拂”的意思，“著麦苗风”即拂过麦苗的风，读 zhuó。",
+      "standard": "不要读成 zhù"
+    },
+    {
+      "char": "萋萋",
+      "reading": "qī qī",
+      "reason": "形容草木茂盛，读 qī。"
+    },
+    {
+      "char": "等",
+      "reading": "děng",
+      "reason": "“等是”即“同样是”，读 děng。"
+    }
+  ],
+  "sources": ["《全唐诗》", "《唐诗三百首》"],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1038
+}

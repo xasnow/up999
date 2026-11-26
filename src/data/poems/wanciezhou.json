@@ -1,0 +1,151 @@
+{
+  "id": "tang-zhongtang-lulun-wanciezhou",
+  "slug": "wanciezhou",
+  "title": "晚次鄂州",
+  "titlePinyin": "wǎn cì è zhōu",
+  "dynasty": "tangshi",
+  "era": "zhongtang",
+  "genre": "shi",
+  "form": "七言律诗",
+  "authorId": "lulun",
+  "gradeBand": "ext",
+  "tags": ["思乡", "七言律诗", "明月", "秋色"],
+  "difficulty": 3,
+  "writtenYear": 757,
+  "writtenLabel": "约公元 757 年（卢纶约 18 岁，安史之乱中避乱南行，夜泊鄂州）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "万里归心对月明。",
+    "旧业已随征战尽，更堪江上鼓鼙声。"
+  ],
+  "lines": [
+    {
+      "text": "云开远见汉阳城，",
+      "pinyin": ["yún", "kāi", "yuǎn", "jiàn", "hàn", "yáng", "chéng"],
+      "translation": "云散开了，远远望见汉阳城，",
+      "noteIds": ["n-hancheng"]
+    },
+    {
+      "text": "犹是孤帆一日程。",
+      "pinyin": ["yóu", "shì", "gū", "fān", "yī", "rì", "chéng"],
+      "translation": "可孤帆还要再走一整天的水路。",
+      "noteIds": []
+    },
+    {
+      "text": "估客昼眠知浪静，",
+      "pinyin": ["gū", "kè", "zhòu", "mián", "zhī", "làng", "jìng"],
+      "translation": "白天商人在船舱里安睡，知道江上风平浪静，",
+      "noteIds": ["n-guke"]
+    },
+    {
+      "text": "舟人夜语觉潮生。",
+      "pinyin": ["zhōu", "rén", "yè", "yǔ", "jué", "cháo", "shēng"],
+      "translation": "夜里听见船夫们低声说话，就知道涨潮了。",
+      "noteIds": ["n-zhouren"]
+    },
+    {
+      "text": "三湘愁鬓逢秋色，",
+      "pinyin": ["sān", "xiāng", "chóu", "bìn", "féng", "qiū", "sè"],
+      "translation": "我这漂泊三湘的人愁白了鬓发，又碰上萧瑟的秋色，",
+      "noteIds": ["n-sanxiang"]
+    },
+    {
+      "text": "万里归心对月明。",
+      "pinyin": ["wàn", "lǐ", "guī", "xīn", "duì", "yuè", "míng"],
+      "translation": "万里之外的归乡之心，对着明月更难平静。",
+      "noteIds": []
+    },
+    {
+      "text": "旧业已随征战尽，",
+      "pinyin": ["jiù", "yè", "yǐ", "suí", "zhēng", "zhàn", "jìn"],
+      "translation": "家中的产业已经在战乱中荡然无存，",
+      "noteIds": ["n-jiuye"]
+    },
+    {
+      "text": "更堪江上鼓鼙声。",
+      "pinyin": ["gèng", "kān", "jiāng", "shàng", "gǔ", "pí", "shēng"],
+      "translation": "哪还受得了江上又传来战鼓的声音。",
+      "noteIds": ["n-gupi"]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-hancheng",
+      "word": "汉阳城",
+      "pinyin": "hàn yáng chéng",
+      "meaning": "在今湖北武汉汉阳一带，唐代属鄂州。"
+    },
+    {
+      "id": "n-guke",
+      "word": "估客",
+      "pinyin": "gū kè",
+      "meaning": "商人。"
+    },
+    {
+      "id": "n-zhouren",
+      "word": "舟人",
+      "pinyin": "zhōu rén",
+      "meaning": "船夫。"
+    },
+    {
+      "id": "n-sanxiang",
+      "word": "三湘",
+      "pinyin": "sān xiāng",
+      "meaning": "泛指今湖南一带的湘江流域。"
+    },
+    {
+      "id": "n-jiuye",
+      "word": "旧业",
+      "pinyin": "jiù yè",
+      "meaning": "家中原有的产业，也指原来的家园和事业。"
+    },
+    {
+      "id": "n-gupi",
+      "word": "鼓鼙",
+      "pinyin": "gǔ pí",
+      "meaning": "军中用的战鼓，指战争的声音。"
+    }
+  ],
+  "translation": "云散开了，远远望见汉阳城，可孤帆还要再走一整天的水路。白天商人在船舱里安睡，知道江上风平浪静；夜里听见船夫们低声说话，就知道涨潮了。我这漂泊三湘的人愁白了鬓发，又碰上萧瑟的秋色；万里之外的归乡之心，对着明月更难平静。家中的产业已经在战乱中荡然无存，哪还受得了江上又传来战鼓的声音。",
+  "appreciation": "这是在逃难的船上写的诗。诗人把船上的日子看得特别细：商人白天睡觉，说明江面安静；船夫半夜说话，说明潮水涨了。生活细节里全是颠簸和不安。后两句一下子放开：愁鬓、明月、万里归心，再听到江上的战鼓，把乱世人“有家难回”的滋味写透了。难怪后来很多人称赞这首七律。",
+  "background": "安史之乱爆发后，北方战火连天，年轻的卢纶逃往南方避难。船到鄂州暂时停泊，他望着远处的汉阳城，听着船夫的夜语和江上的鼓声，想起已经毁于战火的家业，在一个秋夜里写下了这首诗。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "云开望城",
+      "text": "云散开后远远望见汉阳城，可孤帆还要走一整天水路。"
+    },
+    {
+      "step": 2,
+      "title": "舟中昼夜",
+      "text": "商人白天安睡，知道江面平静；船夫夜里低语，说明潮水涨了。"
+    },
+    {
+      "step": 3,
+      "title": "对月思归",
+      "text": "漂泊三湘的人鬓发已白，又逢秋色，万里归心对着明月。"
+    },
+    {
+      "step": 4,
+      "title": "又闻战鼓",
+      "text": "家业已在战乱中毁尽，江上偏偏又传来阵阵战鼓声。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "估",
+      "reading": "gū",
+      "reason": "“估客”指商人，读 gū。",
+      "standard": "不要读成 gǔ"
+    },
+    {
+      "char": "鼙",
+      "reading": "pí",
+      "reason": "鼙是一种战鼓，读 pí。"
+    }
+  ],
+  "sources": ["《全唐诗》", "《唐诗三百首》"],
+  "no": 1163,
+  "status": "published",
+  "updatedAt": "2026-11-26"
+}

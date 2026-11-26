@@ -1,0 +1,160 @@
+{
+  "id": "tang-wantang-dumu-jiangfuwuxing-yijue",
+  "slug": "jiangfuwuxing-yijue",
+  "title": "将赴吴兴登乐游原一绝",
+  "titlePinyin": "jiāng fù wú xīng dēng lè yóu yuán yī jué",
+  "dynasty": "tangshi",
+  "era": "wantang",
+  "genre": "shi",
+  "form": "七言绝句",
+  "authorId": "dumu",
+  "gradeBand": "ext",
+  "tags": [
+    "怀古",
+    "七言绝句",
+    "孤云"
+  ],
+  "difficulty": 3,
+  "writtenYear": 850,
+  "writtenLabel": "约公元 850 年（杜牧 48 岁，将赴湖州刺史任，登乐游原远望）",
+  "orderInAuthor": 1,
+  "no": 1027,
+  "famousLines": [
+    "欲把一麾江海去，乐游原上望昭陵。"
+  ],
+  "lines": [
+    {
+      "text": "清时有味是无能，",
+      "pinyin": [
+        "qīng",
+        "shí",
+        "yǒu",
+        "wèi",
+        "shì",
+        "wú",
+        "néng"
+      ],
+      "translation": "太平清明的时代里，能自得其乐的其实是没有才能的人，",
+      "noteIds": [
+        "n-qingshi",
+        "n-wuneng"
+      ]
+    },
+    {
+      "text": "闲爱孤云静爱僧。",
+      "pinyin": [
+        "xián",
+        "ài",
+        "gū",
+        "yún",
+        "jìng",
+        "ài",
+        "sēng"
+      ],
+      "translation": "闲时爱看孤云，静时爱亲近僧人。",
+      "noteIds": []
+    },
+    {
+      "text": "欲把一麾江海去，",
+      "pinyin": [
+        "yù",
+        "bǎ",
+        "yī",
+        "huī",
+        "jiāng",
+        "hǎi",
+        "qù"
+      ],
+      "translation": "如今我要带着出守的旌旗到江海之滨去了，",
+      "noteIds": [
+        "n-yihui"
+      ]
+    },
+    {
+      "text": "乐游原上望昭陵。",
+      "pinyin": [
+        "lè",
+        "yóu",
+        "yuán",
+        "shàng",
+        "wàng",
+        "zhāo",
+        "líng"
+      ],
+      "translation": "登上乐游原，再回头望一望唐太宗的昭陵。",
+      "noteIds": [
+        "n-zhaoling"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-qingshi",
+      "word": "清时",
+      "pinyin": "qīng shí",
+      "meaning": "太平清明的时代，这里是反话，暗指朝政并不清明。"
+    },
+    {
+      "id": "n-wuneng",
+      "word": "无能",
+      "pinyin": "wú néng",
+      "meaning": "没有才能，诗人自嘲之语。"
+    },
+    {
+      "id": "n-yihui",
+      "word": "一麾",
+      "pinyin": "yī huī",
+      "meaning": "出任州官时持的旌旗，代指外放做地方官。"
+    },
+    {
+      "id": "n-zhaoling",
+      "word": "昭陵",
+      "pinyin": "zhāo líng",
+      "meaning": "唐太宗李世民的陵墓，在长安北面的山上。"
+    }
+  ],
+  "translation": "太平清明的时代里，能自得其乐的其实是没有才能的人；闲时爱看孤云，静时爱亲近僧人。如今我要带着出守的旌旗到江海之滨去了，登上乐游原，再回头望一望唐太宗的昭陵。",
+  "appreciation": "诗的前两句全是反话：说自己“清时有味”“无能”，其实是抱负无处施展的牢骚。要外放湖州了，诗人不写豪情，只说爱孤云、爱僧人，显得又闲又淡。结句却忽然望向昭陵——唐太宗是励精图治的明君，这一望，把怀才不遇的失望轻轻点破，含蓄而深沉。",
+  "background": "公元850年秋，杜牧多次请求外放，终于获任湖州刺史（吴兴）。临行前他登上长安城边的乐游原，那里可以遥望北方唐太宗的昭陵。诗人回望太宗陵墓，想起自己半生不得重用，写下这首诗。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "自嘲清闲",
+      "text": "诗人自嘲说：太平时代像我这样有“闲味”的，正是无能之人。"
+    },
+    {
+      "step": 2,
+      "title": "云僧之爱",
+      "text": "他闲时爱仰望孤云，静时爱亲近僧人，好像无欲无求。"
+    },
+    {
+      "step": 3,
+      "title": "将赴吴兴",
+      "text": "如今他即将持旗赴湖州上任，从此远去江海之滨。"
+    },
+    {
+      "step": 4,
+      "title": "回望昭陵",
+      "text": "登临乐游原，他久久回望唐太宗的昭陵，心事万千。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "麾",
+      "reading": "huī",
+      "reason": "“一麾”指出任州官时的旌旗，代指外放做官，读 huī。"
+    },
+    {
+      "char": "乐",
+      "reading": "lè",
+      "reason": "“乐游原”是长安的地名，“乐”读 lè。",
+      "standard": "不要读成 yuè"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26"
+}

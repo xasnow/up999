@@ -1,0 +1,153 @@
+{
+  "id": "tang-shengtang-zhangjiuling-ganyu-2",
+  "slug": "ganyu-2",
+  "title": "感遇·其二",
+  "titlePinyin": "gǎn yù qí èr",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "五言古诗",
+  "authorId": "zhangjiuling",
+  "gradeBand": "ext",
+  "tags": [
+    "哲理",
+    "五言古诗",
+    "兰草",
+    "秋桂"
+  ],
+  "difficulty": 3,
+  "writtenYear": 737,
+  "writtenLabel": "约公元737年（张九龄59岁，被贬荆州长史，作《感遇》组诗寄托心事）",
+  "orderInAuthor": 2,
+  "famousLines": [
+    "草木有本心，何求美人折。"
+  ],
+  "lines": [
+    {
+      "text": "兰叶春葳蕤，",
+      "pinyin": ["lán", "yè", "chūn", "wēi", "ruí"],
+      "translation": "兰草在春天枝叶繁茂，",
+      "noteIds": ["n-wei-rui"]
+    },
+    {
+      "text": "桂华秋皎洁。",
+      "pinyin": ["guì", "huā", "qiū", "jiǎo", "jié"],
+      "translation": "桂花在秋天开得皎洁清新。",
+      "noteIds": ["n-hua"]
+    },
+    {
+      "text": "欣欣此生意，",
+      "pinyin": ["xīn", "xīn", "cǐ", "shēng", "yì"],
+      "translation": "它们生机勃勃，欣欣向荣，",
+      "noteIds": []
+    },
+    {
+      "text": "自尔为佳节。",
+      "pinyin": ["zì", "ěr", "wéi", "jiā", "jié"],
+      "translation": "自然而然地装点了美好的季节。",
+      "noteIds": []
+    },
+    {
+      "text": "谁知林栖者，",
+      "pinyin": ["shuí", "zhī", "lín", "qī", "zhě"],
+      "translation": "谁知道住在山林里的隐士，",
+      "noteIds": ["n-qi"]
+    },
+    {
+      "text": "闻风坐相悦。",
+      "pinyin": ["wén", "fēng", "zuò", "xiāng", "yuè"],
+      "translation": "闻到花香，就满心欢喜起来。",
+      "noteIds": ["n-zuo"]
+    },
+    {
+      "text": "草木有本心，",
+      "pinyin": ["cǎo", "mù", "yǒu", "běn", "xīn"],
+      "translation": "草木散发香气是天性使然，",
+      "noteIds": []
+    },
+    {
+      "text": "何求美人折。",
+      "pinyin": ["hé", "qiú", "měi", "rén", "zhé"],
+      "translation": "哪里是为了求人攀折欣赏呢。",
+      "noteIds": []
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-wei-rui",
+      "word": "葳蕤",
+      "pinyin": "wēi ruí",
+      "meaning": "草木茂盛、枝叶下垂的样子。"
+    },
+    {
+      "id": "n-hua",
+      "word": "华",
+      "pinyin": "huā",
+      "meaning": "同“花”，指桂花。"
+    },
+    {
+      "id": "n-qi",
+      "word": "林栖者",
+      "pinyin": "lín qī zhě",
+      "meaning": "栖居在山林中的人，指隐士。"
+    },
+    {
+      "id": "n-zuo",
+      "word": "坐",
+      "pinyin": "zuò",
+      "meaning": "因为。"
+    }
+  ],
+  "translation": "兰草在春天枝叶繁茂，桂花在秋天开得皎洁清新。它们生机勃勃，欣欣向荣，自然而然地装点了美好的季节。谁知道住在山林里的隐士，闻到花香，就满心欢喜起来。草木散发香气是天性使然，哪里是为了求人攀折欣赏呢。",
+  "appreciation": "兰草在春天吐绿，桂花在秋天飘香，它们不是为了讨谁的欢心，而是本来就这样美。诗人被贬后仍坚持操守，就像兰和桂一样：品格是自己的本心，不需要靠别人的赏识来证明。“草木有本心，何求美人折”，写的是草木，说的却是做人的骨气。",
+  "background": "张九龄被贬到荆州后，心情苦闷，却始终不肯改变清正的品格。他看到春天兰草茂盛、秋天桂花飘香，一切顺应时节自然生长，便写下这首诗，以兰桂自比，表明自己修身立德只为本心，不求他人赏识。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "春兰吐叶",
+      "text": "春天来了，兰草的叶子长得又密又软，一片生机。"
+    },
+    {
+      "step": 2,
+      "title": "秋桂飘香",
+      "text": "秋天到了，桂花悄悄开放，香味清清爽爽。"
+    },
+    {
+      "step": 3,
+      "title": "隐士闻香",
+      "text": "山林里的隐士闻到花香，不由得满心欢喜。"
+    },
+    {
+      "step": 4,
+      "title": "本心自守",
+      "text": "草木开花本是天性，从来不是为了求人攀折。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "葳蕤",
+      "reading": "wēi ruí",
+      "reason": "“葳蕤”形容枝叶茂盛，两个都是生僻字。",
+      "standard": "不要读成 wēi rǔ"
+    },
+    {
+      "char": "华",
+      "reading": "huā",
+      "reason": "“桂华”就是桂花，“华”同“花”，读 huā。",
+      "standard": "不要读成 huá"
+    },
+    {
+      "char": "栖",
+      "reading": "qī",
+      "reason": "“林栖者”指住在山林里的人，读 qī。",
+      "standard": "不要读成 xī"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1196
+}

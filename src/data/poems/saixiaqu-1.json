@@ -1,0 +1,114 @@
+{
+  "id": "tang-zhongtang-lulun-saixiaqu-1",
+  "slug": "saixiaqu-1",
+  "title": "塞下曲·鹫翎金仆姑",
+  "titlePinyin": "sài xià qǔ · jiù líng jīn pú gū",
+  "dynasty": "tangshi",
+  "era": "zhongtang",
+  "genre": "shi",
+  "form": "五言乐府",
+  "authorId": "lulun",
+  "gradeBand": "ext",
+  "tags": ["边塞", "五言乐府", "大雕", "军旗"],
+  "difficulty": 3,
+  "writtenYear": 790,
+  "writtenLabel": "约公元 790 年（卢纶 51 岁，在军幕中写成《塞下曲》组诗第一首）",
+  "orderInAuthor": 2,
+  "famousLines": [
+    "独立扬新令，千营共一呼。"
+  ],
+  "lines": [
+    {
+      "text": "鹫翎金仆姑，",
+      "pinyin": ["jiù", "líng", "jīn", "pú", "gū"],
+      "translation": "将军的箭尾插着大雕的羽毛，那是好箭“金仆姑”。",
+      "noteIds": ["n-jiuling", "n-jinpugu"]
+    },
+    {
+      "text": "燕尾绣蝥弧。",
+      "pinyin": ["yàn", "wěi", "xiù", "máo", "hú"],
+      "translation": "军旗绣着花纹，飘起来像燕子的尾巴。",
+      "noteIds": ["n-maohu"]
+    },
+    {
+      "text": "独立扬新令，",
+      "pinyin": ["dú", "lì", "yáng", "xīn", "lìng"],
+      "translation": "将军独立阵前，发布出征的新命令，",
+      "noteIds": ["n-yang"]
+    },
+    {
+      "text": "千营共一呼。",
+      "pinyin": ["qiān", "yíng", "gòng", "yī", "hū"],
+      "translation": "上千座军营的士兵齐声呐喊，声音震天。",
+      "noteIds": []
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-jiuling",
+      "word": "鹫翎",
+      "pinyin": "jiù líng",
+      "meaning": "大雕翅膀上的羽毛，用来做箭尾。"
+    },
+    {
+      "id": "n-jinpugu",
+      "word": "金仆姑",
+      "pinyin": "jīn pú gū",
+      "meaning": "古代一种名箭的名字。"
+    },
+    {
+      "id": "n-maohu",
+      "word": "蝥弧",
+      "pinyin": "máo hú",
+      "meaning": "春秋时诸侯用的旗名，这里指军旗。"
+    },
+    {
+      "id": "n-yang",
+      "word": "扬",
+      "pinyin": "yáng",
+      "meaning": "发布、宣布。"
+    }
+  ],
+  "translation": "将军的箭尾插着大雕的羽毛，那是好箭“金仆姑”；军旗绣着花纹，飘起来像燕子的尾巴。将军独立阵前，发布出征的新命令，上千座军营的士兵齐声呐喊，声音震天。",
+  "appreciation": "这首诗一开头就抓人：不说士兵多勇敢，只写一支箭、一面旗。雕羽做的箭是好箭，绣花的燕尾旗是帅旗，装备不一般，气势就不一般。将军一声令下，千座军营齐声呐喊——全诗四个字一个画面，二十个字演完了一场点兵，像电影开头的大场面，让人一下子就被带进了边塞军营。",
+  "background": "卢纶曾在军幕中任职，见过真正的军营操演。他借用古乐府《出塞》的调子写成《塞下曲》组诗，一共四首，这是第一首，写将军出征前点兵动员、全军响应的大场面。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "雕翎宝箭",
+      "text": "将军的箭上插着大雕翎毛，那是出名的宝箭金仆姑。"
+    },
+    {
+      "step": 2,
+      "title": "燕尾军旗",
+      "text": "帅旗上绣着彩色花纹，迎风飘起来就像燕子的尾巴。"
+    },
+    {
+      "step": 3,
+      "title": "阵前下令",
+      "text": "将军独自立在阵前，高声发布了出征前的新命令。"
+    },
+    {
+      "step": 4,
+      "title": "千营齐呼",
+      "text": "命令一下，上千座军营的士兵齐声呐喊，声震原野。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "鹫",
+      "reading": "jiù",
+      "reason": "鹫是一种猛雕，读 jiù。"
+    },
+    {
+      "char": "蝥",
+      "reading": "máo",
+      "reason": "“蝥弧”是古代军旗名，读 máo。",
+      "standard": "不要读成 móu"
+    }
+  ],
+  "sources": ["《全唐诗》", "《唐诗三百首》"],
+  "no": 1260,
+  "status": "published",
+  "updatedAt": "2026-11-26"
+}

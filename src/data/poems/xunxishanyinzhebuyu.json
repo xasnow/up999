@@ -1,0 +1,211 @@
+{
+  "id": "tang-shengtang-qiuwei-xunxishanyinzhebuyu",
+  "slug": "xunxishanyinzhebuyu",
+  "title": "寻西山隐者不遇",
+  "titlePinyin": "xún xī shān yǐn zhě bù yù",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "五言古诗",
+  "authorId": "qiuwei",
+  "gradeBand": "ext",
+  "tags": ["友情", "五言古诗", "草色", "松声"],
+  "difficulty": 3,
+  "writtenYear": 735,
+  "writtenLabel": "约公元 735 年（丘为 41 岁前后，隐居山中读书，寻访西山隐士朋友未遇而作）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "草色新雨中，松声晚窗里。",
+    "兴尽方下山，何必待之子。"
+  ],
+  "lines": [
+    {
+      "text": "绝顶一茅茨，",
+      "pinyin": ["jué", "dǐng", "yī", "máo", "cí"],
+      "translation": "山顶上有一间茅草屋，",
+      "noteIds": ["n-maoci"]
+    },
+    {
+      "text": "直上三十里。",
+      "pinyin": ["zhí", "shàng", "sān", "shí", "lǐ"],
+      "translation": "一直往上走要三十里。",
+      "noteIds": []
+    },
+    {
+      "text": "扣关无僮仆，",
+      "pinyin": ["kòu", "guān", "wú", "tóng", "pú"],
+      "translation": "敲门没有人应，僮仆也不在，",
+      "noteIds": ["n-kouguan", "n-tongpu"]
+    },
+    {
+      "text": "窥室唯案几。",
+      "pinyin": ["kuī", "shì", "wéi", "àn", "jī"],
+      "translation": "往屋里看，只有桌椅几案。",
+      "noteIds": ["n-kui", "n-anji"]
+    },
+    {
+      "text": "若非巾柴车，",
+      "pinyin": ["ruò", "fēi", "jīn", "chái", "chē"],
+      "translation": "主人如果不是收拾柴车出门，",
+      "noteIds": ["n-jinche"]
+    },
+    {
+      "text": "应是钓秋水。",
+      "pinyin": ["yīng", "shì", "diào", "qiū", "shuǐ"],
+      "translation": "就是到秋水边钓鱼去了。",
+      "noteIds": []
+    },
+    {
+      "text": "差池不相见，",
+      "pinyin": ["cī", "chí", "bù", "xiāng", "jiàn"],
+      "translation": "我们错过了，没能见面，",
+      "noteIds": ["n-chichi"]
+    },
+    {
+      "text": "黾勉空仰止。",
+      "pinyin": ["mǐn", "miǎn", "kōng", "yǎng", "zhǐ"],
+      "translation": "我殷切仰望，却只落得空望一场。",
+      "noteIds": ["n-minmian"]
+    },
+    {
+      "text": "草色新雨中，",
+      "pinyin": ["cǎo", "sè", "xīn", "yǔ", "zhōng"],
+      "translation": "新雨过后草色青青，",
+      "noteIds": []
+    },
+    {
+      "text": "松声晚窗里。",
+      "pinyin": ["sōng", "shēng", "wǎn", "chuāng", "lǐ"],
+      "translation": "晚风吹松，声声透进窗里。",
+      "noteIds": []
+    },
+    {
+      "text": "及兹契幽绝，",
+      "pinyin": ["jí", "zī", "qì", "yōu", "jué"],
+      "translation": "到这里正合我幽静的心意，",
+      "noteIds": ["n-qi"]
+    },
+    {
+      "text": "自足荡心耳。",
+      "pinyin": ["zì", "zú", "dàng", "xīn", "ěr"],
+      "translation": "足够涤荡我的身心耳目。",
+      "noteIds": []
+    },
+    {
+      "text": "虽无宾主意，",
+      "pinyin": ["suī", "wú", "bīn", "zhǔ", "yì"],
+      "translation": "虽然没有受到主人的招待，",
+      "noteIds": []
+    },
+    {
+      "text": "颇得清净理。",
+      "pinyin": ["pō", "dé", "qīng", "jìng", "lǐ"],
+      "translation": "却很得了些清静的道理。",
+      "noteIds": ["n-pode"]
+    },
+    {
+      "text": "兴尽方下山，",
+      "pinyin": ["xìng", "jìn", "fāng", "xià", "shān"],
+      "translation": "游兴满足了才下山回家，",
+      "noteIds": ["n-xingjin"]
+    },
+    {
+      "text": "何必待之子。",
+      "pinyin": ["hé", "bì", "dài", "zhī", "zǐ"],
+      "translation": "何必非要等到主人回来呢？",
+      "noteIds": ["n-zhizi"]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-maoci",
+      "word": "茅茨",
+      "pinyin": "máo cí",
+      "meaning": "茅草盖的屋顶，指简陋的茅屋。"
+    },
+    {
+      "id": "n-kouguan",
+      "word": "扣关",
+      "pinyin": "kòu guān",
+      "meaning": "敲门。"
+    },
+    {
+      "id": "n-tongpu",
+      "word": "僮仆",
+      "pinyin": "tóng pú",
+      "meaning": "仆人。"
+    },
+    {
+      "id": "n-kui",
+      "word": "窥",
+      "pinyin": "kuī",
+      "meaning": "从外向里张望。"
+    },
+    {
+      "id": "n-anji",
+      "word": "案几",
+      "pinyin": "àn jī",
+      "meaning": "桌子和矮桌。“几”指小桌子时读 jī。"
+    },
+    {
+      "id": "n-jinche",
+      "word": "巾柴车",
+      "pinyin": "jīn chái chē",
+      "meaning": "“巾”作动词，指遮盖、收拾好柴车。柴车是简陋的车。"
+    },
+    {
+      "id": "n-chichi",
+      "word": "差池",
+      "pinyin": "cī chí",
+      "meaning": "本指参差不齐，这里指彼此错过。"
+    },
+    {
+      "id": "n-minmian",
+      "word": "黾勉",
+      "pinyin": "mǐn miǎn",
+      "meaning": "勉力、殷切企望的样子。"
+    },
+    {
+      "id": "n-qi",
+      "word": "契",
+      "pinyin": "qì",
+      "meaning": "契合，投合。"
+    },
+    {
+      "id": "n-pode",
+      "word": "颇得",
+      "pinyin": "pō dé",
+      "meaning": "很是得到。颇，很。"
+    },
+    {
+      "id": "n-xingjin",
+      "word": "兴尽",
+      "pinyin": "xìng jìn",
+      "meaning": "游兴满足。这里用了王子猷雪夜访友“乘兴而行，兴尽而返”的典故。"
+    },
+    {
+      "id": "n-zhizi",
+      "word": "之子",
+      "pinyin": "zhī zǐ",
+      "meaning": "这个人，指西山隐者。"
+    }
+  ],
+  "translation": "山顶上有一间茅草屋，一直往上走要三十里。敲门没有人应，僮仆也不在，往屋里看，只有桌椅几案。主人如果不是收拾柴车出门，就是到秋水边钓鱼去了。我们错过了，没能见面，我殷切仰望，却只落得空望一场。新雨过后草色青青，晚风吹松，声声透进窗里。到这里正合我幽静的心意，足够涤荡我的身心耳目。虽然没有受到主人的招待，却很得了些清静的道理。游兴满足了才下山回家，何必非要等到主人回来呢？",
+  "appreciation": "访友不遇，多数人会觉得扫兴，这首诗却越走越有味道。前八句一路铺垫：三十里山路、空屋、猜测主人的去向，把“不遇”写足；后八句笔锋一转，雨中草色、窗里松声，反而让他得了清净。结尾用王子猷“兴尽而返”的典故：兴致到了就好，见不见面并不重要。这正是隐士式的洒脱。",
+  "background": "约公元 735 年，丘为隐居山中苦读，常常寻访附近山里的隐士朋友。这一次他爬了三十里山路，人没找到，却撞见一场新雨和满山松声。他不但不懊恼，反而把“没见到”写成了收获。",
+  "storyline": [
+    { "step": 1, "title": "直上绝顶", "text": "诗人爬了三十里山路，直上山顶寻访茅屋隐者。" },
+    { "step": 2, "title": "叩门无人", "text": "敲门无人应，屋里只有几案，僮仆也不知去向。" },
+    { "step": 3, "title": "猜想去向", "text": "主人若不是驾柴车出游，就是去秋水边钓鱼了。" },
+    { "step": 4, "title": "兴尽而归", "text": "雨中草色、松声满窗，他兴尽下山，不等主人。" }
+  ],
+  "pinyinNotes": [
+    { "char": "茅茨", "reading": "máo cí", "reason": "“茨”指茅草盖的屋顶，读 cí。" },
+    { "char": "黾勉", "reading": "mǐn miǎn", "reason": "两个生僻字都读第三声，是殷勤企望的意思。" },
+    { "char": "差池", "reading": "cī chí", "reason": "“差池”指错过、不齐，这里读 cī chí。", "standard": "“差”不要读成 chà" }
+  ],
+  "sources": ["《全唐诗》", "《唐诗三百首》"],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1184
+}

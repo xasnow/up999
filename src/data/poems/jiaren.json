@@ -1,0 +1,424 @@
+{
+  "id": "tang-shengtang-dufu-jiaren",
+  "slug": "jiaren",
+  "title": "佳人",
+  "titlePinyin": "jiā rén",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "五言古诗",
+  "authorId": "dufu",
+  "gradeBand": "ext",
+  "tags": [
+    "咏怀",
+    "空谷",
+    "修竹",
+    "五言古诗"
+  ],
+  "difficulty": 3,
+  "writtenYear": 759,
+  "writtenLabel": "约公元 759 年秋（杜甫 47 岁，弃官寓居秦州，见乱离女子有感）",
+  "orderInAuthor": 6,
+  "famousLines": [
+    "在山泉水清，出山泉水浊。",
+    "天寒翠袖薄，日暮倚修竹。"
+  ],
+  "lines": [
+    {
+      "text": "绝代有佳人，",
+      "pinyin": [
+        "jué",
+        "dài",
+        "yǒu",
+        "jiā",
+        "rén"
+      ],
+      "translation": "有一位举世无双的美人，",
+      "noteIds": []
+    },
+    {
+      "text": "幽居在空谷。",
+      "pinyin": [
+        "yōu",
+        "jū",
+        "zài",
+        "kōng",
+        "gǔ"
+      ],
+      "translation": "幽静地住在空旷的山谷里。",
+      "noteIds": []
+    },
+    {
+      "text": "自云良家子，",
+      "pinyin": [
+        "zì",
+        "yún",
+        "liáng",
+        "jiā",
+        "zǐ"
+      ],
+      "translation": "她说自己是好人家的子女，",
+      "noteIds": [
+        "n-liangjia"
+      ]
+    },
+    {
+      "text": "零落依草木。",
+      "pinyin": [
+        "líng",
+        "luò",
+        "yī",
+        "cǎo",
+        "mù"
+      ],
+      "translation": "流落到荒山里，依靠草木过活。",
+      "noteIds": []
+    },
+    {
+      "text": "关中昔丧乱，",
+      "pinyin": [
+        "guān",
+        "zhōng",
+        "xī",
+        "sāng",
+        "luàn"
+      ],
+      "translation": "当年关中发生战乱，",
+      "noteIds": [
+        "n-sangluan"
+      ]
+    },
+    {
+      "text": "兄弟遭杀戮。",
+      "pinyin": [
+        "xiōng",
+        "dì",
+        "zāo",
+        "shā",
+        "lù"
+      ],
+      "translation": "兄弟都惨遭杀害。",
+      "noteIds": []
+    },
+    {
+      "text": "官高何足论，",
+      "pinyin": [
+        "guān",
+        "gāo",
+        "hé",
+        "zú",
+        "lùn"
+      ],
+      "translation": "家中官位虽高又有什么用，",
+      "noteIds": []
+    },
+    {
+      "text": "不得收骨肉。",
+      "pinyin": [
+        "bù",
+        "dé",
+        "shōu",
+        "gǔ",
+        "ròu"
+      ],
+      "translation": "连亲人的尸骨都来不及收葬。",
+      "noteIds": []
+    },
+    {
+      "text": "世情恶衰歇，",
+      "pinyin": [
+        "shì",
+        "qíng",
+        "wù",
+        "shuāi",
+        "xiē"
+      ],
+      "translation": "世上的情谊嫌贫爱富，讨厌失势的人家，",
+      "noteIds": []
+    },
+    {
+      "text": "万事随转烛。",
+      "pinyin": [
+        "wàn",
+        "shì",
+        "suí",
+        "zhuǎn",
+        "zhú"
+      ],
+      "translation": "万事就像风中摇动的烛光，说变就变。",
+      "noteIds": [
+        "n-zhuanzhu"
+      ]
+    },
+    {
+      "text": "夫婿轻薄儿，",
+      "pinyin": [
+        "fū",
+        "xù",
+        "qīng",
+        "bó",
+        "ér"
+      ],
+      "translation": "丈夫是个轻薄子弟，",
+      "noteIds": []
+    },
+    {
+      "text": "新人美如玉。",
+      "pinyin": [
+        "xīn",
+        "rén",
+        "měi",
+        "rú",
+        "yù"
+      ],
+      "translation": "又娶了如花似玉的新人。",
+      "noteIds": []
+    },
+    {
+      "text": "合昏尚知时，",
+      "pinyin": [
+        "hé",
+        "hūn",
+        "shàng",
+        "zhī",
+        "shí"
+      ],
+      "translation": "合昏花还知道按时开合，",
+      "noteIds": [
+        "n-hehun"
+      ]
+    },
+    {
+      "text": "鸳鸯不独宿。",
+      "pinyin": [
+        "yuān",
+        "yāng",
+        "bù",
+        "dú",
+        "sù"
+      ],
+      "translation": "鸳鸯从不单独栖息。",
+      "noteIds": []
+    },
+    {
+      "text": "但见新人笑，",
+      "pinyin": [
+        "dàn",
+        "jiàn",
+        "xīn",
+        "rén",
+        "xiào"
+      ],
+      "translation": "只看见新人欢笑，",
+      "noteIds": []
+    },
+    {
+      "text": "那闻旧人哭。",
+      "pinyin": [
+        "nǎ",
+        "wén",
+        "jiù",
+        "rén",
+        "kū"
+      ],
+      "translation": "哪里听得到旧人的哭声。",
+      "noteIds": []
+    },
+    {
+      "text": "在山泉水清，",
+      "pinyin": [
+        "zài",
+        "shān",
+        "quán",
+        "shuǐ",
+        "qīng"
+      ],
+      "translation": "待在山里的泉水清清，",
+      "noteIds": []
+    },
+    {
+      "text": "出山泉水浊。",
+      "pinyin": [
+        "chū",
+        "shān",
+        "quán",
+        "shuǐ",
+        "zhuó"
+      ],
+      "translation": "流出了山就变浑浊。",
+      "noteIds": []
+    },
+    {
+      "text": "侍婢卖珠回，",
+      "pinyin": [
+        "shì",
+        "bì",
+        "mài",
+        "zhū",
+        "huí"
+      ],
+      "translation": "女仆卖了首饰回来，",
+      "noteIds": [
+        "n-shibi"
+      ]
+    },
+    {
+      "text": "牵萝补茅屋。",
+      "pinyin": [
+        "qiān",
+        "luó",
+        "bǔ",
+        "máo",
+        "wū"
+      ],
+      "translation": "牵来藤萝修补茅屋。",
+      "noteIds": []
+    },
+    {
+      "text": "摘花不插发，",
+      "pinyin": [
+        "zhāi",
+        "huā",
+        "bù",
+        "chā",
+        "fà"
+      ],
+      "translation": "摘了花也不插在头发上，",
+      "noteIds": []
+    },
+    {
+      "text": "采柏动盈掬。",
+      "pinyin": [
+        "cǎi",
+        "bǎi",
+        "dòng",
+        "yíng",
+        "jū"
+      ],
+      "translation": "采柏子常常采满一捧捧。",
+      "noteIds": [
+        "n-ju"
+      ]
+    },
+    {
+      "text": "天寒翠袖薄，",
+      "pinyin": [
+        "tiān",
+        "hán",
+        "cuì",
+        "xiù",
+        "bó"
+      ],
+      "translation": "天气冷了，翠色的衣袖更显得单薄，",
+      "noteIds": []
+    },
+    {
+      "text": "日暮倚修竹。",
+      "pinyin": [
+        "rì",
+        "mù",
+        "yǐ",
+        "xiū",
+        "zhú"
+      ],
+      "translation": "傍晚时分，她倚着长长的翠竹。",
+      "noteIds": [
+        "n-xiuzhu"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-liangjia",
+      "word": "良家子",
+      "pinyin": "liáng jiā zǐ",
+      "meaning": "好人家出身的子女。"
+    },
+    {
+      "id": "n-sangluan",
+      "word": "丧乱",
+      "pinyin": "sāng luàn",
+      "meaning": "战乱，指安史之乱中长安沦陷。"
+    },
+    {
+      "id": "n-zhuanzhu",
+      "word": "转烛",
+      "pinyin": "zhuǎn zhú",
+      "meaning": "被风吹得晃动不定的烛光，比喻世事变化无常。"
+    },
+    {
+      "id": "n-hehun",
+      "word": "合昏",
+      "pinyin": "hé hūn",
+      "meaning": "即合欢树的花，早晨张开、傍晚合拢，像懂得时辰。"
+    },
+    {
+      "id": "n-shibi",
+      "word": "侍婢",
+      "pinyin": "shì bì",
+      "meaning": "女仆。"
+    },
+    {
+      "id": "n-ju",
+      "word": "掬",
+      "pinyin": "jū",
+      "meaning": "两手捧起的量，一捧。"
+    },
+    {
+      "id": "n-xiuzhu",
+      "word": "修竹",
+      "pinyin": "xiū zhú",
+      "meaning": "又高又直的竹子。"
+    }
+  ],
+  "translation": "有一位举世无双的美人，幽静地住在空旷的山谷里。她说自己是好人家的子女，流落到荒山里，依靠草木过活。当年关中发生战乱，兄弟都惨遭杀害。家中官位虽高又有什么用，连亲人的尸骨都来不及收葬。世上的情谊嫌贫爱富，讨厌失势的人家，万事就像风中摇动的烛光，说变就变。丈夫是个轻薄子弟，又娶了如花似玉的新人。合昏花还知道按时开合，鸳鸯从不单独栖息。只看见新人欢笑，哪里听得到旧人的哭声。待在山里的泉水清清，流出了山就变浑浊。女仆卖了首饰回来，牵来藤萝修补茅屋。摘了花也不插在头发上，采柏子常常采满一捧捧。天气冷了，翠色的衣袖更显得单薄，傍晚时分，她倚着长长的翠竹。",
+  "appreciation": "杜甫在秦州的山谷里遇见一位被战乱毁掉家庭的女子，把她写成了一幅画：住茅屋、卖珠换粮、牵萝补屋、摘花不戴、日暮倚竹。“在山泉水清”两句，既写泉水，也写她的品格——守住清白，不肯随波逐流。全诗不喊一句苦，只写她的安静和坚忍，把一位乱世佳人的尊严写得清清楚楚。",
+  "background": "公元759年秋，杜甫弃官携家来到秦州。关中战乱之后，许多官宦人家流离失所。相传杜甫在山谷中见到这样一位遭难守节的女子，借她的遭遇，寄托自己不肯趋附时俗的心志。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "佳人幽居",
+      "text": "绝代佳人因战乱失去家人，幽居在空谷茅屋。"
+    },
+    {
+      "step": 2,
+      "title": "世态炎凉",
+      "text": "丈夫另娶新人只顾欢笑，旧人独向隅哭泣。"
+    },
+    {
+      "step": 3,
+      "title": "清泉自守",
+      "text": "她像山中的清泉，守着清白不肯出山。"
+    },
+    {
+      "step": 4,
+      "title": "暮倚修竹",
+      "text": "卖珠补屋、摘花不戴，日暮倚着翠竹挺立。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "恶",
+      "reading": "wù",
+      "reason": "“世情恶衰歇”的“恶”是讨厌、嫌弃的意思，读 wù。",
+      "standard": "不要读成 è"
+    },
+    {
+      "char": "那",
+      "reading": "nǎ",
+      "reason": "“那闻旧人哭”的“那”意思是哪里，读 nǎ。"
+    },
+    {
+      "char": "掬",
+      "reading": "jū",
+      "reason": "“盈掬”是满捧一把，读 jū。"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1180
+}

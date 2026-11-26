@@ -1,0 +1,222 @@
+{
+  "id": "tang-shengtang-gaoshi-yangexing",
+  "slug": "yangexing",
+  "title": "燕歌行",
+  "titlePinyin": "yān gē xíng",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "七言乐府",
+  "authorId": "gaoshi",
+  "gradeBand": "ext",
+  "tags": ["边塞", "七言乐府", "烽火", "大漠"],
+  "difficulty": 3,
+  "writtenYear": 738,
+  "writtenLabel": "约公元 738 年（高适 34 岁，开元二十六年，感于边将征戍之事写成此诗）",
+  "orderInAuthor": 1,
+  "famousLines": ["战士军前半死生，美人帐下犹歌舞。"],
+  "lines": [
+    {
+      "text": "汉家烟尘在东北，",
+      "pinyin": ["hàn", "jiā", "yān", "chén", "zài", "dōng", "běi"],
+      "translation": "唐家的边境战火在东北方燃起，",
+      "noteIds": []
+    },
+    {
+      "text": "汉将辞家破残贼。",
+      "pinyin": ["hàn", "jiàng", "cí", "jiā", "pò", "cán", "zéi"],
+      "translation": "将军们告别家人，去消灭凶残的敌寇。",
+      "noteIds": []
+    },
+    {
+      "text": "男儿本自重横行，",
+      "pinyin": ["nán", "ér", "běn", "zì", "zhòng", "héng", "xíng"],
+      "translation": "好男儿本来就看重纵横驰骋沙场，",
+      "noteIds": []
+    },
+    {
+      "text": "天子非常赐颜色。",
+      "pinyin": ["tiān", "zǐ", "fēi", "cháng", "cì", "yán", "sè"],
+      "translation": "皇帝又特别地加以褒奖恩赏。",
+      "noteIds": []
+    },
+    {
+      "text": "摐金伐鼓下榆关，",
+      "pinyin": ["chuāng", "jīn", "fá", "gǔ", "xià", "yú", "guān"],
+      "translation": "敲锣击鼓，大军浩浩荡荡开出榆关，",
+      "noteIds": ["n-chuang", "n-yuguan"]
+    },
+    {
+      "text": "旌旆逶迤碣石间。",
+      "pinyin": ["jīng", "pèi", "wēi", "yí", "jié", "shí", "jiān"],
+      "translation": "军旗像长龙一样蜿蜒在碣石山间。",
+      "noteIds": ["n-jingpei", "n-weiyi", "n-jieshi"]
+    },
+    {
+      "text": "校尉羽书飞瀚海，",
+      "pinyin": ["xiào", "wèi", "yǔ", "shū", "fēi", "hàn", "hǎi"],
+      "translation": "校尉送来的紧急军书飞越大沙漠，",
+      "noteIds": ["n-yushu", "n-hanhai"]
+    },
+    {
+      "text": "单于猎火照狼山。",
+      "pinyin": ["chán", "yú", "liè", "huǒ", "zhào", "láng", "shān"],
+      "translation": "单于的打猎火光已照到狼山。",
+      "noteIds": ["n-chanyu"]
+    },
+    {
+      "text": "山川萧条极边土，",
+      "pinyin": ["shān", "chuān", "xiāo", "tiáo", "jí", "biān", "tǔ"],
+      "translation": "山河荒凉萧条，一直延伸到边疆尽头，",
+      "noteIds": []
+    },
+    {
+      "text": "胡骑凭陵杂风雨。",
+      "pinyin": ["hú", "jì", "píng", "líng", "zá", "fēng", "yǔ"],
+      "translation": "敌人的骑兵像风雨一样猛烈来犯。",
+      "noteIds": ["n-pingling"]
+    },
+    {
+      "text": "战士军前半死生，",
+      "pinyin": ["zhàn", "shì", "jūn", "qián", "bàn", "sǐ", "shēng"],
+      "translation": "士兵们在阵前拼杀，一半人生死不明，",
+      "noteIds": []
+    },
+    {
+      "text": "美人帐下犹歌舞。",
+      "pinyin": ["měi", "rén", "zhàng", "xià", "yóu", "gē", "wǔ"],
+      "translation": "将领的帐篷里美人还在唱歌跳舞。",
+      "noteIds": []
+    },
+    {
+      "text": "大漠穷秋塞草腓，",
+      "pinyin": ["dà", "mò", "qióng", "qiū", "sài", "cǎo", "féi"],
+      "translation": "深秋的大漠里边塞草都枯黄了，",
+      "noteIds": ["n-fei"]
+    },
+    {
+      "text": "孤城落日斗兵稀。",
+      "pinyin": ["gū", "chéng", "luò", "rì", "dòu", "bīng", "xī"],
+      "translation": "孤城笼罩在落日里，能战斗的士兵越来越少。",
+      "noteIds": []
+    },
+    {
+      "text": "身当恩遇常轻敌，",
+      "pinyin": ["shēn", "dāng", "ēn", "yù", "cháng", "qīng", "dí"],
+      "translation": "将领身受皇恩却常常轻视敌人，",
+      "noteIds": []
+    },
+    {
+      "text": "力尽关山未解围。",
+      "pinyin": ["lì", "jìn", "guān", "shān", "wèi", "jiě", "wéi"],
+      "translation": "士兵用尽力气，还是解不开关山的重围。",
+      "noteIds": []
+    },
+    {
+      "text": "铁衣远戍辛勤久，",
+      "pinyin": ["tiě", "yī", "yuǎn", "shù", "xīn", "qín", "jiǔ"],
+      "translation": "穿铁甲的战士远戍边地，辛苦的日子太久，",
+      "noteIds": []
+    },
+    {
+      "text": "玉箸应啼别离后。",
+      "pinyin": ["yù", "zhù", "yīng", "tí", "bié", "lí", "hòu"],
+      "translation": "家中的妻子一定在分别后不停流泪。",
+      "noteIds": ["n-yuzhu"]
+    },
+    {
+      "text": "少妇城南欲断肠，",
+      "pinyin": ["shào", "fù", "chéng", "nán", "yù", "duàn", "cháng"],
+      "translation": "城南的少妇想得肝肠寸断，",
+      "noteIds": []
+    },
+    {
+      "text": "征人蓟北空回首。",
+      "pinyin": ["zhēng", "rén", "jì", "běi", "kōng", "huí", "shǒu"],
+      "translation": "远在蓟北的征人回头张望也是白望。",
+      "noteIds": []
+    },
+    {
+      "text": "边庭飘飖那可度，",
+      "pinyin": ["biān", "tíng", "piāo", "yáo", "nǎ", "kě", "dù"],
+      "translation": "边地的战局动荡不定，哪能料想得到，",
+      "noteIds": ["n-piaoyao"]
+    },
+    {
+      "text": "绝域苍茫更何有。",
+      "pinyin": ["jué", "yù", "cāng", "máng", "gèng", "hé", "yǒu"],
+      "translation": "荒远之地苍苍茫茫，还有什么可指望？",
+      "noteIds": []
+    },
+    {
+      "text": "杀气三时作阵云，",
+      "pinyin": ["shā", "qì", "sān", "shí", "zuò", "zhèn", "yún"],
+      "translation": "白天杀气腾腾，凝成阵阵乌云，",
+      "noteIds": []
+    },
+    {
+      "text": "寒声一夜传刁斗。",
+      "pinyin": ["hán", "shēng", "yī", "yè", "chuán", "diāo", "dǒu"],
+      "translation": "整夜里寒冷的刁斗声一阵阵传来。",
+      "noteIds": ["n-diaodou"]
+    },
+    {
+      "text": "相看白刃血纷纷，",
+      "pinyin": ["xiāng", "kàn", "bái", "rèn", "xuè", "fēn", "fēn"],
+      "translation": "相互看着刀刃上血迹斑斑，",
+      "noteIds": []
+    },
+    {
+      "text": "死节从来岂顾勋。",
+      "pinyin": ["sǐ", "jié", "cóng", "lái", "qǐ", "gù", "xūn"],
+      "translation": "为国死节的人哪曾考虑个人功勋？",
+      "noteIds": ["n-sijie"]
+    },
+    {
+      "text": "君不见沙场征战苦，",
+      "pinyin": ["jūn", "bù", "jiàn", "shā", "chǎng", "zhēng", "zhàn", "kǔ"],
+      "translation": "你没看见沙场上征战多么艰苦，",
+      "noteIds": []
+    },
+    {
+      "text": "至今犹忆李将军。",
+      "pinyin": ["zhì", "jīn", "yóu", "yì", "lǐ", "jiāng", "jūn"],
+      "translation": "人们至今还怀念着爱护士兵的李将军。",
+      "noteIds": []
+    }
+  ],
+  "notes": [
+    { "id": "n-chuang", "word": "摐", "pinyin": "chuāng", "meaning": "敲击。" },
+    { "id": "n-yuguan", "word": "榆关", "pinyin": "yú guān", "meaning": "山海关，泛指东北边关。" },
+    { "id": "n-jingpei", "word": "旌旆", "pinyin": "jīng pèi", "meaning": "各种军旗。" },
+    { "id": "n-weiyi", "word": "逶迤", "pinyin": "wēi yí", "meaning": "蜿蜒曲折、绵延不绝的样子。" },
+    { "id": "n-jieshi", "word": "碣石", "pinyin": "jié shí", "meaning": "山名，在今河北昌黎一带。" },
+    { "id": "n-yushu", "word": "羽书", "pinyin": "yǔ shū", "meaning": "插着羽毛的紧急军事文书。" },
+    { "id": "n-hanhai", "word": "瀚海", "pinyin": "hàn hǎi", "meaning": "大沙漠。" },
+    { "id": "n-chanyu", "word": "单于", "pinyin": "chán yú", "meaning": "匈奴首领，这里指敌军首领。" },
+    { "id": "n-pingling", "word": "凭陵", "pinyin": "píng líng", "meaning": "仗势侵犯。" },
+    { "id": "n-fei", "word": "腓", "pinyin": "féi", "meaning": "枯萎。" },
+    { "id": "n-yuzhu", "word": "玉箸", "pinyin": "yù zhù", "meaning": "玉筷子，比喻思妇的眼泪。" },
+    { "id": "n-piaoyao", "word": "飘飖", "pinyin": "piāo yáo", "meaning": "飘摇不定，指战局动荡。" },
+    { "id": "n-diaodou", "word": "刁斗", "pinyin": "diāo dǒu", "meaning": "军中铜器，白天做饭，夜里敲它报时警戒。" },
+    { "id": "n-sijie", "word": "死节", "pinyin": "sǐ jié", "meaning": "为坚守节操而死，指为国捐躯。" }
+  ],
+  "translation": "唐家的边境战火在东北燃起，将军们辞别家人去破敌。好男儿本就看重纵横沙场，天子又特别赐予恩赏。敲锣击鼓，大军开出榆关，军旗蜿蜒在碣石山间。校尉的紧急军书飞越大漠，单于的猎火已照到狼山。山河萧条直到边疆尽头，敌骑像风雨般来犯。士兵阵前半数伤亡，帐下美人还在歌舞。深秋大漠塞草枯黄，孤城落日下能战的士兵渐稀。将领受恩常轻敌，战士力尽仍难解围。铁衣战士久戍辛苦，家中妻子别后垂泪；城南少妇肝肠寸断，蓟北征人回首枉然。边地动荡难以预料，绝域苍茫一无所有。白天杀气凝成阵云，夜里寒声传来刁斗。相看白刃血迹纷纷，为国死节岂顾功勋？君不见沙场征战之苦，至今人们还怀念爱护士兵的李将军。",
+  "appreciation": "这首长诗从出征写到战败，再写到久戍不归：出关时锣鼓震天、军旗如龙，何等威风；可前线士兵拼得一半死伤，帐里却还在歌舞；深秋草枯，孤城兵稀，围困难解。诗人又把镜头拉回家里——少妇断肠，征人回首，两边都是煎熬。最后借人们怀念的李将军作对照，批评骄纵的边将。全诗气势雄壮，是唐代边塞诗的压卷之作。",
+  "background": "开元二十六年（738 年），跟随张守珪出征的将士打了败仗，却谎报战功。高适听到这些边地见闻十分感慨，写下这首诗。诗里既有对战士的同情，也有对骄横将领的批评。",
+  "storyline": [
+    { "step": 1, "title": "出师榆关", "text": "大军辞家出征，锣鼓喧天开出榆关。" },
+    { "step": 2, "title": "敌骑压境", "text": "紧急军书飞越大漠，敌人火光已照狼山。" },
+    { "step": 3, "title": "苦乐不均", "text": "战士阵前拼杀伤亡，帐中美人仍在歌舞。" },
+    { "step": 4, "title": "思归忆将", "text": "少妇断肠征人回首，人们至今怀念李将军。" }
+  ],
+  "pinyinNotes": [
+    { "char": "摐", "reading": "chuāng", "reason": "“摐金”是敲击金属乐器，读 chuāng。" },
+    { "char": "腓", "reading": "féi", "reason": "“塞草腓”指边草枯萎，读 féi。" },
+    { "char": "单于", "reading": "chán yú", "reason": "“单于”指匈奴首领，“单”读 chán。", "standard": "不要读成 dān" }
+  ],
+  "sources": ["《全唐诗》", "《唐诗三百首》"],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1257
+}

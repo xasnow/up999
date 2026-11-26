@@ -1,0 +1,655 @@
+{
+  "id": "tang-shengtang-wangwei-taoyuanxing",
+  "slug": "taoyuanxing",
+  "title": "桃源行",
+  "titlePinyin": "táo yuán xíng",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "七言乐府",
+  "authorId": "wangwei",
+  "gradeBand": "ext",
+  "tags": [
+    "田园",
+    "七言乐府",
+    "桃花",
+    "仙境"
+  ],
+  "difficulty": 3,
+  "writtenYear": 719,
+  "writtenLabel": "约公元 719 年（王维 18 岁，少年时据陶渊明《桃花源记》写成）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "春来遍是桃花水，不辨仙源何处寻。"
+  ],
+  "lines": [
+    {
+      "text": "渔舟逐水爱山春，",
+      "pinyin": [
+        "yú",
+        "zhōu",
+        "zhú",
+        "shuǐ",
+        "ài",
+        "shān",
+        "chūn"
+      ],
+      "translation": "渔船顺着溪水前进，喜爱这山中的春色，",
+      "noteIds": []
+    },
+    {
+      "text": "两岸桃花夹古津。",
+      "pinyin": [
+        "liǎng",
+        "àn",
+        "táo",
+        "huā",
+        "jiā",
+        "gǔ",
+        "jīn"
+      ],
+      "translation": "两岸的桃花，夹着古老的渡口。",
+      "noteIds": [
+        "n-jin"
+      ]
+    },
+    {
+      "text": "坐看红树不知远，",
+      "pinyin": [
+        "zuò",
+        "kàn",
+        "hóng",
+        "shù",
+        "bù",
+        "zhī",
+        "yuǎn"
+      ],
+      "translation": "坐着看满树红花，不知不觉走远了，",
+      "noteIds": []
+    },
+    {
+      "text": "行尽青溪不见人。",
+      "pinyin": [
+        "xíng",
+        "jìn",
+        "qīng",
+        "xī",
+        "bù",
+        "jiàn",
+        "rén"
+      ],
+      "translation": "走到青溪尽头，忽然看不见人烟。",
+      "noteIds": []
+    },
+    {
+      "text": "山口潜行始隈隩，",
+      "pinyin": [
+        "shān",
+        "kǒu",
+        "qián",
+        "xíng",
+        "shǐ",
+        "wēi",
+        "yù"
+      ],
+      "translation": "从山口悄悄钻进去，山路开始弯弯曲曲，",
+      "noteIds": [
+        "n-weiyu"
+      ]
+    },
+    {
+      "text": "山开旷望旋平陆。",
+      "pinyin": [
+        "shān",
+        "kāi",
+        "kuàng",
+        "wàng",
+        "xuán",
+        "píng",
+        "lù"
+      ],
+      "translation": "山口豁然开朗，很快望见一片平地。",
+      "noteIds": [
+        "n-xuan"
+      ]
+    },
+    {
+      "text": "遥看一处攒云树，",
+      "pinyin": [
+        "yáo",
+        "kàn",
+        "yī",
+        "chù",
+        "cuán",
+        "yún",
+        "shù"
+      ],
+      "translation": "远远望去，绿树攒聚在云雾里，",
+      "noteIds": [
+        "n-cuan"
+      ]
+    },
+    {
+      "text": "近入千家散花竹。",
+      "pinyin": [
+        "jìn",
+        "rù",
+        "qiān",
+        "jiā",
+        "sàn",
+        "huā",
+        "zhú"
+      ],
+      "translation": "走近一看，千家万户散布在花竹之间。",
+      "noteIds": []
+    },
+    {
+      "text": "樵客初传汉姓名，",
+      "pinyin": [
+        "qiáo",
+        "kè",
+        "chū",
+        "chuán",
+        "hàn",
+        "xìng",
+        "míng"
+      ],
+      "translation": "打柴的人头一回说出汉朝的姓名，",
+      "noteIds": []
+    },
+    {
+      "text": "居人未改秦衣服。",
+      "pinyin": [
+        "jū",
+        "rén",
+        "wèi",
+        "gǎi",
+        "qín",
+        "yī",
+        "fú"
+      ],
+      "translation": "居民穿的还是秦朝时的衣服。",
+      "noteIds": []
+    },
+    {
+      "text": "居人共住武陵源，",
+      "pinyin": [
+        "jū",
+        "rén",
+        "gòng",
+        "zhù",
+        "wǔ",
+        "líng",
+        "yuán"
+      ],
+      "translation": "居民共同住在武陵的源水里，",
+      "noteIds": [
+        "n-wulingyuan"
+      ]
+    },
+    {
+      "text": "还从物外起田园。",
+      "pinyin": [
+        "hái",
+        "cóng",
+        "wù",
+        "wài",
+        "qǐ",
+        "tián",
+        "yuán"
+      ],
+      "translation": "还在尘世之外，开垦了家园田地。",
+      "noteIds": [
+        "n-wuwai"
+      ]
+    },
+    {
+      "text": "月明松下房栊静，",
+      "pinyin": [
+        "yuè",
+        "míng",
+        "sōng",
+        "xià",
+        "fáng",
+        "lóng",
+        "jìng"
+      ],
+      "translation": "月亮照着松树，房屋安安静静，",
+      "noteIds": [
+        "n-fanglong"
+      ]
+    },
+    {
+      "text": "日出云中鸡犬喧。",
+      "pinyin": [
+        "rì",
+        "chū",
+        "yún",
+        "zhōng",
+        "jī",
+        "quǎn",
+        "xuān"
+      ],
+      "translation": "太阳从云中升起，鸡鸣犬吠热闹起来。",
+      "noteIds": []
+    },
+    {
+      "text": "惊闻俗客争来集，",
+      "pinyin": [
+        "jīng",
+        "wén",
+        "sú",
+        "kè",
+        "zhēng",
+        "lái",
+        "jí"
+      ],
+      "translation": "听说来了尘世的客人，大家争着聚拢来看，",
+      "noteIds": []
+    },
+    {
+      "text": "竞引还家问都邑。",
+      "pinyin": [
+        "jìng",
+        "yǐn",
+        "huán",
+        "jiā",
+        "wèn",
+        "dū",
+        "yì"
+      ],
+      "translation": "抢着把客人请回家，打听家乡的消息。",
+      "noteIds": [
+        "n-duyi"
+      ]
+    },
+    {
+      "text": "平明闾巷扫花开，",
+      "pinyin": [
+        "píng",
+        "míng",
+        "lǘ",
+        "xiàng",
+        "sǎo",
+        "huā",
+        "kāi"
+      ],
+      "translation": "天刚亮，人们扫开巷中落花，家家开门，",
+      "noteIds": [
+        "n-lvxiang"
+      ]
+    },
+    {
+      "text": "薄暮渔樵乘水入。",
+      "pinyin": [
+        "bó",
+        "mù",
+        "yú",
+        "qiáo",
+        "chéng",
+        "shuǐ",
+        "rù"
+      ],
+      "translation": "傍晚打渔砍柴的人，乘着水路回来。",
+      "noteIds": [
+        "n-bomu"
+      ]
+    },
+    {
+      "text": "初因避地去人间，",
+      "pinyin": [
+        "chū",
+        "yīn",
+        "bì",
+        "dì",
+        "qù",
+        "rén",
+        "jiān"
+      ],
+      "translation": "当初为了躲避战乱离开人间，",
+      "noteIds": [
+        "n-bidi",
+        "n-qu2"
+      ]
+    },
+    {
+      "text": "及至成仙遂不还。",
+      "pinyin": [
+        "jí",
+        "zhì",
+        "chéng",
+        "xiān",
+        "suì",
+        "bù",
+        "huán"
+      ],
+      "translation": "来到这里如同成了仙，就再没有回去。",
+      "noteIds": []
+    },
+    {
+      "text": "峡里谁知有人事，",
+      "pinyin": [
+        "xiá",
+        "lǐ",
+        "shéi",
+        "zhī",
+        "yǒu",
+        "rén",
+        "shì"
+      ],
+      "translation": "山峡里，谁知道外面的人间世事？",
+      "noteIds": []
+    },
+    {
+      "text": "世中遥望空云山。",
+      "pinyin": [
+        "shì",
+        "zhōng",
+        "yáo",
+        "wàng",
+        "kōng",
+        "yún",
+        "shān"
+      ],
+      "translation": "世上的人远远望去，只看见云雾缭绕的青山。",
+      "noteIds": []
+    },
+    {
+      "text": "不疑灵境难闻见，",
+      "pinyin": [
+        "bù",
+        "yí",
+        "líng",
+        "jìng",
+        "nán",
+        "wén",
+        "jiàn"
+      ],
+      "translation": "不怀疑这样的仙境难得听说、难得见到，",
+      "noteIds": [
+        "n-lingjing"
+      ]
+    },
+    {
+      "text": "尘心未尽思乡县。",
+      "pinyin": [
+        "chén",
+        "xīn",
+        "wèi",
+        "jìn",
+        "sī",
+        "xiāng",
+        "xiàn"
+      ],
+      "translation": "只因尘心未尽，还是思念起家乡的城邑。",
+      "noteIds": [
+        "n-chenxin"
+      ]
+    },
+    {
+      "text": "出洞无论隔山水，",
+      "pinyin": [
+        "chū",
+        "dòng",
+        "wú",
+        "lùn",
+        "gé",
+        "shān",
+        "shuǐ"
+      ],
+      "translation": "出了山洞，不管隔着千山万水，",
+      "noteIds": []
+    },
+    {
+      "text": "辞家终拟长游衍。",
+      "pinyin": [
+        "cí",
+        "jiā",
+        "zhōng",
+        "nǐ",
+        "cháng",
+        "yóu",
+        "yǎn"
+      ],
+      "translation": "都辞别家人，打算长久地到此游玩。",
+      "noteIds": [
+        "n-youyan"
+      ]
+    },
+    {
+      "text": "自谓经过旧不迷，",
+      "pinyin": [
+        "zì",
+        "wèi",
+        "jīng",
+        "guò",
+        "jiù",
+        "bù",
+        "mí"
+      ],
+      "translation": "他自以为来时走过的路不会再迷路，",
+      "noteIds": []
+    },
+    {
+      "text": "安知峰壑今来变。",
+      "pinyin": [
+        "ān",
+        "zhī",
+        "fēng",
+        "hè",
+        "jīn",
+        "lái",
+        "biàn"
+      ],
+      "translation": "哪知山峰深谷，如今已经变了模样。",
+      "noteIds": [
+        "n-fenghe"
+      ]
+    },
+    {
+      "text": "当时只记入山深，",
+      "pinyin": [
+        "dāng",
+        "shí",
+        "zhǐ",
+        "jì",
+        "rù",
+        "shān",
+        "shēn"
+      ],
+      "translation": "当时只记得深入山中，",
+      "noteIds": []
+    },
+    {
+      "text": "青溪几度到云林。",
+      "pinyin": [
+        "qīng",
+        "xī",
+        "jǐ",
+        "dù",
+        "dào",
+        "yún",
+        "lín"
+      ],
+      "translation": "沿着青溪几次转弯，才到云林深处。",
+      "noteIds": []
+    },
+    {
+      "text": "春来遍是桃花水，",
+      "pinyin": [
+        "chūn",
+        "lái",
+        "biàn",
+        "shì",
+        "táo",
+        "huā",
+        "shuǐ"
+      ],
+      "translation": "春天到处都是涨满桃花的春水，",
+      "noteIds": []
+    },
+    {
+      "text": "不辨仙源何处寻。",
+      "pinyin": [
+        "bù",
+        "biàn",
+        "xiān",
+        "yuán",
+        "hé",
+        "chù",
+        "xún"
+      ],
+      "translation": "再也分不清到哪里去寻找仙源。",
+      "noteIds": []
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-jin",
+      "word": "津",
+      "pinyin": "jīn",
+      "meaning": "渡口。"
+    },
+    {
+      "id": "n-weiyu",
+      "word": "隈隩",
+      "pinyin": "wēi yù",
+      "meaning": "山崖弯曲幽深的地方。"
+    },
+    {
+      "id": "n-xuan",
+      "word": "旋",
+      "pinyin": "xuán",
+      "meaning": "很快、随即。"
+    },
+    {
+      "id": "n-cuan",
+      "word": "攒",
+      "pinyin": "cuán",
+      "meaning": "聚集。"
+    },
+    {
+      "id": "n-wulingyuan",
+      "word": "武陵源",
+      "pinyin": "wǔ líng yuán",
+      "meaning": "桃花源的别称，相传在武陵郡的溪水源头。"
+    },
+    {
+      "id": "n-wuwai",
+      "word": "物外",
+      "pinyin": "wù wài",
+      "meaning": "世俗之外。"
+    },
+    {
+      "id": "n-fanglong",
+      "word": "房栊",
+      "pinyin": "fáng lóng",
+      "meaning": "窗户，这里指房屋。"
+    },
+    {
+      "id": "n-duyi",
+      "word": "都邑",
+      "pinyin": "dū yì",
+      "meaning": "原来的家乡城镇。"
+    },
+    {
+      "id": "n-lvxiang",
+      "word": "闾巷",
+      "pinyin": "lǘ xiàng",
+      "meaning": "里巷、小巷。"
+    },
+    {
+      "id": "n-bomu",
+      "word": "薄暮",
+      "pinyin": "bó mù",
+      "meaning": "傍晚，太阳快落山的时候。"
+    },
+    {
+      "id": "n-bidi",
+      "word": "避地",
+      "pinyin": "bì dì",
+      "meaning": "为躲避战乱而迁居别处。"
+    },
+    {
+      "id": "n-qu2",
+      "word": "去",
+      "pinyin": "qù",
+      "meaning": "离开。去人间，就是离开人间。"
+    },
+    {
+      "id": "n-lingjing",
+      "word": "灵境",
+      "pinyin": "líng jìng",
+      "meaning": "仙境。"
+    },
+    {
+      "id": "n-chenxin",
+      "word": "尘心",
+      "pinyin": "chén xīn",
+      "meaning": "普通人惦记世俗琐事的心。"
+    },
+    {
+      "id": "n-youyan",
+      "word": "游衍",
+      "pinyin": "yóu yǎn",
+      "meaning": "留连游玩，尽兴而游。"
+    },
+    {
+      "id": "n-fenghe",
+      "word": "峰壑",
+      "pinyin": "fēng hè",
+      "meaning": "山峰和山谷。"
+    }
+  ],
+  "translation": "渔船顺着溪水前进，喜爱这山中的春色，两岸的桃花，夹着古老的渡口。坐着看满树红花，不知不觉走远了，走到青溪尽头，忽然看不见人烟。从山口悄悄钻进去，山路开始弯弯曲曲，山口豁然开朗，很快望见一片平地。远远望去，绿树攒聚在云雾里，走近一看，千家万户散布在花竹之间。打柴的人头一回说出汉朝的姓名，居民穿的还是秦朝时的衣服。居民共同住在武陵的源水里，还在尘世之外，开垦了家园田地。月亮照着松树，房屋安安静静，太阳从云中升起，鸡鸣犬吠热闹起来。听说来了尘世的客人，大家争着聚拢来看，抢着把客人请回家，打听家乡的消息。天刚亮，人们扫开巷中落花，家家开门，傍晚打渔砍柴的人，乘着水路回来。当初为了躲避战乱离开人间，来到这里如同成了仙，就再没有回去。山峡里，谁知道外面的人间世事？世上的人远远望去，只看见云雾缭绕的青山。不怀疑这样的仙境难得听说、难得见到，只因尘心未尽，还是思念起家乡的城邑。出了山洞，不管隔着千山万水，都辞别家人，打算长久地到此游玩。他自以为来时走过的路不会再迷路，哪知山峰深谷，如今已经变了模样。当时只记得深入山中，沿着青溪几次转弯，才到云林深处。春天到处都是涨满桃花的春水，再也分不清到哪里去寻找仙源。",
+  "appreciation": "这首长诗把《桃花源记》改成了一幅仙境图画：桃花夹岸、青溪尽头、花竹千家、月松房静、鸡犬相闻。诗人先写渔人如何误入仙境，再写村民避乱而来的来历，最后写渔人出洞后再寻不到仙源，只留下满溪桃花水的怅惘。全诗色彩明丽、意境悠远，正是“诗中有画”的少年妙笔。",
+  "background": "陶渊明的《桃花源记》讲渔人误入一个与世隔绝的桃花园。十八岁左右的王维把这个故事改写成七言乐府。当时人们常把桃花源当成仙境传说，所以诗里既有田园的安详，也带着云雾缭绕的神秘色彩。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "溪尽入山",
+      "text": "渔船沿青溪上行，走到尽头钻进弯曲的山口。"
+    },
+    {
+      "step": 2,
+      "title": "豁然见村",
+      "text": "山开现出平地，千家万户散落花竹之间。"
+    },
+    {
+      "step": 3,
+      "title": "世外田园",
+      "text": "村民秦时避乱而来，月松房静，鸡犬相闻。"
+    },
+    {
+      "step": 4,
+      "title": "再寻不见",
+      "text": "渔人辞家再访，桃花水涨，仙源无处可寻。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "隩",
+      "reading": "yù",
+      "reason": "“隈隩”指山弯幽深处，“隩”读 yù。",
+      "standard": "不要读成 ào 或 xiù"
+    },
+    {
+      "char": "攒",
+      "reading": "cuán",
+      "reason": "“攒云树”的攒是聚集的意思，读 cuán。",
+      "standard": "不要读成 zǎn"
+    },
+    {
+      "char": "壑",
+      "reading": "hè",
+      "reason": "“峰壑”是山峰和山谷，“壑”读 hè。"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1232
+}

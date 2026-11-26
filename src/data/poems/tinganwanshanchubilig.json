@@ -1,0 +1,240 @@
+{
+  "id": "tang-shengtang-liqi-tinganwanshanchubilig",
+  "slug": "tinganwanshanchubilig",
+  "title": "听安万善吹觱篥歌",
+  "titlePinyin": "tīng ān wàn shàn chuī bì lì gē",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "七言古诗",
+  "authorId": "liqi",
+  "gradeBand": "ext",
+  "tags": ["音乐", "七言古诗", "觱篥"],
+  "difficulty": 3,
+  "writtenYear": 747,
+  "writtenLabel": "约天宝六载（747）前后，李颀听乐师安万善吹觱篥后作",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "枯桑老柏寒飕飗，九雏鸣凤乱啾啾。"
+  ],
+  "lines": [
+    {
+      "text": "南山截竹为觱篥，",
+      "pinyin": ["nán", "shān", "jié", "zhú", "wéi", "bì", "lì"],
+      "translation": "从南山砍下竹子做成觱篥，",
+      "noteIds": ["n-bili"]
+    },
+    {
+      "text": "此乐本自龟兹出。",
+      "pinyin": ["cǐ", "yuè", "běn", "zì", "qiū", "cí", "chū"],
+      "translation": "这种乐器原本出自龟兹。",
+      "noteIds": ["n-qiuci"]
+    },
+    {
+      "text": "流传汉地曲转奇，",
+      "pinyin": ["liú", "chuán", "hàn", "dì", "qǔ", "zhuǎn", "qí"],
+      "translation": "传到中原后，曲调越发奇妙，",
+      "noteIds": []
+    },
+    {
+      "text": "凉州胡人为我吹。",
+      "pinyin": ["liáng", "zhōu", "hú", "rén", "wèi", "wǒ", "chuī"],
+      "translation": "凉州来的乐师安万善为我们吹奏。",
+      "noteIds": []
+    },
+    {
+      "text": "旁邻闻者多叹息，",
+      "pinyin": ["páng", "lín", "wén", "zhě", "duō", "tàn", "xī"],
+      "translation": "邻近听到的多是叹息，",
+      "noteIds": []
+    },
+    {
+      "text": "远客思乡皆泪垂。",
+      "pinyin": ["yuǎn", "kè", "sī", "xiāng", "jiē", "lèi", "chuí"],
+      "translation": "远来的客人想起家乡，个个落泪。",
+      "noteIds": []
+    },
+    {
+      "text": "世人解听不解赏，",
+      "pinyin": ["shì", "rén", "jiě", "tīng", "bù", "jiě", "shǎng"],
+      "translation": "世人只会听，不懂得欣赏，",
+      "noteIds": ["n-jie"]
+    },
+    {
+      "text": "长飙风中自来往。",
+      "pinyin": ["cháng", "biāo", "fēng", "zhōng", "zì", "lái", "wǎng"],
+      "translation": "乐声就像狂风里自由来去的气浪。",
+      "noteIds": ["n-biao"]
+    },
+    {
+      "text": "枯桑老柏寒飕飗，",
+      "pinyin": ["kū", "sāng", "lǎo", "bǎi", "hán", "sōu", "liú"],
+      "translation": "一会儿像寒风吹过枯桑老柏，飕飗作响，",
+      "noteIds": ["n-souliu"]
+    },
+    {
+      "text": "九雏鸣凤乱啾啾。",
+      "pinyin": ["jiǔ", "chú", "míng", "fèng", "luàn", "jiū", "jiū"],
+      "translation": "一会儿像九只小凤凰啾啾乱鸣。",
+      "noteIds": []
+    },
+    {
+      "text": "龙吟虎啸一时发，",
+      "pinyin": ["lóng", "yín", "hǔ", "xiào", "yī", "shí", "fā"],
+      "translation": "又像龙吟虎啸一齐迸发，",
+      "noteIds": []
+    },
+    {
+      "text": "万籁百泉相与秋。",
+      "pinyin": ["wàn", "lài", "bǎi", "quán", "xiāng", "yǔ", "qiū"],
+      "translation": "万种声响、百道泉水，一同在秋色里轰鸣。",
+      "noteIds": ["n-wanlai"]
+    },
+    {
+      "text": "忽然更作渔阳掺，",
+      "pinyin": ["hū", "rán", "gèng", "zuò", "yú", "yáng", "càn"],
+      "translation": "忽然改吹急促悲壮的《渔阳掺》，",
+      "noteIds": ["n-yuyangcan"]
+    },
+    {
+      "text": "黄云萧条白日暗。",
+      "pinyin": ["huáng", "yún", "xiāo", "tiáo", "bái", "rì", "àn"],
+      "translation": "天上黄云萧条，白日也昏暗下来。",
+      "noteIds": []
+    },
+    {
+      "text": "变调如闻杨柳春，",
+      "pinyin": ["biàn", "diào", "rú", "wén", "yáng", "liǔ", "chūn"],
+      "translation": "曲调一转，又像春天的《折杨柳》，",
+      "noteIds": ["n-yangliu"]
+    },
+    {
+      "text": "上林繁花照眼新。",
+      "pinyin": ["shàng", "lín", "fán", "huā", "zhào", "yǎn", "xīn"],
+      "translation": "像上林苑的繁花，照得眼前一片明艳。",
+      "noteIds": ["n-shanglin"]
+    },
+    {
+      "text": "岁夜高堂列明烛，",
+      "pinyin": ["suì", "yè", "gāo", "táng", "liè", "míng", "zhú"],
+      "translation": "除夕夜的高堂上点起明烛，",
+      "noteIds": ["n-suiye"]
+    },
+    {
+      "text": "美酒一杯声一曲。",
+      "pinyin": ["měi", "jiǔ", "yī", "bēi", "shēng", "yī", "qǔ"],
+      "translation": "喝一杯美酒，就听一曲觱篥。",
+      "noteIds": []
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-bili",
+      "word": "觱篥",
+      "pinyin": "bì lì",
+      "meaning": "一种簧管乐器，用竹做管，声调悲凉，又名筚篥。"
+    },
+    {
+      "id": "n-qiuci",
+      "word": "龟兹",
+      "pinyin": "qiū cí",
+      "meaning": "汉代西域国名（今新疆库车一带），以音乐闻名。"
+    },
+    {
+      "id": "n-jie",
+      "word": "解",
+      "pinyin": "jiě",
+      "meaning": "懂得、会。“解听不解赏”是只会听、不会欣赏。"
+    },
+    {
+      "id": "n-biao",
+      "word": "长飙",
+      "pinyin": "cháng biāo",
+      "meaning": "狂风、暴风。"
+    },
+    {
+      "id": "n-souliu",
+      "word": "飕飗",
+      "pinyin": "sōu liú",
+      "meaning": "风声，形容寒风呼啸。"
+    },
+    {
+      "id": "n-wanlai",
+      "word": "万籁",
+      "pinyin": "wàn lài",
+      "meaning": "自然界的各种声响。"
+    },
+    {
+      "id": "n-yuyangcan",
+      "word": "渔阳掺",
+      "pinyin": "yú yáng càn",
+      "meaning": "鼓曲名《渔阳掺挝》的省称，节奏急促悲壮。"
+    },
+    {
+      "id": "n-yangliu",
+      "word": "杨柳",
+      "pinyin": "yáng liǔ",
+      "meaning": "乐曲《折杨柳》，曲调轻柔明媚。"
+    },
+    {
+      "id": "n-shanglin",
+      "word": "上林",
+      "pinyin": "shàng lín",
+      "meaning": "上林苑，汉代皇家园林，这里指春天繁花之地。"
+    },
+    {
+      "id": "n-suiye",
+      "word": "岁夜",
+      "pinyin": "suì yè",
+      "meaning": "除夕之夜。"
+    }
+  ],
+  "translation": "从南山砍下竹子做成觱篥，这种乐器原本出自龟兹。传到中原后，曲调越发奇妙，凉州来的乐师安万善为我们吹奏。邻近听到的多是叹息，远来的客人想起家乡，个个落泪。世人只会听，不懂得欣赏，乐声就像狂风里自由来去的气浪。一会儿像寒风吹过枯桑老柏，飕飗作响；一会儿像九只小凤凰啾啾乱鸣；又像龙吟虎啸一齐迸发，万种声响、百道泉水，一同在秋色里轰鸣。忽然改吹急促悲壮的《渔阳掺》，天上黄云萧条，白日也昏暗下来。曲调一转，又像春天的《折杨柳》，像上林苑的繁花，照得眼前一片明艳。除夕夜的高堂上点起明烛，喝一杯美酒，就听一曲觱篥。",
+  "appreciation": "这首诗写觱篥声的千变万化：先像寒风穿过枯桑老柏，又像九只小凤凰啾啾齐鸣，再像龙吟虎啸、百泉轰响；忽然急管悲壮，天昏地暗；曲调一转，又变成明媚春光。李颀把一段吹奏写成了一整年的天气和四季的风景，结尾回到除夕高堂，一杯美酒配一曲音乐，把知音相聚的快意写足了。",
+  "background": "觱篥是从西域龟兹传来的乐器，声音高亢悲凉。凉州乐师安万善在一次除夕宴会上为李颀等人吹奏。听的人有的叹息、有的落泪，李颀却听出了其中的万般变化，写下这首诗，夸这位乐师值得真正的知音欣赏。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "竹管奇声",
+      "text": "南山竹子做成觱篥，凉州乐师安万善在宴会上吹奏。"
+    },
+    {
+      "step": 2,
+      "title": "闻者落泪",
+      "text": "曲声悲凉，邻座听了叹息，远来的客人纷纷落泪思乡。"
+    },
+    {
+      "step": 3,
+      "title": "万声齐鸣",
+      "text": "乐声忽如寒风穿枯柏，忽如龙吟虎啸，百泉轰响在秋色里。"
+    },
+    {
+      "step": 4,
+      "title": "忽转春光",
+      "text": "曲调一转又见春光繁花，除夕烛下，一杯美酒配一声曲。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "觱篥",
+      "reading": "bì lì",
+      "reason": "觱篥是竹制簧管乐器，两字都难认：觱读 bì，篥读 lì。"
+    },
+    {
+      "char": "龟兹",
+      "reading": "qiū cí",
+      "reason": "龟兹是西域古国名，作地名时“龟”读 qiū。",
+      "standard": "不要读成 guī zī"
+    },
+    {
+      "char": "掺",
+      "reading": "càn",
+      "reason": "“渔阳掺”是曲名，这里的“掺”读 càn。",
+      "standard": "不要读成 chān"
+    }
+  ],
+  "sources": ["《全唐诗》", "《唐诗三百首》"],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1211
+}

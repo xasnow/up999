@@ -1,0 +1,456 @@
+{
+  "id": "tang-shengtang-dufu-zengweibachushi",
+  "slug": "zengweibachushi",
+  "title": "赠卫八处士",
+  "titlePinyin": "zèng wèi bā chǔ shì",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "五言古诗",
+  "authorId": "dufu",
+  "gradeBand": "ext",
+  "tags": [
+    "友情",
+    "重逢",
+    "夜雨",
+    "五言古诗"
+  ],
+  "difficulty": 3,
+  "writtenYear": 759,
+  "writtenLabel": "公元 759 年春（杜甫 47 岁，战乱中与老友卫八重逢）",
+  "orderInAuthor": 5,
+  "famousLines": [
+    "人生不相见，动如参与商。",
+    "夜雨剪春韭，新炊间黄粱。"
+  ],
+  "lines": [
+    {
+      "text": "人生不相见，",
+      "pinyin": [
+        "rén",
+        "shēng",
+        "bù",
+        "xiāng",
+        "jiàn"
+      ],
+      "translation": "人生中朋友难得相见，",
+      "noteIds": []
+    },
+    {
+      "text": "动如参与商。",
+      "pinyin": [
+        "dòng",
+        "rú",
+        "shēn",
+        "yǔ",
+        "shāng"
+      ],
+      "translation": "常像参星和商星，一个升起另一个就落下。",
+      "noteIds": [
+        "n-shenshang"
+      ]
+    },
+    {
+      "text": "今夕复何夕，",
+      "pinyin": [
+        "jīn",
+        "xī",
+        "fù",
+        "hé",
+        "xī"
+      ],
+      "translation": "今晚是什么样的好夜晚，",
+      "noteIds": []
+    },
+    {
+      "text": "共此灯烛光。",
+      "pinyin": [
+        "gòng",
+        "cǐ",
+        "dēng",
+        "zhú",
+        "guāng"
+      ],
+      "translation": "能和你一起点着灯烛相对而坐。",
+      "noteIds": []
+    },
+    {
+      "text": "少壮能几时，",
+      "pinyin": [
+        "shào",
+        "zhuàng",
+        "néng",
+        "jǐ",
+        "shí"
+      ],
+      "translation": "年轻力壮的日子能有多少？",
+      "noteIds": []
+    },
+    {
+      "text": "鬓发各已苍。",
+      "pinyin": [
+        "bìn",
+        "fà",
+        "gè",
+        "yǐ",
+        "cāng"
+      ],
+      "translation": "两人的鬓发都已经花白。",
+      "noteIds": []
+    },
+    {
+      "text": "访旧半为鬼，",
+      "pinyin": [
+        "fǎng",
+        "jiù",
+        "bàn",
+        "wéi",
+        "guǐ"
+      ],
+      "translation": "打听当年的老朋友，一半已经去世，",
+      "noteIds": []
+    },
+    {
+      "text": "惊呼热中肠。",
+      "pinyin": [
+        "jīng",
+        "hū",
+        "rè",
+        "zhōng",
+        "cháng"
+      ],
+      "translation": "忍不住惊呼出声，心里像火烧一样难受。",
+      "noteIds": [
+        "n-zhongchang"
+      ]
+    },
+    {
+      "text": "焉知二十载，",
+      "pinyin": [
+        "yān",
+        "zhī",
+        "èr",
+        "shí",
+        "zǎi"
+      ],
+      "translation": "谁能想到分别二十年之后，",
+      "noteIds": []
+    },
+    {
+      "text": "重上君子堂。",
+      "pinyin": [
+        "chóng",
+        "shàng",
+        "jūn",
+        "zǐ",
+        "táng"
+      ],
+      "translation": "还能再登上你家堂屋。",
+      "noteIds": []
+    },
+    {
+      "text": "昔别君未婚，",
+      "pinyin": [
+        "xī",
+        "bié",
+        "jūn",
+        "wèi",
+        "hūn"
+      ],
+      "translation": "当年分别时你还没有结婚，",
+      "noteIds": []
+    },
+    {
+      "text": "儿女忽成行。",
+      "pinyin": [
+        "ér",
+        "nǚ",
+        "hū",
+        "chéng",
+        "háng"
+      ],
+      "translation": "如今儿女已经排成了行。",
+      "noteIds": [
+        "n-chenghang"
+      ]
+    },
+    {
+      "text": "怡然敬父执，",
+      "pinyin": [
+        "yí",
+        "rán",
+        "jìng",
+        "fù",
+        "zhí"
+      ],
+      "translation": "他们高兴地敬重父亲的老友，",
+      "noteIds": [
+        "n-fuzhi"
+      ]
+    },
+    {
+      "text": "问我来何方。",
+      "pinyin": [
+        "wèn",
+        "wǒ",
+        "lái",
+        "hé",
+        "fāng"
+      ],
+      "translation": "热情地问我从哪里来。",
+      "noteIds": []
+    },
+    {
+      "text": "问答乃未已，",
+      "pinyin": [
+        "wèn",
+        "dá",
+        "nǎi",
+        "wèi",
+        "yǐ"
+      ],
+      "translation": "问答还没有说完，",
+      "noteIds": []
+    },
+    {
+      "text": "驱儿罗酒浆。",
+      "pinyin": [
+        "qū",
+        "ér",
+        "luó",
+        "jiǔ",
+        "jiāng"
+      ],
+      "translation": "你就叫孩子们摆开酒和饭。",
+      "noteIds": [
+        "n-luo"
+      ]
+    },
+    {
+      "text": "夜雨剪春韭，",
+      "pinyin": [
+        "yè",
+        "yǔ",
+        "jiǎn",
+        "chūn",
+        "jiǔ"
+      ],
+      "translation": "雨夜里剪来新鲜的春韭，",
+      "noteIds": [
+        "n-jiu"
+      ]
+    },
+    {
+      "text": "新炊间黄粱。",
+      "pinyin": [
+        "xīn",
+        "chuī",
+        "jiàn",
+        "huáng",
+        "liáng"
+      ],
+      "translation": "新煮的饭里掺着黄米。",
+      "noteIds": [
+        "n-jian",
+        "n-huangliang"
+      ]
+    },
+    {
+      "text": "主称会面难，",
+      "pinyin": [
+        "zhǔ",
+        "chēng",
+        "huì",
+        "miàn",
+        "nán"
+      ],
+      "translation": "主人说难得见上一面，",
+      "noteIds": []
+    },
+    {
+      "text": "一举累十觞。",
+      "pinyin": [
+        "yī",
+        "jǔ",
+        "lěi",
+        "shí",
+        "shāng"
+      ],
+      "translation": "一口气举杯连喝了十大杯。",
+      "noteIds": [
+        "n-shang"
+      ]
+    },
+    {
+      "text": "十觞亦不醉，",
+      "pinyin": [
+        "shí",
+        "shāng",
+        "yì",
+        "bù",
+        "zuì"
+      ],
+      "translation": "喝十杯也不醉，",
+      "noteIds": []
+    },
+    {
+      "text": "感子故意长。",
+      "pinyin": [
+        "gǎn",
+        "zǐ",
+        "gù",
+        "yì",
+        "cháng"
+      ],
+      "translation": "我感谢你这份老友情意深长。",
+      "noteIds": [
+        "n-guyi"
+      ]
+    },
+    {
+      "text": "明日隔山岳，",
+      "pinyin": [
+        "míng",
+        "rì",
+        "gé",
+        "shān",
+        "yuè"
+      ],
+      "translation": "明天一别，又要被山岳隔开，",
+      "noteIds": [
+        "n-shanyue"
+      ]
+    },
+    {
+      "text": "世事两茫茫。",
+      "pinyin": [
+        "shì",
+        "shì",
+        "liǎng",
+        "máng",
+        "máng"
+      ],
+      "translation": "你和我的前路，都茫茫难料了。",
+      "noteIds": []
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-shenshang",
+      "word": "参商",
+      "pinyin": "shēn shāng",
+      "meaning": "参星和商星，一个升起另一个就落下，永远不能同时出现在天上。"
+    },
+    {
+      "id": "n-zhongchang",
+      "word": "中肠",
+      "pinyin": "zhōng cháng",
+      "meaning": "内心、心里。"
+    },
+    {
+      "id": "n-chenghang",
+      "word": "成行",
+      "pinyin": "chéng háng",
+      "meaning": "排成行列。"
+    },
+    {
+      "id": "n-fuzhi",
+      "word": "父执",
+      "pinyin": "fù zhí",
+      "meaning": "父亲的朋友。"
+    },
+    {
+      "id": "n-luo",
+      "word": "罗",
+      "pinyin": "luó",
+      "meaning": "摆开，摆设。"
+    },
+    {
+      "id": "n-jiu",
+      "word": "韭",
+      "pinyin": "jiǔ",
+      "meaning": "韭菜。"
+    },
+    {
+      "id": "n-jian",
+      "word": "间",
+      "pinyin": "jiàn",
+      "meaning": "掺杂，混合。"
+    },
+    {
+      "id": "n-huangliang",
+      "word": "黄粱",
+      "pinyin": "huáng liáng",
+      "meaning": "黄米，泛指家常的粗米饭。"
+    },
+    {
+      "id": "n-shang",
+      "word": "觞",
+      "pinyin": "shāng",
+      "meaning": "古代的酒杯。"
+    },
+    {
+      "id": "n-guyi",
+      "word": "故意",
+      "pinyin": "gù yì",
+      "meaning": "老朋友的心意。"
+    },
+    {
+      "id": "n-shanyue",
+      "word": "山岳",
+      "pinyin": "shān yuè",
+      "meaning": "高大的山，比喻别后难以再见。"
+    }
+  ],
+  "translation": "人生中朋友难得相见，常像参星和商星，一个升起另一个就落下。今晚是什么样的好夜晚，能和你一起点着灯烛相对而坐。年轻力壮的日子能有多少？两人的鬓发都已经花白。打听当年的老朋友，一半已经去世，忍不住惊呼出声，心里像火烧一样难受。谁能想到分别二十年之后，还能再登上你家堂屋。当年分别时你还没有结婚，如今儿女已经排成了行。他们高兴地敬重父亲的老友，热情地问我从哪里来。问答还没有说完，你就叫孩子们摆开酒和饭。雨夜里剪来新鲜的春韭，新煮的饭里掺着黄米。主人说难得见上一面，一口气举杯连喝了十大杯。喝十杯也不醉，我感谢你这份老友情意深长。明天一别，又要被山岳隔开，你和我的前路，都茫茫难料了。",
+  "appreciation": "这首诗写的只是和老朋友的一夜相聚，却把乱世里的人情写得又暖又痛。二十年不见，灯下再看，彼此都白了头；老友的一半旧交已经不在人世。儿女绕膝、雨夜春韭、十觞不醉，全是家常话，越平常越动人。结尾想到明天又要远隔山岳，世事茫茫，把眼前这一点温暖衬得更加珍贵。",
+  "background": "公元759年春，杜甫从洛阳返回华州任上，当时安史之乱还没有平定。途中他顺路拜访了二十年不见的老朋友卫八处士，受到热情招待。乱离之中故人重逢，转眼又要分别，感慨之余写下这首诗。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "灯下重逢",
+      "text": "参商难见的两位老友，今晚共对一盏灯烛。"
+    },
+    {
+      "step": 2,
+      "title": "惊呼访旧",
+      "text": "打听旧友半已作古，二十年聚散令人心惊。"
+    },
+    {
+      "step": 3,
+      "title": "儿女罗浆",
+      "text": "当年未婚的卫八，如今儿女成行，摆酒相待。"
+    },
+    {
+      "step": 4,
+      "title": "茫然作别",
+      "text": "夜雨春韭、十觞不醉，明日又要隔山茫茫。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "参",
+      "reading": "shēn",
+      "reason": "“参商”是两颗星的名字，参星读 shēn。",
+      "standard": "不要读成 cān"
+    },
+    {
+      "char": "间",
+      "reading": "jiàn",
+      "reason": "“间黄粱”是把黄米掺进饭里，读 jiàn。",
+      "standard": "不要读成 jiān"
+    },
+    {
+      "char": "觞",
+      "reading": "shāng",
+      "reason": "“觞”是古代的酒杯，读 shāng。"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1179
+}

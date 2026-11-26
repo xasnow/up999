@@ -1,0 +1,129 @@
+{
+  "id": "tang-zhongtang-mengjiao-lienucao",
+  "slug": "lienucao",
+  "title": "烈女操",
+  "titlePinyin": "liè nǚ cāo",
+  "dynasty": "tangshi",
+  "era": "zhongtang",
+  "genre": "shi",
+  "form": "五言乐府",
+  "authorId": "mengjiao",
+  "gradeBand": "ext",
+  "tags": [
+    "哲理",
+    "五言乐府",
+    "梧桐",
+    "鸳鸯"
+  ],
+  "difficulty": 3,
+  "writtenYear": 796,
+  "writtenLabel": "约作于贞元年间（孟郊四十多岁，仕途困顿，借乐府旧题表明坚贞操守）",
+  "orderInAuthor": 3,
+  "famousLines": [
+    "梧桐相待老，鸳鸯会双死。"
+  ],
+  "lines": [
+    {
+      "text": "梧桐相待老，",
+      "pinyin": ["wú", "tóng", "xiāng", "dài", "lǎo"],
+      "translation": "梧和桐两树相依，一同慢慢变老，",
+      "noteIds": []
+    },
+    {
+      "text": "鸳鸯会双死。",
+      "pinyin": ["yuān", "yāng", "huì", "shuāng", "sǐ"],
+      "translation": "鸳鸯成双成对，终将一同死去。",
+      "noteIds": ["n-hui"]
+    },
+    {
+      "text": "贞妇贵殉夫，",
+      "pinyin": ["zhēn", "nǚ", "guì", "xùn", "fū"],
+      "translation": "贞洁的妇人，贵在以身随夫而去，",
+      "noteIds": ["n-xun"]
+    },
+    {
+      "text": "舍生亦如此。",
+      "pinyin": ["shě", "shēng", "yì", "rú", "cǐ"],
+      "translation": "舍弃生命，也像梧桐鸳鸯一样义无反顾。",
+      "noteIds": []
+    },
+    {
+      "text": "波澜誓不起，",
+      "pinyin": ["bō", "lán", "shì", "bù", "qǐ"],
+      "translation": "我的心发誓再不起一点波澜，",
+      "noteIds": []
+    },
+    {
+      "text": "妾心古井水。",
+      "pinyin": ["qiè", "xīn", "gǔ", "jǐng", "shuǐ"],
+      "translation": "就像那口老井里的水，静静地不起纹。",
+      "noteIds": ["n-qie"]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-hui",
+      "word": "会",
+      "pinyin": "huì",
+      "meaning": "终将、应当。"
+    },
+    {
+      "id": "n-xun",
+      "word": "殉",
+      "pinyin": "xùn",
+      "meaning": "为某人或某事献出生命。"
+    },
+    {
+      "id": "n-qie",
+      "word": "妾",
+      "pinyin": "qiè",
+      "meaning": "旧时女子的自称。"
+    }
+  ],
+  "translation": "梧和桐两树相依，一同慢慢变老，鸳鸯成双成对，终将一同死去。贞洁的妇人，贵在以身随夫而去，舍弃生命，也像梧桐鸳鸯一样义无反顾。我的心发誓再不起一点波澜，就像那口老井里的水，静静地不起纹。",
+  "appreciation": "这首小诗只有六句，却连用三个比喻：梧桐同老、鸳鸯双死、古井无波，一层比一层安静，一层比一层坚定。孟郊用乐府旧题写贞妇，其实也是在写自己——乱世困顿之中，宁可清苦一生，也不动摇做人的操守。“妾心古井水”五个字，把一颗古井无波的心写到了极致，成为后人形容心志坚定的名句。",
+  "background": "孟郊一生穷苦，两次落榜，深知守志不移的艰难。他借乐府旧题《烈女操》咏贞妇殉夫、心如古井，用梧桐鸳鸯起兴，既写世间的坚贞，也寄托自己在贫贱中不改其志的品格。诗题一作《列女操》。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "梧桐相依",
+      "text": "梧树桐树并肩生长，一起经历风雨，慢慢变老。"
+    },
+    {
+      "step": 2,
+      "title": "鸳鸯同命",
+      "text": "水上的鸳鸯成双成对，生同游、死同穴。"
+    },
+    {
+      "step": 3,
+      "title": "贞妇舍生",
+      "text": "贞洁的妇人随夫而去，像双树双鸟一样决绝。"
+    },
+    {
+      "step": 4,
+      "title": "心似古井",
+      "text": "她起誓心如老井的水，任凭岁月，再不起波澜。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "操",
+      "reading": "cāo",
+      "reason": "“操”是琴曲体裁的名称，读 cāo。",
+      "standard": "不要读成 cào"
+    },
+    {
+      "char": "殉",
+      "reading": "xùn",
+      "reason": "“殉夫”是为丈夫献出生命，“殉”读 xùn。",
+      "standard": "不要读成 xún"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1256
+}

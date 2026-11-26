@@ -1,0 +1,343 @@
+{
+  "id": "tang-shengtang-dufu-menglibai-1",
+  "slug": "menglibai-1",
+  "title": "梦李白·其一",
+  "titlePinyin": "mèng lǐ bái · qí yī",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "五言古诗",
+  "authorId": "dufu",
+  "gradeBand": "ext",
+  "tags": [
+    "思念",
+    "友情",
+    "月亮",
+    "五言古诗"
+  ],
+  "difficulty": 3,
+  "writtenYear": 759,
+  "writtenLabel": "公元 759 年（杜甫 47 岁，流寓秦州，忧思李白成梦而作）",
+  "orderInAuthor": 3,
+  "famousLines": [
+    "落月满屋梁，犹疑照颜色。"
+  ],
+  "lines": [
+    {
+      "text": "死别已吞声，",
+      "pinyin": [
+        "sǐ",
+        "bié",
+        "yǐ",
+        "tūn",
+        "shēng"
+      ],
+      "translation": "死别时哭得发不出声音，",
+      "noteIds": [
+        "n-tunsheng"
+      ]
+    },
+    {
+      "text": "生别常恻恻。",
+      "pinyin": [
+        "shēng",
+        "bié",
+        "cháng",
+        "cè",
+        "cè"
+      ],
+      "translation": "活着分开，却常常忧伤不止。",
+      "noteIds": [
+        "n-cece"
+      ]
+    },
+    {
+      "text": "江南瘴疠地，",
+      "pinyin": [
+        "jiāng",
+        "nán",
+        "zhàng",
+        "lì",
+        "dì"
+      ],
+      "translation": "你流放的江南，是瘴气流行的地方，",
+      "noteIds": [
+        "n-zhangli"
+      ]
+    },
+    {
+      "text": "逐客无消息。",
+      "pinyin": [
+        "zhú",
+        "kè",
+        "wú",
+        "xiāo",
+        "xī"
+      ],
+      "translation": "被放逐的人一直没有什么消息。",
+      "noteIds": [
+        "n-zhuke"
+      ]
+    },
+    {
+      "text": "故人入我梦，",
+      "pinyin": [
+        "gù",
+        "rén",
+        "rù",
+        "wǒ",
+        "mèng"
+      ],
+      "translation": "老朋友走进我的梦中，",
+      "noteIds": []
+    },
+    {
+      "text": "明我长相忆。",
+      "pinyin": [
+        "míng",
+        "wǒ",
+        "cháng",
+        "xiāng",
+        "yì"
+      ],
+      "translation": "说明我一直在把他挂念。",
+      "noteIds": []
+    },
+    {
+      "text": "恐非平生魂，",
+      "pinyin": [
+        "kǒng",
+        "fēi",
+        "píng",
+        "shēng",
+        "hún"
+      ],
+      "translation": "我担心这不是他生前的魂魄，",
+      "noteIds": []
+    },
+    {
+      "text": "路远不可测。",
+      "pinyin": [
+        "lù",
+        "yuǎn",
+        "bù",
+        "kě",
+        "cè"
+      ],
+      "translation": "路途那么遥远，实在难以推测。",
+      "noteIds": []
+    },
+    {
+      "text": "魂来枫叶青，",
+      "pinyin": [
+        "hún",
+        "lái",
+        "fēng",
+        "yè",
+        "qīng"
+      ],
+      "translation": "魂魄来时，穿过江南青青的枫林，",
+      "noteIds": [
+        "n-fengye"
+      ]
+    },
+    {
+      "text": "魂返关塞黑。",
+      "pinyin": [
+        "hún",
+        "fǎn",
+        "guān",
+        "sài",
+        "hēi"
+      ],
+      "translation": "回去时要飞过黑沉沉的关塞。",
+      "noteIds": [
+        "n-guansai"
+      ]
+    },
+    {
+      "text": "君今在罗网，",
+      "pinyin": [
+        "jūn",
+        "jīn",
+        "zài",
+        "luó",
+        "wǎng"
+      ],
+      "translation": "如今你正陷在罗网之中，",
+      "noteIds": [
+        "n-luowang"
+      ]
+    },
+    {
+      "text": "何以有羽翼。",
+      "pinyin": [
+        "hé",
+        "yǐ",
+        "yǒu",
+        "yǔ",
+        "yì"
+      ],
+      "translation": "怎么还能生出翅膀自由来去？",
+      "noteIds": []
+    },
+    {
+      "text": "落月满屋梁，",
+      "pinyin": [
+        "luò",
+        "yuè",
+        "mǎn",
+        "wū",
+        "liáng"
+      ],
+      "translation": "下落的月光洒满屋梁，",
+      "noteIds": []
+    },
+    {
+      "text": "犹疑照颜色。",
+      "pinyin": [
+        "yóu",
+        "yí",
+        "zhào",
+        "yán",
+        "sè"
+      ],
+      "translation": "我恍惚觉得，那光照着你的面容。",
+      "noteIds": [
+        "n-yanse"
+      ]
+    },
+    {
+      "text": "水深波浪阔，",
+      "pinyin": [
+        "shuǐ",
+        "shēn",
+        "bō",
+        "làng",
+        "kuò"
+      ],
+      "translation": "江南水深浪宽，",
+      "noteIds": []
+    },
+    {
+      "text": "无使蛟龙得。",
+      "pinyin": [
+        "wú",
+        "shǐ",
+        "jiāo",
+        "lóng",
+        "dé"
+      ],
+      "translation": "可别让蛟龙把你伤害。",
+      "noteIds": [
+        "n-jiaolong"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-tunsheng",
+      "word": "吞声",
+      "pinyin": "tūn shēng",
+      "meaning": "哭得发不出声音，只能把哭声咽进肚里。"
+    },
+    {
+      "id": "n-cece",
+      "word": "恻恻",
+      "pinyin": "cè cè",
+      "meaning": "心里悲伤难受的样子。"
+    },
+    {
+      "id": "n-zhangli",
+      "word": "瘴疠",
+      "pinyin": "zhàng lì",
+      "meaning": "南方湿热地方容易染上的疾病。"
+    },
+    {
+      "id": "n-zhuke",
+      "word": "逐客",
+      "pinyin": "zhú kè",
+      "meaning": "被朝廷流放的人，这里指李白。"
+    },
+    {
+      "id": "n-fengye",
+      "word": "枫叶",
+      "pinyin": "fēng yè",
+      "meaning": "枫树的叶子，李白流放的江南多枫林。"
+    },
+    {
+      "id": "n-guansai",
+      "word": "关塞",
+      "pinyin": "guān sài",
+      "meaning": "边关要塞，指杜甫所在的西北秦州。"
+    },
+    {
+      "id": "n-luowang",
+      "word": "罗网",
+      "pinyin": "luó wǎng",
+      "meaning": "捕鸟的网，比喻李白处境险恶。"
+    },
+    {
+      "id": "n-yanse",
+      "word": "颜色",
+      "pinyin": "yán sè",
+      "meaning": "指人的容貌、脸色。"
+    },
+    {
+      "id": "n-jiaolong",
+      "word": "蛟龙",
+      "pinyin": "jiāo lóng",
+      "meaning": "传说中生活在深水里、能掀起风浪的龙。"
+    }
+  ],
+  "translation": "死别时哭得发不出声音，活着分开却常常忧伤不止。你流放的江南是瘴气流行的地方，被放逐的人一直没有什么消息。老朋友走进我的梦中，说明我一直在把他挂念。我担心这不是他生前的魂魄，路途那么遥远，实在难以推测。魂魄来时穿过江南青青的枫林，回去时要飞过黑沉沉的关塞。如今你正陷在罗网之中，怎么还能生出翅膀自由来去？下落的月光洒满屋梁，我恍惚觉得那光照着你的面容。江南水深浪宽，可别让蛟龙把你伤害。",
+  "appreciation": "李白被流放，杜甫在秦州一连梦见他，写下这首牵挂的诗。他不敢确定梦里来的是不是好友的魂魄，怕路太远、水太深。月光洒在屋梁上，他恍惚看见李白的样子。全诗没有一句大道理，只有一次次担心：怕罗网困住他，怕蛟龙伤害他。朋友之间最深的情意，就是这样一遍又一遍地惦念。",
+  "background": "公元759年，李白因永王事件被流放夜郎，途中遇赦，但消息迟迟没有传到北方。杜甫在秦州久久得不到好友音信，忧心成梦，一连几夜梦见李白，写下《梦李白》二首，这是第一首。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "生别恻恻",
+      "text": "好友流放江南没有消息，杜甫日夜牵挂。"
+    },
+    {
+      "step": 2,
+      "title": "故人入梦",
+      "text": "李白走进梦中，像是知道他在想念。"
+    },
+    {
+      "step": 3,
+      "title": "魂来魂返",
+      "text": "魂魄来时过青青枫林，回去时渡黑黑关塞。"
+    },
+    {
+      "step": 4,
+      "title": "落月照颜",
+      "text": "月光洒满屋梁，好像照见故人的模样。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "恻",
+      "reading": "cè",
+      "reason": "“恻恻”是心里悲伤的样子，读 cè。"
+    },
+    {
+      "char": "塞",
+      "reading": "sài",
+      "reason": "“关塞”指边关要塞，读 sài。",
+      "standard": "不要读成 sāi"
+    },
+    {
+      "char": "疠",
+      "reading": "lì",
+      "reason": "“瘴疠”指南方湿热引起的疾病，读 lì。"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1177
+}

@@ -1,0 +1,145 @@
+{
+  "id": "tang-wantang-madai-bashangqiuju",
+  "slug": "bashangqiuju",
+  "title": "灞上秋居",
+  "titlePinyin": "bà shàng qiū jū",
+  "dynasty": "tangshi",
+  "era": "wantang",
+  "genre": "shi",
+  "form": "五言律诗",
+  "authorId": "madai",
+  "gradeBand": "ext",
+  "difficulty": 3,
+  "tags": ["思乡", "五言律诗", "秋天", "孤灯"],
+  "writtenYear": 842,
+  "writtenLabel": "约公元 842 年（马戴 44 岁，落第后客居长安灞上）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "落叶他乡树，寒灯独夜人。"
+  ],
+  "lines": [
+    {
+      "text": "灞原风雨定，",
+      "pinyin": ["bà", "yuán", "fēng", "yǔ", "dìng"],
+      "translation": "灞原上的风雨刚刚停歇，",
+      "noteIds": ["n-bayuan"]
+    },
+    {
+      "text": "晚见雁行频。",
+      "pinyin": ["wǎn", "jiàn", "yàn", "háng", "pín"],
+      "translation": "傍晚只见南飞的大雁一阵阵经过。",
+      "noteIds": ["n-yanhang"]
+    },
+    {
+      "text": "落叶他乡树，",
+      "pinyin": ["luò", "yè", "tā", "xiāng", "shù"],
+      "translation": "纷纷落叶，飘的是他乡的树，",
+      "noteIds": []
+    },
+    {
+      "text": "寒灯独夜人。",
+      "pinyin": ["hán", "dēng", "dú", "yè", "rén"],
+      "translation": "一盏寒灯，照着长夜里独坐的人。",
+      "noteIds": ["n-duye"]
+    },
+    {
+      "text": "空园白露滴，",
+      "pinyin": ["kōng", "yuán", "bái", "lù", "dī"],
+      "translation": "空园里连白露滴落的声音都听得见，",
+      "noteIds": []
+    },
+    {
+      "text": "孤壁野僧邻。",
+      "pinyin": ["gū", "bì", "yě", "sēng", "lín"],
+      "translation": "孤零零的墙外，只有山野僧人作邻居。",
+      "noteIds": []
+    },
+    {
+      "text": "寄卧郊扉久，",
+      "pinyin": ["jì", "wò", "jiāo", "fēi", "jiǔ"],
+      "translation": "寄居在郊外的草舍里已经很久，",
+      "noteIds": ["n-jiaofei"]
+    },
+    {
+      "text": "何年致此身。",
+      "pinyin": ["hé", "nián", "zhì", "cǐ", "shēn"],
+      "translation": "到哪一年才能施展抱负、报效国家呢？",
+      "noteIds": ["n-zhishen"]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-bayuan",
+      "word": "灞原",
+      "pinyin": "bà yuán",
+      "meaning": "即灞上，长安城东灞水边的高地，诗人客居的地方。"
+    },
+    {
+      "id": "n-yanhang",
+      "word": "雁行",
+      "pinyin": "yàn háng",
+      "meaning": "排成一行飞行的大雁。行，行列。"
+    },
+    {
+      "id": "n-duye",
+      "word": "独夜",
+      "pinyin": "dú yè",
+      "meaning": "独自一个人度过的长夜。"
+    },
+    {
+      "id": "n-jiaofei",
+      "word": "郊扉",
+      "pinyin": "jiāo fēi",
+      "meaning": "郊外住处的门户，指乡村草舍。"
+    },
+    {
+      "id": "n-zhishen",
+      "word": "致此身",
+      "pinyin": "zhì cǐ shēn",
+      "meaning": "出仕做官、为国家献身出力，语出《论语》“事君能致其身”。"
+    }
+  ],
+  "translation": "灞原上的风雨刚刚停歇，傍晚只见南飞的大雁一阵阵经过。纷纷落叶，飘的是他乡的树；一盏寒灯，照着长夜里独坐的人。空园里连白露滴落的声音都听得见，孤零零的墙外，只有山野僧人作邻居。寄居在郊外的草舍里已经很久了，到哪一年才能施展抱负、报效国家呢？",
+  "appreciation": "这首诗把“秋居”写得又静又冷。风雨过后，雁阵频频掠过，勾起思乡之情；他乡的树落叶，独夜的灯照人，一句一景，景景带情。白露滴空园，愈静愈显出夜的深；野僧做邻居，愈孤愈写出客的清冷。结尾一问“何年致此身”，把落第书生的抱负与无奈一并托出。",
+  "background": "马戴早年到长安求取功名，屡试不第，只能客居在长安城东的灞上。一个秋夜，风雨初停，他看见南飞的雁阵、落尽的秋叶，听着空园里的露水声，写下这首诗，说出久居异乡、报国无门的苦闷。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "风雨初歇",
+      "text": "秋夜灞原，风雨刚刚停歇，四下里安静下来。"
+    },
+    {
+      "step": 2,
+      "title": "雁阵南飞",
+      "text": "傍晚抬头，只见南归的大雁一行接一行飞过天空。"
+    },
+    {
+      "step": 3,
+      "title": "孤灯夜坐",
+      "text": "他乡的树叶落了，寒灯下只坐着异乡人自己一个。"
+    },
+    {
+      "step": 4,
+      "title": "叹问前路",
+      "text": "夜深难眠，他自问：哪一年才能施展抱负、为国效力呢？"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "灞",
+      "reading": "bà",
+      "reason": "灞是水名，在长安城东，“灞上”是诗人客居之地。"
+    },
+    {
+      "char": "雁行",
+      "reading": "yàn háng",
+      "reason": "“行”指雁阵的行列，读 háng。"
+      ,
+      "standard": "不要读成 xíng"
+    }
+  ],
+  "sources": ["《全唐诗》", "《唐诗三百首》"],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1095
+}

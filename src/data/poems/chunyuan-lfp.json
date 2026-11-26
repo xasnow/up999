@@ -1,0 +1,146 @@
+{
+  "id": "tang-zhongtang-liuyangping-chunyuan-lfp",
+  "slug": "chunyuan-lfp",
+  "title": "春怨",
+  "titlePinyin": "chūn yuàn",
+  "dynasty": "tangshi",
+  "era": "zhongtang",
+  "genre": "shi",
+  "form": "七言绝句",
+  "authorId": "liuyangping",
+  "gradeBand": "ext",
+  "tags": [
+    "宫怨",
+    "七言绝句",
+    "黄昏",
+    "春天"
+  ],
+  "difficulty": 3,
+  "writtenYear": 765,
+  "writtenLabel": "约公元 765 年（刘方平 24 岁左右，隐居颍水、汝水一带，写宫中女子之怨）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "寂寞空庭春欲晚，梨花满地不开门。"
+  ],
+  "lines": [
+    {
+      "text": "纱窗日落渐黄昏，",
+      "pinyin": [
+        "shā",
+        "chuāng",
+        "rì",
+        "luò",
+        "jiàn",
+        "huáng",
+        "hūn"
+      ],
+      "translation": "纱窗外太阳西落，天色渐渐暗成黄昏。",
+      "noteIds": []
+    },
+    {
+      "text": "金屋无人见泪痕。",
+      "pinyin": [
+        "jīn",
+        "wū",
+        "wú",
+        "rén",
+        "jiàn",
+        "lèi",
+        "hén"
+      ],
+      "translation": "华美的宫殿里没有人来，只见她满面泪痕。",
+      "noteIds": [
+        "n-jinwu"
+      ]
+    },
+    {
+      "text": "寂寞空庭春欲晚，",
+      "pinyin": [
+        "jì",
+        "mò",
+        "kōng",
+        "tíng",
+        "chūn",
+        "yù",
+        "wǎn"
+      ],
+      "translation": "冷冷清清的庭院里，春天就要过完了，",
+      "noteIds": [
+        "n-jimo"
+      ]
+    },
+    {
+      "text": "梨花满地不开门。",
+      "pinyin": [
+        "lí",
+        "huā",
+        "mǎn",
+        "dì",
+        "bù",
+        "kāi",
+        "mén"
+      ],
+      "translation": "梨花落了满地，她也不肯开门。",
+      "noteIds": []
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-jinwu",
+      "word": "金屋",
+      "pinyin": "jīn wū",
+      "meaning": "汉武帝小时候说长大后要用金屋娶阿娇，后来指华美的宫室。"
+    },
+    {
+      "id": "n-jimo",
+      "word": "寂寞",
+      "pinyin": "jì mò",
+      "meaning": "孤单冷清。"
+    }
+  ],
+  "translation": "纱窗外太阳西落，天色渐渐暗成黄昏。华美的宫殿里没有人来，只见她满面泪痕。冷冷清清的庭院里，春天就要过完了，梨花落了满地，她也不肯开门。",
+  "appreciation": "诗里没有一句怨言，全是画面：日头落了，人影不见，泪水留在脸上；庭院空空，春意将尽，梨花落满一地，门也不开。“春欲晚”三个字最含蓄——春天和她的青春都快要到头了。落花与闭门相对照，把失宠女子无人过问的冷清写到了极致，怨意反而显得更深。",
+  "background": "唐代皇宫中有很多妃嫔宫女，得宠的少，失宠的多。这首诗写的就是一位失宠女子孤独的黄昏。刘方平一生没有做官，住在颍水、汝水一带，作诗年份难以确考，这里取他成年隐居时期的说法。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "日落纱窗",
+      "text": "太阳西沉，纱窗外天色渐渐黄昏。"
+    },
+    {
+      "step": 2,
+      "title": "泪落金屋",
+      "text": "宫殿里无人探望，她悄悄垂泪。"
+    },
+    {
+      "step": 3,
+      "title": "春晚庭空",
+      "text": "空庭院里，春天的花期将尽。"
+    },
+    {
+      "step": 4,
+      "title": "花落闭门",
+      "text": "梨花落满地，她关着门不肯见人。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "渐",
+      "reading": "jiàn",
+      "reason": "“渐黄昏”是渐渐到黄昏的意思，读 jiàn。",
+      "standard": "不读 jiān"
+    },
+    {
+      "char": "痕",
+      "reading": "hén",
+      "reason": "“泪痕”是眼泪留下的印子，读 hén。"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1040
+}

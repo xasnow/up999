@@ -1,0 +1,150 @@
+{
+  "id": "tang-shengtang-dufu-bazhentu",
+  "slug": "bazhentu",
+  "title": "八阵图",
+  "titlePinyin": "bā zhèn tú",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "五言绝句",
+  "authorId": "dufu",
+  "gradeBand": "ext",
+  "tags": [
+    "怀古",
+    "三国",
+    "江水",
+    "五言绝句"
+  ],
+  "difficulty": 3,
+  "writtenYear": 766,
+  "writtenLabel": "约公元 766 年（杜甫 54 岁，初到夔州，凭吊江边的八阵图遗迹）",
+  "orderInAuthor": 7,
+  "famousLines": [
+    "功盖三分国，名成八阵图。",
+    "江流石不转，遗恨失吞吴。"
+  ],
+  "lines": [
+    {
+      "text": "功盖三分国，",
+      "pinyin": [
+        "gōng",
+        "gài",
+        "sān",
+        "fēn",
+        "guó"
+      ],
+      "translation": "诸葛亮的功绩，在三分天下的局势中无人能比，",
+      "noteIds": [
+        "n-sanguo"
+      ]
+    },
+    {
+      "text": "名成八阵图。",
+      "pinyin": [
+        "míng",
+        "chéng",
+        "bā",
+        "zhèn",
+        "tú"
+      ],
+      "translation": "他创制的八阵图，更让他名声流传千古。",
+      "noteIds": [
+        "n-bazhentu"
+      ]
+    },
+    {
+      "text": "江流石不转，",
+      "pinyin": [
+        "jiāng",
+        "liú",
+        "shí",
+        "bù",
+        "zhuǎn"
+      ],
+      "translation": "任凭江水日夜冲激，阵图上的石头始终不动，",
+      "noteIds": [
+        "n-shibuzhuan"
+      ]
+    },
+    {
+      "text": "遗恨失吞吴。",
+      "pinyin": [
+        "yí",
+        "hèn",
+        "shī",
+        "tūn",
+        "wú"
+      ],
+      "translation": "那份遗憾，就像蜀汉未能吞并东吴、完成大业一样，永远留在江边。",
+      "noteIds": [
+        "n-shitunwu"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-sanguo",
+      "word": "三分国",
+      "pinyin": "sān fēn guó",
+      "meaning": "指魏、蜀、吴三分天下的局面。"
+    },
+    {
+      "id": "n-bazhentu",
+      "word": "八阵图",
+      "pinyin": "bā zhèn tú",
+      "meaning": "诸葛亮用石头摆出的八种军阵阵形，用来操练军队。"
+    },
+    {
+      "id": "n-shibuzhuan",
+      "word": "石不转",
+      "pinyin": "shí bù zhuǎn",
+      "meaning": "江水涨落冲激，阵图上的石头始终不动。"
+    },
+    {
+      "id": "n-shitunwu",
+      "word": "失吞吴",
+      "pinyin": "shī tūn wú",
+      "meaning": "指蜀汉未能吞并东吴、复兴汉室，成了诸葛亮终身的遗憾。"
+    }
+  ],
+  "translation": "诸葛亮辅佐刘备建立蜀汉，功绩在三分天下的局势中无人能比，他创制的八阵图更让他名声流传千古。任凭江水日夜冲激，阵图上的石头始终不肯转动，那份遗憾，就像蜀汉未能吞并东吴、完成大业一样，永远留在了江边。",
+  "appreciation": "短短二十个字，把诸葛亮的功绩和遗憾都写尽了。前两句写他辅佐刘备三分天下，又用八阵图立下不朽名声；后两句只写一个画面：江水冲了几百年，阵图上的石头始终不动。石头不转，好像那份没完成的心愿还压在江底。诗人站在江边怀念古人，把敬仰和惋惜一起收进了最后五个字里。",
+  "background": "公元766年，杜甫初到夔州。城外的长江边有诸葛亮留下的八阵图遗迹，传说是他用石头摆成的军阵，江水冲了几百年石头都不动。杜甫凭吊遗迹，想起诸葛亮辅佐蜀汉的功绩和未能实现的心愿，写下这首短诗。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "三国鼎立",
+      "text": "诸葛亮辅佐刘备建立蜀汉，与魏、吴三分天下。"
+    },
+    {
+      "step": 2,
+      "title": "创八阵图",
+      "text": "他用石头摆出八阵图，操练兵马，名声流传后世。"
+    },
+    {
+      "step": 3,
+      "title": "江水冲石",
+      "text": "几百年过去，江水涨落，日夜冲激阵上的石头。"
+    },
+    {
+      "step": 4,
+      "title": "遗恨江头",
+      "text": "石头始终不转，仿佛还压着未能完成大业的遗恨。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "转",
+      "reading": "zhuǎn",
+      "reason": "“石不转”说石头不转动，读 zhuǎn。",
+      "standard": "不要读成 zhuàn"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1005
+}

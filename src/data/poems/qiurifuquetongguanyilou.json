@@ -1,0 +1,145 @@
+{
+  "id": "tang-wantang-xuhun-qiurifuquetongguanyilou",
+  "slug": "qiurifuquetongguanyilou",
+  "title": "秋日赴阙题潼关驿楼",
+  "titlePinyin": "qiū rì fù què tí tóng guān yì lóu",
+  "dynasty": "tangshi",
+  "era": "wantang",
+  "genre": "shi",
+  "form": "五言律诗",
+  "authorId": "xuhun",
+  "gradeBand": "ext",
+  "tags": ["山水", "五言律诗", "秋天", "红叶"],
+  "difficulty": 3,
+  "writtenYear": 832,
+  "writtenLabel": "约公元 832 年（许浑 41 岁，秋天赴长安应试，途中夜宿潼关驿楼题诗）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "残云归太华，疏雨过中条。"
+  ],
+  "lines": [
+    {
+      "text": "红叶晚萧萧，",
+      "pinyin": ["hóng", "yè", "wǎn", "xiāo", "xiāo"],
+      "translation": "傍晚，红叶在风中沙沙作响。",
+      "noteIds": []
+    },
+    {
+      "text": "长亭酒一瓢。",
+      "pinyin": ["cháng", "tíng", "jiǔ", "yī", "piáo"],
+      "translation": "我在长亭里喝了一瓢酒。",
+      "noteIds": []
+    },
+    {
+      "text": "残云归太华，",
+      "pinyin": ["cán", "yún", "guī", "tài", "huà"],
+      "translation": "天边的残云飘回华山那边。",
+      "noteIds": ["n-taihua"]
+    },
+    {
+      "text": "疏雨过中条。",
+      "pinyin": ["shū", "yǔ", "guò", "zhōng", "tiáo"],
+      "translation": "稀疏的秋雨掠过中条山。",
+      "noteIds": ["n-zhongtiao"]
+    },
+    {
+      "text": "树色随山迥，",
+      "pinyin": ["shù", "sè", "suí", "shān", "jiǒng"],
+      "translation": "树木的颜色随着山势越看越远。",
+      "noteIds": ["n-jiong"]
+    },
+    {
+      "text": "河声入海遥。",
+      "pinyin": ["hé", "shēng", "rù", "hǎi", "yáo"],
+      "translation": "黄河的水声流向遥远的大海。",
+      "noteIds": []
+    },
+    {
+      "text": "帝乡明日到，",
+      "pinyin": ["dì", "xiāng", "míng", "rì", "dào"],
+      "translation": "明天就要到京城长安了。",
+      "noteIds": ["n-dixiang"]
+    },
+    {
+      "text": "犹自梦渔樵。",
+      "pinyin": ["yóu", "zì", "mèng", "yú", "qiáo"],
+      "translation": "我却还在梦里惦记着打鱼砍柴的山林生活。",
+      "noteIds": ["n-yuqiao"]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-taihua",
+      "word": "太华",
+      "pinyin": "tài huà",
+      "meaning": "指西岳华山，在潼关西面。"
+    },
+    {
+      "id": "n-zhongtiao",
+      "word": "中条",
+      "pinyin": "zhōng tiáo",
+      "meaning": "指中条山，在潼关东面的黄河北岸。"
+    },
+    {
+      "id": "n-jiong",
+      "word": "迥",
+      "pinyin": "jiǒng",
+      "meaning": "遥远的样子。"
+    },
+    {
+      "id": "n-dixiang",
+      "word": "帝乡",
+      "pinyin": "dì xiāng",
+      "meaning": "皇帝住的地方，指京城长安。"
+    },
+    {
+      "id": "n-yuqiao",
+      "word": "渔樵",
+      "pinyin": "yú qiáo",
+      "meaning": "打鱼、砍柴，指山里自由自在的隐居生活。"
+    }
+  ],
+  "translation": "傍晚，红叶在风中沙沙作响，我在长亭里喝了一瓢酒。天边的残云飘回华山那边，稀疏的秋雨掠过中条山。树木的颜色随着山势越看越远，黄河的水声流向遥远的大海。明天就要到京城长安了，我却还在梦里惦记着打鱼砍柴的山林生活。",
+  "appreciation": "这首诗是许浑在赴京途中所写。诗人站在潼关驿楼上，把秋天傍晚的山河细细看了一遍：红叶、残云、疏雨、树色、河声，一句写一个景物，安排得整整齐齐。华山和中条山一西一东，把潼关夹在中间，气势很大。最后一句最好：明天就要到京城了，诗人却在梦里想着打鱼砍柴的日子，写出了他对安静山林的喜爱。",
+  "background": "约公元832年秋天，许浑前往长安参加考试，路过潼关，晚上住在驿楼上。他登楼远望，看见华山和中条山之间的秋色，听见黄河远远的水声，想到即将进城赶考，又舍不得山里的自在日子，就写下了这首诗。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "秋夜驿楼",
+      "text": "秋天傍晚，诗人赶路来到潼关，晚上住进了高高的驿楼。"
+    },
+    {
+      "step": 2,
+      "title": "红叶长亭",
+      "text": "驿楼外红叶在晚风里沙沙作响，他在长亭喝了一瓢酒。"
+    },
+    {
+      "step": 3,
+      "title": "远望山河",
+      "text": "他登楼远望，残云飘向华山，疏雨掠过中条山，黄河水声流向大海。"
+    },
+    {
+      "step": 4,
+      "title": "梦回山林",
+      "text": "明天就要到京城了，他却还在梦里惦记着打鱼砍柴的山林生活。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "华",
+      "reading": "huà",
+      "reason": "“太华”指华山，“华”在山名里读 huà。",
+      "standard": "不要读成 huá"
+    },
+    {
+      "char": "迥",
+      "reading": "jiǒng",
+      "reason": "“迥”是“远”的意思，读 jiǒng。",
+      "standard": "不要读成 jiù"
+    }
+  ],
+  "sources": ["《全唐诗》", "《唐诗三百首》", "《丁卯集》"],
+  "no": 1102,
+  "status": "published",
+  "updatedAt": "2026-11-26"
+}

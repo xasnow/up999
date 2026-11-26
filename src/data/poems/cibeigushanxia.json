@@ -1,0 +1,217 @@
+{
+  "id": "tang-shengtang-wangwan-cibeigushanxia",
+  "slug": "cibeigushanxia",
+  "title": "次北固山下",
+  "titlePinyin": "cì běi gù shān xià",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "五言律诗",
+  "authorId": "wangwan",
+  "gradeBand": "ext",
+  "tags": [
+    "思乡",
+    "五言律诗",
+    "长江",
+    "归雁"
+  ],
+  "difficulty": 3,
+  "writtenYear": 714,
+  "writtenLabel": "约公元 714 年（王湾 20 多岁，游历江南，舟泊北固山下）",
+  "orderInAuthor": 1,
+  "no": 1053,
+  "famousLines": [
+    "海日生残夜，江春入旧年。"
+  ],
+  "lines": [
+    {
+      "text": "客路青山外，",
+      "pinyin": [
+        "kè",
+        "lù",
+        "qīng",
+        "shān",
+        "wài"
+      ],
+      "translation": "旅客要走的路，伸到青山之外，",
+      "noteIds": [
+        "n-kelu"
+      ]
+    },
+    {
+      "text": "行舟绿水前。",
+      "pinyin": [
+        "xíng",
+        "zhōu",
+        "lǜ",
+        "shuǐ",
+        "qián"
+      ],
+      "translation": "小船行驶在碧绿的江水前面。"
+    },
+    {
+      "text": "潮平两岸阔，",
+      "pinyin": [
+        "cháo",
+        "píng",
+        "liǎng",
+        "àn",
+        "kuò"
+      ],
+      "translation": "潮水上涨，与两岸齐平，江面显得开阔，",
+      "noteIds": [
+        "n-chaoping"
+      ]
+    },
+    {
+      "text": "风正一帆悬。",
+      "pinyin": [
+        "fēng",
+        "zhèng",
+        "yī",
+        "fān",
+        "xuán"
+      ],
+      "translation": "风向正顺，一张帆高高悬挂。",
+      "noteIds": [
+        "n-fengzheng"
+      ]
+    },
+    {
+      "text": "海日生残夜，",
+      "pinyin": [
+        "hǎi",
+        "rì",
+        "shēng",
+        "cán",
+        "yè"
+      ],
+      "translation": "夜还没有退尽，太阳已从江面升起，",
+      "noteIds": [
+        "n-canye"
+      ]
+    },
+    {
+      "text": "江春入旧年。",
+      "pinyin": [
+        "jiāng",
+        "chūn",
+        "rù",
+        "jiù",
+        "nián"
+      ],
+      "translation": "旧年还没有过完，江南已经有了春意。"
+    },
+    {
+      "text": "乡书何处达？",
+      "pinyin": [
+        "xiāng",
+        "shū",
+        "hé",
+        "chù",
+        "dá"
+      ],
+      "translation": "家信要寄到什么地方去呢？",
+      "noteIds": [
+        "n-xiangshu"
+      ]
+    },
+    {
+      "text": "归雁洛阳边。",
+      "pinyin": [
+        "guī",
+        "yàn",
+        "luò",
+        "yáng",
+        "biān"
+      ],
+      "translation": "希望北归的大雁，替我捎回洛阳城边。",
+      "noteIds": [
+        "n-guiyan"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-kelu",
+      "word": "客路",
+      "pinyin": "kè lù",
+      "meaning": "旅人前行的路。"
+    },
+    {
+      "id": "n-chaoping",
+      "word": "潮平",
+      "pinyin": "cháo píng",
+      "meaning": "潮水上涨，与两岸齐平，江面显得宽阔。"
+    },
+    {
+      "id": "n-fengzheng",
+      "word": "风正",
+      "pinyin": "fēng zhèng",
+      "meaning": "风顺、风向正，正好行船。"
+    },
+    {
+      "id": "n-canye",
+      "word": "残夜",
+      "pinyin": "cán yè",
+      "meaning": "天快亮时将尽未尽的夜。"
+    },
+    {
+      "id": "n-xiangshu",
+      "word": "乡书",
+      "pinyin": "xiāng shū",
+      "meaning": "写给家里的信。"
+    },
+    {
+      "id": "n-guiyan",
+      "word": "归雁",
+      "pinyin": "guī yàn",
+      "meaning": "春天北归的大雁，古人认为大雁能替人捎信。"
+    }
+  ],
+  "translation": "旅客要走的路，伸到青山之外，小船行驶在碧绿的江水前面。潮水上涨，与两岸齐平，江面显得开阔；风向正顺，一张帆高高悬挂。夜还没有退尽，太阳已从江面升起；旧年还没有过完，江南已经有了春意。家信要寄到什么地方去呢？希望北归的大雁，替我捎回洛阳城边。",
+  "appreciation": "这首诗像一幅开阔的江上行舟图。潮水上涨，两岸显得宽阔，顺风中一张帆高高挂起。最妙的是“海日生残夜，江春入旧年”：夜还没退尽，太阳已从江上升起；旧年还没过完，江南已有春意。新事物在旧事物里悄悄生长，写景中带着道理。结尾托北归的大雁捎一封家信，把淡淡的思乡之情写得又轻又真。",
+  "background": "开元初年，王湾到江南游历。一年冬末春初，他乘船沿江而行，停泊在北固山下。夜里潮水上涨，江面开阔，天快亮时太阳从江上升起，他感到旧年未尽、春意已来，也动了思乡之情，写下了这首诗。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "客路行舟",
+      "text": "旅客的路伸向青山之外，小船正驶向绿水前的江面。"
+    },
+    {
+      "step": 2,
+      "title": "潮平帆悬",
+      "text": "潮水上涨与两岸齐平，江面开阔，顺风扬起一张高挂的帆。"
+    },
+    {
+      "step": 3,
+      "title": "海日江春",
+      "text": "夜色未尽，太阳已从江面升起；旧年未过，江南已有春意。"
+    },
+    {
+      "step": 4,
+      "title": "雁传乡书",
+      "text": "家信该寄到哪里呢？盼望北归的大雁替我捎回洛阳。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "正",
+      "reading": "zhèng",
+      "reason": "“风正”是风顺的意思，读 zhèng。",
+      "standard": "不要读成 zhēng"
+    },
+    {
+      "char": "悬",
+      "reading": "xuán",
+      "reason": "“一帆悬”指帆高高挂起，读 xuán。",
+      "standard": "不要读成 xuàn"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26"
+}

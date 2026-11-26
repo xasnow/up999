@@ -1,0 +1,82 @@
+{
+  "id": "tang-zhongtang-wangjian-xinjianienci",
+  "slug": "xinjianienci",
+  "title": "新嫁娘词",
+  "titlePinyin": "xīn jià niáng cí",
+  "dynasty": "tangshi",
+  "era": "zhongtang",
+  "genre": "shi",
+  "form": "五言绝句",
+  "authorId": "wangjian",
+  "gradeBand": "ext",
+  "difficulty": 3,
+  "tags": ["生活", "五言绝句", "厨下", "羹汤"],
+  "writtenYear": 795,
+  "writtenLabel": "约公元 795 年（王建 29 岁，早年所作，具体年份已不可考）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "未谙姑食性，先遣小姑尝。"
+  ],
+  "lines": [
+    {
+      "text": "三日入厨下，",
+      "pinyin": ["sān", "rì", "rù", "chú", "xià"],
+      "translation": "新娘子过门第三天就走进厨房，",
+      "noteIds": []
+    },
+    {
+      "text": "洗手作羹汤。",
+      "pinyin": ["xǐ", "shǒu", "zuò", "gēng", "tāng"],
+      "translation": "认认真真洗净手，做一锅汤羹。",
+      "noteIds": []
+    },
+    {
+      "text": "未谙姑食性，",
+      "pinyin": ["wèi", "ān", "gū", "shí", "xìng"],
+      "translation": "不知道婆婆的口味怎么样，",
+      "noteIds": ["n-an", "n-gu"]
+    },
+    {
+      "text": "先遣小姑尝。",
+      "pinyin": ["xiān", "qiǎn", "xiǎo", "gū", "cháng"],
+      "translation": "先请小姑子替她尝一尝。",
+      "noteIds": ["n-xiaogu"]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-an",
+      "word": "谙",
+      "pinyin": "ān",
+      "meaning": "熟悉。"
+    },
+    {
+      "id": "n-gu",
+      "word": "姑",
+      "pinyin": "gū",
+      "meaning": "这里指婆婆。"
+    },
+    {
+      "id": "n-xiaogu",
+      "word": "小姑",
+      "pinyin": "xiǎo gū",
+      "meaning": "丈夫的妹妹。"
+    }
+  ],
+  "translation": "新娘子过门第三天就走进厨房，认认真真洗净手，做一锅汤羹。不知道婆婆的口味怎么样，先请小姑子替她尝一尝。",
+  "appreciation": "短短二十个字，一位聪明细心的新娘子就站在了眼前。过门第三天就下厨，是懂规矩；洗手做汤，是郑重；不知道婆婆口味，先让小姑尝，是机灵。全诗没有一个多余的形容词，只把“遣小姑尝”这个小心思写出来，新媳妇那种又认真又忐忑的神情，全在其中。",
+  "background": "王建早年家境贫寒，熟悉民间生活，写过不少像这样写普通人日常的小诗。《新嫁娘词》共三首，写新媳妇初到婆家的情形，这是流传最广的一首，创作年份已不可考。",
+  "storyline": [
+    { "step": 1, "title": "新妇下厨", "text": "过门第三天，新娘子按规矩走进厨房。" },
+    { "step": 2, "title": "洗手做汤", "text": "她认认真真洗净手，精心煮好一锅羹汤。" },
+    { "step": 3, "title": "心里打鼓", "text": "婆婆爱吃咸还是淡？她心里没底，有些紧张。" },
+    { "step": 4, "title": "先请小姑", "text": "她机灵地先盛一勺，请小姑子帮忙尝一尝。" }
+  ],
+  "pinyinNotes": [
+    { "char": "谙", "reading": "ān", "reason": "“未谙”就是“不熟悉”，读 ān。", "standard": "不要读成 àn" }
+  ],
+  "sources": ["《全唐诗》", "《唐诗三百首》", "《王建诗集》"],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1002
+}

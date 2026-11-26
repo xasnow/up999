@@ -1,0 +1,145 @@
+{
+  "id": "tang-zhongtang-weiyingwu-chufayangzi",
+  "slug": "chufayangzi",
+  "title": "初发扬子寄元大校书",
+  "titlePinyin": "chū fā yáng zǐ jì yuán dà jiào shū",
+  "dynasty": "tangshi",
+  "era": "zhongtang",
+  "genre": "shi",
+  "form": "五言古诗",
+  "authorId": "weiyingwu",
+  "gradeBand": "ext",
+  "tags": ["友情", "五言古诗", "江雾", "钟声"],
+  "difficulty": 3,
+  "writtenYear": 763,
+  "writtenLabel": "公元 763 年（韦应物 26 岁，获任洛阳丞，离开扬子江边时寄别好友元大）",
+  "orderInAuthor": 1,
+  "no": 1192,
+  "famousLines": [
+    "归棹洛阳人，残钟广陵树。"
+  ],
+  "lines": [
+    {
+      "text": "凄凄去亲爱，",
+      "pinyin": ["qī", "qī", "qù", "qīn", "ài"],
+      "translation": "凄然告别亲近的朋友，",
+      "noteIds": ["n-qinai"]
+    },
+    {
+      "text": "泛泛入烟雾。",
+      "pinyin": ["fàn", "fàn", "rù", "yān", "wù"],
+      "translation": "小船慢慢驶进江上的烟雾。",
+      "noteIds": []
+    },
+    {
+      "text": "归棹洛阳人，",
+      "pinyin": ["guī", "zhào", "luò", "yáng", "rén"],
+      "translation": "乘着归船回洛阳的是我，",
+      "noteIds": ["n-zhao"]
+    },
+    {
+      "text": "残钟广陵树。",
+      "pinyin": ["cán", "zhōng", "guǎng", "líng", "shù"],
+      "translation": "耳边是余音未尽的钟声，眼里是广陵朦胧的树影。",
+      "noteIds": ["n-guangling"]
+    },
+    {
+      "text": "今朝此为别，",
+      "pinyin": ["jīn", "zhāo", "cǐ", "wéi", "bié"],
+      "translation": "今天在这里分别，",
+      "noteIds": []
+    },
+    {
+      "text": "何处还相遇。",
+      "pinyin": ["hé", "chù", "hái", "xiāng", "yù"],
+      "translation": "以后还能在哪里相遇呢？",
+      "noteIds": []
+    },
+    {
+      "text": "世事波上舟，",
+      "pinyin": ["shì", "shì", "bō", "shàng", "zhōu"],
+      "translation": "世间的事就像波浪上的小船，",
+      "noteIds": []
+    },
+    {
+      "text": "沿洄安得住。",
+      "pinyin": ["yán", "huí", "ān", "dé", "zhù"],
+      "translation": "顺流逆流都由不得自己，哪里停得住呢。",
+      "noteIds": ["n-yanhui"]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-qinai",
+      "word": "亲爱",
+      "pinyin": "qīn ài",
+      "meaning": "指亲近的好友。"
+    },
+    {
+      "id": "n-zhao",
+      "word": "棹",
+      "pinyin": "zhào",
+      "meaning": "划船的桨，这里代指船。"
+    },
+    {
+      "id": "n-guangling",
+      "word": "广陵",
+      "pinyin": "guǎng líng",
+      "meaning": "今江苏扬州。"
+    },
+    {
+      "id": "n-yanhui",
+      "word": "沿洄",
+      "pinyin": "yán huí",
+      "meaning": "顺流而下叫沿，逆流而上叫洄，比喻世事顺逆。"
+    }
+  ],
+  "translation": "凄然告别亲近的朋友，小船慢慢驶进江上的烟雾。乘着归船回洛阳的是我，耳边是余音未尽的钟声，眼里是广陵朦胧的树影。今天在这里分别，以后还能在哪里相遇呢？世间的事就像波浪上的小船，顺流逆流都由不得自己，哪里停得住呢。",
+  "appreciation": "船刚开出去，回头还能望见广陵的树、听见残钟，思念就涌上来了。“残钟广陵树”一句，声音和影子都朦朦胧胧，正好写别情。结尾把世事比作波上的小船，顺流逆流都由不得自己，既是安慰朋友，也是安慰自己，写得深情又旷达。",
+  "background": "广德元年（763），韦应物被任命为洛阳丞。他乘船离开扬子津北归洛阳，船行不远，回头还能望见广陵的树影、听见江边的钟声，便写下这首诗，寄给留在扬州的好友元大校书。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "挥别好友",
+      "text": "凄然告别亲爱的朋友，小船慢慢驶进江上的烟雾。"
+    },
+    {
+      "step": 2,
+      "title": "望树闻钟",
+      "text": "回望广陵，只见树影朦胧，钟声余音未断。"
+    },
+    {
+      "step": 3,
+      "title": "何时重逢",
+      "text": "今朝在这里分别，不知以后还能在哪里相遇。"
+    },
+    {
+      "step": 4,
+      "title": "身如波舟",
+      "text": "世事就像波浪上的小船，顺流逆流哪里停得住。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "棹",
+      "reading": "zhào",
+      "reason": "“归棹”指回程的船，“棹”是划船的桨，读 zhào。",
+      "standard": "不要读成 zhuó"
+    },
+    {
+      "char": "校",
+      "reading": "jiào",
+      "reason": "“校书”是官名校书郎，“校”读 jiào。",
+      "standard": "不要读成 xiào"
+    },
+    {
+      "char": "洄",
+      "reading": "huí",
+      "reason": "“沿洄”的“洄”指逆流而上，读 huí。",
+      "standard": "生僻字，注意读音"
+    }
+  ],
+  "sources": ["《全唐诗》", "《唐诗三百首》"],
+  "status": "published",
+  "updatedAt": "2026-11-26"
+}

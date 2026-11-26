@@ -1,0 +1,123 @@
+{
+  "id": "tang-wantang-lishangyin-yaochi",
+  "slug": "yaochi",
+  "title": "瑶池",
+  "titlePinyin": "yáo chí",
+  "dynasty": "tangshi",
+  "era": "wantang",
+  "genre": "shi",
+  "form": "七言绝句",
+  "authorId": "lishangyin",
+  "gradeBand": "ext",
+  "tags": [
+    "怀古",
+    "七言绝句",
+    "仙山",
+    "歌声"
+  ],
+  "difficulty": 3,
+  "writtenYear": 858,
+  "writtenLabel": "约公元 858 年（李商隐 46 岁，晚年感讽世人求仙而作）",
+  "orderInAuthor": 1,
+  "no": 1019,
+  "famousLines": [
+    "八骏日行三万里，穆王何事不重来。"
+  ],
+  "lines": [
+    {
+      "text": "瑶池阿母绮窗开，",
+      "pinyin": ["yáo", "chí", "ā", "mǔ", "qǐ", "chuāng", "kāi"],
+      "translation": "瑶池上的西王母打开绮窗，眺望人间。",
+      "noteIds": ["n-yaochi", "n-ahu"]
+    },
+    {
+      "text": "黄竹歌声动地哀。",
+      "pinyin": ["huáng", "zhú", "gē", "shēng", "dòng", "dì", "āi"],
+      "translation": "人间传来周穆王所作的《黄竹歌》，哀声动地。",
+      "noteIds": ["n-huangzhu"]
+    },
+    {
+      "text": "八骏日行三万里，",
+      "pinyin": ["bā", "jùn", "rì", "xíng", "sān", "wàn", "lǐ"],
+      "translation": "当年日行三万里的八匹骏马。",
+      "noteIds": ["n-bajun"]
+    },
+    {
+      "text": "穆王何事不重来。",
+      "pinyin": ["mù", "wáng", "hé", "shì", "bù", "chóng", "lái"],
+      "translation": "穆王说好重来，为什么一直没有再来？",
+      "noteIds": ["n-chong"]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-yaochi",
+      "word": "瑶池",
+      "pinyin": "yáo chí",
+      "meaning": "古代神话中西王母居住的仙境。"
+    },
+    {
+      "id": "n-ahu",
+      "word": "阿母",
+      "pinyin": "ā mǔ",
+      "meaning": "指西王母。"
+    },
+    {
+      "id": "n-huangzhu",
+      "word": "黄竹",
+      "pinyin": "huáng zhú",
+      "meaning": "即《黄竹歌》。传说周穆王途中遇风雪冻害百姓，作此歌哀怜他们。"
+    },
+    {
+      "id": "n-bajun",
+      "word": "八骏",
+      "pinyin": "bā jùn",
+      "meaning": "传说周穆王驾车的八匹骏马。"
+    },
+    {
+      "id": "n-chong",
+      "word": "重",
+      "pinyin": "chóng",
+      "meaning": "再，重新。"
+    }
+  ],
+  "translation": "瑶池上的西王母打开绮窗，眺望人间；人间传来周穆王所作的《黄竹歌》，哀声动地。当年日行三万里的八匹骏马，穆王说好重来，为什么一直没有再来？",
+  "appreciation": "西王母打开绮窗盼望，却等不来当年赴宴的穆王。传说穆王与王母约定三年后重来，可人间早换了主人。诗人不直接说求仙是空话，只让仙境中的王母自己开口，用一支回荡在人间的《黄竹歌》作答：连天子也会被冻死在路上，长生不老哪里靠得住？晚唐几位皇帝都痴迷神仙方术，这首诗正是给他们的一剂凉药。",
+  "background": "周穆王曾驾八骏西行，在瑶池与西王母宴会，临别约定三年后重来。晚唐皇帝迷信神仙方术，盼望长生不老。李商隐借用这个传说，写出神仙世界也留不住人的真相，讽刺求仙的虚妄。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "王母开窗",
+      "text": "瑶池上的西王母推开绮窗，眺望人间。"
+    },
+    {
+      "step": 2,
+      "title": "哀歌动地",
+      "text": "人间传来周穆王作的《黄竹歌》，哀声动地。"
+    },
+    {
+      "step": 3,
+      "title": "八骏何在",
+      "text": "当年日行三万里的八匹骏马，如今不见踪影。"
+    },
+    {
+      "step": 4,
+      "title": "不复重来",
+      "text": "说好再来的穆王终究没有来，人间已换了朝代。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "重",
+      "reading": "chóng",
+      "reason": "“不重来”是重新再来之意，读 chóng。",
+      "standard": "不要读成 zhòng"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26"
+}

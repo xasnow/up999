@@ -1,0 +1,206 @@
+{
+  "id": "tang-wantang-lishangyin-wuti-sasadongfeng",
+  "slug": "wuti-sasadongfeng",
+  "title": "无题·飒飒东风细雨来",
+  "titlePinyin": "wú tí·sà sà dōng fēng xì yǔ lái",
+  "dynasty": "tangshi",
+  "era": "wantang",
+  "genre": "shi",
+  "form": "七言律诗",
+  "authorId": "lishangyin",
+  "gradeBand": "ext",
+  "tags": [
+    "思念",
+    "七言律诗",
+    "东风",
+    "细雨"
+  ],
+  "difficulty": 3,
+  "writtenYear": 855,
+  "writtenLabel": "作年不详，约公元 855 年（大中年间，春日相思之作）",
+  "orderInAuthor": 1,
+  "no": 1132,
+  "famousLines": [
+    "春心莫共花争发，一寸相思一寸灰。"
+  ],
+  "lines": [
+    {
+      "text": "飒飒东风细雨来，",
+      "pinyin": ["sà", "sà", "dōng", "fēng", "xì", "yǔ", "lái"],
+      "translation": "东风飒飒，夹着细雨飘来，",
+      "noteIds": ["n-sasa"]
+    },
+    {
+      "text": "芙蓉塘外有轻雷。",
+      "pinyin": ["fú", "róng", "táng", "wài", "yǒu", "qīng", "léi"],
+      "translation": "荷花塘外，传来隐隐的轻雷。",
+      "noteIds": ["n-furongtang", "n-qinglei"]
+    },
+    {
+      "text": "金蟾啮锁烧香入，",
+      "pinyin": ["jīn", "chán", "niè", "suǒ", "shāo", "xiāng", "rù"],
+      "translation": "香炉的蟾蜍咬着锁钮，锁虽紧，香气仍能飘入，",
+      "noteIds": ["n-jinchan", "n-niesuo"]
+    },
+    {
+      "text": "玉虎牵丝汲井回。",
+      "pinyin": ["yù", "hǔ", "qiān", "sī", "jí", "jǐng", "huí"],
+      "translation": "玉虎装饰的辘轳牵引丝绳，深井的水照样汲回。",
+      "noteIds": ["n-yuhu", "n-qiansi"]
+    },
+    {
+      "text": "贾氏窥帘韩掾少，",
+      "pinyin": ["jiǎ", "shì", "kuī", "lián", "hán", "yuàn", "shào"],
+      "translation": "贾家女子隔帘窥望，只因韩寿年轻俊美，",
+      "noteIds": ["n-jiashi", "n-hanyuan"]
+    },
+    {
+      "text": "宓妃留枕魏王才。",
+      "pinyin": ["fú", "fēi", "liú", "zhěn", "wèi", "wáng", "cái"],
+      "translation": "宓妃留枕相赠，只因曹植才气纵横。",
+      "noteIds": ["n-mifei", "n-liuzhen", "n-weiwang"]
+    },
+    {
+      "text": "春心莫共花争发，",
+      "pinyin": ["chūn", "xīn", "mò", "gòng", "huā", "zhēng", "fā"],
+      "translation": "爱恋之心啊，不要与春花争相开放，",
+      "noteIds": ["n-chunxin"]
+    },
+    {
+      "text": "一寸相思一寸灰。",
+      "pinyin": ["yī", "cùn", "xiāng", "sī", "yī", "cùn", "huī"],
+      "translation": "一寸相思，终会化作一寸冷灰。",
+      "noteIds": []
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-sasa",
+      "word": "飒飒",
+      "pinyin": "sà sà",
+      "meaning": "风雨之声。"
+    },
+    {
+      "id": "n-furongtang",
+      "word": "芙蓉塘",
+      "pinyin": "fú róng táng",
+      "meaning": "长满荷花的池塘。"
+    },
+    {
+      "id": "n-qinglei",
+      "word": "轻雷",
+      "pinyin": "qīng léi",
+      "meaning": "隐隐的雷声，旧说也暗指情人车行的声音。"
+    },
+    {
+      "id": "n-jinchan",
+      "word": "金蟾",
+      "pinyin": "jīn chán",
+      "meaning": "锁上铸成蟾蜍形状的金属装饰，代指香炉或门锁。"
+    },
+    {
+      "id": "n-niesuo",
+      "word": "啮锁",
+      "pinyin": "niè suǒ",
+      "meaning": "咬住锁钮。啮，咬。"
+    },
+    {
+      "id": "n-yuhu",
+      "word": "玉虎",
+      "pinyin": "yù hǔ",
+      "meaning": "井上辘轳的虎形装饰。"
+    },
+    {
+      "id": "n-qiansi",
+      "word": "牵丝",
+      "pinyin": "qiān sī",
+      "meaning": "牵动井绳。丝，指汲水的绳索。"
+    },
+    {
+      "id": "n-jiashi",
+      "word": "贾氏",
+      "pinyin": "jiǎ shì",
+      "meaning": "晋代贾充的女儿贾午，隔帘窥见僚属韩寿，心生爱慕。"
+    },
+    {
+      "id": "n-hanyuan",
+      "word": "韩掾",
+      "pinyin": "hán yuàn",
+      "meaning": "韩寿，贾充的属官。掾，属官。二人后来终成眷属。"
+    },
+    {
+      "id": "n-mifei",
+      "word": "宓妃",
+      "pinyin": "fú fēi",
+      "meaning": "洛水的女神，即洛神。"
+    },
+    {
+      "id": "n-liuzhen",
+      "word": "留枕",
+      "pinyin": "liú zhěn",
+      "meaning": "传说曹植过洛水，宓妃（洛神）留枕相会，曹植因而作《洛神赋》。"
+    },
+    {
+      "id": "n-weiwang",
+      "word": "魏王",
+      "pinyin": "wèi wáng",
+      "meaning": "指曹植，曾封陈王，旧题误称魏王。"
+    },
+    {
+      "id": "n-chunxin",
+      "word": "春心",
+      "pinyin": "chūn xīn",
+      "meaning": "爱恋相思之情。"
+    }
+  ],
+  "translation": "东风飒飒，夹着细雨飘来，荷花塘外，传来隐隐的轻雷。香炉的蟾蜍咬着锁钮，锁虽紧，香气仍能飘入；玉虎装饰的辘轳牵引丝绳，深井的水照样汲回。贾家女子隔帘窥望，只因韩寿年轻俊美；宓妃留枕相赠，只因曹植才气纵横。爱恋之心啊，不要与春花争相开放，一寸相思，终会化作一寸冷灰。",
+  "appreciation": "春风细雨里，荷花塘外响起轻雷，就像远方情人的车轮声。锁再紧，香气也能透进去；井再深，丝绳也能把水汲上来——两件小事说得极巧，暗指两心再远也能相通。接着用贾氏窥帘、宓妃留枕两个典故，说明爱慕总因人的美好而生。可结尾忽然沉痛到底：春心别与花争发，一寸相思一寸灰。爱得越热，烧成的灰越冷。这七个字，是李商隐留给人间最冷也最美的情话。",
+  "background": "这首《无题》写春日相思。诗人身处暮春风雨之中，借深闺景物与古人情事，写出思念之炽烈与幻灭之悲凉。也有人认为诗中暗含诗人政治抱负落空后的失意。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "风细雨轻",
+      "text": "东风飒飒，细雨飘来，塘外有轻雷。"
+    },
+    {
+      "step": 2,
+      "title": "香入井通",
+      "text": "锁紧香能入，井深丝可汲，两心暗通。"
+    },
+    {
+      "step": 3,
+      "title": "窥帘留枕",
+      "text": "贾氏窥帘爱韩寿，宓妃留枕慕曹才。"
+    },
+    {
+      "step": 4,
+      "title": "相思成灰",
+      "text": "春心莫共花争发，一寸相思一寸灰。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "飒",
+      "reading": "sà",
+      "reason": "形容风声雨声，读 sà。"
+    },
+    {
+      "char": "啮",
+      "reading": "niè",
+      "reason": "咬的意思，读 niè。",
+      "standard": "不要读成 nì"
+    },
+    {
+      "char": "宓",
+      "reading": "fú",
+      "reason": "“宓妃”即洛神，此处读 fú。",
+      "standard": "不要读成 mì"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26"
+}

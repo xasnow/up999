@@ -1,0 +1,150 @@
+{
+  "id": "tang-wantang-cuitu-chuyeyouhuai",
+  "slug": "chuyeyouhuai",
+  "title": "除夜有怀",
+  "titlePinyin": "chú yè yǒu huái",
+  "dynasty": "tangshi",
+  "era": "wantang",
+  "genre": "shi",
+  "form": "五言律诗",
+  "authorId": "cuitu",
+  "gradeBand": "ext",
+  "difficulty": 3,
+  "tags": ["思乡", "五言律诗", "除夕", "残雪"],
+  "writtenYear": 877,
+  "writtenLabel": "约公元 877 年（崔涂 24 岁，客居巴蜀，除夕夜作）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "乱山残雪夜，孤烛异乡人。"
+  ],
+  "lines": [
+    {
+      "text": "迢递三巴路，",
+      "pinyin": ["tiáo", "dì", "sān", "bā", "lù"],
+      "translation": "遥远的巴蜀山路上，",
+      "noteIds": ["n-tiaodi", "n-sanba"]
+    },
+    {
+      "text": "羁危万里身。",
+      "pinyin": ["jī", "wēi", "wàn", "lǐ", "shēn"],
+      "translation": "我漂泊万里、身处险途。",
+      "noteIds": ["n-jiwei"]
+    },
+    {
+      "text": "乱山残雪夜，",
+      "pinyin": ["luàn", "shān", "cán", "xuě", "yè"],
+      "translation": "乱山围绕，残雪未消的夜里，",
+      "noteIds": []
+    },
+    {
+      "text": "孤烛异乡人。",
+      "pinyin": ["gū", "zhú", "yì", "xiāng", "rén"],
+      "translation": "一支孤烛，照着异乡人。",
+      "noteIds": []
+    },
+    {
+      "text": "渐与骨肉远，",
+      "pinyin": ["jiàn", "yǔ", "gǔ", "ròu", "yuǎn"],
+      "translation": "渐渐地和骨肉亲人离得远了，",
+      "noteIds": []
+    },
+    {
+      "text": "转于僮仆亲。",
+      "pinyin": ["zhuǎn", "yú", "tóng", "pú", "qīn"],
+      "translation": "反倒跟僮仆日益亲近。",
+      "noteIds": ["n-tongpu"]
+    },
+    {
+      "text": "那堪正飘泊，",
+      "pinyin": ["nǎ", "kān", "zhèng", "piāo", "bó"],
+      "translation": "哪里受得了这样的漂泊啊——",
+      "noteIds": []
+    },
+    {
+      "text": "明日岁华新。",
+      "pinyin": ["míng", "rì", "suì", "huá", "xīn"],
+      "translation": "明天，新的一年又要开始了。",
+      "noteIds": ["n-suihua"]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-tiaodi",
+      "word": "迢递",
+      "pinyin": "tiáo dì",
+      "meaning": "遥远的样子。"
+    },
+    {
+      "id": "n-sanba",
+      "word": "三巴",
+      "pinyin": "sān bā",
+      "meaning": "巴郡、巴东、巴西，泛指今四川东部一带。"
+    },
+    {
+      "id": "n-jiwei",
+      "word": "羁危",
+      "pinyin": "jī wēi",
+      "meaning": "旅居在外、身处艰险。羁，指羁旅在外。"
+    },
+    {
+      "id": "n-tongpu",
+      "word": "僮仆",
+      "pinyin": "tóng pú",
+      "meaning": "仆役。与僮仆亲近，反衬和亲人疏远。"
+    },
+    {
+      "id": "n-suihua",
+      "word": "岁华",
+      "pinyin": "suì huá",
+      "meaning": "年华、年岁，指新的一年。"
+    }
+  ],
+  "translation": "遥远的巴蜀山路上，我漂泊万里、身处险途。乱山围绕，残雪未消的夜里，一支孤烛照着异乡人。渐渐地和骨肉亲人离得远了，反倒跟僮仆日益亲近。哪里受得了这样的漂泊啊——明天，新的一年又要开始了。",
+  "appreciation": "除夕本该团圆，诗人却在万里之外的乱山里对着孤烛。“乱山残雪夜，孤烛异乡人”十四个字，有山、有雪、有烛、有人，冷得让人心颤。最动人的是“转于僮仆亲”：与亲人渐渐疏远，竟同仆人亲近起来，漂泊之久、思乡之苦，全在这句反常的话里。结尾一声长叹，新岁将临，愁更深了。",
+  "background": "崔涂长期客游巴蜀，多年不能回家。相传在一个除夕之夜，他寄居在乱山中的客舍里，点着一支孤烛，看着窗外残雪，想起万里外的亲人，写下这首诗，又名《巴山道中除夜书怀》，约作于乾符年间。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "万里羁旅",
+      "text": "遥远的巴蜀山路上，诗人独自漂泊，离家万里。"
+    },
+    {
+      "step": 2,
+      "title": "残雪孤烛",
+      "text": "除夕夜里乱山残雪未消，客舍中孤烛照着异乡人。"
+    },
+    {
+      "step": 3,
+      "title": "亲疏倒转",
+      "text": "与骨肉亲人渐渐疏远，反而同僮仆越来越亲近。"
+    },
+    {
+      "step": 4,
+      "title": "岁华又新",
+      "text": "明天就是新年，他叹息漂泊之苦，愁思更浓了。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "迢递",
+      "reading": "tiáo dì",
+      "reason": "迢递是遥远的意思，迢读 tiáo。"
+    },
+    {
+      "char": "羁",
+      "reading": "jī",
+      "reason": "羁指旅居在外，读 jī。"
+      ,
+      "standard": "不要读成 jì"
+    },
+    {
+      "char": "僮仆",
+      "reading": "tóng pú",
+      "reason": "僮是仆役，通“童”，读 tóng。"
+    }
+  ],
+  "sources": ["《全唐诗》", "《唐诗三百首》"],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1097
+}

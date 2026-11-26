@@ -1,0 +1,177 @@
+{
+  "id": "tang-shengtang-zhangjiuling-ganyu-4",
+  "slug": "ganyu-4",
+  "title": "感遇·其四",
+  "titlePinyin": "gǎn yù qí sì",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "五言古诗",
+  "authorId": "zhangjiuling",
+  "gradeBand": "ext",
+  "tags": [
+    "咏物",
+    "五言古诗",
+    "丹橘",
+    "岁寒"
+  ],
+  "difficulty": 3,
+  "writtenYear": 737,
+  "writtenLabel": "约公元737年（张九龄59岁，被贬荆州长史，作《感遇》组诗寄托心事）",
+  "orderInAuthor": 4,
+  "famousLines": [
+    "徒言树桃李，此木岂无阴？"
+  ],
+  "lines": [
+    {
+      "text": "江南有丹橘，",
+      "pinyin": ["jiāng", "nán", "yǒu", "dān", "jú"],
+      "translation": "江南长着红红的丹橘，",
+      "noteIds": ["n-danju"]
+    },
+    {
+      "text": "经冬犹绿林。",
+      "pinyin": ["jīng", "dōng", "yóu", "lǜ", "lín"],
+      "translation": "经过整个冬天，依然是绿油油的一片。",
+      "noteIds": []
+    },
+    {
+      "text": "岂伊地气暖？",
+      "pinyin": ["qǐ", "yī", "dì", "qì", "nuǎn"],
+      "translation": "难道只是因为那里的气候暖和吗？",
+      "noteIds": ["n-yi"]
+    },
+    {
+      "text": "自有岁寒心。",
+      "pinyin": ["zì", "yǒu", "suì", "hán", "xīn"],
+      "translation": "是它自己有一颗耐得住严寒的心。",
+      "noteIds": ["n-suihan"]
+    },
+    {
+      "text": "可以荐嘉客，",
+      "pinyin": ["kě", "yǐ", "jiàn", "jiā", "kè"],
+      "translation": "这样的好果子本可以献给贵客，",
+      "noteIds": ["n-jian"]
+    },
+    {
+      "text": "奈何阻重深。",
+      "pinyin": ["nài", "hé", "zǔ", "zhòng", "shēn"],
+      "translation": "无奈山高路远，重重阻隔，送不出去。",
+      "noteIds": ["n-zhong"]
+    },
+    {
+      "text": "运命唯所遇，",
+      "pinyin": ["yùn", "mìng", "wéi", "suǒ", "yù"],
+      "translation": "命运只看碰上了什么样的遭遇，",
+      "noteIds": []
+    },
+    {
+      "text": "循环不可寻。",
+      "pinyin": ["xún", "huán", "bù", "kě", "xún"],
+      "translation": "像轮子转来转去，说不清其中的缘由。",
+      "noteIds": []
+    },
+    {
+      "text": "徒言树桃李，",
+      "pinyin": ["tú", "yán", "shù", "táo", "lǐ"],
+      "translation": "人们只知道种桃树、李树，",
+      "noteIds": []
+    },
+    {
+      "text": "此木岂无阴？",
+      "pinyin": ["cǐ", "mù", "qǐ", "wú", "yīn"],
+      "translation": "难道这橘树就没有树荫吗？",
+      "noteIds": ["n-yin"]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-danju",
+      "word": "丹橘",
+      "pinyin": "dān jú",
+      "meaning": "红颜色的橘子。"
+    },
+    {
+      "id": "n-yi",
+      "word": "伊",
+      "pinyin": "yī",
+      "meaning": "那里，指江南。"
+    },
+    {
+      "id": "n-suihan",
+      "word": "岁寒",
+      "pinyin": "suì hán",
+      "meaning": "一年中最寒冷的时节，比喻经得起考验的坚贞品格。"
+    },
+    {
+      "id": "n-jian",
+      "word": "荐",
+      "pinyin": "jiàn",
+      "meaning": "进献，献给。"
+    },
+    {
+      "id": "n-zhong",
+      "word": "重",
+      "pinyin": "zhòng",
+      "meaning": "层层重叠，指重重阻隔。"
+    },
+    {
+      "id": "n-yin",
+      "word": "阴",
+      "pinyin": "yīn",
+      "meaning": "同“荫”，树荫。"
+    }
+  ],
+  "translation": "江南长着红红的丹橘，经过整个冬天，依然是绿油油的一片。难道只是因为那里的气候暖和吗？是它自己有一颗耐得住严寒的心。这样的好果子本可以献给贵客，无奈山高路远，重重阻隔，送不出去。命运只看碰上了什么样的遭遇，像轮子转来转去，说不清其中的缘由。人们只知道种桃树、李树，难道这橘树就没有树荫吗？",
+  "appreciation": "诗人夸橘树经冬不凋，是因为它有一颗“岁寒心”——这颗心，正是他自己坚守正道的写照。橘子本可以献给贵客，却被重重山水挡住，就像贤臣被小人阻隔，得不到重用。结尾一句反问最有力量：世人只爱种桃李，难道橘树就没有绿荫吗？为一切被冷落的好东西抱不平。",
+  "background": "张九龄被贬荆州，正好是产橘的江南之地。他想起屈原也曾在江南歌咏橘树，便借丹橘经冬犹绿来表白心迹：自己遭小人排挤、被隔在朝廷之外，但坚贞的本色不会改变。这首诗既是咏橘，也是替自己说出心中的委屈。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "江南橘绿",
+      "text": "冬天过去了，江南的丹橘依然绿满枝头。"
+    },
+    {
+      "step": 2,
+      "title": "岁寒之心",
+      "text": "这不全靠气候暖和，是橘树自己耐得住严寒。"
+    },
+    {
+      "step": 3,
+      "title": "佳果难献",
+      "text": "好果子本想献给贵客，却被重重山水阻隔。"
+    },
+    {
+      "step": 4,
+      "title": "橘荫谁问",
+      "text": "人们只夸桃李，谁还记得橘树也撑开一片绿荫。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "橘",
+      "reading": "jú",
+      "reason": "“丹橘”是红色的橘子，“橘”读 jú。",
+      "standard": "不要读成 júe"
+    },
+    {
+      "char": "重",
+      "reading": "zhòng",
+      "reason": "“阻重深”的重是层层重叠的意思，读 zhòng。",
+      "standard": "不要读成 chóng"
+    },
+    {
+      "char": "阴",
+      "reading": "yīn",
+      "reason": "“此木岂无阴”的“阴”同“荫”，指树荫，读 yīn。",
+      "standard": "不要读成 yìn"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1198
+}

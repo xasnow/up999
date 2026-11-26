@@ -1,0 +1,152 @@
+{
+  "id": "tang-shengtang-canshen-fenghejiazhizaochao",
+  "slug": "fenghejiazhizaochao",
+  "title": "奉和中书舍人贾至早朝大明宫",
+  "titlePinyin": "fèng hé zhōng shū shè rén jiǎ zhì zǎo cháo dà míng gōng",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "七言律诗",
+  "authorId": "canshen",
+  "gradeBand": "ext",
+  "tags": ["宫廷", "七言律诗", "春天", "柳"],
+  "difficulty": 3,
+  "writtenYear": 758,
+  "writtenLabel": "公元 758 年春（岑参 43 岁，在长安与王维、杜甫同和贾至《早朝大明宫》诗）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "金阙晓钟开万户，玉阶仙仗拥千官。"
+  ],
+  "lines": [
+    {
+      "text": "鸡鸣紫陌曙光寒，",
+      "pinyin": ["jī", "míng", "zǐ", "mò", "shǔ", "guāng", "hán"],
+      "translation": "雄鸡报晓，京城的大路上曙光初露，还带着寒意。",
+      "noteIds": ["n-zimo"]
+    },
+    {
+      "text": "莺啭皇州春色阑。",
+      "pinyin": ["yīng", "zhuàn", "huáng", "zhōu", "chūn", "sè", "lán"],
+      "translation": "黄莺啼啭，长安的春天快要过去了。",
+      "noteIds": ["n-lan"]
+    },
+    {
+      "text": "金阙晓钟开万户，",
+      "pinyin": ["jīn", "què", "xiǎo", "zhōng", "kāi", "wàn", "hù"],
+      "translation": "皇宫的晓钟敲响，千万道宫门一扇扇打开。",
+      "noteIds": ["n-jinque"]
+    },
+    {
+      "text": "玉阶仙仗拥千官。",
+      "pinyin": ["yù", "jiē", "xiān", "zhàng", "yōng", "qiān", "guān"],
+      "translation": "玉阶前列着仪仗，簇拥着上朝的千百官员。",
+      "noteIds": ["n-xianzhang"]
+    },
+    {
+      "text": "花迎剑珮星初落，",
+      "pinyin": ["huā", "yíng", "jiàn", "pèi", "xīng", "chū", "luò"],
+      "translation": "鲜花迎接佩剑带玉的官员，那时星星刚刚落下。",
+      "noteIds": ["n-jianpei"]
+    },
+    {
+      "text": "柳拂旌旗露未干。",
+      "pinyin": ["liǔ", "fú", "jīng", "qí", "lù", "wèi", "gān"],
+      "translation": "柳枝轻拂旌旗，朝露还没有干。",
+      "noteIds": []
+    },
+    {
+      "text": "独有凤凰池上客，",
+      "pinyin": ["dú", "yǒu", "fèng", "huáng", "chí", "shàng", "kè"],
+      "translation": "只有中书省里的贾舍人。",
+      "noteIds": ["n-fenghuangchi"]
+    },
+    {
+      "text": "阳春一曲和皆难。",
+      "pinyin": ["yáng", "chūn", "yì", "qǔ", "hè", "jiē", "nán"],
+      "translation": "他写出《阳春白雪》一样高雅的诗，大家都觉得难以唱和。",
+      "noteIds": ["n-yangchun", "n-he"]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-zimo",
+      "word": "紫陌",
+      "pinyin": "zǐ mò",
+      "meaning": "京城的大路。"
+    },
+    {
+      "id": "n-lan",
+      "word": "阑",
+      "pinyin": "lán",
+      "meaning": "将尽、快要结束。"
+    },
+    {
+      "id": "n-jinque",
+      "word": "金阙",
+      "pinyin": "jīn què",
+      "meaning": "金色的宫门，指皇宫。"
+    },
+    {
+      "id": "n-xianzhang",
+      "word": "仙仗",
+      "pinyin": "xiān zhàng",
+      "meaning": "皇帝的仪仗。"
+    },
+    {
+      "id": "n-jianpei",
+      "word": "剑珮",
+      "pinyin": "jiàn pèi",
+      "meaning": "官员佩带的剑和玉饰。"
+    },
+    {
+      "id": "n-fenghuangchi",
+      "word": "凤凰池",
+      "pinyin": "fèng huáng chí",
+      "meaning": "指中书省，朝廷里起草诏书的机构。"
+    },
+    {
+      "id": "n-yangchun",
+      "word": "阳春",
+      "pinyin": "yáng chūn",
+      "meaning": "高雅的乐曲《阳春白雪》，这里指贾至的诗。"
+    },
+    {
+      "id": "n-he",
+      "word": "和",
+      "pinyin": "hè",
+      "meaning": "应和，依照别人诗的题目和韵作诗。"
+    }
+  ],
+  "translation": "雄鸡报晓，京城的大路上曙光初露，还带着寒意；黄莺啼啭，长安的春天快要过去了。皇宫的晓钟敲响，千万道宫门一扇扇打开；玉阶前列着仪仗，簇拥着上朝的千百官员。鲜花迎接佩剑带玉的官员，那时星星刚刚落下；柳枝轻拂旌旗，朝露还没有干。只有中书省里的贾舍人，写出《阳春白雪》一样高雅的诗，大家都觉得难以唱和。",
+  "appreciation": "这是一首唱和诗，专写早朝的气象。鸡鸣、晓钟、仪仗、千官，一层接一层，把大明宫清晨的庄严热闹写得像画一样。中间两联对仗工整，花迎柳拂，连露水都带着生气。结尾夸贾至的诗像高雅的阳春白雪，既捧了朋友，又显出自己谦和的分寸。",
+  "background": "公元758年春，中书舍人贾至写了《早朝大明宫》一诗，同僚纷纷唱和，王维、杜甫、岑参都有和作，成为一时盛事。岑参当时在朝任职，便写下这首七律应和。",
+  "storyline": [
+    { "step": 1, "title": "五更鸡鸣", "text": "雄鸡叫过，京城大道上曙光初露，春寒未消。" },
+    { "step": 2, "title": "晓钟开门", "text": "皇宫的晓钟敲响，千万道宫门跟着一扇扇打开。" },
+    { "step": 3, "title": "千官上朝", "text": "玉阶前仪仗簇拥，官员们佩剑带玉前来朝见。" },
+    { "step": 4, "title": "名曲难和", "text": "贾舍人写出高雅诗句，众人都说难以唱和。" }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "啭",
+      "reading": "zhuàn",
+      "reason": "“莺啭”指黄莺鸣叫，读 zhuàn。",
+      "standard": "不要读成 zhuǎn"
+    },
+    {
+      "char": "珮",
+      "reading": "pèi",
+      "reason": "“剑珮”的“珮”同“佩”，指玉饰，读 pèi。"
+    },
+    {
+      "char": "和",
+      "reading": "hè",
+      "reason": "“和皆难”的“和”指唱和、应答，读 hè。",
+      "standard": "不要读成 hé"
+    }
+  ],
+  "sources": ["《全唐诗》", "《唐诗三百首》"],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1127
+}

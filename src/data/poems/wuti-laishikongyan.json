@@ -1,0 +1,176 @@
+{
+  "id": "tang-wantang-lishangyin-wuti-laishikongyan",
+  "slug": "wuti-laishikongyan",
+  "title": "无题·来是空言去绝踪",
+  "titlePinyin": "wú tí·lái shì kōng yán qù jué zōng",
+  "dynasty": "tangshi",
+  "era": "wantang",
+  "genre": "shi",
+  "form": "七言律诗",
+  "authorId": "lishangyin",
+  "gradeBand": "ext",
+  "tags": [
+    "思念",
+    "七言律诗",
+    "月夜",
+    "烛光"
+  ],
+  "difficulty": 3,
+  "writtenYear": 852,
+  "writtenLabel": "作年不详，约公元 852 年（大中年间，写梦醒后思念之情）",
+  "orderInAuthor": 1,
+  "no": 1131,
+  "famousLines": [
+    "梦为远别啼难唤，书被催成墨未浓。"
+  ],
+  "lines": [
+    {
+      "text": "来是空言去绝踪，",
+      "pinyin": ["lái", "shì", "kōng", "yán", "qù", "jué", "zōng"],
+      "translation": "说要来终究是空话，一去便再无踪影，",
+      "noteIds": ["n-kongyan"]
+    },
+    {
+      "text": "月斜楼上五更钟。",
+      "pinyin": ["yuè", "xié", "lóu", "shàng", "wǔ", "gēng", "zhōng"],
+      "translation": "月亮西斜，楼上响起了五更的钟声。",
+      "noteIds": []
+    },
+    {
+      "text": "梦为远别啼难唤，",
+      "pinyin": ["mèng", "wéi", "yuǎn", "bié", "tí", "nán", "huàn"],
+      "translation": "梦中因远别而悲啼，醒来却难再唤回，",
+      "noteIds": ["n-tinanhuan"]
+    },
+    {
+      "text": "书被催成墨未浓。",
+      "pinyin": ["shū", "bèi", "cuī", "chéng", "mò", "wèi", "nóng"],
+      "translation": "急切之下写成书信，墨还没有磨浓。",
+      "noteIds": ["n-cuicheng"]
+    },
+    {
+      "text": "蜡照半笼金翡翠，",
+      "pinyin": ["là", "zhào", "bàn", "lóng", "jīn", "fěi", "cuì"],
+      "translation": "烛光半照着绣有金翡翠的帷幕，",
+      "noteIds": ["n-jinfeicui"]
+    },
+    {
+      "text": "麝熏微度绣芙蓉。",
+      "pinyin": ["shè", "xūn", "wēi", "dù", "xiù", "fú", "róng"],
+      "translation": "麝香轻轻飘过绣有芙蓉的帐褥。",
+      "noteIds": ["n-shexun", "n-xiufurong"]
+    },
+    {
+      "text": "刘郎已恨蓬山远，",
+      "pinyin": ["liú", "láng", "yǐ", "hèn", "péng", "shān", "yuǎn"],
+      "translation": "刘郎早已怨恨蓬莱仙山遥远，",
+      "noteIds": ["n-liulang", "n-pengshan"]
+    },
+    {
+      "text": "更隔蓬山一万重。",
+      "pinyin": ["gèng", "gé", "péng", "shān", "yī", "wàn", "chóng"],
+      "translation": "而你所居的地方，更隔着蓬山一万重。",
+      "noteIds": ["n-gengge"]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-kongyan",
+      "word": "空言",
+      "pinyin": "kōng yán",
+      "meaning": "空话，指约定相见却未兑现。"
+    },
+    {
+      "id": "n-tinanhuan",
+      "word": "啼难唤",
+      "pinyin": "tí nán huàn",
+      "meaning": "梦中悲啼，醒来却唤不回梦中的相会。"
+    },
+    {
+      "id": "n-cuicheng",
+      "word": "催成",
+      "pinyin": "cuī chéng",
+      "meaning": "在急切心情的催促下写成。"
+    },
+    {
+      "id": "n-jinfeicui",
+      "word": "金翡翠",
+      "pinyin": "jīn fěi cuì",
+      "meaning": "指绣有金色翡翠鸟图案的帷帐，烛光只照到它的一半。"
+    },
+    {
+      "id": "n-shexun",
+      "word": "麝熏",
+      "pinyin": "shè xūn",
+      "meaning": "麝香的熏香气味。"
+    },
+    {
+      "id": "n-xiufurong",
+      "word": "绣芙蓉",
+      "pinyin": "xiù fú róng",
+      "meaning": "绣有芙蓉花的帐褥。"
+    },
+    {
+      "id": "n-liulang",
+      "word": "刘郎",
+      "pinyin": "liú láng",
+      "meaning": "东汉刘晨，传说入天台山遇仙女，后再寻却已迷路；一说指汉武帝刘彻。"
+    },
+    {
+      "id": "n-pengshan",
+      "word": "蓬山",
+      "pinyin": "péng shān",
+      "meaning": "蓬莱山，神话中的海上仙山，喻可望而不可即。"
+    },
+    {
+      "id": "n-gengge",
+      "word": "更隔",
+      "pinyin": "gèng gé",
+      "meaning": "更隔着，谓比蓬山更远。"
+    }
+  ],
+  "translation": "说要来终究是空话，一去便再无踪影，月亮西斜，楼上响起了五更的钟声。梦中因远别而悲啼，醒来却难再唤回，急切之下写成书信，墨还没有磨浓。烛光半照着绣有金翡翠的帷幕，麝香轻轻飘过绣有芙蓉的帐褥。刘郎早已怨恨蓬莱仙山遥远，而你所居的地方，更隔着蓬山一万重。",
+  "appreciation": "梦醒了，约定成空，月亮已经西斜，五更钟声敲响。诗人在泪水中写下一封急信，连墨都来不及磨浓。接着镜头慢慢移过屋里的陈设：烛光半照金翡翠的帷幕，麝香淡淡飘过芙蓉帐褥——一切还是旧日模样，唯独人不来。结尾再进一步：古人已恨蓬山远，而心上人所在，比蓬山还隔一万重。层层写来，相思之深、之切、之绝望，尽在其中。",
+  "background": "这是李商隐《无题》诗中的名篇，写梦中相会、醒后相思。所思念的人再无音讯，诗人只能在五更钟声里写信、对着旧日陈设出神。也有学者认为诗中寄托着诗人政治上的失意与对理想的追寻。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "空言绝踪",
+      "text": "来时是空话，去后再无踪影。"
+    },
+    {
+      "step": 2,
+      "title": "月斜钟响",
+      "text": "月亮西斜，楼上响起五更钟声。"
+    },
+    {
+      "step": 3,
+      "title": "梦啼书急",
+      "text": "梦中悲啼难唤，急信写就墨未磨浓。"
+    },
+    {
+      "step": 4,
+      "title": "蓬山万重",
+      "text": "烛光麝香依旧，人却远隔蓬山万重。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "麝",
+      "reading": "shè",
+      "reason": "“麝香”是一种名贵香料，读 shè。"
+    },
+    {
+      "char": "重",
+      "reading": "chóng",
+      "reason": "“一万重”指层层阻隔，量词读 chóng。",
+      "standard": "不要读成 zhòng"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26"
+}

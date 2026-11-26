@@ -1,0 +1,551 @@
+{
+  "id": "tang-shengtang-dufu-aiwangsun",
+  "slug": "aiwangsun",
+  "title": "哀王孙",
+  "titlePinyin": "āi wáng sūn",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "七言乐府",
+  "authorId": "dufu",
+  "gradeBand": "ext",
+  "tags": [
+    "爱国",
+    "战乱",
+    "长安",
+    "七言乐府"
+  ],
+  "difficulty": 3,
+  "writtenYear": 756,
+  "writtenLabel": "公元 756 年秋（杜甫 44 岁，长安沦陷后困居城中，哀怜落难的皇子孙裔）",
+  "orderInAuthor": 2,
+  "famousLines": [
+    "高帝子孙尽隆准，龙种自与常人殊。",
+    "哀哉王孙慎勿疏，五陵佳气无时无。"
+  ],
+  "lines": [
+    {
+      "text": "长安城头头白乌，",
+      "pinyin": [
+        "cháng",
+        "ān",
+        "chéng",
+        "tóu",
+        "tóu",
+        "bái",
+        "wū"
+      ],
+      "translation": "长安城头上落着一只白头乌鸦，",
+      "noteIds": [
+        "n-baiwu"
+      ]
+    },
+    {
+      "text": "夜飞延秋门上呼。",
+      "pinyin": [
+        "yè",
+        "fēi",
+        "yán",
+        "qiū",
+        "mén",
+        "shàng",
+        "hū"
+      ],
+      "translation": "夜里飞到延秋门上啼叫。",
+      "noteIds": [
+        "n-yanqiumen"
+      ]
+    },
+    {
+      "text": "又向人家啄大屋，",
+      "pinyin": [
+        "yòu",
+        "xiàng",
+        "rén",
+        "jiā",
+        "zhuó",
+        "dà",
+        "wū"
+      ],
+      "translation": "它又飞向人家的大宅啄叫，",
+      "noteIds": []
+    },
+    {
+      "text": "屋底达官走避胡。",
+      "pinyin": [
+        "wū",
+        "dǐ",
+        "dá",
+        "guān",
+        "zǒu",
+        "bì",
+        "hú"
+      ],
+      "translation": "屋里的大官们早已逃走躲避胡兵。",
+      "noteIds": []
+    },
+    {
+      "text": "金鞭断折九马死，",
+      "pinyin": [
+        "jīn",
+        "biān",
+        "duàn",
+        "zhé",
+        "jiǔ",
+        "mǎ",
+        "sǐ"
+      ],
+      "translation": "皇帝出逃时金鞭折断，驾车的骏马也累死了，",
+      "noteIds": []
+    },
+    {
+      "text": "骨肉不得同驰驱。",
+      "pinyin": [
+        "gǔ",
+        "ròu",
+        "bù",
+        "dé",
+        "tóng",
+        "chí",
+        "qū"
+      ],
+      "translation": "骨肉至亲都不能一同乘车逃走。",
+      "noteIds": []
+    },
+    {
+      "text": "腰下宝玦青珊瑚，",
+      "pinyin": [
+        "yāo",
+        "xià",
+        "bǎo",
+        "jué",
+        "qīng",
+        "shān",
+        "hú"
+      ],
+      "translation": "有个少年腰间佩着宝玦和青珊瑚，",
+      "noteIds": [
+        "n-jue"
+      ]
+    },
+    {
+      "text": "可怜王孙泣路隅。",
+      "pinyin": [
+        "kě",
+        "lián",
+        "wáng",
+        "sūn",
+        "qì",
+        "lù",
+        "yú"
+      ],
+      "translation": "可怜的王孙躲在路边角落里哭泣。",
+      "noteIds": []
+    },
+    {
+      "text": "问之不肯道姓名，",
+      "pinyin": [
+        "wèn",
+        "zhī",
+        "bù",
+        "kěn",
+        "dào",
+        "xìng",
+        "míng"
+      ],
+      "translation": "问他姓名，他不肯说出，",
+      "noteIds": []
+    },
+    {
+      "text": "但道困苦乞为奴。",
+      "pinyin": [
+        "dàn",
+        "dào",
+        "kùn",
+        "kǔ",
+        "qǐ",
+        "wéi",
+        "nú"
+      ],
+      "translation": "只说自己困苦，乞求给人做奴仆。",
+      "noteIds": []
+    },
+    {
+      "text": "已经百日窜荆棘，",
+      "pinyin": [
+        "yǐ",
+        "jīng",
+        "bǎi",
+        "rì",
+        "cuàn",
+        "jīng",
+        "jí"
+      ],
+      "translation": "他已经在荆棘丛中逃窜了一百天，",
+      "noteIds": []
+    },
+    {
+      "text": "身上无有完肌肤。",
+      "pinyin": [
+        "shēn",
+        "shàng",
+        "wú",
+        "yǒu",
+        "wán",
+        "jī",
+        "fū"
+      ],
+      "translation": "身上没有一块完好的皮肤。",
+      "noteIds": []
+    },
+    {
+      "text": "高帝子孙尽隆准，",
+      "pinyin": [
+        "gāo",
+        "dì",
+        "zǐ",
+        "sūn",
+        "jìn",
+        "lóng",
+        "zhǔn"
+      ],
+      "translation": "高皇帝的子孙个个高鼻梁，",
+      "noteIds": [
+        "n-longzhun"
+      ]
+    },
+    {
+      "text": "龙种自与常人殊。",
+      "pinyin": [
+        "lóng",
+        "zhǒng",
+        "zì",
+        "yǔ",
+        "cháng",
+        "rén",
+        "shū"
+      ],
+      "translation": "皇族龙种本就与普通人不一样。",
+      "noteIds": []
+    },
+    {
+      "text": "豺狼在邑龙在野，",
+      "pinyin": [
+        "chái",
+        "láng",
+        "zài",
+        "yì",
+        "lóng",
+        "zài",
+        "yě"
+      ],
+      "translation": "如今豺狼占据着都城，蛟龙流落在荒野，",
+      "noteIds": []
+    },
+    {
+      "text": "王孙善保千金躯。",
+      "pinyin": [
+        "wáng",
+        "sūn",
+        "shàn",
+        "bǎo",
+        "qiān",
+        "jīn",
+        "qū"
+      ],
+      "translation": "王孙啊，可要保住你这千金之躯。",
+      "noteIds": []
+    },
+    {
+      "text": "不敢长语临交衢，",
+      "pinyin": [
+        "bù",
+        "gǎn",
+        "cháng",
+        "yǔ",
+        "lín",
+        "jiāo",
+        "qú"
+      ],
+      "translation": "我不敢在大路口同你多说，",
+      "noteIds": [
+        "n-qu"
+      ]
+    },
+    {
+      "text": "且为王孙立斯须。",
+      "pinyin": [
+        "qiě",
+        "wèi",
+        "wáng",
+        "sūn",
+        "lì",
+        "sī",
+        "xū"
+      ],
+      "translation": "姑且为你站一小会儿再说几句。",
+      "noteIds": []
+    },
+    {
+      "text": "昨夜东风吹血腥，",
+      "pinyin": [
+        "zuó",
+        "yè",
+        "dōng",
+        "fēng",
+        "chuī",
+        "xuè",
+        "xīng"
+      ],
+      "translation": "昨夜东风吹来血腥的气味，",
+      "noteIds": []
+    },
+    {
+      "text": "东来橐驼满旧都。",
+      "pinyin": [
+        "dōng",
+        "lái",
+        "tuó",
+        "tuó",
+        "mǎn",
+        "jiù",
+        "dū"
+      ],
+      "translation": "从东边来的骆驼驮着财物，挤满了旧都。",
+      "noteIds": [
+        "n-tuotuo"
+      ]
+    },
+    {
+      "text": "朔方健儿好身手，",
+      "pinyin": [
+        "shuò",
+        "fāng",
+        "jiàn",
+        "ér",
+        "hǎo",
+        "shēn",
+        "shǒu"
+      ],
+      "translation": "朔方军的健儿们本有一身好武艺，",
+      "noteIds": [
+        "n-shuofang"
+      ]
+    },
+    {
+      "text": "昔何勇锐今何愚。",
+      "pinyin": [
+        "xī",
+        "hé",
+        "yǒng",
+        "ruì",
+        "jīn",
+        "hé",
+        "yú"
+      ],
+      "translation": "从前那样勇猛，如今怎么这样糊涂失策。",
+      "noteIds": []
+    },
+    {
+      "text": "窃闻天子已传位，",
+      "pinyin": [
+        "qiè",
+        "wén",
+        "tiān",
+        "zǐ",
+        "yǐ",
+        "chuán",
+        "wèi"
+      ],
+      "translation": "我私下听说天子已经传位给新皇帝，",
+      "noteIds": []
+    },
+    {
+      "text": "圣德北服南单于。",
+      "pinyin": [
+        "shèng",
+        "dé",
+        "běi",
+        "fú",
+        "nán",
+        "chán",
+        "yú"
+      ],
+      "translation": "圣明的德行让北方的单于也归服了。",
+      "noteIds": [
+        "n-danyu"
+      ]
+    },
+    {
+      "text": "花门剺面请雪耻，",
+      "pinyin": [
+        "huā",
+        "mén",
+        "lí",
+        "miàn",
+        "qǐng",
+        "xuě",
+        "chǐ"
+      ],
+      "translation": "回纥人割面立誓，请求为大唐雪耻，",
+      "noteIds": [
+        "n-huamen",
+        "n-li"
+      ]
+    },
+    {
+      "text": "慎勿出口他人狙。",
+      "pinyin": [
+        "shèn",
+        "wù",
+        "chū",
+        "kǒu",
+        "tā",
+        "rén",
+        "jū"
+      ],
+      "translation": "这话千万不要出口，小心被人暗中窥伺。",
+      "noteIds": []
+    },
+    {
+      "text": "哀哉王孙慎勿疏，",
+      "pinyin": [
+        "āi",
+        "zāi",
+        "wáng",
+        "sūn",
+        "shèn",
+        "wù",
+        "shū"
+      ],
+      "translation": "可叹的王孙啊，千万要小心谨慎，",
+      "noteIds": []
+    },
+    {
+      "text": "五陵佳气无时无。",
+      "pinyin": [
+        "wǔ",
+        "líng",
+        "jiā",
+        "qì",
+        "wú",
+        "shí",
+        "wú"
+      ],
+      "translation": "五陵上大唐的兴旺之气，从来没有断绝过。",
+      "noteIds": []
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-baiwu",
+      "word": "头白乌",
+      "pinyin": "tóu bái wū",
+      "meaning": "白头乌鸦，古人把它看作不祥之兆。"
+    },
+    {
+      "id": "n-yanqiumen",
+      "word": "延秋门",
+      "pinyin": "yán qiū mén",
+      "meaning": "长安宫苑西边的城门，玄宗出逃时由此门离开。"
+    },
+    {
+      "id": "n-jue",
+      "word": "宝玦",
+      "pinyin": "bǎo jué",
+      "meaning": "环形而有缺口的玉佩，指王孙身上的贵重饰物。"
+    },
+    {
+      "id": "n-longzhun",
+      "word": "隆准",
+      "pinyin": "lóng zhǔn",
+      "meaning": "高鼻子。史书说汉高祖刘邦高鼻隆准，借指皇室子孙。"
+    },
+    {
+      "id": "n-qu",
+      "word": "衢",
+      "pinyin": "qú",
+      "meaning": "大路，四通八达的街道。"
+    },
+    {
+      "id": "n-tuotuo",
+      "word": "橐驼",
+      "pinyin": "tuó tuó",
+      "meaning": "骆驼，指叛军用骆驼运走抢来的财物。"
+    },
+    {
+      "id": "n-shuofang",
+      "word": "朔方",
+      "pinyin": "shuò fāng",
+      "meaning": "朔方军，唐朝北方的主力部队。"
+    },
+    {
+      "id": "n-danyu",
+      "word": "单于",
+      "pinyin": "chán yú",
+      "meaning": "北方部族君主的称号。"
+    },
+    {
+      "id": "n-huamen",
+      "word": "花门",
+      "pinyin": "huā mén",
+      "meaning": "指回纥部族，其地有花门山堡。"
+    },
+    {
+      "id": "n-li",
+      "word": "剺面",
+      "pinyin": "lí miàn",
+      "meaning": "割脸出血，回纥人表示诚心起誓的风俗。"
+    }
+  ],
+  "translation": "长安城头上落着一只白头乌鸦，夜里飞到延秋门上啼叫。它又飞向人家的大宅啄叫，屋里的大官们早已逃走躲避胡兵。皇帝出逃时金鞭折断，驾车的骏马也累死了，骨肉至亲都不能一同乘车逃走。有个少年腰间佩着宝玦和青珊瑚，可怜的王孙躲在路边角落里哭泣。问他姓名，他不肯说出，只说自己困苦，乞求给人做奴仆。他已经在荆棘丛中逃窜了一百天，身上没有一块完好的皮肤。高皇帝的子孙个个高鼻梁，皇族龙种本就与普通人不一样。如今豺狼占据着都城，蛟龙流落在荒野，王孙啊，可要保住你这千金之躯。我不敢在大路口同你多说，姑且为你站一小会儿再说几句。昨夜东风吹来血腥的气味，从东边来的骆驼驮着财物，挤满了旧都。朔方军的健儿们本有一身好武艺，从前那样勇猛，如今怎么这样糊涂失策。我私下听说天子已经传位给新皇帝，圣明的德行让北方的单于也归服了。回纥人割面立誓，请求为大唐雪耻，这话千万不要出口，小心被人暗中窥伺。可叹的王孙啊，千万要小心谨慎，五陵上大唐的兴旺之气，从来没有断绝过。",
+  "appreciation": "诗人像在路边偶遇一位落难的王孙，短短几句对话，把国破家亡写得触目惊心：白头乌鸦叫着凶兆，皇帝仓皇出逃，龙种在荆棘里藏了一百天，身上没有一块好皮肤。杜甫不敢多说话，只悄悄叮嘱他保重、等待。最动人的是最后一句——大唐的佳气从未断绝。满纸哀音，却收在一点不肯熄灭的希望上。",
+  "background": "公元756年六月，潼关失守，唐玄宗仓皇逃往蜀地，只带着少数亲人，多数皇子皇孙来不及逃走。七月长安沦陷，许多皇室子弟惨遭杀害。杜甫被叛军困在城中，目睹王孙流落街头，写下这首诗哀怜他们的遭遇。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "白乌啼门",
+      "text": "白头乌鸦夜啼延秋门，达官四散躲避胡兵。"
+    },
+    {
+      "step": 2,
+      "title": "王孙泣隅",
+      "text": "佩宝玦的王孙躲在路边，乞求为人做奴。"
+    },
+    {
+      "step": 3,
+      "title": "窜身荆棘",
+      "text": "百日逃窜，身上无一块完好的肌肤。"
+    },
+    {
+      "step": 4,
+      "title": "寄语存望",
+      "text": "杜甫低声叮咛保重，说五陵佳气从未断绝。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "准",
+      "reading": "zhǔn",
+      "reason": "“隆准”指高鼻子，读 zhǔn。",
+      "standard": "不要读成 zhùn"
+    },
+    {
+      "char": "剺",
+      "reading": "lí",
+      "reason": "“剺面”是割脸起誓，读 lí。"
+    },
+    {
+      "char": "狙",
+      "reading": "jū",
+      "reason": "“他人狙”指被人像猴子一样暗中窥伺，读 jū。"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1251
+}

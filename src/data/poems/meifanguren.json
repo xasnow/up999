@@ -1,0 +1,148 @@
+{
+  "id": "tang-zhongtang-zhangzhi-meifanguren",
+  "slug": "meifanguren",
+  "title": "没蕃故人",
+  "titlePinyin": "mò fān gù rén",
+  "dynasty": "tangshi",
+  "era": "zhongtang",
+  "genre": "shi",
+  "form": "五言律诗",
+  "authorId": "zhangzhi",
+  "gradeBand": "ext",
+  "difficulty": 3,
+  "tags": ["思念", "五言律诗", "边城", "残旗"],
+  "writtenYear": 808,
+  "writtenLabel": "约公元 808 年（中唐边地战事频仍，友人戍边覆没后）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "欲祭疑君在，天涯哭此时。"
+  ],
+  "lines": [
+    {
+      "text": "前年戍月支，",
+      "pinyin": ["qián", "nián", "shù", "yuè", "zhī"],
+      "translation": "前年你驻守在月支一带，",
+      "noteIds": ["n-shuyuezhi"]
+    },
+    {
+      "text": "城下没全师。",
+      "pinyin": ["chéng", "xià", "mò", "quán", "shī"],
+      "translation": "城下唐军全军覆没。",
+      "noteIds": ["n-moquanshi"]
+    },
+    {
+      "text": "蕃汉断消息，",
+      "pinyin": ["fān", "hàn", "duàn", "xiāo", "xī"],
+      "translation": "蕃汉之间消息断绝，",
+      "noteIds": []
+    },
+    {
+      "text": "死生长别离。",
+      "pinyin": ["sǐ", "shēng", "zhǎng", "bié", "lí"],
+      "translation": "是死是生，从此天各一方。",
+      "noteIds": []
+    },
+    {
+      "text": "无人收废帐，",
+      "pinyin": ["wú", "rén", "shōu", "fèi", "zhàng"],
+      "translation": "无人去收拾废弃的营帐，",
+      "noteIds": ["n-feizhang"]
+    },
+    {
+      "text": "归马识残旗。",
+      "pinyin": ["guī", "mǎ", "shí", "cán", "qí"],
+      "translation": "逃回的战马还认得残破的军旗。",
+      "noteIds": []
+    },
+    {
+      "text": "欲祭疑君在，",
+      "pinyin": ["yù", "jì", "yí", "jūn", "zài"],
+      "translation": "我想祭奠你，又疑心你还活着，",
+      "noteIds": ["n-yuji"]
+    },
+    {
+      "text": "天涯哭此时。",
+      "pinyin": ["tiān", "yá", "kū", "cǐ", "shí"],
+      "translation": "只能在天涯之外，为你痛哭在这时候。",
+      "noteIds": []
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-shuyuezhi",
+      "word": "戍月支",
+      "pinyin": "shù yuè zhī",
+      "meaning": "戍，驻守边疆。月支，汉代西域国名，这里借指唐军驻守的西部边地。"
+    },
+    {
+      "id": "n-moquanshi",
+      "word": "没全师",
+      "pinyin": "mò quán shī",
+      "meaning": "覆没了整个部队，指全军覆没。没，陷落。"
+    },
+    {
+      "id": "n-feizhang",
+      "word": "废帐",
+      "pinyin": "fèi zhàng",
+      "meaning": "战败后丢弃的营帐。"
+    },
+    {
+      "id": "n-yuji",
+      "word": "欲祭疑君在",
+      "pinyin": "yù jì yí jūn zài",
+      "meaning": "想祭奠你，又疑心你还活着。故人生死不明，最是伤怀。"
+    }
+  ],
+  "translation": "前年你驻守在月支一带，城下唐军全军覆没。蕃汉之间消息断绝，是死是生，从此天各一方。无人去收拾废弃的营帐，逃回的战马还认得残破的军旗。我想祭奠你，又疑心你还活着，只能在天涯之外，为你痛哭在这时候。",
+  "appreciation": "这首诗不用一句狠话，却字字沉痛。“前年”两字拉开时间的深沟，消息断绝让生死成了悬案。废帐无人收拾、归马犹识残旗，是想象中战场的荒凉，也见出诗人久久不能忘怀。最痛在“欲祭疑君在”：想哭祭又怕人还在，矛盾中藏着最深的友情。一句“天涯哭此时”，把无处安放的哀思推向天涯。",
+  "background": "中唐时期，吐蕃屡屡进犯，唐军时有全军覆没的败仗。张籍的一位友人随军戍边，战败后生死不明、音讯断绝。两年过去仍无消息，张籍写下这首诗，在遥远的天涯遥遥哭祭故人。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "前年戍边",
+      "text": "前年友人奉命驻守月支边城，城下唐军全军覆没。"
+    },
+    {
+      "step": 2,
+      "title": "音讯断绝",
+      "text": "蕃汉之间消息断绝，故人是死是生，无从知晓。"
+    },
+    {
+      "step": 3,
+      "title": "战场想象",
+      "text": "他想象废帐无人收拾，只有归来的战马认得残旗。"
+    },
+    {
+      "step": 4,
+      "title": "天涯哭祭",
+      "text": "想祭奠又疑心故人还在，诗人只得在天涯痛哭。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "没",
+      "reading": "mò",
+      "reason": "“没全师”指全军覆没，读 mò。"
+      ,
+      "standard": "不要读成 méi"
+    },
+    {
+      "char": "戍",
+      "reading": "shù",
+      "reason": "戍指驻守边防。"
+      ,
+      "standard": "注意与“戌”（xū）区分"
+    },
+    {
+      "char": "蕃",
+      "reading": "fān",
+      "reason": "这里通“番”，指吐蕃等外族；单独用于国名“吐蕃”时读 bō。"
+      ,
+      "standard": "不要读成 fán"
+    }
+  ],
+  "sources": ["《全唐诗》", "《唐诗三百首》"],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1101
+}

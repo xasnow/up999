@@ -1,0 +1,162 @@
+{
+  "id": "tang-shengtang-wangchangling-chungongqu",
+  "slug": "chungongqu",
+  "title": "春宫曲",
+  "titlePinyin": "chūn gōng qǔ",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "七言绝句",
+  "authorId": "wangchangling",
+  "gradeBand": "ext",
+  "tags": [
+    "宫怨",
+    "七言绝句",
+    "月亮",
+    "春天"
+  ],
+  "difficulty": 3,
+  "writtenYear": 741,
+  "writtenLabel": "约公元 741 年（王昌龄 43 岁，居长安期间，借汉宫旧事讽咏时事）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "平阳歌舞新承宠，帘外春寒赐锦袍。"
+  ],
+  "lines": [
+    {
+      "text": "昨夜风开露井桃，",
+      "pinyin": [
+        "zuó",
+        "yè",
+        "fēng",
+        "kāi",
+        "lù",
+        "jǐng",
+        "táo"
+      ],
+      "translation": "昨夜春风吹开了露井边的桃花，",
+      "noteIds": [
+        "n-lujing"
+      ]
+    },
+    {
+      "text": "未央前殿月轮高。",
+      "pinyin": [
+        "wèi",
+        "yāng",
+        "qián",
+        "diàn",
+        "yuè",
+        "lún",
+        "gāo"
+      ],
+      "translation": "未央宫前殿上空，一轮明月升得很高。",
+      "noteIds": [
+        "n-weiyang"
+      ]
+    },
+    {
+      "text": "平阳歌舞新承宠，",
+      "pinyin": [
+        "píng",
+        "yáng",
+        "gē",
+        "wǔ",
+        "xīn",
+        "chéng",
+        "chǒng"
+      ],
+      "translation": "平阳公主家的歌女刚刚得到皇帝的宠爱，",
+      "noteIds": [
+        "n-pingyang"
+      ]
+    },
+    {
+      "text": "帘外春寒赐锦袍。",
+      "pinyin": [
+        "lián",
+        "wài",
+        "chūn",
+        "hán",
+        "cì",
+        "jǐn",
+        "páo"
+      ],
+      "translation": "皇帝怕帘外春寒，还特地赐给她锦袍。",
+      "noteIds": [
+        "n-cijinpao"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-lujing",
+      "word": "露井",
+      "pinyin": "lù jǐng",
+      "meaning": "没有井亭遮盖的水井。"
+    },
+    {
+      "id": "n-weiyang",
+      "word": "未央",
+      "pinyin": "wèi yāng",
+      "meaning": "未央宫，汉朝的皇宫，这里借汉宫来写唐代宫廷。"
+    },
+    {
+      "id": "n-pingyang",
+      "word": "平阳歌舞",
+      "pinyin": "píng yáng gē wǔ",
+      "meaning": "平阳公主家的歌女，指汉武帝新宠爱的卫子夫。"
+    },
+    {
+      "id": "n-cijinpao",
+      "word": "赐锦袍",
+      "pinyin": "cì jǐn páo",
+      "meaning": "皇帝赐给锦袍，表示格外的关心。"
+    }
+  ],
+  "translation": "昨夜春风吹开了露井边的桃花，未央宫前殿上空，一轮明月升得很高。平阳公主家的歌女刚刚得到皇帝的宠爱，皇帝怕帘外春寒，还特地赐给她锦袍。",
+  "appreciation": "全诗没有一个“怨”字，全靠对比说话：露井桃花被春风催开，新人恰似桃花一样承宠；皇帝连帘外的春寒都替新人想到，赐下锦袍。这份暖意，恰好照出旧人的冷清。诗人不点破、不评论，只把画面摆出来，让读者自己品出背后的凉意，这正是“七绝圣手”的功夫。",
+  "background": "汉武帝在平阳公主家看中歌女卫子夫，带进宫中十分宠爱，原来的皇后陈阿娇从此被冷落。诗人借这段汉宫旧事，讽刺唐代宫廷喜新厌旧的风气。他身在京师，对宫闱之事有所见闻，于是借汉说唐，写得非常含蓄。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "风开桃树",
+      "text": "昨夜春风吹开了露井旁边的桃花，春意撩人。"
+    },
+    {
+      "step": 2,
+      "title": "月照前殿",
+      "text": "未央宫前殿上，月亮升得高高的，宫殿亮堂堂。"
+    },
+    {
+      "step": 3,
+      "title": "新人承宠",
+      "text": "平阳公主家的歌女卫子夫，新近得到皇帝宠爱。"
+    },
+    {
+      "step": 4,
+      "title": "春寒赐袍",
+      "text": "皇帝怕帘外春寒，特地赐给新人一件锦袍。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "露",
+      "reading": "lù",
+      "reason": "“露井”是没有遮盖的井，“露”读 lù。",
+      "standard": "不读 lòu"
+    },
+    {
+      "char": "赐",
+      "reading": "cì",
+      "reason": "“赐锦袍”的“赐”是赏给的意思，读 cì。"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1013
+}

@@ -1,0 +1,156 @@
+{
+  "id": "tang-shengtang-libai-guanshanyue",
+  "slug": "guanshanyue",
+  "title": "关山月",
+  "titlePinyin": "guān shān yuè",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "五言乐府",
+  "authorId": "libai",
+  "gradeBand": "ext",
+  "difficulty": 3,
+  "tags": ["边塞", "五言乐府", "明月", "天山"],
+  "writtenYear": 725,
+  "writtenLabel": "约公元 725 年（李白 25 岁，出蜀漫游时期，创作年份未有定论）",
+  "orderInAuthor": 13,
+  "famousLines": [
+    "明月出天山，苍茫云海间。"
+  ],
+  "lines": [
+    {
+      "text": "明月出天山，",
+      "pinyin": ["míng", "yuè", "chū", "tiān", "shān"],
+      "translation": "一轮明月从天山升起，",
+      "noteIds": ["n-tianshan"]
+    },
+    {
+      "text": "苍茫云海间。",
+      "pinyin": ["cāng", "máng", "yún", "hǎi", "jiān"],
+      "translation": "出没在苍茫的云海之间。",
+      "noteIds": []
+    },
+    {
+      "text": "长风几万里，",
+      "pinyin": ["cháng", "fēng", "jǐ", "wàn", "lǐ"],
+      "translation": "长风吹过几万里，",
+      "noteIds": []
+    },
+    {
+      "text": "吹度玉门关。",
+      "pinyin": ["chuī", "dù", "yù", "mén", "guān"],
+      "translation": "一直吹过玉门关。",
+      "noteIds": []
+    },
+    {
+      "text": "汉下白登道，",
+      "pinyin": ["hàn", "xià", "bái", "dēng", "dào"],
+      "translation": "汉家士兵曾沿着白登道出征，",
+      "noteIds": ["n-baideng"]
+    },
+    {
+      "text": "胡窥青海湾。",
+      "pinyin": ["hú", "kuī", "qīng", "hǎi", "wān"],
+      "translation": "吐蕃也在窥伺着青海湾。",
+      "noteIds": ["n-hu"]
+    },
+    {
+      "text": "由来征战地，",
+      "pinyin": ["yóu", "lái", "zhēng", "zhàn", "dì"],
+      "translation": "自古以来的征战之地，",
+      "noteIds": []
+    },
+    {
+      "text": "不见有人还。",
+      "pinyin": ["bú", "jiàn", "yǒu", "rén", "huán"],
+      "translation": "没有几个人能活着回来。",
+      "noteIds": ["n-huan"]
+    },
+    {
+      "text": "戍客望边邑，",
+      "pinyin": ["shù", "kè", "wàng", "biān", "yì"],
+      "translation": "守边的战士望着边城的月色，",
+      "noteIds": ["n-shuke"]
+    },
+    {
+      "text": "思归多苦颜。",
+      "pinyin": ["sī", "guī", "duō", "kǔ", "yán"],
+      "translation": "想着回家，一个个愁眉不展。",
+      "noteIds": []
+    },
+    {
+      "text": "高楼当此夜，",
+      "pinyin": ["gāo", "lóu", "dāng", "cǐ", "yè"],
+      "translation": "今夜家里的高楼上，",
+      "noteIds": ["n-gaolou"]
+    },
+    {
+      "text": "叹息未应闲。",
+      "pinyin": ["tàn", "xī", "wèi", "yīng", "xián"],
+      "translation": "妻子的叹息也不会停歇。",
+      "noteIds": ["n-xian"]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-tianshan",
+      "word": "天山",
+      "pinyin": "tiān shān",
+      "meaning": "今甘肃、新疆一带的大山脉，这里泛指西部边疆。"
+    },
+    {
+      "id": "n-baideng",
+      "word": "白登",
+      "pinyin": "bái dēng",
+      "meaning": "山名，在今山西大同。汉高祖刘邦曾在白登被匈奴围困七天，诗中借指边关战事。"
+    },
+    {
+      "id": "n-hu",
+      "word": "胡",
+      "pinyin": "hú",
+      "meaning": "古代对西北方少数民族的称呼，这里指吐蕃。"
+    },
+    {
+      "id": "n-huan",
+      "word": "还",
+      "pinyin": "huán",
+      "meaning": "回来。"
+    },
+    {
+      "id": "n-shuke",
+      "word": "戍客",
+      "pinyin": "shù kè",
+      "meaning": "驻守边地的兵士。"
+    },
+    {
+      "id": "n-gaolou",
+      "word": "高楼",
+      "pinyin": "gāo lóu",
+      "meaning": "戍边人家中妻子住的高楼，指此刻家人也在楼上望月。"
+    },
+    {
+      "id": "n-xian",
+      "word": "闲",
+      "pinyin": "xián",
+      "meaning": "停止、停歇。"
+    }
+  ],
+  "translation": "一轮明月从天山升起，出没在苍茫的云海之间。长风吹过几万里，一直吹过玉门关。汉家士兵曾沿着白登道出征，吐蕃也在窥伺着青海湾。自古以来的征战之地，没有几个人能活着回来。守边的战士望着边城的月色，想着回家，一个个愁眉不展。今夜家里的高楼上，妻子的叹息也不会停歇。",
+  "appreciation": "明月、天山、云海、长风，开篇四句就铺开一幅万里边关图。可风景越壮阔，后面的叹息越沉重：从白登道到青海湾，自古征战几人回？诗人把戍客的愁和家中人的叹息放在同一轮明月下，天上的月成了两地相连的桥。没有一句议论，厌战思归的深情自在其中。",
+  "background": "《关山月》是乐府旧题，多写离别哀伤。唐朝常年与吐蕃交战，将士久戍不归。李白出蜀漫游、见到边地景象之后，借乐府旧题写出征人望月思归、思妇楼上叹月的双重愁绪，具体创作年份难以确定。",
+  "storyline": [
+    { "step": 1, "title": "明月出山", "text": "明月从天山升起，浮动在苍茫的云海之间。" },
+    { "step": 2, "title": "长风度关", "text": "长风刮了几万里，一直吹到玉门关外。" },
+    { "step": 3, "title": "古来征战", "text": "白登道上汉兵出征，青海湾边胡人窥伺，几人能回？" },
+    { "step": 4, "title": "两地望月", "text": "戍边的士兵望月思乡，高楼上的妻子叹气难眠。" }
+  ],
+  "pinyinNotes": [
+    { "char": "戍", "reading": "shù", "reason": "“戍客”指驻守边疆的士兵，读 shù。", "standard": "不要读成 shū" },
+    { "char": "还", "reading": "huán", "reason": "“不见有人还”的“还”是“回来”的意思，读 huán。", "standard": "不要读成 hái" },
+    { "char": "窥", "reading": "kuī", "reason": "“胡窥”的“窥”是窥伺、偷看的意思，读 kuī。" }
+  ],
+  "sources": ["《全唐诗》", "《唐诗三百首》", "《李太白集》"],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1249
+}

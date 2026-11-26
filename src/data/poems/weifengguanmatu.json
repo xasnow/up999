@@ -1,0 +1,631 @@
+{
+  "id": "tang-shengtang-dufu-weifengguanmatu",
+  "slug": "weifengguanmatu",
+  "title": "韦讽录事宅观曹将军画马图",
+  "titlePinyin": "wéi fěng lù shì zhái guān cáo jiāng jūn huà mǎ tú",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "七言古诗",
+  "authorId": "dufu",
+  "gradeBand": "ext",
+  "tags": [
+    "咏物",
+    "骏马",
+    "画卷",
+    "七言古诗"
+  ],
+  "difficulty": 3,
+  "writtenYear": 764,
+  "writtenLabel": "公元 764 年（杜甫 52 岁，在成都韦讽家中观曹霸画马图）",
+  "orderInAuthor": 11,
+  "famousLines": [
+    "此皆骑战一敌万，缟素漠漠开风沙。",
+    "君不见金粟堆前松柏里，龙媒去尽鸟呼风。"
+  ],
+  "lines": [
+    {
+      "text": "国初已来画鞍马，",
+      "pinyin": [
+        "guó",
+        "chū",
+        "yǐ",
+        "lái",
+        "huà",
+        "ān",
+        "mǎ"
+      ],
+      "translation": "开国以来擅长画鞍马的画家，",
+      "noteIds": []
+    },
+    {
+      "text": "神妙独数江都王。",
+      "pinyin": [
+        "shén",
+        "miào",
+        "dú",
+        "shǔ",
+        "jiāng",
+        "dū",
+        "wáng"
+      ],
+      "translation": "画得精妙传神的，只数江都王一人。",
+      "noteIds": [
+        "n-jiangduwang"
+      ]
+    },
+    {
+      "text": "将军得名三十载，",
+      "pinyin": [
+        "jiāng",
+        "jūn",
+        "dé",
+        "míng",
+        "sān",
+        "shí",
+        "zǎi"
+      ],
+      "translation": "曹将军画马成名已有三十年，",
+      "noteIds": []
+    },
+    {
+      "text": "人间又见真乘黄。",
+      "pinyin": [
+        "rén",
+        "jiān",
+        "yòu",
+        "jiàn",
+        "zhēn",
+        "shèng",
+        "huáng"
+      ],
+      "translation": "人间又能见到真正的神马乘黄。",
+      "noteIds": [
+        "n-chenghuang"
+      ]
+    },
+    {
+      "text": "曾貌先帝照夜白，",
+      "pinyin": [
+        "céng",
+        "mào",
+        "xiān",
+        "dì",
+        "zhào",
+        "yè",
+        "bái"
+      ],
+      "translation": "他曾描绘过先帝的名马照夜白，",
+      "noteIds": [
+        "n-zhaoyebai"
+      ]
+    },
+    {
+      "text": "龙池十日飞霹雳。",
+      "pinyin": [
+        "lóng",
+        "chí",
+        "shí",
+        "rì",
+        "fēi",
+        "pī",
+        "lì"
+      ],
+      "translation": "画成后，龙池上空十日雷电轰鸣。",
+      "noteIds": []
+    },
+    {
+      "text": "内府殷红玛瑙盘，",
+      "pinyin": [
+        "nèi",
+        "fǔ",
+        "yān",
+        "hóng",
+        "mǎ",
+        "nǎo",
+        "pán"
+      ],
+      "translation": "宫廷内库的殷红玛瑙盘，",
+      "noteIds": []
+    },
+    {
+      "text": "婕妤传诏才人索。",
+      "pinyin": [
+        "jié",
+        "yú",
+        "chuán",
+        "zhào",
+        "cái",
+        "rén",
+        "suǒ"
+      ],
+      "translation": "由婕妤传下诏令，才人前来取用。",
+      "noteIds": [
+        "n-jieyu"
+      ]
+    },
+    {
+      "text": "盘赐将军拜舞归，",
+      "pinyin": [
+        "pán",
+        "cì",
+        "jiāng",
+        "jūn",
+        "bài",
+        "wǔ",
+        "guī"
+      ],
+      "translation": "宝盘赐给将军，他拜谢舞蹈而归，",
+      "noteIds": []
+    },
+    {
+      "text": "轻纨细绮相追飞。",
+      "pinyin": [
+        "qīng",
+        "wán",
+        "xì",
+        "qǐ",
+        "xiāng",
+        "zhuī",
+        "fēi"
+      ],
+      "translation": "轻细的绸缎赏赐也接连送到。",
+      "noteIds": []
+    },
+    {
+      "text": "贵戚权门得笔迹，",
+      "pinyin": [
+        "guì",
+        "qī",
+        "quán",
+        "mén",
+        "dé",
+        "bǐ",
+        "jì"
+      ],
+      "translation": "皇亲权贵谁得到他的画，",
+      "noteIds": []
+    },
+    {
+      "text": "始觉屏障生光辉。",
+      "pinyin": [
+        "shǐ",
+        "jué",
+        "píng",
+        "zhàng",
+        "shēng",
+        "guāng",
+        "huī"
+      ],
+      "translation": "才觉得家中屏壁顿时生辉。",
+      "noteIds": []
+    },
+    {
+      "text": "昔日太宗拳毛騧，",
+      "pinyin": [
+        "xī",
+        "rì",
+        "tài",
+        "zōng",
+        "quán",
+        "máo",
+        "guā"
+      ],
+      "translation": "当年唐太宗的名马拳毛騧，",
+      "noteIds": [
+        "n-quanmaogua"
+      ]
+    },
+    {
+      "text": "近时郭家狮子花。",
+      "pinyin": [
+        "jìn",
+        "shí",
+        "guō",
+        "jiā",
+        "shī",
+        "zǐ",
+        "huā"
+      ],
+      "translation": "近来郭子仪家的狮子花，",
+      "noteIds": [
+        "n-shizihua"
+      ]
+    },
+    {
+      "text": "今之新图有二马，",
+      "pinyin": [
+        "jīn",
+        "zhī",
+        "xīn",
+        "tú",
+        "yǒu",
+        "èr",
+        "mǎ"
+      ],
+      "translation": "如今这幅新画上就有这两匹马，",
+      "noteIds": []
+    },
+    {
+      "text": "复令识者久叹嗟。",
+      "pinyin": [
+        "fù",
+        "lìng",
+        "shí",
+        "zhě",
+        "jiǔ",
+        "tàn",
+        "jiē"
+      ],
+      "translation": "让识马的人久久赞叹不已。",
+      "noteIds": []
+    },
+    {
+      "text": "此皆骑战一敌万，",
+      "pinyin": [
+        "cǐ",
+        "jiē",
+        "qí",
+        "zhàn",
+        "yī",
+        "dí",
+        "wàn"
+      ],
+      "translation": "这些都是上阵作战以一敌万的骏马，",
+      "noteIds": []
+    },
+    {
+      "text": "缟素漠漠开风沙。",
+      "pinyin": [
+        "gǎo",
+        "sù",
+        "mò",
+        "mò",
+        "kāi",
+        "fēng",
+        "shā"
+      ],
+      "translation": "展开画绢，仿佛风沙扑面而来。",
+      "noteIds": [
+        "n-gaosu"
+      ]
+    },
+    {
+      "text": "其余七匹亦殊绝，",
+      "pinyin": [
+        "qí",
+        "yú",
+        "qī",
+        "pǐ",
+        "yì",
+        "shū",
+        "jué"
+      ],
+      "translation": "其余七匹也与众不同的奇绝，",
+      "noteIds": []
+    },
+    {
+      "text": "迥若寒空动烟雪。",
+      "pinyin": [
+        "jiǒng",
+        "ruò",
+        "hán",
+        "kōng",
+        "dòng",
+        "yān",
+        "xuě"
+      ],
+      "translation": "远远看去，像寒空中飘动的烟雪。",
+      "noteIds": []
+    },
+    {
+      "text": "霜蹄蹴踏长楸间，",
+      "pinyin": [
+        "shuāng",
+        "tí",
+        "cù",
+        "tà",
+        "cháng",
+        "qiū",
+        "jiān"
+      ],
+      "translation": "雪白的马蹄踏在长楸大道之间，",
+      "noteIds": []
+    },
+    {
+      "text": "马官厮养森成列。",
+      "pinyin": [
+        "mǎ",
+        "guān",
+        "sī",
+        "yǎng",
+        "sēn",
+        "chéng",
+        "liè"
+      ],
+      "translation": "马官和马夫整齐地排列成行。",
+      "noteIds": []
+    },
+    {
+      "text": "可怜九马争神骏，",
+      "pinyin": [
+        "kě",
+        "lián",
+        "jiǔ",
+        "mǎ",
+        "zhēng",
+        "shén",
+        "jùn"
+      ],
+      "translation": "可爱的九匹马争显神骏，",
+      "noteIds": []
+    },
+    {
+      "text": "顾视清高气深稳。",
+      "pinyin": [
+        "gù",
+        "shì",
+        "qīng",
+        "gāo",
+        "qì",
+        "shēn",
+        "wěn"
+      ],
+      "translation": "昂首顾盼，气度高贵深沉稳重。",
+      "noteIds": []
+    },
+    {
+      "text": "借问苦心爱者谁，",
+      "pinyin": [
+        "jiè",
+        "wèn",
+        "kǔ",
+        "xīn",
+        "ài",
+        "zhě",
+        "shuí"
+      ],
+      "translation": "请问真心爱马的还有谁？",
+      "noteIds": []
+    },
+    {
+      "text": "后有韦讽前支遁。",
+      "pinyin": [
+        "hòu",
+        "yǒu",
+        "wéi",
+        "fěng",
+        "qián",
+        "zhī",
+        "dùn"
+      ],
+      "translation": "后世有韦讽，前代有支遁。",
+      "noteIds": [
+        "n-zhidun"
+      ]
+    },
+    {
+      "text": "忆昔巡幸新丰宫，",
+      "pinyin": [
+        "yì",
+        "xī",
+        "xún",
+        "xìng",
+        "xīn",
+        "fēng",
+        "gōng"
+      ],
+      "translation": "回想当年皇帝巡幸新丰宫，",
+      "noteIds": []
+    },
+    {
+      "text": "翠华拂天来向东。",
+      "pinyin": [
+        "cuì",
+        "huá",
+        "fú",
+        "tiān",
+        "lái",
+        "xiàng",
+        "dōng"
+      ],
+      "translation": "翠羽的旌旗拂天而来，浩浩荡荡向东。",
+      "noteIds": []
+    },
+    {
+      "text": "腾骧磊落三万匹，",
+      "pinyin": [
+        "téng",
+        "xiāng",
+        "lěi",
+        "luò",
+        "sān",
+        "wàn",
+        "pǐ"
+      ],
+      "translation": "三万匹骏马奔腾跳跃，气宇轩昂，",
+      "noteIds": []
+    },
+    {
+      "text": "皆与此图筋骨同。",
+      "pinyin": [
+        "jiē",
+        "yǔ",
+        "cǐ",
+        "tú",
+        "jīn",
+        "gǔ",
+        "tóng"
+      ],
+      "translation": "都与这幅画上的马筋骨相同。",
+      "noteIds": []
+    },
+    {
+      "text": "自从献宝朝河宗，",
+      "pinyin": [
+        "zì",
+        "cóng",
+        "xiàn",
+        "bǎo",
+        "cháo",
+        "hé",
+        "zōng"
+      ],
+      "translation": "自从像河宗献宝归天那样，天子一去不返，",
+      "noteIds": []
+    },
+    {
+      "text": "无复射蛟江水中。",
+      "pinyin": [
+        "wú",
+        "fù",
+        "shè",
+        "jiāo",
+        "jiāng",
+        "shuǐ",
+        "zhōng"
+      ],
+      "translation": "再也不能像汉武帝那样在江中射蛟巡游。",
+      "noteIds": []
+    },
+    {
+      "text": "君不见金粟堆前松柏里，",
+      "pinyin": [
+        "jūn",
+        "bù",
+        "jiàn",
+        "jīn",
+        "sù",
+        "duī",
+        "qián",
+        "sōng",
+        "bǎi",
+        "lǐ"
+      ],
+      "translation": "你没看见玄宗陵前金粟堆的松柏里，",
+      "noteIds": []
+    },
+    {
+      "text": "龙媒去尽鸟呼风。",
+      "pinyin": [
+        "lóng",
+        "méi",
+        "qù",
+        "jìn",
+        "niǎo",
+        "hū",
+        "fēng"
+      ],
+      "translation": "神马散尽，只剩鸟儿在风中啼叫。",
+      "noteIds": [
+        "n-longmei"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-jiangduwang",
+      "word": "江都王",
+      "pinyin": "jiāng dū wáng",
+      "meaning": "唐宗室李绪，封江都王，以善画鞍马闻名。"
+    },
+    {
+      "id": "n-chenghuang",
+      "word": "乘黄",
+      "pinyin": "shèng huáng",
+      "meaning": "传说中的神马，这里形容曹霸画马技艺超绝。"
+    },
+    {
+      "id": "n-zhaoyebai",
+      "word": "照夜白",
+      "pinyin": "zhào yè bái",
+      "meaning": "唐玄宗最喜爱的名马。"
+    },
+    {
+      "id": "n-jieyu",
+      "word": "婕妤",
+      "pinyin": "jié yú",
+      "meaning": "宫中女官名。"
+    },
+    {
+      "id": "n-quanmaogua",
+      "word": "拳毛騧",
+      "pinyin": "quán máo guā",
+      "meaning": "唐太宗六骏名马之一。"
+    },
+    {
+      "id": "n-shizihua",
+      "word": "狮子花",
+      "pinyin": "shī zǐ huā",
+      "meaning": "郭子仪的名马，代宗所赐，也叫九花虬。"
+    },
+    {
+      "id": "n-gaosu",
+      "word": "缟素",
+      "pinyin": "gǎo sù",
+      "meaning": "白色的画绢。"
+    },
+    {
+      "id": "n-zhidun",
+      "word": "支遁",
+      "pinyin": "zhī dùn",
+      "meaning": "东晋高僧，爱养马，认为马有神骏之姿。"
+    },
+    {
+      "id": "n-longmei",
+      "word": "龙媒",
+      "pinyin": "lóng méi",
+      "meaning": "骏马。古人说天马是“龙之媒”，后代指良马。"
+    }
+  ],
+  "translation": "开国以来擅长画鞍马的画家，画得精妙传神的只数江都王。曹将军画马成名已有三十年，人间又能见到真正的神马乘黄。他曾描绘过先帝的名马照夜白，画成后龙池上空十日雷电轰鸣。宫廷内库的殷红玛瑙盘，由婕妤传下诏令、才人前来取用。宝盘赐给将军，他拜谢舞蹈而归，轻细的绸缎赏赐也接连送到。皇亲权贵谁得到他的画，才觉得家中屏壁顿时生辉。当年唐太宗的名马拳毛騧，近来郭子仪家的狮子花，如今这幅新画上就有这两匹马，让识马的人久久赞叹。这些都是上阵作战以一敌万的骏马，展开画绢仿佛风沙扑面而来。其余七匹也奇绝出众，远看像寒空中飘动的烟雪。雪白的马蹄踏在长楸大道间，马官和马夫整齐地排列成行。九匹马争显神骏，昂首顾盼，气度高贵沉稳。请问真心爱马的还有谁？后世有韦讽，前代有支遁。回想当年皇帝巡幸新丰宫，翠羽的旌旗拂天向东，三万匹骏马奔腾跳跃，都与这幅画上的马筋骨相同。自从天子像河宗献宝那样一去不返，再不能在江中射蛟巡游。你没看见金粟堆陵前的松柏里，神马散尽，只剩鸟儿在风中啼叫。",
+  "appreciation": "这幅画上共有九匹马，杜甫越写得神骏，越让人心里发凉：画马还活着，皇帝和满厩的三万匹真马都没了。前半段写曹霸画马的荣耀，赐盘赐帛、贵戚争藏；后半段从画上的风沙，一路写到陵前的松柏和鸟声。诗借画马怀人，也借马怀国——最精彩的一笔，是让一幅画里传出风沙声和鸟鸣声。",
+  "background": "公元764年，杜甫在成都韦讽家中看到曹霸的九马图。曹霸曾以画马名动天下，安史乱后流落民间。杜甫观画，既赞叹画艺，又追忆玄宗朝的盛况，感慨今昔，写下这首长诗。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "将军画马",
+      "text": "曹霸画马三十年，人间又见神马乘黄。"
+    },
+    {
+      "step": 2,
+      "title": "九马神骏",
+      "text": "九马图上一敌万的骏马，如寒空烟雪。"
+    },
+    {
+      "step": 3,
+      "title": "忆昔盛况",
+      "text": "当年巡幸新丰宫，三万骏马筋骨与画相同。"
+    },
+    {
+      "step": 4,
+      "title": "陵前鸟呼",
+      "text": "天子一去不返，金粟堆前龙媒去尽鸟呼风。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "乘",
+      "reading": "shèng",
+      "reason": "“乘黄”是神马的名字，读 shèng。",
+      "standard": "不要读成 chéng"
+    },
+    {
+      "char": "騧",
+      "reading": "guā",
+      "reason": "“拳毛騧”是名马的名字，读 guā。"
+    },
+    {
+      "char": "蹴",
+      "reading": "cù",
+      "reason": "“蹴踏”是用蹄子踩踏，读 cù。"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1217
+}

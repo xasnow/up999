@@ -1,0 +1,124 @@
+{
+  "id": "tang-wantang-chentao-longxixing",
+  "slug": "longxixing",
+  "title": "陇西行",
+  "titlePinyin": "lǒng xī xíng",
+  "dynasty": "tangshi",
+  "era": "wantang",
+  "genre": "shi",
+  "form": "七言绝句",
+  "authorId": "chentao",
+  "gradeBand": "ext",
+  "tags": ["边塞", "七言绝句", "战争", "无定河"],
+  "difficulty": 3,
+  "writtenYear": 845,
+  "writtenLabel": "约公元 845 年（陈陶 43 岁，隐居前后，借乐府旧题陇西行写边塞征战之惨）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "可怜无定河边骨，犹是春闺梦里人。"
+  ],
+  "lines": [
+    {
+      "text": "誓扫匈奴不顾身，",
+      "pinyin": ["shì", "sǎo", "xiōng", "nú", "bù", "gù", "shēn"],
+      "translation": "将士们发誓要扫平敌寇，奋不顾身，",
+      "noteIds": ["n-xiongnu"]
+    },
+    {
+      "text": "五千貂锦丧胡尘。",
+      "pinyin": ["wǔ", "qiān", "diāo", "jǐn", "sàng", "hú", "chén"],
+      "translation": "五千名身穿貂锦的精兵，战死在胡地风沙中。",
+      "noteIds": ["n-diaojin", "n-huchen"]
+    },
+    {
+      "text": "可怜无定河边骨，",
+      "pinyin": ["kě", "lián", "wú", "dìng", "hé", "biān", "gǔ"],
+      "translation": "可怜那无定河边的累累白骨，",
+      "noteIds": ["n-wuding"]
+    },
+    {
+      "text": "犹是春闺梦里人。",
+      "pinyin": ["yóu", "shì", "chūn", "guī", "mèng", "lǐ", "rén"],
+      "translation": "还是妻子春闺梦里盼望的亲人啊。",
+      "noteIds": ["n-chungui"]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-xiongnu",
+      "word": "匈奴",
+      "pinyin": "xiōng nú",
+      "meaning": "古代北方游牧民族，诗中代指侵扰边境的敌人。"
+    },
+    {
+      "id": "n-diaojin",
+      "word": "貂锦",
+      "pinyin": "diāo jǐn",
+      "meaning": "貂裘和锦衣，代指装备精良的将士。"
+    },
+    {
+      "id": "n-huchen",
+      "word": "胡尘",
+      "pinyin": "hú chén",
+      "meaning": "北方胡地的战尘，指战死在边地。"
+    },
+    {
+      "id": "n-wuding",
+      "word": "无定河",
+      "pinyin": "wú dìng hé",
+      "meaning": "黄河支流，在今陕西北部，因河道多变而得名，唐时是边塞战场。"
+    },
+    {
+      "id": "n-chungui",
+      "word": "春闺",
+      "pinyin": "chūn guī",
+      "meaning": "女子的闺房，这里指阵亡将士家中盼夫归来的妻子。"
+    }
+  ],
+  "translation": "将士们发誓要扫平敌寇，奋不顾身，五千名身穿貂锦的精兵，战死在胡地风沙中。可怜那无定河边的累累白骨，还是妻子春闺梦里盼望的亲人啊。",
+  "appreciation": "前两句写出征：将士们不顾性命，五千精兵全部战死，写得豪壮又惨烈。后两句最惊人：河边早已是白骨，而在远方的家里，妻子还在梦里等着那个人回来。白骨与梦中人，一实一虚，一冷一暖，两句话放在一起，战争的残酷让人不忍细想。",
+  "background": "唐末边关战事不断，无数士兵战死沙场，家中妻子却始终蒙在鼓里，还在苦等亲人归来。陈陶借汉乐府旧题《陇西行》写唐代边塞的惨剧，把战场上的白骨与梦里的活人放在一起，成为唐诗中最沉痛的名句之一。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "誓师出征",
+      "text": "将士们发誓扫平敌寇，个个奋不顾身。"
+    },
+    {
+      "step": 2,
+      "title": "惨烈战殁",
+      "text": "五千名精装将士，全部战死在胡地风沙里。"
+    },
+    {
+      "step": 3,
+      "title": "河边白骨",
+      "text": "多年过去，无定河边只剩下累累白骨。"
+    },
+    {
+      "step": 4,
+      "title": "闺中梦人",
+      "text": "而远方的妻子，还在梦里等着他回家。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "丧",
+      "reading": "sàng",
+      "reason": "这里是“战死、葬送”的意思，读 sàng。"
+    },
+    {
+      "char": "闺",
+      "reading": "guī",
+      "reason": "“春闺”指女子的闺房，读 guī。"
+    },
+    {
+      "char": "陇",
+      "reading": "lǒng",
+      "reason": "“陇西”指陇山以西地区，读 lǒng。"
+    }
+  ],
+  "sources": ["《全唐诗》", "《唐诗三百首》"],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1037
+}

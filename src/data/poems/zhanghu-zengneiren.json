@@ -1,0 +1,159 @@
+{
+  "id": "tang-zhongtang-zhanghu-zengneiren",
+  "slug": "zhanghu-zengneiren",
+  "title": "赠内人",
+  "titlePinyin": "zèng nèi rén",
+  "dynasty": "tangshi",
+  "era": "zhongtang",
+  "genre": "shi",
+  "form": "七言绝句",
+  "authorId": "zhanghu",
+  "gradeBand": "ext",
+  "tags": [
+    "宫怨",
+    "七言绝句",
+    "月夜",
+    "灯影"
+  ],
+  "difficulty": 3,
+  "writtenYear": 824,
+  "writtenLabel": "约公元 824 年（张祜 39 岁，漫游期间留意宫女生活，作此诗相赠）",
+  "orderInAuthor": 2,
+  "famousLines": [
+    "斜拔玉钗灯影畔，剔开红焰救飞蛾。"
+  ],
+  "lines": [
+    {
+      "text": "禁门宫树月痕过，",
+      "pinyin": [
+        "jìn",
+        "mén",
+        "gōng",
+        "shù",
+        "yuè",
+        "hén",
+        "guò"
+      ],
+      "translation": "宫门紧闭，月光悄悄从宫树的枝头移过，",
+      "noteIds": [
+        "n-yuehen"
+      ]
+    },
+    {
+      "text": "媚眼惟看宿鹭窠。",
+      "pinyin": [
+        "mèi",
+        "yǎn",
+        "wéi",
+        "kàn",
+        "sù",
+        "lù",
+        "kē"
+      ],
+      "translation": "宫女美丽的眼睛只盯着白鹭夜宿的鸟窝看。",
+      "noteIds": [
+        "n-suluke"
+      ]
+    },
+    {
+      "text": "斜拔玉钗灯影畔，",
+      "pinyin": [
+        "xié",
+        "bá",
+        "yù",
+        "chāi",
+        "dēng",
+        "yǐng",
+        "pàn"
+      ],
+      "translation": "她斜斜地拔下头上的玉钗，在灯影旁，",
+      "noteIds": []
+    },
+    {
+      "text": "剔开红焰救飞蛾。",
+      "pinyin": [
+        "tī",
+        "kāi",
+        "hóng",
+        "yàn",
+        "jiù",
+        "fēi",
+        "é"
+      ],
+      "translation": "轻轻剔开火苗，救出扑向灯光的飞蛾。",
+      "noteIds": [
+        "n-hongyan"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-yuehen",
+      "word": "月痕",
+      "pinyin": "yuè hén",
+      "meaning": "月光移动留下的痕迹，指月影。"
+    },
+    {
+      "id": "n-suluke",
+      "word": "宿鹭窠",
+      "pinyin": "sù lù kē",
+      "meaning": "白鹭夜里栖息的鸟窝。窠，鸟窝。"
+    },
+    {
+      "id": "n-hongyan",
+      "word": "红焰",
+      "pinyin": "hóng yàn",
+      "meaning": "灯芯上燃烧的红色火苗。"
+    }
+  ],
+  "translation": "宫门紧闭，月光悄悄从宫树的枝头移过，宫女美丽的眼睛只盯着白鹭夜宿的鸟窝看。她斜斜地拔下头上的玉钗，在灯影旁轻轻剔开火苗，救出扑向灯光的飞蛾。",
+  "appreciation": "这首诗写一位宫女的夜晚，却一个“怨”字都不提。月光从禁宫的树上无声地移过，她呆呆望着树上的鹭窝——鸟儿有家可以回去，人却出不了宫门。深夜里她拔下玉钗剔开灯焰，救出扑火的飞蛾。两个小小的动作，藏着说不出的寂寞与善良，比大声抱怨更让人心疼。",
+  "background": "唐代宫廷里有大量年轻女子做“内人”，供宫廷享乐差遣，一生大多困在宫中。张祜把她们的苦闷看在眼里，写下这首《赠内人》：不写哭泣，只写看鹭窝、救飞蛾两个细节，宫女心里的孤单就全出来了。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "月过禁门",
+      "text": "夜深了，月光悄悄越过宫门，掠过宫树。"
+    },
+    {
+      "step": 2,
+      "title": "凝望鹭巢",
+      "text": "宫女睁着美丽的眼睛，只望着白鹭夜宿的窝。"
+    },
+    {
+      "step": 3,
+      "title": "斜拔玉钗",
+      "text": "她斜斜地拔下头上的玉钗，走到灯影旁。"
+    },
+    {
+      "step": 4,
+      "title": "剔焰救蛾",
+      "text": "轻轻剔开红火苗，把扑灯的飞蛾救了出来。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "宿",
+      "reading": "sù",
+      "reason": "“宿鹭”指夜里栖息的白鹭，读 sù。",
+      "standard": "不要读成 xiǔ"
+    },
+    {
+      "char": "窠",
+      "reading": "kē",
+      "reason": "“宿鹭窠”的“窠”指鸟窝，读 kē。"
+    },
+    {
+      "char": "剔",
+      "reading": "tī",
+      "reason": "“剔开”是挑开、拨开的意思，读 tī。"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1034
+}

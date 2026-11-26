@@ -1,0 +1,146 @@
+{
+  "id": "tang-wantang-zhengtian-maweipo",
+  "slug": "maweipo",
+  "title": "马嵬坡",
+  "titlePinyin": "mǎ wéi pō",
+  "dynasty": "tangshi",
+  "era": "wantang",
+  "genre": "shi",
+  "form": "七言绝句",
+  "authorId": "zhengtian",
+  "gradeBand": "ext",
+  "tags": [
+    "怀古",
+    "七言绝句",
+    "马嵬坡",
+    "历史"
+  ],
+  "difficulty": 3,
+  "writtenYear": 870,
+  "writtenLabel": "创作年份已难确考，约在公元 870 年前后（郑畋 48 岁左右，任官长安时感怀玄宗旧事）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "终是圣明天子事，景阳宫井又何人。"
+  ],
+  "lines": [
+    {
+      "text": "玄宗回马杨妃死，",
+      "pinyin": [
+        "xuán",
+        "zōng",
+        "huí",
+        "mǎ",
+        "yáng",
+        "fēi",
+        "sǐ"
+      ],
+      "translation": "玄宗的车驾在马嵬坡停下回望，杨贵妃在这里死去。",
+      "noteIds": [
+        "n-huima"
+      ]
+    },
+    {
+      "text": "云雨难忘日月新，",
+      "pinyin": [
+        "yún",
+        "yǔ",
+        "nán",
+        "wàng",
+        "rì",
+        "yuè",
+        "xīn"
+      ],
+      "translation": "往日的恩爱难以忘怀，大唐的岁月翻开了新的一页。",
+      "noteIds": []
+    },
+    {
+      "text": "终是圣明天子事，",
+      "pinyin": [
+        "zhōng",
+        "shì",
+        "shèng",
+        "míng",
+        "tiān",
+        "zǐ",
+        "shì"
+      ],
+      "translation": "这总算得上是圣明天子的决断吧，",
+      "noteIds": []
+    },
+    {
+      "text": "景阳宫井又何人。",
+      "pinyin": [
+        "jǐng",
+        "yáng",
+        "gōng",
+        "jǐng",
+        "yòu",
+        "hé",
+        "rén"
+      ],
+      "translation": "可再看看那景阳宫井，当年躲进去的又是什么人呢？",
+      "noteIds": [
+        "n-jingyanggongjing"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-huima",
+      "word": "回马",
+      "pinyin": "huí mǎ",
+      "meaning": "指玄宗的车驾在马嵬坡停驻回顾；安史之乱中玄宗逃往蜀地，途经马嵬坡发生兵变。"
+    },
+    {
+      "id": "n-jingyanggongjing",
+      "word": "景阳宫井",
+      "pinyin": "jǐng yáng gōng jǐng",
+      "meaning": "陈后主躲藏的水井；隋军攻进金陵时，他带着宠妃躲进井中，被隋兵俘获。"
+    }
+  ],
+  "translation": "玄宗的车驾在马嵬坡停下回望，杨贵妃在这里死去。往日的恩爱难以忘怀，大唐的岁月翻开了新的一页。这总算得上是圣明天子的决断吧？可再看看那景阳宫井，当年躲进去的又是什么人呢？",
+  "appreciation": "这首诗把两个皇帝放在了一起。玄宗在马嵬坡舍弃了心爱的贵妃，换来国家的转危为安；陈后主却带着宠妃躲进井里，成了亡国的笑柄。“终是圣明天子事”说得很有分寸，既是体谅，也是轻轻的提醒——这样的“圣明”，是用失去心爱之人的代价换来的。四句之间褒贬都有，含蓄得让读者自己回味。",
+  "background": "安史之乱中，唐玄宗逃往蜀地，行至马嵬坡，将士哗变，逼他赐死了杨贵妃。多年之后，诗人经过这里，回想这段往事写下此诗。作诗年份已难确考，大约在他中年为官的时期。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "车驾回望",
+      "text": "玄宗的车马在马嵬坡停住回望。"
+    },
+    {
+      "step": 2,
+      "title": "贵妃身死",
+      "text": "兵变之中，杨贵妃被赐死。"
+    },
+    {
+      "step": 3,
+      "title": "时移世换",
+      "text": "恩情难忘，大唐的日子重新开始。"
+    },
+    {
+      "step": 4,
+      "title": "井中旧事",
+      "text": "想起景阳宫井里的陈后主，令人深思。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "嵬",
+      "reading": "wéi",
+      "reason": "“马嵬”是地名，嵬指高耸不平的山，读 wéi。",
+      "standard": "不要读成 guī"
+    },
+    {
+      "char": "妃",
+      "reading": "fēi",
+      "reason": "“杨妃”即杨贵妃，妃读 fēi。"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1042
+}

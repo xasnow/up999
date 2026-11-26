@@ -1,0 +1,178 @@
+{
+  "id": "tang-shengtang-wangwei-songbie-xiama",
+  "slug": "songbie-xiama",
+  "title": "送别",
+  "titlePinyin": "sòng bié",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "五言古诗",
+  "authorId": "wangwei",
+  "gradeBand": "ext",
+  "tags": [
+    "送别",
+    "五言古诗",
+    "白云",
+    "归隐"
+  ],
+  "difficulty": 3,
+  "writtenYear": 741,
+  "writtenLabel": "约公元 741 年（王维 40 岁前后，送友人归隐终南山）",
+  "orderInAuthor": 2,
+  "famousLines": [
+    "但去莫复问，白云无尽时。"
+  ],
+  "lines": [
+    {
+      "text": "下马饮君酒，",
+      "pinyin": [
+        "xià",
+        "mǎ",
+        "yìn",
+        "jūn",
+        "jiǔ"
+      ],
+      "translation": "我下马来请你喝一杯酒，",
+      "noteIds": [
+        "n-yin"
+      ]
+    },
+    {
+      "text": "问君何所之。",
+      "pinyin": [
+        "wèn",
+        "jūn",
+        "hé",
+        "suǒ",
+        "zhī"
+      ],
+      "translation": "问你要到哪里去？",
+      "noteIds": [
+        "n-zhi"
+      ]
+    },
+    {
+      "text": "君言不得意，",
+      "pinyin": [
+        "jūn",
+        "yán",
+        "bù",
+        "dé",
+        "yì"
+      ],
+      "translation": "你说因为不得意，",
+      "noteIds": []
+    },
+    {
+      "text": "归卧南山陲。",
+      "pinyin": [
+        "guī",
+        "wò",
+        "nán",
+        "shān",
+        "chuí"
+      ],
+      "translation": "要回去隐居在终南山的边上。",
+      "noteIds": [
+        "n-chui"
+      ]
+    },
+    {
+      "text": "但去莫复问，",
+      "pinyin": [
+        "dàn",
+        "qù",
+        "mò",
+        "fù",
+        "wèn"
+      ],
+      "translation": "只管去吧，我不再多问，",
+      "noteIds": [
+        "n-dan"
+      ]
+    },
+    {
+      "text": "白云无尽时。",
+      "pinyin": [
+        "bái",
+        "yún",
+        "wú",
+        "jìn",
+        "shí"
+      ],
+      "translation": "山中的白云悠悠，永远没有穷尽的时候。",
+      "noteIds": []
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-yin",
+      "word": "饮",
+      "pinyin": "yìn",
+      "meaning": "请人喝酒，这里是让朋友喝酒的意思。"
+    },
+    {
+      "id": "n-zhi",
+      "word": "之",
+      "pinyin": "zhī",
+      "meaning": "往、去。何所之，就是到哪里去。"
+    },
+    {
+      "id": "n-chui",
+      "word": "陲",
+      "pinyin": "chuí",
+      "meaning": "边缘、边界。南山陲就是终南山边。"
+    },
+    {
+      "id": "n-dan",
+      "word": "但",
+      "pinyin": "dàn",
+      "meaning": "只管、尽管。"
+    }
+  ],
+  "translation": "我下马来请你喝一杯酒，问你要到哪里去？你说因为不得意，要回去隐居在终南山的边上。只管去吧，我不再多问，山中的白云悠悠，永远没有穷尽的时候。",
+  "appreciation": "这首送别诗只有六句，却写得很深。诗人下马设酒，只问了一句去处；听说朋友不得意要归隐，便不再追问失意的缘故，只说“白云无尽时”。白云自由自在、悠然无尽，既是安慰朋友的话，也是诗人自己向往的生活。不问，是最体贴的安慰；白云，是最辽阔的祝福。",
+  "background": "王维在长安做官时，一位朋友在仕途上不得意，打算回终南山隐居。临别时王维下马设酒相送，写下这首诗。诗里没有一句挽留，只有“白云无尽时”的宽慰，也藏着他自己想摆脱官场烦恼的心事。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "下马设酒",
+      "text": "诗人停下马来，请朋友喝一杯送行的酒。"
+    },
+    {
+      "step": 2,
+      "title": "细问去处",
+      "text": "问朋友要去哪里，朋友说不顺心、不得意。"
+    },
+    {
+      "step": 3,
+      "title": "归卧南山",
+      "text": "朋友要回终南山边，去过隐居的日子了。"
+    },
+    {
+      "step": 4,
+      "title": "白云无尽",
+      "text": "诗人不再多问，只愿悠悠白云伴朋友无尽。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "饮",
+      "reading": "yìn",
+      "reason": "“饮君酒”是请你喝酒，“饮”在这里是请人喝的意思，读 yìn。",
+      "standard": "不要读成 yǐn"
+    },
+    {
+      "char": "陲",
+      "reading": "chuí",
+      "reason": "“陲”是边缘的意思，“南山陲”就是终南山边。"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1171
+}

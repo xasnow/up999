@@ -1,0 +1,208 @@
+{
+  "id": "tang-zhongtang-liuyuxi-shuxianzimiao",
+  "slug": "shuxianzimiao",
+  "title": "蜀先主庙",
+  "titlePinyin": "shǔ xiān zhǔ miào",
+  "dynasty": "tangshi",
+  "era": "zhongtang",
+  "genre": "shi",
+  "form": "五言律诗",
+  "authorId": "liuyuxi",
+  "gradeBand": "ext",
+  "tags": [
+    "怀古",
+    "五言律诗",
+    "英雄",
+    "历史"
+  ],
+  "difficulty": 3,
+  "writtenYear": 823,
+  "writtenLabel": "约公元 823 年（刘禹锡 52 岁，任夔州刺史，拜谒先主刘备庙）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "天地英雄气，千秋尚凛然。"
+  ],
+  "lines": [
+    {
+      "text": "天地英雄气，",
+      "pinyin": [
+        "tiān",
+        "dì",
+        "yīng",
+        "xióng",
+        "qì"
+      ],
+      "translation": "刘备的英雄之气充满天地，",
+      "noteIds": []
+    },
+    {
+      "text": "千秋尚凛然。",
+      "pinyin": [
+        "qiān",
+        "qiū",
+        "shàng",
+        "lǐn",
+        "rán"
+      ],
+      "translation": "千百年后依然令人敬畏。",
+      "noteIds": [
+        "n-linran"
+      ]
+    },
+    {
+      "text": "势分三足鼎，",
+      "pinyin": [
+        "shì",
+        "fēn",
+        "sān",
+        "zú",
+        "dǐng"
+      ],
+      "translation": "当年他三分天下，撑起鼎立的三足，",
+      "noteIds": []
+    },
+    {
+      "text": "业复五铢钱。",
+      "pinyin": [
+        "yè",
+        "fù",
+        "wǔ",
+        "zhū",
+        "qián"
+      ],
+      "translation": "一心恢复汉家基业，就像重新铸出五铢钱。",
+      "noteIds": [
+        "n-zhu"
+      ]
+    },
+    {
+      "text": "得相能开国，",
+      "pinyin": [
+        "dé",
+        "xiàng",
+        "néng",
+        "kāi",
+        "guó"
+      ],
+      "translation": "得到好丞相诸葛亮，就能开创国家，",
+      "noteIds": []
+    },
+    {
+      "text": "生儿不象贤。",
+      "pinyin": [
+        "shēng",
+        "ér",
+        "bù",
+        "xiàng",
+        "xián"
+      ],
+      "translation": "生下的儿子却不像父亲那样贤明。",
+      "noteIds": [
+        "n-xiangxian"
+      ]
+    },
+    {
+      "text": "凄凉蜀故伎，",
+      "pinyin": [
+        "qī",
+        "liáng",
+        "shǔ",
+        "gù",
+        "jì"
+      ],
+      "translation": "凄凉的是蜀国的旧日歌舞艺人，",
+      "noteIds": [
+        "n-ji"
+      ]
+    },
+    {
+      "text": "来舞魏宫前。",
+      "pinyin": [
+        "lái",
+        "wǔ",
+        "wèi",
+        "gōng",
+        "qián"
+      ],
+      "translation": "竟跑到魏国的宫殿前去跳舞。",
+      "noteIds": []
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-linran",
+      "word": "凛然",
+      "pinyin": "lǐn rán",
+      "meaning": "严肃而令人敬畏的样子。"
+    },
+    {
+      "id": "n-zhu",
+      "word": "铢",
+      "pinyin": "zhū",
+      "meaning": "古代很小的重量单位；五铢钱是汉朝通行的铜钱，代表汉家基业。"
+    },
+    {
+      "id": "n-xiangxian",
+      "word": "象贤",
+      "pinyin": "xiàng xián",
+      "meaning": "效法先人的贤德；这里说后主刘禅不像父亲那样贤明。"
+    },
+    {
+      "id": "n-ji",
+      "word": "伎",
+      "pinyin": "jì",
+      "meaning": "歌舞艺人。"
+    }
+  ],
+  "translation": "刘备的英雄之气充满天地，千百年后依然令人敬畏。当年他三分天下，撑起鼎立的三足；一心恢复汉家基业，就像重新铸出五铢钱。得到好丞相诸葛亮，就能开创国家；生下的儿子却不像父亲那样贤明。凄凉的是蜀国的旧日歌舞艺人，竟跑到魏国的宫殿前去跳舞。",
+  "appreciation": "开头五个字“天地英雄气”先声夺人，写尽刘备的豪气。中间四句一正一反：得相开国是成功，生儿不贤是失败，对比鲜明。结尾最扎心——蜀国的歌舞艺人竟在魏宫起舞，亡国的滋味全在这一个画面里。全诗有赞美、有惋惜、有警醒，短短四十字，像一篇浓缩的史论。",
+  "background": "蜀先主庙在夔州，祭祀三国时蜀国的开国之主刘备。刘禹锡任夔州刺史时前去拜谒，想到刘备开创基业、儿子刘禅却亡国降魏的往事，写下这首诗，时间约在公元823年。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "庙前怀古",
+      "text": "刘禹锡来到先主庙，仰望刘备塑像。"
+    },
+    {
+      "step": 2,
+      "title": "鼎足立国",
+      "text": "想刘备三分天下，恢复汉家基业。"
+    },
+    {
+      "step": 3,
+      "title": "后主昏庸",
+      "text": "可惜儿子刘禅不像父亲那样贤明。"
+    },
+    {
+      "step": 4,
+      "title": "亡国遗恨",
+      "text": "蜀地艺人竟在魏宫歌舞，令人悲叹。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "铢",
+      "reading": "zhū",
+      "reason": "“五铢钱”是汉代铜钱，铢是很小的重量单位，读 zhū。"
+    },
+    {
+      "char": "伎",
+      "reading": "jì",
+      "reason": "“故伎”指旧日的歌舞艺人，读 jì。",
+      "standard": "不要读成 zhī"
+    },
+    {
+      "char": "凛",
+      "reading": "lǐn",
+      "reason": "“凛然”是令人敬畏的样子，读 lǐn。",
+      "standard": "不要读成 lǐng"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1111
+}

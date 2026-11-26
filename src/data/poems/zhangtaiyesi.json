@@ -1,0 +1,155 @@
+{
+  "id": "tang-wantang-weizhuang-zhangtaiyesi",
+  "slug": "zhangtaiyesi",
+  "title": "章台夜思",
+  "titlePinyin": "zhāng tái yè sī",
+  "dynasty": "tangshi",
+  "era": "wantang",
+  "genre": "shi",
+  "form": "五言律诗",
+  "authorId": "weizhuang",
+  "gradeBand": "ext",
+  "tags": ["思乡", "五言律诗", "秋天", "孤灯"],
+  "difficulty": 3,
+  "writtenYear": 891,
+  "writtenLabel": "约公元 891 年（韦庄 56 岁，客居楚地，秋夜闻角声而思念故乡故人）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "孤灯闻楚角，残月下章台。",
+    "乡书不可寄，秋雁又南回。"
+  ],
+  "lines": [
+    {
+      "text": "清瑟怨遥夜，",
+      "pinyin": ["qīng", "sè", "yuàn", "yáo", "yè"],
+      "translation": "清冷的瑟声，在漫漫长夜里哀怨鸣响，",
+      "noteIds": ["n-se"]
+    },
+    {
+      "text": "绕弦风雨哀。",
+      "pinyin": ["rào", "xián", "fēng", "yǔ", "āi"],
+      "translation": "绕着琴弦，像风雨声一样悲伤。",
+      "noteIds": []
+    },
+    {
+      "text": "孤灯闻楚角，",
+      "pinyin": ["gū", "dēng", "wén", "chǔ", "jiǎo"],
+      "translation": "对着孤灯，听到楚地的号角声，",
+      "noteIds": ["n-chujiao"]
+    },
+    {
+      "text": "残月下章台。",
+      "pinyin": ["cán", "yuè", "xià", "zhāng", "tái"],
+      "translation": "一弯残月正落向章台。",
+      "noteIds": ["n-zhangtai"]
+    },
+    {
+      "text": "芳草已云暮，",
+      "pinyin": ["fāng", "cǎo", "yǐ", "yún", "mù"],
+      "translation": "芳草已经凋残，一年又到岁暮，",
+      "noteIds": ["n-yunmu"]
+    },
+    {
+      "text": "故人殊未来。",
+      "pinyin": ["gù", "rén", "shū", "wèi", "lái"],
+      "translation": "老朋友却一直没有来。",
+      "noteIds": ["n-shu"]
+    },
+    {
+      "text": "乡书不可寄，",
+      "pinyin": ["xiāng", "shū", "bù", "kě", "jì"],
+      "translation": "想写家信，却没法寄回故乡，",
+      "noteIds": ["n-xiangshu"]
+    },
+    {
+      "text": "秋雁又南回。",
+      "pinyin": ["qiū", "yàn", "yòu", "nán", "huí"],
+      "translation": "秋雁又往南飞回来了。",
+      "noteIds": []
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-se",
+      "word": "瑟",
+      "pinyin": "sè",
+      "meaning": "古代拨弦乐器，声音清幽哀婉。"
+    },
+    {
+      "id": "n-chujiao",
+      "word": "楚角",
+      "pinyin": "chǔ jiǎo",
+      "meaning": "楚地传来的号角声，指诗人客居的南方。"
+    },
+    {
+      "id": "n-zhangtai",
+      "word": "章台",
+      "pinyin": "zhāng tái",
+      "meaning": "即章华台，春秋时楚国离宫，故址在今湖北，诗中代指客居之地。"
+    },
+    {
+      "id": "n-yunmu",
+      "word": "云暮",
+      "pinyin": "yún mù",
+      "meaning": "像到了岁暮一样，指芳草凋残、时节已晚。"
+    },
+    {
+      "id": "n-shu",
+      "word": "殊",
+      "pinyin": "shū",
+      "meaning": "还、仍然。"
+    },
+    {
+      "id": "n-xiangshu",
+      "word": "乡书",
+      "pinyin": "xiāng shū",
+      "meaning": "寄回家乡的书信。"
+    }
+  ],
+  "translation": "清冷的瑟声，在漫漫长夜里哀怨鸣响，绕着琴弦，像风雨声一样悲伤。对着孤灯，听到楚地的号角声，一弯残月正落向章台。芳草已经凋残，一年又到岁暮，老朋友却一直没有来。想写家信，却没法寄回故乡，秋雁又往南飞回来了。",
+  "appreciation": "前四句写夜晚的听觉和眼见：瑟声、角声、孤灯、残月，一样比一样冷清。后四句转向心事：芳草枯了，故人不来，家信寄不出，只有大雁按时南归。雁能回家，人却回不了家，这一对比最扎心。全诗一景一情层层压下来，把漂泊人的孤独写得又静又深。",
+  "background": "韦庄半生漂泊，晚年客居南方楚地。时局动乱，道路阻隔，家乡长安音信难通。一个秋夜，他在客舍听见瑟声和远处的号角，看见残月西沉，思乡念友之情涌上心头，写下这首五律。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "夜闻瑟声",
+      "text": "长夜里，客舍传来清冷哀怨的瑟声。"
+    },
+    {
+      "step": 2,
+      "title": "孤灯残月",
+      "text": "诗人对着一盏孤灯，残月正落向章台。"
+    },
+    {
+      "step": 3,
+      "title": "故人不来",
+      "text": "芳草凋残，一年将尽，老朋友还没来。"
+    },
+    {
+      "step": 4,
+      "title": "家书难寄",
+      "text": "想寄家信却寄不出去，只见秋雁又向南飞回。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "瑟",
+      "reading": "sè",
+      "reason": "古代一种弦乐器，读 sè。"
+    },
+    {
+      "char": "角",
+      "reading": "jiǎo",
+      "reason": "号角的“角”读 jiǎo。"
+    },
+    {
+      "char": "殊",
+      "reading": "shū",
+      "reason": "这里是“还、仍然”的意思，读 shū。"
+    }
+  ],
+  "sources": ["《全唐诗》", "《唐诗三百首》"],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1091
+}

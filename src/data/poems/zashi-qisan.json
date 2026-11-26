@@ -1,0 +1,140 @@
+{
+  "id": "tang-chutang-shenquanqi-zashi-qisan",
+  "slug": "zashi-qisan",
+  "title": "杂诗三首·其三",
+  "titlePinyin": "zá shī sān shǒu qí sān",
+  "dynasty": "tangshi",
+  "era": "chutang",
+  "genre": "shi",
+  "form": "五言律诗",
+  "authorId": "shenquanqi",
+  "gradeBand": "ext",
+  "tags": ["思念", "五言律诗", "月夜", "边塞"],
+  "difficulty": 3,
+  "writtenYear": 697,
+  "writtenLabel": "约公元 697 年（沈佺期 42 岁左右，东北边境战事连年，借思妇口吻写征戍之苦）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "可怜闺里月，长在汉家营。"
+  ],
+  "lines": [
+    {
+      "text": "闻道黄龙戍，",
+      "pinyin": ["wén", "dào", "huáng", "lóng", "shù"],
+      "translation": "听说黄龙戍一带，",
+      "noteIds": ["n-huanglongshu"]
+    },
+    {
+      "text": "频年不解兵。",
+      "pinyin": ["pín", "nián", "bù", "jiě", "bīng"],
+      "translation": "连年打仗，一直没有休战。",
+      "noteIds": ["n-jiebing"]
+    },
+    {
+      "text": "可怜闺里月，",
+      "pinyin": ["kě", "lián", "guī", "lǐ", "yuè"],
+      "translation": "可怜闺中妻子望着的那轮明月，",
+      "noteIds": ["n-gui"]
+    },
+    {
+      "text": "长在汉家营。",
+      "pinyin": ["cháng", "zài", "hàn", "jiā", "yíng"],
+      "translation": "也长久照在汉家军营里。",
+      "noteIds": []
+    },
+    {
+      "text": "少妇今春意，",
+      "pinyin": ["shào", "fù", "jīn", "chūn", "yì"],
+      "translation": "少妇今年春天的心意，",
+      "noteIds": []
+    },
+    {
+      "text": "良人昨夜情。",
+      "pinyin": ["liáng", "rén", "zuó", "yè", "qíng"],
+      "translation": "连着丈夫昨夜营中的情怀。",
+      "noteIds": ["n-liangren"]
+    },
+    {
+      "text": "谁能将旗鼓，",
+      "pinyin": ["shuí", "néng", "jiàng", "qí", "gǔ"],
+      "translation": "谁能统率军队、挥旗击鼓，",
+      "noteIds": ["n-jiangqigu"]
+    },
+    {
+      "text": "一为取龙城。",
+      "pinyin": ["yí", "wèi", "qǔ", "lóng", "chéng"],
+      "translation": "一举拿下龙城，让征人早日回家呢？",
+      "noteIds": ["n-longcheng"]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-huanglongshu",
+      "word": "黄龙戍",
+      "pinyin": "huáng lóng shù",
+      "meaning": "唐代东北边境的要塞，在今辽宁一带。"
+    },
+    {
+      "id": "n-jiebing",
+      "word": "解兵",
+      "pinyin": "jiě bīng",
+      "meaning": "休战、撤兵。"
+    },
+    {
+      "id": "n-gui",
+      "word": "闺",
+      "pinyin": "guī",
+      "meaning": "女子居住的内室。"
+    },
+    {
+      "id": "n-liangren",
+      "word": "良人",
+      "pinyin": "liáng rén",
+      "meaning": "古代妻子对丈夫的称呼。"
+    },
+    {
+      "id": "n-jiangqigu",
+      "word": "将旗鼓",
+      "pinyin": "jiàng qí gǔ",
+      "meaning": "统率军队，旗鼓代指军队。"
+    },
+    {
+      "id": "n-longcheng",
+      "word": "龙城",
+      "pinyin": "lóng chéng",
+      "meaning": "秦汉时匈奴祭天的地方，这里代指敌方要地。"
+    }
+  ],
+  "translation": "听说黄龙戍一带，连年打仗，一直没有休战。可怜闺中妻子望着的那轮明月，也长久照在汉家军营里。少妇今年春天的心意，连着丈夫昨夜营中的情怀。谁能统率军队、挥旗击鼓，一举拿下龙城，让征人早日回家呢？",
+  "appreciation": "这首诗把两地相思写在同一轮月亮上：闺里的月，也是营中的月，月亮成了妻子和丈夫之间唯一的连线。“今春意”对“昨夜情”，两地心意遥遥相对。结尾把儿女之情变成一举取龙城的期望，闺怨里透出盼望和平的心愿，正是它动人的地方。",
+  "background": "约公元697年前后，东北边境战事连年不断，征人久戍不归。沈佺期借一位闺中少妇的口气写《杂诗》，说她在月夜里想念远在军营的丈夫，盼着有人带兵打胜仗，让亲人回家团聚。",
+  "storyline": [
+    { "step": 1, "title": "连年征战", "text": "听说黄龙戍连年战火，征人一直不能回家。" },
+    { "step": 2, "title": "闺中望月", "text": "妻子在闺中望月，明月也照着远方的军营。" },
+    { "step": 3, "title": "两地相思", "text": "少妇今春的心意，连着丈夫昨夜的思念。" },
+    { "step": 4, "title": "盼取龙城", "text": "盼有良将统兵取胜，一举拿下龙城罢战还乡。" }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "戍",
+      "reading": "shù",
+      "reason": "“黄龙戍”的“戍”指驻守的要塞，读 shù。",
+      "standard": "不要读成 xū"
+    },
+    {
+      "char": "将",
+      "reading": "jiàng",
+      "reason": "“将旗鼓”的“将”是统率的意思，读 jiàng。",
+      "standard": "不要读成 jiāng"
+    },
+    {
+      "char": "闺",
+      "reading": "guī",
+      "reason": "“闺里”指女子的内室，读 guī。"
+    }
+  ],
+  "sources": ["《全唐诗》", "《唐诗三百首》"],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1082
+}

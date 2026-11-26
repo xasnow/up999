@@ -1,0 +1,154 @@
+{
+  "id": "tang-wantang-zhangqiao-shubianshi",
+  "slug": "shubianshi",
+  "title": "书边事",
+  "titlePinyin": "shū biān shì",
+  "dynasty": "tangshi",
+  "era": "wantang",
+  "genre": "shi",
+  "form": "五言律诗",
+  "authorId": "zhangqiao",
+  "gradeBand": "ext",
+  "difficulty": 3,
+  "tags": ["边塞", "五言律诗", "青冢", "号角"],
+  "writtenYear": 851,
+  "writtenLabel": "约公元 851 年（唐宣宗大中年间，河湟归唐、边地安定）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "春风对青冢，白日落梁州。"
+  ],
+  "lines": [
+    {
+      "text": "调角断清秋，",
+      "pinyin": ["tiáo", "jiǎo", "duàn", "qīng", "qiū"],
+      "translation": "号角声停了，清秋的边地一片安宁，",
+      "noteIds": ["n-tiaojiao"]
+    },
+    {
+      "text": "征人倚戍楼。",
+      "pinyin": ["zhēng", "rén", "yǐ", "shù", "lóu"],
+      "translation": "士兵们悠闲地靠着戍楼。",
+      "noteIds": ["n-shulou"]
+    },
+    {
+      "text": "春风对青冢，",
+      "pinyin": ["chūn", "fēng", "duì", "qīng", "zhǒng"],
+      "translation": "仿佛春风正对着昭君的青冢吹拂，",
+      "noteIds": ["n-qingzhong"]
+    },
+    {
+      "text": "白日落梁州。",
+      "pinyin": ["bái", "rì", "luò", "liáng", "zhōu"],
+      "translation": "太阳缓缓落向梁州。",
+      "noteIds": ["n-liangzhou"]
+    },
+    {
+      "text": "大汉无兵阻，",
+      "pinyin": ["dà", "hàn", "wú", "bīng", "zǔ"],
+      "translation": "大唐境内再没有兵戈阻拦，",
+      "noteIds": []
+    },
+    {
+      "text": "穷边有客游。",
+      "pinyin": ["qióng", "biān", "yǒu", "kè", "yóu"],
+      "translation": "极远的边地上也有游人往来。",
+      "noteIds": []
+    },
+    {
+      "text": "蕃情似此水，",
+      "pinyin": ["fān", "qíng", "sì", "cǐ", "shuǐ"],
+      "translation": "边地各族人民的心就像眼前的河水，",
+      "noteIds": ["n-fanqing"]
+    },
+    {
+      "text": "长愿向南流。",
+      "pinyin": ["cháng", "yuàn", "xiàng", "nán", "liú"],
+      "translation": "但愿长长久久地向南流去。",
+      "noteIds": []
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-tiaojiao",
+      "word": "调角",
+      "pinyin": "tiáo jiǎo",
+      "meaning": "吹奏号角。断，停止——角声停歇，边地一片清秋的宁静。"
+    },
+    {
+      "id": "n-shulou",
+      "word": "戍楼",
+      "pinyin": "shù lóu",
+      "meaning": "边防驻军瞭望的高楼。戍，驻守边防。"
+    },
+    {
+      "id": "n-qingzhong",
+      "word": "青冢",
+      "pinyin": "qīng zhǒng",
+      "meaning": "王昭君的墓，在今内蒙古呼和浩特。传说塞外草多枯黄，只有昭君墓上的草色常青。"
+    },
+    {
+      "id": "n-liangzhou",
+      "word": "梁州",
+      "pinyin": "liáng zhōu",
+      "meaning": "一般指“凉州”，在今甘肃武威一带，这里泛指西北边地。"
+    },
+    {
+      "id": "n-fanqing",
+      "word": "蕃情",
+      "pinyin": "fān qíng",
+      "meaning": "边地各族人民的心情。蕃，指当时的吐蕃等边地民族。"
+    }
+  ],
+  "translation": "号角声停了，清秋的边地一片安宁，士兵们悠闲地靠着戍楼。仿佛春风正对着昭君的青冢吹拂，太阳缓缓落向梁州。大唐境内再没有兵戈阻拦，极远的边地上也有游人往来。边地各族人民的心就像眼前的河水，但愿长长久久地向南流去。",
+  "appreciation": "晚唐边塞诗多写刀光剑影，这一首偏偏写和平。角声停了，征人倚楼，青冢春意、梁州落日，画面舒展安详。“无兵阻”“有客游”两句对照，写出边关通畅、民生安定的大气象。结尾把边民之心比作向南流的河水，一愿千年，把民族和睦的期望说得深婉动人，是晚唐边塞诗中的难得清音。",
+  "background": "唐宣宗大中年间，吐蕃势力衰落，河湟之地重新归唐，西北边境出现了少有的安定局面。张乔约在此时游历边地，见角声停歇、征人倚楼、游人往来，写下这首诗，寄托各族人民盼望安宁的心愿。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "角停秋静",
+      "text": "清秋时节号角声停，边地一片安宁，士兵倚着戍楼远望。"
+    },
+    {
+      "step": 2,
+      "title": "青冢落日",
+      "text": "春风像吹拂着昭君青冢，白日缓缓落向凉州。"
+    },
+    {
+      "step": 3,
+      "title": "边地客游",
+      "text": "境内再没有兵戈阻拦，连极远的边地也有游人往来。"
+    },
+    {
+      "step": 4,
+      "title": "水向南流",
+      "text": "边民的心愿像河水，盼着长长久久向南流去。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "调角",
+      "reading": "tiáo jiǎo",
+      "reason": "“调”指吹奏乐曲，读 tiáo；角指号角。"
+      ,
+      "standard": "“调”不要读成 diào"
+    },
+    {
+      "char": "戍楼",
+      "reading": "shù lóu",
+      "reason": "戍指驻守边防。"
+      ,
+      "standard": "注意与“戌”（xū）、“戊”（wù）区分"
+    },
+    {
+      "char": "青冢",
+      "reading": "qīng zhǒng",
+      "reason": "冢指坟墓，青冢即王昭君墓。"
+      ,
+      "standard": "不要读成 zhòng"
+    }
+  ],
+  "sources": ["《全唐诗》", "《唐诗三百首》"],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1100
+}

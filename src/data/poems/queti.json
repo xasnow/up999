@@ -1,0 +1,139 @@
+{
+  "id": "tang-shengtang-liushenxu-queti",
+  "slug": "queti",
+  "title": "阙题",
+  "titlePinyin": "quē tí",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "五言律诗",
+  "authorId": "liushenxu",
+  "gradeBand": "ext",
+  "tags": ["山水", "五言律诗", "春溪", "落花"],
+  "difficulty": 3,
+  "writtenYear": 732,
+  "writtenLabel": "约公元 732 年（刘昚虚约 18 岁，写洪州山中隐居读书的生活）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "时有落花至，远随流水香。"
+  ],
+  "lines": [
+    {
+      "text": "道由白云尽，",
+      "pinyin": ["dào", "yóu", "bái", "yún", "jìn"],
+      "translation": "山路一直伸进白云深处，到那里就算到了尽头。",
+      "noteIds": ["n-you"]
+    },
+    {
+      "text": "春与青溪长。",
+      "pinyin": ["chūn", "yǔ", "qīng", "xī", "cháng"],
+      "translation": "春天和青青的溪水一样长。",
+      "noteIds": []
+    },
+    {
+      "text": "时有落花至，",
+      "pinyin": ["shí", "yǒu", "luò", "huā", "zhì"],
+      "translation": "不时有落花飘下来，",
+      "noteIds": []
+    },
+    {
+      "text": "远随流水香。",
+      "pinyin": ["yuǎn", "suí", "liú", "shuǐ", "xiāng"],
+      "translation": "远远地随着流水送来清香。",
+      "noteIds": []
+    },
+    {
+      "text": "闲门向山路，",
+      "pinyin": ["xián", "mén", "xiàng", "shān", "lù"],
+      "translation": "清静的院门朝着山路，",
+      "noteIds": ["n-xianmen"]
+    },
+    {
+      "text": "深柳读书堂。",
+      "pinyin": ["shēn", "liǔ", "dú", "shū", "táng"],
+      "translation": "茂密的柳荫深处是读书堂。",
+      "noteIds": ["n-shenliu"]
+    },
+    {
+      "text": "幽映每白日，",
+      "pinyin": ["yōu", "yìng", "měi", "bái", "rì"],
+      "translation": "白天，浓密的树荫遮住阳光，",
+      "noteIds": ["n-youying"]
+    },
+    {
+      "text": "清辉照衣裳。",
+      "pinyin": ["qīng", "huī", "zhào", "yī", "cháng"],
+      "translation": "清亮的日光透过树荫，照在我的衣裳上。",
+      "noteIds": ["n-qinghui"]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-you",
+      "word": "由",
+      "pinyin": "yóu",
+      "meaning": "从、经过，这里指路一直通到白云的尽头。"
+    },
+    {
+      "id": "n-xianmen",
+      "word": "闲门",
+      "pinyin": "xián mén",
+      "meaning": "清静、少有人来往的院门。"
+    },
+    {
+      "id": "n-shenliu",
+      "word": "深柳",
+      "pinyin": "shēn liǔ",
+      "meaning": "茂密的柳树深处。"
+    },
+    {
+      "id": "n-youying",
+      "word": "幽映",
+      "pinyin": "yōu yìng",
+      "meaning": "浓密的树荫遮掩。"
+    },
+    {
+      "id": "n-qinghui",
+      "word": "清辉",
+      "pinyin": "qīng huī",
+      "meaning": "清亮的日光，指透过树荫洒下的阳光。"
+    }
+  ],
+  "translation": "山路一直伸进白云深处，到那里就算到了尽头；春天和青青的溪水一样长。不时有落花飘下来，远远地随着流水送来清香。清静的院门朝着山路，茂密的柳荫深处是读书堂。白天，浓密的树荫遮住阳光，清亮的日光透过树荫，照在我的衣裳上。",
+  "appreciation": "这首诗本来有题目，流传时弄丢了，人们就叫它“阙题”，意思是缺了题目。诗里写的山居生活特别美：路通到白云里，春天跟着溪水一起变长，落花带着香味顺水漂来。屋子藏在柳荫里，阳光透过树叶照到衣裳上。全诗没有一个生僻字，却把安静和香味都写活了，像一幅会呼吸的山水画。",
+  "background": "刘昚虚年轻时中过进士，但他不爱做官，长年住在洪州的山里。家里有一座藏在深柳中的读书堂，门前一条青溪，春天常有落花顺水漂来。这首诗写的就是他的家园，可惜原题在流传中丢失，后人只好称它为“阙题”。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "白云尽处",
+      "text": "山间的小路一直伸进白云深处，到那里就算到了尽头。"
+    },
+    {
+      "step": 2,
+      "title": "溪长春长",
+      "text": "春天和青青的溪水一样长，落花随流水漂来，带着清香。"
+    },
+    {
+      "step": 3,
+      "title": "柳荫书堂",
+      "text": "清静的院门朝着山路，茂密的柳荫深处藏着读书堂。"
+    },
+    {
+      "step": 4,
+      "title": "清辉照衣",
+      "text": "白天，树荫筛下的清亮阳光，轻轻照在他的衣裳上。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "裳",
+      "reading": "cháng",
+      "reason": "古时下身穿的裙子叫“裳”，古诗里读 cháng。",
+      "standard": "不要读成 shang"
+    }
+  ],
+  "sources": ["《全唐诗》", "《唐诗三百首》"],
+  "no": 1112,
+  "status": "published",
+  "updatedAt": "2026-11-26"
+}

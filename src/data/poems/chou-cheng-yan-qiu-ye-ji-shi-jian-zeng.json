@@ -1,0 +1,114 @@
+{
+  "id": "tang-zhongtang-hanhong-chou-cheng-yan-qiu-ye-ji-shi-jian-zeng",
+  "slug": "chou-cheng-yan-qiu-ye-ji-shi-jian-zeng",
+  "title": "酬程延秋夜即事见赠",
+  "titlePinyin": "chóu chéng yán qiū yè jí shì jiàn zèng",
+  "dynasty": "tangshi",
+  "era": "zhongtang",
+  "genre": "shi",
+  "form": "五言律诗",
+  "authorId": "hanhong",
+  "gradeBand": "ext",
+  "tags": ["友情", "五言律诗", "秋夜", "雁"],
+  "difficulty": 3,
+  "writtenYear": 772,
+  "writtenLabel": "约公元 772 年（韩翃 53 岁，在长安酬答程延的赠诗）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "星河秋一雁，砧杵夜千家。"
+  ],
+  "lines": [
+    {
+      "text": "长簟迎风早，",
+      "pinyin": ["cháng", "diàn", "yíng", "fēng", "zǎo"],
+      "translation": "长长的竹席早早迎来凉风，",
+      "noteIds": ["n-changdian"]
+    },
+    {
+      "text": "空城澹月华。",
+      "pinyin": ["kōng", "chéng", "dàn", "yuè", "huá"],
+      "translation": "空静的城池上浮着淡淡的月光。",
+      "noteIds": ["n-dan"]
+    },
+    {
+      "text": "星河秋一雁，",
+      "pinyin": ["xīng", "hé", "qiū", "yī", "yàn"],
+      "translation": "星河横空，秋夜里一只孤雁飞过，",
+      "noteIds": []
+    },
+    {
+      "text": "砧杵夜千家。",
+      "pinyin": ["zhēn", "chǔ", "yè", "qiān", "jiā"],
+      "translation": "捣衣声响，千家万户都在夜色里忙碌。",
+      "noteIds": ["n-zhenchu"]
+    },
+    {
+      "text": "节候看应晚，",
+      "pinyin": ["jié", "hòu", "kàn", "yīng", "wǎn"],
+      "translation": "看节令该是深秋了，",
+      "noteIds": []
+    },
+    {
+      "text": "心期卧已赊。",
+      "pinyin": ["xīn", "qī", "wò", "yǐ", "shē"],
+      "translation": "心里挂念的事，躺下时已经迟了许多。",
+      "noteIds": ["n-she"]
+    },
+    {
+      "text": "向来吟秀句，",
+      "pinyin": ["xiàng", "lái", "yín", "xiù", "jù"],
+      "translation": "我一直在吟诵您清秀的诗句，",
+      "noteIds": []
+    },
+    {
+      "text": "不觉已朝鸦。",
+      "pinyin": ["bù", "jué", "yǐ", "zhāo", "yā"],
+      "translation": "不知不觉天已亮了，朝鸦叫了起来。",
+      "noteIds": []
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-changdian",
+      "word": "长簟",
+      "pinyin": "cháng diàn",
+      "meaning": "长长的竹席。"
+    },
+    {
+      "id": "n-dan",
+      "word": "澹",
+      "pinyin": "dàn",
+      "meaning": "水波缓缓浮动的样子，这里形容月光轻轻浮动。"
+    },
+    {
+      "id": "n-zhenchu",
+      "word": "砧杵",
+      "pinyin": "zhēn chǔ",
+      "meaning": "捣衣用的垫石和木棒。秋天家家捣衣赶制寒衣，砧声常入诗。"
+    },
+    {
+      "id": "n-she",
+      "word": "赊",
+      "pinyin": "shē",
+      "meaning": "长、远，引申为迟、晚。"
+    }
+  ],
+  "translation": "长长的竹席早早迎来秋风，空静的城上浮着淡淡的月华。星河高挂，秋空里一只孤雁飞过；捣衣声声，千家万户都在夜色中忙碌。看节令已到深秋，心里挂念的事躺下时已迟了许多。我一直在吟诵您送来的清秀诗句，不知不觉天已亮了，朝鸦叫了起来。",
+  "appreciation": "这是答谢朋友赠诗的诗。韩翃不急着说感谢，先铺开一幅秋夜画卷：凉风、月华、孤雁、千家捣衣声，安静里带着人间的热闹。后四句才点题：吟着朋友的秀美诗句，竟忘了睡觉，一抬头天都亮了。把“你的诗写得真好”说成“读你的诗读到天亮”，称赞得自然又诚恳。",
+  "background": "唐代宗大历年间，诗人韩翃在长安任职。一个秋夜，友人程延写了一首咏秋夜的诗送给他。韩翃在凉风月色中细细吟读，就眼前的秋夜景象和诗一首回赠，既写出秋夜的安静与热闹，也称赞友人的诗句让自己一直吟到天亮。",
+  "storyline": [
+    { "step": 1, "title": "风早月华", "text": "秋风早早吹动竹席，月光浮在空城上。" },
+    { "step": 2, "title": "雁过砧鸣", "text": "星河下一只孤雁飞过，千家传来捣衣声。" },
+    { "step": 3, "title": "夜深难眠", "text": "节令已到深秋，心事萦绕久久难眠。" },
+    { "step": 4, "title": "吟句达旦", "text": "吟着友人秀句不知不觉，朝鸦已报天明。" }
+  ],
+  "pinyinNotes": [
+    { "char": "簟", "reading": "diàn", "reason": "“长簟”是竹席，“簟”读 diàn。" },
+    { "char": "澹", "reading": "dàn", "reason": "“澹月华”形容月光浮动，“澹”读 dàn。" },
+    { "char": "赊", "reading": "shē", "reason": "“卧已赊”的“赊”是迟、久的意思，读 shē。" }
+  ],
+  "sources": ["《全唐诗》", "《唐诗三百首》"],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1118
+}

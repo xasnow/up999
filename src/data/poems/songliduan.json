@@ -1,0 +1,139 @@
+{
+  "id": "tang-zhongtang-lulun-songliduan",
+  "slug": "songliduan",
+  "title": "送李端",
+  "titlePinyin": "sòng lǐ duān",
+  "dynasty": "tangshi",
+  "era": "zhongtang",
+  "genre": "shi",
+  "form": "五言律诗",
+  "authorId": "lulun",
+  "gradeBand": "ext",
+  "tags": ["送别", "五言律诗", "寒云", "暮雪"],
+  "difficulty": 3,
+  "writtenYear": 779,
+  "writtenLabel": "约公元 779 年（卢纶 40 岁，在衰草暮雪的冬天送别好友李端）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "少孤为客早，多难识君迟。"
+  ],
+  "lines": [
+    {
+      "text": "故关衰草遍，",
+      "pinyin": ["gù", "guān", "shuāi", "cǎo", "biàn"],
+      "translation": "故乡的关城边长满了枯草，",
+      "noteIds": ["n-guguan"]
+    },
+    {
+      "text": "离别自堪悲。",
+      "pinyin": ["lí", "bié", "zì", "kān", "bēi"],
+      "translation": "离别本来就让人悲伤。",
+      "noteIds": []
+    },
+    {
+      "text": "路出寒云外，",
+      "pinyin": ["lù", "chū", "hán", "yún", "wài"],
+      "translation": "朋友要走的路伸向寒云深处，",
+      "noteIds": []
+    },
+    {
+      "text": "人归暮雪时。",
+      "pinyin": ["rén", "guī", "mù", "xuě", "shí"],
+      "translation": "我回家时，傍晚的雪已经飘了起来。",
+      "noteIds": []
+    },
+    {
+      "text": "少孤为客早，",
+      "pinyin": ["shào", "gū", "wéi", "kè", "zǎo"],
+      "translation": "我从小失去父亲，很早就出门漂泊，",
+      "noteIds": ["n-shaogu"]
+    },
+    {
+      "text": "多难识君迟。",
+      "pinyin": ["duō", "nàn", "shí", "jūn", "chí"],
+      "translation": "经过那么多磨难才认识你，觉得太迟了。",
+      "noteIds": ["n-duonan"]
+    },
+    {
+      "text": "掩泪空相向，",
+      "pinyin": ["yǎn", "lèi", "kōng", "xiāng", "xiàng"],
+      "translation": "擦着眼泪白白地望着你远去，",
+      "noteIds": ["n-yanlei"]
+    },
+    {
+      "text": "风尘何处期。",
+      "pinyin": ["fēng", "chén", "hé", "chù", "qī"],
+      "translation": "乱世奔波，不知何时何地才能再见。",
+      "noteIds": ["n-fengchen"]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-guguan",
+      "word": "故关",
+      "pinyin": "gù guān",
+      "meaning": "老关城，指送别的旧地。"
+    },
+    {
+      "id": "n-shaogu",
+      "word": "少孤",
+      "pinyin": "shào gū",
+      "meaning": "幼年丧父。"
+    },
+    {
+      "id": "n-duonan",
+      "word": "多难",
+      "pinyin": "duō nàn",
+      "meaning": "多灾多难，指经历了很多变乱。"
+    },
+    {
+      "id": "n-yanlei",
+      "word": "掩泪",
+      "pinyin": "yǎn lèi",
+      "meaning": "擦着眼泪。"
+    },
+    {
+      "id": "n-fengchen",
+      "word": "风尘",
+      "pinyin": "fēng chén",
+      "meaning": "旅途的奔波，也指乱世漂泊。"
+    }
+  ],
+  "translation": "故乡的关城边长满了枯草，离别本来就让人悲伤。朋友要走的路伸向寒云深处，我回家时，傍晚的雪已经飘了起来。我从小失去父亲，很早就出门漂泊，经过那么多磨难才认识你，觉得太迟了。擦着眼泪白白地望着你远去，乱世奔波，不知何时何地才能再见。",
+  "appreciation": "这首送别诗把“悲”字写得实实在在：不是空喊难过，而是一样一样数——枯草、寒云、暮雪，都是让人心里发凉的东西。中间两句最动人：“少孤为客早，多难识君迟”，把身世的苦和交友的难得放在一起，让人读了心里一酸。最后问“何处期”，乱世里连再见的日期都不敢约，比眼泪更让人难受。",
+  "background": "卢纶和李端都是“大历十才子”中的诗人，两人常在一起写诗唱和。安史之乱过后，世道仍然不安定。这一年冬天，李端要离开长安远行，卢纶在城外送他，看见衰草、寒云和傍晚的雪，想起自己早年丧父、漂泊的经历，写下了这首伤感的送别诗。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "衰草送别",
+      "text": "故乡的关城边长满枯草，这样的冬天送别格外悲伤。"
+    },
+    {
+      "step": 2,
+      "title": "寒云暮雪",
+      "text": "朋友的路伸向寒云深处，回家时暮色里已飘起雪花。"
+    },
+    {
+      "step": 3,
+      "title": "身世之叹",
+      "text": "想起自己少年丧父、漂泊多年，感叹认识李端太晚了。"
+    },
+    {
+      "step": 4,
+      "title": "泪眼相望",
+      "text": "他擦着眼泪望着朋友远去，乱世里不知何时能再见。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "难",
+      "reading": "nàn",
+      "reason": "“多难”指灾祸、变故，“难”读 nàn。",
+      "standard": "不要读成 nán"
+    }
+  ],
+  "sources": ["《全唐诗》", "《唐诗三百首》"],
+  "no": 1113,
+  "status": "published",
+  "updatedAt": "2026-11-26"
+}

@@ -1,0 +1,188 @@
+{
+  "id": "tang-wantang-lishangyin-choubiyi",
+  "slug": "choubiyi",
+  "title": "筹笔驿",
+  "titlePinyin": "chóu bǐ yì",
+  "dynasty": "tangshi",
+  "era": "wantang",
+  "genre": "shi",
+  "form": "七言律诗",
+  "authorId": "lishangyin",
+  "gradeBand": "ext",
+  "tags": [
+    "怀古",
+    "七言律诗",
+    "风云",
+    "祠庙"
+  ],
+  "difficulty": 3,
+  "writtenYear": 855,
+  "writtenLabel": "约公元 855 年（李商隐 43 岁，随柳仲郢离蜀北归，途经筹笔驿而作）",
+  "orderInAuthor": 2,
+  "no": 1135,
+  "famousLines": [
+    "管乐有才原不忝，关张无命欲何如。"
+  ],
+  "lines": [
+    {
+      "text": "猿鸟犹疑畏简书，",
+      "pinyin": ["yuán", "niǎo", "yóu", "yí", "wèi", "jiǎn", "shū"],
+      "translation": "猿猴飞鸟至今仍像畏惧当年的军令，",
+      "noteIds": ["n-jianshu", "n-choubiyi"]
+    },
+    {
+      "text": "风云常为护储胥。",
+      "pinyin": ["fēng", "yún", "cháng", "wèi", "hù", "chǔ", "xū"],
+      "translation": "风云仿佛常常守护着旧日的营垒。",
+      "noteIds": ["n-chuxu"]
+    },
+    {
+      "text": "徒令上将挥神笔，",
+      "pinyin": ["tú", "lìng", "shàng", "jiàng", "huī", "shén", "bǐ"],
+      "translation": "只可惜诸葛亮空自挥动运筹的神笔，",
+      "noteIds": ["n-shangjiang"]
+    },
+    {
+      "text": "终见降王走传车。",
+      "pinyin": ["zhōng", "jiàn", "xiáng", "wáng", "zǒu", "zhuàn", "chē"],
+      "translation": "终究还是看着后主被装入驿车送往洛阳。",
+      "noteIds": ["n-jiangwang", "n-zhuanche"]
+    },
+    {
+      "text": "管乐有才原不忝，",
+      "pinyin": ["guǎn", "yuè", "yǒu", "cái", "yuán", "bù", "tiǎn"],
+      "translation": "他比管仲、乐毅，才华确实毫不逊色，",
+      "noteIds": ["n-guanyue", "n-butian"]
+    },
+    {
+      "text": "关张无命欲何如。",
+      "pinyin": ["guān", "zhāng", "wú", "mìng", "yù", "hé", "rú"],
+      "translation": "可关羽、张飞命丧身死，又能怎样呢？",
+      "noteIds": ["n-guanzhang"]
+    },
+    {
+      "text": "他年锦里经祠庙，",
+      "pinyin": ["tā", "nián", "jǐn", "lǐ", "jīng", "cí", "miào"],
+      "translation": "来年我在成都锦里经过武侯祠，",
+      "noteIds": ["n-jinli"]
+    },
+    {
+      "text": "梁父吟成恨有余。",
+      "pinyin": ["liáng", "fù", "yín", "chéng", "hèn", "yǒu", "yú"],
+      "translation": "吟罢诸葛亮爱唱的《梁父吟》，遗恨绵绵不尽。",
+      "noteIds": ["n-liangfuyin"]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-choubiyi",
+      "word": "筹笔驿",
+      "pinyin": "chóu bǐ yì",
+      "meaning": "古驿站名，在今四川广元，相传诸葛亮出师时曾在此筹划军机。"
+    },
+    {
+      "id": "n-jianshu",
+      "word": "简书",
+      "pinyin": "jiǎn shū",
+      "meaning": "军中的文书命令。"
+    },
+    {
+      "id": "n-chuxu",
+      "word": "储胥",
+      "pinyin": "chǔ xū",
+      "meaning": "栅栏、藩篱，指军营的防护设施。"
+    },
+    {
+      "id": "n-shangjiang",
+      "word": "上将",
+      "pinyin": "shàng jiàng",
+      "meaning": "指诸葛亮。"
+    },
+    {
+      "id": "n-jiangwang",
+      "word": "降王",
+      "pinyin": "xiáng wáng",
+      "meaning": "指蜀汉后主刘禅，蜀亡后投降。"
+    },
+    {
+      "id": "n-zhuanche",
+      "word": "传车",
+      "pinyin": "zhuàn chē",
+      "meaning": "古代驿站专用的车辆。刘禅降后被用驿车送往洛阳。"
+    },
+    {
+      "id": "n-guanyue",
+      "word": "管乐",
+      "pinyin": "guǎn yuè",
+      "meaning": "春秋名相管仲与战国名将乐毅，诸葛亮常自比二人。"
+    },
+    {
+      "id": "n-butian",
+      "word": "不忝",
+      "pinyin": "bù tiǎn",
+      "meaning": "不辱、不愧。"
+    },
+    {
+      "id": "n-guanzhang",
+      "word": "关张",
+      "pinyin": "guān zhāng",
+      "meaning": "关羽与张飞，蜀汉名将，二人先后死于非命。"
+    },
+    {
+      "id": "n-jinli",
+      "word": "锦里",
+      "pinyin": "jǐn lǐ",
+      "meaning": "成都地名，旁有祭祀诸葛亮的武侯祠。"
+    },
+    {
+      "id": "n-liangfuyin",
+      "word": "梁父吟",
+      "pinyin": "liáng fù yín",
+      "meaning": "古曲名，诸葛亮隐居隆中时常吟唱。"
+    }
+  ],
+  "translation": "猿猴飞鸟至今仍像畏惧当年的军令，风云仿佛常常守护着旧日的营垒。只可惜诸葛亮空自挥动运筹的神笔，终究还是看着后主被装入驿车送往洛阳。他比管仲、乐毅，才华确实毫不逊色；可关羽、张飞命丧身死，又能怎样呢？来年我在成都锦里经过武侯祠，吟罢诸葛亮爱唱的《梁父吟》，遗恨绵绵不尽。",
+  "appreciation": "过筹笔驿，诗人不写驿站的荒凉，先写猿鸟风云：连野兽都还怕他的军令，风云还在守护他的营垒——诸葛亮去世几百年，威名犹在天地间。中间笔锋陡转：神笔再神，也挽回不了后主投降的命运；才比管乐，也补不上关张亡故的天数。人才再高，敌不过天命，这是全诗最痛的地方。结尾诗人提前写下“他年”谒祠的预言，一曲《梁父吟》，把无尽的遗恨留给了历史。",
+  "background": "筹笔驿相传是诸葛亮北伐时运筹帷幄之地。公元 855 年前后，李商隐随柳仲郢幕府离蜀北归，途经此地，追怀诸葛亮鞠躬尽瘁却功败垂成的一生，写下这首怀古诗，也寄托自己对时世的感慨。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "猿鸟畏令",
+      "text": "驿旁猿鸟犹畏当年军令，风云仍护营垒。"
+    },
+    {
+      "step": 2,
+      "title": "神笔徒挥",
+      "text": "诸葛亮空挥神笔运筹，终见降王赴洛阳。"
+    },
+    {
+      "step": 3,
+      "title": "才比管乐",
+      "text": "才不愧管仲乐毅，无奈关张早亡天不助。"
+    },
+    {
+      "step": 4,
+      "title": "祠庙遗恨",
+      "text": "他年经过武侯祠，一曲梁父恨有余。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "传",
+      "reading": "zhuàn",
+      "reason": "“传车”指驿站的车马，读 zhuàn。",
+      "standard": "不要读成 chuán"
+    },
+    {
+      "char": "忝",
+      "reading": "tiǎn",
+      "reason": "“不忝”是不愧、不辱之意，读 tiǎn。"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26"
+}

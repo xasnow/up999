@@ -1,0 +1,177 @@
+{
+  "id": "tang-shengtang-qiwuqian-chunfan-ruoyexi",
+  "slug": "chunfan-ruoyexi",
+  "title": "春泛若耶溪",
+  "titlePinyin": "chūn fàn ruò yē xī",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "五言古诗",
+  "authorId": "qiwuqian",
+  "gradeBand": "ext",
+  "tags": [
+    "山水",
+    "五言古诗",
+    "溪水",
+    "月夜"
+  ],
+  "difficulty": 3,
+  "writtenYear": 741,
+  "writtenLabel": "约公元741年（綦毋潜50岁，辞官南游，春夜泛舟若耶溪）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "潭烟飞溶溶，林月低向后。"
+  ],
+  "lines": [
+    {
+      "text": "幽意无断绝，",
+      "pinyin": ["yōu", "yì", "wú", "duàn", "jué"],
+      "translation": "游山玩水的兴致，从来没有断过，",
+      "noteIds": []
+    },
+    {
+      "text": "此去随所偶。",
+      "pinyin": ["cǐ", "qù", "suí", "suǒ", "ǒu"],
+      "translation": "这一趟出行，就任凭小船漂到哪儿算哪儿。",
+      "noteIds": ["n-ou"]
+    },
+    {
+      "text": "晚风吹行舟，",
+      "pinyin": ["wǎn", "fēng", "chuī", "xíng", "zhōu"],
+      "translation": "晚风轻轻推着小船前行，",
+      "noteIds": []
+    },
+    {
+      "text": "花路入溪口。",
+      "pinyin": ["huā", "lù", "rù", "xī", "kǒu"],
+      "translation": "沿着开满花的堤岸，驶进了溪口。",
+      "noteIds": []
+    },
+    {
+      "text": "际夜转西壑，",
+      "pinyin": ["jì", "yè", "zhuǎn", "xī", "hè"],
+      "translation": "到了夜里，小船转过西边的山谷，",
+      "noteIds": ["n-jixi"]
+    },
+    {
+      "text": "隔山望南斗。",
+      "pinyin": ["gé", "shān", "wàng", "nán", "dǒu"],
+      "translation": "隔着山，抬头望见南斗星。",
+      "noteIds": []
+    },
+    {
+      "text": "潭烟飞溶溶，",
+      "pinyin": ["tán", "yān", "fēi", "róng", "róng"],
+      "translation": "潭水上的雾气轻飘飘地浮动，",
+      "noteIds": ["n-tanyan", "n-rou"]
+    },
+    {
+      "text": "林月低向后。",
+      "pinyin": ["lín", "yuè", "dī", "xiàng", "hòu"],
+      "translation": "林间的月亮低低地照着，好像随着船往后退。",
+      "noteIds": []
+    },
+    {
+      "text": "生事且弥漫，",
+      "pinyin": ["shēng", "shì", "qiě", "mí", "màn"],
+      "translation": "人间的生计和世事，也像这雾一样茫茫一片，",
+      "noteIds": ["n-shengshi"]
+    },
+    {
+      "text": "愿为持竿叟。",
+      "pinyin": ["yuàn", "wéi", "chí", "gān", "sǒu"],
+      "translation": "我情愿做一个握着钓竿的老渔翁。",
+      "noteIds": ["n-sou"]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-ou",
+      "word": "随所偶",
+      "pinyin": "suí suǒ ǒu",
+      "meaning": "任凭小船把自己带到遇到的地方，随遇而安。"
+    },
+    {
+      "id": "n-jixi",
+      "word": "际夜",
+      "pinyin": "jì yè",
+      "meaning": "到了夜里。"
+    },
+    {
+      "id": "n-tanyan",
+      "word": "潭烟",
+      "pinyin": "tán yān",
+      "meaning": "潭水上面升起的雾气。"
+    },
+    {
+      "id": "n-rou",
+      "word": "溶溶",
+      "pinyin": "róng róng",
+      "meaning": "雾气缓缓浮动、水气迷茫的样子。"
+    },
+    {
+      "id": "n-shengshi",
+      "word": "生事",
+      "pinyin": "shēng shì",
+      "meaning": "谋生的事，泛指人间的种种事务。"
+    },
+    {
+      "id": "n-sou",
+      "word": "叟",
+      "pinyin": "sǒu",
+      "meaning": "老头儿。"
+    }
+  ],
+  "translation": "游山玩水的兴致，从来没有断过，这一趟出行，就任凭小船漂到哪儿算哪儿。晚风轻轻推着小船前行，沿着开满花的堤岸，驶进了溪口。到了夜里，小船转过西边的山谷，隔着山，抬头望见南斗星。潭水上的雾气轻飘飘地浮动，林间的月亮低低地照着，好像随着船往后退。人间的生计和世事，也像这雾一样茫茫一片，我情愿做一个握着钓竿的老渔翁。",
+  "appreciation": "这首诗像一段安静的夜游录像：晚风吹船，花路进溪，转过山谷已到了夜里。潭上的雾气在飞，林间的月亮在后退，诗人坐在船上，把天地间的安静都收进眼里。结尾说世事茫茫，不如做持竿的老渔翁，把对官场的厌倦变成了对山水的欢喜，读来让人心里也静了下来。",
+  "background": "綦毋潜做了多年小官，渐渐厌倦了官场。他辞官南下，在江南山水间漫游。若耶溪在今浙江绍兴，风景清幽。一个春天的傍晚，他划着小船在这条溪上漂游，从黄昏一直漂到月亮升起，写下了这首有名的《春泛若耶溪》。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "晚风发船",
+      "text": "傍晚的微风推着小船，沿着花堤驶进溪口。"
+    },
+    {
+      "step": 2,
+      "title": "夜转山谷",
+      "text": "天黑了，小船转过西边的山谷，隔山望见南斗星。"
+    },
+    {
+      "step": 3,
+      "title": "雾月随船",
+      "text": "潭上雾气浮动，林间的月亮低低地跟着船走。"
+    },
+    {
+      "step": 4,
+      "title": "愿作渔翁",
+      "text": "世事像雾一样茫茫，诗人只想握竿垂钓，终老山水。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "壑",
+      "reading": "hè",
+      "reason": "“西壑”指西边的山谷，读 hè。",
+      "standard": "不要读成 hào"
+    },
+    {
+      "char": "叟",
+      "reading": "sǒu",
+      "reason": "“持竿叟”是拿着钓竿的老翁，“叟”读 sǒu。",
+      "standard": "不要读成 sū"
+    },
+    {
+      "char": "弥漫",
+      "reading": "mí màn",
+      "reason": "“弥漫”形容雾气到处都是，“弥”读 mí。",
+      "standard": "不要读成 ní"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1199
+}

@@ -1,0 +1,269 @@
+{
+  "id": "tang-shengtang-wangchangling-nanzhaiwanyue",
+  "slug": "nanzhaiwanyue",
+  "title": "同从弟销南斋玩月忆山阴崔少府",
+  "titlePinyin": "tóng cóng dì xiāo nán zhāi wán yuè yì shān yīn cuī shào fǔ",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "五言古诗",
+  "authorId": "wangchangling",
+  "gradeBand": "ext",
+  "tags": [
+    "月亮",
+    "五言古诗",
+    "友情",
+    "月夜"
+  ],
+  "difficulty": 3,
+  "writtenYear": 734,
+  "writtenLabel": "约公元 734 年（王昌龄 36 岁前后，月夜与堂弟共赏明月，怀念远方友人）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "千里共如何，微风吹兰杜。"
+  ],
+  "lines": [
+    {
+      "text": "高卧南斋时，",
+      "pinyin": [
+        "gāo",
+        "wò",
+        "nán",
+        "zhāi",
+        "shí"
+      ],
+      "translation": "我安卧在南边的书房里，",
+      "noteIds": [
+        "n-nanzhai"
+      ]
+    },
+    {
+      "text": "开帷月初吐。",
+      "pinyin": [
+        "kāi",
+        "wéi",
+        "yuè",
+        "chū",
+        "tǔ"
+      ],
+      "translation": "掀开帷帘，月亮刚刚升起。",
+      "noteIds": [
+        "n-wei"
+      ]
+    },
+    {
+      "text": "清辉淡水木，",
+      "pinyin": [
+        "qīng",
+        "huī",
+        "dàn",
+        "shuǐ",
+        "mù"
+      ],
+      "translation": "清冷的月光淡淡地浸润着水面和树木，",
+      "noteIds": [
+        "n-dan"
+      ]
+    },
+    {
+      "text": "演漾在窗户。",
+      "pinyin": [
+        "yǎn",
+        "yàng",
+        "zài",
+        "chuāng",
+        "hù"
+      ],
+      "translation": "光影在窗户间轻轻荡漾。",
+      "noteIds": [
+        "n-yanyang"
+      ]
+    },
+    {
+      "text": "荏苒几盈虚，",
+      "pinyin": [
+        "rěn",
+        "rǎn",
+        "jǐ",
+        "yíng",
+        "xū"
+      ],
+      "translation": "时间悄悄过去，月亮圆了又缺、缺了又圆，",
+      "noteIds": [
+        "n-renran",
+        "n-yingxu"
+      ]
+    },
+    {
+      "text": "澄澄变今古。",
+      "pinyin": [
+        "chéng",
+        "chéng",
+        "biàn",
+        "jīn",
+        "gǔ"
+      ],
+      "translation": "澄澈的月色照变了多少人间今古。",
+      "noteIds": []
+    },
+    {
+      "text": "美人清江畔，",
+      "pinyin": [
+        "měi",
+        "rén",
+        "qīng",
+        "jiāng",
+        "pàn"
+      ],
+      "translation": "想念的人此刻在清江边上，",
+      "noteIds": [
+        "n-meiren"
+      ]
+    },
+    {
+      "text": "是夜越吟苦。",
+      "pinyin": [
+        "shì",
+        "yè",
+        "yuè",
+        "yín",
+        "kǔ"
+      ],
+      "translation": "今夜他也一定在苦苦地思念、吟着思乡的诗。",
+      "noteIds": [
+        "n-yueyin"
+      ]
+    },
+    {
+      "text": "千里共如何，",
+      "pinyin": [
+        "qiān",
+        "lǐ",
+        "gòng",
+        "rú",
+        "hé"
+      ],
+      "translation": "相隔千里同看这轮明月又怎样呢？",
+      "noteIds": []
+    },
+    {
+      "text": "微风吹兰杜。",
+      "pinyin": [
+        "wēi",
+        "fēng",
+        "chuī",
+        "lán",
+        "dù"
+      ],
+      "translation": "只有微风吹送着兰草杜若的香气。",
+      "noteIds": [
+        "n-landu"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-nanzhai",
+      "word": "南斋",
+      "pinyin": "nán zhāi",
+      "meaning": "南边的书房、斋舍。"
+    },
+    {
+      "id": "n-wei",
+      "word": "帷",
+      "pinyin": "wéi",
+      "meaning": "帷幕、窗帘。"
+    },
+    {
+      "id": "n-dan",
+      "word": "淡",
+      "pinyin": "dàn",
+      "meaning": "这里是浸润、荡漾的意思，形容月光照得水面和树木清亮。"
+    },
+    {
+      "id": "n-yanyang",
+      "word": "演漾",
+      "pinyin": "yǎn yàng",
+      "meaning": "荡漾的样子，形容月光在窗前摇动。"
+    },
+    {
+      "id": "n-renran",
+      "word": "荏苒",
+      "pinyin": "rěn rǎn",
+      "meaning": "时间不知不觉地过去。"
+    },
+    {
+      "id": "n-yingxu",
+      "word": "盈虚",
+      "pinyin": "yíng xū",
+      "meaning": "圆满和亏缺，指月亮的圆缺变化。"
+    },
+    {
+      "id": "n-meiren",
+      "word": "美人",
+      "pinyin": "měi rén",
+      "meaning": "古诗中常指心中想念的贤人好友，这里指崔少府。"
+    },
+    {
+      "id": "n-yueyin",
+      "word": "越吟",
+      "pinyin": "yuè yín",
+      "meaning": "战国时越人庄舄在楚国做官，病中呻吟仍是越地乡音，后指思念家乡的吟咏。"
+    },
+    {
+      "id": "n-landu",
+      "word": "兰杜",
+      "pinyin": "lán dù",
+      "meaning": "兰草和杜若，都是香草，比喻友人的美好名声。"
+    }
+  ],
+  "translation": "我安卧在南边的书房里，掀开帷帘，月亮刚刚升起。清冷的月光淡淡地浸润着水面和树木，光影在窗户间轻轻荡漾。时间悄悄过去，月亮圆了又缺，澄澈的月色照变了多少人间今古。想念的人此刻在清江边上，今夜他也一定在苦苦地思念吟诗。相隔千里同看这轮明月又怎样呢？只有微风吹送着兰草杜若的香气。",
+  "appreciation": "这首诗由赏月写到怀人，一层一层展开。先写月初升起、清辉照着水木、光影在窗前荡漾的静美；再由月亮圆了又缺，想到人间今古也在悄悄变换，境界一下子放大；最后想到清江边的友人：今夜他也在苦苦思乡吧。结句最妙，不说想念，只让微风吹来兰杜的香气，好像友人的美德隔着千里送到我身边，余味悠长。",
+  "background": "一个晴朗的夜晚，王昌龄和堂弟王销在南斋里一同赏月。他掀开帷帘，看月亮慢慢升起，清光洒在水上、树上，摇曳在窗前。望着望着，他想到月亮圆缺轮回、人间古今变换，又想起远在山阴做县尉的朋友崔少府，于是写下这首诗，把思念寄给千里之外。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "南斋待月",
+      "text": "我在南斋高卧，掀开帷帘等月亮升起。"
+    },
+    {
+      "step": 2,
+      "title": "清辉满窗",
+      "text": "月光淡淡照着水木，光影在窗前荡漾。"
+    },
+    {
+      "step": 3,
+      "title": "盈虚思今",
+      "text": "月亮圆了又缺，人间今古悄悄变换。"
+    },
+    {
+      "step": 4,
+      "title": "千里怀人",
+      "text": "想念清江友人，风里仿佛送来兰杜香气。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "荏苒",
+      "reading": "rěn rǎn",
+      "reason": "“荏苒”指时间渐渐过去，两个字都容易读错，读 rěn rǎn。"
+    },
+    {
+      "char": "澄",
+      "reading": "chéng",
+      "reason": "“澄澄”形容清澈明亮的样子，读 chéng chéng。"
+    },
+    {
+      "char": "帷",
+      "reading": "wéi",
+      "reason": "“开帷”的“帷”是窗帘、帷幕，读 wéi。"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1168
+}

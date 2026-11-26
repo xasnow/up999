@@ -1,0 +1,125 @@
+{
+  "id": "tang-zhongtang-qianqi-song-seng-gui-ri-ben",
+  "slug": "song-seng-gui-ri-ben",
+  "title": "送僧归日本",
+  "titlePinyin": "sòng sēng guī rì běn",
+  "dynasty": "tangshi",
+  "era": "zhongtang",
+  "genre": "shi",
+  "form": "五言律诗",
+  "authorId": "qianqi",
+  "gradeBand": "ext",
+  "tags": ["送别", "五言律诗", "大海", "明月"],
+  "difficulty": 3,
+  "writtenYear": 754,
+  "writtenLabel": "约公元 754 年（钱起 32 岁，在长安送日本僧人渡海归国）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "浮天沧海远，去世法舟轻。"
+  ],
+  "lines": [
+    {
+      "text": "上国随缘住，",
+      "pinyin": ["shàng", "guó", "suí", "yuán", "zhù"],
+      "translation": "他随着佛缘来到大唐居住，",
+      "noteIds": ["n-shangguo"]
+    },
+    {
+      "text": "来途若梦行。",
+      "pinyin": ["lái", "tú", "ruò", "mèng", "xíng"],
+      "translation": "来时的路途仿佛在梦中航行。",
+      "noteIds": []
+    },
+    {
+      "text": "浮天沧海远，",
+      "pinyin": ["fú", "tiān", "cāng", "hǎi", "yuǎn"],
+      "translation": "船浮在天海之间，大海辽阔遥远，",
+      "noteIds": ["n-canghai"]
+    },
+    {
+      "text": "去世法舟轻。",
+      "pinyin": ["qù", "shì", "fǎ", "zhōu", "qīng"],
+      "translation": "远离尘世，载着佛法的法舟轻快向前。",
+      "noteIds": ["n-fazhou"]
+    },
+    {
+      "text": "水月通禅寂，",
+      "pinyin": ["shuǐ", "yuè", "tōng", "chán", "jì"],
+      "translation": "水中的月影连通着禅定的寂静，",
+      "noteIds": ["n-chanji"]
+    },
+    {
+      "text": "鱼龙听梵声。",
+      "pinyin": ["yú", "lóng", "tīng", "fàn", "shēng"],
+      "translation": "海里的鱼龙也静静听着他的诵经声。",
+      "noteIds": ["n-fansheng"]
+    },
+    {
+      "text": "惟怜一灯影，",
+      "pinyin": ["wéi", "lián", "yī", "dēng", "yǐng"],
+      "translation": "最可爱的是那一盏禅灯的光影，",
+      "noteIds": ["n-yideng"]
+    },
+    {
+      "text": "万里眼中明。",
+      "pinyin": ["wàn", "lǐ", "yǎn", "zhōng", "míng"],
+      "translation": "照得万里航程在眼中一片明亮。",
+      "noteIds": []
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-shangguo",
+      "word": "上国",
+      "pinyin": "shàng guó",
+      "meaning": "大国，这里指唐朝。"
+    },
+    {
+      "id": "n-canghai",
+      "word": "沧海",
+      "pinyin": "cāng hǎi",
+      "meaning": "大海。"
+    },
+    {
+      "id": "n-fazhou",
+      "word": "法舟",
+      "pinyin": "fǎ zhōu",
+      "meaning": "载着僧人和佛法的船，是对僧人渡海船只的美称。"
+    },
+    {
+      "id": "n-chanji",
+      "word": "禅寂",
+      "pinyin": "chán jì",
+      "meaning": "禅定中的安静境界。"
+    },
+    {
+      "id": "n-fansheng",
+      "word": "梵声",
+      "pinyin": "fàn shēng",
+      "meaning": "念诵佛经的声音。"
+    },
+    {
+      "id": "n-yideng",
+      "word": "一灯",
+      "pinyin": "yī dēng",
+      "meaning": "指禅灯，佛家常用灯比喻佛法能照亮人心。"
+    }
+  ],
+  "translation": "他随着佛缘来到大唐居住，来时的路途仿佛在梦中航行。船浮在天海之间，大海辽阔遥远；远离尘世，载着佛法的法舟轻快向前。水中的月影连通着禅定的寂静，海里的鱼龙也静静听着他的诵经声。最可爱的是那一盏禅灯的光影，照得万里航程在眼中一片明亮。",
+  "appreciation": "这首诗写送日本僧人回家。诗人不写离别的眼泪，反而写大海的辽阔和法舟的轻快，把送别写得庄严又美好。水中的月亮、听经的鱼龙、一盏小小的禅灯，都带着安静的佛家味道。“一灯影”照在万里海上，既祝福僧人一路平安，也写出佛法照亮人心的光明。",
+  "background": "唐代中日往来频繁，许多日本僧人到长安学习佛法。公元 753 年鉴真东渡成功到达日本之后，又有僧人学成乘船回国。钱起在长安送别一位归国的日本僧人，写下这首诗，祝他渡海平安。",
+  "storyline": [
+    { "step": 1, "title": "梦中来唐", "text": "日本僧人随佛缘来到大唐，来时路途像做了一场梦。" },
+    { "step": 2, "title": "乘舟归国", "text": "他登上法舟，将要渡过辽阔的海天回家。" },
+    { "step": 3, "title": "鱼龙听经", "text": "月光照着海面，鱼龙静静听他诵经。" },
+    { "step": 4, "title": "灯照万里", "text": "一盏禅灯的光影，把万里航路照得明亮。" }
+  ],
+  "pinyinNotes": [
+    { "char": "梵", "reading": "fàn", "reason": "“梵声”是诵经的声音，“梵”读 fàn。" },
+    { "char": "禅寂", "reading": "chán jì", "reason": "“禅”指禅定，读 chán；“寂”读 jì。" }
+  ],
+  "sources": ["《全唐诗》", "《唐诗三百首》"],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1114
+}

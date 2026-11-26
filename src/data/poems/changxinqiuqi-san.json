@@ -1,0 +1,161 @@
+{
+  "id": "tang-shengtang-wangchangling-changxinqiuqi-san",
+  "slug": "changxinqiuqi-san",
+  "title": "长信秋词·其三",
+  "titlePinyin": "cháng xìn qiū cí · qí sān",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "七言乐府",
+  "authorId": "wangchangling",
+  "gradeBand": "ext",
+  "tags": [
+    "宫怨",
+    "七言乐府",
+    "秋天",
+    "寒鸦"
+  ],
+  "difficulty": 3,
+  "writtenYear": 739,
+  "writtenLabel": "约公元 739 年（王昌龄 41 岁，仕途失意，借汉宫旧事寄托感慨）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "玉颜不及寒鸦色，犹带昭阳日影来。"
+  ],
+  "lines": [
+    {
+      "text": "奉帚平明金殿开，",
+      "pinyin": [
+        "fèng",
+        "zhǒu",
+        "píng",
+        "míng",
+        "jīn",
+        "diàn",
+        "kāi"
+      ],
+      "translation": "天刚亮，她就捧着扫帚去打扫，金殿的门刚刚打开，",
+      "noteIds": [
+        "n-fengzhou",
+        "n-pingming"
+      ]
+    },
+    {
+      "text": "且将团扇共徘徊。",
+      "pinyin": [
+        "qiě",
+        "jiāng",
+        "tuán",
+        "shàn",
+        "gòng",
+        "pái",
+        "huái"
+      ],
+      "translation": "她只好拿着团扇，独自来来回回地徘徊。",
+      "noteIds": [
+        "n-tuanshan"
+      ]
+    },
+    {
+      "text": "玉颜不及寒鸦色，",
+      "pinyin": [
+        "yù",
+        "yán",
+        "bù",
+        "jí",
+        "hán",
+        "yā",
+        "sè"
+      ],
+      "translation": "如玉的容颜，竟比不上寒鸦的颜色，",
+      "noteIds": []
+    },
+    {
+      "text": "犹带昭阳日影来。",
+      "pinyin": [
+        "yóu",
+        "dài",
+        "zhāo",
+        "yáng",
+        "rì",
+        "yǐng",
+        "lái"
+      ],
+      "translation": "乌鸦从昭阳宫飞过，身上还带着那边的日影飞来。",
+      "noteIds": [
+        "n-zhaoyang"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-fengzhou",
+      "word": "奉帚",
+      "pinyin": "fèng zhǒu",
+      "meaning": "捧着扫帚洒扫，指失宠宫人做杂役。"
+    },
+    {
+      "id": "n-pingming",
+      "word": "平明",
+      "pinyin": "píng míng",
+      "meaning": "天刚亮的时候。"
+    },
+    {
+      "id": "n-tuanshan",
+      "word": "团扇",
+      "pinyin": "tuán shàn",
+      "meaning": "圆形的扇子。汉代班婕妤失宠后曾以秋扇自比。"
+    },
+    {
+      "id": "n-zhaoyang",
+      "word": "昭阳",
+      "pinyin": "zhāo yáng",
+      "meaning": "昭阳宫，汉成帝宠妃住的地方，代指得宠之处。"
+    }
+  ],
+  "translation": "天刚亮，她就捧着扫帚去打扫，金殿的门刚刚打开。她只好拿着团扇，独自来来回回地徘徊。如玉的容颜，竟比不上寒鸦的颜色，乌鸦从昭阳宫飞过，身上还带着那边的日影飞来。",
+  "appreciation": "前两句写失宠宫女清冷的一天：天刚亮就捧帚扫殿，之后拿着团扇在殿中独自徘徊。后两句奇想突起：如玉的容颜，竟比不上寒鸦的颜色——乌鸦从昭阳宫上空飞来，羽毛上还带着那里的日光，而自己住在冷宫里，连一点“日影”也沾不到。比喻越是无理，辛酸越是入骨，却又说得含而不露。",
+  "background": "汉代班婕妤起初受汉成帝宠爱，赵飞燕姐妹得宠后，她退居长信宫，天天洒扫伺候，还写过团扇诗自比秋扇。王昌龄借这段汉宫旧事，写尽失宠宫女的哀怨；也有人认为，诗里也寄托着他自己不受重用的失意。此诗是《长信秋词》组诗中最有名的一首。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "平明奉帚",
+      "text": "天刚亮，失宠的宫女捧着扫帚打开金殿。"
+    },
+    {
+      "step": 2,
+      "title": "团扇徘徊",
+      "text": "她拿着团扇在殿中走来走去，百无聊赖。"
+    },
+    {
+      "step": 3,
+      "title": "仰望寒鸦",
+      "text": "一群寒鸦飞过，她抬头呆呆地望着。"
+    },
+    {
+      "step": 4,
+      "title": "日影之叹",
+      "text": "乌鸦还带着昭阳的日影，人竟不如它。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "帚",
+      "reading": "zhǒu",
+      "reason": "“奉帚”的“帚”是扫帚的意思，读 zhǒu。"
+    },
+    {
+      "char": "将",
+      "reading": "jiāng",
+      "reason": "“且将”的“将”是拿的意思，读 jiāng。",
+      "standard": "不读 jiàng"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1228
+}

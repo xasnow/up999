@@ -1,0 +1,466 @@
+{
+  "id": "tang-shengtang-dufu-jihanjianyi",
+  "slug": "jihanjianyi",
+  "title": "寄韩谏议",
+  "titlePinyin": "jì hán jiàn yì",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "七言古诗",
+  "authorId": "dufu",
+  "gradeBand": "ext",
+  "tags": [
+    "思念",
+    "友情",
+    "秋霜",
+    "七言古诗"
+  ],
+  "difficulty": 3,
+  "writtenYear": 764,
+  "writtenLabel": "约公元 764 年（杜甫 52 岁，寓居成都，寄诗罢官远去的友人韩注）",
+  "orderInAuthor": 13,
+  "famousLines": [
+    "美人娟娟隔秋水，濯足洞庭望八荒。"
+  ],
+  "lines": [
+    {
+      "text": "今我不乐思岳阳，",
+      "pinyin": [
+        "jīn",
+        "wǒ",
+        "bù",
+        "lè",
+        "sī",
+        "yuè",
+        "yáng"
+      ],
+      "translation": "如今我心情不佳，思念远在岳阳的朋友，",
+      "noteIds": []
+    },
+    {
+      "text": "身欲奋飞病在床。",
+      "pinyin": [
+        "shēn",
+        "yù",
+        "fèn",
+        "fēi",
+        "bìng",
+        "zài",
+        "chuáng"
+      ],
+      "translation": "想要奋飞前去探望，却病倒在床。",
+      "noteIds": []
+    },
+    {
+      "text": "美人娟娟隔秋水，",
+      "pinyin": [
+        "měi",
+        "rén",
+        "juān",
+        "juān",
+        "gé",
+        "qiū",
+        "shuǐ"
+      ],
+      "translation": "品德美好的友人，隔着秋水娟秀独立，",
+      "noteIds": [
+        "n-meiren"
+      ]
+    },
+    {
+      "text": "濯足洞庭望八荒。",
+      "pinyin": [
+        "zhuó",
+        "zú",
+        "dòng",
+        "tíng",
+        "wàng",
+        "bā",
+        "huāng"
+      ],
+      "translation": "在洞庭湖边洗脚，放眼八方荒远之地。",
+      "noteIds": [
+        "n-zhuozu",
+        "n-bahuang"
+      ]
+    },
+    {
+      "text": "鸿飞冥冥日月白，",
+      "pinyin": [
+        "hóng",
+        "fēi",
+        "míng",
+        "míng",
+        "rì",
+        "yuè",
+        "bái"
+      ],
+      "translation": "大雁高飞在深远的天际，日月皎洁，",
+      "noteIds": []
+    },
+    {
+      "text": "青枫叶赤天雨霜。",
+      "pinyin": [
+        "qīng",
+        "fēng",
+        "yè",
+        "chì",
+        "tiān",
+        "yù",
+        "shuāng"
+      ],
+      "translation": "青枫的叶子红了，天上下起秋霜。",
+      "noteIds": []
+    },
+    {
+      "text": "玉京群帝集北斗，",
+      "pinyin": [
+        "yù",
+        "jīng",
+        "qún",
+        "dì",
+        "jí",
+        "běi",
+        "dǒu"
+      ],
+      "translation": "仙山玉京的众仙帝聚集在北斗周围，",
+      "noteIds": [
+        "n-yujing"
+      ]
+    },
+    {
+      "text": "或骑麒麟翳凤凰。",
+      "pinyin": [
+        "huò",
+        "qí",
+        "qí",
+        "lín",
+        "yì",
+        "fèng",
+        "huáng"
+      ],
+      "translation": "有的骑着麒麟，有的乘着凤凰，遮天蔽日。",
+      "noteIds": [
+        "n-yi"
+      ]
+    },
+    {
+      "text": "芙蓉旌旗烟雾落，",
+      "pinyin": [
+        "fú",
+        "róng",
+        "jīng",
+        "qí",
+        "yān",
+        "wù",
+        "luò"
+      ],
+      "translation": "荷花般的旌旗渐渐沉入烟雾，",
+      "noteIds": []
+    },
+    {
+      "text": "影动倒景摇潇湘。",
+      "pinyin": [
+        "yǐng",
+        "dòng",
+        "dào",
+        "jǐng",
+        "yáo",
+        "xiāo",
+        "xiāng"
+      ],
+      "translation": "倒映的影子在潇湘的水面上摇动。",
+      "noteIds": []
+    },
+    {
+      "text": "星宫之君醉琼浆，",
+      "pinyin": [
+        "xīng",
+        "gōng",
+        "zhī",
+        "jūn",
+        "zuì",
+        "qióng",
+        "jiāng"
+      ],
+      "translation": "星宫里的仙君醉饮着美酒琼浆，",
+      "noteIds": []
+    },
+    {
+      "text": "羽人稀少不在旁。",
+      "pinyin": [
+        "yǔ",
+        "rén",
+        "xī",
+        "shǎo",
+        "bù",
+        "zài",
+        "páng"
+      ],
+      "translation": "羽衣仙人却稀少，不在他们身旁。",
+      "noteIds": [
+        "n-yuren"
+      ]
+    },
+    {
+      "text": "似闻昨者赤松子，",
+      "pinyin": [
+        "sì",
+        "wén",
+        "zuó",
+        "zhě",
+        "chì",
+        "sōng",
+        "zǐ"
+      ],
+      "translation": "听说你像过去的仙人赤松子，",
+      "noteIds": [
+        "n-chisong"
+      ]
+    },
+    {
+      "text": "恐是汉代韩张良。",
+      "pinyin": [
+        "kǒng",
+        "shì",
+        "hàn",
+        "dài",
+        "hán",
+        "zhāng",
+        "liáng"
+      ],
+      "translation": "恐怕更像是汉代的韩地张良。",
+      "noteIds": [
+        "n-hanzhangliang"
+      ]
+    },
+    {
+      "text": "昔随刘氏定长安，",
+      "pinyin": [
+        "xī",
+        "suí",
+        "liú",
+        "shì",
+        "dìng",
+        "cháng",
+        "ān"
+      ],
+      "translation": "你从前跟随刘氏平定天下、定都长安，",
+      "noteIds": []
+    },
+    {
+      "text": "帷幄未改神惨伤。",
+      "pinyin": [
+        "wéi",
+        "wò",
+        "wèi",
+        "gǎi",
+        "shén",
+        "cǎn",
+        "shāng"
+      ],
+      "translation": "如今运筹帷幄之心未改，精神却惨然忧伤。",
+      "noteIds": []
+    },
+    {
+      "text": "国家成败吾岂敢，",
+      "pinyin": [
+        "guó",
+        "jiā",
+        "chéng",
+        "bài",
+        "wú",
+        "qǐ",
+        "gǎn"
+      ],
+      "translation": "国家的成败大事，我怎敢坐视不理，",
+      "noteIds": []
+    },
+    {
+      "text": "色难腥腐餐枫香。",
+      "pinyin": [
+        "sè",
+        "nán",
+        "xīng",
+        "fǔ",
+        "cān",
+        "fēng",
+        "xiāng"
+      ],
+      "translation": "不愿忍受腥腐的世俗，宁可餐食枫香隐居。",
+      "noteIds": [
+        "n-fengxiang"
+      ]
+    },
+    {
+      "text": "周南留滞古所惜，",
+      "pinyin": [
+        "zhōu",
+        "nán",
+        "liú",
+        "zhì",
+        "gǔ",
+        "suǒ",
+        "xī"
+      ],
+      "translation": "像司马谈滞留周南不能封禅，自古令人痛惜，",
+      "noteIds": [
+        "n-zhounan"
+      ]
+    },
+    {
+      "text": "南极老人应寿昌。",
+      "pinyin": [
+        "nán",
+        "jí",
+        "lǎo",
+        "rén",
+        "yīng",
+        "shòu",
+        "chāng"
+      ],
+      "translation": "愿你像南极寿星那样，福寿绵长。",
+      "noteIds": []
+    },
+    {
+      "text": "美人胡为隔秋水，",
+      "pinyin": [
+        "měi",
+        "rén",
+        "hú",
+        "wéi",
+        "gé",
+        "qiū",
+        "shuǐ"
+      ],
+      "translation": "品德美好的人为何隔着秋水远在江湖，",
+      "noteIds": []
+    },
+    {
+      "text": "焉得置之贡玉堂。",
+      "pinyin": [
+        "yān",
+        "dé",
+        "zhì",
+        "zhī",
+        "gòng",
+        "yù",
+        "táng"
+      ],
+      "translation": "怎样才能把你举荐到朝廷玉堂之上？",
+      "noteIds": []
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-meiren",
+      "word": "美人",
+      "pinyin": "měi rén",
+      "meaning": "品德美好的人，这里指友人韩注。"
+    },
+    {
+      "id": "n-zhuozu",
+      "word": "濯足",
+      "pinyin": "zhuó zú",
+      "meaning": "洗脚，指在洞庭湖边隐居生活。"
+    },
+    {
+      "id": "n-bahuang",
+      "word": "八荒",
+      "pinyin": "bā huāng",
+      "meaning": "八方极远的地方。"
+    },
+    {
+      "id": "n-yujing",
+      "word": "玉京",
+      "pinyin": "yù jīng",
+      "meaning": "道教所说天帝居住的仙山。"
+    },
+    {
+      "id": "n-yi",
+      "word": "翳",
+      "pinyin": "yì",
+      "meaning": "遮蔽，这里形容骑乘凤凰、遮天蔽日。"
+    },
+    {
+      "id": "n-yuren",
+      "word": "羽人",
+      "pinyin": "yǔ rén",
+      "meaning": "穿羽衣的仙人，比喻贤才。"
+    },
+    {
+      "id": "n-chisong",
+      "word": "赤松子",
+      "pinyin": "chì sōng zǐ",
+      "meaning": "传说中的仙人。"
+    },
+    {
+      "id": "n-hanzhangliang",
+      "word": "韩张良",
+      "pinyin": "hán zhāng liáng",
+      "meaning": "汉初功臣张良，本是韩国贵族，功成后隐退，借指韩注的出身与风节。"
+    },
+    {
+      "id": "n-fengxiang",
+      "word": "枫香",
+      "pinyin": "fēng xiāng",
+      "meaning": "枫树流出的脂香，传说仙人服食，指隐居避世。"
+    },
+    {
+      "id": "n-zhounan",
+      "word": "周南",
+      "pinyin": "zhōu nán",
+      "meaning": "太史公司马谈滞留周南，未能随汉武帝封禅而抱憾，借指韩注被朝廷冷落。"
+    }
+  ],
+  "translation": "如今我心情不佳，思念远在岳阳的朋友，想奋飞前去探望，却病倒在床。品德美好的友人隔着秋水娟秀独立，在洞庭湖边洗脚，放眼八方荒远之地。大雁高飞在深远的天际，日月皎洁，青枫的叶子红了，天上下起秋霜。仙山玉京的众仙帝聚集在北斗周围，有的骑着麒麟，有的乘着凤凰，遮天蔽日。荷花般的旌旗渐渐沉入烟雾，倒映的影子在潇湘水面上摇动。星宫里的仙君醉饮着琼浆，羽衣仙人却稀少，不在他们身旁。听说你像过去的仙人赤松子，恐怕更像汉代的韩地张良。你从前跟随刘氏平定天下、定都长安，如今运筹帷幄之心未改，精神却惨然忧伤。国家的成败大事，我怎敢坐视不理；你不愿忍受腥腐的世俗，宁可餐食枫香隐居。像司马谈滞留周南不能封禅，自古令人痛惜，愿你像南极寿星那样福寿绵长。品德美好的人为何隔着秋水远在江湖？怎样才能把你举荐到朝廷玉堂之上？",
+  "appreciation": "这是写给罢官友人的信，却写得像一场仙游。洞庭秋水、北斗群仙、芙蓉旌旗，把友人的隐居写得缥缈高洁；再借赤松子和张良，夸他的才能与风骨。真正的意思藏在结尾：国家成败岂敢不管，好样的人怎能闲在江湖？全诗隐约含蓄，既敬重友人的退隐，又盼他重回朝廷，一片苦心藏在仙气之中。",
+  "background": "友人韩谏议注曾为朝廷出力，后来罢官退居洞庭湖一带。杜甫这时卧病异乡，得知好友退隐的消息，写下这首诗。诗以游仙的笔法委婉表达，既同情他的遭遇，又希望朝廷重新起用这样的贤才。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "病中思友",
+      "text": "杜甫卧病思友，欲飞岳阳探望而不能。"
+    },
+    {
+      "step": 2,
+      "title": "秋水仙踪",
+      "text": "友人如美人隔秋水，在洞庭濯足望八荒。"
+    },
+    {
+      "step": 3,
+      "title": "玉京群仙",
+      "text": "玉京群仙聚集北斗，唯独羽人稀少不在旁。"
+    },
+    {
+      "step": 4,
+      "title": "望贡玉堂",
+      "text": "愿友人寿昌，更望有人把他举荐进朝廷。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "濯",
+      "reading": "zhuó",
+      "reason": "“濯足”是在水中洗脚，读 zhuó。",
+      "standard": "不要读成 dí"
+    },
+    {
+      "char": "翳",
+      "reading": "yì",
+      "reason": "“翳凤凰”是遮蔽、掩映的意思，读 yì。"
+    },
+    {
+      "char": "幄",
+      "reading": "wò",
+      "reason": "“帷幄”指军中的帐幕，读 wò。"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1219
+}

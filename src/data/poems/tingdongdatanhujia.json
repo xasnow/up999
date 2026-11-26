@@ -1,0 +1,305 @@
+{
+  "id": "tang-shengtang-liqi-tingdongdatanhujia",
+  "slug": "tingdongdatanhujia",
+  "title": "听董大弹胡笳声兼寄语弄房给事",
+  "titlePinyin": "tīng dǒng dà tán hú jiā shēng jiān jì yǔ nòng fáng jǐ shì",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "七言古诗",
+  "authorId": "liqi",
+  "gradeBand": "ext",
+  "tags": ["音乐", "七言古诗", "胡笳", "秋叶"],
+  "difficulty": 3,
+  "writtenYear": 746,
+  "writtenLabel": "约天宝五载（746）前后，琴师董庭兰弹奏胡笳声，诗人兼捎话给任给事中的房琯",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "嘶酸雏雁失群夜，断绝胡儿恋母声。"
+  ],
+  "lines": [
+    {
+      "text": "蔡女昔造胡笳声，",
+      "pinyin": ["cài", "nǚ", "xī", "zào", "hú", "jiā", "shēng"],
+      "translation": "当年蔡文姬创制了胡笳的曲调，",
+      "noteIds": ["n-cainv"]
+    },
+    {
+      "text": "一弹一十有八拍。",
+      "pinyin": ["yī", "tán", "yī", "shí", "yǒu", "bā", "pāi"],
+      "translation": "一弹就是十八拍。",
+      "noteIds": ["n-shibapai"]
+    },
+    {
+      "text": "胡人落泪沾边草，",
+      "pinyin": ["hú", "rén", "luò", "lèi", "zhān", "biān", "cǎo"],
+      "translation": "听曲的胡人眼泪打湿了边地的草，",
+      "noteIds": []
+    },
+    {
+      "text": "汉使断肠对归客。",
+      "pinyin": ["hàn", "shǐ", "duàn", "cháng", "duì", "guī", "kè"],
+      "translation": "迎接她归汉的使者也对着归客肝肠寸断。",
+      "noteIds": ["n-guike"]
+    },
+    {
+      "text": "古戍苍苍烽火寒，",
+      "pinyin": ["gǔ", "shù", "cāng", "cāng", "fēng", "huǒ", "hán"],
+      "translation": "古老戍楼苍苍茫茫，烽火透着寒意，",
+      "noteIds": []
+    },
+    {
+      "text": "大荒阴沉飞雪白。",
+      "pinyin": ["dà", "huāng", "yīn", "chén", "fēi", "xuě", "bái"],
+      "translation": "广漠的原野阴沉昏暗，飞雪一片惨白。",
+      "noteIds": []
+    },
+    {
+      "text": "先拂商弦后角羽，",
+      "pinyin": ["xiān", "fú", "shāng", "xián", "hòu", "jué", "yǔ"],
+      "translation": "董大先拨商弦，再拨角弦、羽弦，",
+      "noteIds": ["n-shangxian"]
+    },
+    {
+      "text": "四郊秋叶惊摵摵。",
+      "pinyin": ["sì", "jiāo", "qiū", "yè", "jīng", "sè", "sè"],
+      "translation": "四郊的秋叶仿佛受了惊吓，簌簌落下。",
+      "noteIds": ["n-sese"]
+    },
+    {
+      "text": "董夫子，",
+      "pinyin": ["dǒng", "fū", "zǐ"],
+      "translation": "董先生啊，",
+      "noteIds": []
+    },
+    {
+      "text": "通神明，",
+      "pinyin": ["tōng", "shén", "míng"],
+      "translation": "你的琴艺通于神明，",
+      "noteIds": []
+    },
+    {
+      "text": "深山窃听来妖精。",
+      "pinyin": ["shēn", "shān", "qiè", "tīng", "lái", "yāo", "jīng"],
+      "translation": "连深山里的精灵都偷偷跑来听。",
+      "noteIds": []
+    },
+    {
+      "text": "言迟更速皆应手，",
+      "pinyin": ["yán", "chí", "gēng", "sù", "jiē", "yìng", "shǒu"],
+      "translation": "慢弹快拨都随手而出，收放自如，",
+      "noteIds": []
+    },
+    {
+      "text": "将往复旋如有情。",
+      "pinyin": ["jiāng", "wǎng", "fù", "xuán", "rú", "yǒu", "qíng"],
+      "translation": "音调将去又回，缠绵得像有感情似的。",
+      "noteIds": []
+    },
+    {
+      "text": "空山百鸟散还合，",
+      "pinyin": ["kōng", "shān", "bǎi", "niǎo", "sàn", "hái", "hé"],
+      "translation": "空山里的百鸟听了，飞散了又聚拢，",
+      "noteIds": []
+    },
+    {
+      "text": "万里浮云阴且晴。",
+      "pinyin": ["wàn", "lǐ", "fú", "yún", "yīn", "qiě", "qíng"],
+      "translation": "万里浮云听了，由阴转晴。",
+      "noteIds": []
+    },
+    {
+      "text": "嘶酸雏雁失群夜，",
+      "pinyin": ["sī", "suān", "chú", "yàn", "shī", "qún", "yè"],
+      "translation": "那琴声像失群雏雁夜里酸楚的嘶鸣，",
+      "noteIds": []
+    },
+    {
+      "text": "断绝胡儿恋母声。",
+      "pinyin": ["duàn", "jué", "hú", "ér", "liàn", "mǔ", "shēng"],
+      "translation": "又像胡儿与母亲生离死别的哭声。",
+      "noteIds": []
+    },
+    {
+      "text": "川为静其波，",
+      "pinyin": ["chuān", "wéi", "jìng", "qí", "bō"],
+      "translation": "河水听了，平息了波浪，",
+      "noteIds": []
+    },
+    {
+      "text": "鸟亦罢其鸣。",
+      "pinyin": ["niǎo", "yì", "bà", "qí", "míng"],
+      "translation": "鸟儿听了，也停止了啼鸣。",
+      "noteIds": []
+    },
+    {
+      "text": "乌孙部落家乡远，",
+      "pinyin": ["wū", "sūn", "bù", "luò", "jiā", "xiāng", "yuǎn"],
+      "translation": "乌孙部落的公主家乡太远，",
+      "noteIds": ["n-wusun"]
+    },
+    {
+      "text": "逻娑沙尘哀怨生。",
+      "pinyin": ["luó", "suō", "shā", "chén", "āi", "yuàn", "shēng"],
+      "translation": "逻娑城的沙尘里也生出哀怨。",
+      "noteIds": ["n-luosuo"]
+    },
+    {
+      "text": "幽音变调忽飘洒，",
+      "pinyin": ["yōu", "yīn", "biàn", "diào", "hū", "piāo", "sǎ"],
+      "translation": "低幽的曲调忽然一变，变得轻快飘洒，",
+      "noteIds": []
+    },
+    {
+      "text": "长风吹林雨堕瓦。",
+      "pinyin": ["cháng", "fēng", "chuī", "lín", "yǔ", "duò", "wǎ"],
+      "translation": "像长风吹过树林，又像大雨落在屋瓦上。",
+      "noteIds": []
+    },
+    {
+      "text": "迸泉飒飒飞木末，",
+      "pinyin": ["bèng", "quán", "sà", "sà", "fēi", "mù", "mò"],
+      "translation": "又像迸涌的泉水飒飒冲上树梢，",
+      "noteIds": []
+    },
+    {
+      "text": "野鹿呦呦走堂下。",
+      "pinyin": ["yě", "lù", "yōu", "yōu", "zǒu", "táng", "xià"],
+      "translation": "像野鹿呦呦叫着跑到厅堂下。",
+      "noteIds": []
+    },
+    {
+      "text": "长安城连东掖垣，",
+      "pinyin": ["cháng", "ān", "chéng", "lián", "dōng", "yè", "yuán"],
+      "translation": "长安城连接着宫城东边的官署院墙，",
+      "noteIds": ["n-yeyuan"]
+    },
+    {
+      "text": "凤凰池对青琐门。",
+      "pinyin": ["fèng", "huáng", "chí", "duì", "qīng", "suǒ", "mén"],
+      "translation": "凤凰池正对着雕着青色花纹的宫门。",
+      "noteIds": ["n-fenghuangchi"]
+    },
+    {
+      "text": "高才脱略名与利，",
+      "pinyin": ["gāo", "cái", "tuō", "lüè", "míng", "yǔ", "lì"],
+      "translation": "房给事才华出众，不把名利放在心上，",
+      "noteIds": ["n-tuolue"]
+    },
+    {
+      "text": "日夕望君抱琴至。",
+      "pinyin": ["rì", "xī", "wàng", "jūn", "bào", "qín", "zhì"],
+      "translation": "从早到晚盼望着你抱着琴到来。",
+      "noteIds": []
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-cainv",
+      "word": "蔡女",
+      "pinyin": "cài nǚ",
+      "meaning": "指蔡琰（蔡文姬），东汉末年女音乐家，被掳到匈奴十二年。"
+    },
+    {
+      "id": "n-shibapai",
+      "word": "十八拍",
+      "pinyin": "shí bā pāi",
+      "meaning": "即《胡笳十八拍》，相传是蔡文姬所作的琴曲。"
+    },
+    {
+      "id": "n-guike",
+      "word": "归客",
+      "pinyin": "guī kè",
+      "meaning": "指从匈奴归汉的蔡文姬。"
+    },
+    {
+      "id": "n-shangxian",
+      "word": "商弦角羽",
+      "pinyin": "shāng xián jué yǔ",
+      "meaning": "宫、商、角、徵、羽是琴上的五音，这里指先拨商音、后拨角音羽音。"
+    },
+    {
+      "id": "n-sese",
+      "word": "摵摵",
+      "pinyin": "sè sè",
+      "meaning": "落叶的声音。"
+    },
+    {
+      "id": "n-wusun",
+      "word": "乌孙",
+      "pinyin": "wū sūn",
+      "meaning": "汉代西域国名，汉武帝曾把细君公主嫁到那里。"
+    },
+    {
+      "id": "n-luosuo",
+      "word": "逻娑",
+      "pinyin": "luó suō",
+      "meaning": "吐蕃的都城（今拉萨），唐文成公主远嫁之地。"
+    },
+    {
+      "id": "n-yeyuan",
+      "word": "掖垣",
+      "pinyin": "yè yuán",
+      "meaning": "宫墙，唐代指门下省、中书省官署所在地。"
+    },
+    {
+      "id": "n-fenghuangchi",
+      "word": "凤凰池",
+      "pinyin": "fèng huáng chí",
+      "meaning": "中书省的美称，这里指房琯任职的近禁之地。"
+    },
+    {
+      "id": "n-tuolue",
+      "word": "脱略",
+      "pinyin": "tuō lüè",
+      "meaning": "放任不拘，不把名利放在心上。"
+    }
+  ],
+  "translation": "当年蔡文姬创制了胡笳的曲调，一弹就是十八拍。听曲的胡人眼泪打湿了边地的草，迎接她归汉的使者也对着归客肝肠寸断。古老戍楼苍苍茫茫，烽火透着寒意，广漠的原野阴沉昏暗，飞雪一片惨白。董大先拨商弦，再拨角弦、羽弦，四郊的秋叶仿佛受了惊吓，簌簌落下。董先生啊，你的琴艺通于神明，连深山里的精灵都偷偷跑来听。慢弹快拨都随手而出，音调将去又回，缠绵得像有感情似的。空山里的百鸟听了，飞散了又聚拢；万里浮云听了，由阴转晴。那琴声像失群雏雁夜里酸楚的嘶鸣，又像胡儿与母亲生离死别的哭声。河水听了平息了波浪，鸟儿听了停止了啼鸣。乌孙部落的公主家乡太远，逻娑城的沙尘里也生出哀怨。低幽的曲调忽然一变，变得轻快飘洒，像长风吹过树林，又像大雨落在屋瓦上；又像迸涌的泉水飒飒冲上树梢，野鹿呦呦叫着跑到厅堂下。长安城连接着宫城东边的官署院墙，凤凰池正对着雕着青色花纹的宫门。房给事才华出众，不把名利放在心上，从早到晚盼望着你抱着琴到来。",
+  "appreciation": "全诗先讲胡笳曲的来历，再用重笔写琴声：琴声像失群雏雁的夜鸣，像胡儿与母亲诀别的哭声，让河水停波、鸟儿停叫；忽而又变调，像风吹林、雨落瓦、泉迸树梢、鹿鸣堂下。诗人把听不见的音乐变成了看得见的画面，最后轻轻一笔，点出听琴的主人房给事不慕名利、日夜盼琴师再来，收得干净利落。",
+  "background": "董大就是著名琴师董庭兰，他善弹琴曲《胡笳十八拍》。房给事指房琯，当时任门下省给事中，董庭兰是他的门客。李颀听董庭兰弹琴后写下此诗，既赞美琴艺，也捎话给房琯：他不慕名利，天天盼着琴师抱琴而来。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "曲有来历",
+      "text": "当年蔡文姬写下十八拍的胡笳曲，胡人汉使听了都落泪。"
+    },
+    {
+      "step": 2,
+      "title": "琴声初起",
+      "text": "董大拨响琴弦，四郊秋叶仿佛受了惊吓，簌簌地落下。"
+    },
+    {
+      "step": 3,
+      "title": "川静鸟停",
+      "text": "琴声像雏雁失群、胡儿别母，河水停波，鸟儿也停了啼鸣。"
+    },
+    {
+      "step": 4,
+      "title": "曲终寄语",
+      "text": "曲调忽转轻快如风雨，房给事不慕名利，日夜盼琴师再来。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "摵摵",
+      "reading": "sè sè",
+      "reason": "“摵摵”是落叶声，形容秋叶簌簌落下。"
+    },
+    {
+      "char": "逻娑",
+      "reading": "luó suō",
+      "reason": "“逻娑”是吐蕃都城名（今拉萨），作地名读 luó suō。"
+    },
+    {
+      "char": "角",
+      "reading": "jué",
+      "reason": "宫商角徵羽五音里的“角”读 jué。",
+      "standard": "不要读成 jiǎo"
+    }
+  ],
+  "sources": ["《全唐诗》", "《唐诗三百首》"],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1210
+}

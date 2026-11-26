@@ -1,0 +1,167 @@
+{
+  "id": "tang-wantang-dumu-zengbie-yiqi",
+  "slug": "zengbie-yiqi",
+  "title": "赠别·其一",
+  "titlePinyin": "zèng bié · qí yī",
+  "dynasty": "tangshi",
+  "era": "wantang",
+  "genre": "shi",
+  "form": "七言绝句",
+  "authorId": "dumu",
+  "gradeBand": "ext",
+  "tags": [
+    "送别",
+    "七言绝句",
+    "春风",
+    "豆蔻"
+  ],
+  "difficulty": 3,
+  "writtenYear": 835,
+  "writtenLabel": "约公元 835 年（杜牧 33 岁，离开扬州时赠别歌女）",
+  "orderInAuthor": 3,
+  "no": 1022,
+  "famousLines": [
+    "春风十里扬州路，卷上珠帘总不如。"
+  ],
+  "lines": [
+    {
+      "text": "娉娉袅袅十三余，",
+      "pinyin": [
+        "pīng",
+        "pīng",
+        "niǎo",
+        "niǎo",
+        "shí",
+        "sān",
+        "yú"
+      ],
+      "translation": "她姿态轻盈美好，正是十三岁的年纪。",
+      "noteIds": [
+        "n-ping"
+      ]
+    },
+    {
+      "text": "豆蔻梢头二月初。",
+      "pinyin": [
+        "dòu",
+        "kòu",
+        "shāo",
+        "tóu",
+        "èr",
+        "yuè",
+        "chū"
+      ],
+      "translation": "就像二月初枝头含苞待放的豆蔻花。",
+      "noteIds": [
+        "n-kou",
+        "n-shao"
+      ]
+    },
+    {
+      "text": "春风十里扬州路，",
+      "pinyin": [
+        "chūn",
+        "fēng",
+        "shí",
+        "lǐ",
+        "yáng",
+        "zhōu",
+        "lù"
+      ],
+      "translation": "看遍春风里扬州十里长街，",
+      "noteIds": []
+    },
+    {
+      "text": "卷上珠帘总不如。",
+      "pinyin": [
+        "juǎn",
+        "shàng",
+        "zhū",
+        "lián",
+        "zǒng",
+        "bù",
+        "rú"
+      ],
+      "translation": "家家卷起珠帘，也没有一个比得上她。",
+      "noteIds": [
+        "n-zhulian"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-ping",
+      "word": "娉娉袅袅",
+      "pinyin": "pīng pīng niǎo niǎo",
+      "meaning": "形容女子身姿轻盈美好的样子。"
+    },
+    {
+      "id": "n-kou",
+      "word": "豆蔻",
+      "pinyin": "dòu kòu",
+      "meaning": "一种植物，春末开花；诗里用来比喻十三岁的少女。"
+    },
+    {
+      "id": "n-shao",
+      "word": "梢头",
+      "pinyin": "shāo tóu",
+      "meaning": "枝头，树枝的顶端。"
+    },
+    {
+      "id": "n-zhulian",
+      "word": "珠帘",
+      "pinyin": "zhū lián",
+      "meaning": "用珠子串成的门帘，这里代指街边人家。"
+    }
+  ],
+  "translation": "她体态轻盈美好，年纪正是十三岁，就像二月初枝头含苞待放的豆蔻花。看遍春风里扬州十里长街，家家卷起珠帘，也没有一个比得上她。",
+  "appreciation": "诗人不直接说姑娘多美，而是拿一枝二月初的豆蔻花来打比方：花含苞待放，人也正青春。后两句更妙，扬州十里长街那么热闹，家家卷起珠帘，可谁也比不上她。不比眉眼，只比气氛，用一整条街来衬托一个人，美得含蓄又有力，成了写少女之美的千古名句。",
+  "background": "公元835年前后，杜牧在扬州做了两年多幕僚，离开时写诗赠给一位相好的歌女。这是第一首，专门夸她年轻美丽；第二首写离别时的不舍。两首合在一起，是杜牧扬州岁月最动人的纪念。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "豆蔻年华",
+      "text": "十三岁的少女体态轻盈，正像二月初枝头的豆蔻花。"
+    },
+    {
+      "step": 2,
+      "title": "十里长街",
+      "text": "春风吹过扬州十里长街，街边店铺人家热闹起来。"
+    },
+    {
+      "step": 3,
+      "title": "卷起珠帘",
+      "text": "一家一家卷起珠帘，露出一张张年轻的面孔。"
+    },
+    {
+      "step": 4,
+      "title": "总不如她",
+      "text": "看遍长街，诗人觉得谁也比不上他心中的那位姑娘。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "娉",
+      "reading": "pīng",
+      "reason": "“娉娉袅袅”形容女子体态轻盈，“娉”读 pīng。",
+      "standard": "不要读成 pìn"
+    },
+    {
+      "char": "袅",
+      "reading": "niǎo",
+      "reason": "“袅袅”形容柔美摇曳的样子，读 niǎo。"
+    },
+    {
+      "char": "卷",
+      "reading": "juǎn",
+      "reason": "“卷上珠帘”是把帘子卷起来，读 juǎn。",
+      "standard": "不要读成 juàn"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26"
+}

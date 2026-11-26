@@ -1,0 +1,91 @@
+{
+  "id": "tang-zhongtang-liuzongyuan-xiju",
+  "slug": "xiju",
+  "title": "溪居",
+  "titlePinyin": "xī jū",
+  "dynasty": "tangshi",
+  "era": "zhongtang",
+  "genre": "shi",
+  "form": "五言古诗",
+  "authorId": "liuzongyuan",
+  "gradeBand": "ext",
+  "tags": ["田园", "五言古诗", "露草", "溪石"],
+  "difficulty": 3,
+  "writtenYear": 810,
+  "writtenLabel": "约公元 810 年（柳宗元 37 岁，贬居永州，迁到愚溪边居住后所作）",
+  "orderInAuthor": 1,
+  "famousLines": ["晓耕翻露草，夜榜响溪石。"],
+  "lines": [
+    {
+      "text": "久为簪组累，",
+      "pinyin": ["jiǔ", "wéi", "zān", "zǔ", "lěi"],
+      "translation": "长久以来被官帽簪缨拖累着，",
+      "noteIds": ["n-zanzu"]
+    },
+    {
+      "text": "幸此南夷谪。",
+      "pinyin": ["xìng", "cǐ", "nán", "yí", "zhé"],
+      "translation": "幸好被贬到这南方的蛮荒之地。",
+      "noteIds": ["n-zhe"]
+    },
+    {
+      "text": "闲依农圃邻，",
+      "pinyin": ["xián", "yī", "nóng", "pǔ", "lín"],
+      "translation": "闲下来和农田菜园做邻居，",
+      "noteIds": []
+    },
+    {
+      "text": "偶似山林客。",
+      "pinyin": ["ǒu", "sì", "shān", "lín", "kè"],
+      "translation": "有时还真像个山林里的隐士。",
+      "noteIds": []
+    },
+    {
+      "text": "晓耕翻露草，",
+      "pinyin": ["xiǎo", "gēng", "fān", "lù", "cǎo"],
+      "translation": "清晨耕田，翻开还挂着露水的青草，",
+      "noteIds": []
+    },
+    {
+      "text": "夜榜响溪石。",
+      "pinyin": ["yè", "bàng", "xiǎng", "xī", "shí"],
+      "translation": "夜晚撑船，桨声在溪石上回响。",
+      "noteIds": ["n-bang"]
+    },
+    {
+      "text": "来往不逢人，",
+      "pinyin": ["lái", "wǎng", "bù", "féng", "rén"],
+      "translation": "来来往往碰不到什么人，",
+      "noteIds": []
+    },
+    {
+      "text": "长歌楚天碧。",
+      "pinyin": ["cháng", "gē", "chǔ", "tiān", "bì"],
+      "translation": "我对着南方碧蓝的天空放声长歌。",
+      "noteIds": []
+    }
+  ],
+  "notes": [
+    { "id": "n-zanzu", "word": "簪组", "pinyin": "zān zǔ", "meaning": "簪子和帽带，都是做官人的穿戴，代指官职。" },
+    { "id": "n-zhe", "word": "谪", "pinyin": "zhé", "meaning": "古代官员被降职派到边远地方。" },
+    { "id": "n-bang", "word": "榜", "pinyin": "bàng", "meaning": "船桨，这里指划船。" }
+  ],
+  "translation": "长久以来被官帽簪缨拖累，幸好如今被贬到这南方水乡。闲时与农田菜园为邻，有时还真像个山林隐士。清晨耕田，翻开带露水的青草；夜晚行船，桨声在溪石上回响。来来往往碰不到什么人，我对着南方碧蓝的天空放声长歌。",
+  "appreciation": "诗人说自己被官帽簪缨累了许多年，如今被贬到南方，反而像是得到了自由。白天在田里劳作，露水还挂在草叶上；夜里撑船，桨声敲响溪石。这里安静得几乎没有别人，只有对着青碧的天空长歌。表面上是庆幸和悠闲，字缝里却藏着被贬的苦涩——那个“幸”字，其实带着说不出的委屈。",
+  "background": "柳宗元被贬永州五年多后，在 810 年搬到愚溪边安家，种地、出游，把日子过得像隐士。这首诗写的就是他在溪边的新生活，嘴上说“幸”，其实是苦中作乐。",
+  "storyline": [
+    { "step": 1, "title": "摆脱官累", "text": "多年做官受累，诗人被贬来到南方溪边。" },
+    { "step": 2, "title": "与农为邻", "text": "闲居在农田菜园旁边，像山林里的客人。" },
+    { "step": 3, "title": "晓耕夜榜", "text": "清早耕田翻起草上露水，夜里划船桨声敲响溪石。" },
+    { "step": 4, "title": "长歌楚天", "text": "来往没有旁人，他对着碧蓝的天空放声歌唱。" }
+  ],
+  "pinyinNotes": [
+    { "char": "簪", "reading": "zān", "reason": "“簪组”的“簪”是别头发的簪子，读 zān。" },
+    { "char": "谪", "reading": "zhé", "reason": "贬官叫“谪”，读 zhé。" },
+    { "char": "榜", "reading": "bàng", "reason": "“夜榜”的“榜”指划船，读 bàng。", "standard": "不要读成 bǎng" }
+  ],
+  "sources": ["《全唐诗》", "《唐诗三百首》"],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1186
+}

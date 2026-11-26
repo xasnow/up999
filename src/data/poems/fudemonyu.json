@@ -1,0 +1,158 @@
+{
+  "id": "tang-zhongtang-weiyingwu-fudemonyu",
+  "slug": "fudemonyu",
+  "title": "赋得暮雨送李胄",
+  "titlePinyin": "fù dé mù yǔ sòng lǐ zhòu",
+  "dynasty": "tangshi",
+  "era": "zhongtang",
+  "genre": "shi",
+  "form": "五言律诗",
+  "authorId": "weiyingwu",
+  "gradeBand": "ext",
+  "tags": ["送别", "五言律诗", "暮雨", "长江"],
+  "difficulty": 3,
+  "writtenYear": 784,
+  "writtenLabel": "约公元 784 年（韦应物 47 岁，任滁州刺史期间，在江边冒雨送别友人李胄）",
+  "orderInAuthor": 3,
+  "no": 1093,
+  "famousLines": [
+    "漠漠帆来重，冥冥鸟去迟。",
+    "相送情无限，沾襟比散丝。"
+  ],
+  "lines": [
+    {
+      "text": "楚江微雨里，",
+      "pinyin": ["chǔ", "jiāng", "wēi", "yǔ", "lǐ"],
+      "translation": "细雨笼罩着楚地的江面，",
+      "noteIds": ["n-chujiang"]
+    },
+    {
+      "text": "建业暮钟时。",
+      "pinyin": ["jiàn", "yè", "mù", "zhōng", "shí"],
+      "translation": "建业城传来傍晚的钟声。",
+      "noteIds": ["n-jianye"]
+    },
+    {
+      "text": "漠漠帆来重，",
+      "pinyin": ["mò", "mò", "fān", "lái", "zhòng"],
+      "translation": "水汽迷蒙，船帆被雨打湿显得沉重，",
+      "noteIds": ["n-momo"]
+    },
+    {
+      "text": "冥冥鸟去迟。",
+      "pinyin": ["míng", "míng", "niǎo", "qù", "chí"],
+      "translation": "天色昏暗，鸟儿冒雨飞得很迟缓。",
+      "noteIds": ["n-mingming"]
+    },
+    {
+      "text": "海门深不见，",
+      "pinyin": ["hǎi", "mén", "shēn", "bù", "jiàn"],
+      "translation": "海门远在深处，望也望不见，",
+      "noteIds": ["n-haimen"]
+    },
+    {
+      "text": "浦树远含滋。",
+      "pinyin": ["pǔ", "shù", "yuǎn", "hán", "zī"],
+      "translation": "岸边的树隔着水汽，含着蒙蒙的湿气。",
+      "noteIds": []
+    },
+    {
+      "text": "相送情无限，",
+      "pinyin": ["xiāng", "sòng", "qíng", "wú", "xiàn"],
+      "translation": "送别的情意没有尽头，",
+      "noteIds": []
+    },
+    {
+      "text": "沾襟比散丝。",
+      "pinyin": ["zhān", "jīn", "bǐ", "sǎn", "sī"],
+      "translation": "泪水沾湿衣襟，就像散乱的雨丝。",
+      "noteIds": ["n-sansi"]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-chujiang",
+      "word": "楚江",
+      "pinyin": "chǔ jiāng",
+      "meaning": "指长江，这一段古时属楚国，所以叫楚江。"
+    },
+    {
+      "id": "n-jianye",
+      "word": "建业",
+      "pinyin": "jiàn yè",
+      "meaning": "今江苏南京。"
+    },
+    {
+      "id": "n-momo",
+      "word": "漠漠",
+      "pinyin": "mò mò",
+      "meaning": "水汽迷茫密布的样子。"
+    },
+    {
+      "id": "n-mingming",
+      "word": "冥冥",
+      "pinyin": "míng míng",
+      "meaning": "天色昏暗的样子。"
+    },
+    {
+      "id": "n-haimen",
+      "word": "海门",
+      "pinyin": "hǎi mén",
+      "meaning": "长江入海口一带，离这里很远。"
+    },
+    {
+      "id": "n-sansi",
+      "word": "散丝",
+      "pinyin": "sǎn sī",
+      "meaning": "散开的细雨丝，这里也指泪水。"
+    }
+  ],
+  "translation": "细雨笼罩着楚地的江面，建业城传来傍晚的钟声。水汽迷蒙，船帆被雨打湿显得沉重；天色昏暗，鸟儿冒雨飞得很迟缓。海门远在深处，望也望不见；岸边的树隔着水汽，含着蒙蒙的湿气。送别的情意没有尽头，泪水沾湿衣襟，就像散乱的雨丝。",
+  "appreciation": "全诗句句不离暮雨：雨落在楚江上，落在船帆上，落在归鸟的翅膀上，也落在离人的心里。帆被雨打湿显得沉重，鸟儿冒雨飞得迟缓，远处的树也含满水汽，这一切都在替人发愁。结尾把泪水比作散乱的雨丝，景和情融成一片，历来被看作送别诗的名篇。",
+  "background": "唐德宗兴元元年前后（784），韦应物在滁州做刺史。友人李胄要渡江南下，他在江边送行。这天傍晚下着细雨，正好众人分题赋诗，他分到的题目是“暮雨”，于是写下这首著名的送别诗。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "微雨暮钟",
+      "text": "细雨笼罩着楚江，建业城传来傍晚的钟声。"
+    },
+    {
+      "step": 2,
+      "title": "帆重鸟迟",
+      "text": "船帆被雨打湿显得沉重，鸟儿在昏暗中飞得迟缓。"
+    },
+    {
+      "step": 3,
+      "title": "远望不见",
+      "text": "海门远得看不见，岸边的树隔着水汽一片迷蒙。"
+    },
+    {
+      "step": 4,
+      "title": "泪比雨丝",
+      "text": "送别的情意没有尽头，泪水沾湿衣襟，好像散乱的雨丝。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "重",
+      "reading": "zhòng",
+      "reason": "“帆来重”的“重”指船帆被雨打湿变沉，读 zhòng。",
+      "standard": "不要读成 chóng"
+    },
+    {
+      "char": "胄",
+      "reading": "zhòu",
+      "reason": "人名用字，“李胄”的“胄”读 zhòu。",
+      "standard": "不要读成 wèi"
+    },
+    {
+      "char": "浦",
+      "reading": "pǔ",
+      "reason": "“浦树”指水边的树，“浦”是水滨，读 pǔ。",
+      "standard": "不要读成 fǔ"
+    }
+  ],
+  "sources": ["《全唐诗》", "《唐诗三百首》"],
+  "status": "published",
+  "updatedAt": "2026-11-26"
+}

@@ -1,0 +1,146 @@
+{
+  "id": "tang-shengtang-canshen-jizuoshengdushiyi",
+  "slug": "jizuoshengdushiyi",
+  "title": "寄左省杜拾遗",
+  "titlePinyin": "jì zuǒ shěng dù shí yí",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "五言律诗",
+  "authorId": "canshen",
+  "gradeBand": "ext",
+  "tags": ["友情", "五言律诗", "宫廷", "白发"],
+  "difficulty": 3,
+  "writtenYear": 757,
+  "writtenLabel": "约公元 757 年（岑参 42 岁左右，任右补阙，与任左拾遗的杜甫同朝为谏官）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "白发悲花落，青云羡鸟飞。"
+  ],
+  "lines": [
+    {
+      "text": "联步趋丹陛，",
+      "pinyin": ["lián", "bù", "qū", "dān", "bì"],
+      "translation": "我们并肩快步，走上宫殿的红台阶。",
+      "noteIds": ["n-danbi"]
+    },
+    {
+      "text": "分曹限紫微。",
+      "pinyin": ["fēn", "cáo", "xiàn", "zǐ", "wēi"],
+      "translation": "分属两个衙门，隔在中书省的两边。",
+      "noteIds": ["n-fencao", "n-ziwei"]
+    },
+    {
+      "text": "晓随天仗入，",
+      "pinyin": ["xiǎo", "suí", "tiān", "zhàng", "rù"],
+      "translation": "清晨跟着皇帝的仪仗进宫。",
+      "noteIds": ["n-tianzhang"]
+    },
+    {
+      "text": "暮惹御香归。",
+      "pinyin": ["mù", "rě", "yù", "xiāng", "guī"],
+      "translation": "傍晚带着宫殿里的香气回家。",
+      "noteIds": ["n-yuxiang"]
+    },
+    {
+      "text": "白发悲花落，",
+      "pinyin": ["bái", "fà", "bēi", "huā", "luò"],
+      "translation": "头发白了，看见花落就心生悲伤。",
+      "noteIds": []
+    },
+    {
+      "text": "青云羡鸟飞。",
+      "pinyin": ["qīng", "yún", "xiàn", "niǎo", "fēi"],
+      "translation": "仰望青云，羡慕鸟儿还能自由飞翔。",
+      "noteIds": ["n-qingyun"]
+    },
+    {
+      "text": "圣朝无阙事，",
+      "pinyin": ["shèng", "cháo", "wú", "què", "shì"],
+      "translation": "圣明的朝廷没有什么缺失的事。",
+      "noteIds": ["n-queshi"]
+    },
+    {
+      "text": "自觉谏书稀。",
+      "pinyin": ["zì", "jué", "jiàn", "shū", "xī"],
+      "translation": "自己也觉得进谏的奏章越来越少了。",
+      "noteIds": ["n-jianshu"]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-danbi",
+      "word": "丹陛",
+      "pinyin": "dān bì",
+      "meaning": "宫殿红色的台阶，借指朝廷。"
+    },
+    {
+      "id": "n-fencao",
+      "word": "分曹",
+      "pinyin": "fēn cáo",
+      "meaning": "分部门办公，指两人分属不同衙门。"
+    },
+    {
+      "id": "n-ziwei",
+      "word": "紫微",
+      "pinyin": "zǐ wēi",
+      "meaning": "唐代中书省的代称。"
+    },
+    {
+      "id": "n-tianzhang",
+      "word": "天仗",
+      "pinyin": "tiān zhàng",
+      "meaning": "皇帝出行的仪仗。"
+    },
+    {
+      "id": "n-yuxiang",
+      "word": "御香",
+      "pinyin": "yù xiāng",
+      "meaning": "宫殿里烧的香，指皇家的气息。"
+    },
+    {
+      "id": "n-qingyun",
+      "word": "青云",
+      "pinyin": "qīng yún",
+      "meaning": "高高的天空，比喻高远的抱负和显位。"
+    },
+    {
+      "id": "n-queshi",
+      "word": "阙事",
+      "pinyin": "què shì",
+      "meaning": "缺点和过失。"
+    },
+    {
+      "id": "n-jianshu",
+      "word": "谏书",
+      "pinyin": "jiàn shū",
+      "meaning": "向皇帝提意见的奏章。"
+    }
+  ],
+  "translation": "我们并肩快步，走上宫殿的红台阶；分属两个衙门，隔在中书省的两边。清晨跟着皇帝的仪仗进宫，傍晚带着宫殿里的香气回家。头发白了，看见花落就心生悲伤；仰望青云，羡慕鸟儿还能自由飞翔。圣明的朝廷没有什么缺失的事，自己也觉得进谏的奏章越来越少了。",
+  "appreciation": "这首诗写的是谏官的日子：上朝、下朝，天天照章办事，看似体面，诗人心里却很失落。看花落而悲、望鸟飞而羡，两句把想干一番大事却无处使劲的心情写得很巧妙。结尾说朝廷没有缺点、谏书稀少，是牢骚话反着说，分寸巧妙，委屈更深。这是写给好友杜甫的寄赠之作。",
+  "background": "约公元757年，岑参任右补阙，杜甫任左拾遗，两人都是给皇帝提意见的谏官。他们本想大有作为，却不受重用。岑参写下这首诗寄给杜甫，诉说做小官的苦闷，同病相怜。",
+  "storyline": [
+    { "step": 1, "title": "并肩上朝", "text": "清晨天刚亮，两位谏官沿着红色台阶快步上朝。" },
+    { "step": 2, "title": "分处两衙", "text": "两人分属不同的衙门，隔着宫廷各自办各自的事。" },
+    { "step": 3, "title": "早晚随驾", "text": "清晨跟着皇帝仪仗进宫，傍晚带着御香回家。" },
+    { "step": 4, "title": "白发羡飞", "text": "诗人感叹头发白了功业无成，羡慕鸟儿自由飞上青云。" }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "阙",
+      "reading": "què",
+      "reason": "“无阙事”的“阙”指缺点，读 què。",
+      "standard": "不要读成 quē"
+    },
+    {
+      "char": "拾遗",
+      "reading": "shí yí",
+      "reason": "“拾遗”是唐代官名，读 shí yí。"
+    }
+  ],
+  "sources": ["《全唐诗》", "《唐诗三百首》"],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1058
+}

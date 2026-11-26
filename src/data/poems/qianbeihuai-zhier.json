@@ -1,0 +1,120 @@
+{
+  "id": "tang-zhongtang-yuanzhen-qianbeihuai-zhier",
+  "slug": "qianbeihuai-zhier",
+  "title": "遣悲怀三首·其二",
+  "titlePinyin": "qiǎn bēi huái sān shǒu · qí èr",
+  "dynasty": "tangshi",
+  "era": "zhongtang",
+  "genre": "shi",
+  "form": "七言律诗",
+  "authorId": "yuanzhen",
+  "gradeBand": "ext",
+  "difficulty": 3,
+  "tags": ["思念", "七言律诗", "针线", "旧衣"],
+  "writtenYear": 809,
+  "writtenLabel": "公元 809 年（元稹 31 岁，悼念亡妻韦丛）",
+  "orderInAuthor": 2,
+  "famousLines": [
+    "诚知此恨人人有，贫贱夫妻百事哀。"
+  ],
+  "lines": [
+    {
+      "text": "昔日戏言身后意，",
+      "pinyin": ["xī", "rì", "xì", "yán", "shēn", "hòu", "yì"],
+      "translation": "当年开玩笑说定的身后事，",
+      "noteIds": ["n-shenhou"]
+    },
+    {
+      "text": "今朝都到眼前来。",
+      "pinyin": ["jīn", "zhāo", "dōu", "dào", "yǎn", "qián", "lái"],
+      "translation": "如今竟一一摆在了眼前。",
+      "noteIds": []
+    },
+    {
+      "text": "衣裳已施行看尽，",
+      "pinyin": ["yī", "shang", "yǐ", "shī", "xíng", "kàn", "jìn"],
+      "translation": "你穿过的衣裳，我已快施舍完了，",
+      "noteIds": ["n-shi", "n-xingkan"]
+    },
+    {
+      "text": "针线犹存未忍开。",
+      "pinyin": ["zhēn", "xiàn", "yóu", "cún", "wèi", "rěn", "kāi"],
+      "translation": "你做过的针线活，我不忍心打开来看。",
+      "noteIds": []
+    },
+    {
+      "text": "尚想旧情怜婢仆，",
+      "pinyin": ["shàng", "xiǎng", "jiù", "qíng", "lián", "bì", "pú"],
+      "translation": "因为想到旧日的情分，对婢女仆人也格外怜惜，",
+      "noteIds": ["n-bipu"]
+    },
+    {
+      "text": "也曾因梦送钱财。",
+      "pinyin": ["yě", "céng", "yīn", "mèng", "sòng", "qián", "cái"],
+      "translation": "也曾梦见你缺钱，醒来就焚纸送钱给你。",
+      "noteIds": []
+    },
+    {
+      "text": "诚知此恨人人有，",
+      "pinyin": ["chéng", "zhī", "cǐ", "hèn", "rén", "rén", "yǒu"],
+      "translation": "我确实知道，这种死别的遗憾人人都会有，",
+      "noteIds": ["n-cihen"]
+    },
+    {
+      "text": "贫贱夫妻百事哀。",
+      "pinyin": ["pín", "jiàn", "fū", "qī", "bǎi", "shì", "āi"],
+      "translation": "可是一起过过穷日子的夫妻，想起哪件事不叫人悲哀呢！",
+      "noteIds": []
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-shenhou",
+      "word": "身后意",
+      "pinyin": "shēn hòu yì",
+      "meaning": "身后，死后。指当年开玩笑说定的关于死后安葬之类的打算。"
+    },
+    {
+      "id": "n-shi",
+      "word": "施",
+      "pinyin": "shī",
+      "meaning": "施舍，把衣裳送给别人。"
+    },
+    {
+      "id": "n-xingkan",
+      "word": "行看尽",
+      "pinyin": "xíng kàn jìn",
+      "meaning": "眼看就要完了。行，将要。"
+    },
+    {
+      "id": "n-bipu",
+      "word": "婢仆",
+      "pinyin": "bì pú",
+      "meaning": "家里的婢女和仆人。"
+    },
+    {
+      "id": "n-cihen",
+      "word": "此恨",
+      "pinyin": "cǐ hèn",
+      "meaning": "指夫妻生离死别的遗憾。"
+    }
+  ],
+  "translation": "当年开玩笑说定的身后事，如今竟一一摆在了眼前。你穿过的衣裳，我已快施舍完了；你做过的针线活，我不忍心打开来看。因为想到旧日的情分，对婢女仆人也格外怜惜；也曾梦见你缺钱，醒来就焚纸送钱给你。我确实知道，这种死别的遗憾人人都会有，可是一起过过穷日子的夫妻，想起哪件事不叫人悲哀呢！",
+  "appreciation": "这一首专写睹物思人：衣裳快施舍完了，针线盒却始终不忍打开；因为怀念妻子，连她使唤过的婢女仆人都多了一份怜惜；梦里见她缺钱，醒来还要焚纸送钱。最后两句从个人之悲推到天下人之悲，“贫贱夫妻百事哀”成了千百年来说尽穷日子夫妻心的一句话。",
+  "background": "这是《遣悲怀》的第二首，仍写于公元 809 年妻子韦丛去世之后。诗人眼见亡妻的衣物针线，想起当年夫妻同甘共苦的岁月，笔笔都是小事，笔笔都是哀思，把“贫贱夫妻”四个字写进了千年的记忆。",
+  "storyline": [
+    { "step": 1, "title": "戏言成真", "text": "当年玩笑话里说定的后事，如今竟然件件摆在了眼前。" },
+    { "step": 2, "title": "衣裳针线", "text": "衣裳快施舍完了，针线盒却怎么也不忍心打开。" },
+    { "step": 3, "title": "怜及婢仆", "text": "想起旧情，连她用过的婢女仆人，看了也心生怜惜。" },
+    { "step": 4, "title": "千古同悲", "text": "人人都逃不过死别，可贫贱夫妻的每一件往事，都格外叫人悲哀。" }
+  ],
+  "pinyinNotes": [
+    { "char": "衣裳", "reading": "yī shang", "reason": "“裳”在“衣裳”一词里读轻声 shang。", "standard": "不要读成 cháng" },
+    { "char": "行", "reading": "xíng", "reason": "“行看尽”的“行”是“将要”的意思，读 xíng。", "standard": "不要读成 háng" },
+    { "char": "婢", "reading": "bì", "reason": "“婢仆”的“婢”指婢女，读 bì。", "standard": "不要读成 bēi" }
+  ],
+  "sources": ["《全唐诗》", "《唐诗三百首》", "《元氏长庆集》"],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1120
+}

@@ -1,0 +1,146 @@
+{
+  "id": "tang-zhongtang-zhanghu-zhanghu-gongci",
+  "slug": "zhanghu-gongci",
+  "title": "宫词",
+  "titlePinyin": "gōng cí",
+  "dynasty": "tangshi",
+  "era": "zhongtang",
+  "genre": "shi",
+  "form": "五言绝句",
+  "authorId": "zhanghu",
+  "gradeBand": "ext",
+  "tags": [
+    "思乡",
+    "五言绝句",
+    "深宫",
+    "泪"
+  ],
+  "difficulty": 3,
+  "writtenYear": 820,
+  "writtenLabel": "约公元 820 年（张祜 35 岁，献诗求荐前后，听闻宫女境遇，感而作此诗）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "故国三千里，深宫二十年。",
+    "一声何满子，双泪落君前。"
+  ],
+  "lines": [
+    {
+      "text": "故国三千里，",
+      "pinyin": [
+        "gù",
+        "guó",
+        "sān",
+        "qiān",
+        "lǐ"
+      ],
+      "translation": "故乡远在三千里之外，",
+      "noteIds": [
+        "n-guoguo"
+      ]
+    },
+    {
+      "text": "深宫二十年。",
+      "pinyin": [
+        "shēn",
+        "gōng",
+        "èr",
+        "shí",
+        "nián"
+      ],
+      "translation": "我被关在这深深的宫里已经二十年。",
+      "noteIds": []
+    },
+    {
+      "text": "一声何满子，",
+      "pinyin": [
+        "yì",
+        "shēng",
+        "hé",
+        "mǎn",
+        "zǐ"
+      ],
+      "translation": "听到一声《何满子》的曲子，",
+      "noteIds": [
+        "n-hemanzi"
+      ]
+    },
+    {
+      "text": "双泪落君前。",
+      "pinyin": [
+        "shuāng",
+        "lèi",
+        "luò",
+        "jūn",
+        "qián"
+      ],
+      "translation": "两行眼泪就落在了君王面前。",
+      "noteIds": [
+        "n-jun"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-guoguo",
+      "word": "故国",
+      "pinyin": "gù guó",
+      "meaning": "故乡，家乡。"
+    },
+    {
+      "id": "n-hemanzi",
+      "word": "何满子",
+      "pinyin": "hé mǎn zǐ",
+      "meaning": "唐代流行的一支曲子，据说唱起来特别悲伤。"
+    },
+    {
+      "id": "n-jun",
+      "word": "君",
+      "pinyin": "jūn",
+      "meaning": "指皇帝。"
+    }
+  ],
+  "translation": "故乡远在三千里之外，我被关在这深深的宫里已经二十年。听到一声《何满子》的曲子，两行眼泪就落在了君王面前。",
+  "appreciation": "全诗二十个字，前两句用两组数字对得整整齐齐：三千里是家的距离，二十年是宫中的岁月，一远一长，把宫女的伤心全说完了。后两句只写一个动作：一支悲伤的曲子响起，眼泪马上落下。曲是旧曲，泪却是积攒了二十年的泪。数字与眼泪一对照，简单得像随口说话，却句句扎进心里，难怪传唱千年。",
+  "background": "唐代宫廷里有成千上万的宫女，少年进宫，一生再也回不了家。张祜把她们的苦楚看在眼里，借当时人人熟悉的悲伤曲调《何满子》写下这首《宫词》。据说有人听了这首诗，连宫里的人都为之落泪。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "故乡万里",
+      "text": "宫女望着远方，故乡远在三千里外。"
+    },
+    {
+      "step": 2,
+      "title": "深宫经年",
+      "text": "高高的宫墙里，一过就是二十年。"
+    },
+    {
+      "step": 3,
+      "title": "一声哀曲",
+      "text": "忽然响起一支悲伤的曲子《何满子》。"
+    },
+    {
+      "step": 4,
+      "title": "泪落君前",
+      "text": "她的眼泪忍不住，双双落在君王面前。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "何满子",
+      "reading": "hé mǎn zǐ",
+      "reason": "唐代曲名，专有名词要连起来读。"
+    },
+    {
+      "char": "一",
+      "reading": "yì",
+      "reason": "“一声”里“一”变调读 yì，本字读 yī。"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1006
+}

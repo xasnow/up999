@@ -1,0 +1,225 @@
+{
+  "id": "tang-wantang-wendingyun-lizhounandu",
+  "slug": "lizhounandu",
+  "title": "利州南渡",
+  "titlePinyin": "lì zhōu nán dù",
+  "dynasty": "tangshi",
+  "era": "wantang",
+  "genre": "shi",
+  "form": "七言律诗",
+  "authorId": "wendingyun",
+  "gradeBand": "ext",
+  "tags": [
+    "山水",
+    "七言律诗",
+    "秋天",
+    "白鹭"
+  ],
+  "difficulty": 3,
+  "writtenYear": 856,
+  "writtenLabel": "约公元 856 年（温庭筠 45 岁前后，行旅经利州渡江时所作）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "数丛沙草群鸥散，万顷江田一鹭飞。"
+  ],
+  "lines": [
+    {
+      "text": "澹然空水对斜晖，",
+      "pinyin": [
+        "dàn",
+        "rán",
+        "kōng",
+        "shuǐ",
+        "duì",
+        "xié",
+        "huī"
+      ],
+      "translation": "开阔的江水平平静静，映着西斜的日光。",
+      "noteIds": [
+        "n-dan"
+      ]
+    },
+    {
+      "text": "曲岛苍茫接翠微。",
+      "pinyin": [
+        "qū",
+        "dǎo",
+        "cāng",
+        "máng",
+        "jiē",
+        "cuì",
+        "wēi"
+      ],
+      "translation": "弯弯的小岛苍苍茫茫，连接着远处的青山。",
+      "noteIds": [
+        "n-cuiwei"
+      ]
+    },
+    {
+      "text": "波上马嘶看棹去，",
+      "pinyin": [
+        "bō",
+        "shàng",
+        "mǎ",
+        "sī",
+        "kàn",
+        "zhào",
+        "qù"
+      ],
+      "translation": "波涛之上马儿嘶叫，渡船载着行人远去，",
+      "noteIds": []
+    },
+    {
+      "text": "柳边人歇待船归。",
+      "pinyin": [
+        "liǔ",
+        "biān",
+        "rén",
+        "xiē",
+        "dài",
+        "chuán",
+        "guī"
+      ],
+      "translation": "柳树边歇脚的人，正等着船儿回来。",
+      "noteIds": []
+    },
+    {
+      "text": "数丛沙草群鸥散，",
+      "pinyin": [
+        "shù",
+        "cóng",
+        "shā",
+        "cǎo",
+        "qún",
+        "ōu",
+        "sàn"
+      ],
+      "translation": "沙洲草丛里，一群鸥鸟飞散开来，",
+      "noteIds": []
+    },
+    {
+      "text": "万顷江田一鹭飞。",
+      "pinyin": [
+        "wàn",
+        "qǐng",
+        "jiāng",
+        "tián",
+        "yī",
+        "lù",
+        "fēi"
+      ],
+      "translation": "万顷江田上空，一只白鹭高高飞起。",
+      "noteIds": []
+    },
+    {
+      "text": "谁解乘舟寻范蠡，",
+      "pinyin": [
+        "shuí",
+        "jiě",
+        "chéng",
+        "zhōu",
+        "xún",
+        "fàn",
+        "lǐ"
+      ],
+      "translation": "谁能懂得乘船去寻找范蠡，",
+      "noteIds": [
+        "n-fanli"
+      ]
+    },
+    {
+      "text": "五湖烟水独忘机。",
+      "pinyin": [
+        "wǔ",
+        "hú",
+        "yān",
+        "shuǐ",
+        "dú",
+        "wàng",
+        "jī"
+      ],
+      "translation": "在五湖烟水中，独自过着忘掉心机的自在日子呢？",
+      "noteIds": [
+        "n-wangji"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-dan",
+      "word": "澹",
+      "pinyin": "dàn",
+      "meaning": "水波平静的样子。"
+    },
+    {
+      "id": "n-cuiwei",
+      "word": "翠微",
+      "pinyin": "cuì wēi",
+      "meaning": "青翠的山色，指青山。"
+    },
+    {
+      "id": "n-fanli",
+      "word": "范蠡",
+      "pinyin": "fàn lǐ",
+      "meaning": "春秋时越国大夫，助越王复国后乘船归隐五湖。"
+    },
+    {
+      "id": "n-wangji",
+      "word": "忘机",
+      "pinyin": "wàng jī",
+      "meaning": "忘掉计较得失的心思，指淡泊宁静的心境。"
+    }
+  ],
+  "translation": "开阔的江水平平静静，映着西斜的日光。弯弯的小岛苍苍茫茫，连接着远处的青山。波涛之上马儿嘶叫，渡船载着行人远去；柳树边歇脚的人，正等着船儿回来。沙洲草丛里，一群鸥鸟飞散开来；万顷江田上空，一只白鹭高高飞起。谁能懂得乘船去寻找范蠡，在五湖烟水中忘掉一切心机呢？",
+  "appreciation": "这首诗像一幅渡口晚景图：水光斜阳、苍茫小岛、嘶叫的马、等船的人，有静有动。最妙的是“群鸥散”和“一鹭飞”，一个散开、一个高飞，把整个江天都写活了。结尾想到功成身退的范蠡，羡慕他驾一叶小舟隐入五湖，其实也道出了诗人在忙碌生活中想放下一切、追求自在的心愿。",
+  "background": "利州在今四川广元，嘉陵江从这里流过。温庭筠行旅至此，在渡口看人马过江、鸥鹭翻飞，想到隐居五湖的范蠡，写下这首诗。作诗年份已难确考，大约在他中年漫游巴蜀、江淮之间的时候。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "斜照江面",
+      "text": "傍晚的江水平静开阔，映着斜阳。"
+    },
+    {
+      "step": 2,
+      "title": "人马渡江",
+      "text": "船载着马嘶声远去，柳下有人等船回来。"
+    },
+    {
+      "step": 3,
+      "title": "鸥散鹭飞",
+      "text": "沙洲上鸥鸟飞散，江田上白鹭高飞。"
+    },
+    {
+      "step": 4,
+      "title": "遥想范蠡",
+      "text": "诗人想学范蠡泛舟五湖，忘掉一切心机。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "澹",
+      "reading": "dàn",
+      "reason": "“澹然”是水波平静的样子，读 dàn。",
+      "standard": "不要读成 tán"
+    },
+    {
+      "char": "蠡",
+      "reading": "lǐ",
+      "reason": "人名范蠡的“蠡”读 lǐ。",
+      "standard": "不要读成 lí"
+    },
+    {
+      "char": "顷",
+      "reading": "qǐng",
+      "reason": "“万顷”形容水面广大，读 qǐng。",
+      "standard": "不要读成 qīng"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1157
+}

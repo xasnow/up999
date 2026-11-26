@@ -1,0 +1,126 @@
+{
+  "id": "tang-wantang-zhangmi-jiren",
+  "slug": "jiren",
+  "title": "寄人",
+  "titlePinyin": "jì rén",
+  "dynasty": "tangshi",
+  "era": "wantang",
+  "genre": "shi",
+  "form": "七言绝句",
+  "authorId": "zhangmi",
+  "gradeBand": "ext",
+  "tags": ["思念", "七言绝句", "月亮", "落花"],
+  "difficulty": 3,
+  "writtenYear": 890,
+  "writtenLabel": "约公元 890 年（张泌唐末漂泊时期，梦见旧日恋人，醒后作诗相寄）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "多情只有春庭月，犹为离人照落花。"
+  ],
+  "lines": [
+    {
+      "text": "别梦依依到谢家，",
+      "pinyin": ["bié", "mèng", "yī", "yī", "dào", "xiè", "jiā"],
+      "translation": "离别后在梦里恋恋不舍，又回到了她的家，",
+      "noteIds": ["n-yiyi", "n-xiejia"]
+    },
+    {
+      "text": "小廊回合曲阑斜。",
+      "pinyin": ["xiǎo", "láng", "huí", "hé", "qǔ", "lán", "xié"],
+      "translation": "小廊回环，弯弯的栏杆还是旧时模样。",
+      "noteIds": ["n-huihe", "n-lan"]
+    },
+    {
+      "text": "多情只有春庭月，",
+      "pinyin": ["duō", "qíng", "zhǐ", "yǒu", "chūn", "tíng", "yuè"],
+      "translation": "只有春天的庭月最多情，",
+      "noteIds": []
+    },
+    {
+      "text": "犹为离人照落花。",
+      "pinyin": ["yóu", "wèi", "lí", "rén", "zhào", "luò", "huā"],
+      "translation": "还在为离别的人，照着满地落花。",
+      "noteIds": ["n-wei", "n-liren"]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-yiyi",
+      "word": "依依",
+      "pinyin": "yī yī",
+      "meaning": "恋恋不舍、不忍离开的样子。"
+    },
+    {
+      "id": "n-xiejia",
+      "word": "谢家",
+      "pinyin": "xiè jiā",
+      "meaning": "借东晋才女谢道韫的谢家，代指心上人的住处。"
+    },
+    {
+      "id": "n-huihe",
+      "word": "回合",
+      "pinyin": "huí hé",
+      "meaning": "回环、环绕。"
+    },
+    {
+      "id": "n-lan",
+      "word": "阑",
+      "pinyin": "lán",
+      "meaning": "同“栏”，栏杆。"
+    },
+    {
+      "id": "n-wei",
+      "word": "为",
+      "pinyin": "wèi",
+      "meaning": "替、给。"
+    },
+    {
+      "id": "n-liren",
+      "word": "离人",
+      "pinyin": "lí rén",
+      "meaning": "离别的人，这里指诗人自己。"
+    }
+  ],
+  "translation": "离别后在梦里恋恋不舍，又回到了她的家，小廊回环，弯弯的栏杆还是旧时模样。只有春天的庭月最多情，还在为离别的人，照着满地落花。",
+  "appreciation": "这首诗的全部感情都藏在梦里和月光里。梦里的小廊、曲栏一切如旧，醒来才知道人已不在。诗人不写自己如何想念，反而说月亮“多情”——它还记得替离别的人照一照落花。月亮尚且多情，人却不能相见，这份含蓄的深情，越品越动人。",
+  "background": "相传张泌年轻时与邻家一位洗衣姑娘相恋，后来各自离散。多年以后，他在梦中回到旧地，看见小廊曲栏一切如旧，醒来惆怅难眠，便写下这首诗寄给远方的恋人，诉说无处安放的思念。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "梦回旧居",
+      "text": "诗人梦见了她的家，恋恋不舍地走了进去。"
+    },
+    {
+      "step": 2,
+      "title": "廊栏如旧",
+      "text": "回环的小廊、弯弯的栏杆，还是当年模样。"
+    },
+    {
+      "step": 3,
+      "title": "梦醒人空",
+      "text": "梦醒了，院子里一个人也没有。"
+    },
+    {
+      "step": 4,
+      "title": "月照落花",
+      "text": "只有春夜月光，静静照着满地落花。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "为",
+      "reading": "wèi",
+      "reason": "“犹为”是“还替”的意思，读 wèi。",
+      "standard": "不要读成 wéi"
+    },
+    {
+      "char": "阑",
+      "reading": "lán",
+      "reason": "同“栏”，指栏杆，读 lán。"
+    }
+  ],
+  "sources": ["《全唐诗》", "《唐诗三百首》"],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1032
+}

@@ -1,0 +1,118 @@
+{
+  "id": "tang-zhongtang-hanhong-tong-ti-xian-you-guan",
+  "slug": "tong-ti-xian-you-guan",
+  "title": "同题仙游观",
+  "titlePinyin": "tóng tí xiān yóu guàn",
+  "dynasty": "tangshi",
+  "era": "zhongtang",
+  "genre": "shi",
+  "form": "七言律诗",
+  "authorId": "hanhong",
+  "gradeBand": "ext",
+  "tags": ["山水", "七言律诗", "松影", "秋天"],
+  "difficulty": 3,
+  "writtenYear": 773,
+  "writtenLabel": "约公元 773 年（韩翃 54 岁，在长安与友人同游仙游观题诗）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "山色遥连秦树晚，砧声近报汉宫秋。"
+  ],
+  "lines": [
+    {
+      "text": "仙台初见五城楼，",
+      "pinyin": ["xiān", "tái", "chū", "jiàn", "wǔ", "chéng", "lóu"],
+      "translation": "登上仙游观的高台，初次见到如同仙人五城楼般的殿阁，",
+      "noteIds": ["n-wucheng"]
+    },
+    {
+      "text": "风物凄凄宿雨收。",
+      "pinyin": ["fēng", "wù", "qī", "qī", "sù", "yǔ", "shōu"],
+      "translation": "隔夜的秋雨刚停，四周景色清幽。",
+      "noteIds": ["n-suyu"]
+    },
+    {
+      "text": "山色遥连秦树晚，",
+      "pinyin": ["shān", "sè", "yáo", "lián", "qín", "shù", "wǎn"],
+      "translation": "远处的山色与秦地的树影在暮色中相连，",
+      "noteIds": []
+    },
+    {
+      "text": "砧声近报汉宫秋。",
+      "pinyin": ["zhēn", "shēng", "jìn", "bào", "hàn", "gōng", "qiū"],
+      "translation": "近处的捣衣声报告着长安的秋意。",
+      "noteIds": ["n-zhensheng"]
+    },
+    {
+      "text": "疏松影落空坛静，",
+      "pinyin": ["shū", "sōng", "yǐng", "luò", "kōng", "tán", "jìng"],
+      "translation": "稀疏的松影落在静寂的空坛上，",
+      "noteIds": []
+    },
+    {
+      "text": "细草香闲小洞幽。",
+      "pinyin": ["xì", "cǎo", "xiāng", "xián", "xiǎo", "dòng", "yōu"],
+      "translation": "细草散发着清闲的香气，小小洞府深深静静。",
+      "noteIds": []
+    },
+    {
+      "text": "何用别寻方外去，",
+      "pinyin": ["hé", "yòng", "bié", "xún", "fāng", "wài", "qù"],
+      "translation": "何必再特地到尘世之外去寻找仙境，",
+      "noteIds": ["n-fangwai"]
+    },
+    {
+      "text": "人间亦自有丹丘。",
+      "pinyin": ["rén", "jiān", "yì", "zì", "yǒu", "dān", "qiū"],
+      "translation": "人间本来就有自己的丹丘仙境。",
+      "noteIds": ["n-danqiu"]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-wucheng",
+      "word": "五城楼",
+      "pinyin": "wǔ chéng lóu",
+      "meaning": "传说中仙人居住的五座城楼，这里形容道观楼阁像仙境。"
+    },
+    {
+      "id": "n-suyu",
+      "word": "宿雨",
+      "pinyin": "sù yǔ",
+      "meaning": "隔夜的雨。"
+    },
+    {
+      "id": "n-zhensheng",
+      "word": "砧声",
+      "pinyin": "zhēn shēng",
+      "meaning": "捣衣的声音。"
+    },
+    {
+      "id": "n-fangwai",
+      "word": "方外",
+      "pinyin": "fāng wài",
+      "meaning": "世俗之外，指仙境或出家人居住的地方。"
+    },
+    {
+      "id": "n-danqiu",
+      "word": "丹丘",
+      "pinyin": "dān qiū",
+      "meaning": "传说中昼夜长明的神仙之地。"
+    }
+  ],
+  "translation": "登上仙游观的高台，初次见到如同仙人五城楼般的殿阁；隔夜的秋雨刚停，四周景色清幽。远处的山色与秦地的树影在暮色中相连，近处的捣衣声报告着长安的秋意。稀疏的松影落在静寂的空坛上，细草散发着清闲的香气，小小洞府深深静静。何必再特地到尘世之外去寻找仙境呢？人间本来就有自己的丹丘。",
+  "appreciation": "这是一首游览道观后题写的诗。诗人从远到近画了一幅道观秋景：暮色里山色连着秦地树木，近处砧声报出秋天，松影落在空坛上，细草香气飘在小洞前，安静中带着人间烟火。结尾最有趣：他说不必去别处找仙山，眼前这座道观就是人间的仙府。写景清丽，收束风趣，正是韩翃的本色。",
+  "background": "仙游观在今河南登封的嵩山脚下，是唐代著名的道观。大历年间的一个秋日，韩翃和友人一同游览仙游观，在观中题诗。他写下初见道观的新奇、雨后秋景的清幽，最后称赞这里就是人间的仙境。",
+  "storyline": [
+    { "step": 1, "title": "初登仙台", "text": "雨后登上仙游观，楼阁宛如仙人五城楼。" },
+    { "step": 2, "title": "远望山色", "text": "暮色里远山连着秦地树影，秋意苍茫。" },
+    { "step": 3, "title": "近听砧声", "text": "近处传来捣衣声，报出长安的秋天。" },
+    { "step": 4, "title": "人间丹丘", "text": "松影坛静、草香洞幽，何须别处寻仙。" }
+  ],
+  "pinyinNotes": [
+    { "char": "宿", "reading": "sù", "reason": "“宿雨”是隔夜的雨，“宿”在这里读 sù。" }
+  ],
+  "sources": ["《全唐诗》", "《唐诗三百首》"],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1166
+}

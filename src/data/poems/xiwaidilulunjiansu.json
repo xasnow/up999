@@ -1,0 +1,193 @@
+{
+  "id": "tang-zhongtang-sikongshu-xiwaidilulunjiansu",
+  "slug": "xiwaidilulunjiansu",
+  "title": "喜外弟卢纶见宿",
+  "titlePinyin": "xǐ wài dì lú lún jiàn sù",
+  "dynasty": "tangshi",
+  "era": "zhongtang",
+  "genre": "shi",
+  "form": "五言律诗",
+  "authorId": "sikongshu",
+  "gradeBand": "ext",
+  "tags": [
+    "友情",
+    "五言律诗",
+    "秋天",
+    "孤灯"
+  ],
+  "difficulty": 3,
+  "writtenYear": 766,
+  "writtenLabel": "约公元 766 年（司空曙 40 多岁，住荒村，表弟卢纶来访夜宿）",
+  "orderInAuthor": 1,
+  "no": 1055,
+  "famousLines": [
+    "雨中黄叶树，灯下白头人。"
+  ],
+  "lines": [
+    {
+      "text": "静夜四无邻，",
+      "pinyin": [
+        "jìng",
+        "yè",
+        "sì",
+        "wú",
+        "lín"
+      ],
+      "translation": "静静的夜里，四周没有邻居，"
+    },
+    {
+      "text": "荒居旧业贫。",
+      "pinyin": [
+        "huāng",
+        "jū",
+        "jiù",
+        "yè",
+        "pín"
+      ],
+      "translation": "荒凉的住处，旧日的家业已经败落。",
+      "noteIds": [
+        "n-jiuye"
+      ]
+    },
+    {
+      "text": "雨中黄叶树，",
+      "pinyin": [
+        "yǔ",
+        "zhōng",
+        "huáng",
+        "yè",
+        "shù"
+      ],
+      "translation": "雨中的树上挂着黄叶，"
+    },
+    {
+      "text": "灯下白头人。",
+      "pinyin": [
+        "dēng",
+        "xià",
+        "bái",
+        "tóu",
+        "rén"
+      ],
+      "translation": "孤灯下坐着一个白头的人。"
+    },
+    {
+      "text": "以我独沉久，",
+      "pinyin": [
+        "yǐ",
+        "wǒ",
+        "dú",
+        "chén",
+        "jiǔ"
+      ],
+      "translation": "因为我孤独沉沦已经很久，",
+      "noteIds": [
+        "n-chen"
+      ]
+    },
+    {
+      "text": "愧君相见频。",
+      "pinyin": [
+        "kuì",
+        "jūn",
+        "xiāng",
+        "jiàn",
+        "pín"
+      ],
+      "translation": "惭愧你一次又一次地来看我。"
+    },
+    {
+      "text": "平生自有分，",
+      "pinyin": [
+        "píng",
+        "shēng",
+        "zì",
+        "yǒu",
+        "fèn"
+      ],
+      "translation": "我们平生自有一份情分，",
+      "noteIds": [
+        "n-fen"
+      ]
+    },
+    {
+      "text": "况是蔡家亲。",
+      "pinyin": [
+        "kuàng",
+        "shì",
+        "cài",
+        "jiā",
+        "qīn"
+      ],
+      "translation": "何况还是蔡家那样的表亲呢。",
+      "noteIds": [
+        "n-caijiaqin"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-jiuye",
+      "word": "旧业",
+      "pinyin": "jiù yè",
+      "meaning": "祖辈留下的家业。"
+    },
+    {
+      "id": "n-chen",
+      "word": "沉",
+      "pinyin": "chén",
+      "meaning": "沉沦，指长期不得志、生活落魄。"
+    },
+    {
+      "id": "n-fen",
+      "word": "分",
+      "pinyin": "fèn",
+      "meaning": "情分、缘分。"
+    },
+    {
+      "id": "n-caijiaqin",
+      "word": "蔡家亲",
+      "pinyin": "cài jiā qīn",
+      "meaning": "表亲。晋朝羊祜是蔡邕的外孙，后人用“蔡家亲”指表亲。"
+    }
+  ],
+  "translation": "静静的夜里，四周没有邻居，荒凉的住处，旧日的家业已经败落。雨中的树上挂着黄叶，孤灯下坐着一个白头的人。因为我孤独沉沦已经很久，惭愧你一次又一次地来看我。我们平生自有一份情分，何况还是蔡家那样的表亲呢。",
+  "appreciation": "“雨中黄叶树，灯下白头人”是千古名句：树在风雨中落叶，人在孤灯下变老，两个画面放在一起，孤单和凄凉一下子全出来了。表弟卢纶深夜来访，诗人惊喜之余又觉得惭愧——自己沉沦太久，让亲人挂心了。结尾说平生自有情分，何况还是表亲，淡淡的话语里有暖意，清苦的日子仿佛也亮了一点。",
+  "background": "安史之乱后，司空曙仕途失意，住在荒僻的地方，生活清贫。一个雨夜，表弟卢纶来看他并留宿。孤灯下的重逢让他又喜又愧，写下这首诗记下那一晚的情景。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "荒居静夜",
+      "text": "静静的夜里四周没有邻居，荒村旧业，家境清贫。"
+    },
+    {
+      "step": 2,
+      "title": "黄叶白头",
+      "text": "雨中黄叶树和灯下白头人，两个画面相对，更显孤单。"
+    },
+    {
+      "step": 3,
+      "title": "愧君频来",
+      "text": "我孤独沉沦已经很久，惭愧表弟这样常常来看我。"
+    },
+    {
+      "step": 4,
+      "title": "表亲情分",
+      "text": "平生自有情分，何况还是表亲，夜谈格外温暖。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "分",
+      "reading": "fèn",
+      "reason": "“自有分”是说自有情分、缘分，读 fèn。",
+      "standard": "不要读成 fēn"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26"
+}

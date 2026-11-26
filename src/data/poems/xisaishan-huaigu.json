@@ -1,0 +1,223 @@
+{
+  "id": "tang-zhongtang-liuyuxi-xisaishan-huaigu",
+  "slug": "xisaishan-huaigu",
+  "title": "西塞山怀古",
+  "titlePinyin": "xī sài shān huái gǔ",
+  "dynasty": "tangshi",
+  "era": "zhongtang",
+  "genre": "shi",
+  "form": "七言律诗",
+  "authorId": "liuyuxi",
+  "gradeBand": "ext",
+  "tags": [
+    "怀古",
+    "七言律诗",
+    "长江",
+    "秋天"
+  ],
+  "difficulty": 3,
+  "writtenYear": 824,
+  "writtenLabel": "公元 824 年（刘禹锡 53 岁，调任和州刺史途中舟行经西塞山，怀古伤今）",
+  "orderInAuthor": 2,
+  "famousLines": [
+    "千寻铁锁沉江底，一片降幡出石头。"
+  ],
+  "lines": [
+    {
+      "text": "王濬楼船下益州，",
+      "pinyin": [
+        "wáng",
+        "jùn",
+        "lóu",
+        "chuán",
+        "xià",
+        "yì",
+        "zhōu"
+      ],
+      "translation": "王濬率领高大的楼船战舰，顺流东下离开益州，",
+      "noteIds": [
+        "n-jun"
+      ]
+    },
+    {
+      "text": "金陵王气黯然收。",
+      "pinyin": [
+        "jīn",
+        "líng",
+        "wáng",
+        "qì",
+        "àn",
+        "rán",
+        "shōu"
+      ],
+      "translation": "金陵的帝王之气黯然消散。",
+      "noteIds": []
+    },
+    {
+      "text": "千寻铁锁沉江底，",
+      "pinyin": [
+        "qiān",
+        "xún",
+        "tiě",
+        "suǒ",
+        "chén",
+        "jiāng",
+        "dǐ"
+      ],
+      "translation": "千丈长的铁锁沉入江底，",
+      "noteIds": [
+        "n-xun"
+      ]
+    },
+    {
+      "text": "一片降幡出石头。",
+      "pinyin": [
+        "yī",
+        "piàn",
+        "xiáng",
+        "fān",
+        "chū",
+        "shí",
+        "tóu"
+      ],
+      "translation": "一面投降的白旗从石头城上竖了起来。",
+      "noteIds": [
+        "n-xiangfan"
+      ]
+    },
+    {
+      "text": "人世几回伤往事，",
+      "pinyin": [
+        "rén",
+        "shì",
+        "jǐ",
+        "huí",
+        "shāng",
+        "wǎng",
+        "shì"
+      ],
+      "translation": "人世间多少次为往昔的兴亡伤心，",
+      "noteIds": []
+    },
+    {
+      "text": "山形依旧枕寒流。",
+      "pinyin": [
+        "shān",
+        "xíng",
+        "yī",
+        "jiù",
+        "zhěn",
+        "hán",
+        "liú"
+      ],
+      "translation": "西塞山的样子却依旧枕着寒冷的江流。",
+      "noteIds": []
+    },
+    {
+      "text": "今逢四海为家日，",
+      "pinyin": [
+        "jīn",
+        "féng",
+        "sì",
+        "hǎi",
+        "wéi",
+        "jiā",
+        "rì"
+      ],
+      "translation": "如今正逢四海成为一家的太平日子，",
+      "noteIds": []
+    },
+    {
+      "text": "故垒萧萧芦荻秋。",
+      "pinyin": [
+        "gù",
+        "lěi",
+        "xiāo",
+        "xiāo",
+        "lú",
+        "dí",
+        "qiū"
+      ],
+      "translation": "旧时的营垒上，只有芦苇荻花在秋风里萧萧作响。",
+      "noteIds": [
+        "n-gulei"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-jun",
+      "word": "濬",
+      "pinyin": "jùn",
+      "meaning": "王濬，西晋大将，奉命在益州造大楼船，顺流伐吴。"
+    },
+    {
+      "id": "n-xun",
+      "word": "寻",
+      "pinyin": "xún",
+      "meaning": "古代长度单位，八尺为一寻；千寻形容极长。"
+    },
+    {
+      "id": "n-xiangfan",
+      "word": "降幡",
+      "pinyin": "xiáng fān",
+      "meaning": "表示投降的旗帜。"
+    },
+    {
+      "id": "n-gulei",
+      "word": "故垒",
+      "pinyin": "gù lěi",
+      "meaning": "旧时的营垒。"
+    }
+  ],
+  "translation": "王濬率领高大的楼船战舰，顺流东下离开益州，金陵的帝王之气黯然消散。千丈长的铁锁沉入江底，一面投降的白旗从石头城上竖了起来。人世间多少次为往昔的兴亡伤心，西塞山的样子却依旧枕着寒冷的江流。如今正逢四海成为一家的太平日子，旧时的营垒上，只有芦苇荻花在秋风里萧萧作响。",
+  "appreciation": "这首怀古诗的前四句像一部压缩的战争片：楼船东下、王气黯收、铁锁沉江、降幡出城，一个王朝的灭亡只用了二十八个字。后四句笔锋一转——人间换了多少朝代，山还是那座山。结尾故垒芦荻，把眼前的太平和历史的伤痕轻轻放在一起，提醒人们珍惜统一，意味深长。",
+  "background": "公元824年，刘禹锡调任和州刺史，乘船沿江东下，经过西塞山。这里地势险要，是当年晋朝水军灭吴的古战场。他望着江水写下这首诗，感叹兴亡，也暗含对当时藩镇割据的担忧。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "楼船东下",
+      "text": "晋军楼船从益州顺流而下，声势浩大。"
+    },
+    {
+      "step": 2,
+      "title": "吴主投降",
+      "text": "铁锁烧沉江底，降旗出了石头城。"
+    },
+    {
+      "step": 3,
+      "title": "山川依旧",
+      "text": "人世几度兴亡，青山依旧枕着寒流。"
+    },
+    {
+      "step": 4,
+      "title": "故垒怀古",
+      "text": "四海一家的太平日子里，芦荻在旧营垒边摇动。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "濬",
+      "reading": "jùn",
+      "reason": "“濬”同“浚”，是西晋大将王濬的名，读 jùn。"
+    },
+    {
+      "char": "降",
+      "reading": "xiáng",
+      "reason": "“降幡”是投降用的旗帜，“降”读 xiáng。",
+      "standard": "不读 jiàng"
+    },
+    {
+      "char": "荻",
+      "reading": "dí",
+      "reason": "“芦荻”是芦苇和荻草，两种水边植物，“荻”读 dí。"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1162
+}

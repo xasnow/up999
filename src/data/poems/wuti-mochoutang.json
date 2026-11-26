@@ -1,0 +1,182 @@
+{
+  "id": "tang-wantang-lishangyin-wuti-mochoutang",
+  "slug": "wuti-mochoutang",
+  "title": "无题·重帏深下莫愁堂",
+  "titlePinyin": "wú tí·chóng wéi shēn xià mò chóu táng",
+  "dynasty": "tangshi",
+  "era": "wantang",
+  "genre": "shi",
+  "form": "七言律诗",
+  "authorId": "lishangyin",
+  "gradeBand": "ext",
+  "tags": [
+    "思念",
+    "七言律诗",
+    "月露",
+    "闺阁"
+  ],
+  "difficulty": 3,
+  "writtenYear": 852,
+  "writtenLabel": "作年不详，约公元 852 年（大中年间，代闺中人写相思）",
+  "orderInAuthor": 2,
+  "no": 1128,
+  "famousLines": [
+    "直道相思了无益，未妨惆怅是清狂。"
+  ],
+  "lines": [
+    {
+      "text": "重帏深下莫愁堂，",
+      "pinyin": ["chóng", "wéi", "shēn", "xià", "mò", "chóu", "táng"],
+      "translation": "层层帷幕深深垂下，遮住幽静的闺房，",
+      "noteIds": ["n-zhongwei", "n-mochou"]
+    },
+    {
+      "text": "卧后清宵细细长。",
+      "pinyin": ["wò", "hòu", "qīng", "xiāo", "xì", "xì", "cháng"],
+      "translation": "独卧床上，静夜显得分外漫长。",
+      "noteIds": []
+    },
+    {
+      "text": "神女生涯原是梦，",
+      "pinyin": ["shén", "nǚ", "shēng", "yá", "yuán", "shì", "mèng"],
+      "translation": "巫山神女与楚王的相会，本来就只是一场梦，",
+      "noteIds": ["n-shennü"]
+    },
+    {
+      "text": "小姑居处本无郎。",
+      "pinyin": ["xiǎo", "gū", "jū", "chù", "běn", "wú", "láng"],
+      "translation": "清溪小姑独居的地方，本来就没有郎君。",
+      "noteIds": ["n-xiaogu"]
+    },
+    {
+      "text": "风波不信菱枝弱，",
+      "pinyin": ["fēng", "bō", "bù", "xìn", "líng", "zhī", "ruò"],
+      "translation": "风波偏偏不信菱枝柔弱，照样摧折它，",
+      "noteIds": ["n-lingzhi"]
+    },
+    {
+      "text": "月露谁教桂叶香。",
+      "pinyin": ["yuè", "lù", "shuí", "jiāo", "guì", "yè", "xiāng"],
+      "translation": "桂叶的芬芳，又有谁让月下露水来滋养？",
+      "noteIds": ["n-yuelu", "n-shuijiao"]
+    },
+    {
+      "text": "直道相思了无益，",
+      "pinyin": ["zhí", "dào", "xiāng", "sī", "liǎo", "wú", "yì"],
+      "translation": "即使明知相思全然无益，",
+      "noteIds": ["n-liaowuyi"]
+    },
+    {
+      "text": "未妨惆怅是清狂。",
+      "pinyin": ["wèi", "fáng", "chóu", "chàng", "shì", "qīng", "kuáng"],
+      "translation": "也不妨怀抱这份惆怅，痴痴地当作一片真情。",
+      "noteIds": ["n-qingkuang"]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-zhongwei",
+      "word": "重帏",
+      "pinyin": "chóng wéi",
+      "meaning": "一层层的帷帐。"
+    },
+    {
+      "id": "n-mochou",
+      "word": "莫愁",
+      "pinyin": "mò chóu",
+      "meaning": "古代传说中的女子，这里借指闺中女子。"
+    },
+    {
+      "id": "n-shennü",
+      "word": "神女",
+      "pinyin": "shén nǚ",
+      "meaning": "巫山神女。传说楚王梦中与她相会，醒后空余惆怅。"
+    },
+    {
+      "id": "n-xiaogu",
+      "word": "小姑",
+      "pinyin": "xiǎo gū",
+      "meaning": "乐府《清溪小姑曲》中的神女，独居无郎。"
+    },
+    {
+      "id": "n-lingzhi",
+      "word": "菱枝",
+      "pinyin": "líng zhī",
+      "meaning": "菱的枝条，纤细柔弱，比喻无依的女子。"
+    },
+    {
+      "id": "n-yuelu",
+      "word": "月露",
+      "pinyin": "yuè lù",
+      "meaning": "月光下的露水。"
+    },
+    {
+      "id": "n-shuijiao",
+      "word": "谁教",
+      "pinyin": "shuí jiāo",
+      "meaning": "谁让，谁使。"
+    },
+    {
+      "id": "n-liaowuyi",
+      "word": "了无益",
+      "pinyin": "liǎo wú yì",
+      "meaning": "完全没有什么益处。"
+    },
+    {
+      "id": "n-qingkuang",
+      "word": "清狂",
+      "pinyin": "qīng kuáng",
+      "meaning": "狂放而不失本真的性情，这里指明知无益仍执着的一片痴情。"
+    }
+  ],
+  "translation": "层层帷幕深深垂下，遮住幽静的闺房，独卧床上，静夜显得分外漫长。巫山神女与楚王的相会，本来就只是一场梦；清溪小姑独居的地方，本来就没有郎君。风波偏偏不信菱枝柔弱，照样摧折它；桂叶的芬芳，又有谁让月下露水来滋养？即使明知相思全然无益，也不妨怀抱这份惆怅，痴痴地当作一片真情。",
+  "appreciation": "深闺里帷帐重重，长夜怎么也熬不到头。女子想着：神女的相会原是梦，小姑的居处本无郎——美好的爱情，原来都只是虚幻。菱枝那么柔弱，风波照样摧折；桂叶那样芬芳，却没人用月露来滋养。写到这里几乎绝望了，结尾却忽然扬起：明知相思毫无用处，也不妨守着这份惆怅，做一个痴情的“清狂”之人。绝望之中偏偏不肯放下，这是李商隐式的深情，也是最动人的一种坚持。",
+  "background": "这是李商隐以女子口吻写的《无题》诗之一。深闺独居的女子，在长夜里回想爱情的虚幻与命运的不公，最后以“明知无益仍痴心不改”作结。也有学者认为，诗中寄寓着诗人在现实中执着求索而不得的心境。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "重帏深闺",
+      "text": "层层帷帐垂下，静夜独卧分外漫长。"
+    },
+    {
+      "step": 2,
+      "title": "神女是梦",
+      "text": "神女相会原是梦，小姑居处本无郎。"
+    },
+    {
+      "step": 3,
+      "title": "菱枝遭折",
+      "text": "风波摧折柔弱菱枝，桂叶无人滋养。"
+    },
+    {
+      "step": 4,
+      "title": "惆怅清狂",
+      "text": "明知相思无益，仍守一片痴情清狂。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "帏",
+      "reading": "wéi",
+      "reason": "指帐子、帷幔，读 wéi。"
+    },
+    {
+      "char": "了",
+      "reading": "liǎo",
+      "reason": "“了无益”是完全无益之意，“了”作全然解读 liǎo。",
+      "standard": "不要读成 le"
+    },
+    {
+      "char": "教",
+      "reading": "jiāo",
+      "reason": "“谁教”是“谁使、让”的意思，古音读 jiāo。",
+      "standard": "不要读成 jiào"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26"
+}

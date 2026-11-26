@@ -1,0 +1,89 @@
+{
+  "id": "tang-shengtang-cuihao-changganqu-1",
+  "slug": "changganqu-1",
+  "title": "长干曲·君家何处住",
+  "titlePinyin": "cháng gān qǔ · jūn jiā hé chù zhù",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "五言乐府",
+  "authorId": "cuihao",
+  "gradeBand": "ext",
+  "tags": ["思乡", "五言乐府", "横塘", "行船"],
+  "difficulty": 3,
+  "writtenYear": 732,
+  "writtenLabel": "约公元 732 年（崔颢 28 岁，游历江南水乡，经过金陵长干里一带）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "君家何处住？妾住在横塘。"
+  ],
+  "lines": [
+    {
+      "text": "君家何处住？",
+      "pinyin": ["jūn", "jiā", "hé", "chù", "zhù"],
+      "translation": "请问郎君家住在哪里？",
+      "noteIds": []
+    },
+    {
+      "text": "妾住在横塘。",
+      "pinyin": ["qiè", "zhù", "zài", "héng", "táng"],
+      "translation": "我家住在横塘。",
+      "noteIds": ["n-qie", "n-hengtang"]
+    },
+    {
+      "text": "停船暂借问，",
+      "pinyin": ["tíng", "chuán", "zàn", "jiè", "wèn"],
+      "translation": "停下船来，再客客气气地问一句：",
+      "noteIds": ["n-jiewen"]
+    },
+    {
+      "text": "或恐是同乡。",
+      "pinyin": ["huò", "kǒng", "shì", "tóng", "xiāng"],
+      "translation": "说不定咱们是同乡呢。",
+      "noteIds": ["n-huokong"]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-qie",
+      "word": "妾",
+      "pinyin": "qiè",
+      "meaning": "古代女子对自己的称呼。"
+    },
+    {
+      "id": "n-hengtang",
+      "word": "横塘",
+      "pinyin": "héng táng",
+      "meaning": "地名，在今江苏南京西南、长江边上，住着许多船户人家。"
+    },
+    {
+      "id": "n-jiewen",
+      "word": "借问",
+      "pinyin": "jiè wèn",
+      "meaning": "请问，客客气气地问。"
+    },
+    {
+      "id": "n-huokong",
+      "word": "或恐",
+      "pinyin": "huò kǒng",
+      "meaning": "也许，说不定。"
+    }
+  ],
+  "translation": "请问郎君家住在哪里？我家住在横塘。停下船来，再客客气气地问一句：说不定咱们是同乡呢。",
+  "appreciation": "四句话就是一场水上的偶遇。船家姑娘先问郎君家住哪里，不等回答又报上自己的横塘，停船再补一句“说不定是同乡”。问得急，答得快，最后那句小心翼翼的“或恐”，把姑娘又想攀谈又不好意思的心情全写活了。全诗没有一句写景，只有声音，却让人看见江上摇动的船。",
+  "background": "长干里在今南京城南长江边，住着许多以船为家的人。约公元 732 年，崔颢游历江南，把一位船家姑娘拦船问话的情景写成两首小诗，这是第一首：姑娘先开了口，问完对方又自报家门。",
+  "storyline": [
+    { "step": 1, "title": "江上行船", "text": "长江上船来船往，姑娘的船和郎君的船靠得很近。" },
+    { "step": 2, "title": "开口相问", "text": "姑娘的船挨着郎君的船，她先开口问：请问郎君家住哪里？" },
+    { "step": 3, "title": "报上家门", "text": "不等对方回答，她先报上自己的家：我住在横塘。" },
+    { "step": 4, "title": "再探乡音", "text": "她又把船停住，补上一句：说不定我们是同乡呢。" }
+  ],
+  "pinyinNotes": [
+    { "char": "妾", "reading": "qiè", "reason": "古代女子自称“妾”，读 qiè。", "standard": "不要读成 qiē" },
+    { "char": "横塘", "reading": "héng táng", "reason": "“横塘”是南京附近的地名，“横”读 héng。" }
+  ],
+  "sources": ["《全唐诗》", "《唐诗三百首》"],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1258
+}

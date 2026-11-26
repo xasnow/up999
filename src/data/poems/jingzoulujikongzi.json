@@ -1,0 +1,158 @@
+{
+  "id": "tang-chutang-tangxuanzong-jingzoulujikongzi",
+  "slug": "jingzoulujikongzi",
+  "title": "经邹鲁祭孔子而叹之",
+  "titlePinyin": "jīng zōu lǔ jì kǒng zǐ ér tàn zhī",
+  "dynasty": "tangshi",
+  "era": "chutang",
+  "genre": "shi",
+  "form": "五言律诗",
+  "authorId": "tangxuanzong",
+  "gradeBand": "ext",
+  "difficulty": 3,
+  "tags": ["怀古", "五言律诗", "孔子", "梦"],
+  "writtenYear": 739,
+  "writtenLabel": "约公元 739 年（唐玄宗 55 岁，追封孔子为“文宣王”之际）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "叹凤嗟身否，伤麟怨道穷。"
+  ],
+  "lines": [
+    {
+      "text": "夫子何为者，",
+      "pinyin": ["fū", "zǐ", "hé", "wéi", "zhě"],
+      "translation": "孔夫子这一生奔波，是为了什么呢？",
+      "noteIds": []
+    },
+    {
+      "text": "栖栖一代中。",
+      "pinyin": ["qī", "qī", "yī", "dài", "zhōng"],
+      "translation": "他忙碌不安，奔走了一辈子。",
+      "noteIds": ["n-qiqi"]
+    },
+    {
+      "text": "地犹鄹氏邑，",
+      "pinyin": ["dì", "yóu", "zōu", "shì", "yì"],
+      "translation": "这里的土地，还是鄹氏的城邑，",
+      "noteIds": ["n-zoushi"]
+    },
+    {
+      "text": "宅即鲁王宫。",
+      "pinyin": ["zhái", "jí", "lǔ", "wáng", "gōng"],
+      "translation": "孔子的故居，又像当年鲁王的宫殿。",
+      "noteIds": ["n-luwanggong"]
+    },
+    {
+      "text": "叹凤嗟身否，",
+      "pinyin": ["tàn", "fèng", "jiē", "shēn", "pǐ"],
+      "translation": "他感叹凤凰不至、生不逢时，",
+      "noteIds": ["n-tanfeng"]
+    },
+    {
+      "text": "伤麟怨道穷。",
+      "pinyin": ["shāng", "lín", "yuàn", "dào", "qióng"],
+      "translation": "见到麒麟被捕获，又哀伤大道难行。",
+      "noteIds": ["n-shanglin"]
+    },
+    {
+      "text": "今看两楹奠，",
+      "pinyin": ["jīn", "kān", "liǎng", "yíng", "diàn"],
+      "translation": "如今看祭礼摆在殿堂两柱之间，",
+      "noteIds": ["n-liangying"]
+    },
+    {
+      "text": "当与梦时同。",
+      "pinyin": ["dāng", "yǔ", "mèng", "shí", "tóng"],
+      "translation": "正和孔子当年梦见的情形一样。"
+      , "noteIds": []
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-qiqi",
+      "word": "栖栖",
+      "pinyin": "xī xī",
+      "meaning": "忙碌不安的样子。《论语》里有人问孔子，为什么这样忙忙碌碌。"
+    },
+    {
+      "id": "n-zoushi",
+      "word": "鄹氏邑",
+      "pinyin": "zōu shì yì",
+      "meaning": "鄹，春秋时鲁国的地名，孔子的父亲曾做鄹邑大夫，孔子就出生在这一带。"
+    },
+    {
+      "id": "n-luwanggong",
+      "word": "鲁王宫",
+      "pinyin": "lǔ wáng gōng",
+      "meaning": "汉代鲁恭王扩建宫殿时拆了孔子旧宅，在墙壁里发现了古书，所以把故居和鲁王宫联系在一起。"
+    },
+    {
+      "id": "n-tanfeng",
+      "word": "叹凤",
+      "pinyin": "tàn fèng",
+      "meaning": "孔子感叹“凤鸟不至”，叹息自己生不逢时。身否：时运不好，否指闭塞不通。"
+    },
+    {
+      "id": "n-shanglin",
+      "word": "伤麟",
+      "pinyin": "shāng lín",
+      "meaning": "鲁国猎获麒麟，孔子叹息“吾道穷矣”。麟是传说中的仁兽。"
+    },
+    {
+      "id": "n-liangying",
+      "word": "两楹奠",
+      "pinyin": "liǎng yíng diàn",
+      "meaning": "楹是厅堂前的柱子。孔子曾梦见自己受祭于两楹之间，后来果然应验。"
+    }
+  ],
+  "translation": "孔夫子这一生奔波，是为了什么呢？他忙碌不安，奔走了一辈子。这里的土地还是鄹氏的城邑，故居又像当年鲁王的宫殿。他感叹凤凰不至、生不逢时，见到麒麟被捕获，又哀伤大道难行。如今看祭礼摆在殿堂两柱之间，正和孔子当年梦见的情形一样。",
+  "appreciation": "皇帝写孔子，不摆架子，倒像在跟老朋友说话。“夫子何为者”一问，把孔子奔波的一生轻轻提起。中间四句连用典故：旧宅、鲁宫、叹凤、伤麟，句句是孔子的遭遇，也藏着诗人自己的感慨。结尾回到两楹之梦，庄重又深情，把对圣人的敬仰写到心里去了。",
+  "background": "唐玄宗崇尚儒学。开元二十七年（739年），朝廷追封孔子为“文宣王”。相传玄宗曾亲到曲阜孔子庙祭拜，想起孔子一生奔波却不得志，写下这首诗。它是《唐诗三百首》中唯一的皇帝之作。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "圣人何为",
+      "text": "诗人来到曲阜的孔子庙前，开口就问：夫子一生忙碌，是为了什么呢？"
+    },
+    {
+      "step": 2,
+      "title": "旧宅犹存",
+      "text": "庙前的土地还是鄹氏城邑，故居让人想起鲁王宫的往事。"
+    },
+    {
+      "step": 3,
+      "title": "叹凤伤麟",
+      "text": "凤凰没有飞来，麒麟被捕走，孔子叹息时运不济、大道难行。"
+    },
+    {
+      "step": 4,
+      "title": "梦成两楹",
+      "text": "如今祭礼摆在殿堂两柱之间，正应了孔子当年的两楹之梦。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "鄹",
+      "reading": "zōu",
+      "reason": "鄹是春秋时鲁国的地名，孔子的父亲曾做鄹邑大夫。"
+    },
+    {
+      "char": "否",
+      "reading": "pǐ",
+      "reason": "“嗟身否”的“否”指时运闭塞不通。"
+      ,
+      "standard": "不要读成 fǒu"
+    },
+    {
+      "char": "看",
+      "reading": "kān",
+      "reason": "古诗中“看”常读平声 kān，这里按格律读平声。"
+      ,
+      "standard": "今口语读 kàn 也可以"
+    }
+  ],
+  "sources": ["《全唐诗》", "《唐诗三百首》"],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1094
+}

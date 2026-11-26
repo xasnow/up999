@@ -1,0 +1,158 @@
+{
+  "id": "tang-wantang-lishangyin-luohua",
+  "slug": "luohua",
+  "title": "落花",
+  "titlePinyin": "luò huā",
+  "dynasty": "tangshi",
+  "era": "wantang",
+  "genre": "shi",
+  "form": "五言律诗",
+  "authorId": "lishangyin",
+  "gradeBand": "ext",
+  "tags": [
+    "咏物",
+    "五言律诗",
+    "落花",
+    "春天"
+  ],
+  "difficulty": 3,
+  "writtenYear": 842,
+  "writtenLabel": "约公元 842 年（李商隐 30 岁，居母丧闲居，见落花而作）",
+  "orderInAuthor": 1,
+  "no": 1069,
+  "famousLines": [
+    "芳心向春尽，所得是沾衣。"
+  ],
+  "lines": [
+    {
+      "text": "高阁客竟去，",
+      "pinyin": ["gāo", "gé", "kè", "jìng", "qù"],
+      "translation": "高阁上的客人竟然都离去，",
+      "noteIds": []
+    },
+    {
+      "text": "小园花乱飞。",
+      "pinyin": ["xiǎo", "yuán", "huā", "luàn", "fēi"],
+      "translation": "小园里的花也开始纷纷乱飞。",
+      "noteIds": []
+    },
+    {
+      "text": "参差连曲陌，",
+      "pinyin": ["cēn", "cī", "lián", "qū", "mò"],
+      "translation": "花瓣高低错落，一路飘连着弯曲的小路，",
+      "noteIds": ["n-cenci", "n-qumo"]
+    },
+    {
+      "text": "迢递送斜晖。",
+      "pinyin": ["tiáo", "dì", "sòng", "xié", "huī"],
+      "translation": "远远地飘向天边，送走斜阳余晖。",
+      "noteIds": ["n-tiaodi"]
+    },
+    {
+      "text": "肠断未忍扫，",
+      "pinyin": ["cháng", "duàn", "wèi", "rěn", "sǎo"],
+      "translation": "伤心欲绝，还不忍心把落花扫去，",
+      "noteIds": []
+    },
+    {
+      "text": "眼穿仍欲归。",
+      "pinyin": ["yǎn", "chuān", "réng", "yù", "guī"],
+      "translation": "望眼欲穿盼春常在，春天却仍要归去。",
+      "noteIds": ["n-yanchuan"]
+    },
+    {
+      "text": "芳心向春尽，",
+      "pinyin": ["fāng", "xīn", "xiàng", "chūn", "jìn"],
+      "translation": "花的芳心随着春天一同逝去，",
+      "noteIds": ["n-fangxin"]
+    },
+    {
+      "text": "所得是沾衣。",
+      "pinyin": ["suǒ", "dé", "shì", "zhān", "yī"],
+      "translation": "它所得到的，只是沾湿人的衣裳。",
+      "noteIds": ["n-zhanyi"]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-cenci",
+      "word": "参差",
+      "pinyin": "cēn cī",
+      "meaning": "高低不齐的样子，形容花瓣纷纷散落。"
+    },
+    {
+      "id": "n-qumo",
+      "word": "曲陌",
+      "pinyin": "qū mò",
+      "meaning": "弯曲的小路。"
+    },
+    {
+      "id": "n-tiaodi",
+      "word": "迢递",
+      "pinyin": "tiáo dì",
+      "meaning": "遥远的样子。"
+    },
+    {
+      "id": "n-yanchuan",
+      "word": "眼穿",
+      "pinyin": "yǎn chuān",
+      "meaning": "望眼欲穿，形容盼望殷切。"
+    },
+    {
+      "id": "n-fangxin",
+      "word": "芳心",
+      "pinyin": "fāng xīn",
+      "meaning": "花的心，也暗指诗人惜春怜己之心。"
+    },
+    {
+      "id": "n-zhanyi",
+      "word": "沾衣",
+      "pinyin": "zhān yī",
+      "meaning": "花瓣落在人身上沾湿衣裳，也暗指诗人泪湿衣襟。"
+    }
+  ],
+  "translation": "高阁上的客人竟然都离去，小园里的花也开始纷纷乱飞。花瓣高低错落，一路飘连着弯曲的小路，远远地飘向天边，送走斜阳余晖。伤心欲绝，还不忍心把落花扫去；望眼欲穿盼春常在，春天却仍要归去。花的芳心随着春天一同逝去，它所得到的，只是沾湿人的衣裳。",
+  "appreciation": "客人刚散，满园的花就乱了：花瓣顺着小路一路飘远，把最后一缕斜阳也送走了。诗人肠断，却不忍扫去落花；望眼欲穿，春天还是留不住。最后两句最痛——花把整个春天的心都给了春天，换来的只是沾湿行人衣裳的一点点凄凉。明是写花，暗是写人：一生心血付与长安，得到的不过几番冷遇。惜花，也是惜自己。",
+  "background": "公元 842 年前后，李商隐因母亲去世辞官闲居。客人散去，小园落花纷飞，他独自看着春天离去。多年求仕的辛酸与眼前花落的凄凉叠在一起，于是有了这首情深意婉的咏落花之作。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "客去花飞",
+      "text": "高阁客人散去，小园落花纷飞。"
+    },
+    {
+      "step": 2,
+      "title": "花连曲陌",
+      "text": "花瓣高低错落，飘连着弯曲的小路。"
+    },
+    {
+      "step": 3,
+      "title": "不忍扫花",
+      "text": "伤心欲绝，仍不忍心把落花扫去。"
+    },
+    {
+      "step": 4,
+      "title": "芳心沾衣",
+      "text": "花随春尽，只留下沾湿衣裳的一片凄凉。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "参差",
+      "reading": "cēn cī",
+      "reason": "形容高低不齐，读 cēn cī。",
+      "standard": "不要读成 cān chā"
+    },
+    {
+      "char": "迢递",
+      "reading": "tiáo dì",
+      "reason": "形容遥远，读 tiáo dì。"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26"
+}

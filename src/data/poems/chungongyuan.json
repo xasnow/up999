@@ -1,0 +1,139 @@
+{
+  "id": "tang-wantang-duxunhe-chungongyuan",
+  "slug": "chungongyuan",
+  "title": "春宫怨",
+  "titlePinyin": "chūn gōng yuàn",
+  "dynasty": "tangshi",
+  "era": "wantang",
+  "genre": "shi",
+  "form": "五言律诗",
+  "authorId": "duxunhe",
+  "gradeBand": "ext",
+  "tags": ["宫怨", "五言律诗", "春天", "花影"],
+  "difficulty": 3,
+  "writtenYear": 880,
+  "writtenLabel": "约公元 880 年（杜荀鹤 34 岁左右，多次科举落第，借宫人幽怨自写不遇之感）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "风暖鸟声碎，日高花影重。"
+  ],
+  "lines": [
+    {
+      "text": "早被婵娟误，",
+      "pinyin": ["zǎo", "bèi", "chán", "juān", "wù"],
+      "translation": "早年因为美貌被选进宫里，反而耽误了自己。",
+      "noteIds": ["n-chanjuan"]
+    },
+    {
+      "text": "欲妆临镜慵。",
+      "pinyin": ["yù", "zhuāng", "lín", "jìng", "yōng"],
+      "translation": "想梳妆打扮，对着镜子却懒洋洋没有心思。",
+      "noteIds": ["n-yong"]
+    },
+    {
+      "text": "承恩不在貌，",
+      "pinyin": ["chéng", "ēn", "bú", "zài", "mào"],
+      "translation": "得到宠爱并不在于容貌，",
+      "noteIds": ["n-chengen"]
+    },
+    {
+      "text": "教妾若为容。",
+      "pinyin": ["jiào", "qiè", "ruò", "wéi", "róng"],
+      "translation": "又叫我怎样去修饰打扮呢？",
+      "noteIds": ["n-ruowei"]
+    },
+    {
+      "text": "风暖鸟声碎，",
+      "pinyin": ["fēng", "nuǎn", "niǎo", "shēng", "suì"],
+      "translation": "春风暖暖，鸟鸣细碎，",
+      "noteIds": ["n-sui"]
+    },
+    {
+      "text": "日高花影重。",
+      "pinyin": ["rì", "gāo", "huā", "yǐng", "chóng"],
+      "translation": "太阳升高，花影重重叠叠。",
+      "noteIds": []
+    },
+    {
+      "text": "年年越溪女，",
+      "pinyin": ["nián", "nián", "yuè", "xī", "nǚ"],
+      "translation": "年年想起越溪边的女伴，",
+      "noteIds": ["n-yuexi"]
+    },
+    {
+      "text": "相忆采芙蓉。",
+      "pinyin": ["xiāng", "yì", "cǎi", "fú", "róng"],
+      "translation": "那时一起采芙蓉的日子多么快乐。",
+      "noteIds": []
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-chanjuan",
+      "word": "婵娟",
+      "pinyin": "chán juān",
+      "meaning": "美好的容貌。"
+    },
+    {
+      "id": "n-yong",
+      "word": "慵",
+      "pinyin": "yōng",
+      "meaning": "懒，没有心思。"
+    },
+    {
+      "id": "n-chengen",
+      "word": "承恩",
+      "pinyin": "chéng ēn",
+      "meaning": "得到皇帝的宠爱。"
+    },
+    {
+      "id": "n-ruowei",
+      "word": "若为",
+      "pinyin": "ruò wéi",
+      "meaning": "怎样、怎么。"
+    },
+    {
+      "id": "n-sui",
+      "word": "碎",
+      "pinyin": "suì",
+      "meaning": "细碎，形容鸟鸣声又多又密。"
+    },
+    {
+      "id": "n-yuexi",
+      "word": "越溪女",
+      "pinyin": "yuè xī nǚ",
+      "meaning": "像西施当年在越溪浣纱时的女伴。"
+    }
+  ],
+  "translation": "早年因为美貌被选进宫里，反而耽误了自己；想梳妆打扮，对着镜子却懒洋洋没有心思。得到宠爱并不在于容貌，又叫我怎样去修饰打扮呢？春风暖暖，鸟鸣细碎，太阳升高，花影重重叠叠。年年想起越溪边的女伴，那时一起采芙蓉的日子多么快乐。",
+  "appreciation": "宫女的哀怨写得含蓄动人。“承恩不在貌”一句说透了宫中现实的荒唐：美貌反而被耽误，打扮又有什么用。风暖、鸟声、花影，春天越好，人越寂寞。结尾想起采芙蓉的旧伴，把宫里的冷清和宫外的自由放在一起，怨意更深。据说这也是诗人借宫人写自己的怀才不遇。",
+  "background": "杜荀鹤出身寒微，多次科举落第。这首诗借宫中美女的幽怨，写自己怀才不遇的苦闷：容貌好比才华，君王好比主考，“承恩不在貌”正是他的不平之气。一般认为作于他落第期间。",
+  "storyline": [
+    { "step": 1, "title": "镜前慵妆", "text": "宫女对镜想梳妆，却懒懒地提不起心思。" },
+    { "step": 2, "title": "怨由貌起", "text": "想到承恩不在容貌，美貌反而耽误了自己。" },
+    { "step": 3, "title": "春光更冷", "text": "春风暖暖，鸟声细碎；日头升高，花影重重。" },
+    { "step": 4, "title": "想念旧伴", "text": "她年年想念越溪女伴，怀念一起采芙蓉的日子。" }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "慵",
+      "reading": "yōng",
+      "reason": "“慵”是懒的意思，读 yōng。"
+    },
+    {
+      "char": "重",
+      "reading": "chóng",
+      "reason": "“花影重”的“重”指花影重叠，读 chóng。",
+      "standard": "不要读成 zhòng"
+    },
+    {
+      "char": "婵娟",
+      "reading": "chán juān",
+      "reason": "“婵娟”形容女子容貌美好，读 chán juān。"
+    }
+  ],
+  "sources": ["《全唐诗》", "《唐诗三百首》"],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1080
+}

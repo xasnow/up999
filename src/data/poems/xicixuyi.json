@@ -1,0 +1,164 @@
+{
+  "id": "tang-zhongtang-weiyingwu-xicixuyi",
+  "slug": "xicixuyi",
+  "title": "夕次盱眙县",
+  "titlePinyin": "xī cì xū yí xiàn",
+  "dynasty": "tangshi",
+  "era": "zhongtang",
+  "genre": "shi",
+  "form": "五言古诗",
+  "authorId": "weiyingwu",
+  "gradeBand": "ext",
+  "tags": ["思乡", "五言古诗", "夕阳", "芦洲"],
+  "difficulty": 3,
+  "writtenYear": 783,
+  "writtenLabel": "公元 783 年（韦应物 46 岁，自长安赴滁州刺史任，途经盱眙夜泊淮边）",
+  "orderInAuthor": 2,
+  "no": 1189,
+  "famousLines": [
+    "人归山郭暗，雁下芦洲白。",
+    "独夜忆秦关，听钟未眠客。"
+  ],
+  "lines": [
+    {
+      "text": "落帆逗淮镇，",
+      "pinyin": ["luò", "fān", "dòu", "huái", "zhèn"],
+      "translation": "傍晚放下船帆，把船停靠在淮河边的小镇旁，",
+      "noteIds": ["n-dou", "n-huaizhen"]
+    },
+    {
+      "text": "停舫临孤驿。",
+      "pinyin": ["tíng", "fǎng", "lín", "gū", "yì"],
+      "translation": "小船就停在一座孤单的驿站旁边。",
+      "noteIds": ["n-fang", "n-yi"]
+    },
+    {
+      "text": "浩浩风起波，",
+      "pinyin": ["hào", "hào", "fēng", "qǐ", "bō"],
+      "translation": "大风掀起浩浩的波浪，",
+      "noteIds": []
+    },
+    {
+      "text": "冥冥日沉夕。",
+      "pinyin": ["míng", "míng", "rì", "chén", "xī"],
+      "translation": "天色昏暗，太阳沉进了夜幕。",
+      "noteIds": []
+    },
+    {
+      "text": "人归山郭暗，",
+      "pinyin": ["rén", "guī", "shān", "guō", "àn"],
+      "translation": "人们回城歇息，山边的城郭暗了下来，",
+      "noteIds": ["n-shanguo"]
+    },
+    {
+      "text": "雁下芦洲白。",
+      "pinyin": ["yàn", "xià", "lú", "zhōu", "bái"],
+      "translation": "大雁落到长满芦苇的水洲上，芦花一片雪白。",
+      "noteIds": ["n-luzhou"]
+    },
+    {
+      "text": "独夜忆秦关，",
+      "pinyin": ["dú", "yè", "yì", "qín", "guān"],
+      "translation": "孤独的夜里，我想起长安的家乡，",
+      "noteIds": ["n-qinguan"]
+    },
+    {
+      "text": "听钟未眠客。",
+      "pinyin": ["tīng", "zhōng", "wèi", "mián", "kè"],
+      "translation": "听着岸上的钟声，这个客子久久不能入睡。",
+      "noteIds": []
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-dou",
+      "word": "逗",
+      "pinyin": "dòu",
+      "meaning": "停留、停靠。"
+    },
+    {
+      "id": "n-huaizhen",
+      "word": "淮镇",
+      "pinyin": "huái zhèn",
+      "meaning": "淮河边的小镇，指盱眙。"
+    },
+    {
+      "id": "n-fang",
+      "word": "舫",
+      "pinyin": "fǎng",
+      "meaning": "船。"
+    },
+    {
+      "id": "n-yi",
+      "word": "驿",
+      "pinyin": "yì",
+      "meaning": "驿站，古时供行人歇脚换马的地方。"
+    },
+    {
+      "id": "n-shanguo",
+      "word": "山郭",
+      "pinyin": "shān guō",
+      "meaning": "山边的城郭。"
+    },
+    {
+      "id": "n-luzhou",
+      "word": "芦洲",
+      "pinyin": "lú zhōu",
+      "meaning": "长满芦苇的水中小洲。"
+    },
+    {
+      "id": "n-qinguan",
+      "word": "秦关",
+      "pinyin": "qín guān",
+      "meaning": "指长安一带，诗人的故乡。"
+    }
+  ],
+  "translation": "傍晚放下船帆，把船停靠在淮河边的小镇旁，小船就停在一座孤单的驿站旁边。大风掀起浩浩的波浪，天色昏暗，太阳沉进了夜幕。人们回城歇息，山边的城郭暗了下来；大雁落到长满芦苇的水洲上，芦花一片雪白。孤独的夜里，我想起长安的家乡，听着岸上的钟声，这个客子久久不能入睡。",
+  "appreciation": "这首诗把旅人的孤单写得很有画面感。傍晚停船，只见风起浪涌、日头沉落，城郭暗了，大雁也落回芦苇洲；天地间的一切都在“归”和“下”，只有客居的人回不了家。夜里岸上钟声响起，更衬得长夜难眠。全诗不着一个“愁”字，乡愁却处处都在。",
+  "background": "建中三年（783），韦应物离开长安，前往滁州做刺史。船行至盱眙县，傍晚停在淮水边的驿站旁。风起浪涌、日暮天暗，听着岸上的钟声，他想起远在长安的家，写下这首旅夜怀乡的诗。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "停船淮镇",
+      "text": "傍晚落下船帆，把船停在淮河边小镇的孤驿旁。"
+    },
+    {
+      "step": 2,
+      "title": "风波日沉",
+      "text": "大风掀起层层波浪，太阳在昏暗中沉了下去。"
+    },
+    {
+      "step": 3,
+      "title": "人归雁下",
+      "text": "人们回城，山城暗了下来，大雁落到雪白的芦苇洲上。"
+    },
+    {
+      "step": 4,
+      "title": "闻钟忆乡",
+      "text": "夜里听见钟声，这个想念长安的客人久久不能入睡。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "盱眙",
+      "reading": "xū yí",
+      "reason": "地名用字，盱眙县在今江苏，“盱眙”读 xū yí。",
+      "standard": "不要读成 yú tái"
+    },
+    {
+      "char": "舫",
+      "reading": "fǎng",
+      "reason": "“停舫”指停船，“舫”是船，读 fǎng。",
+      "standard": "不要读成 fāng 或 fáng"
+    },
+    {
+      "char": "逗",
+      "reading": "dòu",
+      "reason": "“逗淮镇”的“逗”是停留的意思，读 dòu。",
+      "standard": "这里不是“逗笑”的“逗”"
+    }
+  ],
+  "sources": ["《全唐诗》", "《唐诗三百首》"],
+  "status": "published",
+  "updatedAt": "2026-11-26"
+}

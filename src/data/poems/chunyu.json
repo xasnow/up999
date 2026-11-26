@@ -1,0 +1,169 @@
+{
+  "id": "tang-wantang-lishangyin-chunyu",
+  "slug": "chunyu",
+  "title": "春雨",
+  "titlePinyin": "chūn yǔ",
+  "dynasty": "tangshi",
+  "era": "wantang",
+  "genre": "shi",
+  "form": "七言律诗",
+  "authorId": "lishangyin",
+  "gradeBand": "ext",
+  "tags": [
+    "思念",
+    "七言律诗",
+    "春雨",
+    "红楼"
+  ],
+  "difficulty": 3,
+  "writtenYear": 856,
+  "writtenLabel": "作年不详，约公元 856 年（大中年间，雨夜思念旧人所写）",
+  "orderInAuthor": 2,
+  "no": 1134,
+  "famousLines": [
+    "红楼隔雨相望冷，珠箔飘灯独自归。"
+  ],
+  "lines": [
+    {
+      "text": "怅卧新春白袷衣，",
+      "pinyin": ["chàng", "wò", "xīn", "chūn", "bái", "jiá", "yī"],
+      "translation": "新春时节，我穿着白夹衣怅然卧床，",
+      "noteIds": ["n-baijiayi"]
+    },
+    {
+      "text": "白门寥落意多违。",
+      "pinyin": ["bái", "mén", "liáo", "luò", "yì", "duō", "wéi"],
+      "translation": "白门冷落寂寥，事事都与心意相违。",
+      "noteIds": ["n-baimen"]
+    },
+    {
+      "text": "红楼隔雨相望冷，",
+      "pinyin": ["hóng", "lóu", "gé", "yǔ", "xiāng", "wàng", "lěng"],
+      "translation": "隔着春雨遥望她住的红楼，只觉得一片清冷，",
+      "noteIds": ["n-honglou"]
+    },
+    {
+      "text": "珠箔飘灯独自归。",
+      "pinyin": ["zhū", "bó", "piāo", "dēng", "dú", "zì", "guī"],
+      "translation": "珠帘在风中飘动，我提着灯独自归来。",
+      "noteIds": ["n-zhubo"]
+    },
+    {
+      "text": "远路应悲春晼晚，",
+      "pinyin": ["yuǎn", "lù", "yīng", "bēi", "chūn", "wǎn", "wǎn"],
+      "translation": "远方的你，也应为春光渐尽而悲伤，",
+      "noteIds": ["n-wanwan"]
+    },
+    {
+      "text": "残宵犹得梦依稀。",
+      "pinyin": ["cán", "xiāo", "yóu", "dé", "mèng", "yī", "xī"],
+      "translation": "好在夜尽之前，还能在梦里依稀相见。",
+      "noteIds": []
+    },
+    {
+      "text": "玉珰缄札何由达，",
+      "pinyin": ["yù", "dāng", "jiān", "zhá", "hé", "yóu", "dá"],
+      "translation": "玉珰和书信都准备好了，又怎样才能送到你手中？",
+      "noteIds": ["n-yudang", "n-jianzha"]
+    },
+    {
+      "text": "万里云罗一雁飞。",
+      "pinyin": ["wàn", "lǐ", "yún", "luó", "yī", "yàn", "fēi"],
+      "translation": "万里阴云如罗网，只有一只孤雁飞过。",
+      "noteIds": ["n-yunluo"]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-baijiayi",
+      "word": "白袷衣",
+      "pinyin": "bái jiá yī",
+      "meaning": "白色的夹衣。袷，同“夹”。"
+    },
+    {
+      "id": "n-baimen",
+      "word": "白门",
+      "pinyin": "bái mén",
+      "meaning": "指金陵（今南京），旧时男女欢会之地，这里借指所居之地。"
+    },
+    {
+      "id": "n-honglou",
+      "word": "红楼",
+      "pinyin": "hóng lóu",
+      "meaning": "指所思念之人居住的华美楼房。"
+    },
+    {
+      "id": "n-zhubo",
+      "word": "珠箔",
+      "pinyin": "zhū bó",
+      "meaning": "珠子串成的门帘。"
+    },
+    {
+      "id": "n-wanwan",
+      "word": "晼晚",
+      "pinyin": "wǎn wǎn",
+      "meaning": "太阳西斜，比喻春光将尽、年华迟暮。"
+    },
+    {
+      "id": "n-yudang",
+      "word": "玉珰",
+      "pinyin": "yù dāng",
+      "meaning": "玉制的耳坠，古人用作男女间的信物。"
+    },
+    {
+      "id": "n-jianzha",
+      "word": "缄札",
+      "pinyin": "jiān zhá",
+      "meaning": "封好的书信。"
+    },
+    {
+      "id": "n-yunluo",
+      "word": "云罗",
+      "pinyin": "yún luó",
+      "meaning": "像罗网一样密布的阴云。"
+    }
+  ],
+  "translation": "新春时节，我穿着白夹衣怅然卧床，白门冷落寂寥，事事都与心意相违。隔着春雨遥望她住的红楼，只觉得一片清冷；珠帘在风中飘动，我提着灯独自归来。远方的你，也应为春光渐尽而悲伤；好在夜尽之前，还能在梦里依稀相见。玉珰和书信都准备好了，又怎样才能送到你手中？万里阴云如罗网，只有一只孤雁飞过。",
+  "appreciation": "新春的冷雨里，诗人穿一件白夹衣怅然卧着，望也望不成，梦也梦不稳。最动人的是中间一联：隔着雨望那座红楼，红楼冰冷，自己的灯在珠帘外飘摇，最后只能独自归去——一“望”一“归”，把相思的徒劳写尽了。他想寄出玉珰和书信，抬头却是万里阴云像一张大网，只剩一只孤雁。全诗不见一个“爱”字，思念却被春雨泡得又湿又凉，久久不干。",
+  "background": "李商隐感情深挚，常在诗中追忆旧日情缘。这首诗写新春雨夜，他怅卧客舍，隔雨遥望所思之人居住的红楼，终不能相见，只能托孤雁传书。也有人认为诗中寄寓着诗人宦途失意的身世之感。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "新春怅卧",
+      "text": "新春冷雨，诗人穿白夹衣怅然独卧。"
+    },
+    {
+      "step": 2,
+      "title": "隔雨望楼",
+      "text": "隔着细雨遥望红楼，只觉一片清冷。"
+    },
+    {
+      "step": 3,
+      "title": "提灯独归",
+      "text": "珠帘风中飘动，他提着灯独自归来。"
+    },
+    {
+      "step": 4,
+      "title": "孤雁难托",
+      "text": "玉珰书信难寄，万里云罗一只孤雁。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "袷",
+      "reading": "jiá",
+      "reason": "“白袷衣”即夹衣，读 jiá。"
+    },
+    {
+      "char": "珰",
+      "reading": "dāng",
+      "reason": "“玉珰”指玉制耳坠，读 dāng。"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26"
+}

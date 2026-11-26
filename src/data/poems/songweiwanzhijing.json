@@ -1,0 +1,150 @@
+{
+  "id": "tang-shengtang-liqi-songweiwanzhijing",
+  "slug": "songweiwanzhijing",
+  "title": "送魏万之京",
+  "titlePinyin": "sòng wèi wàn zhī jīng",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "七言律诗",
+  "authorId": "liqi",
+  "gradeBand": "ext",
+  "tags": ["送别", "七言律诗", "鸿雁", "秋天"],
+  "difficulty": 3,
+  "writtenYear": 750,
+  "writtenLabel": "约天宝九载（750）前后，李颀在洛阳送青年魏万西去长安",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "鸿雁不堪愁里听，云山况是客中过。"
+  ],
+  "lines": [
+    {
+      "text": "朝闻游子唱离歌，",
+      "pinyin": ["zhāo", "wén", "yóu", "zǐ", "chàng", "lí", "gē"],
+      "translation": "早晨听你唱起了离别的歌，",
+      "noteIds": ["n-lige"]
+    },
+    {
+      "text": "昨夜微霜初渡河。",
+      "pinyin": ["zuó", "yè", "wēi", "shuāng", "chū", "dù", "hé"],
+      "translation": "昨夜微霜落下，你刚刚渡过黄河。",
+      "noteIds": []
+    },
+    {
+      "text": "鸿雁不堪愁里听，",
+      "pinyin": ["hóng", "yàn", "bù", "kān", "chóu", "lǐ", "tīng"],
+      "translation": "满腹离愁，最怕听南飞的雁叫，",
+      "noteIds": []
+    },
+    {
+      "text": "云山况是客中过。",
+      "pinyin": ["yún", "shān", "kuàng", "shì", "kè", "zhōng", "guō"],
+      "translation": "何况还要带着客愁，穿过重重云山。",
+      "noteIds": []
+    },
+    {
+      "text": "关城树色催寒近，",
+      "pinyin": ["guān", "chéng", "shù", "sè", "cuī", "hán", "jìn"],
+      "translation": "潼关的树色渐渐变黄，寒气一天天近了，",
+      "noteIds": ["n-guocheng"]
+    },
+    {
+      "text": "御苑砧声向晚多。",
+      "pinyin": ["yù", "yuàn", "zhēn", "shēng", "xiàng", "wǎn", "duō"],
+      "translation": "长安宫苑里，傍晚的捣衣声也越来越多。",
+      "noteIds": ["n-yuyuan", "n-zhen"]
+    },
+    {
+      "text": "莫见长安行乐处，",
+      "pinyin": ["mò", "jiàn", "cháng", "ān", "xíng", "lè", "chù"],
+      "translation": "到了长安，不要只看见行乐的地方，",
+      "noteIds": []
+    },
+    {
+      "text": "空令岁月易蹉跎。",
+      "pinyin": ["kōng", "lìng", "suì", "yuè", "yì", "cuō", "tuó"],
+      "translation": "白白让大好岁月轻易蹉跎掉。",
+      "noteIds": ["n-cuotuo"]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-lige",
+      "word": "离歌",
+      "pinyin": "lí gē",
+      "meaning": "告别的歌，一作“骊歌”。"
+    },
+    {
+      "id": "n-guocheng",
+      "word": "关城",
+      "pinyin": "guān chéng",
+      "meaning": "指潼关，是去长安必经的地方。"
+    },
+    {
+      "id": "n-yuyuan",
+      "word": "御苑",
+      "pinyin": "yù yuàn",
+      "meaning": "皇家园林，这里指长安的宫苑。"
+    },
+    {
+      "id": "n-zhen",
+      "word": "砧声",
+      "pinyin": "zhēn shēng",
+      "meaning": "捣衣声。秋深时家家捣衣赶制寒衣，傍晚声音更密。"
+    },
+    {
+      "id": "n-cuotuo",
+      "word": "蹉跎",
+      "pinyin": "cuō tuó",
+      "meaning": "白白浪费时间，虚度光阴。"
+    }
+  ],
+  "translation": "早晨听你唱起了离别的歌，昨夜微霜落下，你刚刚渡过黄河。满腹离愁，最怕听南飞的雁叫，何况还要带着客愁，穿过重重云山。潼关的树色渐渐变黄，寒气一天天近了；长安宫苑里，傍晚的捣衣声也越来越多。到了长安，不要只看见行乐的地方，白白让大好岁月轻易蹉跎掉。",
+  "appreciation": "这是一位长者对年轻人的叮咛。诗人设想友人一路的情景：微霜渡河、愁里听雁、云山独行，想象里全是体贴。到了长安，又用关城寒色、御苑砧声，暗暗提醒秋深岁晚。结尾更是长辈口吻：长安热闹，别贪玩行乐，误了光阴。全诗把送别写得亲切又恳切，情意绵长。",
+  "background": "魏万是位年轻诗人，后来改名魏颢，曾为见李白一面追寻三千里。这次他要西去长安，路过洛阳，与李颀相别。李颀比他年长许多，像长辈一样替他一路设想行程，最后还嘱咐他到了长安不要贪玩，于是有了这首七律。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "微霜渡河",
+      "text": "昨夜微霜初降，清晨友人唱着离别的歌，渡河北上。"
+    },
+    {
+      "step": 2,
+      "title": "愁听雁声",
+      "text": "满腹离愁听不得鸿雁悲鸣，还要独自穿过重重云山。"
+    },
+    {
+      "step": 3,
+      "title": "关城寒近",
+      "text": "潼关树色转黄寒气渐近，长安宫苑傍晚捣衣声更多。"
+    },
+    {
+      "step": 4,
+      "title": "叮咛惜时",
+      "text": "诗人殷切叮咛：莫贪长安行乐，白白蹉跎了岁月。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "过",
+      "reading": "guō",
+      "reason": "“客中过”的“过”在诗中押平声韵。",
+      "standard": "不要读成 guò"
+    },
+    {
+      "char": "砧",
+      "reading": "zhēn",
+      "reason": "“砧声”是捣衣声，砧是捶衣的石垫。"
+    },
+    {
+      "char": "令",
+      "reading": "lìng",
+      "reason": "“空令”的“令”是让的意思。",
+      "standard": "不要读成 lǐng"
+    }
+  ],
+  "sources": ["《全唐诗》", "《唐诗三百首》"],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1138
+}

@@ -1,0 +1,126 @@
+{
+  "id": "tang-zhongtang-liuzhongyong-zhengrenyuan",
+  "slug": "zhengrenyuan",
+  "title": "征人怨",
+  "titlePinyin": "zhēng rén yuàn",
+  "dynasty": "tangshi",
+  "era": "zhongtang",
+  "genre": "shi",
+  "form": "七言绝句",
+  "authorId": "liuzhongyong",
+  "gradeBand": "ext",
+  "tags": ["边塞", "七言绝句", "白雪", "黄河"],
+  "difficulty": 3,
+  "writtenYear": 770,
+  "writtenLabel": "约公元 770 年（柳中庸 36 岁，大历年间，唐诗多写边塞征戍之苦）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "三春白雪归青冢，万里黄河绕黑山。"
+  ],
+  "lines": [
+    {
+      "text": "岁岁金河复玉关，",
+      "pinyin": ["suì", "suì", "jīn", "hé", "fù", "yù", "guān"],
+      "translation": "年年辗转在金河和玉门关，",
+      "noteIds": ["n-jinhe", "n-yuguan"]
+    },
+    {
+      "text": "朝朝马策与刀环。",
+      "pinyin": ["zhāo", "zhāo", "mǎ", "cè", "yǔ", "dāo", "huán"],
+      "translation": "天天与马鞭、刀枪相伴。",
+      "noteIds": ["n-mace", "n-daohuan"]
+    },
+    {
+      "text": "三春白雪归青冢，",
+      "pinyin": ["sān", "chūn", "bái", "xuě", "guī", "qīng", "zhǒng"],
+      "translation": "暮春三月还有白雪飞落在青冢上，",
+      "noteIds": ["n-qingzhong"]
+    },
+    {
+      "text": "万里黄河绕黑山。",
+      "pinyin": ["wàn", "lǐ", "huáng", "hé", "rào", "hēi", "shān"],
+      "translation": "万里黄河绕着黑山流淌。",
+      "noteIds": ["n-heishan"]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-jinhe",
+      "word": "金河",
+      "pinyin": "jīn hé",
+      "meaning": "即黑河，在今内蒙古呼和浩特一带，唐代边防之地。"
+    },
+    {
+      "id": "n-yuguan",
+      "word": "玉关",
+      "pinyin": "yù guān",
+      "meaning": "玉门关，在今甘肃敦煌西北，是通往西域的要塞。"
+    },
+    {
+      "id": "n-mace",
+      "word": "马策",
+      "pinyin": "mǎ cè",
+      "meaning": "马鞭。"
+    },
+    {
+      "id": "n-daohuan",
+      "word": "刀环",
+      "pinyin": "dāo huán",
+      "meaning": "刀柄上的铜环，“环”与“还”同音，暗含盼归之意。"
+    },
+    {
+      "id": "n-qingzhong",
+      "word": "青冢",
+      "pinyin": "qīng zhǒng",
+      "meaning": "王昭君的墓，在今内蒙古呼和浩特南，传说塞外草白，唯独此墓草色常青。"
+    },
+    {
+      "id": "n-heishan",
+      "word": "黑山",
+      "pinyin": "hēi shān",
+      "meaning": "今内蒙古境内的黑山，当时也是边防要地。"
+    }
+  ],
+  "translation": "年年辗转在金河和玉门关，天天与马鞭、刀枪相伴。暮春三月还有白雪飞落在青冢上，万里黄河绕着黑山流淌。",
+  "appreciation": "前两句写时间：岁岁、朝朝，日子全耗在边关和马鞭刀枪上；后两句写空间：白雪、青冢、黄河、黑山，转来转去都是荒凉的边地。四个地名连用却不呆板，画面一幅接一幅地铺开。全诗不见一个“怨”字，可那日复一日的辛苦和回不了家的委屈，全藏在字缝里。",
+  "background": "安史之乱后，唐朝边境战事不断，士兵长年驻守边关，回不了家乡。柳中庸经历了战乱漂泊，对征人的辛苦深有体会。他借“征人怨”这个题目，把戍边士兵年复一年的辛酸写成了这首小诗。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "岁岁戍边",
+      "text": "士兵年年转战，从金河一直守到玉门关。"
+    },
+    {
+      "step": 2,
+      "title": "朝朝兵器",
+      "text": "每天清晨醒来，身边只有马鞭和刀枪。"
+    },
+    {
+      "step": 3,
+      "title": "春雪青冢",
+      "text": "暮春三月，白雪还落在青青的昭君墓上。"
+    },
+    {
+      "step": 4,
+      "title": "河绕黑山",
+      "text": "抬头望去，万里黄河绕着黑山，回家遥遥无期。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "朝朝",
+      "reading": "zhāo zhāo",
+      "reason": "“朝”指早晨，“朝朝”即天天，读 zhāo。",
+      "standard": "不要读成 cháo"
+    },
+    {
+      "char": "冢",
+      "reading": "zhǒng",
+      "reason": "“青冢”指坟墓，读 zhǒng。"
+    }
+  ],
+  "sources": ["《全唐诗》", "《唐诗三百首》"],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1030
+}

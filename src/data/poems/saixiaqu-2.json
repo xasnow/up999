@@ -1,0 +1,121 @@
+{
+  "id": "tang-zhongtang-lulun-saixiaqu-2",
+  "slug": "saixiaqu-2",
+  "title": "塞下曲·林暗草惊风",
+  "titlePinyin": "sài xià qǔ · lín àn cǎo jīng fēng",
+  "dynasty": "tangshi",
+  "era": "zhongtang",
+  "genre": "shi",
+  "form": "五言乐府",
+  "authorId": "lulun",
+  "gradeBand": "ext",
+  "tags": ["边塞", "五言乐府", "夜风", "猛虎"],
+  "difficulty": 3,
+  "writtenYear": 790,
+  "writtenLabel": "约公元 790 年（卢纶 51 岁，《塞下曲》组诗第二首，写将军夜里射虎）",
+  "orderInAuthor": 3,
+  "famousLines": [
+    "林暗草惊风，将军夜引弓。"
+  ],
+  "lines": [
+    {
+      "text": "林暗草惊风，",
+      "pinyin": ["lín", "àn", "cǎo", "jīng", "fēng"],
+      "translation": "黑暗的树林里风吹草动，草像受惊一样乱晃，",
+      "noteIds": ["n-caojingfeng"]
+    },
+    {
+      "text": "将军夜引弓。",
+      "pinyin": ["jiāng", "jūn", "yè", "yǐn", "gōng"],
+      "translation": "将军以为有猛虎，连夜拉弓射箭。",
+      "noteIds": ["n-yin"]
+    },
+    {
+      "text": "平明寻白羽，",
+      "pinyin": ["píng", "míng", "xún", "bái", "yǔ"],
+      "translation": "天刚亮时去寻找那支白羽箭，",
+      "noteIds": ["n-pingming", "n-baiyu"]
+    },
+    {
+      "text": "没在石棱中。",
+      "pinyin": ["mò", "zài", "shí", "léng", "zhōng"],
+      "translation": "箭已经深深扎进了石头的棱缝里。",
+      "noteIds": ["n-shileng"]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-caojingfeng",
+      "word": "草惊风",
+      "pinyin": "cǎo jīng fēng",
+      "meaning": "风吹草动，草被风吹得像受惊一样。"
+    },
+    {
+      "id": "n-yin",
+      "word": "引弓",
+      "pinyin": "yǐn gōng",
+      "meaning": "拉弓射箭。"
+    },
+    {
+      "id": "n-pingming",
+      "word": "平明",
+      "pinyin": "píng míng",
+      "meaning": "天刚亮的时候。"
+    },
+    {
+      "id": "n-baiyu",
+      "word": "白羽",
+      "pinyin": "bái yǔ",
+      "meaning": "箭尾的白色羽毛，这里指箭。"
+    },
+    {
+      "id": "n-shileng",
+      "word": "石棱",
+      "pinyin": "shí léng",
+      "meaning": "石头的棱角、边缝。"
+    }
+  ],
+  "translation": "黑暗的树林里风吹草动，草像受惊一样乱晃，将军以为有猛虎，连夜拉弓射箭。天刚亮时去寻找那支白羽箭，箭已经深深扎进了石头的棱缝里。",
+  "appreciation": "这个小故事来自汉朝将军李广射虎的传说。诗只用了二十个字：夜里风吹草动，将军一箭射出；天亮一看，箭竟然扎进石头里！前两句紧张，后两句惊讶，中间还留了个小谜——到底是虎还是石？“没在石棱中”五个字，把将军的神力写得让人吃了一惊，比直接说“他真勇敢”有意思多了。",
+  "background": "卢纶在军中听到过许多将士的故事。李广夜里把草中石头误认成老虎、一箭射进石头的传说流传很广，卢纶把它写进《塞下曲》组诗的第二首，让读者在短短四句里先紧张、后惊喜。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "夜林惊风",
+      "text": "黑暗的树林里忽然风吹草动，好像有猛虎悄悄出没。"
+    },
+    {
+      "step": 2,
+      "title": "夜半引弓",
+      "text": "将军立刻警觉起来，连夜奋力拉弓，朝暗处一箭射去。"
+    },
+    {
+      "step": 3,
+      "title": "天亮寻箭",
+      "text": "天刚亮，士兵们就赶紧去草丛里寻找那支白羽箭。"
+    },
+    {
+      "step": 4,
+      "title": "箭没石棱",
+      "text": "箭没有射中老虎，却深深扎进了大石头的棱缝里。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "没",
+      "reading": "mò",
+      "reason": "“没在石棱中”的“没”是“陷入”的意思，读 mò。",
+      "standard": "不要读成 méi"
+    },
+    {
+      "char": "棱",
+      "reading": "léng",
+      "reason": "石棱是石头的棱角，读 léng。",
+      "standard": "不要读成 líng"
+    }
+  ],
+  "sources": ["《全唐诗》", "《唐诗三百首》"],
+  "no": 1261,
+  "status": "published",
+  "updatedAt": "2026-11-26"
+}

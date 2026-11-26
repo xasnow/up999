@@ -1,0 +1,133 @@
+{
+  "id": "tang-wantang-xuefeng-gongci-xuefeng",
+  "slug": "gongci-xuefeng",
+  "title": "宫词",
+  "titlePinyin": "gōng cí",
+  "dynasty": "tangshi",
+  "era": "wantang",
+  "genre": "shi",
+  "form": "七言律诗",
+  "authorId": "xuefeng",
+  "gradeBand": "ext",
+  "tags": ["思念", "七言律诗", "晓妆", "铜漏"],
+  "difficulty": 3,
+  "writtenYear": 851,
+  "writtenLabel": "约公元 851 年（薛逢 45 岁前后，在长安任职，借宫女一天的生活写深宫的冷清）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "十二楼中尽晓妆，望仙楼上望君王。",
+    "云髻罢梳还对镜，罗衣欲换更添香。"
+  ],
+  "lines": [
+    {
+      "text": "十二楼中尽晓妆，",
+      "pinyin": ["shí", "èr", "lóu", "zhōng", "jìn", "xiǎo", "zhuāng"],
+      "translation": "仙宫般的高楼里，宫女们一早都在梳妆。",
+      "noteIds": ["n-shierlou"]
+    },
+    {
+      "text": "望仙楼上望君王。",
+      "pinyin": ["wàng", "xiān", "lóu", "shàng", "wàng", "jūn", "wáng"],
+      "translation": "在望仙楼上，痴痴地望着君王来的方向。",
+      "noteIds": ["n-wangxianlou"]
+    },
+    {
+      "text": "锁衔金兽连环冷，",
+      "pinyin": ["suǒ", "xián", "jīn", "shòu", "lián", "huán", "lěng"],
+      "translation": "门锁上金兽衔着的连环，摸上去冷冰冰。",
+      "noteIds": ["n-jinshou"]
+    },
+    {
+      "text": "水滴铜龙昼漏长。",
+      "pinyin": ["shuǐ", "dī", "tóng", "lóng", "zhòu", "lòu", "cháng"],
+      "translation": "铜龙漏壶滴着水，白天显得格外长。",
+      "noteIds": ["n-tonglong"]
+    },
+    {
+      "text": "云髻罢梳还对镜，",
+      "pinyin": ["yún", "jì", "bà", "shū", "hái", "duì", "jìng"],
+      "translation": "高高的发髻梳好了，还对着镜子照了又照。",
+      "noteIds": ["n-yunji"]
+    },
+    {
+      "text": "罗衣欲换更添香。",
+      "pinyin": ["luó", "yī", "yù", "huàn", "gèng", "tiān", "xiāng"],
+      "translation": "想换一件罗衣，还要再熏上更多香气。",
+      "noteIds": []
+    },
+    {
+      "text": "遥窥正殿帘开处，",
+      "pinyin": ["yáo", "kuī", "zhèng", "diàn", "lián", "kāi", "chù"],
+      "translation": "远远望见正殿帘子掀开的地方，",
+      "noteIds": ["n-kui"]
+    },
+    {
+      "text": "袍袴宫人扫御床。",
+      "pinyin": ["páo", "kù", "gōng", "rén", "sǎo", "yù", "chuáng"],
+      "translation": "只有穿袍裤的宫人在打扫御床。",
+      "noteIds": ["n-paoku"]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-shierlou",
+      "word": "十二楼",
+      "pinyin": "shí èr lóu",
+      "meaning": "传说仙人居住有十二楼，这里指后宫重重宫楼。"
+    },
+    {
+      "id": "n-wangxianlou",
+      "word": "望仙楼",
+      "pinyin": "wàng xiān lóu",
+      "meaning": "唐代宫中的楼名，“望仙”二字本身就像在盼望。"
+    },
+    {
+      "id": "n-jinshou",
+      "word": "金兽",
+      "pinyin": "jīn shòu",
+      "meaning": "门锁上铸成的兽形装饰，指宫门的锁。"
+    },
+    {
+      "id": "n-tonglong",
+      "word": "铜龙",
+      "pinyin": "tóng lóng",
+      "meaning": "铜铸的龙形滴水计时器，即漏壶，滴水报时。"
+    },
+    {
+      "id": "n-yunji",
+      "word": "云髻",
+      "pinyin": "yún jì",
+      "meaning": "梳得像云一样高高盘起的发髻。"
+    },
+    {
+      "id": "n-kui",
+      "word": "窥",
+      "pinyin": "kuī",
+      "meaning": "偷偷地看，远远张望。"
+    },
+    {
+      "id": "n-paoku",
+      "word": "袍袴",
+      "pinyin": "páo kù",
+      "meaning": "穿袍子裤子的宫人，指地位低下、干粗活的宫女。“袴”同“裤”。"
+    }
+  ],
+  "translation": "十二座宫楼里，宫女们清晨都在梳妆；在望仙楼上，痴痴地望着君王来的方向。门锁上金兽衔着的连环是冷的，铜龙漏壶滴着水，白天显得格外长。云鬓梳好了还对着镜子照了又照，想换一件罗衣，还要再熏上更多香气。远远望见正殿帘子掀开的地方，只有穿袍裤的宫人在打扫御床。",
+  "appreciation": "诗人把宫女的一天从清晨写到午后。前六句她梳妆、望楼、添香，把“等”字写得越郑重，结局越冷清：帘子开了，走出来的却只是扫御床的粗使宫人。连环冷、漏声长，两个细节不说一个“怨”字，怨气却浸在纸里。全诗对仗工整，层层铺写，是晚唐宫词中的名篇。",
+  "background": "约公元 851 年前后，薛逢在长安做官。唐代后宫宫女成千上万，很多人一辈子也见不到皇帝一面。诗人站在宫墙外想象墙内的日子，写下这首《宫词》，替那些从早等到晚的宫女说了一句心里话。",
+  "storyline": [
+    { "step": 1, "title": "清晨晓妆", "text": "十二座宫楼里，宫女们天一亮就开始梳妆打扮。" },
+    { "step": 2, "title": "登楼凝望", "text": "她们登上望仙楼，久久望着君王可能会来的方向。" },
+    { "step": 3, "title": "长日难挨", "text": "门锁冷冰冰，铜漏滴答响，梳好妆照镜又要添香。" },
+    { "step": 4, "title": "帘开人空", "text": "远远看见正殿帘开，出来的只是扫御床的宫人。" }
+  ],
+  "pinyinNotes": [
+    { "char": "云髻", "reading": "yún jì", "reason": "“髻”指盘起的发髻，读 jì。" },
+    { "char": "窥", "reading": "kuī", "reason": "“遥窥”是远远张望的意思，读 kuī。", "standard": "不要读成 guī" },
+    { "char": "袍袴", "reading": "páo kù", "reason": "“袴”同“裤”，指穿裤子的粗使宫人，读 kù。" }
+  ],
+  "sources": ["《全唐诗》", "《唐诗三百首》"],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1165
+}

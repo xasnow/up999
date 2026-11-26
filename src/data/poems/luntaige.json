@@ -1,0 +1,254 @@
+{
+  "id": "tang-shengtang-canshen-luntaige",
+  "slug": "luntaige",
+  "title": "轮台歌奉送封大夫出师西征",
+  "titlePinyin": "lún tái gē fèng sòng fēng dài fū chū shī xī zhēng",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "七言古诗",
+  "authorId": "canshen",
+  "gradeBand": "ext",
+  "tags": ["边塞", "七言古诗", "冬天", "雪"],
+  "difficulty": 3,
+  "writtenYear": 754,
+  "writtenLabel": "约公元 754 年（岑参 40 岁左右，与《走马川行》同时，在轮台军中送封常清西征）",
+  "orderInAuthor": 4,
+  "famousLines": [
+    "四边伐鼓雪海涌，三军大呼阴山动。"
+  ],
+  "lines": [
+    {
+      "text": "轮台城头夜吹角，",
+      "pinyin": ["lún", "tái", "chéng", "tóu", "yè", "chuī", "jiǎo"],
+      "translation": "轮台城头，夜里吹响了号角，",
+      "noteIds": ["n-chuijiao"]
+    },
+    {
+      "text": "轮台城北旄头落。",
+      "pinyin": ["lún", "tái", "chéng", "běi", "máo", "tóu", "luò"],
+      "translation": "轮台城北，旄头星正在隐落。",
+      "noteIds": ["n-maotou"]
+    },
+    {
+      "text": "羽书昨夜过渠黎，",
+      "pinyin": ["yǔ", "shū", "zuó", "yè", "guò", "qú", "lí"],
+      "translation": "紧急的军书昨夜经过渠黎，",
+      "noteIds": ["n-yushu", "n-quli"]
+    },
+    {
+      "text": "单于已在金山西。",
+      "pinyin": ["chán", "yú", "yǐ", "zài", "jīn", "shān", "xī"],
+      "translation": "敌军首领已在金山的西面。",
+      "noteIds": ["n-chanyu", "n-jinshan"]
+    },
+    {
+      "text": "戍楼西望烟尘黑，",
+      "pinyin": ["shù", "lóu", "xī", "wàng", "yān", "chén", "hēi"],
+      "translation": "登上戍楼向西望，烟尘一片漆黑，",
+      "noteIds": ["n-shulou"]
+    },
+    {
+      "text": "汉军屯在轮台北。",
+      "pinyin": ["hàn", "jūn", "tún", "zài", "lún", "tái", "běi"],
+      "translation": "汉家的军队驻扎在轮台北面。",
+      "noteIds": []
+    },
+    {
+      "text": "上将拥旄西出征，",
+      "pinyin": ["shàng", "jiàng", "yōng", "máo", "xī", "chū", "zhēng"],
+      "translation": "主将手持旄节向西出征，",
+      "noteIds": ["n-yongmao"]
+    },
+    {
+      "text": "平明吹笛大军行。",
+      "pinyin": ["píng", "míng", "chuī", "dí", "dà", "jūn", "xíng"],
+      "translation": "天亮时笛声响起，大军开拔。",
+      "noteIds": []
+    },
+    {
+      "text": "四边伐鼓雪海涌，",
+      "pinyin": ["sì", "biān", "fá", "gǔ", "xuě", "hǎi", "yǒng"],
+      "translation": "四面战鼓擂动，像雪海在翻涌，",
+      "noteIds": ["n-xuehai"]
+    },
+    {
+      "text": "三军大呼阴山动。",
+      "pinyin": ["sān", "jūn", "dà", "hū", "yīn", "shān", "dòng"],
+      "translation": "三军齐声呐喊，连阴山都震动了。",
+      "noteIds": ["n-yinshan"]
+    },
+    {
+      "text": "虏塞兵气连云屯，",
+      "pinyin": ["lǔ", "sài", "bīng", "qì", "lián", "yún", "tún"],
+      "translation": "敌人的要塞上，兵气冲天连着云，",
+      "noteIds": ["n-lusai"]
+    },
+    {
+      "text": "战场白骨缠草根。",
+      "pinyin": ["zhàn", "chǎng", "bái", "gǔ", "chán", "cǎo", "gēn"],
+      "translation": "战场上白骨缠绕着草根。",
+      "noteIds": []
+    },
+    {
+      "text": "剑河风急雪片阔，",
+      "pinyin": ["jiàn", "hé", "fēng", "jí", "xuě", "piàn", "kuò"],
+      "translation": "剑河上风急雪大片，",
+      "noteIds": ["n-jianhe"]
+    },
+    {
+      "text": "沙口石冻马蹄脱。",
+      "pinyin": ["shā", "kǒu", "shí", "dòng", "mǎ", "tí", "tuō"],
+      "translation": "沙口的石头冻裂，马蹄都脱落。",
+      "noteIds": []
+    },
+    {
+      "text": "亚相勤王甘苦辛，",
+      "pinyin": ["yà", "xiàng", "qín", "wáng", "gān", "kǔ", "xīn"],
+      "translation": "亚相封常清为王事甘愿辛苦，",
+      "noteIds": ["n-yaxiang", "n-qinwang"]
+    },
+    {
+      "text": "誓将报主静边尘。",
+      "pinyin": ["shì", "jiāng", "bào", "zhǔ", "jìng", "biān", "chén"],
+      "translation": "发誓报答君主，扫平边地的烟尘。",
+      "noteIds": []
+    },
+    {
+      "text": "古来青史谁不见，",
+      "pinyin": ["gǔ", "lái", "qīng", "shǐ", "shuí", "bú", "jiàn"],
+      "translation": "自古史书上的功名谁没见过？",
+      "noteIds": ["n-qingshi"]
+    },
+    {
+      "text": "今见功名胜古人。",
+      "pinyin": ["jīn", "jiàn", "gōng", "míng", "shèng", "gǔ", "rén"],
+      "translation": "如今看见的功名，胜过了古人。",
+      "noteIds": []
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-chuijiao",
+      "word": "吹角",
+      "pinyin": "chuī jiǎo",
+      "meaning": "军中吹响号角。"
+    },
+    {
+      "id": "n-maotou",
+      "word": "旄头",
+      "pinyin": "máo tóu",
+      "meaning": "星宿名，古人认为它隐落预示敌人将败。"
+    },
+    {
+      "id": "n-yushu",
+      "word": "羽书",
+      "pinyin": "yǔ shū",
+      "meaning": "插着羽毛的紧急军事文书。"
+    },
+    {
+      "id": "n-quli",
+      "word": "渠黎",
+      "pinyin": "qú lí",
+      "meaning": "西域地名，在今新疆轮台一带。"
+    },
+    {
+      "id": "n-chanyu",
+      "word": "单于",
+      "pinyin": "chán yú",
+      "meaning": "匈奴君主，这里代指敌军首领。"
+    },
+    {
+      "id": "n-jinshan",
+      "word": "金山",
+      "pinyin": "jīn shān",
+      "meaning": "即阿尔泰山，在新疆北部。"
+    },
+    {
+      "id": "n-shulou",
+      "word": "戍楼",
+      "pinyin": "shù lóu",
+      "meaning": "驻军瞭望的高楼。"
+    },
+    {
+      "id": "n-yongmao",
+      "word": "拥旄",
+      "pinyin": "yōng máo",
+      "meaning": "手持旄节，指受命统兵的将帅。"
+    },
+    {
+      "id": "n-xuehai",
+      "word": "雪海",
+      "pinyin": "xuě hǎi",
+      "meaning": "天山一带的苦寒之地。"
+    },
+    {
+      "id": "n-yinshan",
+      "word": "阴山",
+      "pinyin": "yīn shān",
+      "meaning": "山名，这里泛指边地的山。"
+    },
+    {
+      "id": "n-lusai",
+      "word": "虏塞",
+      "pinyin": "lǔ sài",
+      "meaning": "敌人的要塞。"
+    },
+    {
+      "id": "n-jianhe",
+      "word": "剑河",
+      "pinyin": "jiàn hé",
+      "meaning": "西域河名。"
+    },
+    {
+      "id": "n-yaxiang",
+      "word": "亚相",
+      "pinyin": "yà xiàng",
+      "meaning": "位次于宰相，指封常清兼任御史大夫。"
+    },
+    {
+      "id": "n-qinwang",
+      "word": "勤王",
+      "pinyin": "qín wáng",
+      "meaning": "为朝廷尽力。"
+    },
+    {
+      "id": "n-qingshi",
+      "word": "青史",
+      "pinyin": "qīng shǐ",
+      "meaning": "史书，古代用竹简记事，故称青史。"
+    }
+  ],
+  "translation": "轮台城头，夜里吹响了号角；轮台城北，旄头星正在隐落。紧急的军书昨夜经过渠黎，敌军首领已在金山的西面。登上戍楼向西望，烟尘一片漆黑，汉家的军队驻扎在轮台北面。主将手持旄节向西出征，天亮时笛声响起，大军开拔。四面战鼓擂动，像雪海在翻涌；三军齐声呐喊，连阴山都震动了。敌人的要塞上兵气冲天连着云，战场上白骨缠绕着草根。剑河上风急雪大片，沙口的石头冻裂，马蹄都脱落。亚相封常清为王事甘愿辛苦，发誓报答君主，扫平边地的烟尘。自古史书上的功名谁没见过？如今看见的功名，胜过了古人。",
+  "appreciation": "与《走马川行》一样写西征，这首诗改从大处落笔：夜角、羽书、大军、伐鼓、呐喊，写出千军万马的气势。鼓声震动雪海、喊声撼动阴山，豪壮惊人。中间插入白骨缠草根的战场描写，豪情里带着悲凉。结尾以功名盖过古人相送，是送给主帅最好的壮行词。",
+  "background": "与《走马川行》写于同一次出征。约公元754年，封常清率军西征，岑参在轮台军中写下此诗相送。诗中夜角、羽书、伐鼓的描写，都来自他在军营里的亲身见闻。",
+  "storyline": [
+    { "step": 1, "title": "夜传羽书", "text": "轮台夜里吹响号角，紧急军书连夜传过渠黎。" },
+    { "step": 2, "title": "大军出征", "text": "天亮笛声响起，主将持旄节率大军向西开拔。" },
+    { "step": 3, "title": "擂鼓进兵", "text": "四面战鼓擂动，雪海翻涌，三军呐喊震撼阴山。" },
+    { "step": 4, "title": "预祝功名", "text": "风雪路上石冻马蹄脱，主帅将建立胜过古人的功名。" }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "旄",
+      "reading": "máo",
+      "reason": "“旄头”是星宿名，“拥旄”的“旄”指旄节，都读 máo。"
+    },
+    {
+      "char": "单于",
+      "reading": "chán yú",
+      "reason": "“单于”是古代少数民族首领的称号，读 chán yú。",
+      "standard": "不要读成 dān yú"
+    },
+    {
+      "char": "塞",
+      "reading": "sài",
+      "reason": "“虏塞”指敌人的要塞，读 sài。",
+      "standard": "不要读成 sè"
+    }
+  ],
+  "sources": ["《全唐诗》", "《唐诗三百首》"],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1204
+}

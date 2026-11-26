@@ -1,0 +1,116 @@
+{
+  "id": "tang-wantang-lishangyin-jiasheng",
+  "slug": "jiasheng",
+  "title": "贾生",
+  "titlePinyin": "jiǎ shēng",
+  "dynasty": "tangshi",
+  "era": "wantang",
+  "genre": "shi",
+  "form": "七言绝句",
+  "authorId": "lishangyin",
+  "gradeBand": "ext",
+  "tags": [
+    "怀古",
+    "七言绝句",
+    "深夜"
+  ],
+  "difficulty": 3,
+  "writtenYear": 848,
+  "writtenLabel": "约公元 848 年（李商隐 36 岁，自桂林幕府北归后，感于怀才不遇而作）",
+  "orderInAuthor": 1,
+  "no": 1017,
+  "famousLines": [
+    "可怜夜半虚前席，不问苍生问鬼神。"
+  ],
+  "lines": [
+    {
+      "text": "宣室求贤访逐臣，",
+      "pinyin": ["xuān", "shì", "qiú", "xián", "fǎng", "zhú", "chén"],
+      "translation": "汉文帝在宣室访求贤才，召见被放逐之臣。",
+      "noteIds": ["n-xuanshi"]
+    },
+    {
+      "text": "贾生才调更无伦。",
+      "pinyin": ["jiǎ", "shēng", "cái", "diào", "gèng", "wú", "lún"],
+      "translation": "贾谊的才华更是无与伦比。",
+      "noteIds": ["n-caidiao"]
+    },
+    {
+      "text": "可怜夜半虚前席，",
+      "pinyin": ["kě", "lián", "yè", "bàn", "xū", "qián", "xí"],
+      "translation": "可惜谈到半夜，文帝只是空自把坐席向前挪近。",
+      "noteIds": ["n-xu", "n-qianxi"]
+    },
+    {
+      "text": "不问苍生问鬼神。",
+      "pinyin": ["bù", "wèn", "cāng", "shēng", "wèn", "guǐ", "shén"],
+      "translation": "问的不是天下苍生，而是鬼神之事。",
+      "noteIds": []
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-xuanshi",
+      "word": "宣室",
+      "pinyin": "xuān shì",
+      "meaning": "汉代未央宫中的正殿，汉文帝曾在此召见贾谊。"
+    },
+    {
+      "id": "n-caidiao",
+      "word": "才调",
+      "pinyin": "cái diào",
+      "meaning": "才华格调。"
+    },
+    {
+      "id": "n-xu",
+      "word": "虚",
+      "pinyin": "xū",
+      "meaning": "空自，徒然。"
+    },
+    {
+      "id": "n-qianxi",
+      "word": "前席",
+      "pinyin": "qián xí",
+      "meaning": "把坐席向前挪动，靠近对方，形容听得入迷。"
+    }
+  ],
+  "translation": "汉文帝在宣室访求贤才，召见放逐之臣；贾谊的才华更是无与伦比。可惜夜半长谈，文帝只是空自向前挪动坐席，问的不是天下苍生，而是鬼神之事。",
+  "appreciation": "这首小诗只用二十八个字，却讲了一个让人叹息的故事。汉文帝求贤心切，深夜召见贾谊，听得入迷，连坐席都悄悄向前挪动。可他问的不是百姓的衣食冷暖，而是鬼神之事。诗人不说一句责备的话，只把两件事轻轻放在一起，帝王重鬼神、轻苍生的样子就全露出来了。贾谊满腹才华无处施展，也正是诗人自己的写照。",
+  "background": "贾谊是西汉极有才华的年轻人，却被贬到长沙。汉文帝后来召见他，深夜长谈，问的却是鬼神之事。李商隐一生因党争排挤不得重用，写此诗借古人的酒杯浇自己的块垒：既为贾谊抱不平，也在叹息自己的命运。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "宣室求贤",
+      "text": "汉文帝求贤若渴，特意召见被贬多年的贾谊。"
+    },
+    {
+      "step": 2,
+      "title": "才调无伦",
+      "text": "贾生谈起天下大事，才华风采无与伦比。"
+    },
+    {
+      "step": 3,
+      "title": "夜半虚席",
+      "text": "谈到夜半，文帝听得入迷，坐席不觉向前挪动。"
+    },
+    {
+      "step": 4,
+      "title": "只问鬼神",
+      "text": "可君臣问答的不是苍生疾苦，而是鬼神之事。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "调",
+      "reading": "diào",
+      "reason": "“才调”指才情格调，这里读第四声。",
+      "standard": "不要读成 tiáo"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26"
+}

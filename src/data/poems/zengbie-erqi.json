@@ -1,0 +1,159 @@
+{
+  "id": "tang-wantang-dumu-zengbie-erqi",
+  "slug": "zengbie-erqi",
+  "title": "赠别·其二",
+  "titlePinyin": "zèng bié · qí èr",
+  "dynasty": "tangshi",
+  "era": "wantang",
+  "genre": "shi",
+  "form": "七言绝句",
+  "authorId": "dumu",
+  "gradeBand": "ext",
+  "tags": [
+    "送别",
+    "七言绝句",
+    "蜡烛",
+    "夜晚"
+  ],
+  "difficulty": 3,
+  "writtenYear": 835,
+  "writtenLabel": "约公元 835 年（杜牧 33 岁，离开扬州时赠别歌女）",
+  "orderInAuthor": 4,
+  "no": 1023,
+  "famousLines": [
+    "蜡烛有心还惜别，替人垂泪到天明。"
+  ],
+  "lines": [
+    {
+      "text": "多情却似总无情，",
+      "pinyin": [
+        "duō",
+        "qíng",
+        "què",
+        "sì",
+        "zǒng",
+        "wú",
+        "qíng"
+      ],
+      "translation": "明明情深意浓，此刻却好像无情无绪，",
+      "noteIds": []
+    },
+    {
+      "text": "唯觉樽前笑不成。",
+      "pinyin": [
+        "wéi",
+        "jué",
+        "zūn",
+        "qián",
+        "xiào",
+        "bù",
+        "chéng"
+      ],
+      "translation": "只觉得在酒杯前，想笑也笑不出来。",
+      "noteIds": [
+        "n-zun",
+        "n-jue"
+      ]
+    },
+    {
+      "text": "蜡烛有心还惜别，",
+      "pinyin": [
+        "là",
+        "zhú",
+        "yǒu",
+        "xīn",
+        "hái",
+        "xī",
+        "bié"
+      ],
+      "translation": "蜡烛仿佛也有心，舍不得我们分别，",
+      "noteIds": [
+        "n-youxin"
+      ]
+    },
+    {
+      "text": "替人垂泪到天明。",
+      "pinyin": [
+        "tì",
+        "rén",
+        "chuí",
+        "lèi",
+        "dào",
+        "tiān",
+        "míng"
+      ],
+      "translation": "代替人流着眼泪，一直滴到天亮。",
+      "noteIds": []
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-zun",
+      "word": "樽",
+      "pinyin": "zūn",
+      "meaning": "古代盛酒的杯子，这里指酒席。"
+    },
+    {
+      "id": "n-jue",
+      "word": "觉",
+      "pinyin": "jué",
+      "meaning": "感觉到，觉得。"
+    },
+    {
+      "id": "n-youxin",
+      "word": "有心",
+      "pinyin": "yǒu xīn",
+      "meaning": "蜡烛中间有烛芯，“心”又暗指人的心，一语双关。"
+    }
+  ],
+  "translation": "明明情深意浓，此刻却好像无情无绪，只觉得在酒杯前，想笑也笑不出来。蜡烛仿佛也有心，舍不得我们分别，代替人流着眼泪，一直滴到天亮。",
+  "appreciation": "离别时刻，越是深情越说不出话来，连强装的笑容也笑不出来，诗人把这种心情写得非常真实。后半首想象奇妙：蜡烛燃烧时烛芯淌下蜡油，就像人流泪，诗人便说那是蜡烛替人惜别，垂泪到天明。物变成了有情的人，离别的悲伤不必直说，也显得格外绵长。",
+  "background": "公元835年前后，杜牧要离开扬州回长安，临行前的酒席上，为相好的歌女写下《赠别》二首。这是第二首：第一首夸她美，这一首写分别时的难过。烛泪一直滴到天明，正是两人一夜无眠的写照。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "别宴之上",
+      "text": "离开扬州前的晚上，朋友们摆下酒席为他送行。"
+    },
+    {
+      "step": 2,
+      "title": "欲笑不成",
+      "text": "明明情深似海，此刻却默默无言，想笑也笑不出来。"
+    },
+    {
+      "step": 3,
+      "title": "蜡烛有心",
+      "text": "桌上的蜡烛燃着，烛芯淌下蜡油，像一条条泪痕。"
+    },
+    {
+      "step": 4,
+      "title": "垂泪天明",
+      "text": "蜡烛仿佛替人伤心，泪一直流到天亮，人也一夜未眠。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "樽",
+      "reading": "zūn",
+      "reason": "樽是古代盛酒的杯子，“樽前”就是酒杯前，读 zūn。"
+    },
+    {
+      "char": "觉",
+      "reading": "jué",
+      "reason": "“唯觉”是只觉得、只感到，读 jué。",
+      "standard": "不要读成 jiào"
+    },
+    {
+      "char": "还",
+      "reading": "hái",
+      "reason": "“还惜别”是还在恋恋不舍，读 hái。",
+      "standard": "不要读成 huán"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26"
+}

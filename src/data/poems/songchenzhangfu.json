@@ -1,0 +1,226 @@
+{
+  "id": "tang-shengtang-liqi-songchenzhangfu",
+  "slug": "songchenzhangfu",
+  "title": "送陈章甫",
+  "titlePinyin": "sòng chén zhāng fǔ",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "七言古诗",
+  "authorId": "liqi",
+  "gradeBand": "ext",
+  "tags": ["送别", "七言古诗", "南风", "黄河"],
+  "difficulty": 3,
+  "writtenYear": 740,
+  "writtenLabel": "约公元740年前后，李颀在洛阳送别罢官南归的陈章甫",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "腹中贮书一万卷，不肯低头在草莽。"
+  ],
+  "lines": [
+    {
+      "text": "四月南风大麦黄，",
+      "pinyin": ["sì", "yuè", "nán", "fēng", "dà", "mài", "huáng"],
+      "translation": "四月的南风吹得大麦一片金黄，",
+      "noteIds": []
+    },
+    {
+      "text": "枣花未落桐叶长。",
+      "pinyin": ["zǎo", "huā", "wèi", "luò", "tóng", "yè", "cháng"],
+      "translation": "枣花还没有落尽，桐树的叶子已经长得长长的。",
+      "noteIds": []
+    },
+    {
+      "text": "青山朝别暮还见，",
+      "pinyin": ["qīng", "shān", "zhāo", "bié", "mù", "hái", "jiàn"],
+      "translation": "早上告别了青山，傍晚还能相见，",
+      "noteIds": []
+    },
+    {
+      "text": "嘶马出门思旧乡。",
+      "pinyin": ["sī", "mǎ", "chū", "mén", "sī", "jiù", "xiāng"],
+      "translation": "马儿出门嘶鸣，也想着回到故乡。",
+      "noteIds": []
+    },
+    {
+      "text": "陈侯立身何坦荡，",
+      "pinyin": ["chén", "hóu", "lì", "shēn", "hé", "tǎn", "dàng"],
+      "translation": "陈侯为人处世多么光明磊落，",
+      "noteIds": ["n-hou"]
+    },
+    {
+      "text": "虬须虎眉仍大颡。",
+      "pinyin": ["qiú", "xū", "hǔ", "méi", "réng", "dà", "sǎng"],
+      "translation": "卷曲的胡须、虎一样的眉毛，还有宽宽的大额头。",
+      "noteIds": ["n-sang"]
+    },
+    {
+      "text": "腹中贮书一万卷，",
+      "pinyin": ["fù", "zhōng", "zhù", "shū", "yī", "wàn", "juàn"],
+      "translation": "肚子里装着一万卷书，",
+      "noteIds": ["n-zhushu"]
+    },
+    {
+      "text": "不肯低头在草莽。",
+      "pinyin": ["bù", "kěn", "dī", "tóu", "zài", "cǎo", "mǎng"],
+      "translation": "却不肯埋没在草野之中低头认命。",
+      "noteIds": ["n-caomang"]
+    },
+    {
+      "text": "东门酤酒饮我曹，",
+      "pinyin": ["dōng", "mén", "gū", "jiǔ", "yǐn", "wǒ", "cáo"],
+      "translation": "他曾在东门买酒请我们痛饮，",
+      "noteIds": ["n-wocao"]
+    },
+    {
+      "text": "心轻万事如鸿毛。",
+      "pinyin": ["xīn", "qīng", "wàn", "shì", "rú", "hóng", "máo"],
+      "translation": "把世间万事看得像鸿毛一样轻。",
+      "noteIds": []
+    },
+    {
+      "text": "醉卧不知白日暮，",
+      "pinyin": ["zuì", "wò", "bù", "zhī", "bái", "rì", "mù"],
+      "translation": "喝醉了躺下，连太阳落山都不知道，",
+      "noteIds": []
+    },
+    {
+      "text": "有时空望孤云高。",
+      "pinyin": ["yǒu", "shí", "kōng", "wàng", "gū", "yún", "gāo"],
+      "translation": "有时又望着天上高高的孤云出神。",
+      "noteIds": []
+    },
+    {
+      "text": "长河浪头连天黑，",
+      "pinyin": ["cháng", "hé", "làng", "tóu", "lián", "tiān", "hēi"],
+      "translation": "黄河浪头翻滚，天水连成一片昏黑，",
+      "noteIds": []
+    },
+    {
+      "text": "津口停舟渡不得。",
+      "pinyin": ["jīn", "kǒu", "tíng", "zhōu", "dù", "bù", "dé"],
+      "translation": "渡口船都停了，想渡也渡不过去。",
+      "noteIds": ["n-jinkou"]
+    },
+    {
+      "text": "郑国游人未及家，",
+      "pinyin": ["zhèng", "guó", "yóu", "rén", "wèi", "jí", "jiā"],
+      "translation": "你这位游子还回不了家，",
+      "noteIds": ["n-zhengguo"]
+    },
+    {
+      "text": "洛阳行子空叹息。",
+      "pinyin": ["luò", "yáng", "xíng", "zǐ", "kōng", "tàn", "xī"],
+      "translation": "我这个在洛阳做客的人也只能空自叹息。",
+      "noteIds": ["n-xingzi"]
+    },
+    {
+      "text": "闻道故林相识多，",
+      "pinyin": ["wén", "dào", "gù", "lín", "xiāng", "shí", "duō"],
+      "translation": "听说你故乡旧居那边认识的人很多，",
+      "noteIds": []
+    },
+    {
+      "text": "罢官昨日今如何。",
+      "pinyin": ["bà", "guān", "zuó", "rì", "jīn", "rú", "hé"],
+      "translation": "昨日刚罢了官，如今大家会怎样看待你呢？",
+      "noteIds": []
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-hou",
+      "word": "陈侯",
+      "pinyin": "chén hóu",
+      "meaning": "对陈章甫的尊称。"
+    },
+    {
+      "id": "n-sang",
+      "word": "大颡",
+      "pinyin": "dà sǎng",
+      "meaning": "颡是额头，大颡就是宽宽的大额头，写相貌豪爽。"
+    },
+    {
+      "id": "n-zhushu",
+      "word": "贮书",
+      "pinyin": "zhù shū",
+      "meaning": "贮是收藏；贮书一万卷，形容读的书极多。"
+    },
+    {
+      "id": "n-caomang",
+      "word": "草莽",
+      "pinyin": "cǎo mǎng",
+      "meaning": "草野、民间，指不做官、埋没在民间。"
+    },
+    {
+      "id": "n-wocao",
+      "word": "我曹",
+      "pinyin": "wǒ cáo",
+      "meaning": "我们这些人。"
+    },
+    {
+      "id": "n-jinkou",
+      "word": "津口",
+      "pinyin": "jīn kǒu",
+      "meaning": "渡口。"
+    },
+    {
+      "id": "n-zhengguo",
+      "word": "郑国游人",
+      "pinyin": "zhèng guó yóu rén",
+      "meaning": "指陈章甫，他客居在古郑国一带（今河南境内）。"
+    },
+    {
+      "id": "n-xingzi",
+      "word": "洛阳行子",
+      "pinyin": "luò yáng xíng zǐ",
+      "meaning": "指诗人自己，当时客居洛阳。"
+    }
+  ],
+  "translation": "四月的南风吹得大麦一片金黄，枣花还没有落尽，桐树的叶子已经长得长长的。早上告别了青山，傍晚还能相见，马儿出门嘶鸣，也想着回到故乡。陈侯为人处世多么光明磊落，卷曲的胡须、虎一样的眉毛，还有宽宽的大额头。肚子里装着一万卷书，却不肯埋没在草野之中低头认命。他曾在东门买酒请我们痛饮，把世间万事看得像鸿毛一样轻。喝醉了躺下，连太阳落山都不知道，有时又望着天上高高的孤云出神。黄河浪头翻滚，天水连成一片昏黑，渡口船都停了，想渡也渡不过去。你这位游子还回不了家，我这个在洛阳做客的人也只能空自叹息。听说你故乡旧居那边认识的人很多，昨日刚罢了官，如今大家会怎样看待你呢？",
+  "appreciation": "这首送别诗像一幅人物画。前半写陈章甫的相貌和胸怀：虬须虎眉、大额头，满腹诗书，喝起酒来把万事看得像鸿毛一样轻，一个豪爽坦荡的形象呼之欲出。后半写送别：黄河浪大天黑，渡船停开，朋友滞留不能归家，诗人只好空自叹息。结尾一句轻轻发问，既安慰朋友，又暗暗为他抱不平。",
+  "background": "陈章甫是李颀的朋友，有才学却仕途不顺，罢官后要回故乡去。四月麦黄时节，李颀在洛阳为他送行。朋友过黄河时浪大停渡，迟迟不能成行，诗人写下这首诗送他，既夸赞朋友的豪爽，也为他的遭遇惋惜。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "麦黄时节",
+      "text": "四月南风吹黄了大麦，枣花未落，桐叶已经长得长长的。"
+    },
+    {
+      "step": 2,
+      "title": "画像朋友",
+      "text": "陈侯虬须虎眉大额头，满腹诗书，为人处世十分坦荡。"
+    },
+    {
+      "step": 3,
+      "title": "买酒痛饮",
+      "text": "他在东门买酒请大家痛饮，把万事看得像鸿毛一样轻。"
+    },
+    {
+      "step": 4,
+      "title": "渡口怅望",
+      "text": "黄河浪头连天黑，渡船停开，朋友不能归家，诗人空自叹息。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "颡",
+      "reading": "sǎng",
+      "reason": "“大颡”是大额头，颡指额头。"
+    },
+    {
+      "char": "虬",
+      "reading": "qiú",
+      "reason": "“虬须”是卷曲的胡须，虬本指盘曲的小龙。"
+    },
+    {
+      "char": "酤",
+      "reading": "gū",
+      "reason": "“酤酒”是买酒，酤通沽。"
+    }
+  ],
+  "sources": ["《全唐诗》", "《唐诗三百首》"],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1213
+}

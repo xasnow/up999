@@ -1,0 +1,141 @@
+{
+  "id": "tang-shengtang-zhangjiuling-ganyu-3",
+  "slug": "ganyu-3",
+  "title": "感遇·其三",
+  "titlePinyin": "gǎn yù qí sān",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "五言古诗",
+  "authorId": "zhangjiuling",
+  "gradeBand": "ext",
+  "tags": [
+    "思念",
+    "五言古诗",
+    "高鸟",
+    "夜晚"
+  ],
+  "difficulty": 3,
+  "writtenYear": 737,
+  "writtenLabel": "约公元737年（张九龄59岁，被贬荆州长史，作《感遇》组诗寄托心事）",
+  "orderInAuthor": 3,
+  "famousLines": [
+    "持此谢高鸟，因之传远情。"
+  ],
+  "lines": [
+    {
+      "text": "幽人归独卧，",
+      "pinyin": ["yōu", "rén", "guī", "dú", "wò"],
+      "translation": "归隐的人独自卧在山间，",
+      "noteIds": []
+    },
+    {
+      "text": "滞虑洗孤清。",
+      "pinyin": ["zhì", "lǜ", "xǐ", "gū", "qīng"],
+      "translation": "把郁结的忧愁洗净，享受这份孤清。",
+      "noteIds": ["n-zhilv"]
+    },
+    {
+      "text": "持此谢高鸟，",
+      "pinyin": ["chí", "cǐ", "xiè", "gāo", "niǎo"],
+      "translation": "我捧着这份心意拜托高飞的鸟儿，",
+      "noteIds": []
+    },
+    {
+      "text": "因之传远情。",
+      "pinyin": ["yīn", "zhī", "chuán", "yuǎn", "qíng"],
+      "translation": "请它把远方的深情捎给故人。",
+      "noteIds": []
+    },
+    {
+      "text": "日夕怀空意，",
+      "pinyin": ["rì", "xī", "huái", "kōng", "yì"],
+      "translation": "从早到晚怀着一片空灵的诚意，",
+      "noteIds": []
+    },
+    {
+      "text": "人谁感至精？",
+      "pinyin": ["rén", "shuí", "gǎn", "zhì", "jīng"],
+      "translation": "可又有谁能被这至诚的心意打动呢？",
+      "noteIds": ["n-jing"]
+    },
+    {
+      "text": "飞沉理自隔，",
+      "pinyin": ["fēi", "chén", "lǐ", "zì", "gé"],
+      "translation": "飞鸟在天上、鱼儿在水底，境遇不同，自然相隔遥远，",
+      "noteIds": ["n-feichen"]
+    },
+    {
+      "text": "何所慰吾诚？",
+      "pinyin": ["hé", "suǒ", "wèi", "wú", "chéng"],
+      "translation": "有什么能安慰我这一片真心呢？",
+      "noteIds": []
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-zhilv",
+      "word": "滞虑",
+      "pinyin": "zhì lǜ",
+      "meaning": "郁结在心里的忧虑。"
+    },
+    {
+      "id": "n-jing",
+      "word": "至精",
+      "pinyin": "zhì jīng",
+      "meaning": "极其精诚、诚恳的心意。"
+    },
+    {
+      "id": "n-feichen",
+      "word": "飞沉",
+      "pinyin": "fēi chén",
+      "meaning": "高飞的鸟和潜游的鱼，比喻处境悬隔、难以相见的人。"
+    }
+  ],
+  "translation": "归隐的人独自卧在山间，把郁结的忧愁洗净，享受这份孤清。我捧着这份心意拜托高飞的鸟儿，请它把远方的深情捎给故人。从早到晚怀着一片空灵的诚意，可又有谁能被这至诚的心意打动呢？飞鸟在天上、鱼儿在水底，境遇不同，自然相隔遥远，有什么能安慰我这一片真心呢？",
+  "appreciation": "诗人退隐山林，想把心里的情意托高鸟捎给远方的故人，却担心彼此像天上飞鸟和水中游鱼一样，隔得太远、心意难通。诗句从“洗孤清”的安静，转到“传远情”的热切，再落到“何所慰”的怅惘，层层递进。被贬的委屈与对知音的渴望，都藏在这份说不出口的思念里。",
+  "background": "张九龄被贬荆州后，离开了他熟悉的朝廷和朋友们。他住在清幽的山林里，独自排解愁绪，可心里始终惦记着远方的知音。想说说真心话，又苦于音信难通，于是写下这首诗，托天上的飞鸟传一传自己的深情。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "独卧山间",
+      "text": "诗人独自住在幽静的山林里，慢慢洗净心中的烦忧。"
+    },
+    {
+      "step": 2,
+      "title": "托鸟传情",
+      "text": "他捧起这份心意，拜托高飞的鸟儿捎给远方的故人。"
+    },
+    {
+      "step": 3,
+      "title": "诚意难达",
+      "text": "从早到晚满怀至诚，却不知远方的谁能懂得。"
+    },
+    {
+      "step": 4,
+      "title": "飞沉相隔",
+      "text": "天上的鸟和水中的鱼各在一方，深深思念无处安放。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "滞",
+      "reading": "zhì",
+      "reason": "“滞虑”指郁结的忧虑，读 zhì。",
+      "standard": "不要读成 dài"
+    },
+    {
+      "char": "虑",
+      "reading": "lǜ",
+      "reason": "“滞虑”的“虑”读 lǜ，韵母是 ü。",
+      "standard": "不要读成 lì"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《曲江集》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1197
+}

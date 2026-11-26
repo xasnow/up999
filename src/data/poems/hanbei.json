@@ -1,0 +1,632 @@
+{
+  "id": "tang-wantang-lishangyin-hanbei",
+  "slug": "hanbei",
+  "title": "韩碑",
+  "titlePinyin": "hán bēi",
+  "dynasty": "tangshi",
+  "era": "wantang",
+  "genre": "shi",
+  "form": "七言古诗",
+  "authorId": "lishangyin",
+  "gradeBand": "ext",
+  "tags": [
+    "怀古",
+    "七言古诗",
+    "碑石",
+    "笔墨"
+  ],
+  "difficulty": 3,
+  "writtenYear": 838,
+  "writtenLabel": "作年不详，约公元 838 年（李商隐 26 岁，早年推崇韩愈古文，感于平淮西碑事而作）",
+  "orderInAuthor": 1,
+  "no": 1209,
+  "famousLines": [
+    "公之斯文若元气，先时已入人肝脾。"
+  ],
+  "lines": [
+    {
+      "text": "元和天子神武姿，",
+      "pinyin": ["yuán", "hé", "tiān", "zǐ", "shén", "wǔ", "zī"],
+      "translation": "元和年间的天子有神武的英姿，",
+      "noteIds": ["n-yuanhe"]
+    },
+    {
+      "text": "彼何人哉轩与羲。",
+      "pinyin": ["bǐ", "hé", "rén", "zāi", "xuān", "yǔ", "xī"],
+      "translation": "他像谁呢？像轩辕、伏羲那样的圣王。",
+      "noteIds": ["n-xuanxi"]
+    },
+    {
+      "text": "誓将上雪列圣耻，",
+      "pinyin": ["shì", "jiāng", "shàng", "xuě", "liè", "shèng", "chǐ"],
+      "translation": "立誓要洗雪历代先帝蒙受的耻辱，",
+      "noteIds": []
+    },
+    {
+      "text": "坐法宫中朝四夷。",
+      "pinyin": ["zuò", "fǎ", "gōng", "zhōng", "cháo", "sì", "yí"],
+      "translation": "端坐正殿，接受四方外族的朝见。",
+      "noteIds": ["n-fagong"]
+    },
+    {
+      "text": "淮西有贼五十载，",
+      "pinyin": ["huái", "xī", "yǒu", "zéi", "wǔ", "shí", "zǎi"],
+      "translation": "淮西的叛贼割据已有五十年，",
+      "noteIds": ["n-huaixi"]
+    },
+    {
+      "text": "封狼生貙貙生罴。",
+      "pinyin": ["fēng", "láng", "shēng", "chū", "chū", "shēng", "pí"],
+      "translation": "像大狼生下猛貙、貙又生下凶罴，一代比一代凶悍。",
+      "noteIds": ["n-chu", "n-pi"]
+    },
+    {
+      "text": "不据山河据平地，",
+      "pinyin": ["bù", "jù", "shān", "hé", "jù", "píng", "dì"],
+      "translation": "他们不占山河险要，偏在平地称霸，",
+      "noteIds": []
+    },
+    {
+      "text": "长戈利矛日可麾。",
+      "pinyin": ["cháng", "gē", "lì", "máo", "rì", "kě", "huī"],
+      "translation": "仗着长戈利矛，狂妄得仿佛连太阳都能挥指。",
+      "noteIds": ["n-hui"]
+    },
+    {
+      "text": "帝得圣相相曰度，",
+      "pinyin": ["dì", "dé", "shèng", "xiàng", "xiàng", "yuē", "dù"],
+      "translation": "天子得到了贤相，宰相名叫裴度。",
+      "noteIds": ["n-du"]
+    },
+    {
+      "text": "贼斫不死神扶持。",
+      "pinyin": ["zéi", "zhuó", "bù", "sǐ", "shén", "fú", "chí"],
+      "translation": "刺客砍他不死，像有神灵护佑。",
+      "noteIds": ["n-zhuo"]
+    },
+    {
+      "text": "腰悬相印作都统，",
+      "pinyin": ["yāo", "xuán", "xiàng", "yìn", "zuò", "dū", "tǒng"],
+      "translation": "他腰挂宰相印信，出任各路统帅，",
+      "noteIds": ["n-dutong"]
+    },
+    {
+      "text": "阴风惨澹天王旗。",
+      "pinyin": ["yīn", "fēng", "cǎn", "dàn", "tiān", "wáng", "qí"],
+      "translation": "阴风惨淡中，天子的旗帜迎风招展。",
+      "noteIds": ["n-tianwangqi"]
+    },
+    {
+      "text": "愬武古通作牙爪，",
+      "pinyin": ["sù", "wǔ", "gǔ", "tōng", "zuò", "yá", "zhǎo"],
+      "translation": "李愬、韩公武、李道古、李文通做了得力部将，",
+      "noteIds": ["n-su", "n-yazhao"]
+    },
+    {
+      "text": "仪曹外郎载笔随。",
+      "pinyin": ["yí", "cáo", "wài", "láng", "zài", "bǐ", "suí"],
+      "translation": "礼部员外郎带着笔墨随军记录。",
+      "noteIds": []
+    },
+    {
+      "text": "行军司马智且勇，",
+      "pinyin": ["xíng", "jūn", "sī", "mǎ", "zhì", "qiě", "yǒng"],
+      "translation": "行军司马韩愈，既聪明又勇毅，",
+      "noteIds": ["n-xingjun"]
+    },
+    {
+      "text": "十四万众犹虎貔。",
+      "pinyin": ["shí", "sì", "wàn", "zhòng", "yóu", "hǔ", "pí"],
+      "translation": "十四万大军像虎豹貔貅一样勇猛。",
+      "noteIds": []
+    },
+    {
+      "text": "入蔡缚贼献太庙，",
+      "pinyin": ["rù", "cài", "fù", "zéi", "xiàn", "tài", "miào"],
+      "translation": "大军攻入蔡州，生擒叛贼，献俘太庙，",
+      "noteIds": ["n-rucai"]
+    },
+    {
+      "text": "功无与让恩不訾。",
+      "pinyin": ["gōng", "wú", "yǔ", "ràng", "ēn", "bù", "zī"],
+      "translation": "功劳无人可比，皇恩多得难以计算。",
+      "noteIds": ["n-zi"]
+    },
+    {
+      "text": "帝曰汝度功第一，",
+      "pinyin": ["dì", "yuē", "rǔ", "dù", "gōng", "dì", "yī"],
+      "translation": "皇帝说：裴度，你的功劳第一，",
+      "noteIds": []
+    },
+    {
+      "text": "汝从事愈宜为辞。",
+      "pinyin": ["rǔ", "cóng", "shì", "yù", "yí", "wéi", "cí"],
+      "translation": "你的从事韩愈，应当撰写碑文。",
+      "noteIds": ["n-congshi"]
+    },
+    {
+      "text": "愈拜稽首蹈且舞，",
+      "pinyin": ["yù", "bài", "qǐ", "shǒu", "dǎo", "qiě", "wǔ"],
+      "translation": "韩愈叩头下拜，欢喜得手舞足蹈，",
+      "noteIds": ["n-qishou"]
+    },
+    {
+      "text": "金石刻画臣能为。",
+      "pinyin": ["jīn", "shí", "kè", "huà", "chén", "néng", "wéi"],
+      "translation": "说铭刻金石的文章，臣能够胜任。",
+      "noteIds": []
+    },
+    {
+      "text": "古者世称大手笔，",
+      "pinyin": ["gǔ", "zhě", "shì", "chēng", "dà", "shǒu", "bǐ"],
+      "translation": "自古以来人们称颂大手笔，",
+      "noteIds": []
+    },
+    {
+      "text": "此事不系于职司。",
+      "pinyin": ["cǐ", "shì", "bù", "xì", "yú", "zhí", "sī"],
+      "translation": "这样的大事不专属一般文职官员。",
+      "noteIds": []
+    },
+    {
+      "text": "当仁自古有不让，",
+      "pinyin": ["dāng", "rén", "zì", "gǔ", "yǒu", "bù", "ràng"],
+      "translation": "面对仁义之事，自古就有当仁不让，",
+      "noteIds": []
+    },
+    {
+      "text": "言讫屡颔天子颐。",
+      "pinyin": ["yán", "qì", "lǚ", "hàn", "tiān", "zǐ", "yí"],
+      "translation": "韩愈说完，天子连连点头称许。",
+      "noteIds": ["n-yanqi", "n-han", "n-yi"]
+    },
+    {
+      "text": "公退斋戒坐小阁，",
+      "pinyin": ["gōng", "tuì", "zhāi", "jiè", "zuò", "xiǎo", "gé"],
+      "translation": "韩公退朝后沐浴斋戒，独坐小阁，",
+      "noteIds": []
+    },
+    {
+      "text": "濡染大笔何淋漓。",
+      "pinyin": ["rú", "rǎn", "dà", "bǐ", "hé", "lín", "lí"],
+      "translation": "蘸饱大笔，写得何等酣畅淋漓。",
+      "noteIds": ["n-ruran"]
+    },
+    {
+      "text": "点窜尧典舜典字，",
+      "pinyin": ["diǎn", "cuàn", "yáo", "diǎn", "shùn", "diǎn", "zì"],
+      "translation": "文字追摹《尧典》《舜典》的古雅，",
+      "noteIds": ["n-yaodian"]
+    },
+    {
+      "text": "涂改清庙生民诗。",
+      "pinyin": ["tú", "gǎi", "qīng", "miào", "shēng", "mín", "shī"],
+      "translation": "笔法仿佛《清庙》《生民》的诗风。",
+      "noteIds": ["n-qingmiao"]
+    },
+    {
+      "text": "文成破体书在纸，",
+      "pinyin": ["wén", "chéng", "pò", "tǐ", "shū", "zài", "zhǐ"],
+      "translation": "碑文一反常格写成，落在纸上，",
+      "noteIds": ["n-poti"]
+    },
+    {
+      "text": "清晨再拜铺丹墀。",
+      "pinyin": ["qīng", "chén", "zài", "bài", "pū", "dān", "chí"],
+      "translation": "清晨再拜，把它铺陈在宫殿的丹墀之上。",
+      "noteIds": ["n-danchi"]
+    },
+    {
+      "text": "表曰臣愈昧死上，",
+      "pinyin": ["biǎo", "yuē", "chén", "yù", "mèi", "sǐ", "shàng"],
+      "translation": "表文写道：臣韩愈冒死呈上，",
+      "noteIds": ["n-meisi"]
+    },
+    {
+      "text": "咏神圣功书之碑。",
+      "pinyin": ["yǒng", "shén", "shèng", "gōng", "shū", "zhī", "bēi"],
+      "translation": "歌颂神圣功业，把它刻写成碑。",
+      "noteIds": []
+    },
+    {
+      "text": "碑高三丈字如斗，",
+      "pinyin": ["bēi", "gāo", "sān", "zhàng", "zì", "rú", "dǒu"],
+      "translation": "石碑高三丈，字大如斗，",
+      "noteIds": []
+    },
+    {
+      "text": "负以灵鳌蟠以螭。",
+      "pinyin": ["fù", "yǐ", "líng", "áo", "pán", "yǐ", "chī"],
+      "translation": "神鳌驮着碑身，螭龙盘绕碑侧。",
+      "noteIds": ["n-ao", "n-chi"]
+    },
+    {
+      "text": "句奇语重喻者少，",
+      "pinyin": ["jù", "qí", "yǔ", "zhòng", "yù", "zhě", "shǎo"],
+      "translation": "句子奇崛、语意深重，能理解的人很少，",
+      "noteIds": []
+    },
+    {
+      "text": "谗之天子言其私。",
+      "pinyin": ["chán", "zhī", "tiān", "zǐ", "yán", "qí", "sī"],
+      "translation": "有人便向天子进谗，说韩愈偏私。",
+      "noteIds": ["n-chan"]
+    },
+    {
+      "text": "长绳百尺拽碑倒，",
+      "pinyin": ["cháng", "shéng", "bǎi", "chǐ", "zhuài", "bēi", "dǎo"],
+      "translation": "百尺长绳把石碑拽倒，",
+      "noteIds": []
+    },
+    {
+      "text": "粗砂大石相磨治。",
+      "pinyin": ["cū", "shā", "dà", "shí", "xiāng", "mó", "zhì"],
+      "translation": "再用粗砂大石把碑文磨平。",
+      "noteIds": ["n-mozhi"]
+    },
+    {
+      "text": "公之斯文若元气，",
+      "pinyin": ["gōng", "zhī", "sī", "wén", "ruò", "yuán", "qì"],
+      "translation": "韩公这篇文章如同天地元气，",
+      "noteIds": []
+    },
+    {
+      "text": "先时已入人肝脾。",
+      "pinyin": ["xiān", "shí", "yǐ", "rù", "rén", "gān", "pí"],
+      "translation": "早就浸入了人们的肝脾肺腑。",
+      "noteIds": []
+    },
+    {
+      "text": "汤盘孔鼎有述作，",
+      "pinyin": ["tāng", "pán", "kǒng", "dǐng", "yǒu", "shù", "zuò"],
+      "translation": "商汤的盘、孔子的鼎上都铸有铭文，",
+      "noteIds": ["n-tangpan", "n-kongding"]
+    },
+    {
+      "text": "今无其器存其辞。",
+      "pinyin": ["jīn", "wú", "qí", "qì", "cún", "qí", "cí"],
+      "translation": "如今器物虽已不存，文辞仍在流传。",
+      "noteIds": []
+    },
+    {
+      "text": "呜呼圣王及圣相，",
+      "pinyin": ["wū", "hū", "shèng", "wáng", "jí", "shèng", "xiàng"],
+      "translation": "啊，圣明的君王与贤能的宰相，",
+      "noteIds": []
+    },
+    {
+      "text": "相与烜赫流淳熙。",
+      "pinyin": ["xiāng", "yǔ", "xuǎn", "hè", "liú", "chún", "xī"],
+      "translation": "相互辉映，美名如阳光流传后世。",
+      "noteIds": ["n-xuanhe"]
+    },
+    {
+      "text": "公之斯文不示后，",
+      "pinyin": ["gōng", "zhī", "sī", "wén", "bù", "shì", "hòu"],
+      "translation": "韩公的文章若不能昭示后人，",
+      "noteIds": []
+    },
+    {
+      "text": "曷与三五相攀追。",
+      "pinyin": ["hé", "yǔ", "sān", "wǔ", "xiāng", "pān", "zhuī"],
+      "translation": "宪宗的功业怎能与三皇五帝相攀比？",
+      "noteIds": ["n-sanwu"]
+    },
+    {
+      "text": "愿书万本诵万遍，",
+      "pinyin": ["yuàn", "shū", "wàn", "běn", "sòng", "wàn", "biàn"],
+      "translation": "我愿抄写它一万本，诵读它一万遍，",
+      "noteIds": []
+    },
+    {
+      "text": "口角流沫右手胝。",
+      "pinyin": ["kǒu", "jiǎo", "liú", "mò", "yòu", "shǒu", "zhī"],
+      "translation": "哪怕口角流出唾沫，右手磨出茧子。",
+      "noteIds": ["n-zhi"]
+    },
+    {
+      "text": "传之七十有二代，",
+      "pinyin": ["chuán", "zhī", "qī", "shí", "yǒu", "èr", "dài"],
+      "translation": "让它流传给古来七十二代封禅的帝王，",
+      "noteIds": ["n-shierdai"]
+    },
+    {
+      "text": "以为封禅玉检明堂基。",
+      "pinyin": ["yǐ", "wéi", "fēng", "shàn", "yù", "jiǎn", "míng", "táng", "jī"],
+      "translation": "作为封禅文书的玉检和明堂的基石。",
+      "noteIds": ["n-fengshan", "n-yujian", "n-mingtang"]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-yuanhe",
+      "word": "元和",
+      "pinyin": "yuán hé",
+      "meaning": "唐宪宗李纯的年号（806—820）。"
+    },
+    {
+      "id": "n-xuanxi",
+      "word": "轩与羲",
+      "pinyin": "xuān yǔ xī",
+      "meaning": "轩辕黄帝与伏羲氏，上古的圣王。"
+    },
+    {
+      "id": "n-fagong",
+      "word": "法宫",
+      "pinyin": "fǎ gōng",
+      "meaning": "皇帝处理政事的正殿。"
+    },
+    {
+      "id": "n-huaixi",
+      "word": "淮西",
+      "pinyin": "huái xī",
+      "meaning": "今河南南部一带，自安史之乱后长期被藩镇割据。"
+    },
+    {
+      "id": "n-chu",
+      "word": "貙",
+      "pinyin": "chū",
+      "meaning": "一种猛兽，喻凶顽的叛贼首领世代相传。"
+    },
+    {
+      "id": "n-pi",
+      "word": "罴",
+      "pinyin": "pí",
+      "meaning": "熊的一种，喻更为凶悍的叛贼。"
+    },
+    {
+      "id": "n-hui",
+      "word": "麾",
+      "pinyin": "huī",
+      "meaning": "挥动、指挥。"
+    },
+    {
+      "id": "n-du",
+      "word": "度",
+      "pinyin": "dù",
+      "meaning": "裴度，唐宪宗时宰相，元和十二年督师平定淮西。"
+    },
+    {
+      "id": "n-zhuo",
+      "word": "斫",
+      "pinyin": "zhuó",
+      "meaning": "用刀斧砍。指裴度早年遇刺受伤而不死。"
+    },
+    {
+      "id": "n-dutong",
+      "word": "都统",
+      "pinyin": "dū tǒng",
+      "meaning": "统领诸道兵马的最高统帅。"
+    },
+    {
+      "id": "n-tianwangqi",
+      "word": "天王旗",
+      "pinyin": "tiān wáng qí",
+      "meaning": "天子的旗帜，象征御命出征。"
+    },
+    {
+      "id": "n-su",
+      "word": "愬武古通",
+      "pinyin": "sù wǔ gǔ tōng",
+      "meaning": "李愬、韩公武、李道古、李文通，随裴度出征的大将。"
+    },
+    {
+      "id": "n-yazhao",
+      "word": "牙爪",
+      "pinyin": "yá zhǎo",
+      "meaning": "得力的部将，犹言爪牙、臂膀。"
+    },
+    {
+      "id": "n-xingjun",
+      "word": "行军司马",
+      "pinyin": "xíng jūn sī mǎ",
+      "meaning": "军中辅佐主帅的官职，此处指韩愈。"
+    },
+    {
+      "id": "n-rucai",
+      "word": "入蔡",
+      "pinyin": "rù cài",
+      "meaning": "元和十二年（817），李愬雪夜袭取蔡州，生擒吴元济。"
+    },
+    {
+      "id": "n-zi",
+      "word": "訾",
+      "pinyin": "zī",
+      "meaning": "计量。恩不訾，恩宠不可计量。"
+    },
+    {
+      "id": "n-congshi",
+      "word": "从事",
+      "pinyin": "cóng shì",
+      "meaning": "主帅幕府中的僚属，此处指韩愈。"
+    },
+    {
+      "id": "n-qishou",
+      "word": "稽首",
+      "pinyin": "qǐ shǒu",
+      "meaning": "叩头至地的跪拜礼，最为恭敬。"
+    },
+    {
+      "id": "n-yanqi",
+      "word": "讫",
+      "pinyin": "qì",
+      "meaning": "完毕。"
+    },
+    {
+      "id": "n-han",
+      "word": "颔",
+      "pinyin": "hàn",
+      "meaning": "点头。"
+    },
+    {
+      "id": "n-yi",
+      "word": "颐",
+      "pinyin": "yí",
+      "meaning": "下巴。"
+    },
+    {
+      "id": "n-ruran",
+      "word": "濡染",
+      "pinyin": "rú rǎn",
+      "meaning": "以笔蘸墨，指挥笔写作。"
+    },
+    {
+      "id": "n-yaodian",
+      "word": "尧典舜典",
+      "pinyin": "yáo diǎn shùn diǎn",
+      "meaning": "《尚书》中的篇名，文风古朴庄重。"
+    },
+    {
+      "id": "n-qingmiao",
+      "word": "清庙生民",
+      "pinyin": "qīng miào shēng mín",
+      "meaning": "《诗经·颂》中的篇名，歌颂先王功业。"
+    },
+    {
+      "id": "n-poti",
+      "word": "破体",
+      "pinyin": "pò tǐ",
+      "meaning": "破除常格的文体，指碑文写法不落俗套。"
+    },
+    {
+      "id": "n-danchi",
+      "word": "丹墀",
+      "pinyin": "dān chí",
+      "meaning": "宫殿前涂成红色的台阶。"
+    },
+    {
+      "id": "n-meisi",
+      "word": "昧死",
+      "pinyin": "mèi sǐ",
+      "meaning": "冒昧冒死，臣子上奏时的敬畏套语。"
+    },
+    {
+      "id": "n-ao",
+      "word": "灵鳌",
+      "pinyin": "líng áo",
+      "meaning": "神话中的巨鳌，雕成驮碑的底座。"
+    },
+    {
+      "id": "n-chi",
+      "word": "螭",
+      "pinyin": "chī",
+      "meaning": "传说中无角的龙，常雕作碑侧装饰。"
+    },
+    {
+      "id": "n-chan",
+      "word": "谗",
+      "pinyin": "chán",
+      "meaning": "进谗言，说人坏话。"
+    },
+    {
+      "id": "n-mozhi",
+      "word": "磨治",
+      "pinyin": "mó zhì",
+      "meaning": "磨平抹去。"
+    },
+    {
+      "id": "n-tangpan",
+      "word": "汤盘",
+      "pinyin": "tāng pán",
+      "meaning": "传为商汤的沐浴之盘，上刻自勉的铭文。"
+    },
+    {
+      "id": "n-kongding",
+      "word": "孔鼎",
+      "pinyin": "kǒng dǐng",
+      "meaning": "孔子先祖正考父的鼎，铭文见载于《左传》。"
+    },
+    {
+      "id": "n-xuanhe",
+      "word": "烜赫",
+      "pinyin": "xuǎn hè",
+      "meaning": "声威显赫、光芒盛大。"
+    },
+    {
+      "id": "n-sanwu",
+      "word": "三五",
+      "pinyin": "sān wǔ",
+      "meaning": "三皇五帝，上古的圣明君主。"
+    },
+    {
+      "id": "n-zhi",
+      "word": "胝",
+      "pinyin": "zhī",
+      "meaning": "手脚因摩擦劳作而生出的茧子。"
+    },
+    {
+      "id": "n-shierdai",
+      "word": "七十有二代",
+      "pinyin": "qī shí yǒu èr dài",
+      "meaning": "传说自古封禅泰山的帝王共有七十二家。"
+    },
+    {
+      "id": "n-fengshan",
+      "word": "封禅",
+      "pinyin": "fēng shàn",
+      "meaning": "古代帝王在泰山祭天祭地的隆重典礼。"
+    },
+    {
+      "id": "n-yujian",
+      "word": "玉检",
+      "pinyin": "yù jiǎn",
+      "meaning": "封存封禅文书的玉制封套。"
+    },
+    {
+      "id": "n-mingtang",
+      "word": "明堂",
+      "pinyin": "míng táng",
+      "meaning": "天子宣明政教、举行大典的殿堂。"
+    }
+  ],
+  "translation": "元和年间的天子有神武的英姿，他像轩辕、伏羲那样的圣王，立誓要洗雪历代先帝蒙受的耻辱，端坐正殿，接受四方外族的朝见。淮西的叛贼割据已有五十年，像大狼生下猛貙、貙又生下凶罴，一代比一代凶悍；他们不占山河险要，偏在平地称霸，仗着长戈利矛，狂妄得仿佛连太阳都能挥指。天子得到了贤相裴度，刺客砍他不死，像有神灵护佑。他腰挂宰相印信出任统帅，阴风惨淡中，天子的旗帜迎风招展。李愬、韩公武、李道古、李文通做了得力部将，礼部员外郎带着笔墨随军记录，行军司马韩愈既聪明又勇毅，十四万大军像虎豹貔貅一样勇猛。大军攻入蔡州，生擒叛贼，献俘太庙，功劳无人可比，皇恩多得难以计算。皇帝说：裴度，你的功劳第一，你的从事韩愈，应当撰写碑文。韩愈叩头下拜，欢喜得手舞足蹈，说铭刻金石的文章，臣能够胜任。自古以来人们称颂大手笔，这样的大事不专属一般文职官员；面对仁义之事，自古就有当仁不让，韩愈说完，天子连连点头称许。韩公退朝后沐浴斋戒，独坐小阁，蘸饱大笔，写得何等酣畅淋漓：文字追摹《尧典》《舜典》的古雅，笔法仿佛《清庙》《生民》的诗风。碑文一反常格写成，清晨再拜，铺陈在宫殿的丹墀之上。表文写道：臣韩愈冒死呈上，歌颂神圣功业，把它刻写成碑。石碑高三丈，字大如斗，神鳌驮着碑身，螭龙盘绕碑侧。句子奇崛、语意深重，能理解的人很少，有人便向天子进谗，说韩愈偏私。百尺长绳把石碑拽倒，再用粗砂大石把碑文磨平。可韩公这篇文章如同天地元气，早就浸入了人们的肝脾肺腑。商汤的盘、孔子的鼎上都铸有铭文，如今器物虽已不存，文辞仍在流传。啊，圣明的君王与贤能的宰相，相互辉映，美名如阳光流传后世。韩公的文章若不能昭示后人，宪宗的功业怎能与三皇五帝相攀比？我愿抄写它一万本，诵读它一万遍，哪怕口角流出唾沫，右手磨出茧子，也要让它流传给古来七十二代封禅的帝王，作为封禅文书的玉检和明堂的基石。",
+  "appreciation": "这首长诗像一篇带韵的史传：天子立志雪耻、裴度挂印出征、李愬雪夜破蔡、韩愈受命撰碑，写得笔力遒劲、一气贯注。碑立起来，字如斗大，却因“句奇语重”招来谗言，被拽倒磨平——诗的愤慨在此达到顶点。可诗人紧接着说：韩公的文章像天地元气，早已入了人心，磨得掉石头，磨不掉公论。结尾说要抄一万本、读一万遍，哪怕手上磨出茧子，把对正直文章的敬意推到极致。全诗取法韩愈以文为诗，雄健高古，是唐诗中少见的叙事巨制。",
+  "background": "唐宪宗元和十二年（817），宰相裴度督师平定淮西叛乱，韩愈奉诏撰《平淮西碑》，文章突出裴度的统帅之功，引起大将李愬家人不满，宪宗下令推倒韩碑、磨去碑文，改命段文昌重撰。李商隐推崇韩文，作此诗为韩碑鸣不平，颂扬其文不可磨灭。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "天子誓师",
+      "text": "元和天子立志雪耻，拜裴度为帅出征淮西。"
+    },
+    {
+      "step": 2,
+      "title": "破蔡献捷",
+      "text": "十四万大军攻入蔡州，生擒叛贼献捷太庙。"
+    },
+    {
+      "step": 3,
+      "title": "受命撰碑",
+      "text": "韩愈当仁不让，斋戒濡笔写成古雅碑文。"
+    },
+    {
+      "step": 4,
+      "title": "碑毁文存",
+      "text": "谗言拽碑磨字，文章如元气早已深入人心。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "愬",
+      "reading": "sù",
+      "reason": "“李愬”是人名，读 sù。",
+      "standard": "不要读成 shuò"
+    },
+    {
+      "char": "貙",
+      "reading": "chū",
+      "reason": "一种猛兽，形容叛贼世代凶顽，读 chū。"
+    },
+    {
+      "char": "烜",
+      "reading": "xuǎn",
+      "reason": "“烜赫”形容声威显赫，读 xuǎn。",
+      "standard": "不要读成 xuān 或 huǎn"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26"
+}

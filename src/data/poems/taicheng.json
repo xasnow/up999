@@ -1,0 +1,114 @@
+{
+  "id": "tang-wantang-weizhuang-taicheng",
+  "slug": "taicheng",
+  "title": "台城",
+  "titlePinyin": "tái chéng",
+  "dynasty": "tangshi",
+  "era": "wantang",
+  "genre": "shi",
+  "form": "七言绝句",
+  "authorId": "weizhuang",
+  "gradeBand": "ext",
+  "tags": ["怀古", "七言绝句", "柳", "烟雨"],
+  "difficulty": 3,
+  "writtenYear": 887,
+  "writtenLabel": "约公元 887 年（韦庄 52 岁，客游江南，途经金陵，凭吊六朝遗迹）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "无情最是台城柳，依旧烟笼十里堤。"
+  ],
+  "lines": [
+    {
+      "text": "江雨霏霏江草齐，",
+      "pinyin": ["jiāng", "yǔ", "fēi", "fēi", "jiāng", "cǎo", "qí"],
+      "translation": "江上细雨蒙蒙，江边青草长得齐整，",
+      "noteIds": ["n-feifei"]
+    },
+    {
+      "text": "六朝如梦鸟空啼。",
+      "pinyin": ["liù", "cháo", "rú", "mèng", "niǎo", "kōng", "tí"],
+      "translation": "六个朝代像梦一样过去，只剩鸟儿白白地啼叫。",
+      "noteIds": ["n-liuchao", "n-kong"]
+    },
+    {
+      "text": "无情最是台城柳，",
+      "pinyin": ["wú", "qíng", "zuì", "shì", "tái", "chéng", "liǔ"],
+      "translation": "最无情的要数台城的杨柳，",
+      "noteIds": ["n-taicheng"]
+    },
+    {
+      "text": "依旧烟笼十里堤。",
+      "pinyin": ["yī", "jiù", "yān", "lóng", "shí", "lǐ", "dī"],
+      "translation": "还像从前一样，如烟的绿意笼罩着十里长堤。",
+      "noteIds": []
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-feifei",
+      "word": "霏霏",
+      "pinyin": "fēi fēi",
+      "meaning": "形容细雨纷纷、迷蒙的样子。"
+    },
+    {
+      "id": "n-liuchao",
+      "word": "六朝",
+      "pinyin": "liù cháo",
+      "meaning": "指先后在金陵（今南京）建都的吴、东晋、宋、齐、梁、陈六个朝代。"
+    },
+    {
+      "id": "n-kong",
+      "word": "空",
+      "pinyin": "kōng",
+      "meaning": "徒然、白白地。"
+    },
+    {
+      "id": "n-taicheng",
+      "word": "台城",
+      "pinyin": "tái chéng",
+      "meaning": "六朝时的宫城，在今南京，是王朝兴亡的见证。"
+    }
+  ],
+  "translation": "江上细雨蒙蒙，江边青草长得齐整。六个朝代像梦一样过去了，只剩鸟儿白白地啼叫。最无情的要数台城的杨柳，还像从前一样，如烟的绿意笼罩着十里长堤。",
+  "appreciation": "诗人站在雨中的金陵，六朝的繁华早没了，只有鸟在空自啼叫。最妙的是写柳：朝代换了又换，柳树不管这些，照样绿烟一样罩着长堤。说柳“无情”，其实是人太多情——他叹的是唐王朝也像六朝一样正在走向衰亡。景色越美，心里的伤感越重。",
+  "background": "台城是六朝的宫城，曾经歌舞繁华，到唐末只剩一片废墟。韦庄生活的年代，唐王朝内乱不止，摇摇欲坠，很像当年接连灭亡的六朝。他客游江南来到金陵，在蒙蒙细雨中凭吊台城，写下这首怀古诗。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "雨中金陵",
+      "text": "诗人冒雨来到金陵，江边春草又绿了。"
+    },
+    {
+      "step": 2,
+      "title": "如梦六朝",
+      "text": "六个朝代像一场梦，只剩鸟儿白白啼叫。"
+    },
+    {
+      "step": 3,
+      "title": "台城杨柳",
+      "text": "台城边的柳树丝毫不管兴亡，照旧发芽抽条。"
+    },
+    {
+      "step": 4,
+      "title": "烟笼长堤",
+      "text": "如烟的柳色笼罩十里长堤，美得叫人心伤。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "朝",
+      "reading": "cháo",
+      "reason": "“六朝”指先后建都金陵的六个朝代，读 cháo。",
+      "standard": "不要读成 zhāo"
+    },
+    {
+      "char": "笼",
+      "reading": "lóng",
+      "reason": "“烟笼”是像烟雾一样笼罩，读 lóng。"
+    }
+  ],
+  "sources": ["《全唐诗》", "《唐诗三百首》"],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1031
+}

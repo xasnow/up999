@@ -1,0 +1,260 @@
+{
+  "id": "tang-shengtang-wangwei-fenghe-xingqinggedao",
+  "slug": "fenghe-xingqinggedao",
+  "title": "奉和圣制从蓬莱向兴庆阁道",
+  "titlePinyin": "fèng hé shèng zhì cóng péng lái xiàng xīng qìng gé dào",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "七言律诗",
+  "authorId": "wangwei",
+  "gradeBand": "ext",
+  "tags": [
+    "山水",
+    "七言律诗",
+    "春雨",
+    "帝城"
+  ],
+  "difficulty": 3,
+  "writtenYear": 735,
+  "writtenLabel": "约公元 735 年（王维 34 岁，在长安任右拾遗，随玄宗雨中春游应制）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "云里帝城双凤阙，雨中春树万人家。"
+  ],
+  "lines": [
+    {
+      "text": "渭水自萦秦塞曲，",
+      "pinyin": [
+        "wèi",
+        "shuǐ",
+        "zì",
+        "yíng",
+        "qín",
+        "sài",
+        "qū"
+      ],
+      "translation": "渭水萦绕着秦地关塞，弯弯曲曲地流过，",
+      "noteIds": [
+        "n-ying",
+        "n-qinsai"
+      ]
+    },
+    {
+      "text": "黄山旧绕汉宫斜。",
+      "pinyin": [
+        "huáng",
+        "shān",
+        "jiù",
+        "rào",
+        "hàn",
+        "gōng",
+        "xié"
+      ],
+      "translation": "黄山依旧斜斜地环绕着汉家的宫殿。",
+      "noteIds": []
+    },
+    {
+      "text": "銮舆迥出千门柳，",
+      "pinyin": [
+        "luán",
+        "yú",
+        "jiǒng",
+        "chū",
+        "qiān",
+        "mén",
+        "liǔ"
+      ],
+      "translation": "皇帝的车驾远远驶出千重宫门外的柳荫，",
+      "noteIds": [
+        "n-luanyu",
+        "n-jiong"
+      ]
+    },
+    {
+      "text": "阁道回看上苑花。",
+      "pinyin": [
+        "gé",
+        "dào",
+        "huí",
+        "kàn",
+        "shàng",
+        "yuàn",
+        "huā"
+      ],
+      "translation": "走在阁道上回望，皇家园林里繁花盛开。",
+      "noteIds": [
+        "n-shangyuan"
+      ]
+    },
+    {
+      "text": "云里帝城双凤阙，",
+      "pinyin": [
+        "yún",
+        "lǐ",
+        "dì",
+        "chéng",
+        "shuāng",
+        "fèng",
+        "què"
+      ],
+      "translation": "云雾中的帝都，一对凤阙高高耸立，",
+      "noteIds": [
+        "n-fengque"
+      ]
+    },
+    {
+      "text": "雨中春树万人家。",
+      "pinyin": [
+        "yǔ",
+        "zhōng",
+        "chūn",
+        "shù",
+        "wàn",
+        "rén",
+        "jiā"
+      ],
+      "translation": "春雨中的绿树间，藏着千家万户。",
+      "noteIds": []
+    },
+    {
+      "text": "为乘阳气行时令，",
+      "pinyin": [
+        "wèi",
+        "chéng",
+        "yáng",
+        "qì",
+        "xíng",
+        "shí",
+        "lìng"
+      ],
+      "translation": "皇帝出游，是顺应春天的阳气、颁行时令，",
+      "noteIds": [
+        "n-yangqi"
+      ]
+    },
+    {
+      "text": "不是宸游玩物华。",
+      "pinyin": [
+        "bú",
+        "shì",
+        "chén",
+        "yóu",
+        "wán",
+        "wù",
+        "huá"
+      ],
+      "translation": "并不是为了赏玩春色才出来游玩。",
+      "noteIds": [
+        "n-chenyou",
+        "n-wuhua"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-ying",
+      "word": "萦",
+      "pinyin": "yíng",
+      "meaning": "环绕、缠绕。"
+    },
+    {
+      "id": "n-qinsai",
+      "word": "秦塞",
+      "pinyin": "qín sài",
+      "meaning": "秦地的关塞，指关中一带。"
+    },
+    {
+      "id": "n-luanyu",
+      "word": "銮舆",
+      "pinyin": "luán yú",
+      "meaning": "皇帝乘坐的车驾。"
+    },
+    {
+      "id": "n-jiong",
+      "word": "迥",
+      "pinyin": "jiǒng",
+      "meaning": "遥远的样子。"
+    },
+    {
+      "id": "n-shangyuan",
+      "word": "上苑",
+      "pinyin": "shàng yuàn",
+      "meaning": "皇家园林。"
+    },
+    {
+      "id": "n-fengque",
+      "word": "凤阙",
+      "pinyin": "fèng què",
+      "meaning": "皇宫门前两侧的楼阙，代指宫殿。"
+    },
+    {
+      "id": "n-yangqi",
+      "word": "阳气",
+      "pinyin": "yáng qì",
+      "meaning": "春天生长萌发的暖气，古人认为春游顺应阳气。"
+    },
+    {
+      "id": "n-chenyou",
+      "word": "宸游",
+      "pinyin": "chén yóu",
+      "meaning": "皇帝出游。"
+    },
+    {
+      "id": "n-wuhua",
+      "word": "物华",
+      "pinyin": "wù huá",
+      "meaning": "美好的景物。"
+    }
+  ],
+  "translation": "渭水萦绕着秦地关塞，弯弯曲曲地流过，黄山依旧斜斜地环绕着汉家的宫殿。皇帝的车驾远远驶出千重宫门外的柳荫，走在阁道上回望，皇家园林里繁花盛开。云雾中的帝都，一对凤阙高高耸立，春雨中的绿树间，藏着千家万户。皇帝出游，是顺应春天的阳气、颁行时令，并不是为了赏玩春色才出来游玩。",
+  "appreciation": "这是一首应制诗，跟着皇帝春游写诗，却写得开阔有画意。前两句从渭水、黄山落笔，把长安放进大好河山里；中间两联远近相映，云里凤阙庄重，雨中万家亲切，“云里帝城双凤阙，雨中春树万人家”是千古传诵的名句。结尾恭维皇帝出游是顺时行令，说得分寸恰当。",
+  "background": "唐玄宗命人修了从蓬莱宫到兴庆宫的阁道，春雨中乘车出游，望见长安春色，写了诗命群臣唱和。王维时任右拾遗，写这首诗奉和，既写帝都春景，也替皇帝出游说了体面的理由。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "渭水黄山",
+      "text": "渭水绕着秦塞弯曲，黄山绕着汉宫倾斜。"
+    },
+    {
+      "step": 2,
+      "title": "车驾出宫",
+      "text": "銮驾驶出千门柳色，阁道上回望御园繁花。"
+    },
+    {
+      "step": 3,
+      "title": "雨中望城",
+      "text": "云雾里凤阙高耸，春雨中绿树藏着万家。"
+    },
+    {
+      "step": 4,
+      "title": "顺时出游",
+      "text": "皇帝乘着春气出行颁令，不只是赏玩春光。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "塞",
+      "reading": "sài",
+      "reason": "“秦塞”指秦地的边塞关口，“塞”读 sài。",
+      "standard": "不要读成 sè"
+    },
+    {
+      "char": "迥",
+      "reading": "jiǒng",
+      "reason": "“迥”是遥远的意思，“迥出”是远远驶出。"
+    },
+    {
+      "char": "宸",
+      "reading": "chén",
+      "reason": "“宸游”指皇帝出游，“宸”本指帝王住的地方。"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1124
+}

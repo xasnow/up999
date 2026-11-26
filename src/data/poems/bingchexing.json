@@ -1,0 +1,643 @@
+{
+  "id": "tang-shengtang-dufu-bingchexing",
+  "slug": "bingchexing",
+  "title": "兵车行",
+  "titlePinyin": "bīng chē xíng",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "七言乐府",
+  "authorId": "dufu",
+  "gradeBand": "ext",
+  "tags": [
+    "边塞",
+    "战乱",
+    "征人",
+    "七言乐府"
+  ],
+  "difficulty": 3,
+  "writtenYear": 751,
+  "writtenLabel": "公元 751 年（杜甫 39 岁，在长安，见朝廷频繁用兵、百姓苦于征役）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "边庭流血成海水，武皇开边意未已。",
+    "生女犹得嫁比邻，生男埋没随百草。"
+  ],
+  "lines": [
+    {
+      "text": "车辚辚，",
+      "pinyin": [
+        "chē",
+        "lín",
+        "lín"
+      ],
+      "translation": "战车滚滚作响，",
+      "noteIds": [
+        "n-lin"
+      ]
+    },
+    {
+      "text": "马萧萧，",
+      "pinyin": [
+        "mǎ",
+        "xiāo",
+        "xiāo"
+      ],
+      "translation": "战马嘶鸣不止，",
+      "noteIds": []
+    },
+    {
+      "text": "行人弓箭各在腰。",
+      "pinyin": [
+        "xíng",
+        "rén",
+        "gōng",
+        "jiàn",
+        "gè",
+        "zài",
+        "yāo"
+      ],
+      "translation": "出征的士兵弓箭各佩在腰间。",
+      "noteIds": []
+    },
+    {
+      "text": "耶娘妻子走相送，",
+      "pinyin": [
+        "yē",
+        "niáng",
+        "qī",
+        "zǐ",
+        "zǒu",
+        "xiāng",
+        "sòng"
+      ],
+      "translation": "爹娘、妻子儿女追跑着来送行，",
+      "noteIds": [
+        "n-yeniang"
+      ]
+    },
+    {
+      "text": "尘埃不见咸阳桥。",
+      "pinyin": [
+        "chén",
+        "āi",
+        "bù",
+        "jiàn",
+        "xián",
+        "yáng",
+        "qiáo"
+      ],
+      "translation": "扬起的尘土大得看不见咸阳桥。",
+      "noteIds": []
+    },
+    {
+      "text": "牵衣顿足拦道哭，",
+      "pinyin": [
+        "qiān",
+        "yī",
+        "dùn",
+        "zú",
+        "lán",
+        "dào",
+        "kū"
+      ],
+      "translation": "亲人们拉着衣服、跺着脚，拦在路口痛哭，",
+      "noteIds": []
+    },
+    {
+      "text": "哭声直上干云霄。",
+      "pinyin": [
+        "kū",
+        "shēng",
+        "zhí",
+        "shàng",
+        "gān",
+        "yún",
+        "xiāo"
+      ],
+      "translation": "哭声直冲云霄。",
+      "noteIds": [
+        "n-gan"
+      ]
+    },
+    {
+      "text": "道旁过者问行人，",
+      "pinyin": [
+        "dào",
+        "páng",
+        "guò",
+        "zhě",
+        "wèn",
+        "xíng",
+        "rén"
+      ],
+      "translation": "路过的人向出征的士兵打听，",
+      "noteIds": []
+    },
+    {
+      "text": "行人但云点行频。",
+      "pinyin": [
+        "xíng",
+        "rén",
+        "dàn",
+        "yún",
+        "diǎn",
+        "xíng",
+        "pín"
+      ],
+      "translation": "士兵只说朝廷点名征调太频繁。",
+      "noteIds": [
+        "n-dianxing"
+      ]
+    },
+    {
+      "text": "或从十五北防河，",
+      "pinyin": [
+        "huò",
+        "cóng",
+        "shí",
+        "wǔ",
+        "běi",
+        "fáng",
+        "hé"
+      ],
+      "translation": "有的人十五岁就到北边防守黄河，",
+      "noteIds": []
+    },
+    {
+      "text": "便至四十西营田。",
+      "pinyin": [
+        "biàn",
+        "zhì",
+        "sì",
+        "shí",
+        "xī",
+        "yíng",
+        "tián"
+      ],
+      "translation": "到了四十岁还在西边屯田戍守。",
+      "noteIds": [
+        "n-yingtian"
+      ]
+    },
+    {
+      "text": "去时里正与裹头，",
+      "pinyin": [
+        "qù",
+        "shí",
+        "lǐ",
+        "zhèng",
+        "yǔ",
+        "guǒ",
+        "tóu"
+      ],
+      "translation": "出发时年纪还小，里正替他裹头巾，",
+      "noteIds": [
+        "n-lizheng",
+        "n-guotou"
+      ]
+    },
+    {
+      "text": "归来头白还戍边。",
+      "pinyin": [
+        "guī",
+        "lái",
+        "tóu",
+        "bái",
+        "hái",
+        "shù",
+        "biān"
+      ],
+      "translation": "回来时头发白了，还要去守边。",
+      "noteIds": []
+    },
+    {
+      "text": "边庭流血成海水，",
+      "pinyin": [
+        "biān",
+        "tíng",
+        "liú",
+        "xuè",
+        "chéng",
+        "hǎi",
+        "shuǐ"
+      ],
+      "translation": "边疆上流的血多得汇成海水，",
+      "noteIds": []
+    },
+    {
+      "text": "武皇开边意未已。",
+      "pinyin": [
+        "wǔ",
+        "huáng",
+        "kāi",
+        "biān",
+        "yì",
+        "wèi",
+        "yǐ"
+      ],
+      "translation": "皇上开拓边疆的念头还没有停止。",
+      "noteIds": [
+        "n-wuhuang"
+      ]
+    },
+    {
+      "text": "君不闻汉家山东二百州，",
+      "pinyin": [
+        "jūn",
+        "bù",
+        "wén",
+        "hàn",
+        "jiā",
+        "shān",
+        "dōng",
+        "èr",
+        "bǎi",
+        "zhōu"
+      ],
+      "translation": "你没听说朝廷华山以东的二百个州，",
+      "noteIds": [
+        "n-shandong"
+      ]
+    },
+    {
+      "text": "千村万落生荆杞。",
+      "pinyin": [
+        "qiān",
+        "cūn",
+        "wàn",
+        "luò",
+        "shēng",
+        "jīng",
+        "qǐ"
+      ],
+      "translation": "千村万落都长满了荆棘枸杞。",
+      "noteIds": [
+        "n-jingqi"
+      ]
+    },
+    {
+      "text": "纵有健妇把锄犁，",
+      "pinyin": [
+        "zòng",
+        "yǒu",
+        "jiàn",
+        "fù",
+        "bǎ",
+        "chú",
+        "lí"
+      ],
+      "translation": "即使有健壮的妇女拿着锄犁耕种，",
+      "noteIds": []
+    },
+    {
+      "text": "禾生陇亩无东西。",
+      "pinyin": [
+        "hé",
+        "shēng",
+        "lǒng",
+        "mǔ",
+        "wú",
+        "dōng",
+        "xī"
+      ],
+      "translation": "田垄里的庄稼也长得东倒西歪。",
+      "noteIds": [
+        "n-longmu"
+      ]
+    },
+    {
+      "text": "况复秦兵耐苦战，",
+      "pinyin": [
+        "kuàng",
+        "fù",
+        "qín",
+        "bīng",
+        "nài",
+        "kǔ",
+        "zhàn"
+      ],
+      "translation": "何况秦地的士兵最耐苦战，",
+      "noteIds": []
+    },
+    {
+      "text": "被驱不异犬与鸡。",
+      "pinyin": [
+        "bèi",
+        "qū",
+        "bù",
+        "yì",
+        "quǎn",
+        "yǔ",
+        "jī"
+      ],
+      "translation": "被驱赶上阵，跟鸡犬没有什么不同。",
+      "noteIds": []
+    },
+    {
+      "text": "长者虽有问，",
+      "pinyin": [
+        "zhǎng",
+        "zhě",
+        "suī",
+        "yǒu",
+        "wèn"
+      ],
+      "translation": "您老人家虽然好意来问，",
+      "noteIds": []
+    },
+    {
+      "text": "役夫敢申恨。",
+      "pinyin": [
+        "yì",
+        "fū",
+        "gǎn",
+        "shēn",
+        "hèn"
+      ],
+      "translation": "我们服役的人哪敢说出心中的怨恨？",
+      "noteIds": []
+    },
+    {
+      "text": "且如今年冬，",
+      "pinyin": [
+        "qiě",
+        "rú",
+        "jīn",
+        "nián",
+        "dōng"
+      ],
+      "translation": "就拿今年冬天来说，",
+      "noteIds": []
+    },
+    {
+      "text": "未休关西卒。",
+      "pinyin": [
+        "wèi",
+        "xiū",
+        "guān",
+        "xī",
+        "zú"
+      ],
+      "translation": "关西的士兵还没有得到休整。",
+      "noteIds": []
+    },
+    {
+      "text": "县官急索租，",
+      "pinyin": [
+        "xiàn",
+        "guān",
+        "jí",
+        "suǒ",
+        "zū"
+      ],
+      "translation": "官府急着催逼租税，",
+      "noteIds": []
+    },
+    {
+      "text": "租税从何出。",
+      "pinyin": [
+        "zū",
+        "shuì",
+        "cóng",
+        "hé",
+        "chū"
+      ],
+      "translation": "可租税又能从哪里出呢？",
+      "noteIds": []
+    },
+    {
+      "text": "信知生男恶，",
+      "pinyin": [
+        "xìn",
+        "zhī",
+        "shēng",
+        "nán",
+        "è"
+      ],
+      "translation": "现在真知道生男孩是坏事，",
+      "noteIds": []
+    },
+    {
+      "text": "反是生女好。",
+      "pinyin": [
+        "fǎn",
+        "shì",
+        "shēng",
+        "nǚ",
+        "hǎo"
+      ],
+      "translation": "反而是生女儿好，",
+      "noteIds": []
+    },
+    {
+      "text": "生女犹得嫁比邻，",
+      "pinyin": [
+        "shēng",
+        "nǚ",
+        "yóu",
+        "dé",
+        "jià",
+        "bǐ",
+        "lín"
+      ],
+      "translation": "生女儿还能嫁给近邻，",
+      "noteIds": [
+        "n-bilin"
+      ]
+    },
+    {
+      "text": "生男埋没随百草。",
+      "pinyin": [
+        "shēng",
+        "nán",
+        "mái",
+        "mò",
+        "suí",
+        "bǎi",
+        "cǎo"
+      ],
+      "translation": "生男孩却只能埋没在荒草之间。",
+      "noteIds": []
+    },
+    {
+      "text": "君不见青海头，",
+      "pinyin": [
+        "jūn",
+        "bù",
+        "jiàn",
+        "qīng",
+        "hǎi",
+        "tóu"
+      ],
+      "translation": "你没看见青海湖边，",
+      "noteIds": []
+    },
+    {
+      "text": "古来白骨无人收。",
+      "pinyin": [
+        "gǔ",
+        "lái",
+        "bái",
+        "gǔ",
+        "wú",
+        "rén",
+        "shōu"
+      ],
+      "translation": "自古以来白骨累累无人收埋。",
+      "noteIds": []
+    },
+    {
+      "text": "新鬼烦冤旧鬼哭，",
+      "pinyin": [
+        "xīn",
+        "guǐ",
+        "fán",
+        "yuān",
+        "jiù",
+        "guǐ",
+        "kū"
+      ],
+      "translation": "新死的鬼魂含冤，旧死的鬼魂哭泣，",
+      "noteIds": []
+    },
+    {
+      "text": "天阴雨湿声啾啾。",
+      "pinyin": [
+        "tiān",
+        "yīn",
+        "yǔ",
+        "shī",
+        "shēng",
+        "jiū",
+        "jiū"
+      ],
+      "translation": "阴天下雨时，啼哭声一片啾啾。",
+      "noteIds": []
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-lin",
+      "word": "辚辚",
+      "pinyin": "lín lín",
+      "meaning": "车轮滚动的响声。"
+    },
+    {
+      "id": "n-yeniang",
+      "word": "耶娘",
+      "pinyin": "yē niáng",
+      "meaning": "爹和娘，“耶”同“爷”。"
+    },
+    {
+      "id": "n-gan",
+      "word": "干",
+      "pinyin": "gān",
+      "meaning": "冲犯、冲上，这里指哭声直冲云霄。"
+    },
+    {
+      "id": "n-dianxing",
+      "word": "点行频",
+      "pinyin": "diǎn xíng pín",
+      "meaning": "按名册依次点名征调入伍，而且次数频繁。"
+    },
+    {
+      "id": "n-yingtian",
+      "word": "营田",
+      "pinyin": "yíng tián",
+      "meaning": "屯田，士兵驻守边地同时开垦耕种。"
+    },
+    {
+      "id": "n-lizheng",
+      "word": "里正",
+      "pinyin": "lǐ zhèng",
+      "meaning": "乡里的小吏，管催税派役。"
+    },
+    {
+      "id": "n-guotou",
+      "word": "裹头",
+      "pinyin": "guǒ tóu",
+      "meaning": "用头巾裹头。男子成年才束发，征人年纪还小，由里正代为裹头。"
+    },
+    {
+      "id": "n-wuhuang",
+      "word": "武皇",
+      "pinyin": "wǔ huáng",
+      "meaning": "汉武帝，这里借指唐玄宗。"
+    },
+    {
+      "id": "n-shandong",
+      "word": "山东",
+      "pinyin": "shān dōng",
+      "meaning": "指华山以东的中原地区。"
+    },
+    {
+      "id": "n-jingqi",
+      "word": "荆杞",
+      "pinyin": "jīng qǐ",
+      "meaning": "荆棘和枸杞，泛指野生灌木，形容村落荒废。"
+    },
+    {
+      "id": "n-longmu",
+      "word": "陇亩",
+      "pinyin": "lǒng mǔ",
+      "meaning": "田地、田垄，“陇”同“垄”。"
+    },
+    {
+      "id": "n-bilin",
+      "word": "比邻",
+      "pinyin": "bǐ lín",
+      "meaning": "近邻。"
+    }
+  ],
+  "translation": "战车滚滚作响，战马嘶鸣不止，出征的士兵弓箭各佩在腰间。爹娘、妻子儿女追跑着来送行，扬起的尘土大得看不见咸阳桥。亲人们拉着衣服、跺着脚，拦在路口痛哭，哭声直冲云霄。路过的人向士兵打听，士兵只说朝廷点名征调太频繁。有的人十五岁就到北边防守黄河，到了四十岁还在西边屯田戍守。出发时年纪还小，里正替他裹头巾，回来时头发白了，还要去守边。边疆上流的血多得汇成海水，皇上开拓边疆的念头还没有停止。你没听说朝廷华山以东的二百个州，千村万落都长满了荆棘枸杞；即使有健壮的妇女拿着锄犁耕种，田垄里的庄稼也长得东倒西歪。何况秦地的士兵最耐苦战，被驱赶上阵，跟鸡犬没有什么不同。您老人家虽然好意来问，我们服役的人哪敢说出心中的怨恨？就拿今年冬天来说，关西的士兵还没有得到休整。官府急着催逼租税，可租税又能从哪里出呢？现在真知道生男孩是坏事，反而是生女儿好：生女儿还能嫁给近邻，生男孩却只能埋没在荒草之间。你没看见青海湖边，自古以来白骨累累无人收埋。新死的鬼魂含冤，旧死的鬼魂哭泣，阴天下雨时，啼哭声一片啾啾。",
+  "appreciation": "这首诗像一幅送行的画卷，又像一份出征人的口供。开头车声、马声、哭声混成一片，人还没出场，苦难已经扑面而来。中间借士兵的回答层层推进：从征调的频繁，写到农村的荒败，再到“生男不如生女”的反常——百姓的日子已经被逼到了反面。结尾青海头的白骨和啾啾鬼哭，把无限恨意留在阴雨里，控诉无声却最响。",
+  "background": "公元751年前后，唐玄宗连年对南诏、吐蕃用兵，屡战屡败，仍不断征兵。杜甫在长安亲眼看见出征队伍经过咸阳桥时，亲人拦路痛哭的场面，仿照乐府歌行写下这首诗，替被驱赶的百姓说出心中的怨恨。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "车马送行",
+      "text": "战车辚辚、战马萧萧，亲人拦路痛哭送征人。"
+    },
+    {
+      "step": 2,
+      "title": "点行太频",
+      "text": "士兵诉说十五防河、四十营田，征调不断。"
+    },
+    {
+      "step": 3,
+      "title": "田园荒败",
+      "text": "山东二百州村落生荆杞，妇女耕田收成无着。"
+    },
+    {
+      "step": 4,
+      "title": "青海白骨",
+      "text": "青海头白骨无人收，阴雨天里鬼声啾啾。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "耶",
+      "reading": "yē",
+      "reason": "“耶娘”的“耶”同“爷”，指父亲，读 yē。"
+    },
+    {
+      "char": "行",
+      "reading": "xíng",
+      "reason": "“点行频”的“行”指按名次征发，读 xíng。",
+      "standard": "不要读成 háng"
+    },
+    {
+      "char": "干",
+      "reading": "gān",
+      "reason": "“干云霄”的“干”是冲上的意思，读 gān。"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1252
+}

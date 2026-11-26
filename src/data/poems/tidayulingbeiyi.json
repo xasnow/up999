@@ -1,0 +1,214 @@
+{
+  "id": "tang-chutang-songzhiwen-tidayulingbeiyi",
+  "slug": "tidayulingbeiyi",
+  "title": "题大庾岭北驿",
+  "titlePinyin": "tí dà yǔ lǐng běi yì",
+  "dynasty": "tangshi",
+  "era": "chutang",
+  "genre": "shi",
+  "form": "五言律诗",
+  "authorId": "songzhiwen",
+  "gradeBand": "ext",
+  "tags": [
+    "思乡",
+    "五言律诗",
+    "飞雁",
+    "梅花"
+  ],
+  "difficulty": 3,
+  "writtenYear": 705,
+  "writtenLabel": "公元 705 年（宋之问约 50 岁，被贬岭南，途经大庾岭）",
+  "orderInAuthor": 1,
+  "no": 1057,
+  "famousLines": [
+    "明朝望乡处，应见陇头梅。"
+  ],
+  "lines": [
+    {
+      "text": "阳月南飞雁，",
+      "pinyin": [
+        "yáng",
+        "yuè",
+        "nán",
+        "fēi",
+        "yàn"
+      ],
+      "translation": "农历十月，南飞的大雁，",
+      "noteIds": [
+        "n-yangyue"
+      ]
+    },
+    {
+      "text": "传闻至此回。",
+      "pinyin": [
+        "chuán",
+        "wén",
+        "zhì",
+        "cǐ",
+        "huí"
+      ],
+      "translation": "听说飞到这里就折回北方。"
+    },
+    {
+      "text": "我行殊未已，",
+      "pinyin": [
+        "wǒ",
+        "xíng",
+        "shū",
+        "wèi",
+        "yǐ"
+      ],
+      "translation": "可我的行程还没有停止，",
+      "noteIds": [
+        "n-shu"
+      ]
+    },
+    {
+      "text": "何日复归来。",
+      "pinyin": [
+        "hé",
+        "rì",
+        "fù",
+        "guī",
+        "lái"
+      ],
+      "translation": "什么时候才能重新归来？"
+    },
+    {
+      "text": "江静潮初落，",
+      "pinyin": [
+        "jiāng",
+        "jìng",
+        "cháo",
+        "chū",
+        "luò"
+      ],
+      "translation": "江面安静，潮水刚刚退落，"
+    },
+    {
+      "text": "林昏瘴不开。",
+      "pinyin": [
+        "lín",
+        "hūn",
+        "zhàng",
+        "bù",
+        "kāi"
+      ],
+      "translation": "树林昏暗，瘴气弥漫不开。",
+      "noteIds": [
+        "n-zhang"
+      ]
+    },
+    {
+      "text": "明朝望乡处，",
+      "pinyin": [
+        "míng",
+        "zhāo",
+        "wàng",
+        "xiāng",
+        "chù"
+      ],
+      "translation": "明天早晨登上岭头遥望家乡，",
+      "noteIds": [
+        "n-mingzhao2"
+      ]
+    },
+    {
+      "text": "应见陇头梅。",
+      "pinyin": [
+        "yīng",
+        "jiàn",
+        "lǒng",
+        "tóu",
+        "méi"
+      ],
+      "translation": "应该能看见岭上初开的梅花。",
+      "noteIds": [
+        "n-longtoumei"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-yangyue",
+      "word": "阳月",
+      "pinyin": "yáng yuè",
+      "meaning": "农历十月的别称。"
+    },
+    {
+      "id": "n-shu",
+      "word": "殊",
+      "pinyin": "shū",
+      "meaning": "还、仍然。“殊未已”是说行程还没有停下来。"
+    },
+    {
+      "id": "n-zhang",
+      "word": "瘴",
+      "pinyin": "zhàng",
+      "meaning": "南方山林间的湿热之气，古时被认为能使人生病。"
+    },
+    {
+      "id": "n-mingzhao2",
+      "word": "明朝",
+      "pinyin": "míng zhāo",
+      "meaning": "明天早晨。"
+    },
+    {
+      "id": "n-longtoumei",
+      "word": "陇头梅",
+      "pinyin": "lǒng tóu méi",
+      "meaning": "大庾岭上的梅花。岭上气候温暖，梅花开得早，古人折梅赠远，寄托思念。"
+    }
+  ],
+  "translation": "农历十月，南飞的大雁，听说飞到这里就折回北方。可我的行程还没有停止，什么时候才能重新归来？江面安静，潮水刚刚退落，树林昏暗，瘴气弥漫不开。明天早晨登上岭头遥望家乡，应该能看见岭上初开的梅花。",
+  "appreciation": "大雁飞到大庾岭就能折回北方，诗人却被贬往更远的南方，连大雁都不如。江面安静，潮水初落，林间昏暗，瘴气不散，景色越沉，心情越重。好在诗人望见一点亮色：明天站在岭头望乡，该能看见早开的梅花。梅花是大庾岭的名物，也寄托着他盼望归去的念头。全诗哀而不伤，含蓄动人。",
+  "background": "公元705年，宋之问因依附张易之被贬为泷州参军，从长安前往岭南。十月里经过大庾岭，宿在岭北的驿站。北归的大雁飞到这里就折回，而他的贬途才刚开始，于是写下这首诗。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "十月雁回",
+      "text": "农历十月，南飞的大雁到了这里就会折回北方。"
+    },
+    {
+      "step": 2,
+      "title": "我行未已",
+      "text": "可我的行程还没有到头，不知何时才能归来。"
+    },
+    {
+      "step": 3,
+      "title": "潮落瘴昏",
+      "text": "江面安静潮水初落，林间昏暗瘴气弥漫不散。"
+    },
+    {
+      "step": 4,
+      "title": "望乡见梅",
+      "text": "明晨登上岭头望乡，该能看见初开的陇头梅花。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "瘴",
+      "reading": "zhàng",
+      "reason": "“瘴”指南方山林中的湿热之气，读 zhàng。",
+      "standard": "生僻字，注意不要误读"
+    },
+    {
+      "char": "朝",
+      "reading": "zhāo",
+      "reason": "“明朝”指明天早晨，读 zhāo。",
+      "standard": "不要读成 cháo"
+    },
+    {
+      "char": "陇",
+      "reading": "lǒng",
+      "reason": "“陇头梅”的“陇”指大庾岭上，读 lǒng。",
+      "standard": "不要读成 lóng"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26"
+}

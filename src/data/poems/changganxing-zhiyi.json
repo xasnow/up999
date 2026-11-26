@@ -1,0 +1,295 @@
+{
+  "id": "tang-shengtang-libai-changganxing-zhiyi",
+  "slug": "changganxing-zhiyi",
+  "title": "长干行·其一",
+  "titlePinyin": "cháng gān xíng · qí yī",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "五言乐府",
+  "authorId": "libai",
+  "gradeBand": "ext",
+  "difficulty": 3,
+  "tags": ["思念", "五言乐府", "青梅", "绿苔"],
+  "writtenYear": 726,
+  "writtenLabel": "约公元 726 年（李白 26 岁，初游金陵长干里一带时所作）",
+  "orderInAuthor": 4,
+  "famousLines": [
+    "郎骑竹马来，绕床弄青梅。",
+    "同居长干里，两小无嫌猜。"
+  ],
+  "lines": [
+    {
+      "text": "妾发初覆额，",
+      "pinyin": ["qiè", "fà", "chū", "fù", "é"],
+      "translation": "我的头发刚刚盖过额头，",
+      "noteIds": []
+    },
+    {
+      "text": "折花门前剧。",
+      "pinyin": ["zhé", "huā", "mén", "qián", "jù"],
+      "translation": "折着花枝在门前游戏。",
+      "noteIds": ["n-ju"]
+    },
+    {
+      "text": "郎骑竹马来，",
+      "pinyin": ["láng", "qí", "zhú", "mǎ", "lái"],
+      "translation": "你骑着竹马跑来，",
+      "noteIds": ["n-zhuma"]
+    },
+    {
+      "text": "绕床弄青梅。",
+      "pinyin": ["rào", "chuáng", "nòng", "qīng", "méi"],
+      "translation": "绕着井栏逗弄青梅。",
+      "noteIds": ["n-nongqingmei"]
+    },
+    {
+      "text": "同居长干里，",
+      "pinyin": ["tóng", "jū", "cháng", "gān", "lǐ"],
+      "translation": "我们同住在长干里，",
+      "noteIds": ["n-changganli"]
+    },
+    {
+      "text": "两小无嫌猜。",
+      "pinyin": ["liǎng", "xiǎo", "wú", "xián", "cāi"],
+      "translation": "两个孩子没有一点猜疑。",
+      "noteIds": []
+    },
+    {
+      "text": "十四为君妇，",
+      "pinyin": ["shí", "sì", "wéi", "jūn", "fù"],
+      "translation": "十四岁嫁给你做妻子，",
+      "noteIds": []
+    },
+    {
+      "text": "羞颜未尝开。",
+      "pinyin": ["xiū", "yán", "wèi", "cháng", "kāi"],
+      "translation": "羞涩的脸不曾露出笑容。",
+      "noteIds": []
+    },
+    {
+      "text": "低头向暗壁，",
+      "pinyin": ["dī", "tóu", "xiàng", "àn", "bì"],
+      "translation": "低头对着昏暗的墙壁，",
+      "noteIds": []
+    },
+    {
+      "text": "千唤不一回。",
+      "pinyin": ["qiān", "huàn", "bù", "yì", "huí"],
+      "translation": "千遍呼唤也不肯回一次头。",
+      "noteIds": []
+    },
+    {
+      "text": "十五始展眉，",
+      "pinyin": ["shǐ", "wǔ", "shǐ", "zhǎn", "méi"],
+      "translation": "十五岁才舒展开眉头，",
+      "noteIds": []
+    },
+    {
+      "text": "愿同尘与灰。",
+      "pinyin": ["yuàn", "tóng", "chén", "yǔ", "huī"],
+      "translation": "愿与你化作灰尘也在一起。",
+      "noteIds": []
+    },
+    {
+      "text": "常存抱柱信，",
+      "pinyin": ["cháng", "cún", "bào", "zhù", "xìn"],
+      "translation": "我常存着尾生抱柱那样的信念，",
+      "noteIds": ["n-baozhu"]
+    },
+    {
+      "text": "岂上望夫台。",
+      "pinyin": ["qǐ", "shàng", "wàng", "fū", "tái"],
+      "translation": "哪里想到真会登上望夫台？",
+      "noteIds": ["n-wangfutai"]
+    },
+    {
+      "text": "十六君远行，",
+      "pinyin": ["shí", "liù", "jūn", "yuǎn", "xíng"],
+      "translation": "十六岁你离家远行，",
+      "noteIds": []
+    },
+    {
+      "text": "瞿塘滟滪堆。",
+      "pinyin": ["qú", "táng", "yàn", "yù", "duī"],
+      "translation": "要经过瞿塘峡可怕的滟滪堆。",
+      "noteIds": ["n-yanyudui"]
+    },
+    {
+      "text": "五月不可触，",
+      "pinyin": ["wǔ", "yuè", "bù", "kě", "chù"],
+      "translation": "五月江水暴涨，船万不可靠近，",
+      "noteIds": []
+    },
+    {
+      "text": "猿声天上哀。",
+      "pinyin": ["yuán", "shēng", "tiān", "shàng", "āi"],
+      "translation": "两岸猿声在天上哀哀啼叫。",
+      "noteIds": []
+    },
+    {
+      "text": "门前迟行迹，",
+      "pinyin": ["mén", "qián", "chí", "xíng", "jì"],
+      "translation": "门前你离家时留下的足迹，",
+      "noteIds": ["n-chixingji"]
+    },
+    {
+      "text": "一一生绿苔。",
+      "pinyin": ["yì", "yì", "shēng", "lǜ", "tái"],
+      "translation": "如今一处一处都生满了绿苔。",
+      "noteIds": []
+    },
+    {
+      "text": "苔深不能扫，",
+      "pinyin": ["tái", "shēn", "bù", "néng", "sǎo"],
+      "translation": "苔太深了，扫也扫不尽，",
+      "noteIds": []
+    },
+    {
+      "text": "落叶秋风早。",
+      "pinyin": ["luò", "yè", "qiū", "fēng", "zǎo"],
+      "translation": "秋风一起，落叶早早飘下来。",
+      "noteIds": []
+    },
+    {
+      "text": "八月蝴蝶来，",
+      "pinyin": ["bā", "yuè", "hú", "dié", "lái"],
+      "translation": "八月里蝴蝶飞来，",
+      "noteIds": []
+    },
+    {
+      "text": "双飞西园草。",
+      "pinyin": ["shuāng", "fēi", "xī", "yuán", "cǎo"],
+      "translation": "成双成对飞过西园的草丛。",
+      "noteIds": []
+    },
+    {
+      "text": "感此伤妾心，",
+      "pinyin": ["gǎn", "cǐ", "shāng", "qiè", "xīn"],
+      "translation": "看到这情景我伤心难过，",
+      "noteIds": []
+    },
+    {
+      "text": "坐愁红颜老。",
+      "pinyin": ["zuò", "chóu", "hóng", "yán", "lǎo"],
+      "translation": "忧愁得红颜都快衰老了。",
+      "noteIds": ["n-zuo"]
+    },
+    {
+      "text": "早晚下三巴，",
+      "pinyin": ["zǎo", "wǎn", "xià", "sān", "bā"],
+      "translation": "你什么时候能顺流下三巴回家？",
+      "noteIds": ["n-sanba"]
+    },
+    {
+      "text": "预将书报家。",
+      "pinyin": ["yù", "jiāng", "shū", "bào", "jiā"],
+      "translation": "请预先把书信捎到家里。",
+      "noteIds": []
+    },
+    {
+      "text": "相迎不道远，",
+      "pinyin": ["xiāng", "yíng", "bú", "dào", "yuǎn"],
+      "translation": "我去迎接你，不管路有多远，",
+      "noteIds": ["n-budao"]
+    },
+    {
+      "text": "直至长风沙。",
+      "pinyin": ["zhí", "zhì", "cháng", "fēng", "shā"],
+      "translation": "哪怕一直走到长风沙。",
+      "noteIds": ["n-changfengsha"]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-ju",
+      "word": "剧",
+      "pinyin": "jù",
+      "meaning": "游戏、玩耍。"
+    },
+    {
+      "id": "n-zhuma",
+      "word": "竹马",
+      "pinyin": "zhú mǎ",
+      "meaning": "儿童把竹竿当马骑。"
+    },
+    {
+      "id": "n-nongqingmei",
+      "word": "弄青梅",
+      "pinyin": "nòng qīng méi",
+      "meaning": "绕着井栏追逐嬉戏、投掷青梅。床，这里指井上的围栏。"
+    },
+    {
+      "id": "n-changganli",
+      "word": "长干里",
+      "pinyin": "cháng gān lǐ",
+      "meaning": "古时金陵（今江苏南京）城南靠近长江的街巷。"
+    },
+    {
+      "id": "n-baozhu",
+      "word": "抱柱信",
+      "pinyin": "bào zhù xìn",
+      "meaning": "相传尾生与女子约在桥下相会，女子未至，大水涌来，他抱住桥柱不走，被水淹死。后用来指坚守信约。"
+    },
+    {
+      "id": "n-wangfutai",
+      "word": "望夫台",
+      "pinyin": "wàng fū tái",
+      "meaning": "传说思妇盼夫归来，久久登高眺望。这里指担心丈夫久出不归。"
+    },
+    {
+      "id": "n-yanyudui",
+      "word": "滟滪堆",
+      "pinyin": "yàn yù duī",
+      "meaning": "瞿塘峡口江心的大礁石，江水暴涨时行船最危险。"
+    },
+    {
+      "id": "n-chixingji",
+      "word": "迟行迹",
+      "pinyin": "chí xíng jì",
+      "meaning": "指丈夫离家时留下的足迹，她常在门前徘徊守望。"
+    },
+    {
+      "id": "n-zuo",
+      "word": "坐",
+      "pinyin": "zuò",
+      "meaning": "因而，因此。"
+    },
+    {
+      "id": "n-sanba",
+      "word": "三巴",
+      "pinyin": "sān bā",
+      "meaning": "巴郡、巴东、巴西三郡，在今四川东部，统称三巴。"
+    },
+    {
+      "id": "n-budao",
+      "word": "不道远",
+      "pinyin": "bù dào yuǎn",
+      "meaning": "不说路远，不辞辛劳。"
+    },
+    {
+      "id": "n-changfengsha",
+      "word": "长风沙",
+      "pinyin": "cháng fēng shā",
+      "meaning": "地名，在今安徽安庆附近的长江边，距金陵有数百里。"
+    }
+  ],
+  "translation": "我的头发刚刚盖过额头，折着花枝在门前游戏。你骑着竹马跑来，绕着井栏逗弄青梅。我们同住在长干里，两个孩子没有一点猜疑。十四岁嫁给你做妻子，羞涩的脸不曾露出笑容，低头对着昏暗的墙壁，千遍呼唤也不肯回一次头。十五岁才舒展开眉头，愿与你化作灰尘也在一起。我常存着尾生抱柱那样的信念，哪里想到真会登上望夫台？十六岁你离家远行，要经过瞿塘峡可怕的滟滪堆，五月江水暴涨，船万不可靠近，两岸猿声在天上哀哀啼叫。门前你离家时留下的足迹，如今一处一处都生满了绿苔；苔太深了，扫也扫不尽，秋风一起，落叶早早飘下来。八月里蝴蝶飞来，成双成对飞过西园的草丛，看到这情景我伤心难过，忧愁得红颜都快衰老了。你什么时候能顺流下三巴回家？请预先把书信捎到家里。我去迎接你，不管路有多远，哪怕一直走到长风沙。",
+  "appreciation": "诗人用六段回忆讲完一场爱情：折花、竹马、青梅是童年；低头向壁是初嫁的羞；展眉同尘灰是深情；望夫台、滟滪堆是担忧；绿苔、落叶、双飞蝶是等待中的孤单。最后“相迎不道远，直至长风沙”，她愿意走几百里去接丈夫。全是家常话语，却把痴情写到了底。",
+  "background": "《长干行》是乐府旧题，长干里在今南京城南。约公元 726 年，李白初游金陵，以一位商妇的口吻，写出从青梅竹马到独守空闺的一生。“青梅竹马”“两小无猜”这两个成语，正是从这首诗里来的。",
+  "storyline": [
+    { "step": 1, "title": "青梅竹马", "text": "她折花门前嬉戏，他骑竹马绕井栏弄青梅，两小无猜。" },
+    { "step": 2, "title": "新嫁含羞", "text": "十四岁嫁作君妇，她低头向着暗壁，千呼万唤不回头。" },
+    { "step": 3, "title": "君行瞿塘", "text": "十六岁丈夫远行经商，她日夜担心瞿塘峡的滟滪堆。" },
+    { "step": 4, "title": "苔深盼归", "text": "门前足迹生了绿苔，蝶双飞人孤单，她愿去长风沙迎他。" }
+  ],
+  "pinyinNotes": [
+    { "char": "滟滪", "reading": "yàn yù", "reason": "“滟滪堆”是瞿塘峡口的大礁石，是行船最危险的地方。" },
+    { "char": "剧", "reading": "jù", "reason": "“门前剧”的“剧”是游戏的意思，读 jù。", "standard": "此处不要理解成“戏剧”" },
+    { "char": "长干", "reading": "cháng gān", "reason": "“长干行”的“干”指长干里的“干”，读 gān。", "standard": "不要读成 gàn" }
+  ],
+  "sources": ["《全唐诗》", "《唐诗三百首》", "《李太白集》"],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1243
+}

@@ -1,0 +1,149 @@
+{
+  "id": "tang-zhongtang-jiaoran-xunluhongjianbuyu",
+  "slug": "xunluhongjianbuyu",
+  "title": "寻陆鸿渐不遇",
+  "titlePinyin": "xún lù hóng jiàn bù yù",
+  "dynasty": "tangshi",
+  "era": "zhongtang",
+  "genre": "shi",
+  "form": "五言律诗",
+  "authorId": "jiaoran",
+  "gradeBand": "ext",
+  "tags": ["友情", "五言律诗", "菊花", "桑麻"],
+  "difficulty": 3,
+  "writtenYear": 786,
+  "writtenLabel": "约公元 786 年（皎然 66 岁，去苕溪拜访好友陆羽，没有遇到）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "扣门无犬吠，欲去问西家。"
+  ],
+  "lines": [
+    {
+      "text": "移家虽带郭，",
+      "pinyin": ["yí", "jiā", "suī", "dài", "guō"],
+      "translation": "陆羽虽然刚搬了家，但住得离城不远。",
+      "noteIds": ["n-daiguo"]
+    },
+    {
+      "text": "野径入桑麻。",
+      "pinyin": ["yě", "jìng", "rù", "sāng", "má"],
+      "translation": "一条小路穿过桑树和麻田，通向他的住处。",
+      "noteIds": []
+    },
+    {
+      "text": "近种篱边菊，",
+      "pinyin": ["jìn", "zhòng", "lí", "biān", "jú"],
+      "translation": "篱笆边新种的菊花，",
+      "noteIds": []
+    },
+    {
+      "text": "秋来未著花。",
+      "pinyin": ["qiū", "lái", "wèi", "zhuó", "huā"],
+      "translation": "到了秋天还没有开花。",
+      "noteIds": ["n-zhuohua"]
+    },
+    {
+      "text": "扣门无犬吠，",
+      "pinyin": ["kòu", "mén", "wú", "quǎn", "fèi"],
+      "translation": "我敲门没有人应，连狗叫都没有。",
+      "noteIds": ["n-quanfei"]
+    },
+    {
+      "text": "欲去问西家。",
+      "pinyin": ["yù", "qù", "wèn", "xī", "jiā"],
+      "translation": "正想离开，就去问西边的邻居。",
+      "noteIds": ["n-xijia"]
+    },
+    {
+      "text": "报道山中去，",
+      "pinyin": ["bào", "dào", "shān", "zhōng", "qù"],
+      "translation": "邻居说他进山里去了，",
+      "noteIds": ["n-baodao"]
+    },
+    {
+      "text": "归时每日斜。",
+      "pinyin": ["guī", "shí", "měi", "rì", "xié"],
+      "translation": "常常要到太阳落山才回来。",
+      "noteIds": []
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-daiguo",
+      "word": "带郭",
+      "pinyin": "dài guō",
+      "meaning": "靠近城郭。带：环绕、靠近。"
+    },
+    {
+      "id": "n-zhuohua",
+      "word": "著花",
+      "pinyin": "zhuó huā",
+      "meaning": "开花。著：长出。"
+    },
+    {
+      "id": "n-quanfei",
+      "word": "犬吠",
+      "pinyin": "quǎn fèi",
+      "meaning": "狗叫。"
+    },
+    {
+      "id": "n-xijia",
+      "word": "西家",
+      "pinyin": "xī jiā",
+      "meaning": "西边的邻居。"
+    },
+    {
+      "id": "n-baodao",
+      "word": "报道",
+      "pinyin": "bào dào",
+      "meaning": "回答说。"
+    }
+  ],
+  "translation": "陆羽虽然刚搬了家，但住得离城不远，一条小路穿过桑树和麻田，通向他的住处。篱笆边新种的菊花，到了秋天还没有开花。我敲门没有人应，连狗叫都没有，正想离开，就去问西边的邻居。邻居说他进山里去了，常常要到太阳落山才回来。",
+  "appreciation": "这首诗找的是朋友，写的却全是一座安静的小院：野径、桑麻、篱边没开花的菊花，还有一条不出声的狗。人不在家，可院子里的每一处都像在替主人说话——这里住着一个爱清静、爱种花的高人。最后一句“归时每日斜”，说朋友每天玩到太阳下山才回来，把他无拘无束的样子写得活灵活现。",
+  "background": "陆羽字鸿渐，是写出《茶经》的“茶圣”，也是皎然几十年的好朋友。陆羽后来搬到城外隐居，种桑种菊。这一天皎然沿着小路去找他，敲了门却没人答应，问过邻居才知道他进山了。诗人把这次“扑空”写成了这首有名的诗。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "沿路寻友",
+      "text": "陆羽刚搬了新家，诗人沿着穿过桑麻田的小路去找他。"
+    },
+    {
+      "step": 2,
+      "title": "篱边看菊",
+      "text": "走近小院，篱笆边新种的菊花到了秋天还没有开花。"
+    },
+    {
+      "step": 3,
+      "title": "敲门无人",
+      "text": "诗人敲了很久的门，没有人答应，连狗叫声都没有。"
+    },
+    {
+      "step": 4,
+      "title": "问邻得知",
+      "text": "西边邻居告诉他，主人进山去了，常常到太阳落山才回家。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "著",
+      "reading": "zhuó",
+      "reason": "“著花”是开花的意思，读 zhuó。",
+      "standard": "不要读成 zhù"
+    },
+    {
+      "char": "吠",
+      "reading": "fèi",
+      "reason": "“犬吠”是狗叫，读 fèi。"
+    },
+    {
+      "char": "斜",
+      "reading": "xié",
+      "reason": "今读 xié；在古诗押韵里旧读 xiá。"
+    }
+  ],
+  "sources": ["《全唐诗》", "《唐诗三百首》", "《杼山集》"],
+  "no": 1105,
+  "status": "published",
+  "updatedAt": "2026-11-26"
+}

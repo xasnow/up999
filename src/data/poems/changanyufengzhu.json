@@ -1,0 +1,145 @@
+{
+  "id": "tang-zhongtang-weiyingwu-changanyufengzhu",
+  "slug": "changanyufengzhu",
+  "title": "长安遇冯著",
+  "titlePinyin": "cháng ān yù féng zhù",
+  "dynasty": "tangshi",
+  "era": "zhongtang",
+  "genre": "shi",
+  "form": "五言古诗",
+  "authorId": "weiyingwu",
+  "gradeBand": "ext",
+  "tags": ["友情", "五言古诗", "春雨", "飞燕"],
+  "difficulty": 3,
+  "writtenYear": 777,
+  "writtenLabel": "约公元 777 年（韦应物 40 岁，在长安任职，遇见失意归来的老友冯著）",
+  "orderInAuthor": 1,
+  "no": 1188,
+  "famousLines": [
+    "客从东方来，衣上灞陵雨。"
+  ],
+  "lines": [
+    {
+      "text": "客从东方来，",
+      "pinyin": ["kè", "cóng", "dōng", "fāng", "lái"],
+      "translation": "客人从东方来到长安，",
+      "noteIds": []
+    },
+    {
+      "text": "衣上灞陵雨。",
+      "pinyin": ["yī", "shàng", "bà", "líng", "yǔ"],
+      "translation": "衣服上还带着灞陵的春雨。",
+      "noteIds": ["n-baling"]
+    },
+    {
+      "text": "问客何为来，",
+      "pinyin": ["wèn", "kè", "hé", "wéi", "lái"],
+      "translation": "问客人是为了什么而来，",
+      "noteIds": []
+    },
+    {
+      "text": "采山因买斧。",
+      "pinyin": ["cǎi", "shān", "yīn", "mǎi", "fǔ"],
+      "translation": "他说想进山砍柴谋生，所以要买一把斧头。",
+      "noteIds": ["n-caishan"]
+    },
+    {
+      "text": "冥冥花正开，",
+      "pinyin": ["míng", "míng", "huā", "zhèng", "kāi"],
+      "translation": "眼前花开得正好，",
+      "noteIds": []
+    },
+    {
+      "text": "飏飏燕新乳。",
+      "pinyin": ["yáng", "yáng", "yàn", "xīn", "rǔ"],
+      "translation": "燕子轻快地飞来飞去，正哺育着刚出生的雏燕。",
+      "noteIds": ["n-xinru"]
+    },
+    {
+      "text": "昨别今已春，",
+      "pinyin": ["zuó", "bié", "jīn", "yǐ", "chūn"],
+      "translation": "去年一别，转眼又到春天，",
+      "noteIds": []
+    },
+    {
+      "text": "鬓丝生几缕。",
+      "pinyin": ["bìn", "sī", "shēng", "jǐ", "lǚ"],
+      "translation": "你的鬓角又添了几缕白丝。",
+      "noteIds": ["n-lü"]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-baling",
+      "word": "灞陵",
+      "pinyin": "bà líng",
+      "meaning": "地名，在长安东面的灞水边。"
+    },
+    {
+      "id": "n-caishan",
+      "word": "采山",
+      "pinyin": "cǎi shān",
+      "meaning": "到山里砍伐树木、谋生计。"
+    },
+    {
+      "id": "n-xinru",
+      "word": "新乳",
+      "pinyin": "xīn rǔ",
+      "meaning": "指燕子刚孵出雏燕，正在哺育。"
+    },
+    {
+      "id": "n-lü",
+      "word": "缕",
+      "pinyin": "lǚ",
+      "meaning": "一丝一丝，形容少量。"
+    }
+  ],
+  "translation": "客人从东方来到长安，衣服上还带着灞陵的春雨。问客人是为了什么而来，他说想进山砍柴谋生，所以要买一把斧头。眼前花开得正好，燕子轻快地飞来飞去，正哺育着刚出生的雏燕。去年一别，转眼又到春天，你的鬓角又添了几缕白丝。",
+  "appreciation": "朋友失意，安慰的话最难说。韦应物不讲大道理，先用轻松的一问一答开场，再借春天作比：花开正好，燕子刚哺育雏燕，生活处处有生机，劝老友不要灰心。全诗语气温和又带点幽默，把同情藏在玩笑里，读来亲切自然，是安慰朋友的高明写法。",
+  "background": "冯著有才有德却仕途失意，离京赴广州谋事，辗转多年没有结果，约在大历十二年（777）再到长安。韦应物遇见这位衣带灞陵春雨的旧友，便以轻松诙谐的口吻写诗相赠，安慰这位失意的朋友。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "东方来客",
+      "text": "客人从东方来到长安，衣上还带着灞陵的春雨。"
+    },
+    {
+      "step": 2,
+      "title": "买斧采山",
+      "text": "问他来做什么，他说想进山砍柴谋生，买了把斧头。"
+    },
+    {
+      "step": 3,
+      "title": "花开燕乳",
+      "text": "此时花开正好，燕子飞来飞去哺育雏燕，春意正浓。"
+    },
+    {
+      "step": 4,
+      "title": "鬓生几缕",
+      "text": "去年一别又到春天，你的鬓角又添了几缕白发。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "著",
+      "reading": "zhù",
+      "reason": "人名用字，冯著的“著”读 zhù。",
+      "standard": "不要读成 zhe"
+    },
+    {
+      "char": "飏",
+      "reading": "yáng",
+      "reason": "“飏飏”形容燕子飞得轻快，读 yáng。",
+      "standard": "生僻字，注意读音"
+    },
+    {
+      "char": "灞",
+      "reading": "bà",
+      "reason": "“灞陵”是长安附近的地名，“灞”指灞水，读 bà。",
+      "standard": "生僻字，注意读音"
+    }
+  ],
+  "sources": ["《全唐诗》", "《唐诗三百首》"],
+  "status": "published",
+  "updatedAt": "2026-11-26"
+}

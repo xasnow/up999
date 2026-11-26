@@ -1,0 +1,246 @@
+{
+  "id": "tang-zhongtang-baijuyi-wangyueyougan",
+  "slug": "wangyueyougan",
+  "title": "望月有感",
+  "titlePinyin": "wàng yuè yǒu gǎn",
+  "dynasty": "tangshi",
+  "era": "zhongtang",
+  "genre": "shi",
+  "form": "七言律诗",
+  "authorId": "baijuyi",
+  "gradeBand": "ext",
+  "tags": [
+    "思乡",
+    "七言律诗",
+    "月亮",
+    "秋天"
+  ],
+  "difficulty": 3,
+  "writtenYear": 799,
+  "writtenLabel": "公元 799 年（白居易 27 岁，河南战乱，兄弟流散各地，望月寄怀）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "共看明月应垂泪，一夜乡心五处同。"
+  ],
+  "lines": [
+    {
+      "text": "时难年荒世业空，",
+      "pinyin": [
+        "shí",
+        "nàn",
+        "nián",
+        "huāng",
+        "shì",
+        "yè",
+        "kōng"
+      ],
+      "translation": "时世艰难，年成荒歉，祖传的家业已经荡然一空，",
+      "noteIds": [
+        "n-shiye"
+      ]
+    },
+    {
+      "text": "弟兄羁旅各西东。",
+      "pinyin": [
+        "dì",
+        "xiōng",
+        "jī",
+        "lǚ",
+        "gè",
+        "xī",
+        "dōng"
+      ],
+      "translation": "弟兄们漂泊在外，各奔西东。",
+      "noteIds": [
+        "n-jilv"
+      ]
+    },
+    {
+      "text": "田园寥落干戈后，",
+      "pinyin": [
+        "tián",
+        "yuán",
+        "liáo",
+        "luò",
+        "gān",
+        "gē",
+        "hòu"
+      ],
+      "translation": "战乱之后，田园冷落荒芜，",
+      "noteIds": [
+        "n-liaoluo",
+        "n-gange"
+      ]
+    },
+    {
+      "text": "骨肉流离道路中。",
+      "pinyin": [
+        "gǔ",
+        "ròu",
+        "liú",
+        "lí",
+        "dào",
+        "lù",
+        "zhōng"
+      ],
+      "translation": "骨肉至亲在逃难的路上流离失散。",
+      "noteIds": []
+    },
+    {
+      "text": "吊影分为千里雁，",
+      "pinyin": [
+        "diào",
+        "yǐng",
+        "fēn",
+        "wéi",
+        "qiān",
+        "lǐ",
+        "yàn"
+      ],
+      "translation": "孤身只影，像离群的千里孤雁，",
+      "noteIds": [
+        "n-diying"
+      ]
+    },
+    {
+      "text": "辞根散作九秋蓬。",
+      "pinyin": [
+        "cí",
+        "gēn",
+        "sàn",
+        "zuò",
+        "jiǔ",
+        "qiū",
+        "péng"
+      ],
+      "translation": "辞别故土，像深秋断根的飞蓬四处飘散。",
+      "noteIds": [
+        "n-jiuqiupeng"
+      ]
+    },
+    {
+      "text": "共看明月应垂泪，",
+      "pinyin": [
+        "gòng",
+        "kàn",
+        "míng",
+        "yuè",
+        "yīng",
+        "chuí",
+        "lèi"
+      ],
+      "translation": "今夜大家同看这轮明月，应该都会伤心落泪吧，",
+      "noteIds": []
+    },
+    {
+      "text": "一夜乡心五处同。",
+      "pinyin": [
+        "yī",
+        "yè",
+        "xiāng",
+        "xīn",
+        "wǔ",
+        "chù",
+        "tóng"
+      ],
+      "translation": "同一个夜晚，思乡的心在五个地方一样沉重。",
+      "noteIds": [
+        "n-xiangxin"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-shiye",
+      "word": "世业",
+      "pinyin": "shì yè",
+      "meaning": "祖祖辈辈传下来的家业。"
+    },
+    {
+      "id": "n-jilv",
+      "word": "羁旅",
+      "pinyin": "jī lǚ",
+      "meaning": "寄居漂泊在他乡。"
+    },
+    {
+      "id": "n-liaoluo",
+      "word": "寥落",
+      "pinyin": "liáo luò",
+      "meaning": "冷落、荒芜。"
+    },
+    {
+      "id": "n-gange",
+      "word": "干戈",
+      "pinyin": "gān gē",
+      "meaning": "干和戈都是兵器，用来代指战争。"
+    },
+    {
+      "id": "n-diying",
+      "word": "吊影",
+      "pinyin": "diào yǐng",
+      "meaning": "对着自己的身影伤心，形容孤单。"
+    },
+    {
+      "id": "n-jiuqiupeng",
+      "word": "九秋蓬",
+      "pinyin": "jiǔ qiū péng",
+      "meaning": "深秋里随风飘转的蓬草。九秋指整个秋天。"
+    },
+    {
+      "id": "n-xiangxin",
+      "word": "乡心",
+      "pinyin": "xiāng xīn",
+      "meaning": "思念家乡的心情。"
+    }
+  ],
+  "translation": "时世艰难，年成荒歉，祖传的家业已经荡然一空，弟兄们漂泊在外，各奔西东。战乱之后，田园冷落荒芜，骨肉至亲在逃难的路上流离失散。孤身只影，像离群的千里孤雁；辞别故土，像深秋断根的飞蓬四处飘散。今夜大家同看这轮明月，应该都会伤心落泪吧——同一个夜晚，思乡的心在五个地方一样沉重。",
+  "appreciation": "全诗紧扣一个“散”字：战乱饥荒过后，家业空了，兄弟四散，田园荒芜，骨肉流离。颈联的两个比喻最动人——兄弟像失群的孤雁，只能对着自己的影子；又像断了根的蓬草，在深秋的风里乱转。结尾由实入虚：既然五地同看一轮明月，那就让思乡的心在月光里相聚吧。“一夜乡心五处同”，把离散的苦化作月光中的相连，感人至深。",
+  "background": "公元 799 年，河南一带发生战乱，关内又闹饥荒。白居易的兄弟们为逃难各奔一方：大哥在浮梁，七兄在於潜，十五兄在乌江，还有弟妹留在符离和下邽。这年秋天，诗人望月思念亲人，写诗寄给各位兄弟。诗的原题很长，后人简称为《望月有感》。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "时难年荒",
+      "text": "战乱又逢荒年，家业已空，兄弟各奔东西。"
+    },
+    {
+      "step": 2,
+      "title": "田园寥落",
+      "text": "战争过后田园荒芜，骨肉在逃难路上流散。"
+    },
+    {
+      "step": 3,
+      "title": "雁蓬自伤",
+      "text": "像离群的孤雁、断根的秋蓬，各自飘零。"
+    },
+    {
+      "step": 4,
+      "title": "望月同心",
+      "text": "五地亲人共看明月，一夜乡心紧紧相连。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "难",
+      "reading": "nàn",
+      "reason": "“时难”指时世多灾多难，“难”读 nàn。",
+      "standard": "不读 nán"
+    },
+    {
+      "char": "吊",
+      "reading": "diào",
+      "reason": "“吊影”指只有影子相伴、顾影自怜，“吊”读 diào。"
+    },
+    {
+      "char": "羁",
+      "reading": "jī",
+      "reason": "“羁旅”是漂泊寄居的意思，“羁”读 jī。"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1126
+}

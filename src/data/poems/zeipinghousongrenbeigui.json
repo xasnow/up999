@@ -1,0 +1,233 @@
+{
+  "id": "tang-zhongtang-sikongshu-zeipinghousongrenbeigui",
+  "slug": "zeipinghousongrenbeigui",
+  "title": "贼平后送人北归",
+  "titlePinyin": "zéi píng hòu sòng rén běi guī",
+  "dynasty": "tangshi",
+  "era": "zhongtang",
+  "genre": "shi",
+  "form": "五言律诗",
+  "authorId": "sikongshu",
+  "gradeBand": "ext",
+  "tags": [
+    "送别",
+    "五言律诗",
+    "晓月",
+    "衰草"
+  ],
+  "difficulty": 3,
+  "writtenYear": 763,
+  "writtenLabel": "公元 763 年前后（安史之乱平定，司空曙送友人北归故乡）",
+  "orderInAuthor": 1,
+  "no": 1056,
+  "famousLines": [
+    "他乡生白发，旧国见青山。"
+  ],
+  "lines": [
+    {
+      "text": "世乱同南去，",
+      "pinyin": [
+        "shì",
+        "luàn",
+        "tóng",
+        "nán",
+        "qù"
+      ],
+      "translation": "战乱的年代，我们一同逃到南方，",
+      "noteIds": [
+        "n-shiluan"
+      ]
+    },
+    {
+      "text": "时清独北还。",
+      "pinyin": [
+        "shí",
+        "qīng",
+        "dú",
+        "běi",
+        "huán"
+      ],
+      "translation": "如今时局安定，你却要独自北还。",
+      "noteIds": [
+        "n-shiqing",
+        "n-huan"
+      ]
+    },
+    {
+      "text": "他乡生白发，",
+      "pinyin": [
+        "tā",
+        "xiāng",
+        "shēng",
+        "bái",
+        "fà"
+      ],
+      "translation": "在他乡熬出了满头白发，",
+      "noteIds": [
+        "n-baifa"
+      ]
+    },
+    {
+      "text": "旧国见青山。",
+      "pinyin": [
+        "jiù",
+        "guó",
+        "jiàn",
+        "qīng",
+        "shān"
+      ],
+      "translation": "回到故乡，将要见到旧日的青山。",
+      "noteIds": [
+        "n-jiuguo"
+      ]
+    },
+    {
+      "text": "晓月过残垒，",
+      "pinyin": [
+        "xiǎo",
+        "yuè",
+        "guò",
+        "cán",
+        "lěi"
+      ],
+      "translation": "你将踏着晓月经过残破的营垒，",
+      "noteIds": [
+        "n-canlei"
+      ]
+    },
+    {
+      "text": "繁星宿故关。",
+      "pinyin": [
+        "fán",
+        "xīng",
+        "sù",
+        "gù",
+        "guān"
+      ],
+      "translation": "在繁星之下露宿在旧日的关前。",
+      "noteIds": [
+        "n-guguan"
+      ]
+    },
+    {
+      "text": "寒禽与衰草，",
+      "pinyin": [
+        "hán",
+        "qín",
+        "yǔ",
+        "shuāi",
+        "cǎo"
+      ],
+      "translation": "往后一路上，寒天的飞鸟和衰败的野草，",
+      "noteIds": [
+        "n-hanqin"
+      ]
+    },
+    {
+      "text": "处处伴愁颜。",
+      "pinyin": [
+        "chù",
+        "chù",
+        "bàn",
+        "chóu",
+        "yán"
+      ],
+      "translation": "处处伴着你忧愁的面容。"
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-shiluan",
+      "word": "世乱",
+      "pinyin": "shì luàn",
+      "meaning": "战乱的年代，指安史之乱。"
+    },
+    {
+      "id": "n-shiqing",
+      "word": "时清",
+      "pinyin": "shí qīng",
+      "meaning": "时局安定、战乱平息。"
+    },
+    {
+      "id": "n-huan",
+      "word": "还",
+      "pinyin": "huán",
+      "meaning": "返回。"
+    },
+    {
+      "id": "n-baifa",
+      "word": "白发",
+      "pinyin": "bái fà",
+      "meaning": "白头发，形容漂泊岁月之久。"
+    },
+    {
+      "id": "n-jiuguo",
+      "word": "旧国",
+      "pinyin": "jiù guó",
+      "meaning": "故乡。"
+    },
+    {
+      "id": "n-canlei",
+      "word": "残垒",
+      "pinyin": "cán lěi",
+      "meaning": "战乱后残破的营垒。"
+    },
+    {
+      "id": "n-guguan",
+      "word": "故关",
+      "pinyin": "gù guān",
+      "meaning": "旧日的关隘。"
+    },
+    {
+      "id": "n-hanqin",
+      "word": "寒禽",
+      "pinyin": "hán qín",
+      "meaning": "寒天里的鸟儿。"
+    }
+  ],
+  "translation": "战乱的年代，我们一同逃到南方；如今时局安定，你却要独自北还。在他乡熬出了满头白发，回到故乡，将要见到旧日的青山。你将踏着晓月经过残破的营垒，在繁星之下露宿在旧日的关前。往后一路上，寒天的飞鸟和衰败的野草，处处伴着你忧愁的面容。",
+  "appreciation": "战乱时两人一同南逃，如今太平了，朋友却要独自北归。诗人替朋友高兴，也替自己难过：他乡岁月把人熬出了白发，故乡的青山还在，人却回不去。他想象朋友披晓月、宿繁星，走过残破的营垒和旧日的关隘，一路向北。结尾叮嘱：往后寒禽衰草处处相伴，愿你早日回家。送别之中满是乱世后重逢与离散的感慨。",
+  "background": "安史之乱时，司空曙与友人一起南逃避难。战乱平定后，友人决定北归故乡，司空曙为他送行，想到路上还要经过战后的残垒故关，一路辛苦，写下这首诗为他壮行。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "乱世同南",
+      "text": "当年战乱四起，我们结伴逃到南方，一路漂泊避难。"
+    },
+    {
+      "step": 2,
+      "title": "时清独还",
+      "text": "如今战乱平定，朋友终于可以独自北归故乡了。"
+    },
+    {
+      "step": 3,
+      "title": "晓月残垒",
+      "text": "他将披着晓月走过残垒，顶着繁星在旧关隘过夜。"
+    },
+    {
+      "step": 4,
+      "title": "禽草伴愁",
+      "text": "朋友走后，寒禽衰草处处相伴，愿他早日平安到家。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "还",
+      "reading": "huán",
+      "reason": "“北还”是返回北方，读 huán。",
+      "standard": "不要读成 hái"
+    },
+    {
+      "char": "宿",
+      "reading": "sù",
+      "reason": "“宿故关”是在关隘过夜，读 sù。",
+      "standard": "不要读成 xiǔ"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26"
+}

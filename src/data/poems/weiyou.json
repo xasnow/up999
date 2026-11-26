@@ -1,0 +1,128 @@
+{
+  "id": "tang-wantang-lishangyin-weiyou",
+  "slug": "weiyou",
+  "title": "为有",
+  "titlePinyin": "wèi yǒu",
+  "dynasty": "tangshi",
+  "era": "wantang",
+  "genre": "shi",
+  "form": "七言绝句",
+  "authorId": "lishangyin",
+  "gradeBand": "ext",
+  "tags": [
+    "思念",
+    "七言绝句",
+    "春宵",
+    "屏风"
+  ],
+  "difficulty": 3,
+  "writtenYear": 853,
+  "writtenLabel": "作年不详，约公元 853 年（大中年间幕府时期所作的闺怨诗）",
+  "orderInAuthor": 1,
+  "no": 1021,
+  "famousLines": [
+    "无端嫁得金龟婿，辜负香衾事早朝。"
+  ],
+  "lines": [
+    {
+      "text": "为有云屏无限娇，",
+      "pinyin": ["wèi", "yǒu", "yún", "píng", "wú", "xiàn", "jiāo"],
+      "translation": "因为家有云母屏风，少妇无比娇美，",
+      "noteIds": ["n-yunping"]
+    },
+    {
+      "text": "凤城寒尽怕春宵。",
+      "pinyin": ["fèng", "chéng", "hán", "jìn", "pà", "chūn", "xiāo"],
+      "translation": "长安城中寒意刚尽，她却害怕起春夜来。",
+      "noteIds": ["n-fengcheng"]
+    },
+    {
+      "text": "无端嫁得金龟婿，",
+      "pinyin": ["wú", "duān", "jià", "dé", "jīn", "guī", "xù"],
+      "translation": "没来由嫁了个佩金龟袋的高官夫婿，",
+      "noteIds": ["n-wuduan", "n-jingui"]
+    },
+    {
+      "text": "辜负香衾事早朝。",
+      "pinyin": ["gū", "fù", "xiāng", "qīn", "shì", "zǎo", "cháo"],
+      "translation": "天天抛下香暖的被褥，赶去宫中上早朝。",
+      "noteIds": ["n-xiangqin"]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-yunping",
+      "word": "云屏",
+      "pinyin": "yún píng",
+      "meaning": "用云母石装饰的屏风，指富贵人家的陈设。"
+    },
+    {
+      "id": "n-fengcheng",
+      "word": "凤城",
+      "pinyin": "fèng chéng",
+      "meaning": "长安城的别称。"
+    },
+    {
+      "id": "n-wuduan",
+      "word": "无端",
+      "pinyin": "wú duān",
+      "meaning": "没来由，无缘无故，带着说不清的怨意。"
+    },
+    {
+      "id": "n-jingui",
+      "word": "金龟婿",
+      "pinyin": "jīn guī xù",
+      "meaning": "佩有金龟袋符信的高官夫婿，代指身份显贵的丈夫。"
+    },
+    {
+      "id": "n-xiangqin",
+      "word": "香衾",
+      "pinyin": "xiāng qīn",
+      "meaning": "香暖的被褥。"
+    }
+  ],
+  "translation": "因为家有云母屏风，少妇无比娇美；长安城中寒意刚尽，她却害怕起春夜来。没来由嫁了个佩金龟袋的高官夫婿，天天抛下香暖的被褥，赶去宫中上早朝。",
+  "appreciation": "富家少妇明明锦衣玉食，却偏偏害怕春宵——因为天还没亮，做高官的丈夫就得赶去上早朝。诗人替她说出“无端嫁得”四个字，没来由嫁了个金龟婿，反倒辜负了香暖的被褥。富贵和恩爱原来不能两全，一句小小的娇怨，把闺中人又得意又委屈的心思写得活灵活现，也留下“金龟婿”这个流传到今天的词。",
+  "background": "这是李商隐代闺中人立言的怨情诗。丈夫官居显位，天未亮就要上朝，留少妇独守空房。诗人以细腻的笔触写出了富贵家庭中的另一面：荣华背后，也有普通人一样的离愁。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "云屏娇居",
+      "text": "云母屏风后的少妇，娇美而富贵。"
+    },
+    {
+      "step": 2,
+      "title": "寒尽春宵",
+      "text": "长安的冬天过去了，她却害怕起春夜。"
+    },
+    {
+      "step": 3,
+      "title": "金龟夫婿",
+      "text": "没来由嫁了位佩金龟袋的高官丈夫。"
+    },
+    {
+      "step": 4,
+      "title": "独守香衾",
+      "text": "他天不亮就赶去早朝，留下她空对被褥。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "衾",
+      "reading": "qīn",
+      "reason": "“香衾”指被子，读 qīn。"
+    },
+    {
+      "char": "朝",
+      "reading": "cháo",
+      "reason": "“早朝”指臣子早晨进宫拜见皇帝，读 cháo。",
+      "standard": "不要读成 zhāo"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26"
+}

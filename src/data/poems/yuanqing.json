@@ -1,0 +1,82 @@
+{
+  "id": "tang-shengtang-libai-yuanqing",
+  "slug": "yuanqing",
+  "title": "怨情",
+  "titlePinyin": "yuàn qíng",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "五言绝句",
+  "authorId": "libai",
+  "gradeBand": "ext",
+  "difficulty": 3,
+  "tags": ["思念", "五言绝句", "珠帘", "泪痕"],
+  "writtenYear": 730,
+  "writtenLabel": "约公元 730 年（李白 30 岁前后，创作年份未有定论）",
+  "orderInAuthor": 9,
+  "famousLines": [
+    "但见泪痕湿，不知心恨谁。"
+  ],
+  "lines": [
+    {
+      "text": "美人卷珠帘，",
+      "pinyin": ["měi", "rén", "juǎn", "zhū", "lián"],
+      "translation": "美人卷起珠帘，",
+      "noteIds": []
+    },
+    {
+      "text": "深坐颦蛾眉。",
+      "pinyin": ["shēn", "zuò", "pín", "é", "méi"],
+      "translation": "独自久坐，紧锁着弯弯的眉毛。",
+      "noteIds": ["n-shenzuo", "n-pin"]
+    },
+    {
+      "text": "但见泪痕湿，",
+      "pinyin": ["dàn", "jiàn", "lèi", "hén", "shī"],
+      "translation": "只见她脸上泪痕未干，",
+      "noteIds": []
+    },
+    {
+      "text": "不知心恨谁。",
+      "pinyin": ["bù", "zhī", "xīn", "hèn", "shuí"],
+      "translation": "不知道她心里在埋怨谁。",
+      "noteIds": ["n-hen"]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-shenzuo",
+      "word": "深坐",
+      "pinyin": "shēn zuò",
+      "meaning": "久久地呆坐着。"
+    },
+    {
+      "id": "n-pin",
+      "word": "颦",
+      "pinyin": "pín",
+      "meaning": "皱眉。"
+    },
+    {
+      "id": "n-hen",
+      "word": "恨",
+      "pinyin": "hèn",
+      "meaning": "埋怨、嗔怪，不是仇恨。"
+    }
+  ],
+  "translation": "美人卷起珠帘，独自久坐，紧锁着弯弯的眉毛。只见她脸上泪痕未干，不知道她心里在埋怨谁。",
+  "appreciation": "四句诗像一组无声的镜头：卷帘、久坐、蹙眉、垂泪。诗人一句也不问缘由，也不替她说明，只把“不知心恨谁”留给读者去猜。那个“恨”字其实是怨，是盼人不来的委屈。短短二十个字，把闺中人从等待到失望的过程写得含而不露，余味很长。",
+  "background": "这首诗写的是闺中女子盼望情人的神情。李白善写乐府旧题，也常借女子的口吻写相思。此诗创作年份已不可考，一般认为是李白三十岁前后所作，与《玉阶怨》一样，都是含蓄深婉的小诗。",
+  "storyline": [
+    { "step": 1, "title": "卷帘望远", "text": "美人卷起珠帘，朝着心上人离去的方向张望。" },
+    { "step": 2, "title": "久坐蹙眉", "text": "等了许久没有人来，她呆坐着，眉毛越皱越紧。" },
+    { "step": 3, "title": "泪痕满面", "text": "不知不觉，眼泪已经打湿了她的脸颊。" },
+    { "step": 4, "title": "心怨何人", "text": "她在心里埋怨的那个人，究竟知不知道呢？" }
+  ],
+  "pinyinNotes": [
+    { "char": "颦", "reading": "pín", "reason": "“颦”就是皱眉，“颦蛾眉”是皱着秀眉。", "standard": "不要写成“频”" }
+  ],
+  "sources": ["《全唐诗》", "《唐诗三百首》", "《李太白集》"],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1003
+}

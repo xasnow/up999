@@ -1,0 +1,140 @@
+{
+  "id": "tang-chutang-dushenyan-zaochunyouwang",
+  "slug": "zaochunyouwang",
+  "title": "和晋陵陆丞早春游望",
+  "titlePinyin": "hé jìn líng lù chéng zǎo chūn yóu wàng",
+  "dynasty": "tangshi",
+  "era": "chutang",
+  "genre": "shi",
+  "form": "五言律诗",
+  "authorId": "dushenyan",
+  "gradeBand": "ext",
+  "tags": ["思乡", "五言律诗", "早春", "梅柳"],
+  "difficulty": 3,
+  "writtenYear": 689,
+  "writtenLabel": "约公元 689 年（杜审言 44 岁左右，任江阴县丞，和晋陵陆丞早春游望之作）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "云霞出海曙，梅柳渡江春。"
+  ],
+  "lines": [
+    {
+      "text": "独有宦游人，",
+      "pinyin": ["dú", "yǒu", "huàn", "yóu", "rén"],
+      "translation": "只有常年在外做官的人，",
+      "noteIds": ["n-huanyou"]
+    },
+    {
+      "text": "偏惊物候新。",
+      "pinyin": ["piān", "jīng", "wù", "hòu", "xīn"],
+      "translation": "才会特别惊叹江南春天的物候来得又早又新。",
+      "noteIds": ["n-wuhou"]
+    },
+    {
+      "text": "云霞出海曙，",
+      "pinyin": ["yún", "xiá", "chū", "hǎi", "shǔ"],
+      "translation": "太阳从海上出来时，云霞映出曙光，",
+      "noteIds": []
+    },
+    {
+      "text": "梅柳渡江春。",
+      "pinyin": ["méi", "liǔ", "dù", "jiāng", "chūn"],
+      "translation": "梅花开、柳枝绿，春天好像渡过了长江。",
+      "noteIds": []
+    },
+    {
+      "text": "淑气催黄鸟，",
+      "pinyin": ["shū", "qì", "cuī", "huáng", "niǎo"],
+      "translation": "温暖的春气催得黄莺歌唱，",
+      "noteIds": ["n-shuqi", "n-huangniao"]
+    },
+    {
+      "text": "晴光转绿蘋。",
+      "pinyin": ["qíng", "guāng", "zhuǎn", "lǜ", "pín"],
+      "translation": "晴光映得水中浮萍转绿。",
+      "noteIds": ["n-lvpin"]
+    },
+    {
+      "text": "忽闻歌古调，",
+      "pinyin": ["hū", "wén", "gē", "gǔ", "diào"],
+      "translation": "忽然听到你吟出格调古雅的诗，",
+      "noteIds": ["n-gudiao"]
+    },
+    {
+      "text": "归思欲沾巾。",
+      "pinyin": ["guī", "sī", "yù", "zhān", "jīn"],
+      "translation": "勾起我的乡愁，泪水快要沾湿手巾了。",
+      "noteIds": ["n-guisi"]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-huanyou",
+      "word": "宦游",
+      "pinyin": "huàn yóu",
+      "meaning": "离开家乡在外地做官。"
+    },
+    {
+      "id": "n-wuhou",
+      "word": "物候",
+      "pinyin": "wù hòu",
+      "meaning": "随季节变化出现的自然景象。"
+    },
+    {
+      "id": "n-shuqi",
+      "word": "淑气",
+      "pinyin": "shū qì",
+      "meaning": "温暖和煦的春天气息。"
+    },
+    {
+      "id": "n-huangniao",
+      "word": "黄鸟",
+      "pinyin": "huáng niǎo",
+      "meaning": "黄莺。"
+    },
+    {
+      "id": "n-lvpin",
+      "word": "绿蘋",
+      "pinyin": "lǜ pín",
+      "meaning": "水中的浮萍。"
+    },
+    {
+      "id": "n-gudiao",
+      "word": "古调",
+      "pinyin": "gǔ diào",
+      "meaning": "格调古雅的诗，指陆丞的原作。"
+    },
+    {
+      "id": "n-guisi",
+      "word": "归思",
+      "pinyin": "guī sī",
+      "meaning": "想回家的念头。"
+    }
+  ],
+  "translation": "只有常年在外做官的人，才会特别惊叹江南春天的物候来得又早又新。太阳从海上出来时，云霞映出曙光；梅花开、柳枝绿，春天好像渡过了长江。温暖的春气催得黄莺歌唱，晴光映得水中浮萍转绿。忽然听到你吟出格调古雅的诗，勾起我的乡愁，泪水快要沾湿手巾了。",
+  "appreciation": "这首诗妙在“偏惊”二字：本地人对春色习以为常，只有漂泊在外的人才会被早春的新物候惊动。“云霞出海曙，梅柳渡江春”把江南春天写得又快又有活力。前面的春色越美，结尾的乡愁越重，一乐一悲，读来格外动人。",
+  "background": "杜审言当时在江南做小官，与相邻的晋陵县丞陆某有交往。陆丞写了《早春游望》的诗，杜审言便和了这一首。约公元689年，他仕途失意，久客异乡，所以诗中充满思归之情。",
+  "storyline": [
+    { "step": 1, "title": "客中惊春", "text": "在外做官的人，最容易惊觉江南早春的新意。" },
+    { "step": 2, "title": "江南春晓", "text": "云霞映着海上曙光，梅柳把春色带过长江。" },
+    { "step": 3, "title": "莺啼萍绿", "text": "暖意催得黄莺歌唱，晴光映绿了水中浮萍。" },
+    { "step": 4, "title": "闻歌思乡", "text": "听到陆丞格调古雅的诗句，乡愁泪水沾巾。" }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "蘋",
+      "reading": "pín",
+      "reason": "“绿蘋”指水中的浮萍，“蘋”同“苹”，读 pín。"
+    },
+    {
+      "char": "淑",
+      "reading": "shū",
+      "reason": "“淑气”指温暖的春气，读 shū。",
+      "standard": "不要读成 shú"
+    }
+  ],
+  "sources": ["《全唐诗》", "《唐诗三百首》"],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1081
+}

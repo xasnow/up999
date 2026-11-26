@@ -1,0 +1,162 @@
+{
+  "id": "tang-shengtang-wangchangling-guiyuan",
+  "slug": "guiyuan",
+  "title": "闺怨",
+  "titlePinyin": "guī yuàn",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "七言绝句",
+  "authorId": "wangchangling",
+  "gradeBand": "ext",
+  "tags": [
+    "思念",
+    "七言绝句",
+    "杨柳",
+    "春天"
+  ],
+  "difficulty": 3,
+  "writtenYear": 727,
+  "writtenLabel": "约公元 727 年（王昌龄 29 岁，进士及第前后，见闻闺中别离）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "忽见陌头杨柳色，悔教夫婿觅封侯。"
+  ],
+  "lines": [
+    {
+      "text": "闺中少妇不知愁，",
+      "pinyin": [
+        "guī",
+        "zhōng",
+        "shào",
+        "fù",
+        "bù",
+        "zhī",
+        "chóu"
+      ],
+      "translation": "闺中的少妇从来没有尝过忧愁的滋味，",
+      "noteIds": []
+    },
+    {
+      "text": "春日凝妆上翠楼。",
+      "pinyin": [
+        "chūn",
+        "rì",
+        "níng",
+        "zhuāng",
+        "shàng",
+        "cuì",
+        "lóu"
+      ],
+      "translation": "春天里，她认真打扮了一番，登上华丽的翠楼。",
+      "noteIds": [
+        "n-ningzhuang",
+        "n-cuilou"
+      ]
+    },
+    {
+      "text": "忽见陌头杨柳色，",
+      "pinyin": [
+        "hū",
+        "jiàn",
+        "mò",
+        "tóu",
+        "yáng",
+        "liǔ",
+        "sè"
+      ],
+      "translation": "忽然看见路边杨柳青青的颜色，",
+      "noteIds": [
+        "n-motou"
+      ]
+    },
+    {
+      "text": "悔教夫婿觅封侯。",
+      "pinyin": [
+        "huǐ",
+        "jiāo",
+        "fū",
+        "xù",
+        "mì",
+        "fēng",
+        "hóu"
+      ],
+      "translation": "心里一酸，后悔当初不该让丈夫从军远行去求取封侯。",
+      "noteIds": [
+        "n-fenghou"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-ningzhuang",
+      "word": "凝妆",
+      "pinyin": "níng zhuāng",
+      "meaning": "认真地打扮，盛装。"
+    },
+    {
+      "id": "n-cuilou",
+      "word": "翠楼",
+      "pinyin": "cuì lóu",
+      "meaning": "涂饰华美的高楼，指少妇居住的楼。"
+    },
+    {
+      "id": "n-motou",
+      "word": "陌头",
+      "pinyin": "mò tóu",
+      "meaning": "路边，大路上。"
+    },
+    {
+      "id": "n-fenghou",
+      "word": "觅封侯",
+      "pinyin": "mì fēng hóu",
+      "meaning": "指从军远行，去争取封侯的功名。"
+    }
+  ],
+  "translation": "闺中的少妇从来不知道忧愁是什么。春天里，她认真打扮了一番，登上华丽的翠楼。忽然看见路边杨柳青青的颜色，心里一酸，后悔当初不该让丈夫从军远行去求取封侯。",
+  "appreciation": "这首诗最妙的是“忽见”二字。少妇本来欢欢喜喜打扮好，登楼看春色，一眼望见路边杨柳青青，忽然想起丈夫离家那年也是这样的柳色。柳条一年年绿了，人却一年年不回来。前面写得越轻松，最后那个“悔”字就越沉重。短短四句，写透了人心一转念的功夫。",
+  "background": "盛唐时许多男子去边塞从军求取功名，妻子只能独守家中。诗人早年游历各地，见过不少这样的离别。他抓住少妇春日登楼、忽见杨柳的一瞬间，写下这首诗。由“不知愁”到“悔”，把闺中人的心事写得又自然又动人。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "春日盛装",
+      "text": "春天来了，少妇认真梳妆打扮，心情很轻快。"
+    },
+    {
+      "step": 2,
+      "title": "登上翠楼",
+      "text": "她登上翠楼想看看春景，楼外春色正好。"
+    },
+    {
+      "step": 3,
+      "title": "忽见杨柳",
+      "text": "路边杨柳青青，她忽然想起了远行的丈夫。"
+    },
+    {
+      "step": 4,
+      "title": "悔念封侯",
+      "text": "她后悔让丈夫去求封侯，青春就这样错过。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "教",
+      "reading": "jiāo",
+      "reason": "“悔教”的“教”是让、使的意思，读 jiāo。",
+      "standard": "不读 jiào"
+    },
+    {
+      "char": "少",
+      "reading": "shào",
+      "reason": "“少妇”指年轻的妻子，“少”读 shào。",
+      "standard": "不读 shǎo"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1012
+}

@@ -1,0 +1,248 @@
+{
+  "id": "tang-shengtang-wangwei-zengguojishi",
+  "slug": "zengguojishi",
+  "title": "赠郭给事",
+  "titlePinyin": "zèng guō jǐ shì",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "七言律诗",
+  "authorId": "wangwei",
+  "gradeBand": "ext",
+  "tags": [
+    "友情",
+    "七言律诗",
+    "柳絮",
+    "黄昏"
+  ],
+  "difficulty": 3,
+  "writtenYear": 753,
+  "writtenLabel": "约公元 753 年（王维 52 岁，在长安任给事中，写给同僚郭给事）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "禁里疏钟官舍晚，省中啼鸟吏人稀。"
+  ],
+  "lines": [
+    {
+      "text": "洞门高阁霁余晖，",
+      "pinyin": [
+        "dòng",
+        "mén",
+        "gāo",
+        "gé",
+        "jì",
+        "yú",
+        "huī"
+      ],
+      "translation": "重重门户和高大楼阁上，雨后的余晖刚刚放晴，",
+      "noteIds": [
+        "n-ji"
+      ]
+    },
+    {
+      "text": "桃李阴阴柳絮飞。",
+      "pinyin": [
+        "táo",
+        "lǐ",
+        "yīn",
+        "yīn",
+        "liǔ",
+        "xù",
+        "fēi"
+      ],
+      "translation": "桃树李树绿荫浓密，柳絮随风飘飞。",
+      "noteIds": [
+        "n-yinyin"
+      ]
+    },
+    {
+      "text": "禁里疏钟官舍晚，",
+      "pinyin": [
+        "jìn",
+        "lǐ",
+        "shū",
+        "zhōng",
+        "guān",
+        "shè",
+        "wǎn"
+      ],
+      "translation": "皇宫里传来稀疏的钟声，官署中天色已晚，",
+      "noteIds": [
+        "n-jinli"
+      ]
+    },
+    {
+      "text": "省中啼鸟吏人稀，",
+      "pinyin": [
+        "shěng",
+        "zhōng",
+        "tí",
+        "niǎo",
+        "lì",
+        "rén",
+        "xī"
+      ],
+      "translation": "门下省里只有鸟儿啼叫，办事的官吏也很稀少。",
+      "noteIds": [
+        "n-shengzhong"
+      ]
+    },
+    {
+      "text": "晨摇玉佩趋金殿，",
+      "pinyin": [
+        "chén",
+        "yáo",
+        "yù",
+        "pèi",
+        "qū",
+        "jīn",
+        "diàn"
+      ],
+      "translation": "您清早摇着玉佩，快步走向金殿上朝，",
+      "noteIds": [
+        "n-qu"
+      ]
+    },
+    {
+      "text": "夕奉天书拜琐闱。",
+      "pinyin": [
+        "xī",
+        "fèng",
+        "tiān",
+        "shū",
+        "bài",
+        "suǒ",
+        "wéi"
+      ],
+      "translation": "傍晚又捧着皇帝的诏书，到宫门拜受。",
+      "noteIds": [
+        "n-suowei"
+      ]
+    },
+    {
+      "text": "强欲从君无那老，",
+      "pinyin": [
+        "qiáng",
+        "yù",
+        "cóng",
+        "jūn",
+        "wú",
+        "nuó",
+        "lǎo"
+      ],
+      "translation": "想要追随您一起做事，无奈年纪已老，",
+      "noteIds": [
+        "n-wuna"
+      ]
+    },
+    {
+      "text": "将因卧病解朝衣。",
+      "pinyin": [
+        "jiāng",
+        "yīn",
+        "wò",
+        "bìng",
+        "jiě",
+        "cháo",
+        "yī"
+      ],
+      "translation": "将要因为卧病在床，脱下这身上朝的官服了。",
+      "noteIds": []
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-ji",
+      "word": "霁",
+      "pinyin": "jì",
+      "meaning": "雨雪停止，天气放晴。"
+    },
+    {
+      "id": "n-yinyin",
+      "word": "阴阴",
+      "pinyin": "yīn yīn",
+      "meaning": "枝叶繁茂、树荫浓密的样子。"
+    },
+    {
+      "id": "n-jinli",
+      "word": "禁里",
+      "pinyin": "jìn lǐ",
+      "meaning": "宫中。禁是皇宫的禁地。"
+    },
+    {
+      "id": "n-shengzhong",
+      "word": "省中",
+      "pinyin": "shěng zhōng",
+      "meaning": "官署里，这里指郭给事任职的门下省。"
+    },
+    {
+      "id": "n-qu",
+      "word": "趋",
+      "pinyin": "qū",
+      "meaning": "小步快走，表示对皇帝的恭敬。"
+    },
+    {
+      "id": "n-suowei",
+      "word": "琐闱",
+      "pinyin": "suǒ wéi",
+      "meaning": "刻着连环花纹的宫门，代指宫廷。"
+    },
+    {
+      "id": "n-wuna",
+      "word": "无那",
+      "pinyin": "wú nuó",
+      "meaning": "就是无奈，没有办法。"
+    }
+  ],
+  "translation": "重重门户和高大楼阁上，雨后的余晖刚刚放晴。桃树李树绿荫浓密，柳絮随风飘飞。皇宫里传来稀疏的钟声，官署中天色已晚，门下省里只有鸟儿啼叫，办事的官吏也很稀少。您清早摇着玉佩，快步走向金殿上朝，傍晚又捧着皇帝的诏书，到宫门拜受。想要追随您一起做事，无奈年纪已老，将要因为卧病在床，脱下这身上朝的官服了。",
+  "appreciation": "这首诗是写给同僚郭给事的赠诗。前四句写宫廷清景：雨后余晖、柳絮纷飞、钟声稀疏、鸟啼人少，把清闲的官署写得又静又美。五六句写郭给事早晚勤谨、深受信任。结尾诗人却说自己年老多病，想解下朝衣归隐。夸对方、叹自己，两边都写得含蓄得体，是应酬诗中的高手之作。",
+  "background": "王维晚年任给事中，郭给事是他的同僚，深受皇帝器重。王维写这首诗相赠，一面称赞对方清贵闲雅，一面借“卧病解朝衣”透露自己倦于官场、想退隐的心思。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "雨后余晖",
+      "text": "雨停了，夕阳照在宫中的高楼和门户上。"
+    },
+    {
+      "step": 2,
+      "title": "绿柳飞絮",
+      "text": "桃李绿荫浓密，柳絮在暮春的风里飘飞。"
+    },
+    {
+      "step": 3,
+      "title": "官署清闲",
+      "text": "宫里钟声稀疏，省中鸟啼人少，一片安静。"
+    },
+    {
+      "step": 4,
+      "title": "辞官养病",
+      "text": "诗人自叹年老多病，想脱下朝衣归隐。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "霁",
+      "reading": "jì",
+      "reason": "“霁”指雨雪停止、天放晴，“霁余晖”是雨后的余晖。",
+      "standard": "不要读成 qí 或 zhāi"
+    },
+    {
+      "char": "那",
+      "reading": "nuó",
+      "reason": "“无那”就是“无奈”，这里的“那”读 nuó。",
+      "standard": "不要读成 nà"
+    },
+    {
+      "char": "禁",
+      "reading": "jìn",
+      "reason": "“禁里”指宫里，“禁”是禁地的意思，读第四声。"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1122
+}

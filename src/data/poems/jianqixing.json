@@ -1,0 +1,522 @@
+{
+  "id": "tang-shengtang-dufu-jianqixing",
+  "slug": "jianqixing",
+  "title": "观公孙大娘弟子舞剑器行",
+  "titlePinyin": "guān gōng sūn dà niáng dì zǐ wǔ jiàn qì xíng",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "七言古诗",
+  "authorId": "dufu",
+  "gradeBand": "ext",
+  "tags": [
+    "怀古",
+    "剑舞",
+    "月光",
+    "七言古诗"
+  ],
+  "difficulty": 3,
+  "writtenYear": 767,
+  "writtenLabel": "公元 767 年（杜甫 55 岁，在夔州观李十二娘舞剑器，感怀开元往事）",
+  "orderInAuthor": 12,
+  "famousLines": [
+    "来如雷霆收震怒，罢如江海凝清光。"
+  ],
+  "lines": [
+    {
+      "text": "昔有佳人公孙氏，",
+      "pinyin": [
+        "xī",
+        "yǒu",
+        "jiā",
+        "rén",
+        "gōng",
+        "sūn",
+        "shì"
+      ],
+      "translation": "从前有一位美丽的女子公孙氏，",
+      "noteIds": [
+        "n-gongsun"
+      ]
+    },
+    {
+      "text": "一舞剑器动四方。",
+      "pinyin": [
+        "yī",
+        "wǔ",
+        "jiàn",
+        "qì",
+        "dòng",
+        "sì",
+        "fāng"
+      ],
+      "translation": "她一舞起剑器，就震动四方。",
+      "noteIds": [
+        "n-jianqi"
+      ]
+    },
+    {
+      "text": "观者如山色沮丧，",
+      "pinyin": [
+        "guān",
+        "zhě",
+        "rú",
+        "shān",
+        "sè",
+        "jǔ",
+        "sàng"
+      ],
+      "translation": "观看的人多得像山一样，个个看得神色惊动，",
+      "noteIds": []
+    },
+    {
+      "text": "天地为之久低昂。",
+      "pinyin": [
+        "tiān",
+        "dì",
+        "wèi",
+        "zhī",
+        "jiǔ",
+        "dī",
+        "áng"
+      ],
+      "translation": "天地也仿佛随着她的舞姿长久地起伏。",
+      "noteIds": []
+    },
+    {
+      "text": "霍如羿射九日落，",
+      "pinyin": [
+        "huò",
+        "rú",
+        "yì",
+        "shè",
+        "jiǔ",
+        "rì",
+        "luò"
+      ],
+      "translation": "剑光闪动，快得像后羿射落九个太阳，",
+      "noteIds": [
+        "n-yi"
+      ]
+    },
+    {
+      "text": "矫如群帝骖龙翔。",
+      "pinyin": [
+        "jiǎo",
+        "rú",
+        "qún",
+        "dì",
+        "cān",
+        "lóng",
+        "xiáng"
+      ],
+      "translation": "身姿矫健，像天帝们驾着龙车飞翔。",
+      "noteIds": [
+        "n-can"
+      ]
+    },
+    {
+      "text": "来如雷霆收震怒，",
+      "pinyin": [
+        "lái",
+        "rú",
+        "léi",
+        "tíng",
+        "shōu",
+        "zhèn",
+        "nù"
+      ],
+      "translation": "舞势一起，像雷霆收住了满腔的震怒，",
+      "noteIds": []
+    },
+    {
+      "text": "罢如江海凝清光。",
+      "pinyin": [
+        "bà",
+        "rú",
+        "jiāng",
+        "hǎi",
+        "níng",
+        "qīng",
+        "guāng"
+      ],
+      "translation": "舞势一收，像江海凝聚着一片清光。",
+      "noteIds": []
+    },
+    {
+      "text": "绛唇珠袖两寂寞，",
+      "pinyin": [
+        "jiàng",
+        "chún",
+        "zhū",
+        "xiù",
+        "liǎng",
+        "jì",
+        "mò"
+      ],
+      "translation": "如今红唇和舞袖都已沉寂无人知晓，",
+      "noteIds": []
+    },
+    {
+      "text": "晚有弟子传芬芳。",
+      "pinyin": [
+        "wǎn",
+        "yǒu",
+        "dì",
+        "zǐ",
+        "chuán",
+        "fēn",
+        "fāng"
+      ],
+      "translation": "晚年幸好有弟子把这份技艺传承下来。",
+      "noteIds": []
+    },
+    {
+      "text": "临颍美人在白帝，",
+      "pinyin": [
+        "lín",
+        "yǐng",
+        "měi",
+        "rén",
+        "zài",
+        "bái",
+        "dì"
+      ],
+      "translation": "临颍来的李十二娘，如今就在白帝城献艺，",
+      "noteIds": [
+        "n-linying",
+        "n-baidi"
+      ]
+    },
+    {
+      "text": "妙舞此曲神扬扬。",
+      "pinyin": [
+        "miào",
+        "wǔ",
+        "cǐ",
+        "qǔ",
+        "shén",
+        "yáng",
+        "yáng"
+      ],
+      "translation": "她跳起这支剑器舞，神情飞扬。",
+      "noteIds": []
+    },
+    {
+      "text": "与余问答既有以，",
+      "pinyin": [
+        "yǔ",
+        "yú",
+        "wèn",
+        "dá",
+        "jì",
+        "yǒu",
+        "yǐ"
+      ],
+      "translation": "她与我一番问答，说出了师承来历，",
+      "noteIds": []
+    },
+    {
+      "text": "感时抚事增惋伤。",
+      "pinyin": [
+        "gǎn",
+        "shí",
+        "fǔ",
+        "shì",
+        "zēng",
+        "wǎn",
+        "shāng"
+      ],
+      "translation": "我感念时事、追忆往事，更添惋惜和感伤。",
+      "noteIds": []
+    },
+    {
+      "text": "先帝侍女八千人，",
+      "pinyin": [
+        "xiān",
+        "dì",
+        "shì",
+        "nǚ",
+        "bā",
+        "qiān",
+        "rén"
+      ],
+      "translation": "先帝宫中的歌舞侍女有八千人，",
+      "noteIds": []
+    },
+    {
+      "text": "公孙剑器初第一。",
+      "pinyin": [
+        "gōng",
+        "sūn",
+        "jiàn",
+        "qì",
+        "chū",
+        "dì",
+        "yī"
+      ],
+      "translation": "公孙大娘的剑器舞，本数第一。",
+      "noteIds": []
+    },
+    {
+      "text": "五十年间似反掌，",
+      "pinyin": [
+        "wǔ",
+        "shí",
+        "nián",
+        "jiān",
+        "sì",
+        "fǎn",
+        "zhǎng"
+      ],
+      "translation": "五十年间的世事变化，就像翻一下手掌，",
+      "noteIds": []
+    },
+    {
+      "text": "风尘澒洞昏王室。",
+      "pinyin": [
+        "fēng",
+        "chén",
+        "hòng",
+        "tóng",
+        "hūn",
+        "wáng",
+        "shì"
+      ],
+      "translation": "战乱的风尘铺天盖地，昏暗了王室。",
+      "noteIds": [
+        "n-hongdong"
+      ]
+    },
+    {
+      "text": "梨园子弟散如烟，",
+      "pinyin": [
+        "lí",
+        "yuán",
+        "zǐ",
+        "dì",
+        "sàn",
+        "rú",
+        "yān"
+      ],
+      "translation": "梨园的子弟像轻烟一样四散，",
+      "noteIds": []
+    },
+    {
+      "text": "女乐余姿映寒日。",
+      "pinyin": [
+        "nǚ",
+        "yuè",
+        "yú",
+        "zī",
+        "yìng",
+        "hán",
+        "rì"
+      ],
+      "translation": "只有女乐残存的舞姿，映照在清冷的日光里。",
+      "noteIds": []
+    },
+    {
+      "text": "金粟堆南木已拱，",
+      "pinyin": [
+        "jīn",
+        "sù",
+        "duī",
+        "nán",
+        "mù",
+        "yǐ",
+        "gǒng"
+      ],
+      "translation": "玄宗陵墓金粟堆南的树木，已经两手合抱那么粗，",
+      "noteIds": [
+        "n-mugong"
+      ]
+    },
+    {
+      "text": "瞿塘石城草萧瑟。",
+      "pinyin": [
+        "qú",
+        "táng",
+        "shí",
+        "chéng",
+        "cǎo",
+        "xiāo",
+        "sè"
+      ],
+      "translation": "瞿塘峡和白帝城的草木，也一片萧条冷落。",
+      "noteIds": []
+    },
+    {
+      "text": "玳筵急管曲复终，",
+      "pinyin": [
+        "dài",
+        "yán",
+        "jí",
+        "guǎn",
+        "qǔ",
+        "fù",
+        "zhōng"
+      ],
+      "translation": "华美的宴席上急促的乐声又一次结束，",
+      "noteIds": [
+        "n-daiyan"
+      ]
+    },
+    {
+      "text": "乐极哀来月东出。",
+      "pinyin": [
+        "lè",
+        "jí",
+        "āi",
+        "lái",
+        "yuè",
+        "dōng",
+        "chū"
+      ],
+      "translation": "乐到极点悲哀涌来，月亮已经从东边升起。",
+      "noteIds": []
+    },
+    {
+      "text": "老夫不知其所往，",
+      "pinyin": [
+        "lǎo",
+        "fū",
+        "bù",
+        "zhī",
+        "qí",
+        "suǒ",
+        "wǎng"
+      ],
+      "translation": "我这老头子不知道自己该去往何处，",
+      "noteIds": []
+    },
+    {
+      "text": "足茧荒山转愁疾。",
+      "pinyin": [
+        "zú",
+        "jiǎn",
+        "huāng",
+        "shān",
+        "zhuǎn",
+        "chóu",
+        "jí"
+      ],
+      "translation": "脚上磨出了厚茧，在荒山里奔波，愁病更重了。",
+      "noteIds": [
+        "n-zujian"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-gongsun",
+      "word": "公孙氏",
+      "pinyin": "gōng sūn shì",
+      "meaning": "公孙大娘，开元年间以剑器舞闻名天下的女舞蹈家。"
+    },
+    {
+      "id": "n-jianqi",
+      "word": "剑器",
+      "pinyin": "jiàn qì",
+      "meaning": "古代的武舞，舞者手持双剑、身着军装，气势雄壮。"
+    },
+    {
+      "id": "n-yi",
+      "word": "羿",
+      "pinyin": "yì",
+      "meaning": "传说中射下九个太阳的勇士。"
+    },
+    {
+      "id": "n-can",
+      "word": "骖",
+      "pinyin": "cān",
+      "meaning": "古代一车驾三匹马，这里指驾驭。"
+    },
+    {
+      "id": "n-linying",
+      "word": "临颍",
+      "pinyin": "lín yǐng",
+      "meaning": "地名，在今河南，舞剑器的李十二娘是临颍人。"
+    },
+    {
+      "id": "n-baidi",
+      "word": "白帝",
+      "pinyin": "bái dì",
+      "meaning": "白帝城，在夔州，杜甫当时正住在这里。"
+    },
+    {
+      "id": "n-hongdong",
+      "word": "澒洞",
+      "pinyin": "hòng tóng",
+      "meaning": "茫茫一片、无边无际的样子。"
+    },
+    {
+      "id": "n-mugong",
+      "word": "木已拱",
+      "pinyin": "mù yǐ gǒng",
+      "meaning": "墓旁树木已长到两手合抱那么粗，指玄宗去世已久。"
+    },
+    {
+      "id": "n-daiyan",
+      "word": "玳筵",
+      "pinyin": "dài yán",
+      "meaning": "陈设华美的宴席。"
+    },
+    {
+      "id": "n-zujian",
+      "word": "足茧",
+      "pinyin": "zú jiǎn",
+      "meaning": "脚上磨出的厚茧。"
+    }
+  ],
+  "translation": "从前有一位美丽的女子公孙氏，她一舞起剑器，就震动四方。观看的人多得像山一样，个个看得神色惊动，天地也仿佛随着她的舞姿长久地起伏。剑光闪动，快得像后羿射落九个太阳；身姿矫健，像天帝们驾着龙车飞翔。舞势一起，像雷霆收住了满腔的震怒；舞势一收，像江海凝聚着一片清光。如今红唇和舞袖都已沉寂，晚年幸好有弟子把技艺传承下来。临颍来的李十二娘，如今就在白帝城献艺，她跳起这支剑器舞，神情飞扬。她与我一番问答，我感念时事、追忆往事，更添惋惜和感伤。先帝宫中的歌舞侍女有八千人，公孙大娘的剑器舞本数第一。五十年间的世事变化就像翻一下手掌，战乱的风尘铺天盖地，昏暗了王室。梨园的子弟像轻烟一样四散，只有女乐残存的舞姿映照在清冷的日光里。玄宗陵墓金粟堆南的树木已两手合抱，瞿塘峡和白帝城的草木一片萧条。华美宴席上急促的乐声又一次结束，乐到极点悲哀涌来，月亮已经从东边升起。我这老头子不知该去往何处，脚上磨出厚茧，在荒山里奔波，愁病更重了。",
+  "appreciation": "一支剑器舞，牵出了五十年的兴衰。前半段写公孙大娘的舞，笔力像剑光一样凌厉：天地起伏、雷霆收怒、江海凝光，几个比喻就把一场舞蹈写活了。后半段笔锋一转，舞人老去、梨园烟散、陵树合抱，盛世的繁华只剩弟子余姿。乐极哀来，月出荒山，诗把个人的漂泊和时代的沧桑合在一起，读来久久不能平静。",
+  "background": "公元767年十月，杜甫在夔州别驾元持家中，看到临颍女子李十二娘舞剑器，得知她是开元名舞人公孙大娘的弟子。他回忆起童年时观看公孙大娘舞剑器的盛景，抚今追昔，写下这首诗，诗前还附有一篇小序。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "剑器惊世",
+      "text": "公孙大娘一舞剑器，观者如山，天地起伏。"
+    },
+    {
+      "step": 2,
+      "title": "弟子传艺",
+      "text": "红唇舞袖俱已寂寞，弟子李十二娘在白帝传艺。"
+    },
+    {
+      "step": 3,
+      "title": "五十年变",
+      "text": "五十年如翻掌，战乱风尘昏暗了王室。"
+    },
+    {
+      "step": 4,
+      "title": "乐极哀来",
+      "text": "急管曲终，月亮东出，老人荒山转愁疾。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "澒",
+      "reading": "hòng",
+      "reason": "“澒洞”形容茫茫无边，读 hòng。",
+      "standard": "不要读成 hóng"
+    },
+    {
+      "char": "骖",
+      "reading": "cān",
+      "reason": "“骖龙翔”的“骖”指驾车，读 cān。"
+    },
+    {
+      "char": "颍",
+      "reading": "yǐng",
+      "reason": "“临颍”是地名，读 yǐng。"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1216
+}

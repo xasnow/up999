@@ -1,0 +1,128 @@
+{
+  "id": "tang-wantang-lishangyin-jilinghulangzhong",
+  "slug": "jilinghulangzhong",
+  "title": "寄令狐郎中",
+  "titlePinyin": "jì líng hú láng zhōng",
+  "dynasty": "tangshi",
+  "era": "wantang",
+  "genre": "shi",
+  "form": "七言绝句",
+  "authorId": "lishangyin",
+  "gradeBand": "ext",
+  "tags": [
+    "思念",
+    "七言绝句",
+    "秋雨",
+    "书信"
+  ],
+  "difficulty": 3,
+  "writtenYear": 845,
+  "writtenLabel": "约公元 845 年（李商隐 33 岁，闲居洛阳抱病，答令狐绹来书）",
+  "orderInAuthor": 1,
+  "no": 1020,
+  "famousLines": [
+    "休问梁园旧宾客，茂陵秋雨病相如。"
+  ],
+  "lines": [
+    {
+      "text": "嵩云秦树久离居，",
+      "pinyin": ["sōng", "yún", "qín", "shù", "jiǔ", "lí", "jū"],
+      "translation": "我在嵩山之侧，你在长安，久已两地分离。",
+      "noteIds": ["n-songqin"]
+    },
+    {
+      "text": "双鲤迢迢一纸书。",
+      "pinyin": ["shuāng", "lǐ", "tiáo", "tiáo", "yī", "zhǐ", "shū"],
+      "translation": "一封远道而来的书信，捎来珍贵的问候。",
+      "noteIds": ["n-shuangli", "n-tiaotiao"]
+    },
+    {
+      "text": "休问梁园旧宾客，",
+      "pinyin": ["xiū", "wèn", "liáng", "yuán", "jiù", "bīn", "kè"],
+      "translation": "不必再问梁园旧日宾客的近况。",
+      "noteIds": ["n-liangyuan"]
+    },
+    {
+      "text": "茂陵秋雨病相如。",
+      "pinyin": ["mào", "líng", "qiū", "yǔ", "bìng", "xiāng", "rú"],
+      "translation": "如今正像秋雨中卧病茂陵的司马相如。",
+      "noteIds": ["n-maoling", "n-xiangru"]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-songqin",
+      "word": "嵩云秦树",
+      "pinyin": "sōng yún qín shù",
+      "meaning": "嵩山的云、秦地的树，分指洛阳与长安两地，代指远隔的友人。"
+    },
+    {
+      "id": "n-shuangli",
+      "word": "双鲤",
+      "pinyin": "shuāng lǐ",
+      "meaning": "古人把书信放在两块刻成鲤鱼形的木版里，后代指书信。"
+    },
+    {
+      "id": "n-tiaotiao",
+      "word": "迢迢",
+      "pinyin": "tiáo tiáo",
+      "meaning": "形容路途遥远。"
+    },
+    {
+      "id": "n-liangyuan",
+      "word": "梁园",
+      "pinyin": "liáng yuán",
+      "meaning": "汉梁孝王的园林，以招揽宾客著称，司马相如曾是座上客。"
+    },
+    {
+      "id": "n-maoling",
+      "word": "茂陵",
+      "pinyin": "mào líng",
+      "meaning": "汉武帝陵所在之地，司马相如晚年免官闲居病于此，借指诗人客居之地。"
+    },
+    {
+      "id": "n-xiangru",
+      "word": "相如",
+      "pinyin": "xiāng rú",
+      "meaning": "司马相如，这里借指诗人自己。"
+    }
+  ],
+  "translation": "我在嵩山之侧，你在长安，久已两地分离；一封远道而来的书信，捎来珍贵的问候。不必再问梁园旧日宾客的近况，如今正像秋雨中卧病茂陵的司马相如。",
+  "appreciation": "朋友从长安寄来一封信，诗人回赠四句诗。他不诉苦，也不客套：嵩山的云和秦地的树，隔开的是久别的两个人；迢迢双鲤，送来的是珍贵的一纸问候。结尾自比司马相如——当年梁园的旧宾客，如今在秋雨中的茂陵养病。淡淡的笔墨里，有感激，有自伤，也有旧日情分没有说破的分量，深挚而含蓄。",
+  "background": "李商隐因牛李党争被排挤，长期离开京城。约公元 845 年，他在洛阳闲居养病，昔日好友令狐绹从京城寄信问候，李商隐写下这首诗作答，语气温和，怀旧之情与身世之感交织其中。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "嵩云秦树",
+      "text": "我在嵩山之侧，你在长安，久已两地分离。"
+    },
+    {
+      "step": 2,
+      "title": "双鲤来书",
+      "text": "一封远道而来的书信，捎来旧友的问候。"
+    },
+    {
+      "step": 3,
+      "title": "旧日宾客",
+      "text": "莫再问梁园旧事，当年的宾客已漂泊多年。"
+    },
+    {
+      "step": 4,
+      "title": "茂陵秋雨",
+      "text": "如今正像病中的司马相如，卧听茂陵秋雨。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "迢迢",
+      "reading": "tiáo tiáo",
+      "reason": "形容路途遥远，读 tiáo tiáo。"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26"
+}

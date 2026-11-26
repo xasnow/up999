@@ -1,0 +1,150 @@
+{
+  "id": "tang-shengtang-libai-changxiangsi-zhiyi",
+  "slug": "changxiangsi-zhiyi",
+  "title": "长相思·其一",
+  "titlePinyin": "cháng xiāng sī · qí yī",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "七言乐府",
+  "authorId": "libai",
+  "gradeBand": "ext",
+  "difficulty": 3,
+  "tags": ["思念", "七言乐府", "月夜", "秋霜"],
+  "writtenYear": 744,
+  "writtenLabel": "约公元 744 年（李白 44 岁，被“赐金放还”离开长安后追忆长安岁月时所作）",
+  "orderInAuthor": 7,
+  "famousLines": [
+    "天长路远魂飞苦，梦魂不到关山难。"
+  ],
+  "lines": [
+    {
+      "text": "长相思，",
+      "pinyin": ["cháng", "xiāng", "sī"],
+      "translation": "长长的相思啊，",
+      "noteIds": []
+    },
+    {
+      "text": "在长安。",
+      "pinyin": ["zài", "cháng", "ān"],
+      "translation": "相思的人在长安。",
+      "noteIds": []
+    },
+    {
+      "text": "络纬秋啼金井阑，",
+      "pinyin": ["luò", "wěi", "qiū", "tí", "jīn", "jǐng", "lán"],
+      "translation": "秋夜里纺织娘在井栏边啼叫，",
+      "noteIds": ["n-luowei", "n-jinjinglan"]
+    },
+    {
+      "text": "微霜凄凄簟色寒。",
+      "pinyin": ["wēi", "shuāng", "qī", "qī", "diàn", "sè", "hán"],
+      "translation": "薄霜凄清，竹席也透着寒意。",
+      "noteIds": ["n-dian"]
+    },
+    {
+      "text": "孤灯不明思欲绝，",
+      "pinyin": ["gū", "dēng", "bù", "míng", "sī", "yù", "jué"],
+      "translation": "孤灯昏暗，思念让人肝肠欲断，",
+      "noteIds": []
+    },
+    {
+      "text": "卷帷望月空长叹。",
+      "pinyin": ["juǎn", "wéi", "wàng", "yuè", "kōng", "cháng", "tàn"],
+      "translation": "卷起窗帘望明月，空自长声叹息。",
+      "noteIds": []
+    },
+    {
+      "text": "美人如花隔云端。",
+      "pinyin": ["měi", "rén", "rú", "huā", "gé", "yún", "duān"],
+      "translation": "那如花的美人，远隔在云端。",
+      "noteIds": []
+    },
+    {
+      "text": "上有青冥之长天，",
+      "pinyin": ["shàng", "yǒu", "qīng", "míng", "zhī", "cháng", "tiān"],
+      "translation": "上有青苍高远的长天，",
+      "noteIds": ["n-qingming"]
+    },
+    {
+      "text": "下有渌水之波澜。",
+      "pinyin": ["xià", "yǒu", "lù", "shuǐ", "zhī", "bō", "lán"],
+      "translation": "下有清水掀起的波澜。",
+      "noteIds": ["n-lu"]
+    },
+    {
+      "text": "天长路远魂飞苦，",
+      "pinyin": ["tiān", "cháng", "lù", "yuǎn", "hún", "fēi", "kǔ"],
+      "translation": "天长路远，魂魄飞渡也辛苦，",
+      "noteIds": []
+    },
+    {
+      "text": "梦魂不到关山难。",
+      "pinyin": ["mèng", "hún", "bú", "dào", "guān", "shān", "nán"],
+      "translation": "梦魂也越不过重重关山。",
+      "noteIds": []
+    },
+    {
+      "text": "长相思，",
+      "pinyin": ["cháng", "xiāng", "sī"],
+      "translation": "长长的相思啊，",
+      "noteIds": []
+    },
+    {
+      "text": "摧心肝。",
+      "pinyin": ["cuī", "xīn", "gān"],
+      "translation": "摧折人的心肝。",
+      "noteIds": []
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-luowei",
+      "word": "络纬",
+      "pinyin": "luò wěi",
+      "meaning": "昆虫名，就是纺织娘，秋夜鸣叫，声音像纺车转动。"
+    },
+    {
+      "id": "n-jinjinglan",
+      "word": "金井阑",
+      "pinyin": "jīn jǐng lán",
+      "meaning": "雕饰精美的井上围栏。阑，栏杆。"
+    },
+    {
+      "id": "n-dian",
+      "word": "簟",
+      "pinyin": "diàn",
+      "meaning": "竹席。"
+    },
+    {
+      "id": "n-qingming",
+      "word": "青冥",
+      "pinyin": "qīng míng",
+      "meaning": "青色的、高远的天空。"
+    },
+    {
+      "id": "n-lu",
+      "word": "渌水",
+      "pinyin": "lù shuǐ",
+      "meaning": "清澈的水。"
+    }
+  ],
+  "translation": "长长的相思啊，相思的人在长安。秋夜里纺织娘在井栏边啼叫，薄霜凄清，竹席也透着寒意。孤灯昏暗，思念让人肝肠欲断，卷起窗帘望明月，空自长声叹息。那如花的美人，远隔在云端。上有青苍高远的长天，下有清水掀起的波澜。天长路远，魂魄飞渡也辛苦，梦魂也越不过重重关山。长长的相思啊，摧折人的心肝。",
+  "appreciation": "这首诗一唱三叹，“长相思”像一根线，把秋啼、微霜、孤灯、明月串在一起。屋里的灯越昏暗，天上的月越明亮，隔在云端的人越遥远。上有长天、下有波澜，连梦魂都飞不过关山，相思之苦被推向极点，最后“摧心肝”三个字戛然而止，余音还在回荡。",
+  "background": "约公元 744 年，李白被唐玄宗“赐金放还”，离开长安。此后他写下《长相思》组诗，追忆长安的人和事。这首是第一首，一般认为诗中的“美人”指他牵挂的长安，也可能指思念的亲友，写的是可望而不可即的深情。",
+  "storyline": [
+    { "step": 1, "title": "秋夜闻虫", "text": "长安的秋夜，纺织娘在金井阑边声声啼叫。" },
+    { "step": 2, "title": "孤灯望月", "text": "孤灯昏暗，他卷起窗帘望月，空自长声叹息。" },
+    { "step": 3, "title": "人隔云端", "text": "思念的人如花一样美，却远隔在云端之上。" },
+    { "step": 4, "title": "梦断关山", "text": "天长路远，连梦魂都飞不过关山，相思摧断心肝。" }
+  ],
+  "pinyinNotes": [
+    { "char": "络纬", "reading": "luò wěi", "reason": "昆虫名，即纺织娘，因鸣声像纺车而得名。" },
+    { "char": "簟", "reading": "diàn", "reason": "“簟”是竹席，“簟色寒”是说竹席泛着凉意。", "standard": "不要读成 tán" },
+    { "char": "渌", "reading": "lù", "reason": "“渌水”指清澈的水。", "standard": "不要读成 lì" }
+  ],
+  "sources": ["《全唐诗》", "《唐诗三百首》", "《李太白集》"],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1241
+}

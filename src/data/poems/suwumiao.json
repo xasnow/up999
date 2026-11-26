@@ -1,0 +1,225 @@
+{
+  "id": "tang-wantang-wendingyun-suwumiao",
+  "slug": "suwumiao",
+  "title": "苏武庙",
+  "titlePinyin": "sū wǔ miào",
+  "dynasty": "tangshi",
+  "era": "wantang",
+  "genre": "shi",
+  "form": "七言律诗",
+  "authorId": "wendingyun",
+  "gradeBand": "ext",
+  "tags": [
+    "怀古",
+    "七言律诗",
+    "鸿雁",
+    "秋天"
+  ],
+  "difficulty": 3,
+  "writtenYear": 859,
+  "writtenLabel": "约公元 859 年（温庭筠 48 岁前后，拜谒苏武庙，借古抒怀）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "云边雁断胡天月，陇上羊归塞草烟。"
+  ],
+  "lines": [
+    {
+      "text": "苏武魂销汉使前，",
+      "pinyin": [
+        "sū",
+        "wǔ",
+        "hún",
+        "xiāo",
+        "hàn",
+        "shǐ",
+        "qián"
+      ],
+      "translation": "苏武见到汉朝来接他的使者，激动得心都要碎了。",
+      "noteIds": [
+        "n-hunxiao"
+      ]
+    },
+    {
+      "text": "古祠高树两茫然。",
+      "pinyin": [
+        "gǔ",
+        "cí",
+        "gāo",
+        "shù",
+        "liǎng",
+        "máng",
+        "rán"
+      ],
+      "translation": "古老的祠庙、高高的树木，都显得那么茫然。",
+      "noteIds": []
+    },
+    {
+      "text": "云边雁断胡天月，",
+      "pinyin": [
+        "yún",
+        "biān",
+        "yàn",
+        "duàn",
+        "hú",
+        "tiān",
+        "yuè"
+      ],
+      "translation": "当年雁阵断了音信，他在胡地的天空下望着明月，",
+      "noteIds": []
+    },
+    {
+      "text": "陇上羊归塞草烟。",
+      "pinyin": [
+        "lǒng",
+        "shàng",
+        "yáng",
+        "guī",
+        "sài",
+        "cǎo",
+        "yān"
+      ],
+      "translation": "想起赶着羊群走过陇上，塞外的荒草如烟。",
+      "noteIds": []
+    },
+    {
+      "text": "回日楼台非甲帐，",
+      "pinyin": [
+        "huí",
+        "rì",
+        "lóu",
+        "tái",
+        "fēi",
+        "jiǎ",
+        "zhàng"
+      ],
+      "translation": "回来时，楼台已不是当年的甲帐，",
+      "noteIds": [
+        "n-jiabezhang"
+      ]
+    },
+    {
+      "text": "去时冠剑是丁年。",
+      "pinyin": [
+        "qù",
+        "shí",
+        "guān",
+        "jiàn",
+        "shì",
+        "dīng",
+        "nián"
+      ],
+      "translation": "出去时，他戴着冠、佩着剑，正是壮年。",
+      "noteIds": [
+        "n-dingnian"
+      ]
+    },
+    {
+      "text": "茂陵不见封侯印，",
+      "pinyin": [
+        "mào",
+        "líng",
+        "bù",
+        "jiàn",
+        "fēng",
+        "hóu",
+        "yìn"
+      ],
+      "translation": "茂陵中的汉武帝，再也见不到他受封侯爵的印信，",
+      "noteIds": [
+        "n-maoling"
+      ]
+    },
+    {
+      "text": "空向秋波哭逝川。",
+      "pinyin": [
+        "kōng",
+        "xiàng",
+        "qiū",
+        "bō",
+        "kū",
+        "shì",
+        "chuān"
+      ],
+      "translation": "苏武只能面对秋水，为逝去的岁月痛哭。",
+      "noteIds": []
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-hunxiao",
+      "word": "魂销",
+      "pinyin": "hún xiāo",
+      "meaning": "形容激动感慨得像丢了魂一样。"
+    },
+    {
+      "id": "n-jiabezhang",
+      "word": "甲帐",
+      "pinyin": "jiǎ zhàng",
+      "meaning": "汉武帝用珍宝装饰的帐幕，分甲、乙两种，甲帐最华贵。"
+    },
+    {
+      "id": "n-dingnian",
+      "word": "丁年",
+      "pinyin": "dīng nián",
+      "meaning": "成丁的年纪，指壮年。"
+    },
+    {
+      "id": "n-maoling",
+      "word": "茂陵",
+      "pinyin": "mào líng",
+      "meaning": "汉武帝的陵墓，这里代指汉武帝。"
+    }
+  ],
+  "translation": "苏武见到汉朝来接他的使者，激动得心都要碎了。古老的祠庙、高高的树木，都显得茫然。当年雁阵断了音信，他在胡地望着明月；后来赶着羊群走过塞外，荒草如烟。回来时楼台已不是当年的甲帐；出去时他戴冠佩剑，正是壮年。茂陵中的汉武帝再也看不到他受封侯爵的印信，苏武只能对着秋水，为逝去的岁月痛哭。",
+  "appreciation": "诗人拜谒苏武庙，把苏武的一生浓缩在几联诗里：见汉使时的激动、北海牧羊的孤苦、归来时物是人非的怅惘。“云边雁断”与“陇上羊归”一联，把十九年的坚守写得又冷又动人。最后空向秋波哭逝川，哭的是英雄尽忠却再也见不到知遇的君主，苍凉之中有深深的敬意。",
+  "background": "苏武是西汉大臣，出使匈奴被扣留十九年，在北海边牧羊，始终不肯投降，回汉时已须发全白。温庭筠游览苏武庙，想到这段故事，写下这首诗。作诗年份已难确考，大约是他晚年拜谒祠庙时的作品。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "遥望汉使",
+      "text": "苏武在匈奴望见汉朝使者，激动万分。"
+    },
+    {
+      "step": 2,
+      "title": "北海牧羊",
+      "text": "想起在雁断音信的胡天牧羊的岁月。"
+    },
+    {
+      "step": 3,
+      "title": "归来物换",
+      "text": "回到长安，楼台依旧，早已物是人非。"
+    },
+    {
+      "step": 4,
+      "title": "秋波感怀",
+      "text": "苏武庙前，诗人对着秋水深深感怀。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "陇",
+      "reading": "lǒng",
+      "reason": "“陇上”指陇山一带的高地，读 lǒng。",
+      "standard": "不要读成 lóng"
+    },
+    {
+      "char": "冠",
+      "reading": "guān",
+      "reason": "“冠剑”的“冠”指帽子，读 guān。",
+      "standard": "不读 guàn"
+    },
+    {
+      "char": "塞",
+      "reading": "sài",
+      "reason": "“塞草”是边塞的草，读 sài。",
+      "standard": "不读 sè 或 sāi"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1158
+}

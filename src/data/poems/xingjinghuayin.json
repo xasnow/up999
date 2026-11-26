@@ -1,0 +1,139 @@
+{
+  "id": "tang-shengtang-cuihao-xingjinghuayin",
+  "slug": "xingjinghuayin",
+  "title": "行经华阴",
+  "titlePinyin": "xíng jīng huà yīn",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "七言律诗",
+  "authorId": "cuihao",
+  "gradeBand": "ext",
+  "tags": ["山水", "七言律诗", "华山", "云雨"],
+  "difficulty": 3,
+  "writtenYear": 723,
+  "writtenLabel": "约公元 723 年（崔颢 19 岁，考中进士后游历关中，路过华山）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "武帝祠前云欲散，仙人掌上雨初晴。",
+    "借问路旁名利客，何如此处学长生。"
+  ],
+  "lines": [
+    {
+      "text": "岧峣太华俯咸京，",
+      "pinyin": ["tiáo", "yáo", "tài", "huà", "fǔ", "xián", "jīng"],
+      "translation": "高高的西岳华山，俯瞰着长安城。",
+      "noteIds": ["n-tiaoyao", "n-taihua"]
+    },
+    {
+      "text": "天外三峰削不成。",
+      "pinyin": ["tiān", "wài", "sān", "fēng", "xuē", "bù", "chéng"],
+      "translation": "天边三座主峰陡峭奇险，像不是人力能削成的。",
+      "noteIds": ["n-sanfeng"]
+    },
+    {
+      "text": "武帝祠前云欲散，",
+      "pinyin": ["wǔ", "dì", "cí", "qián", "yún", "yù", "sàn"],
+      "translation": "武帝祠前，云彩快要散开，",
+      "noteIds": ["n-wudici"]
+    },
+    {
+      "text": "仙人掌上雨初晴。",
+      "pinyin": ["xiān", "rén", "zhǎng", "shàng", "yǔ", "chū", "qíng"],
+      "translation": "仙人掌峰上，雨刚停，天刚放晴。",
+      "noteIds": ["n-xianrenzhang"]
+    },
+    {
+      "text": "河山北枕秦关险，",
+      "pinyin": ["hé", "shān", "běi", "zhěn", "qín", "guān", "xiǎn"],
+      "translation": "黄河华山北靠着险要的秦地关隘，",
+      "noteIds": ["n-beizhen"]
+    },
+    {
+      "text": "驿路西连汉畤平。",
+      "pinyin": ["yì", "lù", "xī", "lián", "hàn", "zhì", "píng"],
+      "translation": "驿道向西连着平坦的汉代祭坛。",
+      "noteIds": ["n-hanzhi"]
+    },
+    {
+      "text": "借问路旁名利客，",
+      "pinyin": ["jiè", "wèn", "lù", "páng", "míng", "lì", "kè"],
+      "translation": "请问路边那些为名利奔忙的行人：",
+      "noteIds": []
+    },
+    {
+      "text": "何如此处学长生。",
+      "pinyin": ["hé", "rú", "cǐ", "chù", "xué", "cháng", "shēng"],
+      "translation": "为什么不到这里来学习长生不老的仙术呢？",
+      "noteIds": ["n-changsheng"]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-tiaoyao",
+      "word": "岧峣",
+      "pinyin": "tiáo yáo",
+      "meaning": "形容山势高峻的样子。"
+    },
+    {
+      "id": "n-taihua",
+      "word": "太华",
+      "pinyin": "tài huà",
+      "meaning": "指西岳华山。“华”在这里读第四声。"
+    },
+    {
+      "id": "n-sanfeng",
+      "word": "三峰",
+      "pinyin": "sān fēng",
+      "meaning": "华山最高的三座主峰：朝阳峰、落雁峰、莲花峰。"
+    },
+    {
+      "id": "n-wudici",
+      "word": "武帝祠",
+      "pinyin": "wǔ dì cí",
+      "meaning": "汉武帝在华山脚下修建的巨灵神祠。"
+    },
+    {
+      "id": "n-xianrenzhang",
+      "word": "仙人掌",
+      "pinyin": "xiān rén zhǎng",
+      "meaning": "华山东峰侧面形像手掌的山崖，人称“仙人掌”。"
+    },
+    {
+      "id": "n-beizhen",
+      "word": "枕",
+      "pinyin": "zhěn",
+      "meaning": "靠着、挨着。"
+    },
+    {
+      "id": "n-hanzhi",
+      "word": "汉畤",
+      "pinyin": "hàn zhì",
+      "meaning": "汉代帝王祭天地神灵的祭坛。“畤”读 zhì。"
+    },
+    {
+      "id": "n-changsheng",
+      "word": "学长生",
+      "pinyin": "xué cháng shēng",
+      "meaning": "学习道家修身养性、长生不老的方法。"
+    }
+  ],
+  "translation": "高高的西岳华山俯瞰着长安城，天边三座主峰陡峭奇险，像不是人力能削成的。武帝祠前云彩快要散开，仙人掌峰上雨刚停、天刚放晴。黄河华山北靠着险要的秦地关隘，驿道向西连着平坦的汉代祭坛。请问路边为名利奔忙的行人：何必赶路求名利，不在这里学习长生之术呢？",
+  "appreciation": "这首七律写路经华山所见。首联从高处落笔，一个“俯”字让华山压住长安，气势全出；中间两联对仗工整，云散雨晴、河山驿路，把华山四周的雄壮铺成一幅大画。结尾忽然一问：与其在名利路上奔波，不如在这里学仙长生。山越高，人间的名利就越小，全诗的巧妙都在这一问里。",
+  "background": "约公元 723 年，年轻的崔颢考中进士后到关中游历，路过华山脚下的驿路。抬头是插天的三峰，身边是南来北往追名逐利的行人，他一时有感，把山的高大和人心里的忙乱写进了同一首诗。",
+  "storyline": [
+    { "step": 1, "title": "高峰俯城", "text": "华山高高地立在长安以东，像俯视着整座京城。" },
+    { "step": 2, "title": "削成三峰", "text": "天外三座主峰笔直陡峭，像不是人力能削出来的。" },
+    { "step": 3, "title": "云散雨晴", "text": "武帝祠前的云彩就要散了，仙人掌峰上的雨刚刚停。" },
+    { "step": 4, "title": "借问过客", "text": "诗人问名利路上的行人：何必不去学学长生呢？" }
+  ],
+  "pinyinNotes": [
+    { "char": "岧峣", "reading": "tiáo yáo", "reason": "两个形容山高的生僻字，读 tiáo yáo。" },
+    { "char": "太华", "reading": "tài huà", "reason": "“华”在华山、太华这些专名里读 huà。", "standard": "不要读成 huá" },
+    { "char": "汉畤", "reading": "hàn zhì", "reason": "“畤”指祭祀天地的高台，读 zhì。" }
+  ],
+  "sources": ["《全唐诗》", "《唐诗三百首》"],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1156
+}

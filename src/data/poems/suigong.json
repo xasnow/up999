@@ -1,0 +1,188 @@
+{
+  "id": "tang-wantang-lishangyin-suigong",
+  "slug": "suigong",
+  "title": "隋宫",
+  "titlePinyin": "suí gōng",
+  "dynasty": "tangshi",
+  "era": "wantang",
+  "genre": "shi",
+  "form": "七言律诗",
+  "authorId": "lishangyin",
+  "gradeBand": "ext",
+  "tags": [
+    "怀古",
+    "七言律诗",
+    "垂杨",
+    "暮鸦"
+  ],
+  "difficulty": 3,
+  "writtenYear": 857,
+  "writtenLabel": "约公元 857 年（李商隐 45 岁，游江东过扬州隋宫旧址有感）",
+  "orderInAuthor": 2,
+  "no": 1137,
+  "famousLines": [
+    "于今腐草无萤火，终古垂杨有暮鸦。"
+  ],
+  "lines": [
+    {
+      "text": "紫泉宫殿锁烟霞，",
+      "pinyin": ["zǐ", "quán", "gōng", "diàn", "suǒ", "yān", "xiá"],
+      "translation": "长安的宫殿闲置在烟霞之中，",
+      "noteIds": ["n-ziquan"]
+    },
+    {
+      "text": "欲取芜城作帝家。",
+      "pinyin": ["yù", "qǔ", "wú", "chéng", "zuò", "dì", "jiā"],
+      "translation": "隋炀帝却一心想把扬州当作帝都之家。",
+      "noteIds": ["n-wucheng"]
+    },
+    {
+      "text": "玉玺不缘归日角，",
+      "pinyin": ["yù", "xǐ", "bù", "yuán", "guī", "rì", "jiǎo"],
+      "translation": "要不是传国玉玺归了李渊，",
+      "noteIds": ["n-yuxi", "n-rijiao"]
+    },
+    {
+      "text": "锦帆应是到天涯。",
+      "pinyin": ["jǐn", "fān", "yīng", "shì", "dào", "tiān", "yá"],
+      "translation": "他的锦帆船队只怕要一直游到天涯海角。",
+      "noteIds": ["n-jinfan"]
+    },
+    {
+      "text": "于今腐草无萤火，",
+      "pinyin": ["yú", "jīn", "fǔ", "cǎo", "wú", "yíng", "huǒ"],
+      "translation": "如今腐草里再也放不出当年的萤火，",
+      "noteIds": ["n-yinghuo"]
+    },
+    {
+      "text": "终古垂杨有暮鸦。",
+      "pinyin": ["zhōng", "gǔ", "chuí", "yáng", "yǒu", "mù", "yā"],
+      "translation": "千年运河堤上的垂柳，只有黄昏的鸦群栖息。",
+      "noteIds": ["n-chuiyang", "n-muya"]
+    },
+    {
+      "text": "地下若逢陈后主，",
+      "pinyin": ["dì", "xià", "ruò", "féng", "chén", "hòu", "zhǔ"],
+      "translation": "他到了地下如果遇见陈后主，",
+      "noteIds": ["n-chenhouzhu"]
+    },
+    {
+      "text": "岂宜重问后庭花。",
+      "pinyin": ["qǐ", "yí", "chóng", "wèn", "hòu", "tíng", "huā"],
+      "translation": "难道还好意思再问《玉树后庭花》的曲子？",
+      "noteIds": ["n-houtinghua", "n-chongwen"]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-ziquan",
+      "word": "紫泉",
+      "pinyin": "zǐ quán",
+      "meaning": "长安的水名，因避唐高祖李渊名讳改“紫渊”为“紫泉”，代指长安。"
+    },
+    {
+      "id": "n-wucheng",
+      "word": "芜城",
+      "pinyin": "wú chéng",
+      "meaning": "扬州的别称。隋炀帝曾三下江都（扬州），想以扬州为都。"
+    },
+    {
+      "id": "n-yuxi",
+      "word": "玉玺",
+      "pinyin": "yù xǐ",
+      "meaning": "皇帝的印玺，象征皇位。"
+    },
+    {
+      "id": "n-rijiao",
+      "word": "日角",
+      "pinyin": "rì jiǎo",
+      "meaning": "额骨隆起如日的帝王之相，这里指唐高祖李渊。"
+    },
+    {
+      "id": "n-jinfan",
+      "word": "锦帆",
+      "pinyin": "jǐn fān",
+      "meaning": "隋炀帝游江都时，船队以锦缎作帆，极尽奢华。"
+    },
+    {
+      "id": "n-yinghuo",
+      "word": "萤火",
+      "pinyin": "yíng huǒ",
+      "meaning": "隋炀帝曾在景华宫征萤火虫数斛，夜里放出照亮山谷取乐。"
+    },
+    {
+      "id": "n-chuiyang",
+      "word": "垂杨",
+      "pinyin": "chuí yáng",
+      "meaning": "隋炀帝开凿运河，命人在堤岸两岸遍种柳树。"
+    },
+    {
+      "id": "n-muya",
+      "word": "暮鸦",
+      "pinyin": "mù yā",
+      "meaning": "黄昏时归巢的乌鸦，象征繁华散尽的凄凉。"
+    },
+    {
+      "id": "n-chenhouzhu",
+      "word": "陈后主",
+      "pinyin": "chén hòu zhǔ",
+      "meaning": "南朝陈的末代皇帝陈叔宝，荒淫亡国。"
+    },
+    {
+      "id": "n-houtinghua",
+      "word": "后庭花",
+      "pinyin": "hòu tíng huā",
+      "meaning": "陈后主所作歌曲《玉树后庭花》，被视为亡国之音。"
+    },
+    {
+      "id": "n-chongwen",
+      "word": "重问",
+      "pinyin": "chóng wèn",
+      "meaning": "再次问起。传说隋炀帝游江都时曾在梦中与陈后主相遇。"
+    }
+  ],
+  "translation": "长安的宫殿闲置在烟霞之中，隋炀帝却一心想把扬州当作帝都之家。要不是传国玉玺归了李渊，他的锦帆船队只怕要一直游到天涯海角。如今腐草里再也放不出当年的萤火，千年运河堤上的垂柳，只有黄昏的鸦群栖息。他到了地下如果遇见陈后主，难道还好意思再问《玉树后庭花》的曲子？",
+  "appreciation": "同样是写隋宫，这首七律比七绝更沉痛。长安的宫殿锁在烟霞里，隋炀帝却非要到扬州再建帝家；诗人替他算了笔荒唐账：玉玺若不落到李渊手里，锦帆真能游到天涯。最妙的是萤火与暮鸦一联——当年放萤照夜，如今腐草连萤火都灭尽了；当年沿堤插柳，如今只剩暮鸦归巢，兴亡全在两个意象里。结尾想象他在地下遇见亡国之君陈后主，还好意思提《后庭花》吗？一问把荒淫者钉在了历史的耻辱柱上。",
+  "background": "隋炀帝三次巡游江都，穷奢极欲，最终在扬州被部下所杀，隋朝也随之覆灭。公元 857 年前后，李商隐游历江东，凭吊扬州隋宫遗迹写下此诗，借隋亡教训警示晚唐君臣，是唐人七律怀古的杰作。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "弃京就扬",
+      "text": "长安宫殿锁于烟霞，炀帝却欲以扬州为家。"
+    },
+    {
+      "step": 2,
+      "title": "锦帆天涯",
+      "text": "若非玉玺归了李渊，锦帆直要游到天涯。"
+    },
+    {
+      "step": 3,
+      "title": "萤灭鸦归",
+      "text": "腐草再无萤火，垂杨只栖暮鸦。"
+    },
+    {
+      "step": 4,
+      "title": "地下难言",
+      "text": "地下若逢陈后主，岂敢再问后庭花。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "玺",
+      "reading": "xǐ",
+      "reason": "“玉玺”指皇帝印玺，读 xǐ。"
+    },
+    {
+      "char": "重",
+      "reading": "chóng",
+      "reason": "“重问”是再次问起之意，读 chóng。",
+      "standard": "不要读成 zhòng"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26"
+}

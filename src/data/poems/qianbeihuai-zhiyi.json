@@ -1,0 +1,126 @@
+{
+  "id": "tang-zhongtang-yuanzhen-qianbeihuai-zhiyi",
+  "slug": "qianbeihuai-zhiyi",
+  "title": "遣悲怀三首·其一",
+  "titlePinyin": "qiǎn bēi huái sān shǒu · qí yī",
+  "dynasty": "tangshi",
+  "era": "zhongtang",
+  "genre": "shi",
+  "form": "七言律诗",
+  "authorId": "yuanzhen",
+  "gradeBand": "ext",
+  "difficulty": 3,
+  "tags": ["思念", "七言律诗", "金钗", "古槐"],
+  "writtenYear": 809,
+  "writtenLabel": "公元 809 年（元稹 31 岁，妻子韦丛去世后不久）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "顾我无衣搜荩箧，泥他沽酒拔金钗。"
+  ],
+  "lines": [
+    {
+      "text": "谢公最小偏怜女，",
+      "pinyin": ["xiè", "gōng", "zuì", "xiǎo", "piān", "lián", "nǚ"],
+      "translation": "你像谢公家最受偏爱的小女儿，",
+      "noteIds": ["n-xiegong"]
+    },
+    {
+      "text": "自嫁黔娄百事乖。",
+      "pinyin": ["zì", "jià", "qián", "lóu", "bǎi", "shì", "guāi"],
+      "translation": "自从嫁给我这个穷书生，事事都不顺遂。",
+      "noteIds": ["n-qianlou"]
+    },
+    {
+      "text": "顾我无衣搜荩箧，",
+      "pinyin": ["gù", "wǒ", "wú", "yī", "sōu", "jìn", "qiè"],
+      "translation": "见我没有换洗的衣裳，她就翻遍草箱寻找，",
+      "noteIds": ["n-jinqie"]
+    },
+    {
+      "text": "泥他沽酒拔金钗。",
+      "pinyin": ["ní", "tā", "gū", "jiǔ", "bá", "jīn", "chāi"],
+      "translation": "为了给我买酒，她软缠着别人，还拔下金钗去换钱。",
+      "noteIds": ["n-ni"]
+    },
+    {
+      "text": "野蔬充膳甘长藿，",
+      "pinyin": ["yě", "shū", "chōng", "shàn", "gān", "cháng", "huò"],
+      "translation": "拿野菜充当下饭菜，吃长长的豆叶她也觉得甘甜，",
+      "noteIds": ["n-huo"]
+    },
+    {
+      "text": "落叶添薪仰古槐。",
+      "pinyin": ["luò", "yè", "tiān", "xīn", "yǎng", "gǔ", "huái"],
+      "translation": "靠扫落叶当柴烧，全仰仗院里那棵老槐树。",
+      "noteIds": []
+    },
+    {
+      "text": "今日俸钱过十万，",
+      "pinyin": ["jīn", "rì", "fèng", "qián", "guò", "shí", "wàn"],
+      "translation": "如今我的俸钱已经超过十万，",
+      "noteIds": []
+    },
+    {
+      "text": "与君营奠复营斋。",
+      "pinyin": ["yǔ", "jūn", "yíng", "diàn", "fù", "yíng", "zhāi"],
+      "translation": "却只能用来为你置办祭奠，再请僧人做法事。",
+      "noteIds": ["n-dianzhai"]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-xiegong",
+      "word": "谢公",
+      "pinyin": "xiè gōng",
+      "meaning": "指东晋谢奕，他最疼爱小女儿谢道韫。这里借指妻子韦丛出身名门，最受父亲宠爱。"
+    },
+    {
+      "id": "n-qianlou",
+      "word": "黔娄",
+      "pinyin": "qián lóu",
+      "meaning": "战国时齐国的隐士，家里很穷却有贤妻。诗人自比黔娄，说妻子不嫌自己穷。"
+    },
+    {
+      "id": "n-jinqie",
+      "word": "荩箧",
+      "pinyin": "jìn qiè",
+      "meaning": "荩草编成的小箱子。荩，一种草；箧，小箱子。"
+    },
+    {
+      "id": "n-ni",
+      "word": "泥",
+      "pinyin": "nì",
+      "meaning": "软磨硬泡地央求，这里是动词。"
+    },
+    {
+      "id": "n-huo",
+      "word": "藿",
+      "pinyin": "huò",
+      "meaning": "豆子的叶子，古时穷人当菜吃。"
+    },
+    {
+      "id": "n-dianzhai",
+      "word": "营奠营斋",
+      "pinyin": "yíng diàn yíng zhāi",
+      "meaning": "营，置办。奠，祭奠；斋，请僧人做佛事，都是悼念亡人的活动。"
+    }
+  ],
+  "translation": "你像谢公家最受偏爱的小女儿，自从嫁给我这个穷书生，事事都不顺遂。见我没有换洗的衣裳，她就翻遍草箱寻找；为了给我买酒，她软缠着别人，还拔下金钗去换钱。拿野菜充当下饭菜，吃长长的豆叶她也觉得甘甜；靠扫落叶当柴烧，全仰仗院里那棵老槐树。如今我的俸钱已经超过十万，却只能用来为你置办祭奠，再请僧人做法事。",
+  "appreciation": "诗人用谢家小女出嫁穷书生作比，写出妻子门第高贵却不嫌贫贱。没有衣裳，她翻箱去找；想喝酒，她拔下金钗去换；豆叶当菜、落叶当柴，她从不抱怨。等到俸钱十万，能让她过好日子了，人却已经不在，只能拿钱来办祭奠。全诗像拉家常，句句是小事，句句是深情。",
+  "background": "公元 809 年，元稹的妻子韦丛病逝，年仅二十七岁。韦丛是太子少保韦夏卿的小女儿，下嫁元稹时正是他最穷困的时候，夫妻感情很深。妻子去世后，元稹一连写下《遣悲怀》三首，这是第一首，写的是她生前俭朴持家的种种小事。",
+  "storyline": [
+    { "step": 1, "title": "高门嫁女", "text": "宰相家最受疼爱的小女儿，嫁给了还不出名的穷诗人元稹。" },
+    { "step": 2, "title": "翻箱找衣", "text": "见丈夫没有衣裳，她翻遍草箱；丈夫想喝酒，她拔下金钗去换。" },
+    { "step": 3, "title": "苦中带甜", "text": "野菜当饭、豆叶当菜，落叶当柴，日子清苦，她从不叫苦。" },
+    { "step": 4, "title": "洒泪祭奠", "text": "如今俸钱多了，她却不在了，只能置办祭奠来报答她。" }
+  ],
+  "pinyinNotes": [
+    { "char": "荩箧", "reading": "jìn qiè", "reason": "荩是一种草，箧是小箱子，合起来指草编的小箱子。", "standard": "“箧”不要读成 jiā" },
+    { "char": "泥", "reading": "nì", "reason": "“泥他沽酒”的“泥”是“缠着央求”的意思，是动词，读 nì。", "standard": "不要读成 ní" },
+    { "char": "藿", "reading": "huò", "reason": "“藿”指豆叶，是古时穷人的菜。", "standard": "不要读成 huó" }
+  ],
+  "sources": ["《全唐诗》", "《唐诗三百首》", "《元氏长庆集》"],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1119
+}

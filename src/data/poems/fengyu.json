@@ -1,0 +1,159 @@
+{
+  "id": "tang-wantang-lishangyin-fengyu",
+  "slug": "fengyu",
+  "title": "风雨",
+  "titlePinyin": "fēng yǔ",
+  "dynasty": "tangshi",
+  "era": "wantang",
+  "genre": "shi",
+  "form": "五言律诗",
+  "authorId": "lishangyin",
+  "gradeBand": "ext",
+  "tags": [
+    "孤独",
+    "五言律诗",
+    "风雨",
+    "黄叶"
+  ],
+  "difficulty": 3,
+  "writtenYear": 848,
+  "writtenLabel": "作年不详，约公元 848 年（大中年间，诗人羁旅漂泊，感于怀才不遇）",
+  "orderInAuthor": 2,
+  "no": 1068,
+  "famousLines": [
+    "黄叶仍风雨，青楼自管弦。"
+  ],
+  "lines": [
+    {
+      "text": "凄凉宝剑篇，",
+      "pinyin": ["qī", "liáng", "bǎo", "jiàn", "piān"],
+      "translation": "我空有《宝剑篇》那样的才志，却落得凄凉，",
+      "noteIds": ["n-baojianpian"]
+    },
+    {
+      "text": "羁泊欲穷年。",
+      "pinyin": ["jī", "bó", "yù", "qióng", "nián"],
+      "translation": "漂泊在外，仿佛要穷尽一生。",
+      "noteIds": ["n-jibo"]
+    },
+    {
+      "text": "黄叶仍风雨，",
+      "pinyin": ["huáng", "yè", "réng", "fēng", "yǔ"],
+      "translation": "枯黄的树叶，仍遭风雨摧残，",
+      "noteIds": []
+    },
+    {
+      "text": "青楼自管弦。",
+      "pinyin": ["qīng", "lóu", "zì", "guǎn", "xián"],
+      "translation": "高楼上富贵人家，照旧奏乐作乐。",
+      "noteIds": ["n-qinglou"]
+    },
+    {
+      "text": "新知遭薄俗，",
+      "pinyin": ["xīn", "zhī", "zāo", "bó", "sú"],
+      "translation": "新结交的知己，也遭受浇薄的世情排挤，",
+      "noteIds": ["n-xinzhi", "n-bosu"]
+    },
+    {
+      "text": "旧好隔良缘。",
+      "pinyin": ["jiù", "hǎo", "gé", "liáng", "yuán"],
+      "translation": "旧日的好友，又隔着难以再续的缘分。",
+      "noteIds": []
+    },
+    {
+      "text": "心断新丰酒，",
+      "pinyin": ["xīn", "duàn", "xīn", "fēng", "jiǔ"],
+      "translation": "断念吧——纵有新丰美酒，",
+      "noteIds": ["n-xinfeng"]
+    },
+    {
+      "text": "销愁斗几千。",
+      "pinyin": ["xiāo", "chóu", "dǒu", "jǐ", "qiān"],
+      "translation": "要买一斗来消愁，也需几千钱。",
+      "noteIds": ["n-dou"]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-baojianpian",
+      "word": "宝剑篇",
+      "pinyin": "bǎo jiàn piān",
+      "meaning": "唐代名将郭震（郭元振）所作《宝剑篇》，献给武则天后受到赏识重用。这里反用其事，叹自己有才无路。"
+    },
+    {
+      "id": "n-jibo",
+      "word": "羁泊",
+      "pinyin": "jī bó",
+      "meaning": "羁旅漂泊。"
+    },
+    {
+      "id": "n-qinglou",
+      "word": "青楼",
+      "pinyin": "qīng lóu",
+      "meaning": "指富贵人家华丽的高楼。"
+    },
+    {
+      "id": "n-xinzhi",
+      "word": "新知",
+      "pinyin": "xīn zhī",
+      "meaning": "新结交的知己朋友。"
+    },
+    {
+      "id": "n-bosu",
+      "word": "薄俗",
+      "pinyin": "bó sú",
+      "meaning": "浇薄的风俗人情。"
+    },
+    {
+      "id": "n-xinfeng",
+      "word": "新丰酒",
+      "pinyin": "xīn fēng jiǔ",
+      "meaning": "新丰出产的美酒。唐初马周落魄时曾宿新丰旅店遭冷遇，后来得到唐太宗重用。这里借指贤才终有得志之日，自己却连消愁的酒也买不起。"
+    },
+    {
+      "id": "n-dou",
+      "word": "斗",
+      "pinyin": "dǒu",
+      "meaning": "盛酒的容器，一斗酒。"
+    }
+  ],
+  "translation": "我空有《宝剑篇》那样的才志，却落得凄凉，漂泊在外，仿佛要穷尽一生。枯黄的树叶，仍遭风雨摧残；高楼上富贵人家，照旧奏乐作乐。新结交的知己，也遭受浇薄的世情排挤；旧日的好友，又隔着难以再续的缘分。断念吧——纵有新丰美酒，要买一斗来消愁，也需几千钱。",
+  "appreciation": "这首诗像一幅冷热对照的画：一边是枯黄的树叶还在挨风雨，一边是高楼上有人照旧饮酒奏乐。诗人用郭震献《宝剑篇》得遇明主的故事反衬自己——同样有才，却无人赏识，一年年漂泊在外。朋友散的散、远的远，连借酒消愁都买不起一斗好酒。全诗一冷到底，风雨既是天气，也是他一生潦倒的境遇。",
+  "background": "李商隐卷入牛李党争，一生遭到排挤，长期辗转于各地幕府。这首诗写他羁旅漂泊中的感受：怀才不遇、人情浇薄、故交零落，借风雨中的黄叶，写出了一位失意才人的凄凉。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "才志难伸",
+      "text": "空怀《宝剑篇》那样的才志，却凄凉漂泊。"
+    },
+    {
+      "step": 2,
+      "title": "黄叶风雨",
+      "text": "枯黄树叶仍遭风雨，高楼却照旧笙歌。"
+    },
+    {
+      "step": 3,
+      "title": "新知旧好",
+      "text": "新知己遭世情排挤，旧好友隔着重重缘分。"
+    },
+    {
+      "step": 4,
+      "title": "酒钱断念",
+      "text": "想买新丰酒消愁，一斗却要几千钱。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "羁",
+      "reading": "jī",
+      "reason": "“羁泊”指羁旅漂泊，读 jī。",
+      "standard": "不要读成 jì"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26"
+}

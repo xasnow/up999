@@ -1,0 +1,165 @@
+{
+  "id": "tang-wantang-dumu-jinguyuan",
+  "slug": "jinguyuan",
+  "title": "金谷园",
+  "titlePinyin": "jīn gǔ yuán",
+  "dynasty": "tangshi",
+  "era": "wantang",
+  "genre": "shi",
+  "form": "七言绝句",
+  "authorId": "dumu",
+  "gradeBand": "ext",
+  "tags": [
+    "怀古",
+    "七言绝句",
+    "落花",
+    "东风"
+  ],
+  "difficulty": 3,
+  "writtenYear": 836,
+  "writtenLabel": "约公元 836 年（杜牧 34 岁，客居洛阳，凭吊金谷园旧址）",
+  "orderInAuthor": 5,
+  "no": 1024,
+  "famousLines": [
+    "繁华事散逐香尘，流水无情草自春。"
+  ],
+  "lines": [
+    {
+      "text": "繁华事散逐香尘，",
+      "pinyin": [
+        "fán",
+        "huá",
+        "shì",
+        "sàn",
+        "zhú",
+        "xiāng",
+        "chén"
+      ],
+      "translation": "金谷园当年的繁华早已散尽，像香尘一样消失了，",
+      "noteIds": [
+        "n-xiangchen"
+      ]
+    },
+    {
+      "text": "流水无情草自春。",
+      "pinyin": [
+        "liú",
+        "shuǐ",
+        "wú",
+        "qíng",
+        "cǎo",
+        "zì",
+        "chūn"
+      ],
+      "translation": "流水无情地流去，春草却自顾自地绿了。",
+      "noteIds": []
+    },
+    {
+      "text": "日暮东风怨啼鸟，",
+      "pinyin": [
+        "rì",
+        "mù",
+        "dōng",
+        "fēng",
+        "yuàn",
+        "tí",
+        "niǎo"
+      ],
+      "translation": "傍晚东风里，鸟儿的啼叫好像满怀怨意，",
+      "noteIds": [
+        "n-yuantiniao"
+      ]
+    },
+    {
+      "text": "落花犹似坠楼人。",
+      "pinyin": [
+        "luò",
+        "huā",
+        "yóu",
+        "sì",
+        "zhuì",
+        "lóu",
+        "rén"
+      ],
+      "translation": "飘落的残花，还像当年坠楼的绿珠姑娘。",
+      "noteIds": [
+        "n-you",
+        "n-zhuilouren"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-xiangchen",
+      "word": "香尘",
+      "pinyin": "xiāng chén",
+      "meaning": "石崇家的美人走路会扬起带香的尘土，这里指园中昔日的繁华。"
+    },
+    {
+      "id": "n-yuantiniao",
+      "word": "怨啼鸟",
+      "pinyin": "yuàn tí niǎo",
+      "meaning": "鸟的啼叫声，听起来像带着怨恨。"
+    },
+    {
+      "id": "n-you",
+      "word": "犹",
+      "pinyin": "yóu",
+      "meaning": "还，仍然。"
+    },
+    {
+      "id": "n-zhuilouren",
+      "word": "坠楼人",
+      "pinyin": "zhuì lóu rén",
+      "meaning": "指石崇的爱妾绿珠。权贵逼夺绿珠，她不从，跳楼而死。"
+    }
+  ],
+  "translation": "金谷园当年的繁华早已散尽，像香尘一样消失了，流水无情地流去，春草却自顾自地绿了。傍晚东风里，鸟儿的啼叫好像满怀怨意，飘落的残花，还像当年坠楼的绿珠姑娘。",
+  "appreciation": "诗人凭吊金谷园，不罗列旧事，只写眼前的流水、春草和啼鸟。当年繁华像香尘一样散了，只有流水不管人间兴亡，草照旧发绿。结尾最惊心：暮色里的落花从枝头飘下，就像当年从楼上跳下的绿珠。落花与人合为一体，惋惜和感慨都凝在这一瞬间。",
+  "background": "金谷园是西晋富豪石崇在洛阳修建的别墅，极尽豪华。石崇的爱妾绿珠美丽多才，权贵孙秀向石崇索要绿珠不成，便诬害石崇，绿珠跳楼殉主，金谷园也随之荒废。约836年杜牧客居洛阳，游览故园遗址，写下这首怀古诗。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "繁华散尽",
+      "text": "昔日金谷园的豪奢繁华，早已像香尘一样飘散干净。"
+    },
+    {
+      "step": 2,
+      "title": "草自逢春",
+      "text": "无情的流水照旧流淌，春草不管兴亡，自顾自地绿了。"
+    },
+    {
+      "step": 3,
+      "title": "日暮鸟啼",
+      "text": "傍晚东风吹过园子，鸟的啼叫声仿佛带着怨意。"
+    },
+    {
+      "step": 4,
+      "title": "落花坠楼",
+      "text": "片片落花从枝头飘落，就像当年坠楼的绿珠姑娘。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "逐",
+      "reading": "zhú",
+      "reason": "“逐香尘”是追随着香尘散去，古入声字今读 zhú。"
+    },
+    {
+      "char": "犹",
+      "reading": "yóu",
+      "reason": "“犹似”是还像、好像，读 yóu。"
+    },
+    {
+      "char": "坠",
+      "reading": "zhuì",
+      "reason": "“坠楼”是从楼上掉落下来，读 zhuì。"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26"
+}

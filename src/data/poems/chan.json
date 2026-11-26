@@ -1,0 +1,163 @@
+{
+  "id": "tang-wantang-lishangyin-chan",
+  "slug": "chan",
+  "title": "蝉",
+  "titlePinyin": "chán",
+  "dynasty": "tangshi",
+  "era": "wantang",
+  "genre": "shi",
+  "form": "五言律诗",
+  "authorId": "lishangyin",
+  "gradeBand": "ext",
+  "tags": [
+    "咏物",
+    "五言律诗",
+    "蝉声",
+    "秋天"
+  ],
+  "difficulty": 3,
+  "writtenYear": 854,
+  "writtenLabel": "作年不详，约公元 854 年（大中年间，诗人困顿幕府，以蝉自况）",
+  "orderInAuthor": 1,
+  "no": 1067,
+  "famousLines": [
+    "五更疏欲断，一树碧无情。"
+  ],
+  "lines": [
+    {
+      "text": "本以高难饱，",
+      "pinyin": ["běn", "yǐ", "gāo", "nán", "bǎo"],
+      "translation": "蝉栖在高树上餐风饮露，本来就难得吃饱，",
+      "noteIds": ["n-gao"]
+    },
+    {
+      "text": "徒劳恨费声。",
+      "pinyin": ["tú", "láo", "hèn", "fèi", "shēng"],
+      "translation": "再费尽力气鸣叫，也只能白白怨恨。",
+      "noteIds": []
+    },
+    {
+      "text": "五更疏欲断，",
+      "pinyin": ["wǔ", "gēng", "shū", "yù", "duàn"],
+      "translation": "叫到五更天，声音稀疏得快要断绝，",
+      "noteIds": ["n-wugeng"]
+    },
+    {
+      "text": "一树碧无情。",
+      "pinyin": ["yī", "shù", "bì", "wú", "qíng"],
+      "translation": "满树碧绿，却对它毫无怜惜。",
+      "noteIds": []
+    },
+    {
+      "text": "薄宦梗犹泛，",
+      "pinyin": ["bó", "huàn", "gěng", "yóu", "fàn"],
+      "translation": "我做着卑微的小官，仍像树枝一样四处漂流，",
+      "noteIds": ["n-bohuan", "n-gengfan"]
+    },
+    {
+      "text": "故园芜已平。",
+      "pinyin": ["gù", "yuán", "wú", "yǐ", "píng"],
+      "translation": "故乡的田园荒草丛生，早已盖过小路。",
+      "noteIds": ["n-wu"]
+    },
+    {
+      "text": "烦君最相警，",
+      "pinyin": ["fán", "jūn", "zuì", "xiāng", "jǐng"],
+      "translation": "劳烦你一声声鸣叫，最是提醒了我，",
+      "noteIds": ["n-xiangjing"]
+    },
+    {
+      "text": "我亦举家清。",
+      "pinyin": ["wǒ", "yì", "jǔ", "jiā", "qīng"],
+      "translation": "我也和你一样，全家清贫守节。",
+      "noteIds": ["n-jujiaqing"]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-gao",
+      "word": "高难饱",
+      "pinyin": "gāo nán bǎo",
+      "meaning": "古人认为蝉栖高树、餐风饮露，所以难得吃饱，暗喻清高的人难免贫困。"
+    },
+    {
+      "id": "n-wugeng",
+      "word": "五更",
+      "pinyin": "wǔ gēng",
+      "meaning": "天快亮的时候，夜里的最后一个时段。"
+    },
+    {
+      "id": "n-bohuan",
+      "word": "薄宦",
+      "pinyin": "bó huàn",
+      "meaning": "卑微的官职。"
+    },
+    {
+      "id": "n-gengfan",
+      "word": "梗犹泛",
+      "pinyin": "gěng yóu fàn",
+      "meaning": "典出《战国策》：土偶对桃梗说，你被刻成人形，一下雨就会漂走。比喻漂泊无定。"
+    },
+    {
+      "id": "n-wu",
+      "word": "芜",
+      "pinyin": "wú",
+      "meaning": "杂草丛生。"
+    },
+    {
+      "id": "n-xiangjing",
+      "word": "相警",
+      "pinyin": "xiāng jǐng",
+      "meaning": "提醒、警戒我。"
+    },
+    {
+      "id": "n-jujiaqing",
+      "word": "举家清",
+      "pinyin": "jǔ jiā qīng",
+      "meaning": "全家清贫，也含清高自守之意。"
+    }
+  ],
+  "translation": "蝉栖在高树上餐风饮露，本来就难得吃饱，再费尽力气鸣叫，也只能白白怨恨。叫到五更天，声音稀疏得快要断绝，满树碧绿，却对它毫无怜惜。我做着卑微的小官，仍像树枝一样四处漂流，故乡的田园荒草丛生，早已盖过小路。劳烦你一声声鸣叫，最是提醒了我：我也和你一样，全家清贫守节。",
+  "appreciation": "蝉住在高树上，喝的是露水，本来就难得吃饱；它叫到天快亮，声音都快哑了，那一树的碧绿却冷冷的，一点不理会。诗人明写蝉，暗写自己：官职卑微，四处漂泊，家中的田园早已荒芜。可他不抱怨堕落，反而对蝉说“我也和你一样清白”。蝉的清高与苦况，正是他一生的写照。同咏蝉，虞世南得意、骆宾王患难，李商隐则是牢骚，三首蝉诗各成千古绝唱。",
+  "background": "李商隐长期屈居幕府，官职卑微，俸禄微薄。此诗借咏蝉抒怀：蝉因高洁而难饱，人因清正而受穷。诗人以蝉自警自励，在牢骚不平之中，仍然守住了自己做人的清白。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "高树难饱",
+      "text": "蝉栖在高树上餐风饮露，难得吃饱。"
+    },
+    {
+      "step": 2,
+      "title": "鸣声欲断",
+      "text": "叫到五更天，鸣声稀疏得快要断绝。"
+    },
+    {
+      "step": 3,
+      "title": "碧树无情",
+      "text": "满树碧绿依旧，对蝉声毫无怜惜。"
+    },
+    {
+      "step": 4,
+      "title": "举家自清",
+      "text": "诗人以蝉自警：我也全家清贫守节。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "薄",
+      "reading": "bó",
+      "reason": "“薄宦”指微薄的官职，书面语读 bó。"
+    },
+    {
+      "char": "梗",
+      "reading": "gěng",
+      "reason": "“梗”指树枝，喻漂泊无定，读 gěng。"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26"
+}

@@ -1,0 +1,151 @@
+{
+  "id": "tang-chutang-shenquanqi-dubujian",
+  "slug": "dubujian",
+  "title": "独不见",
+  "titlePinyin": "dú bú jiàn",
+  "dynasty": "tangshi",
+  "era": "chutang",
+  "genre": "shi",
+  "form": "七言乐府",
+  "authorId": "shenquanqi",
+  "gradeBand": "ext",
+  "tags": ["思念", "七言乐府", "秋天", "明月"],
+  "difficulty": 3,
+  "writtenYear": 698,
+  "writtenLabel": "约公元 698 年（沈佺期 43 岁左右，借乐府旧题写征人思妇的秋夜相思）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "九月寒砧催木叶，十年征戍忆辽阳。"
+  ],
+  "lines": [
+    {
+      "text": "卢家少妇郁金堂，",
+      "pinyin": ["lú", "jiā", "shào", "fù", "yù", "jīn", "táng"],
+      "translation": "卢家少妇住在郁金香熏过的华美堂屋里，",
+      "noteIds": ["n-lujia", "n-yujin"]
+    },
+    {
+      "text": "海燕双栖玳瑁梁。",
+      "pinyin": ["hǎi", "yàn", "shuāng", "qī", "dài", "mào", "liáng"],
+      "translation": "海燕成双成对栖息在玳瑁装饰的房梁上。",
+      "noteIds": ["n-daimao"]
+    },
+    {
+      "text": "九月寒砧催木叶，",
+      "pinyin": ["jiǔ", "yuè", "hán", "zhēn", "cuī", "mù", "yè"],
+      "translation": "九月里捣衣的砧声阵阵，催着树叶纷纷落下，",
+      "noteIds": ["n-hanzhen"]
+    },
+    {
+      "text": "十年征戍忆辽阳。",
+      "pinyin": ["shí", "nián", "zhēng", "shù", "yì", "liáo", "yáng"],
+      "translation": "丈夫远戍辽阳已经十年，她在日夜思念。",
+      "noteIds": ["n-liaoyang"]
+    },
+    {
+      "text": "白狼河北音书断，",
+      "pinyin": ["bái", "láng", "hé", "běi", "yīn", "shū", "duàn"],
+      "translation": "白狼河北岸早已音信断绝，",
+      "noteIds": ["n-bailang"]
+    },
+    {
+      "text": "丹凤城南秋夜长。",
+      "pinyin": ["dān", "fèng", "chéng", "nán", "qiū", "yè", "cháng"],
+      "translation": "丹凤城南的秋夜显得格外漫长。",
+      "noteIds": ["n-danfeng"]
+    },
+    {
+      "text": "谁谓含愁独不见，",
+      "pinyin": ["shuí", "wèi", "hán", "chóu", "dú", "bú", "jiàn"],
+      "translation": "谁说心中含愁就见不到亲人？",
+      "noteIds": []
+    },
+    {
+      "text": "更教明月照流黄。",
+      "pinyin": ["gèng", "jiào", "míng", "yuè", "zhào", "liú", "huáng"],
+      "translation": "偏偏还让明月照着她的帷帐和衣裳。",
+      "noteIds": ["n-liuhuang"]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-lujia",
+      "word": "卢家少妇",
+      "pinyin": "lú jiā shào fù",
+      "meaning": "南朝乐府里洛阳卢家的年轻媳妇，这里代指思妇。"
+    },
+    {
+      "id": "n-yujin",
+      "word": "郁金堂",
+      "pinyin": "yù jīn táng",
+      "meaning": "用郁金香浸酒和泥涂壁的堂屋，形容居所华美。"
+    },
+    {
+      "id": "n-daimao",
+      "word": "玳瑁梁",
+      "pinyin": "dài mào liáng",
+      "meaning": "用玳瑁装饰的屋梁。"
+    },
+    {
+      "id": "n-hanzhen",
+      "word": "寒砧",
+      "pinyin": "hán zhēn",
+      "meaning": "秋天捣衣的砧声，令人想起远方的征人。"
+    },
+    {
+      "id": "n-liaoyang",
+      "word": "辽阳",
+      "pinyin": "liáo yáng",
+      "meaning": "东北边塞之地，今辽宁一带。"
+    },
+    {
+      "id": "n-bailang",
+      "word": "白狼河",
+      "pinyin": "bái láng hé",
+      "meaning": "今辽宁的大凌河。"
+    },
+    {
+      "id": "n-danfeng",
+      "word": "丹凤城",
+      "pinyin": "dān fèng chéng",
+      "meaning": "长安，因城门丹凤门得名。"
+    },
+    {
+      "id": "n-liuhuang",
+      "word": "流黄",
+      "pinyin": "liú huáng",
+      "meaning": "黄色的绢帛，这里指少妇的帷帐衣裳。"
+    }
+  ],
+  "translation": "卢家少妇住在郁金香熏过的华美堂屋里，海燕成双成对栖息在玳瑁装饰的房梁上。九月里捣衣的砧声阵阵，催着树叶纷纷落下；丈夫远戍辽阳已经十年，她在日夜思念。白狼河北岸早已音信断绝，丹凤城南的秋夜显得格外漫长。谁说心中含愁就见不到亲人？偏偏还让明月照着她的帷帐和衣裳。",
+  "appreciation": "这是把律诗写进乐府的名篇。燕子双栖、砧声催叶，处处反衬少妇孤单；十年戍守、音书断绝，愁苦一层层加深。结尾最妙：愁到极处，明月偏偏还来照她的帷帐，好像雪上加霜。全诗对仗工整、情致婉转，被视为唐代七言律诗成熟的标志之一。",
+  "background": "沈佺期生活的年代，边地战事频繁，征人久戍不归。他采用乐府旧题《独不见》，用几乎全是律句的七言八句，写长安城中一位少妇对远戍辽阳的丈夫的思念，具体写作年份已难确定。",
+  "storyline": [
+    { "step": 1, "title": "双燕绕梁", "text": "华美堂屋里海燕双栖，反衬出少妇的孤单。" },
+    { "step": 2, "title": "砧声催秋", "text": "九月寒砧声声响起，木叶纷纷飘落，秋意催人。" },
+    { "step": 3, "title": "音书断绝", "text": "丈夫戍守辽阳已十年，白狼河北音信全无。" },
+    { "step": 4, "title": "明月照愁", "text": "丹凤城南秋夜漫长，明月偏偏照着她的流黄帷帐。" }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "玳瑁",
+      "reading": "dài mào",
+      "reason": "“玳瑁”是一种海龟，壳可做装饰，读 dài mào。"
+    },
+    {
+      "char": "砧",
+      "reading": "zhēn",
+      "reason": "“寒砧”指捣衣的石头，读 zhēn。"
+    },
+    {
+      "char": "戍",
+      "reading": "shù",
+      "reason": "“征戍”指出征驻守边地，读 shù。",
+      "standard": "不要读成 xū"
+    }
+  ],
+  "sources": ["《全唐诗》", "《唐诗三百首》"],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1255
+}

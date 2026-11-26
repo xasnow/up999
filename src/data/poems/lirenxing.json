@@ -1,0 +1,518 @@
+{
+  "id": "tang-shengtang-dufu-lirenxing",
+  "slug": "lirenxing",
+  "title": "丽人行",
+  "titlePinyin": "lì rén xíng",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "七言乐府",
+  "authorId": "dufu",
+  "gradeBand": "ext",
+  "tags": [
+    "讽喻",
+    "春景",
+    "丽人",
+    "七言乐府"
+  ],
+  "difficulty": 3,
+  "writtenYear": 753,
+  "writtenLabel": "约公元 753 年春（杜甫 41 岁，在长安，见杨氏兄妹曲江游宴的奢靡）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "态浓意远淑且真，肌理细腻骨肉匀。",
+    "炙手可热势绝伦，慎莫近前丞相嗔。"
+  ],
+  "lines": [
+    {
+      "text": "三月三日天气新，",
+      "pinyin": [
+        "sān",
+        "yuè",
+        "sān",
+        "rì",
+        "tiān",
+        "qì",
+        "xīn"
+      ],
+      "translation": "三月三日的上巳节，天气清新，",
+      "noteIds": []
+    },
+    {
+      "text": "长安水边多丽人。",
+      "pinyin": [
+        "cháng",
+        "ān",
+        "shuǐ",
+        "biān",
+        "duō",
+        "lì",
+        "rén"
+      ],
+      "translation": "长安曲江水边到处是游春的美人。",
+      "noteIds": []
+    },
+    {
+      "text": "态浓意远淑且真，",
+      "pinyin": [
+        "tài",
+        "nóng",
+        "yì",
+        "yuǎn",
+        "shū",
+        "qiě",
+        "zhēn"
+      ],
+      "translation": "她们姿态浓艳、神情高雅，文淑又自然，",
+      "noteIds": []
+    },
+    {
+      "text": "肌理细腻骨肉匀。",
+      "pinyin": [
+        "jī",
+        "lǐ",
+        "xì",
+        "nì",
+        "gǔ",
+        "ròu",
+        "yún"
+      ],
+      "translation": "肌肤细腻，身材丰瘦匀称。",
+      "noteIds": []
+    },
+    {
+      "text": "绣罗衣裳照暮春，",
+      "pinyin": [
+        "xiù",
+        "luó",
+        "yī",
+        "cháng",
+        "zhào",
+        "mù",
+        "chūn"
+      ],
+      "translation": "绣花的罗衣在暮春的阳光下闪闪发亮，",
+      "noteIds": []
+    },
+    {
+      "text": "蹙金孔雀银麒麟。",
+      "pinyin": [
+        "cù",
+        "jīn",
+        "kǒng",
+        "què",
+        "yín",
+        "qí",
+        "lín"
+      ],
+      "translation": "金线绣的孔雀、银线绣的麒麟在衣上闪光。",
+      "noteIds": [
+        "n-cuojin"
+      ]
+    },
+    {
+      "text": "头上何所有？",
+      "pinyin": [
+        "tóu",
+        "shàng",
+        "hé",
+        "suǒ",
+        "yǒu"
+      ],
+      "translation": "她们头上戴的是什么？",
+      "noteIds": []
+    },
+    {
+      "text": "翠微盍叶垂鬓唇。",
+      "pinyin": [
+        "cuì",
+        "wēi",
+        "hé",
+        "yè",
+        "chuí",
+        "bìn",
+        "chún"
+      ],
+      "translation": "翡翠的花叶饰垂在鬓边。",
+      "noteIds": [
+        "n-cuiwei"
+      ]
+    },
+    {
+      "text": "背后何所见？",
+      "pinyin": [
+        "bèi",
+        "hòu",
+        "hé",
+        "suǒ",
+        "jiàn"
+      ],
+      "translation": "她们背后看到的是什么？",
+      "noteIds": []
+    },
+    {
+      "text": "珠压腰衱稳称身。",
+      "pinyin": [
+        "zhū",
+        "yā",
+        "yāo",
+        "jié",
+        "wěn",
+        "chèn",
+        "shēn"
+      ],
+      "translation": "珍珠缀压的裙带服服帖帖，正好合身。",
+      "noteIds": [
+        "n-yaojie"
+      ]
+    },
+    {
+      "text": "就中云幕椒房亲，",
+      "pinyin": [
+        "jiù",
+        "zhōng",
+        "yún",
+        "mù",
+        "jiāo",
+        "fáng",
+        "qīn"
+      ],
+      "translation": "其中有几位是后妃的亲属，坐在云帐锦幕之中，",
+      "noteIds": [
+        "n-jiaofangqin"
+      ]
+    },
+    {
+      "text": "赐名大国虢与秦。",
+      "pinyin": [
+        "cì",
+        "míng",
+        "dà",
+        "guó",
+        "guó",
+        "yǔ",
+        "qín"
+      ],
+      "translation": "皇帝赐封她们为虢国夫人与秦国夫人。",
+      "noteIds": [
+        "n-guoqin"
+      ]
+    },
+    {
+      "text": "紫驼之峰出翠釜，",
+      "pinyin": [
+        "zǐ",
+        "tuó",
+        "zhī",
+        "fēng",
+        "chū",
+        "cuì",
+        "fǔ"
+      ],
+      "translation": "紫色驼峰肉盛在翠绿的锅里端出，",
+      "noteIds": []
+    },
+    {
+      "text": "水精之盘行素鳞。",
+      "pinyin": [
+        "shuǐ",
+        "jīng",
+        "zhī",
+        "pán",
+        "xíng",
+        "sù",
+        "lín"
+      ],
+      "translation": "水晶盘里盛着鲜白的鳞鱼。",
+      "noteIds": []
+    },
+    {
+      "text": "犀箸厌饫久未下，",
+      "pinyin": [
+        "xī",
+        "zhù",
+        "yàn",
+        "yù",
+        "jiǔ",
+        "wèi",
+        "xià"
+      ],
+      "translation": "犀角筷子早已吃腻了山珍，久久没有动，",
+      "noteIds": [
+        "n-xizhu",
+        "n-yaoyu"
+      ]
+    },
+    {
+      "text": "鸾刀缕切空纷纶。",
+      "pinyin": [
+        "luán",
+        "dāo",
+        "lǚ",
+        "qiè",
+        "kōng",
+        "fēn",
+        "lún"
+      ],
+      "translation": "厨师的鸾刀细细切肉，忙碌却白费。",
+      "noteIds": []
+    },
+    {
+      "text": "黄门飞鞚不动尘，",
+      "pinyin": [
+        "huáng",
+        "mén",
+        "fēi",
+        "kòng",
+        "bù",
+        "dòng",
+        "chén"
+      ],
+      "translation": "宦官骑马飞驰而来，却不起一点尘土，",
+      "noteIds": [
+        "n-kong"
+      ]
+    },
+    {
+      "text": "御厨络绎送八珍。",
+      "pinyin": [
+        "yù",
+        "chú",
+        "luò",
+        "yì",
+        "sòng",
+        "bā",
+        "zhēn"
+      ],
+      "translation": "御厨接连不断地送来八方珍馐。",
+      "noteIds": []
+    },
+    {
+      "text": "箫鼓哀吟感鬼神，",
+      "pinyin": [
+        "xiāo",
+        "gǔ",
+        "āi",
+        "yín",
+        "gǎn",
+        "guǐ",
+        "shén"
+      ],
+      "translation": "箫鼓吹奏出的乐声哀婉动人，仿佛能感动鬼神，",
+      "noteIds": []
+    },
+    {
+      "text": "宾从杂遝实要津。",
+      "pinyin": [
+        "bīn",
+        "cóng",
+        "zá",
+        "tà",
+        "shí",
+        "yāo",
+        "jīn"
+      ],
+      "translation": "宾客随从杂沓而至，都是身居要职的人物。",
+      "noteIds": [
+        "n-zata"
+      ]
+    },
+    {
+      "text": "后来鞍马何逡巡，",
+      "pinyin": [
+        "hòu",
+        "lái",
+        "ān",
+        "mǎ",
+        "hé",
+        "qūn",
+        "xún"
+      ],
+      "translation": "后来到场的骑马者大模大样，缓缓而来，",
+      "noteIds": [
+        "n-qunxun"
+      ]
+    },
+    {
+      "text": "当轩下马入锦茵。",
+      "pinyin": [
+        "dāng",
+        "xuān",
+        "xià",
+        "mǎ",
+        "rù",
+        "jǐn",
+        "yīn"
+      ],
+      "translation": "他当着厅堂前下马，径直踏上锦绣的地毯。",
+      "noteIds": []
+    },
+    {
+      "text": "杨花雪落覆白蘋，",
+      "pinyin": [
+        "yáng",
+        "huā",
+        "xuě",
+        "luò",
+        "fù",
+        "bái",
+        "pín"
+      ],
+      "translation": "杨花像雪一样飘落，覆盖在水面的白蘋上，",
+      "noteIds": []
+    },
+    {
+      "text": "青鸟飞去衔红巾。",
+      "pinyin": [
+        "qīng",
+        "niǎo",
+        "fēi",
+        "qù",
+        "xián",
+        "hóng",
+        "jīn"
+      ],
+      "translation": "青鸟飞去，衔走了传递消息的红手帕。",
+      "noteIds": []
+    },
+    {
+      "text": "炙手可热势绝伦，",
+      "pinyin": [
+        "zhì",
+        "shǒu",
+        "kě",
+        "rè",
+        "shì",
+        "jué",
+        "lún"
+      ],
+      "translation": "他权势之大，烫得别人不敢靠近，",
+      "noteIds": []
+    },
+    {
+      "text": "慎莫近前丞相嗔。",
+      "pinyin": [
+        "shèn",
+        "mò",
+        "jìn",
+        "qián",
+        "chéng",
+        "xiàng",
+        "chēn"
+      ],
+      "translation": "可千万别靠近，小心丞相杨国忠发怒。",
+      "noteIds": []
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-cuojin",
+      "word": "蹙金",
+      "pinyin": "cù jīn",
+      "meaning": "用金线在衣料上绣出起皱的花纹，一种华丽的绣法。"
+    },
+    {
+      "id": "n-cuiwei",
+      "word": "翠微",
+      "pinyin": "cuì wēi",
+      "meaning": "青绿的翡翠，指头上的玉饰。"
+    },
+    {
+      "id": "n-yaojie",
+      "word": "腰衱",
+      "pinyin": "yāo jié",
+      "meaning": "裙腰带。"
+    },
+    {
+      "id": "n-jiaofangqin",
+      "word": "椒房亲",
+      "pinyin": "jiāo fáng qīn",
+      "meaning": "后妃的亲属，这里指杨贵妃的姐姐们。"
+    },
+    {
+      "id": "n-guoqin",
+      "word": "虢与秦",
+      "pinyin": "guó yǔ qín",
+      "meaning": "杨贵妃的两个姐姐，分别被封为虢国夫人和秦国夫人。"
+    },
+    {
+      "id": "n-xizhu",
+      "word": "犀箸",
+      "pinyin": "xī zhù",
+      "meaning": "犀牛角做的筷子。"
+    },
+    {
+      "id": "n-yaoyu",
+      "word": "厌饫",
+      "pinyin": "yàn yù",
+      "meaning": "吃腻了、吃饱了。"
+    },
+    {
+      "id": "n-kong",
+      "word": "鞚",
+      "pinyin": "kòng",
+      "meaning": "马笼头，“飞鞚”指骑马飞驰。"
+    },
+    {
+      "id": "n-zata",
+      "word": "杂遝",
+      "pinyin": "zá tà",
+      "meaning": "众多杂乱的样子，同“杂沓”。"
+    },
+    {
+      "id": "n-qunxun",
+      "word": "逡巡",
+      "pinyin": "qūn xún",
+      "meaning": "从容缓行、旁若无人的样子。"
+    }
+  ],
+  "translation": "三月三日的上巳节，天气清新，长安曲江水边到处是游春的美人。她们姿态浓艳、神情高雅，文淑又自然，肌肤细腻，身材丰瘦匀称。绣花的罗衣在暮春的阳光下闪闪发亮，金线绣的孔雀、银线绣的麒麟在衣上闪光。她们头上戴的是什么？翡翠的花叶饰垂在鬓边；背后看到的是什么？珍珠缀压的裙带服服帖帖，正好合身。其中有几位是后妃的亲属，坐在云帐锦幕之中，皇帝赐封她们为虢国夫人与秦国夫人。紫色驼峰肉盛在翠绿的锅里端出，水晶盘里盛着鲜白的鳞鱼。犀角筷子早已吃腻了山珍，久久没有动，厨师的鸾刀细细切肉，忙碌却白费。宦官骑马飞驰而来，不起一点尘土，御厨接连不断地送来八方珍馐。箫鼓的乐声哀婉动人，仿佛能感动鬼神，宾客随从杂沓而至，都是身居要职的人物。后来到场的骑马者大模大样，缓缓而来，当着厅堂前下马，径直踏上锦绣的地毯。杨花像雪一样飘落，覆盖在水面的白蘋上，青鸟飞去，衔走了传递消息的红手帕。他权势之大，烫得别人不敢靠近，可千万别靠近，小心丞相杨国忠发怒。",
+  "appreciation": "这幅曲江游宴图，全是工笔：衣饰、饮食、排场，一笔笔都画得极尽华丽。可华丽到了“犀箸厌饫久未下”的地步，讽刺的意思已经藏不住了——山珍白切、御厨白忙，吃的人根本不稀罕。最后杨国忠登场，旁若无人、炙手可热，一句“慎莫近前丞相嗔”，冷冷一句，把外戚骄横的气焰和诗人无声的憎恶都写了出来。",
+  "background": "杨贵妃得宠后，她的三位姐姐分别封为韩国、虢国、秦国夫人，杨国忠也当上丞相。杨氏兄妹每年三月三在曲江游宴，排场铺张、权势熏天。约公元753年春，杜甫在长安目睹此景，写下这首诗暗含讽刺。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "曲江丽人",
+      "text": "三月三上巳节，长安水边丽人如云。"
+    },
+    {
+      "step": 2,
+      "title": "衣饰奢华",
+      "text": "蹙金绣罗、翡翠珠压，极尽华美。"
+    },
+    {
+      "step": 3,
+      "title": "珍馐白费",
+      "text": "驼峰素鳞摆满宴席，犀箸久未动一口。"
+    },
+    {
+      "step": 4,
+      "title": "丞相嗔怒",
+      "text": "杨国忠骑马当轩而入，炙手可热莫敢近前。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "蹙",
+      "reading": "cù",
+      "reason": "“蹙金”是绣出起皱花纹的绣法，读 cù。"
+    },
+    {
+      "char": "衱",
+      "reading": "jié",
+      "reason": "“腰衱”指裙腰带，读 jié。"
+    },
+    {
+      "char": "遝",
+      "reading": "tà",
+      "reason": "“杂遝”是众多杂乱的样子，读 tà。"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1253
+}

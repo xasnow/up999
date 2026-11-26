@@ -1,0 +1,113 @@
+{
+  "id": "tang-chutang-luobinwang-zai-yu-yong-chan",
+  "slug": "zai-yu-yong-chan",
+  "title": "在狱咏蝉",
+  "titlePinyin": "zài yù yǒng chán",
+  "dynasty": "tangshi",
+  "era": "chutang",
+  "genre": "shi",
+  "form": "五言律诗",
+  "authorId": "luobinwang",
+  "gradeBand": "ext",
+  "tags": ["咏物", "五言律诗", "蝉", "秋天"],
+  "difficulty": 3,
+  "writtenYear": 678,
+  "writtenLabel": "公元 678 年（骆宾王 59 岁，任侍御史时蒙冤下狱）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "无人信高洁，谁为表予心。"
+  ],
+  "lines": [
+    {
+      "text": "西陆蝉声唱，",
+      "pinyin": ["xī", "lù", "chán", "shēng", "chàng"],
+      "translation": "秋天里蝉在高声鸣唱，",
+      "noteIds": ["n-xilu"]
+    },
+    {
+      "text": "南冠客思深。",
+      "pinyin": ["nán", "guān", "kè", "sī", "shēn"],
+      "translation": "身陷牢狱的我愁思深深。",
+      "noteIds": ["n-nanguan"]
+    },
+    {
+      "text": "不堪玄鬓影，",
+      "pinyin": ["bù", "kān", "xuán", "bìn", "yǐng"],
+      "translation": "不忍细看那乌黑蝉翼的身影，",
+      "noteIds": ["n-xuanbin"]
+    },
+    {
+      "text": "来对白头吟。",
+      "pinyin": ["lái", "duì", "bái", "tóu", "yín"],
+      "translation": "它偏偏来对着白发的我低声吟唱。",
+      "noteIds": []
+    },
+    {
+      "text": "露重飞难进，",
+      "pinyin": ["lù", "zhòng", "fēi", "nán", "jìn"],
+      "translation": "秋露太重，蝉想飞也难以前进，",
+      "noteIds": []
+    },
+    {
+      "text": "风多响易沉。",
+      "pinyin": ["fēng", "duō", "xiǎng", "yì", "chén"],
+      "translation": "风声太大，它的鸣叫容易被淹没。",
+      "noteIds": []
+    },
+    {
+      "text": "无人信高洁，",
+      "pinyin": ["wú", "rén", "xìn", "gāo", "jié"],
+      "translation": "没有人相信它的高洁，",
+      "noteIds": ["n-gaojie"]
+    },
+    {
+      "text": "谁为表予心。",
+      "pinyin": ["shuí", "wèi", "biǎo", "yú", "xīn"],
+      "translation": "又有谁能替我表白这颗心呢。",
+      "noteIds": []
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-xilu",
+      "word": "西陆",
+      "pinyin": "xī lù",
+      "meaning": "指秋天。古人按太阳运行的方位把季节分为东陆、西陆等，西陆对应秋天。"
+    },
+    {
+      "id": "n-nanguan",
+      "word": "南冠",
+      "pinyin": "nán guān",
+      "meaning": "囚犯的代称。典故出自楚国囚徒戴着南方样式的帽子。"
+    },
+    {
+      "id": "n-xuanbin",
+      "word": "玄鬓",
+      "pinyin": "xuán bìn",
+      "meaning": "乌黑色的鬓发，这里指蝉黑色的翅膀，形状像古代妇女的鬓发。"
+    },
+    {
+      "id": "n-gaojie",
+      "word": "高洁",
+      "pinyin": "gāo jié",
+      "meaning": "品格高尚纯洁。蝉栖在高树上、只饮露水，古人认为它高洁。"
+    }
+  ],
+  "translation": "秋天里蝉在高声鸣唱，身陷牢狱的我愁思深深。不忍细看那乌黑蝉翼的身影，它偏偏来对着白发的我低声吟唱。秋露太重，蝉想飞也难以前进；风声太大，它的鸣叫容易被淹没。没有人相信它的高洁，又有谁能替我表白这颗心呢？",
+  "appreciation": "骆宾王坐牢时听见蝉叫，写下这首诗。蝉住在高高的树上，喝露水过日子，古人说它高洁；可它露重难飞、风大声哑，多像诗人蒙冤受屈的处境！诗人一句写蝉，一句写自己，蝉和人合在一起。最后他问：谁肯替这只“高洁”的蝉、替我这个人说一句公道话呢？千年后读来仍然让人心疼。",
+  "background": "唐高宗仪凤三年（678 年），骆宾王任侍御史，因上书议论政事被人诬陷，关进了监狱。狱中墙外有几棵古槐树，树上的蝉声不断。他想借蝉表明自己的清白，还在诗前写了一段小序，说出借蝉咏怀的写作缘由。",
+  "storyline": [
+    { "step": 1, "title": "狱中闻蝉", "text": "秋天的蝉在墙外鸣叫，狱中的诗人愁绪深深。" },
+    { "step": 2, "title": "蝉对白头", "text": "乌黑的蝉影，正对着白头愁苦的诗人。" },
+    { "step": 3, "title": "露重难飞", "text": "露水压得蝉飞不动，风声盖住了它的鸣叫。" },
+    { "step": 4, "title": "无人表心", "text": "没人相信蝉的高洁，谁又能替诗人表白清白呢？" }
+  ],
+  "pinyinNotes": [
+    { "char": "为", "reading": "wèi", "reason": "“谁为表予心”的“为”是“替、给”的意思，读 wèi。" },
+    { "char": "予", "reading": "yú", "reason": "“表予心”的“予”是“我”的意思，读 yú。" }
+  ],
+  "sources": ["《全唐诗》", "《唐诗三百首》"],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1116
+}

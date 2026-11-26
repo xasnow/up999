@@ -1,0 +1,233 @@
+{
+  "id": "tang-wantang-dumu-lvusu",
+  "slug": "lvusu",
+  "title": "旅宿",
+  "titlePinyin": "lǚ sù",
+  "dynasty": "tangshi",
+  "era": "wantang",
+  "genre": "shi",
+  "form": "五言律诗",
+  "authorId": "dumu",
+  "gradeBand": "ext",
+  "tags": [
+    "思乡",
+    "五言律诗",
+    "孤雁",
+    "月夜"
+  ],
+  "difficulty": 3,
+  "writtenYear": 842,
+  "writtenLabel": "作年不详，约公元 842 年（杜牧 40 岁，外放州刺史，旅途夜宿）",
+  "orderInAuthor": 1,
+  "no": 1079,
+  "famousLines": [
+    "远梦归侵晓，家书到隔年。"
+  ],
+  "lines": [
+    {
+      "text": "旅馆无良伴，",
+      "pinyin": [
+        "lǚ",
+        "guǎn",
+        "wú",
+        "liáng",
+        "bàn"
+      ],
+      "translation": "旅馆里没有知心的同伴，",
+      "noteIds": []
+    },
+    {
+      "text": "凝情自悄然。",
+      "pinyin": [
+        "níng",
+        "qíng",
+        "zì",
+        "qiǎo",
+        "rán"
+      ],
+      "translation": "我满怀心事，独自默默无言。",
+      "noteIds": [
+        "n-ningqing",
+        "n-qiaoran"
+      ]
+    },
+    {
+      "text": "寒灯思旧事，",
+      "pinyin": [
+        "hán",
+        "dēng",
+        "sī",
+        "jiù",
+        "shì"
+      ],
+      "translation": "对着寒灯回想旧日的事情，",
+      "noteIds": []
+    },
+    {
+      "text": "断雁警愁眠。",
+      "pinyin": [
+        "duàn",
+        "yàn",
+        "jǐng",
+        "chóu",
+        "mián"
+      ],
+      "translation": "失群孤雁的叫声惊动了愁绪中的睡眠。",
+      "noteIds": [
+        "n-duanyan",
+        "n-jing"
+      ]
+    },
+    {
+      "text": "远梦归侵晓，",
+      "pinyin": [
+        "yuǎn",
+        "mèng",
+        "guī",
+        "qīn",
+        "xiǎo"
+      ],
+      "translation": "梦里回到家乡，天刚亮就被唤醒，",
+      "noteIds": [
+        "n-qinxiao"
+      ]
+    },
+    {
+      "text": "家书到隔年。",
+      "pinyin": [
+        "jiā",
+        "shū",
+        "dào",
+        "gé",
+        "nián"
+      ],
+      "translation": "家书却要隔上一年才能到达。",
+      "noteIds": [
+        "n-ge"
+      ]
+    },
+    {
+      "text": "沧江好烟月，",
+      "pinyin": [
+        "cāng",
+        "jiāng",
+        "hǎo",
+        "yān",
+        "yuè"
+      ],
+      "translation": "门外沧江上烟水月色正好，",
+      "noteIds": [
+        "n-cangjiang"
+      ]
+    },
+    {
+      "text": "门系钓鱼船。",
+      "pinyin": [
+        "mén",
+        "xì",
+        "diào",
+        "yú",
+        "chuán"
+      ],
+      "translation": "江边门前系着一只钓鱼船。",
+      "noteIds": [
+        "n-xi"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-ningqing",
+      "word": "凝情",
+      "pinyin": "níng qíng",
+      "meaning": "情思凝聚，满怀心事。"
+    },
+    {
+      "id": "n-qiaoran",
+      "word": "悄然",
+      "pinyin": "qiǎo rán",
+      "meaning": "忧愁的样子。"
+    },
+    {
+      "id": "n-duanyan",
+      "word": "断雁",
+      "pinyin": "duàn yàn",
+      "meaning": "失群的孤雁。"
+    },
+    {
+      "id": "n-jing",
+      "word": "警",
+      "pinyin": "jǐng",
+      "meaning": "惊醒，警醒。"
+    },
+    {
+      "id": "n-qinxiao",
+      "word": "侵晓",
+      "pinyin": "qīn xiǎo",
+      "meaning": "天快亮的时候。"
+    },
+    {
+      "id": "n-ge",
+      "word": "隔年",
+      "pinyin": "gé nián",
+      "meaning": "隔上一年，形容家书迟迟难到。"
+    },
+    {
+      "id": "n-cangjiang",
+      "word": "沧江",
+      "pinyin": "cāng jiāng",
+      "meaning": "青苍色的江水。"
+    },
+    {
+      "id": "n-xi",
+      "word": "系",
+      "pinyin": "xì",
+      "meaning": "拴住，系住。"
+    }
+  ],
+  "translation": "旅馆里没有知心的同伴，我满怀心事，独自默默无言。对着寒灯回想旧日的事情，失群孤雁的叫声惊动了愁绪中的睡眠。梦里回到家乡，天刚亮就被唤醒，家书却要隔上一年才能到达。门外沧江上烟水月色正好，江边门前系着一只钓鱼船。",
+  "appreciation": "这是旅途夜宿的心事。寒灯、孤雁、愁眠，一盏灯下全是回忆；梦里回家却在天亮时被惊醒，家书要隔年才到，乡愁写得又深又痛。结尾忽然宕开一笔：江上烟月正好，门前系着渔船——别人可以自在打渔，自己却还要继续赶路。羡慕之情，正是失意之情的反写。",
+  "background": "杜牧一直想做有作为的官，却长年在外地做幕僚、州官，四处奔波。这首诗作年已难确定，一般认为写于他外放州刺史、旅途夜宿之时。夜里独自住在旅馆，寒灯孤雁引出满腹乡愁和失意。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "孤馆独坐",
+      "text": "旅馆里没有知心同伴，诗人满怀心事默默独坐。"
+    },
+    {
+      "step": 2,
+      "title": "寒灯忆旧",
+      "text": "对着寒灯想起旧事，孤雁的叫声又惊醒了愁人的睡眠。"
+    },
+    {
+      "step": 3,
+      "title": "梦短书迟",
+      "text": "梦中天刚亮就到了家门口，家书却要隔年才能到。"
+    },
+    {
+      "step": 4,
+      "title": "江上渔船",
+      "text": "门外沧江烟月美好，一只钓鱼船静静地系在门前。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "悄",
+      "reading": "qiǎo",
+      "reason": "“悄然”是忧愁的样子，读 qiǎo。",
+      "standard": "不要读成 qiāo"
+    },
+    {
+      "char": "系",
+      "reading": "xì",
+      "reason": "“门系钓鱼船”是门前拴着钓鱼船，“系”是拴的意思，读 xì。",
+      "standard": "不要读成 jì"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26"
+}

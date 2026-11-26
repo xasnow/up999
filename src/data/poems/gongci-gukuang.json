@@ -1,0 +1,176 @@
+{
+  "id": "tang-zhongtang-gukuang-gongci-gukuang",
+  "slug": "gongci-gukuang",
+  "title": "宫词五首·其二",
+  "titlePinyin": "gōng cí wǔ shǒu · qí èr",
+  "dynasty": "tangshi",
+  "era": "zhongtang",
+  "genre": "shi",
+  "form": "七言绝句",
+  "authorId": "gukuang",
+  "gradeBand": "ext",
+  "tags": [
+    "宫怨",
+    "七言绝句",
+    "月夜",
+    "秋天"
+  ],
+  "difficulty": 3,
+  "writtenYear": 788,
+  "writtenLabel": "约公元 788 年（顾况 60 多岁，在长安任著作郎，写下宫词组诗）",
+  "orderInAuthor": 1,
+  "no": 1044,
+  "famousLines": [
+    "月殿影开闻夜漏，水晶帘卷近秋河。"
+  ],
+  "lines": [
+    {
+      "text": "玉楼天半起笙歌，",
+      "pinyin": [
+        "yù",
+        "lóu",
+        "tiān",
+        "bàn",
+        "qǐ",
+        "shēng",
+        "gē"
+      ],
+      "translation": "玉楼的高处飘下来阵阵笙歌，",
+      "noteIds": [
+        "n-shengge"
+      ]
+    },
+    {
+      "text": "风送宫嫔笑语和。",
+      "pinyin": [
+        "fēng",
+        "sòng",
+        "gōng",
+        "pín",
+        "xiào",
+        "yǔ",
+        "hé"
+      ],
+      "translation": "晚风把宫女的欢声笑语送过来，听起来十分和谐。",
+      "noteIds": [
+        "n-gongpin"
+      ]
+    },
+    {
+      "text": "月殿影开闻夜漏，",
+      "pinyin": [
+        "yuè",
+        "diàn",
+        "yǐng",
+        "kāi",
+        "wén",
+        "yè",
+        "lòu"
+      ],
+      "translation": "月光下殿门缓缓打开，静夜里能听见滴漏的声音，",
+      "noteIds": [
+        "n-yelou"
+      ]
+    },
+    {
+      "text": "水晶帘卷近秋河。",
+      "pinyin": [
+        "shuǐ",
+        "jīng",
+        "lián",
+        "juǎn",
+        "jìn",
+        "qiū",
+        "hé"
+      ],
+      "translation": "卷起水晶帘向外望去，秋夜的银河仿佛近在眼前。",
+      "noteIds": [
+        "n-shuijinglian",
+        "n-qiuhe"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-shengge",
+      "word": "笙歌",
+      "pinyin": "shēng gē",
+      "meaning": "笙管奏出的乐曲声，泛指音乐歌舞。"
+    },
+    {
+      "id": "n-gongpin",
+      "word": "宫嫔",
+      "pinyin": "gōng pín",
+      "meaning": "宫中的妃嫔和宫女。"
+    },
+    {
+      "id": "n-yelou",
+      "word": "夜漏",
+      "pinyin": "yè lòu",
+      "meaning": "古代滴水计时的器物，这里指夜里滴漏报时的声音。"
+    },
+    {
+      "id": "n-shuijinglian",
+      "word": "水晶帘",
+      "pinyin": "shuǐ jīng lián",
+      "meaning": "水晶珠串成的帘子，晶莹透亮。"
+    },
+    {
+      "id": "n-qiuhe",
+      "word": "秋河",
+      "pinyin": "qiū hé",
+      "meaning": "秋夜的银河。"
+    }
+  ],
+  "translation": "玉楼的高处飘下来阵阵笙歌，晚风把宫女的欢声笑语送过来，听起来十分和谐。月光下，宫殿的门影缓缓打开，静夜里能听见滴漏的声音。卷起水晶帘向外望去，秋夜的银河仿佛近在眼前。",
+  "appreciation": "诗人写深宫的夜晚：远处玉楼上笙歌阵阵，风把宫女的笑声送过来，听起来热闹欢快。可镜头一转，月光下的殿门缓缓打开，四周静得能听见滴漏声；卷起水晶帘，秋夜的银河好像近在眼前。越热闹越显出冷清，越安静越显出孤单。诗人没有明说宫人的寂寞，全让画面替他说话，这正是这首宫词的高明之处。",
+  "background": "顾况在长安做官时，有机会观察宫廷生活。他看到宫女住在华丽的大殿里，白天热闹，夜里却很冷清，于是写了一组《宫词》共五首，这是其中的第二首，写的是深宫夜晚的歌声与寂静。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "高楼笙歌",
+      "text": "夜色里，华美的玉楼高处响起笙歌，乐声随风飘得很远。"
+    },
+    {
+      "step": 2,
+      "title": "风送笑语",
+      "text": "晚风把宫女的欢声笑语送到远处，听着热闹又欢快。"
+    },
+    {
+      "step": 3,
+      "title": "月殿夜漏",
+      "text": "月光下殿门缓缓打开，四周安静，只听见夜里滴漏的声音。"
+    },
+    {
+      "step": 4,
+      "title": "帘卷秋河",
+      "text": "卷起水晶帘，秋夜的银河近在眼前，热闹背后是深深的冷清。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "嫔",
+      "reading": "pín",
+      "reason": "“宫嫔”指宫中的妃嫔宫女，“嫔”读 pín。",
+      "standard": "不要读成 píng"
+    },
+    {
+      "char": "和",
+      "reading": "hé",
+      "reason": "“笑语和”是说笑声歌声和谐，读 hé。",
+      "standard": "不要读成 hè"
+    },
+    {
+      "char": "卷",
+      "reading": "juǎn",
+      "reason": "“帘卷”是把帘子卷起来，读 juǎn。",
+      "standard": "不要读成 juàn"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26"
+}

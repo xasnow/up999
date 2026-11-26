@@ -1,0 +1,188 @@
+{
+  "id": "tang-wantang-dumu-chibi",
+  "slug": "chibi",
+  "title": "赤壁",
+  "titlePinyin": "chì bì",
+  "dynasty": "tangshi",
+  "era": "wantang",
+  "genre": "shi",
+  "form": "七言绝句",
+  "authorId": "dumu",
+  "gradeBand": "ext",
+  "tags": [
+    "怀古",
+    "七言绝句",
+    "长江",
+    "东风"
+  ],
+  "difficulty": 3,
+  "writtenYear": 843,
+  "writtenLabel": "约公元 843 年（杜牧 41 岁，任黄州刺史，游赤壁矶凭吊古战场）",
+  "orderInAuthor": 1,
+  "no": 1028,
+  "famousLines": [
+    "东风不与周郎便，铜雀春深锁二乔。"
+  ],
+  "lines": [
+    {
+      "text": "折戟沉沙铁未销，",
+      "pinyin": [
+        "zhé",
+        "jǐ",
+        "chén",
+        "shā",
+        "tiě",
+        "wèi",
+        "xiāo"
+      ],
+      "translation": "一支折断的戟沉埋在江沙里，铁还没有锈尽，",
+      "noteIds": [
+        "n-zheji"
+      ]
+    },
+    {
+      "text": "自将磨洗认前朝。",
+      "pinyin": [
+        "zì",
+        "jiāng",
+        "mó",
+        "xǐ",
+        "rèn",
+        "qián",
+        "cháo"
+      ],
+      "translation": "我拿它磨洗干净，认出这是前朝的遗物。",
+      "noteIds": [
+        "n-jiang",
+        "n-qianchao"
+      ]
+    },
+    {
+      "text": "东风不与周郎便，",
+      "pinyin": [
+        "dōng",
+        "fēng",
+        "bù",
+        "yǔ",
+        "zhōu",
+        "láng",
+        "biàn"
+      ],
+      "translation": "假如东风不给周瑜方便，",
+      "noteIds": [
+        "n-zhoulang",
+        "n-dongfeng"
+      ]
+    },
+    {
+      "text": "铜雀春深锁二乔。",
+      "pinyin": [
+        "tóng",
+        "què",
+        "chūn",
+        "shēn",
+        "suǒ",
+        "èr",
+        "qiáo"
+      ],
+      "translation": "铜雀台的深春里，恐怕早已锁住了大乔小乔。",
+      "noteIds": [
+        "n-tongque",
+        "n-erqiao"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-zheji",
+      "word": "折戟",
+      "pinyin": "zhé jǐ",
+      "meaning": "折断的戟。戟是古代一种长柄兵器。"
+    },
+    {
+      "id": "n-jiang",
+      "word": "将",
+      "pinyin": "jiāng",
+      "meaning": "拿，把。"
+    },
+    {
+      "id": "n-qianchao",
+      "word": "前朝",
+      "pinyin": "qián cháo",
+      "meaning": "这里指三国时期。"
+    },
+    {
+      "id": "n-zhoulang",
+      "word": "周郎",
+      "pinyin": "zhōu láng",
+      "meaning": "指周瑜，三国时吴国的名将。"
+    },
+    {
+      "id": "n-dongfeng",
+      "word": "东风",
+      "pinyin": "dōng fēng",
+      "meaning": "指赤壁之战中帮吴军火攻曹营的那场东风。"
+    },
+    {
+      "id": "n-tongque",
+      "word": "铜雀",
+      "pinyin": "tóng què",
+      "meaning": "指铜雀台，曹操在邺城修建的高台。"
+    },
+    {
+      "id": "n-erqiao",
+      "word": "二乔",
+      "pinyin": "èr qiáo",
+      "meaning": "东吴美女大乔、小乔：大乔嫁孙策，小乔嫁周瑜。"
+    }
+  ],
+  "translation": "一支折断的戟沉埋在江沙里，铁还没有锈尽，我拿它磨洗干净，认出这是前朝的遗物。假如东风不给周瑜方便，铜雀台的深春里，恐怕早已锁住了大乔小乔。",
+  "appreciation": "诗人从沙里一支断戟写起，小小遗物引出一场大战。他偏不夸周瑜的胜利，反而倒过来想：如果东风不来，吴国就败了，两位美女会被曹操掳去。用两位女子的命运写国家存亡，既巧妙又大胆。全诗提醒人们：成功常常要靠机遇，英雄也不是只靠本领。",
+  "background": "公元843年前后，杜牧任黄州刺史。黄州城外有赤壁矶，相传是三国赤壁古战场。杜牧游览时得到一件兵器遗物，想起那场改变天下的大战和周瑜的运气，写下这首借古抒怀的诗。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "沙中折戟",
+      "text": "江边沙里埋着一支折断的戟，铁还没有锈蚀干净。"
+    },
+    {
+      "step": 2,
+      "title": "磨洗认朝",
+      "text": "诗人把它磨洗干净，认出这是三国时期的兵器。"
+    },
+    {
+      "step": 3,
+      "title": "遥想东风",
+      "text": "他想起赤壁之战，东风帮了周瑜，大火烧毁了曹军战船。"
+    },
+    {
+      "step": 4,
+      "title": "反问二乔",
+      "text": "他反过来设想：若无东风，大乔小乔早被锁进铜雀台。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "戟",
+      "reading": "jǐ",
+      "reason": "戟是古代一种长柄兵器，“折戟”读 zhé jǐ。"
+    },
+    {
+      "char": "销",
+      "reading": "xiāo",
+      "reason": "“铁未销”是铁还没有完全锈蚀掉，读 xiāo。"
+    },
+    {
+      "char": "将",
+      "reading": "jiāng",
+      "reason": "“自将磨洗”是自己拿来磨洗干净，“将”是拿的意思，读 jiāng。",
+      "standard": "不要读成 jiàng"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26"
+}

@@ -1,0 +1,120 @@
+{
+  "id": "tang-zhongtang-yuanzhen-qianbeihuai-zhisan",
+  "slug": "qianbeihuai-zhisan",
+  "title": "遣悲怀三首·其三",
+  "titlePinyin": "qiǎn bēi huái sān shǒu · qí sān",
+  "dynasty": "tangshi",
+  "era": "zhongtang",
+  "genre": "shi",
+  "form": "七言律诗",
+  "authorId": "yuanzhen",
+  "gradeBand": "ext",
+  "difficulty": 3,
+  "tags": ["思念", "七言律诗", "长夜"],
+  "writtenYear": 809,
+  "writtenLabel": "公元 809 年（元稹 31 岁，悼念亡妻韦丛）",
+  "orderInAuthor": 3,
+  "famousLines": [
+    "惟将终夜长开眼，报答平生未展眉。"
+  ],
+  "lines": [
+    {
+      "text": "闲坐悲君亦自悲，",
+      "pinyin": ["xián", "zuò", "bēi", "jūn", "yì", "zì", "bēi"],
+      "translation": "闲坐着为你悲伤，也为自己悲伤，",
+      "noteIds": []
+    },
+    {
+      "text": "百年多是几多时。",
+      "pinyin": ["bǎi", "nián", "duō", "shì", "jǐ", "duō", "shí"],
+      "translation": "人生百年，大抵又能有多少时光呢？",
+      "noteIds": []
+    },
+    {
+      "text": "邓攸无子寻知命，",
+      "pinyin": ["dèng", "yōu", "wú", "zǐ", "xún", "zhī", "mìng"],
+      "translation": "邓攸那样没有儿子，不久就知道是命中注定，",
+      "noteIds": ["n-dengyou"]
+    },
+    {
+      "text": "潘岳悼亡犹费词。",
+      "pinyin": ["pān", "yuè", "dào", "wáng", "yóu", "fèi", "cí"],
+      "translation": "潘岳悼亡的诗写得再好，也只是白费笔墨。",
+      "noteIds": ["n-panyue"]
+    },
+    {
+      "text": "同穴窅冥何所望，",
+      "pinyin": ["tóng", "xué", "yǎo", "míng", "hé", "suǒ", "wàng"],
+      "translation": "即使死后同穴，墓穴幽暗深沉，又能指望什么呢？",
+      "noteIds": ["n-tongxue"]
+    },
+    {
+      "text": "他生缘会更难期。",
+      "pinyin": ["tā", "shēng", "yuán", "huì", "gèng", "nán", "qī"],
+      "translation": "来生再做夫妻，更是难以指望的事。",
+      "noteIds": []
+    },
+    {
+      "text": "惟将终夜长开眼，",
+      "pinyin": ["wéi", "jiāng", "zhōng", "yè", "cháng", "kāi", "yǎn"],
+      "translation": "只有整夜整夜睁着眼睛睡不着，",
+      "noteIds": ["n-changkaiyan"]
+    },
+    {
+      "text": "报答平生未展眉。",
+      "pinyin": ["bào", "dá", "píng", "shēng", "wèi", "zhǎn", "méi"],
+      "translation": "来报答你一生不曾舒展过的愁眉。",
+      "noteIds": ["n-zhanmei"]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-dengyou",
+      "word": "邓攸",
+      "pinyin": "dèng yōu",
+      "meaning": "西晋官员。逃难时为救侄子丢下了自己的儿子，后来终身无子。寻知命，不久就知道这是命中注定。"
+    },
+    {
+      "id": "n-panyue",
+      "word": "潘岳",
+      "pinyin": "pān yuè",
+      "meaning": "西晋文学家，妻子死后写了有名的《悼亡诗》，后代常借他指悼念亡妻。"
+    },
+    {
+      "id": "n-tongxue",
+      "word": "同穴",
+      "pinyin": "tóng xué",
+      "meaning": "指夫妻死后合葬在一个墓穴里。窅冥，深远幽暗、看不见的样子。"
+    },
+    {
+      "id": "n-changkaiyan",
+      "word": "长开眼",
+      "pinyin": "cháng kāi yǎn",
+      "meaning": "整夜睁着眼睛睡不着。传说鳏鱼不闭眼，这里暗用“鳏夫”的意思。"
+    },
+    {
+      "id": "n-zhanmei",
+      "word": "未展眉",
+      "pinyin": "wèi zhǎn méi",
+      "meaning": "眉头从来没有舒展过，指妻子生前一直过愁苦的日子。"
+    }
+  ],
+  "translation": "闲坐着为你悲伤，也为自己悲伤，人生百年，大抵又能有多少时光呢？邓攸那样没有儿子，不久就知道是命中注定；潘岳悼亡的诗写得再好，也只是白费笔墨。即使死后同穴，墓穴幽暗深沉，又能指望什么呢？来生再做夫妻，更是难以指望的事。只有整夜整夜睁着眼睛睡不着，来报答你一生不曾舒展过的愁眉。",
+  "appreciation": "前两首忆旧，这一首是诀别。诗人从悲君写到自悲，又觉得连悼亡的诗和死后同穴的想望都没有用，全部深情只能化作一个动作：整夜睁着眼，替妻子补回她一生没舒展过的眉头。悲伤到极处反而说得平静，这种克制的深情，正是《遣悲怀》三首最打动人的地方。",
+  "background": "这是《遣悲怀》的第三首。韦丛去世后，元稹久久不能平静：自己和她一样命运多舛，悼亡诗写得再多也无法让她回来。诗里连用邓攸、潘岳两个典故，把无子之憾与悼亡之痛都说尽，最后以长夜不眠作结，感情最为沉痛。",
+  "storyline": [
+    { "step": 1, "title": "闲坐自悲", "text": "诗人闲坐着悲悼亡妻，又想到人生百年实在太短。" },
+    { "step": 2, "title": "用典说憾", "text": "邓攸无子是命，潘岳悼亡诗写得再好，也是空费笔墨。" },
+    { "step": 3, "title": "幽冥难望", "text": "死后同葬一穴又如何？来生再做夫妻更是难以指望。" },
+    { "step": 4, "title": "长夜不眠", "text": "只能整夜睁着眼不睡，报答她一生未曾舒展的愁眉。" }
+  ],
+  "pinyinNotes": [
+    { "char": "窅", "reading": "yǎo", "reason": "“窅冥”形容幽暗深远，常用来写墓穴。", "standard": "不要读成 miǎo" },
+    { "char": "穴", "reading": "xué", "reason": "“同穴”指合葬在一个墓穴里，读 xué。", "standard": "不要读成 xuè" },
+    { "char": "邓攸", "reading": "dèng yōu", "reason": "人名，西晋官员，为救侄子丢弃亲子，终身无子。", "standard": "“攸”不要读成 xiū" }
+  ],
+  "sources": ["《全唐诗》", "《唐诗三百首》", "《元氏长庆集》"],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1121
+}

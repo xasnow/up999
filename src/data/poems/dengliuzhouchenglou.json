@@ -1,0 +1,93 @@
+{
+  "id": "tang-zhongtang-liuzongyuan-dengliuzhouchenglou",
+  "slug": "dengliuzhouchenglou",
+  "title": "登柳州城楼寄漳汀封连四州",
+  "titlePinyin": "dēng liǔ zhōu chéng lóu jì zhāng tīng fēng lián sì zhōu",
+  "dynasty": "tangshi",
+  "era": "zhongtang",
+  "genre": "shi",
+  "form": "七言律诗",
+  "authorId": "liuzongyuan",
+  "gradeBand": "ext",
+  "tags": ["思念", "七言律诗", "风雨", "岭树"],
+  "difficulty": 3,
+  "writtenYear": 815,
+  "writtenLabel": "约公元 815 年（柳宗元 42 岁，初任柳州刺史，登城楼怀念同贬漳、汀、封、连四州的友人）",
+  "orderInAuthor": 1,
+  "famousLines": ["岭树重遮千里目，江流曲似九回肠。"],
+  "lines": [
+    {
+      "text": "城上高楼接大荒，",
+      "pinyin": ["chéng", "shàng", "gāo", "lóu", "jiē", "dà", "huāng"],
+      "translation": "我从柳州城上高高的楼台望出去，一直望到荒远的边地。",
+      "noteIds": []
+    },
+    {
+      "text": "海天愁思正茫茫。",
+      "pinyin": ["hǎi", "tiān", "chóu", "sī", "zhèng", "máng", "máng"],
+      "translation": "面对海天相接的地方，愁思像大海一样无边无际。",
+      "noteIds": []
+    },
+    {
+      "text": "惊风乱飐芙蓉水，",
+      "pinyin": ["jīng", "fēng", "luàn", "zhǎn", "fú", "róng", "shuǐ"],
+      "translation": "狂风乱吹，水面上的荷花摇动不停。",
+      "noteIds": ["n-zhan"]
+    },
+    {
+      "text": "密雨斜侵薜荔墙。",
+      "pinyin": ["mì", "yǔ", "xié", "qīn", "bì", "lì", "qiáng"],
+      "translation": "密密的雨斜斜地打在长满薜荔的墙上。",
+      "noteIds": ["n-bili"]
+    },
+    {
+      "text": "岭树重遮千里目，",
+      "pinyin": ["lǐng", "shù", "chóng", "zhē", "qiān", "lǐ", "mù"],
+      "translation": "山岭上层层叠叠的树林，挡住了我眺望千里的目光。",
+      "noteIds": ["n-chong"]
+    },
+    {
+      "text": "江流曲似九回肠。",
+      "pinyin": ["jiāng", "liú", "qū", "sì", "jiǔ", "huí", "cháng"],
+      "translation": "江水弯弯曲曲，就像我愁得打了九个结的心肠。",
+      "noteIds": []
+    },
+    {
+      "text": "共来百越文身地，",
+      "pinyin": ["gòng", "lái", "bǎi", "yuè", "wén", "shēn", "dì"],
+      "translation": "我们一起被贬到这南方百越、人们身上刺花的偏远地方。",
+      "noteIds": ["n-baiyue", "n-wenshen"]
+    },
+    {
+      "text": "犹自音书滞乡关。",
+      "pinyin": ["yóu", "zì", "yīn", "shū", "zhì", "xiāng", "guān"],
+      "translation": "可就连书信还是被阻隔，难寄往家乡。",
+      "noteIds": []
+    }
+  ],
+  "notes": [
+    { "id": "n-zhan", "word": "飐", "pinyin": "zhǎn", "meaning": "风吹物使颤动，这里指荷花被吹得乱摇。" },
+    { "id": "n-bili", "word": "薜荔", "pinyin": "bì lì", "meaning": "一种常绿的蔓生植物，常爬在墙上。" },
+    { "id": "n-chong", "word": "重", "pinyin": "chóng", "meaning": "层层重叠，形容树林一层又一层。" },
+    { "id": "n-baiyue", "word": "百越", "pinyin": "bǎi yuè", "meaning": "古代南方各部族的统称，泛指岭南一带。" },
+    { "id": "n-wenshen", "word": "文身", "pinyin": "wén shēn", "meaning": "在皮肤上刺花纹，是古时百越人的风俗。" }
+  ],
+  "translation": "我从柳州城上的高楼望出去，一直望到荒远的边地，海天之间的愁思正无边无际。狂风乱吹，荷花在水面摇动；密雨斜斜地打湿长满薜荔的墙。岭上层层树木遮住了望向千里的眼睛，江水弯弯曲曲，就像九转的愁肠。我们一起被贬到这百越文身的偏远地方，可书信仍然被阻隔，难以寄达家乡。",
+  "appreciation": "登上城楼，一眼望到荒远的天边，愁也跟着铺满了海天。风把荷花吹乱，雨把薜荔墙打湿，风雨里的景物像是诗人被贬后不安的心。远处岭树遮住眼睛，江水弯得像愁肠，想看友人看不见，想念却寄不出信。全诗把柳州的景色和满腹心事缠在一起，景写得越急，情显得越深。",
+  "background": "公元 815 年，柳宗元和几位朋友一起被贬：他到柳州，韩泰到漳州、韩晔到汀州、陈谏到封州、刘禹锡到连州。刚到柳州，他登上城楼，想念四位同样远谪的友人，写下这首诗寄给他们。",
+  "storyline": [
+    { "step": 1, "title": "登楼远望", "text": "柳宗元登上柳州城楼，向遥远荒僻的天边眺望。" },
+    { "step": 2, "title": "风雨满城", "text": "狂风乱吹荷花，密雨打湿薜荔墙，景物一片纷乱。" },
+    { "step": 3, "title": "望友不见", "text": "层层岭树挡住视线，江水像九曲愁肠，友人音信全无。" },
+    { "step": 4, "title": "音书难寄", "text": "大家同贬南方，连一封书信也难以寄达，愁绪更浓。" }
+  ],
+  "pinyinNotes": [
+    { "char": "飐", "reading": "zhǎn", "reason": "“惊风乱飐”的“飐”指风吹物动，读 zhǎn。" },
+    { "char": "薜荔", "reading": "bì lì", "reason": "“薜”读 bì，“荔”读 lì，指一种蔓生植物。" },
+    { "char": "重", "reading": "chóng", "reason": "“重遮”是层层遮住，读 chóng。", "standard": "不要读成 zhòng" }
+  ],
+  "sources": ["《全唐诗》", "《唐诗三百首》"],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1149
+}

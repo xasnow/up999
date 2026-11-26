@@ -1,0 +1,191 @@
+{
+  "id": "tang-shengtang-liqi-guyi",
+  "slug": "guyi",
+  "title": "古意",
+  "titlePinyin": "gǔ yì",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "七言古诗",
+  "authorId": "liqi",
+  "gradeBand": "ext",
+  "tags": ["边塞", "七言古诗", "羌笛", "琵琶"],
+  "difficulty": 3,
+  "writtenYear": 730,
+  "writtenLabel": "约公元730年前后（李颀四十岁上下，居颍阳时所作）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "黄云陇底白云飞，未得报恩不能归。"
+  ],
+  "lines": [
+    {
+      "text": "男儿事长征，",
+      "pinyin": ["nán", "ér", "shì", "cháng", "zhēng"],
+      "translation": "好男儿去从军远征，",
+      "noteIds": ["n-changzheng"]
+    },
+    {
+      "text": "少小幽燕客。",
+      "pinyin": ["shào", "xiǎo", "yōu", "yān", "kè"],
+      "translation": "年纪轻轻就闯荡幽燕边地。",
+      "noteIds": ["n-youyan"]
+    },
+    {
+      "text": "赌胜马蹄下，",
+      "pinyin": ["dǔ", "shèng", "mǎ", "tí", "xià"],
+      "translation": "他们在马蹄下比武争胜，",
+      "noteIds": []
+    },
+    {
+      "text": "由来轻七尺。",
+      "pinyin": ["yóu", "lái", "qīng", "qī", "chǐ"],
+      "translation": "从来不把性命看得多重。",
+      "noteIds": ["n-qichi"]
+    },
+    {
+      "text": "杀人莫敢前，",
+      "pinyin": ["shā", "rén", "mò", "gǎn", "qián"],
+      "translation": "打起仗来勇猛得敌人不敢上前，",
+      "noteIds": []
+    },
+    {
+      "text": "须如猬毛磔。",
+      "pinyin": ["xū", "rú", "wèi", "máo", "zhé"],
+      "translation": "胡须张开，像刺猬的毛一样根根竖起。",
+      "noteIds": ["n-weimaoze"]
+    },
+    {
+      "text": "黄云陇底白云飞，",
+      "pinyin": ["huáng", "yún", "lǒng", "dǐ", "bái", "yún", "fēi"],
+      "translation": "边地黄土上黄云低垂，白云飞掠，",
+      "noteIds": ["n-long"]
+    },
+    {
+      "text": "未得报恩不能归。",
+      "pinyin": ["wèi", "dé", "bào", "ēn", "bù", "néng", "guī"],
+      "translation": "没能报答君恩，就不能回家。",
+      "noteIds": []
+    },
+    {
+      "text": "辽东小妇年十五，",
+      "pinyin": ["liáo", "dōng", "xiǎo", "fù", "nián", "shí", "wǔ"],
+      "translation": "辽东的小妇人才十五岁，",
+      "noteIds": []
+    },
+    {
+      "text": "惯弹琵琶解歌舞。",
+      "pinyin": ["guàn", "tán", "pí", "pá", "jiě", "gē", "wǔ"],
+      "translation": "弹惯了琵琶，又会唱歌跳舞。",
+      "noteIds": ["n-jie"]
+    },
+    {
+      "text": "今为羌笛出塞声，",
+      "pinyin": ["jīn", "wéi", "qiāng", "dí", "chū", "sài", "shēng"],
+      "translation": "今天她吹起羌笛，奏出出塞的曲调，",
+      "noteIds": ["n-qiangdi", "n-chusai"]
+    },
+    {
+      "text": "使我三军泪如雨。",
+      "pinyin": ["shǐ", "wǒ", "sān", "jūn", "lèi", "rú", "yǔ"],
+      "translation": "全军将士听了，眼泪像下雨一样落下来。",
+      "noteIds": []
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-changzheng",
+      "word": "长征",
+      "pinyin": "cháng zhēng",
+      "meaning": "指从军远行远征，不是今天说的“长征”。"
+    },
+    {
+      "id": "n-youyan",
+      "word": "幽燕",
+      "pinyin": "yōu yān",
+      "meaning": "今河北北部、北京一带，古称幽燕，是边地。"
+    },
+    {
+      "id": "n-qichi",
+      "word": "七尺",
+      "pinyin": "qī chǐ",
+      "meaning": "指人的身躯。“轻七尺”就是不把性命看得重。"
+    },
+    {
+      "id": "n-weimaoze",
+      "word": "猬毛磔",
+      "pinyin": "wèi máo zhé",
+      "meaning": "胡须张开，像刺猬的毛一样根根竖起，形容勇猛。"
+    },
+    {
+      "id": "n-long",
+      "word": "陇",
+      "pinyin": "lǒng",
+      "meaning": "边地的高地，这里泛指西北边塞。"
+    },
+    {
+      "id": "n-jie",
+      "word": "解",
+      "pinyin": "jiě",
+      "meaning": "懂得、擅长。"
+    },
+    {
+      "id": "n-qiangdi",
+      "word": "羌笛",
+      "pinyin": "qiāng dí",
+      "meaning": "边地流行的竹管乐器，声音悲凉。"
+    },
+    {
+      "id": "n-chusai",
+      "word": "出塞",
+      "pinyin": "chū sài",
+      "meaning": "出关到边塞，也指描写出征的曲调。"
+    }
+  ],
+  "translation": "好男儿去从军远征，年纪轻轻就闯荡幽燕边地。他们在马蹄下比武争胜，从来不把性命看得多重；打起仗来勇猛得敌人不敢上前，胡须张开，像刺猬的毛一样根根竖起。边地黄土上黄云低垂，白云飞掠，少年没能报答君恩，就不能回家。辽东的小妇人才十五岁，弹惯了琵琶，又会唱歌跳舞。今天她吹起羌笛，奏出出塞的曲调，全军将士听了，眼泪像下雨一样落下来。",
+  "appreciation": "这首诗像给一位边地少年画了一幅像。开头写他从小闯荡幽燕、马上争胜、胡须竖起像刺猬毛，一个勇猛豪爽的形象立刻立了起来。接着笔锋一转：边地黄云低垂，少年想家，却因未报君恩不能回去。最后辽东小妇一曲羌笛出塞，三军将士泪如雨下。全诗先扬后抑，豪气与乡愁撞在一起，格外动人。",
+  "background": "李颀年轻时爱交朋友，见多识广，很了解边地少年的生活。这首《古意》写幽燕一带的从军少年：平时豪爽勇猛，可一听羌笛出塞的曲子，也忍不住流泪。把人物和音乐放在一起写，正是李颀的看家本领。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "少年从军",
+      "text": "好男儿年纪轻轻就远去幽燕从军，在边地闯荡成长。"
+    },
+    {
+      "step": 2,
+      "title": "马蹄争胜",
+      "text": "他在马蹄下比武争胜，胡须竖起像刺猬毛，敌人不敢上前。"
+    },
+    {
+      "step": 3,
+      "title": "黄云思乡",
+      "text": "边地黄云低垂白云飞，少年未报君恩，有家不能回。"
+    },
+    {
+      "step": 4,
+      "title": "羌笛落泪",
+      "text": "辽东小妇吹起羌笛出塞的曲调，三军将士听了泪如雨下。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "磔",
+      "reading": "zhé",
+      "reason": "“须如猬毛磔”的“磔”，形容胡须像刺猬毛一样张开。"
+    },
+    {
+      "char": "猬",
+      "reading": "wèi",
+      "reason": "“猬”就是刺猬，指胡须竖得像刺猬毛。"
+    },
+    {
+      "char": "解",
+      "reading": "jiě",
+      "reason": "“解歌舞”的“解”是会、擅长的意思。",
+      "standard": "不要读成 xiè"
+    }
+  ],
+  "sources": ["《全唐诗》", "《唐诗三百首》"],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1212
+}

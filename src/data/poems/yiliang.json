@@ -1,0 +1,166 @@
+{
+  "id": "tang-wantang-hanwo-yiliang",
+  "slug": "yiliang",
+  "title": "已凉",
+  "titlePinyin": "yǐ liáng",
+  "dynasty": "tangshi",
+  "era": "wantang",
+  "genre": "shi",
+  "form": "七言绝句",
+  "authorId": "hanwo",
+  "gradeBand": "ext",
+  "tags": [
+    "闺怨",
+    "七言绝句",
+    "秋天",
+    "屏风"
+  ],
+  "difficulty": 3,
+  "writtenYear": 880,
+  "writtenLabel": "创作年份难确考，约在公元 880 年前后（韩偓 39 岁上下，青年时期所作的闺情诗）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "八尺龙须方锦褥，已凉天气未寒时。"
+  ],
+  "lines": [
+    {
+      "text": "碧阑干外绣帘垂，",
+      "pinyin": [
+        "bì",
+        "lán",
+        "gān",
+        "wài",
+        "xiù",
+        "lián",
+        "chuí"
+      ],
+      "translation": "门外碧绿的栏杆边，绣花的门帘低低垂着。",
+      "noteIds": [
+        "n-langan"
+      ]
+    },
+    {
+      "text": "猩色屏风画折枝。",
+      "pinyin": [
+        "xīng",
+        "sè",
+        "píng",
+        "fēng",
+        "huà",
+        "zhé",
+        "zhī"
+      ],
+      "translation": "猩红色的屏风上，画着折枝的花卉。",
+      "noteIds": [
+        "n-xingse",
+        "n-zhezhi"
+      ]
+    },
+    {
+      "text": "八尺龙须方锦褥，",
+      "pinyin": [
+        "bā",
+        "chǐ",
+        "lóng",
+        "xū",
+        "fāng",
+        "jǐn",
+        "rù"
+      ],
+      "translation": "八尺长的龙须草席上，正好铺着织锦的褥子，",
+      "noteIds": [
+        "n-longxu"
+      ]
+    },
+    {
+      "text": "已凉天气未寒时。",
+      "pinyin": [
+        "yǐ",
+        "liáng",
+        "tiān",
+        "qì",
+        "wèi",
+        "hán",
+        "shí"
+      ],
+      "translation": "天气已经转凉，却还没到寒冷的时候。",
+      "noteIds": []
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-langan",
+      "word": "阑干",
+      "pinyin": "lán gān",
+      "meaning": "同“栏杆”，用竹、木等做的遮拦物。"
+    },
+    {
+      "id": "n-xingse",
+      "word": "猩色",
+      "pinyin": "xīng sè",
+      "meaning": "猩红色，一种鲜艳的红色。"
+    },
+    {
+      "id": "n-zhezhi",
+      "word": "折枝",
+      "pinyin": "zhé zhī",
+      "meaning": "国画里只画花枝、不画整株的画法。"
+    },
+    {
+      "id": "n-longxu",
+      "word": "龙须",
+      "pinyin": "lóng xū",
+      "meaning": "龙须草，可用来编织凉席，这里指龙须草席。"
+    }
+  ],
+  "translation": "门外碧绿的栏杆边，绣花的门帘低低垂着。猩红色的屏风上，画着折枝的花卉。八尺长的龙须草席上，正好铺着织锦的褥子，天气已经转凉，却还没到寒冷的时候。",
+  "appreciation": "全诗都在写房间里的东西：碧阑干、绣帘、红屏风、折枝画、龙须席、锦褥子，颜色鲜艳，摆放精致，却始终不写人在哪里、在想什么。只有最后一句“已凉天气未寒时”轻轻点题——这正是容易想念人的时节。看得出房间的主人独守空房，满屋子华美，只是没人相伴，婉转又含蓄。",
+  "background": "韩偓年轻时擅长写这类细腻的闺情诗，后人把这类诗称作“香奁体”。这首诗写秋凉时节闺房一角的景象，作诗年份难以确考，大约是他青年时期的作品。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "帘外阑干",
+      "text": "碧绿栏杆外，绣帘静静低垂。"
+    },
+    {
+      "step": 2,
+      "title": "屏风画枝",
+      "text": "猩红屏风上画着折枝花。"
+    },
+    {
+      "step": 3,
+      "title": "席褥铺展",
+      "text": "八尺龙须席上铺好了锦褥。"
+    },
+    {
+      "step": 4,
+      "title": "天气已凉",
+      "text": "凉意渐生，寒气未至，正是思念的时节。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "阑干",
+      "reading": "lán gān",
+      "reason": "“阑干”就是栏杆，横的叫阑，竖的叫干。"
+    },
+    {
+      "char": "褥",
+      "reading": "rù",
+      "reason": "“锦褥”是织锦做的褥子，读 rù。",
+      "standard": "不要读成 rǔ"
+    },
+    {
+      "char": "猩",
+      "reading": "xīng",
+      "reason": "“猩色”是猩红色，读 xīng。"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1043
+}

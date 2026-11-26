@@ -1,0 +1,276 @@
+{
+  "id": "tang-zhongtang-yuanjie-zeituishiguanli",
+  "slug": "zeituishiguanli",
+  "title": "贼退示官吏",
+  "titlePinyin": "zéi tuì shì guān lì",
+  "dynasty": "tangshi",
+  "era": "zhongtang",
+  "genre": "shi",
+  "form": "五言古诗",
+  "authorId": "yuanjie",
+  "gradeBand": "ext",
+  "tags": ["爱国", "五言古诗", "赋税", "战乱"],
+  "difficulty": 3,
+  "writtenYear": 764,
+  "writtenLabel": "公元 764 年（元结 45 岁，任道州刺史，山中部族退去后，作诗告诫催税的官吏）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "谁能绝人命，以作时世贤。"
+  ],
+  "lines": [
+    {
+      "text": "昔岁逢太平，",
+      "pinyin": ["xī", "suì", "féng", "tài", "píng"],
+      "translation": "从前赶上太平年月，",
+      "noteIds": ["n-xisui"]
+    },
+    {
+      "text": "山林二十年。",
+      "pinyin": ["shān", "lín", "èr", "shí", "nián"],
+      "translation": "我在山林里过了二十年。",
+      "noteIds": []
+    },
+    {
+      "text": "泉源在庭户，",
+      "pinyin": ["quán", "yuán", "zài", "tíng", "hù"],
+      "translation": "泉水就在庭院门前流过，",
+      "noteIds": []
+    },
+    {
+      "text": "洞壑当门前。",
+      "pinyin": ["dòng", "hè", "dàng", "mén", "qián"],
+      "translation": "山沟正对着家门。",
+      "noteIds": ["n-donghe"]
+    },
+    {
+      "text": "井税有常期，",
+      "pinyin": ["jǐng", "shuì", "yǒu", "cháng", "qī"],
+      "translation": "那时收税有固定的期限，",
+      "noteIds": ["n-jingshui"]
+    },
+    {
+      "text": "日晏犹得眠。",
+      "pinyin": ["rì", "yàn", "yóu", "dé", "mián"],
+      "translation": "天晚了还能安心睡觉。",
+      "noteIds": ["n-riyan"]
+    },
+    {
+      "text": "忽然遭世变，",
+      "pinyin": ["hū", "rán", "zāo", "shì", "biàn"],
+      "translation": "忽然赶上大乱之年，",
+      "noteIds": []
+    },
+    {
+      "text": "数岁亲戎旃。",
+      "pinyin": ["shù", "suì", "qīn", "róng", "zhān"],
+      "translation": "好几年都亲身经历军旅生活。",
+      "noteIds": ["n-rongzhan"]
+    },
+    {
+      "text": "今来典斯郡，",
+      "pinyin": ["jīn", "lái", "diǎn", "sī", "jùn"],
+      "translation": "如今我来管理这个州郡，",
+      "noteIds": ["n-dian"]
+    },
+    {
+      "text": "山夷又纷然。",
+      "pinyin": ["shān", "yí", "yòu", "fēn", "rán"],
+      "translation": "山里的部族又闹起了战乱。",
+      "noteIds": ["n-shanyi"]
+    },
+    {
+      "text": "城小贼不屠，",
+      "pinyin": ["chéng", "xiǎo", "zéi", "bù", "tú"],
+      "translation": "城太小，贼人不屑来屠杀，",
+      "noteIds": []
+    },
+    {
+      "text": "人贫伤可怜。",
+      "pinyin": ["rén", "pín", "shāng", "kě", "lián"],
+      "translation": "百姓太穷，连贼人都觉得可怜。",
+      "noteIds": []
+    },
+    {
+      "text": "是以陷邻境，",
+      "pinyin": ["shì", "yǐ", "xiàn", "lín", "jìng"],
+      "translation": "所以邻近州县都遭了陷落，",
+      "noteIds": []
+    },
+    {
+      "text": "此州独见全。",
+      "pinyin": ["cǐ", "zhōu", "dú", "jiàn", "quán"],
+      "translation": "只有这个州得以保全。",
+      "noteIds": ["n-jianquan"]
+    },
+    {
+      "text": "使臣将王命，",
+      "pinyin": ["shǐ", "chén", "jiāng", "wáng", "mìng"],
+      "translation": "催税的使臣奉着皇帝的命令，",
+      "noteIds": ["n-jiangming"]
+    },
+    {
+      "text": "岂不如贼焉。",
+      "pinyin": ["qǐ", "bù", "rú", "zéi", "yān"],
+      "translation": "难道就不像贼人一样吗？",
+      "noteIds": []
+    },
+    {
+      "text": "今彼征敛者，",
+      "pinyin": ["jīn", "bǐ", "zhēng", "liǎn", "zhě"],
+      "translation": "现在那些横征暴敛的官吏，",
+      "noteIds": ["n-zhenglian"]
+    },
+    {
+      "text": "迫之如火煎。",
+      "pinyin": ["pò", "zhī", "rú", "huǒ", "jiān"],
+      "translation": "把百姓逼迫得像油煎火烤。",
+      "noteIds": []
+    },
+    {
+      "text": "谁能绝人命，",
+      "pinyin": ["shuí", "néng", "jué", "rén", "mìng"],
+      "translation": "谁忍心断绝百姓的活路，",
+      "noteIds": ["n-jue"]
+    },
+    {
+      "text": "以作时世贤。",
+      "pinyin": ["yǐ", "zuò", "shí", "shì", "xián"],
+      "translation": "去换取“当代贤能”的名声呢？",
+      "noteIds": ["n-shishixian"]
+    },
+    {
+      "text": "思欲委符节，",
+      "pinyin": ["sī", "yù", "wěi", "fú", "jié"],
+      "translation": "我想要交还这官印符节，",
+      "noteIds": ["n-fujie"]
+    },
+    {
+      "text": "引竿自刺船。",
+      "pinyin": ["yǐn", "gān", "zì", "cì", "chuán"],
+      "translation": "拿起竹篙自己撑船离开。",
+      "noteIds": ["n-cichuan"]
+    },
+    {
+      "text": "将家就鱼麦，",
+      "pinyin": ["jiāng", "jiā", "jiù", "yú", "mài"],
+      "translation": "带着全家去打鱼种麦，",
+      "noteIds": ["n-jiangjia"]
+    },
+    {
+      "text": "归老江湖边。",
+      "pinyin": ["guī", "lǎo", "jiāng", "hú", "biān"],
+      "translation": "在江湖边上安度晚年。",
+      "noteIds": []
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-xisui",
+      "word": "昔岁",
+      "pinyin": "xī suì",
+      "meaning": "从前，往年。"
+    },
+    {
+      "id": "n-donghe",
+      "word": "洞壑",
+      "pinyin": "dòng hè",
+      "meaning": "山洞和沟谷，指山间的深谷。"
+    },
+    {
+      "id": "n-jingshui",
+      "word": "井税",
+      "pinyin": "jǐng shuì",
+      "meaning": "古代按田亩征收的赋税，这里指太平年月定期的赋税。"
+    },
+    {
+      "id": "n-riyan",
+      "word": "日晏",
+      "pinyin": "rì yàn",
+      "meaning": "天色已晚。晏，晚。"
+    },
+    {
+      "id": "n-rongzhan",
+      "word": "戎旃",
+      "pinyin": "róng zhān",
+      "meaning": "军中的帐幕，代指军旅生活。"
+    },
+    {
+      "id": "n-dian",
+      "word": "典",
+      "pinyin": "diǎn",
+      "meaning": "管理、治理。"
+    },
+    {
+      "id": "n-shanyi",
+      "word": "山夷",
+      "pinyin": "shān yí",
+      "meaning": "住在山里的部族，指当时起事的“西原蛮”。"
+    },
+    {
+      "id": "n-jianquan",
+      "word": "见全",
+      "pinyin": "jiàn quán",
+      "meaning": "得以保全。"
+    },
+    {
+      "id": "n-jiangming",
+      "word": "将",
+      "pinyin": "jiāng",
+      "meaning": "奉、奉行的意思。"
+    },
+    {
+      "id": "n-zhenglian",
+      "word": "征敛",
+      "pinyin": "zhēng liǎn",
+      "meaning": "征收赋税。"
+    },
+    {
+      "id": "n-jue",
+      "word": "绝",
+      "pinyin": "jué",
+      "meaning": "断绝。"
+    },
+    {
+      "id": "n-shishixian",
+      "word": "时世贤",
+      "pinyin": "shí shì xián",
+      "meaning": "当时社会称颂的“贤能”之人。"
+    },
+    {
+      "id": "n-fujie",
+      "word": "符节",
+      "pinyin": "fú jié",
+      "meaning": "古代官员受任的凭证，这里指刺史的官职。"
+    },
+    {
+      "id": "n-cichuan",
+      "word": "刺船",
+      "pinyin": "cì chuán",
+      "meaning": "用竹篙撑船。"
+    },
+    {
+      "id": "n-jiangjia",
+      "word": "将家",
+      "pinyin": "jiāng jiā",
+      "meaning": "携带家眷。"
+    }
+  ],
+  "translation": "从前赶上太平年月，我在山林里过了二十年：泉水在庭院前流过，山沟正对着家门。那时收税有固定的期限，天晚了还能安心睡觉。忽然赶上大乱之年，好几年亲身经历军旅生活。如今我来管理这个州郡，山里的部族又闹起了战乱。城太小，贼人不屑来屠杀，百姓太穷，连贼人都觉得可怜。所以邻近州县都遭了陷落，只有这个州得以保全。可是催税的使臣奉着皇帝的命令，难道就不像贼人一样吗？现在那些横征暴敛的官吏，把百姓逼迫得像油煎火烤。谁忍心断绝百姓的活路，去换取“当代贤能”的名声呢？我想要交还这官印符节，拿起竹篙自己撑船离开，带着全家去打鱼种麦，在江湖边上安度晚年。",
+  "appreciation": "这首诗把“贼”和“官”放在一起比较：贼人见道州城小人穷，反而可怜百姓不来抢；奉着王命的官吏却催税如火煎。诗人不加一句修饰，只是摆事实、发质问，“岂不如贼焉”几个字重如千钧。结尾宁可交还官印、撑船归隐，也不肯断绝人命去换贤名，把读书人的良心写得干干净净。",
+  "background": "公元 763 年，“西原蛮”攻入道州，烧杀抢掠；第二年贼人再攻邻近州县，却因道州城小人穷、可怜百姓而绕开。朝廷使臣却依旧逼税。时任道州刺史的元结愤而写下此诗，序中说要把诗给官吏们看。",
+  "storyline": [
+    { "step": 1, "title": "忆昔太平", "text": "诗人回想太平岁月：山林二十年，收税有定期，能安睡到天晚。" },
+    { "step": 2, "title": "乱世遭兵", "text": "安史之乱后战火不断，如今道州又遭山中部族侵扰。" },
+    { "step": 3, "title": "贼怜民贫", "text": "贼人见道州城小人穷，心生怜悯退去，邻居州县却被攻破。" },
+    { "step": 4, "title": "官逼如火", "text": "朝廷使臣却逼税如煎，诗人宁愿弃官撑船，也不绝人命求贤名。" }
+  ],
+  "pinyinNotes": [
+    { "char": "戎旃", "reading": "róng zhān", "reason": "“旃”是军中的旗帐，读 zhān。" },
+    { "char": "日晏", "reading": "rì yàn", "reason": "“晏”是“天晚”的意思，读 yàn。" },
+    { "char": "刺船", "reading": "cì chuán", "reason": "“刺船”是用竹篙撑船，“刺”读 cì。" }
+  ],
+  "sources": ["《全唐诗》", "《唐诗三百首》"],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1167
+}

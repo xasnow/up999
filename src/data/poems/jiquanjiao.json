@@ -1,0 +1,145 @@
+{
+  "id": "tang-zhongtang-weiyingwu-jiquanjiao",
+  "slug": "jiquanjiao",
+  "title": "寄全椒山中道士",
+  "titlePinyin": "jì quán jiāo shān zhōng dào shì",
+  "dynasty": "tangshi",
+  "era": "zhongtang",
+  "genre": "shi",
+  "form": "五言古诗",
+  "authorId": "weiyingwu",
+  "gradeBand": "ext",
+  "tags": ["思念", "五言古诗", "秋天", "落叶"],
+  "difficulty": 3,
+  "writtenYear": 784,
+  "writtenLabel": "约公元 784 年秋（韦应物 47 岁，任滁州刺史，想念全椒山中的道士朋友）",
+  "orderInAuthor": 2,
+  "no": 1193,
+  "famousLines": [
+    "落叶满空山，何处寻行迹。"
+  ],
+  "lines": [
+    {
+      "text": "今朝郡斋冷，",
+      "pinyin": ["jīn", "zhāo", "jùn", "zhāi", "lěng"],
+      "translation": "今天早晨郡斋里透着寒气，",
+      "noteIds": ["n-junzhai"]
+    },
+    {
+      "text": "忽念山中客。",
+      "pinyin": ["hū", "niàn", "shān", "zhōng", "kè"],
+      "translation": "我忽然想念起住在山中的朋友。",
+      "noteIds": []
+    },
+    {
+      "text": "涧底束荆薪，",
+      "pinyin": ["jiàn", "dǐ", "shù", "jīng", "xīn"],
+      "translation": "这时他大概在山涧底捆柴，",
+      "noteIds": ["n-jingxin"]
+    },
+    {
+      "text": "归来煮白石。",
+      "pinyin": ["guī", "lái", "zhǔ", "bái", "shí"],
+      "translation": "回来用白石当粮煮着吃。",
+      "noteIds": ["n-baishi"]
+    },
+    {
+      "text": "欲持一瓢酒，",
+      "pinyin": ["yù", "chí", "yī", "piáo", "jiǔ"],
+      "translation": "我想带上一瓢酒，",
+      "noteIds": ["n-piao"]
+    },
+    {
+      "text": "远慰风雨夕。",
+      "pinyin": ["yuǎn", "wèi", "fēng", "yǔ", "xī"],
+      "translation": "在风雨的傍晚去远方慰问他。",
+      "noteIds": []
+    },
+    {
+      "text": "落叶满空山，",
+      "pinyin": ["luò", "yè", "mǎn", "kōng", "shān"],
+      "translation": "可是落叶铺满了空寂的山，",
+      "noteIds": []
+    },
+    {
+      "text": "何处寻行迹。",
+      "pinyin": ["hé", "chù", "xún", "xíng", "jì"],
+      "translation": "到哪里去寻找他的踪迹呢？",
+      "noteIds": []
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-junzhai",
+      "word": "郡斋",
+      "pinyin": "jùn zhāi",
+      "meaning": "州郡官署里办公和休息的地方。"
+    },
+    {
+      "id": "n-jingxin",
+      "word": "荆薪",
+      "pinyin": "jīng xīn",
+      "meaning": "捆起来的柴草。"
+    },
+    {
+      "id": "n-baishi",
+      "word": "白石",
+      "pinyin": "bái shí",
+      "meaning": "传说仙人煮白石当粮，指道士清苦的修行生活。"
+    },
+    {
+      "id": "n-piao",
+      "word": "瓢",
+      "pinyin": "piáo",
+      "meaning": "舀水盛酒的器具，用葫芦剖开做成。"
+    }
+  ],
+  "translation": "今天早晨郡斋里透着寒气，我忽然想念起住在山中的朋友。这时他大概在山涧底捆柴，回来用白石当粮煮着吃。我想带上一瓢酒，在风雨的傍晚去远方慰问他。可是落叶铺满了空寂的山，到哪里去寻找他的踪迹呢？",
+  "appreciation": "想念一位朋友，先从天气冷写起：郡斋冷，就想到山里的朋友更冷。道士捆柴、煮白石，是传说里神仙的吃法，又清苦又有趣。想送酒慰问，又怕满山落叶找不着人。全诗八句像一封信，惦念、心疼、遗憾都在里面，平淡得像说话，却十分动人。",
+  "background": "韦应物任滁州刺史时，全椒是滁州的属县。一个清冷的早晨，他独坐郡斋，忽然想念住在全椒山中的道士朋友：道士在涧底捆柴、煮白石当饭，生活清苦。他本想带酒去慰问，又怕落叶满山找不到人，只好写诗寄去问候。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "郡斋觉冷",
+      "text": "清晨郡斋里透着寒气，诗人忽然想念山中的朋友。"
+    },
+    {
+      "step": 2,
+      "title": "山中煮石",
+      "text": "想起道士在涧底捆柴，回来煮白石当饭吃。"
+    },
+    {
+      "step": 3,
+      "title": "持酒相慰",
+      "text": "想带上一瓢酒，在风雨的傍晚去远方慰问他。"
+    },
+    {
+      "step": 4,
+      "title": "空山无迹",
+      "text": "可是落叶铺满空山，到哪里去找他的行踪呢？"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "椒",
+      "reading": "jiāo",
+      "reason": "“全椒”是滁州的属县，地名用字，读 jiāo。",
+      "standard": "注意与“椒盐”同音"
+    },
+    {
+      "char": "瓢",
+      "reading": "piáo",
+      "reason": "“一瓢酒”的“瓢”是盛酒的器具，读 piáo。",
+      "standard": "不要读成 piāo"
+    },
+    {
+      "char": "涧",
+      "reading": "jiàn",
+      "reason": "“涧底”指山间流水的深沟，读 jiàn。",
+      "standard": "不要读成 jiān"
+    }
+  ],
+  "sources": ["《全唐诗》", "《唐诗三百首》"],
+  "status": "published",
+  "updatedAt": "2026-11-26"
+}

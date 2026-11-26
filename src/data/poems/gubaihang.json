@@ -1,0 +1,488 @@
+{
+  "id": "tang-shengtang-dufu-gubaihang",
+  "slug": "gubaihang",
+  "title": "古柏行",
+  "titlePinyin": "gǔ bǎi xíng",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "七言古诗",
+  "authorId": "dufu",
+  "gradeBand": "ext",
+  "tags": [
+    "怀古",
+    "咏物",
+    "古柏",
+    "七言古诗"
+  ],
+  "difficulty": 3,
+  "writtenYear": 766,
+  "writtenLabel": "约公元 766 年（杜甫 54 岁，在夔州，观武侯庙古柏有感）",
+  "orderInAuthor": 8,
+  "famousLines": [
+    "大厦如倾要梁栋，万牛回首丘山重。",
+    "志士幽人莫怨嗟，古来材大难为用。"
+  ],
+  "lines": [
+    {
+      "text": "孔明庙前有老柏，",
+      "pinyin": [
+        "kǒng",
+        "míng",
+        "miào",
+        "qián",
+        "yǒu",
+        "lǎo",
+        "bǎi"
+      ],
+      "translation": "孔明庙前有一棵古老的柏树，",
+      "noteIds": [
+        "n-keming"
+      ]
+    },
+    {
+      "text": "柯如青铜根如石。",
+      "pinyin": [
+        "kē",
+        "rú",
+        "qīng",
+        "tóng",
+        "gēn",
+        "rú",
+        "shí"
+      ],
+      "translation": "枝干像青铜一样坚硬，树根像磐石一样牢固。",
+      "noteIds": []
+    },
+    {
+      "text": "霜皮溜雨四十围，",
+      "pinyin": [
+        "shuāng",
+        "pí",
+        "liū",
+        "yǔ",
+        "sì",
+        "shí",
+        "wéi"
+      ],
+      "translation": "霜白的树皮光滑得挂不住雨，树干粗达四十围，",
+      "noteIds": [
+        "n-sishiwei"
+      ]
+    },
+    {
+      "text": "黛色参天二千尺。",
+      "pinyin": [
+        "dài",
+        "sè",
+        "cān",
+        "tiān",
+        "èr",
+        "qiān",
+        "chǐ"
+      ],
+      "translation": "苍黑的树色直插云天，足有两千尺高。",
+      "noteIds": []
+    },
+    {
+      "text": "君臣已与时际会，",
+      "pinyin": [
+        "jūn",
+        "chén",
+        "yǐ",
+        "yǔ",
+        "shí",
+        "jì",
+        "huì"
+      ],
+      "translation": "君王与臣子已经遇合在风云际会的时代，",
+      "noteIds": []
+    },
+    {
+      "text": "树木犹为人爱惜。",
+      "pinyin": [
+        "shù",
+        "mù",
+        "yóu",
+        "wèi",
+        "rén",
+        "ài",
+        "xī"
+      ],
+      "translation": "连庙前的树木，也仍然被人们珍惜爱护。",
+      "noteIds": []
+    },
+    {
+      "text": "云来气接巫峡长，",
+      "pinyin": [
+        "yún",
+        "lái",
+        "qì",
+        "jiē",
+        "wū",
+        "xiá",
+        "cháng"
+      ],
+      "translation": "云雾飘来，柏树的气象与长长的巫峡相接，",
+      "noteIds": []
+    },
+    {
+      "text": "月出寒通雪山白。",
+      "pinyin": [
+        "yuè",
+        "chū",
+        "hán",
+        "tōng",
+        "xuě",
+        "shān",
+        "bái"
+      ],
+      "translation": "月出寒夜，它的寒气又通向皑皑的雪山。",
+      "noteIds": []
+    },
+    {
+      "text": "忆昨路绕锦亭东，",
+      "pinyin": [
+        "yì",
+        "zuó",
+        "lù",
+        "rào",
+        "jǐn",
+        "tíng",
+        "dōng"
+      ],
+      "translation": "回想当年走过的路，绕过成都锦亭的东边，",
+      "noteIds": []
+    },
+    {
+      "text": "先主武侯同閟宫。",
+      "pinyin": [
+        "xiān",
+        "zhǔ",
+        "wǔ",
+        "hóu",
+        "tóng",
+        "bì",
+        "gōng"
+      ],
+      "translation": "先主刘备与武侯诸葛亮君臣同在一座祠庙中受祭。",
+      "noteIds": [
+        "n-bigong"
+      ]
+    },
+    {
+      "text": "崔嵬枝干郊原古，",
+      "pinyin": [
+        "cuī",
+        "wéi",
+        "zhī",
+        "gàn",
+        "jiāo",
+        "yuán",
+        "gǔ"
+      ],
+      "translation": "那庙前高耸的枝干，带着郊原上的古老气息，",
+      "noteIds": [
+        "n-cuiwei"
+      ]
+    },
+    {
+      "text": "窈窕丹青户牖空。",
+      "pinyin": [
+        "yǎo",
+        "tiǎo",
+        "dān",
+        "qīng",
+        "hù",
+        "yǒu",
+        "kōng"
+      ],
+      "translation": "庙内丹青幽深，门窗在寂静中显得空旷。",
+      "noteIds": [
+        "n-huyou"
+      ]
+    },
+    {
+      "text": "落落盘踞虽得地，",
+      "pinyin": [
+        "luò",
+        "luò",
+        "pán",
+        "jù",
+        "suī",
+        "dé",
+        "dì"
+      ],
+      "translation": "古柏虽然落落大方地盘踞在得意的土地上，",
+      "noteIds": []
+    },
+    {
+      "text": "冥冥孤高多烈风。",
+      "pinyin": [
+        "míng",
+        "míng",
+        "gū",
+        "gāo",
+        "duō",
+        "liè",
+        "fēng"
+      ],
+      "translation": "却因为孤高耸立，承受着更多的烈风。",
+      "noteIds": []
+    },
+    {
+      "text": "扶持自是神明力，",
+      "pinyin": [
+        "fú",
+        "chí",
+        "zì",
+        "shì",
+        "shén",
+        "míng",
+        "lì"
+      ],
+      "translation": "它能够挺立，全靠神明的力量扶持，",
+      "noteIds": []
+    },
+    {
+      "text": "正直原因造化功。",
+      "pinyin": [
+        "zhèng",
+        "zhí",
+        "yuán",
+        "yīn",
+        "zào",
+        "huà",
+        "gōng"
+      ],
+      "translation": "它这样正直，是因为得到天地造化的成全。",
+      "noteIds": []
+    },
+    {
+      "text": "大厦如倾要梁栋，",
+      "pinyin": [
+        "dà",
+        "shà",
+        "rú",
+        "qīng",
+        "yào",
+        "liáng",
+        "dòng"
+      ],
+      "translation": "大厦将要倾倒，正需要大树的梁栋，",
+      "noteIds": []
+    },
+    {
+      "text": "万牛回首丘山重。",
+      "pinyin": [
+        "wàn",
+        "niú",
+        "huí",
+        "shǒu",
+        "qiū",
+        "shān",
+        "zhòng"
+      ],
+      "translation": "可它重如丘山，万头牛也拉不动它。",
+      "noteIds": []
+    },
+    {
+      "text": "不露文章世已惊，",
+      "pinyin": [
+        "bù",
+        "lù",
+        "wén",
+        "zhāng",
+        "shì",
+        "yǐ",
+        "jīng"
+      ],
+      "translation": "它不炫耀枝叶的花纹文采，世人已为之惊叹，",
+      "noteIds": []
+    },
+    {
+      "text": "未辞翦伐谁能送。",
+      "pinyin": [
+        "wèi",
+        "cí",
+        "jiǎn",
+        "fá",
+        "shuí",
+        "néng",
+        "sòng"
+      ],
+      "translation": "它不躲避砍伐，可又有谁能把它运出去重用呢？",
+      "noteIds": [
+        "n-jianfa"
+      ]
+    },
+    {
+      "text": "苦心岂免容蝼蚁，",
+      "pinyin": [
+        "kǔ",
+        "xīn",
+        "qǐ",
+        "miǎn",
+        "róng",
+        "lóu",
+        "yǐ"
+      ],
+      "translation": "苦心培育的柏树，难免还要容留蝼蚁栖身，",
+      "noteIds": [
+        "n-louyi"
+      ]
+    },
+    {
+      "text": "香叶终经宿鸾凤。",
+      "pinyin": [
+        "xiāng",
+        "yè",
+        "zhōng",
+        "jīng",
+        "sù",
+        "luán",
+        "fèng"
+      ],
+      "translation": "但芳香的枝叶，终究曾引来鸾凤栖息。",
+      "noteIds": []
+    },
+    {
+      "text": "志士幽人莫怨嗟，",
+      "pinyin": [
+        "zhì",
+        "shì",
+        "yōu",
+        "rén",
+        "mò",
+        "yuàn",
+        "jiē"
+      ],
+      "translation": "有志的人和隐居的人啊，不要怨恨叹息，",
+      "noteIds": [
+        "n-youren",
+        "n-yuanjie"
+      ]
+    },
+    {
+      "text": "古来材大难为用。",
+      "pinyin": [
+        "gǔ",
+        "lái",
+        "cái",
+        "dà",
+        "nán",
+        "wéi",
+        "yòng"
+      ],
+      "translation": "自古以来，材质越大就越难被好好使用。",
+      "noteIds": []
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-keming",
+      "word": "孔明",
+      "pinyin": "kǒng míng",
+      "meaning": "诸葛亮的字，夔州建有祭祀他的武侯庙。"
+    },
+    {
+      "id": "n-sishiwei",
+      "word": "四十围",
+      "pinyin": "sì shí wéi",
+      "meaning": "两手合抱的长度叫一围，形容树干极粗。"
+    },
+    {
+      "id": "n-bigong",
+      "word": "閟宫",
+      "pinyin": "bì gōng",
+      "meaning": "幽深的祠庙，指成都先主庙和武侯祠建在一处，君臣同祭。"
+    },
+    {
+      "id": "n-cuiwei",
+      "word": "崔嵬",
+      "pinyin": "cuī wéi",
+      "meaning": "高大耸立的样子。"
+    },
+    {
+      "id": "n-huyou",
+      "word": "户牖",
+      "pinyin": "hù yǒu",
+      "meaning": "门窗。"
+    },
+    {
+      "id": "n-jianfa",
+      "word": "翦伐",
+      "pinyin": "jiǎn fá",
+      "meaning": "砍伐，“翦”同“剪”。"
+    },
+    {
+      "id": "n-louyi",
+      "word": "蝼蚁",
+      "pinyin": "lóu yǐ",
+      "meaning": "蝼蛄和蚂蚁，比喻暗地侵害的小人。"
+    },
+    {
+      "id": "n-youren",
+      "word": "幽人",
+      "pinyin": "yōu rén",
+      "meaning": "隐居或不得志的人。"
+    },
+    {
+      "id": "n-yuanjie",
+      "word": "怨嗟",
+      "pinyin": "yuàn jiē",
+      "meaning": "怨恨叹息。"
+    }
+  ],
+  "translation": "孔明庙前有一棵古老的柏树，枝干像青铜一样坚硬，树根像磐石一样牢固。霜白的树皮光滑得挂不住雨，树干粗达四十围；苍黑的树色直插云天，足有两千尺高。君臣已经遇合在风云际会的时代，连庙前的树木也仍被人们珍惜爱护。云雾飘来，它的气象与长长的巫峡相接；月出寒夜，它的寒气又通向皑皑的雪山。回想当年走过的路，绕过成都锦亭的东边，先主与武侯君臣同在一座祠庙中受祭。高耸的枝干带着郊原的古意，庙内丹青幽深，门窗空旷寂静。古柏虽然落落大方地盘踞得地，却因孤高耸立承受着更多烈风。它能挺立，靠的是神明的扶持；它这样正直，是因为得到造化的成全。大厦将倾正需要梁栋，可它重如丘山，万牛拉不动。它不炫耀文采，世人已为之惊叹；它不躲避砍伐，又有谁能把它运去重用？苦心的柏树难免容留蝼蚁，芳香的枝叶终究曾栖过鸾凤。志士和幽居的人啊，不要怨恨叹息——自古以来，材质越大就越难被好好使用。",
+  "appreciation": "这棵古柏又高又直，像极了诸葛亮一生的品格：霜皮黛色、上接巫峡、下通雪山，气象大得惊人。可杜甫要说的不只是树：大厦要倒正需要梁栋，树却重得没人能搬动。树越正直越招烈风，材越大越难被使用。写树其实是写人——写诸葛亮，也写天下怀才不遇的人。结尾一句轻轻的安慰，反而说得最沉。",
+  "background": "公元766年，杜甫寓居夔州，城里有诸葛亮武侯庙，庙前古柏苍然高耸。他由眼前的古柏想到成都先主庙与武侯祠的君臣合祀，又想到大材难为世用的感慨，写成这首咏物寄怀的七言古诗。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "庙前古柏",
+      "text": "孔明庙前的老柏粗四十围，高两千尺。"
+    },
+    {
+      "step": 2,
+      "title": "气接巫峡",
+      "text": "云来气接巫峡，月出寒通雪山，气象雄伟。"
+    },
+    {
+      "step": 3,
+      "title": "孤高多风",
+      "text": "柏树盘踞得地，却因孤高承受着烈风。"
+    },
+    {
+      "step": 4,
+      "title": "材大难用",
+      "text": "大厦要倾需要梁栋，万牛却拉不动这棵大材。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "干",
+      "reading": "gàn",
+      "reason": "“枝干”指树的茎干，读 gàn。",
+      "standard": "不要读成 gān"
+    },
+    {
+      "char": "露",
+      "reading": "lù",
+      "reason": "“不露文章”的“露”是显露的意思，读 lù。",
+      "standard": "不要读成 lòu"
+    },
+    {
+      "char": "嗟",
+      "reading": "jiē",
+      "reason": "“怨嗟”是叹息，读 jiē。"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1215
+}

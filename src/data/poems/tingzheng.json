@@ -1,0 +1,147 @@
+{
+  "id": "tang-zhongtang-liduan-tingzheng",
+  "slug": "tingzheng",
+  "title": "听筝",
+  "titlePinyin": "tīng zhēng",
+  "dynasty": "tangshi",
+  "era": "zhongtang",
+  "genre": "shi",
+  "form": "五言绝句",
+  "authorId": "liduan",
+  "gradeBand": "ext",
+  "tags": [
+    "思念",
+    "五言绝句",
+    "鸣筝",
+    "弦音"
+  ],
+  "difficulty": 3,
+  "writtenYear": 770,
+  "writtenLabel": "约公元 770 年（李端 27 岁，考中进士前后，在长安宴集上听乐伎弹筝即兴而作）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "欲得周郎顾，时时误拂弦。"
+  ],
+  "lines": [
+    {
+      "text": "鸣筝金粟柱，",
+      "pinyin": [
+        "míng",
+        "zhēng",
+        "jīn",
+        "sù",
+        "zhù"
+      ],
+      "translation": "古筝被轻轻拨响，筝上排着金黄的弦柱，",
+      "noteIds": [
+        "n-jinsuzhu"
+      ]
+    },
+    {
+      "text": "素手玉房前。",
+      "pinyin": [
+        "sù",
+        "shǒu",
+        "yù",
+        "fáng",
+        "qián"
+      ],
+      "translation": "弹筝的姑娘伸出雪白的手指，坐在华美的屋前。",
+      "noteIds": [
+        "n-yufang"
+      ]
+    },
+    {
+      "text": "欲得周郎顾，",
+      "pinyin": [
+        "yù",
+        "dé",
+        "zhōu",
+        "láng",
+        "gù"
+      ],
+      "translation": "为了得到心上人像周郎那样的回头一看，",
+      "noteIds": [
+        "n-zhoulang"
+      ]
+    },
+    {
+      "text": "时时误拂弦。",
+      "pinyin": [
+        "shí",
+        "shí",
+        "wù",
+        "fú",
+        "xián"
+      ],
+      "translation": "她故意不时地拨错琴弦。",
+      "noteIds": []
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-jinsuzhu",
+      "word": "金粟柱",
+      "pinyin": "jīn sù zhù",
+      "meaning": "筝上系弦的小木柱排成一串，像金黄的粟米粒，形容筝很华贵。"
+    },
+    {
+      "id": "n-yufang",
+      "word": "玉房",
+      "pinyin": "yù fáng",
+      "meaning": "弹筝女子居处的美称，一说指安放古筝的华丽房舍。"
+    },
+    {
+      "id": "n-zhoulang",
+      "word": "周郎",
+      "pinyin": "zhōu láng",
+      "meaning": "三国时的周瑜，精通音乐，别人弹错一个音他都会回头看一眼，所以有“曲有误，周郎顾”的说法。"
+    }
+  ],
+  "translation": "古筝被轻轻拨响，筝上排着金黄的弦柱，弹筝的姑娘伸出雪白的手指，坐在华美的屋前。为了得到心上人像周郎那样的回头一看，她故意不时地拨错琴弦。",
+  "appreciation": "这首小诗像一场小小的“戏”。前两句先画筝、画手，让人仿佛先听到华贵的琴声；后两句忽然讲出一个可爱的心思：姑娘为了让心上人多看自己一眼，故意弹错了琴弦。一个“误”字，把少女的小聪明写得自然又俏皮。琴声里藏着悄悄话，二十个字听完，让人忍不住会心一笑。",
+  "background": "唐代宗大历年间，李端在长安常被邀请参加宴席，当场写诗助兴。传说在一次宴会上，一位乐伎弹起了古筝，他边听边看，想起三国时周瑜“曲有误，周郎顾”的佳话，当场写下这首《听筝》。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "华堂鸣筝",
+      "text": "宴会上，一架装着金柱的古筝被轻轻拨响。"
+    },
+    {
+      "step": 2,
+      "title": "素手玉房",
+      "text": "弹筝的姑娘伸出雪白的手指，坐在华美的屋前。"
+    },
+    {
+      "step": 3,
+      "title": "心念周郎",
+      "text": "她盼着心上人像周郎一样，回头看她一眼。"
+    },
+    {
+      "step": 4,
+      "title": "故意误弦",
+      "text": "于是她悄悄拨错几个音，引得心上人频频回顾。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "粟",
+      "reading": "sù",
+      "reason": "“金粟柱”形容筝柱像金黄的粟米粒，“粟”读 sù。",
+      "standard": "不要读成 lì"
+    },
+    {
+      "char": "拂",
+      "reading": "fú",
+      "reason": "“误拂弦”的“拂”是轻轻拨动的意思，读 fú。",
+      "standard": "不要读成 fó"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1004
+}

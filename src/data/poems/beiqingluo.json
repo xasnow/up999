@@ -1,0 +1,164 @@
+{
+  "id": "tang-wantang-lishangyin-beiqingluo",
+  "slug": "beiqingluo",
+  "title": "北青萝",
+  "titlePinyin": "běi qīng luó",
+  "dynasty": "tangshi",
+  "era": "wantang",
+  "genre": "shi",
+  "form": "五言律诗",
+  "authorId": "lishangyin",
+  "gradeBand": "ext",
+  "tags": [
+    "哲理",
+    "五言律诗",
+    "寒云",
+    "落叶"
+  ],
+  "difficulty": 3,
+  "writtenYear": 851,
+  "writtenLabel": "约公元 851 年（李商隐 39 岁，在梓州幕府，入山访僧有感）",
+  "orderInAuthor": 1,
+  "no": 1066,
+  "famousLines": [
+    "世界微尘里，吾宁爱与憎。"
+  ],
+  "lines": [
+    {
+      "text": "残阳西入崦，",
+      "pinyin": ["cán", "yáng", "xī", "rù", "yān"],
+      "translation": "夕阳向西落入崦嵫山下，",
+      "noteIds": ["n-yan"]
+    },
+    {
+      "text": "茅屋访孤僧。",
+      "pinyin": ["máo", "wū", "fǎng", "gū", "sēng"],
+      "translation": "我去茅屋前拜访一位孤僧。",
+      "noteIds": []
+    },
+    {
+      "text": "落叶人何在，",
+      "pinyin": ["luò", "yè", "rén", "hé", "zài"],
+      "translation": "满地落叶，僧人在哪里呢？",
+      "noteIds": []
+    },
+    {
+      "text": "寒云路几层。",
+      "pinyin": ["hán", "yún", "lù", "jǐ", "céng"],
+      "translation": "寒云笼罩的山路，不知还要翻过几层。",
+      "noteIds": []
+    },
+    {
+      "text": "独敲初夜磬，",
+      "pinyin": ["dú", "qiāo", "chū", "yè", "qìng"],
+      "translation": "入夜时分，独自敲响诵经的磬。",
+      "noteIds": ["n-chuye", "n-qing"]
+    },
+    {
+      "text": "闲倚一枝藤。",
+      "pinyin": ["xián", "yǐ", "yī", "zhī", "téng"],
+      "translation": "闲适地倚着一根藤杖。",
+      "noteIds": ["n-yizhiteng"]
+    },
+    {
+      "text": "世界微尘里，",
+      "pinyin": ["shì", "jiè", "wēi", "chén", "lǐ"],
+      "translation": "大千世界不过是微尘一粒，",
+      "noteIds": ["n-weichen"]
+    },
+    {
+      "text": "吾宁爱与憎。",
+      "pinyin": ["wú", "níng", "ài", "yǔ", "zēng"],
+      "translation": "我又何必执着于爱与憎呢？",
+      "noteIds": ["n-ning", "n-aizeng"]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-yan",
+      "word": "崦",
+      "pinyin": "yān",
+      "meaning": "崦嵫山，古神话中太阳落下的地方。"
+    },
+    {
+      "id": "n-chuye",
+      "word": "初夜",
+      "pinyin": "chū yè",
+      "meaning": "入夜时分，黄昏之后。"
+    },
+    {
+      "id": "n-qing",
+      "word": "磬",
+      "pinyin": "qìng",
+      "meaning": "寺庙中诵经时敲击的铜制乐器。"
+    },
+    {
+      "id": "n-yizhiteng",
+      "word": "一枝藤",
+      "pinyin": "yī zhī téng",
+      "meaning": "指藤木手杖。"
+    },
+    {
+      "id": "n-weichen",
+      "word": "微尘",
+      "pinyin": "wēi chén",
+      "meaning": "佛家语，极细小的尘埃，比喻人世渺小如尘。"
+    },
+    {
+      "id": "n-ning",
+      "word": "宁",
+      "pinyin": "níng",
+      "meaning": "难道，何必。"
+    },
+    {
+      "id": "n-aizeng",
+      "word": "爱与憎",
+      "pinyin": "ài yǔ zēng",
+      "meaning": "佛家所说世人的爱恨情感，指种种执念。"
+    }
+  ],
+  "translation": "夕阳向西落入崦嵫山下，我去茅屋前拜访一位孤僧。满地落叶，僧人在哪里呢？寒云笼罩的山路，不知还要翻过几层。入夜时分，他独自敲响诵经的磬，闲适地倚着一根藤杖。大千世界不过是微尘一粒，我又何必执着于爱与憎呢？",
+  "appreciation": "夕阳落山时，诗人去深山寻访一位孤僧。落叶铺路，寒云锁山，不知走了几层才找到人。夜里只听见磬声独响，僧人闲闲地倚着藤杖。末了两句忽然放开：整个世界不过一粒微尘，人又何必为爱恨烦恼？访僧的一路辛苦，成了心境澄明的一场铺垫。诗人在尘世失意，到这里借佛理轻轻放下，写得清冷而有回味。",
+  "background": "李商隐一生陷于党争，仕途困顿，晚年对佛理渐有兴趣。约公元 851 年他在梓州幕府任职时，曾入山访僧。这首诗记录了一次寻访的经历，也在秋暮寒云之中，写出了他对人生烦恼的排遣与领悟。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "残阳入山",
+      "text": "夕阳西落，诗人进山拜访孤僧。"
+    },
+    {
+      "step": 2,
+      "title": "落叶问路",
+      "text": "满地落叶，寒云锁路，不知人在何处。"
+    },
+    {
+      "step": 3,
+      "title": "磬声初夜",
+      "text": "入夜后，山寺里响起僧人独敲的磬声。"
+    },
+    {
+      "step": 4,
+      "title": "微尘悟理",
+      "text": "世界不过微尘，何必执着爱憎。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "崦",
+      "reading": "yān",
+      "reason": "指神话中日落的崦嵫山，读 yān。"
+    },
+    {
+      "char": "磬",
+      "reading": "qìng",
+      "reason": "寺庙诵经时敲击的铜制乐器，读 qìng。",
+      "standard": "不要读成 qíng"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26"
+}

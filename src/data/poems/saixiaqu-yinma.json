@@ -1,0 +1,164 @@
+{
+  "id": "tang-shengtang-wangchangling-saixiaqu-yinma",
+  "slug": "saixiaqu-yinma",
+  "title": "塞下曲·饮马渡秋水",
+  "titlePinyin": "sài xià qǔ · yìn mǎ dù qiū shuǐ",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "五言乐府",
+  "authorId": "wangchangling",
+  "gradeBand": "ext",
+  "tags": ["边塞", "五言乐府", "秋天", "黄沙"],
+  "difficulty": 3,
+  "writtenYear": 727,
+  "writtenLabel": "约公元 727 年（王昌龄 29 岁，游历西北边塞之后）",
+  "orderInAuthor": 3,
+  "famousLines": [
+    "饮马渡秋水，水寒风似刀。",
+    "黄尘足今古，白骨乱蓬蒿。"
+  ],
+  "lines": [
+    {
+      "text": "饮马渡秋水，",
+      "pinyin": ["yìn", "mǎ", "dù", "qiū", "shuǐ"],
+      "translation": "战士们给马饮足了水，渡过秋天的河水，",
+      "noteIds": ["n-yinma"]
+    },
+    {
+      "text": "水寒风似刀。",
+      "pinyin": ["shuǐ", "hán", "fēng", "sì", "dāo"],
+      "translation": "河水冰冷，寒风像刀子一样吹来。",
+      "noteIds": []
+    },
+    {
+      "text": "平沙日未没，",
+      "pinyin": ["píng", "shā", "rì", "wèi", "mò"],
+      "translation": "广阔的沙地上，太阳还没有落下去，",
+      "noteIds": []
+    },
+    {
+      "text": "黯黯见临洮。",
+      "pinyin": ["àn", "àn", "jiàn", "lín", "táo"],
+      "translation": "昏暗模糊之中，远远望见临洮。",
+      "noteIds": ["n-anan", "n-lintao"]
+    },
+    {
+      "text": "昔日长城战，",
+      "pinyin": ["xī", "rì", "cháng", "chéng", "zhàn"],
+      "translation": "想当年长城一带的激战，",
+      "noteIds": ["n-changchengzhan"]
+    },
+    {
+      "text": "咸言意气高。",
+      "pinyin": ["xián", "yán", "yì", "qì", "gāo"],
+      "translation": "人人都说战士们意气高昂。",
+      "noteIds": ["n-xian"]
+    },
+    {
+      "text": "黄尘足今古，",
+      "pinyin": ["huáng", "chén", "zú", "jīn", "gǔ"],
+      "translation": "从古到今，这里总是黄沙弥漫，",
+      "noteIds": ["n-zu"]
+    },
+    {
+      "text": "白骨乱蓬蒿。",
+      "pinyin": ["bái", "gǔ", "luàn", "péng", "hāo"],
+      "translation": "战死者的白骨，杂乱地散落在蓬蒿野草之中。",
+      "noteIds": ["n-penghao"]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-yinma",
+      "word": "饮马",
+      "pinyin": "yìn mǎ",
+      "meaning": "给马喝水。饮，在这里是让牲口喝水的意思，读 yìn。"
+    },
+    {
+      "id": "n-anan",
+      "word": "黯黯",
+      "pinyin": "àn àn",
+      "meaning": "昏暗模糊、看不真切的样子。"
+    },
+    {
+      "id": "n-lintao",
+      "word": "临洮",
+      "pinyin": "lín táo",
+      "meaning": "地名，在今甘肃，是长城的西部起点，唐代西北边防要地。"
+    },
+    {
+      "id": "n-changchengzhan",
+      "word": "长城战",
+      "pinyin": "cháng chéng zhàn",
+      "meaning": "指从前在长城一线进行的战争，这里指唐军在临洮一带与吐蕃的战斗。"
+    },
+    {
+      "id": "n-xian",
+      "word": "咸",
+      "pinyin": "xián",
+      "meaning": "全、都。"
+    },
+    {
+      "id": "n-zu",
+      "word": "足",
+      "pinyin": "zú",
+      "meaning": "充满、充塞。黄尘足今古，是说从古到今这里都是漫天黄尘。"
+    },
+    {
+      "id": "n-penghao",
+      "word": "蓬蒿",
+      "pinyin": "péng hāo",
+      "meaning": "蓬草和蒿草，泛指野草。"
+    }
+  ],
+  "translation": "战士们给马饮足了水，渡过秋天的河水，河水冰冷，寒风像刀子一样吹来。广阔的沙地上，太阳还没有落下去，昏暗模糊之中，远远望见临洮。想当年长城一带的激战，人人都说战士们意气高昂。从古到今，这里总是黄沙弥漫，战死者的白骨，杂乱地散落在蓬蒿野草之中。",
+  "appreciation": "这首诗写的是战后的边塞。开头两句又冷又硬，秋水寒风如刀，一下子把人带进荒凉的边地。中间两句镜头拉远：落日平沙，远望临洮，安静得让人心里发紧。后四句回望昔日的长城血战——当时人人意气高昂，如今只剩黄尘漫卷、白骨散落野草。全诗没有一句议论，战争的悲凉全都藏在画面之中，越读越觉得沉重。",
+  "background": "王昌龄年轻时曾到西北边塞游历。秋天他渡过一条冰冷的河，望见临洮一带当年唐军与吐蕃血战的旧战场，只见黄沙连天、白骨遍地。想起从前人人都夸赞将士意气高昂，他写下这首诗，提醒人们记住战争留下的荒凉，与《塞上曲·蝉鸣空桑林》是姊妹篇。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "饮马秋水",
+      "text": "战士们给马喝饱了水，牵马渡过冰冷的秋河。"
+    },
+    {
+      "step": 2,
+      "title": "风寒似刀",
+      "text": "河水冰凉刺骨，寒风像刀子一样刮在脸上。"
+    },
+    {
+      "step": 3,
+      "title": "日望临洮",
+      "text": "平沙上落日未沉，远处的临洮昏暗模糊。"
+    },
+    {
+      "step": 4,
+      "title": "白骨蓬蒿",
+      "text": "昔日血战之地，如今白骨杂乱地埋在野草间。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "饮",
+      "reading": "yìn",
+      "reason": "“饮马”是给马喝水，饮是使动的用法，读 yìn。",
+      "standard": "不读 yǐn"
+    },
+    {
+      "char": "没",
+      "reading": "mò",
+      "reason": "“日未没”的“没”是沉没的意思，读 mò。",
+      "standard": "不读 méi"
+    },
+    {
+      "char": "洮",
+      "reading": "táo",
+      "reason": "“临洮”是地名，洮指洮河，读 táo。",
+      "standard": "不读 tiáo"
+    }
+  ],
+  "sources": ["《全唐诗》", "《唐诗三百首》"],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1227
+}

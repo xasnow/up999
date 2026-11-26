@@ -1,0 +1,187 @@
+{
+  "id": "tang-shengtang-liqi-guchongjunxing",
+  "slug": "guchongjunxing",
+  "title": "古从军行",
+  "titlePinyin": "gǔ cóng jūn xíng",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "七言乐府",
+  "authorId": "liqi",
+  "gradeBand": "ext",
+  "tags": ["边塞", "七言乐府", "大漠", "琵琶"],
+  "difficulty": 3,
+  "writtenYear": 742,
+  "writtenLabel": "约天宝初年（742年前后），朝廷屡开边衅，诗人借汉讽唐",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "年年战骨埋荒外，空见蒲桃入汉家。"
+  ],
+  "lines": [
+    {
+      "text": "白日登山望烽火，",
+      "pinyin": ["bái", "rì", "dēng", "shān", "wàng", "fēng", "huǒ"],
+      "translation": "白天，士兵登山瞭望烽火，",
+      "noteIds": []
+    },
+    {
+      "text": "黄昏饮马傍交河。",
+      "pinyin": ["huáng", "hūn", "yìn", "mǎ", "bàng", "jiāo", "hé"],
+      "translation": "傍晚，又到交河边给马饮水。",
+      "noteIds": ["n-jiaohe"]
+    },
+    {
+      "text": "行人刁斗风沙暗，",
+      "pinyin": ["xíng", "rén", "diāo", "dǒu", "fēng", "shā", "àn"],
+      "translation": "行军的路上风沙昏暗，刁斗声声，",
+      "noteIds": ["n-diaodou"]
+    },
+    {
+      "text": "公主琵琶幽怨多。",
+      "pinyin": ["gōng", "zhǔ", "pí", "pá", "yōu", "yuàn", "duō"],
+      "translation": "耳边仿佛响起当年公主和亲时幽怨的琵琶声。",
+      "noteIds": ["n-gongzhu"]
+    },
+    {
+      "text": "野云万里无城郭，",
+      "pinyin": ["yě", "yún", "wàn", "lǐ", "wú", "chéng", "guō"],
+      "translation": "营地四野只有万里云天，看不见城郭，",
+      "noteIds": []
+    },
+    {
+      "text": "雨雪纷纷连大漠。",
+      "pinyin": ["yù", "xuě", "fēn", "fēn", "lián", "dà", "mò"],
+      "translation": "雨雪纷纷，连着茫茫大漠。",
+      "noteIds": []
+    },
+    {
+      "text": "胡雁哀鸣夜夜飞，",
+      "pinyin": ["hú", "yàn", "āi", "míng", "yè", "yè", "fēi"],
+      "translation": "胡地的鸿雁夜夜哀叫着飞过，",
+      "noteIds": []
+    },
+    {
+      "text": "胡儿眼泪双双落。",
+      "pinyin": ["hú", "ér", "yǎn", "lèi", "shuāng", "shuāng", "luò"],
+      "translation": "胡人的孩子听了，眼泪一串串落下。",
+      "noteIds": []
+    },
+    {
+      "text": "闻道玉门犹被遮，",
+      "pinyin": ["wén", "dào", "yù", "mén", "yóu", "bèi", "zhē"],
+      "translation": "听说玉门关还被朝廷派兵拦着，",
+      "noteIds": ["n-yumen"]
+    },
+    {
+      "text": "应将性命逐轻车。",
+      "pinyin": ["yīng", "jiāng", "xìng", "mìng", "zhú", "qīng", "jū"],
+      "translation": "将士们只能把性命交给战车，继续向前。",
+      "noteIds": ["n-qingche"]
+    },
+    {
+      "text": "年年战骨埋荒外，",
+      "pinyin": ["nián", "nián", "zhàn", "gǔ", "mái", "huāng", "wài"],
+      "translation": "年复一年，战死者的尸骨埋在荒野之外，",
+      "noteIds": []
+    },
+    {
+      "text": "空见蒲桃入汉家。",
+      "pinyin": ["kōng", "jiàn", "pú", "táo", "rù", "hàn", "jiā"],
+      "translation": "换回来的不过是葡萄种子进了汉家宫苑。",
+      "noteIds": ["n-putao", "n-hanjia"]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-jiaohe",
+      "word": "交河",
+      "pinyin": "jiāo hé",
+      "meaning": "西域地名，在今新疆吐鲁番，唐代戍守要地。"
+    },
+    {
+      "id": "n-diaodou",
+      "word": "刁斗",
+      "pinyin": "diāo dǒu",
+      "meaning": "军中铜器，白天用来烧饭，夜里敲它巡更报警。"
+    },
+    {
+      "id": "n-gongzhu",
+      "word": "公主琵琶",
+      "pinyin": "gōng zhǔ pí pá",
+      "meaning": "汉武帝把公主嫁到乌孙国，路上让人弹琵琶解闷，琵琶声里满是幽怨。"
+    },
+    {
+      "id": "n-yumen",
+      "word": "玉门被遮",
+      "pinyin": "yù mén bèi zhē",
+      "meaning": "汉代典故：远征将士求还，朝廷反而派兵拦住玉门关，不许退回。"
+    },
+    {
+      "id": "n-qingche",
+      "word": "轻车",
+      "pinyin": "qīng jū",
+      "meaning": "泛指战车，汉代有“轻车将军”。"
+    },
+    {
+      "id": "n-putao",
+      "word": "蒲桃",
+      "pinyin": "pú táo",
+      "meaning": "就是葡萄，原产西域，后来引进中原。"
+    },
+    {
+      "id": "n-hanjia",
+      "word": "汉家",
+      "pinyin": "hàn jiā",
+      "meaning": "借汉朝指唐朝，暗指唐王朝的宫室朝廷。"
+    }
+  ],
+  "translation": "白天，士兵登山瞭望烽火，傍晚又到交河边给马饮水。行军的路上风沙昏暗，刁斗声声，耳边仿佛响起当年公主和亲时幽怨的琵琶声。营地四野只有万里云天，看不见城郭，雨雪纷纷，连着茫茫大漠。胡地的鸿雁夜夜哀叫着飞过，胡人的孩子听了，眼泪一串串落下。听说玉门关还被朝廷派兵拦着，将士们只能把性命交给战车，继续向前。年复一年，战死者的尸骨埋在荒野之外，换回来的不过是葡萄种子进了汉家宫苑。",
+  "appreciation": "这首诗写从军将士一天的生活：白天登山看烽火，傍晚在交河边饮马，夜里在风沙中听刁斗。大地辽阔而荒凉，胡雁哀鸣，连本地人都流泪。结尾最有力：将士的尸骨年年埋在荒外，换来的却只是葡萄种进了汉家宫苑。诗人借汉喻唐，把对穷兵黩武的批评说得含蓄又沉重。",
+  "background": "唐玄宗时，朝廷对西北边境多次用兵，将士久戍不归，死伤无数。李颀不便直说，就用汉代远征西域的故事写这首乐府：玉门关被拦住，士兵有家难回，最后只剩葡萄传入中原。诗题叫《古从军行》，一个“古”字，正是指汉说唐。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "戍边一日",
+      "text": "将士白天登山瞭望烽火，傍晚到交河边给战马饮水。"
+    },
+    {
+      "step": 2,
+      "title": "风沙刁斗",
+      "text": "行军路上风沙昏暗，刁斗声声，伴着公主琵琶的幽怨。"
+    },
+    {
+      "step": 3,
+      "title": "大漠雁鸣",
+      "text": "大漠里雨雪纷纷，胡雁夜夜哀鸣，胡儿的眼泪双双落下。"
+    },
+    {
+      "step": 4,
+      "title": "白骨换果",
+      "text": "战骨年年埋在荒野，换来的只有葡萄种进汉家宫苑。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "饮",
+      "reading": "yìn",
+      "reason": "“饮马”是给马喝水，“饮”当动词用。",
+      "standard": "不要读成 yǐn"
+    },
+    {
+      "char": "雨",
+      "reading": "yù",
+      "reason": "“雨雪”的“雨”当动词“下”讲，读 yù。",
+      "standard": "不要读成 yǔ"
+    },
+    {
+      "char": "车",
+      "reading": "jū",
+      "reason": "“轻车”指战车，古诗里押韵读 jū。",
+      "standard": "不要读成 chē"
+    }
+  ],
+  "sources": ["《全唐诗》", "《唐诗三百首》"],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1250
+}

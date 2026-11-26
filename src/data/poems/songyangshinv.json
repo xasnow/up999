@@ -1,0 +1,277 @@
+{
+  "id": "tang-zhongtang-weiyingwu-songyangshinv",
+  "slug": "songyangshinv",
+  "title": "送杨氏女",
+  "titlePinyin": "sòng yáng shì nǚ",
+  "dynasty": "tangshi",
+  "era": "zhongtang",
+  "genre": "shi",
+  "form": "五言古诗",
+  "authorId": "weiyingwu",
+  "gradeBand": "ext",
+  "tags": ["送别", "五言古诗", "亲情", "大江"],
+  "difficulty": 3,
+  "writtenYear": 783,
+  "writtenLabel": "约公元 783 年（韦应物 46 岁，任滁州刺史，送长女出嫁杨家）",
+  "orderInAuthor": 1,
+  "no": 1187,
+  "famousLines": [
+    "归来视幼女，零泪缘缨流。"
+  ],
+  "lines": [
+    {
+      "text": "永日方戚戚，",
+      "pinyin": ["yǒng", "rì", "fāng", "qī", "qī"],
+      "translation": "这些天整天忧愁不安，",
+      "noteIds": []
+    },
+    {
+      "text": "出行复悠悠。",
+      "pinyin": ["chū", "xíng", "fù", "yōu", "yōu"],
+      "translation": "因为女儿就要出门远行，路途那么遥远。",
+      "noteIds": []
+    },
+    {
+      "text": "女子今有行，",
+      "pinyin": ["nǚ", "zǐ", "jīn", "yǒu", "xíng"],
+      "translation": "女儿今天要出嫁了，",
+      "noteIds": ["n-youhang"]
+    },
+    {
+      "text": "大江溯轻舟。",
+      "pinyin": ["dà", "jiāng", "sù", "qīng", "zhōu"],
+      "translation": "乘着轻舟沿大江逆流而上。",
+      "noteIds": ["n-su"]
+    },
+    {
+      "text": "尔辈苦无恃，",
+      "pinyin": ["ěr", "bèi", "kǔ", "wú", "shì"],
+      "translation": "你们姐妹从小没了母亲，实为可怜，",
+      "noteIds": ["n-shi"]
+    },
+    {
+      "text": "抚念益慈柔。",
+      "pinyin": ["fǔ", "niàn", "yì", "cí", "róu"],
+      "translation": "我抱着这份心疼，只能加倍地慈爱温柔。",
+      "noteIds": []
+    },
+    {
+      "text": "幼为长所育，",
+      "pinyin": ["yòu", "wéi", "zhǎng", "suǒ", "yù"],
+      "translation": "妹妹从小是姐姐带大的，",
+      "noteIds": []
+    },
+    {
+      "text": "两别泣不休。",
+      "pinyin": ["liǎng", "bié", "qì", "bù", "xiū"],
+      "translation": "如今两人分别，哭个不停。",
+      "noteIds": []
+    },
+    {
+      "text": "对此结中肠，",
+      "pinyin": ["duì", "cǐ", "jié", "zhōng", "cháng"],
+      "translation": "看着这一切，我心里像打了结，",
+      "noteIds": []
+    },
+    {
+      "text": "义往难复留。",
+      "pinyin": ["yì", "wǎng", "nán", "fù", "liú"],
+      "translation": "按情理她该出嫁，实在难以再挽留。",
+      "noteIds": []
+    },
+    {
+      "text": "自小阙内训，",
+      "pinyin": ["zì", "xiǎo", "què", "nèi", "xùn"],
+      "translation": "她从小缺少母亲的家教，",
+      "noteIds": ["n-que"]
+    },
+    {
+      "text": "事姑贻我忧。",
+      "pinyin": ["shì", "gū", "yí", "wǒ", "yōu"],
+      "translation": "出嫁后能不能伺候好婆婆，让我担忧。",
+      "noteIds": ["n-yi"]
+    },
+    {
+      "text": "赖兹托令门，",
+      "pinyin": ["lài", "zī", "tuō", "lìng", "mén"],
+      "translation": "幸好她嫁的是好人家，",
+      "noteIds": ["n-lingmen"]
+    },
+    {
+      "text": "任恤庶无尤。",
+      "pinyin": ["rèn", "xù", "shù", "wú", "yóu"],
+      "translation": "杨家人仁厚体恤，希望她不受委屈。",
+      "noteIds": ["n-renxu"]
+    },
+    {
+      "text": "贫俭诚所尚，",
+      "pinyin": ["pín", "jiǎn", "chéng", "suǒ", "shàng"],
+      "translation": "我们家贫，节俭是本来崇尚的，",
+      "noteIds": []
+    },
+    {
+      "text": "资从岂待周。",
+      "pinyin": ["zī", "cóng", "qǐ", "dài", "zhōu"],
+      "translation": "嫁妆哪里能置办得周全？",
+      "noteIds": ["n-zicong"]
+    },
+    {
+      "text": "孝恭遵妇道，",
+      "pinyin": ["xiào", "gōng", "zūn", "fù", "dào"],
+      "translation": "只盼你孝顺恭谨、遵守妇道，",
+      "noteIds": []
+    },
+    {
+      "text": "容止顺其猷。",
+      "pinyin": ["róng", "zhǐ", "shùn", "qí", "yóu"],
+      "translation": "言行举止都合规矩。",
+      "noteIds": ["n-you"]
+    },
+    {
+      "text": "别离在今晨，",
+      "pinyin": ["bié", "lí", "zài", "jīn", "chén"],
+      "translation": "别离就在今天早晨，",
+      "noteIds": []
+    },
+    {
+      "text": "见尔当何秋。",
+      "pinyin": ["jiàn", "ěr", "dāng", "hé", "qiū"],
+      "translation": "再见到你要等到哪一年？",
+      "noteIds": []
+    },
+    {
+      "text": "居闲始自遣，",
+      "pinyin": ["jū", "xián", "shǐ", "zì", "qiǎn"],
+      "translation": "平日闲居还能自我排遣，",
+      "noteIds": []
+    },
+    {
+      "text": "临感忽难收。",
+      "pinyin": ["lín", "gǎn", "hū", "nán", "shōu"],
+      "translation": "临到分别忽然就忍不住了。",
+      "noteIds": []
+    },
+    {
+      "text": "归来视幼女，",
+      "pinyin": ["guī", "lái", "shì", "yòu", "nǚ"],
+      "translation": "送嫁回来看到小女儿，",
+      "noteIds": []
+    },
+    {
+      "text": "零泪缘缨流。",
+      "pinyin": ["líng", "lèi", "yuán", "yīng", "liú"],
+      "translation": "眼泪顺着帽带流了下来。",
+      "noteIds": ["n-ying"]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-youhang",
+      "word": "有行",
+      "pinyin": "yǒu xíng",
+      "meaning": "指女子出嫁。"
+    },
+    {
+      "id": "n-su",
+      "word": "溯",
+      "pinyin": "sù",
+      "meaning": "逆流而上。"
+    },
+    {
+      "id": "n-shi",
+      "word": "恃",
+      "pinyin": "shì",
+      "meaning": "依靠。无恃：指没有母亲可以依靠。"
+    },
+    {
+      "id": "n-que",
+      "word": "阙",
+      "pinyin": "quē",
+      "meaning": "同“缺”，缺少。"
+    },
+    {
+      "id": "n-yi",
+      "word": "贻",
+      "pinyin": "yí",
+      "meaning": "留给、带来。"
+    },
+    {
+      "id": "n-lingmen",
+      "word": "令门",
+      "pinyin": "lìng mén",
+      "meaning": "好的人家。"
+    },
+    {
+      "id": "n-renxu",
+      "word": "任恤",
+      "pinyin": "rèn xù",
+      "meaning": "仁厚体恤，指杨家人会好好照顾她。"
+    },
+    {
+      "id": "n-zicong",
+      "word": "资从",
+      "pinyin": "zī cóng",
+      "meaning": "陪嫁的财物。"
+    },
+    {
+      "id": "n-you",
+      "word": "猷",
+      "pinyin": "yóu",
+      "meaning": "规矩、法度。"
+    },
+    {
+      "id": "n-ying",
+      "word": "缨",
+      "pinyin": "yīng",
+      "meaning": "系在下巴下面的帽带。"
+    }
+  ],
+  "translation": "这些天整天忧愁不安，因为女儿就要出门远行，路途那么遥远。女儿今天要出嫁了，乘着轻舟沿大江逆流而上。你们姐妹从小没了母亲，实为可怜，我抱着这份心疼，只能加倍地慈爱温柔。妹妹从小是姐姐带大的，如今两人分别，哭个不停。看着这一切，我心里像打了结，按情理她该出嫁，实在难以再挽留。她从小缺少母亲的家教，出嫁后能不能伺候好婆婆，让我担忧。幸好她嫁的是好人家，杨家人仁厚体恤，希望她不受委屈。我们家贫，节俭是本来崇尚的，嫁妆哪里能置办得周全？只盼你孝顺恭谨、遵守妇道，言行举止都合规矩。别离就在今天早晨，再见到你要等到哪一年？平日闲居还能自我排遣，临到分别忽然就忍不住了。送嫁回来看到小女儿，眼泪顺着帽带流了下来。",
+  "appreciation": "这是一位父亲的嫁女诗。他一面叮嘱女儿要孝顺恭谨、节俭持家，一面又想起姐妹俩从小失去母亲、相依为命，越叮嘱越心酸。全诗像拉家常一样朴实，没有华丽的字眼。结尾送嫁归来看见小女儿，眼泪顺着帽带流下，父爱的深厚全在这一滴泪里。",
+  "background": "韦应物妻子早逝，留下两个女儿相依为命。建中三年前后（783），他在滁州刺史任上，长女要嫁到杨家，乘船沿大江远行。送嫁归来，父亲悲喜交加，写下这首长长的送别诗。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "满心戚戚",
+      "text": "整日里忧愁不安，因为长女就要远嫁出门了。"
+    },
+    {
+      "step": 2,
+      "title": "大江轻舟",
+      "text": "女儿乘着轻舟沿大江逆流而上，姐妹俩相别哭泣。"
+    },
+    {
+      "step": 3,
+      "title": "叮咛妇道",
+      "text": "父亲叮嘱她孝顺恭谨、节俭持家，凡事守好规矩。"
+    },
+    {
+      "step": 4,
+      "title": "归来泪流",
+      "text": "送嫁归来看到小女儿，眼泪顺着帽带流了下来。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "阙",
+      "reading": "quē",
+      "reason": "“自小阙内训”的“阙”同“缺”，是缺少的意思，读 quē。",
+      "standard": "不要读成 què 或 jué"
+    },
+    {
+      "char": "恃",
+      "reading": "shì",
+      "reason": "“无恃”指没有母亲依靠，“恃”读 shì。",
+      "standard": "不要读成 chí"
+    },
+    {
+      "char": "猷",
+      "reading": "yóu",
+      "reason": "“容止顺其猷”的“猷”是规矩的意思，读 yóu。",
+      "standard": "生僻字，注意读音"
+    }
+  ],
+  "sources": ["《全唐诗》", "《唐诗三百首》"],
+  "status": "published",
+  "updatedAt": "2026-11-26"
+}

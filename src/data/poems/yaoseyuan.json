@@ -1,0 +1,154 @@
+{
+  "id": "tang-wantang-wendingyun-yaoseyuan",
+  "slug": "yaoseyuan",
+  "title": "瑶瑟怨",
+  "titlePinyin": "yáo sè yuàn",
+  "dynasty": "tangshi",
+  "era": "wantang",
+  "genre": "shi",
+  "form": "七言绝句",
+  "authorId": "wendingyun",
+  "gradeBand": "ext",
+  "tags": [
+    "宫怨",
+    "七言绝句",
+    "月夜",
+    "秋天"
+  ],
+  "difficulty": 3,
+  "writtenYear": 852,
+  "writtenLabel": "约公元 852 年（温庭筠 41 岁前后，屡试不第、寄寓他乡之时，作宫怨题材诗）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "雁声远过潇湘去，十二楼中月自明。"
+  ],
+  "lines": [
+    {
+      "text": "冰簟银床梦不成，",
+      "pinyin": [
+        "bīng",
+        "diàn",
+        "yín",
+        "chuáng",
+        "mèng",
+        "bù",
+        "chéng"
+      ],
+      "translation": "竹席冰凉，银床清冷，她翻来覆去，连梦也做不成。",
+      "noteIds": [
+        "n-dian"
+      ]
+    },
+    {
+      "text": "碧天如水夜云轻，",
+      "pinyin": [
+        "bì",
+        "tiān",
+        "rú",
+        "shuǐ",
+        "yè",
+        "yún",
+        "qīng"
+      ],
+      "translation": "碧蓝的天空像水一样清澈，夜里的云轻轻飘动。",
+      "noteIds": []
+    },
+    {
+      "text": "雁声远过潇湘去，",
+      "pinyin": [
+        "yàn",
+        "shēng",
+        "yuǎn",
+        "guò",
+        "xiāo",
+        "xiāng",
+        "qù"
+      ],
+      "translation": "大雁的叫声远远掠过潇湘，渐渐远去。",
+      "noteIds": [
+        "n-xiaoxiang"
+      ]
+    },
+    {
+      "text": "十二楼中月自明。",
+      "pinyin": [
+        "shí",
+        "èr",
+        "lóu",
+        "zhōng",
+        "yuè",
+        "zì",
+        "míng"
+      ],
+      "translation": "华美的楼阁里，只有明月静静地照着。",
+      "noteIds": [
+        "n-shierlou"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-dian",
+      "word": "簟",
+      "pinyin": "diàn",
+      "meaning": "竹席。"
+    },
+    {
+      "id": "n-xiaoxiang",
+      "word": "潇湘",
+      "pinyin": "xiāo xiāng",
+      "meaning": "潇水和湘水，在今湖南境内，泛指南方的水域。"
+    },
+    {
+      "id": "n-shierlou",
+      "word": "十二楼",
+      "pinyin": "shí èr lóu",
+      "meaning": "神话中仙人的楼阁，这里指华美的楼。"
+    }
+  ],
+  "translation": "竹席冰凉，银床清冷，她翻来覆去，连梦也做不成。碧蓝的天空像水一样清澈，夜里的云轻轻飘动。大雁的叫声远远掠过潇湘，渐渐远去。华美的楼阁里，只有明月静静地照着。",
+  "appreciation": "这首诗写一个女子深夜的孤单，却不提一个愁字。席子凉了，床冷了，她睡不安稳；天空碧蓝如水，云也轻轻的。雁叫声远远掠过潇湘，把人的心思也带远了。最后只有月光照着空空的楼阁。诗人把声音、颜色、月光都写活了，安静的画面里，藏着说不出的思念。",
+  "background": "这是一首宫怨诗。宫里的女子一旦失宠，就被冷落在深深的楼阁里，夜夜独自难眠。温庭筠是写女子心事的高手，他借这个题材，把深夜的静和心里的思念都写进了画面里。作诗年份已难确考，这里取他中年时期的说法。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "冷席难眠",
+      "text": "深夜里，冰凉的竹席银床上，她翻来覆去睡不着。"
+    },
+    {
+      "step": 2,
+      "title": "碧天轻云",
+      "text": "天空碧蓝如水，夜云轻轻飘动。"
+    },
+    {
+      "step": 3,
+      "title": "雁过潇湘",
+      "text": "雁声远远掠过潇湘，慢慢消失在夜空里。"
+    },
+    {
+      "step": 4,
+      "title": "月照空楼",
+      "text": "华美的楼阁中，只有明月静静地照着她。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "簟",
+      "reading": "diàn",
+      "reason": "“簟”是竹席的意思，读 diàn。",
+      "standard": "不要读成 dàn"
+    },
+    {
+      "char": "潇湘",
+      "reading": "xiāo xiāng",
+      "reason": "潇水、湘水都在今湖南，两条水合称“潇湘”。"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1039
+}

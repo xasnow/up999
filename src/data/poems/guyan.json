@@ -1,0 +1,154 @@
+{
+  "id": "tang-wantang-cuitu-guyan",
+  "slug": "guyan",
+  "title": "孤雁",
+  "titlePinyin": "gū yàn",
+  "dynasty": "tangshi",
+  "era": "wantang",
+  "genre": "shi",
+  "form": "五言律诗",
+  "authorId": "cuitu",
+  "gradeBand": "ext",
+  "difficulty": 3,
+  "tags": ["咏物", "五言律诗", "孤雁", "暮雨"],
+  "writtenYear": 880,
+  "writtenLabel": "约公元 880 年（崔涂 27 岁，长期漂泊异乡）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "暮雨相呼失，寒塘欲下迟。"
+  ],
+  "lines": [
+    {
+      "text": "几行归塞尽，",
+      "pinyin": ["jǐ", "háng", "guī", "sài", "jìn"],
+      "translation": "几行北归塞外的大雁都已飞尽，",
+      "noteIds": ["n-jihang"]
+    },
+    {
+      "text": "念尔独何之。",
+      "pinyin": ["niàn", "ěr", "dú", "hé", "zhī"],
+      "translation": "我心念着你这孤雁，要独自飞向哪里。",
+      "noteIds": ["n-er"]
+    },
+    {
+      "text": "暮雨相呼失，",
+      "pinyin": ["mù", "yǔ", "xiāng", "hū", "shī"],
+      "translation": "暮雨中你呼唤着失散的同伴，",
+      "noteIds": ["n-hushi"]
+    },
+    {
+      "text": "寒塘欲下迟。",
+      "pinyin": ["hán", "táng", "yù", "xià", "chí"],
+      "translation": "想落到寒塘边，又迟疑不定。",
+      "noteIds": []
+    },
+    {
+      "text": "渚云低暗度，",
+      "pinyin": ["zhǔ", "yún", "dī", "àn", "dù"],
+      "translation": "你低低穿过水洲上空的乌云，",
+      "noteIds": ["n-zhu"]
+    },
+    {
+      "text": "关月冷相随。",
+      "pinyin": ["guān", "yuè", "lěng", "xiāng", "suí"],
+      "translation": "只有清冷的关月与你相随。",
+      "noteIds": []
+    },
+    {
+      "text": "未必逢矰缴，",
+      "pinyin": ["wèi", "bì", "féng", "zēng", "zhuó"],
+      "translation": "其实未必会遭到暗箭的伤害，",
+      "noteIds": ["n-zengjiao"]
+    },
+    {
+      "text": "孤飞自可疑。",
+      "pinyin": ["gū", "fēi", "zì", "kě", "yí"],
+      "translation": "可独自孤飞，怎能不让人疑惧？",
+      "noteIds": []
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-jihang",
+      "word": "几行",
+      "pinyin": "jǐ háng",
+      "meaning": "几队雁阵。行，行列。"
+    },
+    {
+      "id": "n-er",
+      "word": "尔",
+      "pinyin": "ěr",
+      "meaning": "你，指孤雁。"
+    },
+    {
+      "id": "n-hushi",
+      "word": "相呼失",
+      "pinyin": "xiāng hū shī",
+      "meaning": "在暮雨中呼唤失散的同伴。"
+    },
+    {
+      "id": "n-zhu",
+      "word": "渚",
+      "pinyin": "zhǔ",
+      "meaning": "水中的小块陆地。渚云，指水洲上空的云。"
+    },
+    {
+      "id": "n-zengjiao",
+      "word": "矰缴",
+      "pinyin": "zēng zhuó",
+      "meaning": "射鸟用的带丝绳的短箭。矰，箭；缴，系在箭上的丝绳。"
+    }
+  ],
+  "translation": "几行北归塞外的大雁都已飞尽，我心念着你这孤雁，要独自飞向哪里。暮雨中你呼唤着失散的同伴，想落到寒塘边，又迟疑不定。你低低穿过水洲上空的乌云，只有清冷的关月与你相随。其实未必会遭到暗箭的伤害，可独自孤飞，怎能不让人疑惧？",
+  "appreciation": "诗人写雁，其实写人。雁阵都飞尽了，只剩一只，“念尔独何之”一问，怜惜之情全出。暮雨呼伴、寒塘迟疑，是写雁的惊惶；渚云暗度、关月相随，是写它的孤单旅程。结尾翻进一层：未必有箭射来，孤飞的心却自惊自疑——漂泊者步步惊心的处境，被写得含蓄又深沉。",
+  "background": "崔涂长期漂泊异乡，自称“羁危万里身”。相传一个秋日，他见到归塞的雁阵飞尽，只剩一只孤雁在暮雨中悲鸣，感同身受，写下这首诗，把游子的孤单与惊惶都寄托在这只雁身上。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "雁阵归尽",
+      "text": "边塞的雁阵一行行飞尽了，天空中只剩下一只孤雁。"
+    },
+    {
+      "step": 2,
+      "title": "暮雨呼伴",
+      "text": "孤雁在暮雨中呼唤失散的同伴，想落寒塘又犹豫不决。"
+    },
+    {
+      "step": 3,
+      "title": "云低月冷",
+      "text": "它低低掠过水洲上空的乌云，只有冷月一路相随。"
+    },
+    {
+      "step": 4,
+      "title": "独飞自疑",
+      "text": "诗人望着孤雁感叹：没有暗箭，独自高飞也让人心惊。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "几行",
+      "reading": "jǐ háng",
+      "reason": "“行”指雁阵的行列，读 háng。"
+      ,
+      "standard": "不要读成 xíng"
+    },
+    {
+      "char": "矰缴",
+      "reading": "zēng zhuó",
+      "reason": "矰是射鸟的箭，缴是系在箭上的丝绳。"
+      ,
+      "standard": "不要读成 zēng jiǎo"
+    },
+    {
+      "char": "渚",
+      "reading": "zhǔ",
+      "reason": "渚是水中的小块陆地。"
+      ,
+      "standard": "不要读成 zhū"
+    }
+  ],
+  "sources": ["《全唐诗》", "《唐诗三百首》"],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1098
+}

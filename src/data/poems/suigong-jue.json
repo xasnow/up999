@@ -1,0 +1,122 @@
+{
+  "id": "tang-wantang-lishangyin-suigong-jue",
+  "slug": "suigong-jue",
+  "title": "隋宫",
+  "titlePinyin": "suí gōng",
+  "dynasty": "tangshi",
+  "era": "wantang",
+  "genre": "shi",
+  "form": "七言绝句",
+  "authorId": "lishangyin",
+  "gradeBand": "ext",
+  "tags": [
+    "怀古",
+    "七言绝句",
+    "锦帆",
+    "春风"
+  ],
+  "difficulty": 3,
+  "writtenYear": 857,
+  "writtenLabel": "约公元 857 年（李商隐 45 岁，任盐铁推官游江东，过隋炀帝旧迹有感）",
+  "orderInAuthor": 1,
+  "no": 1018,
+  "famousLines": [
+    "春风举国裁宫锦，半作障泥半作帆。"
+  ],
+  "lines": [
+    {
+      "text": "乘兴南游不戒严，",
+      "pinyin": ["chéng", "xìng", "nán", "yóu", "bù", "jiè", "yán"],
+      "translation": "隋炀帝乘着兴致南下游玩，沿途竟不加戒备。",
+      "noteIds": ["n-jieyan"]
+    },
+    {
+      "text": "九重谁省谏书函。",
+      "pinyin": ["jiǔ", "chóng", "shuí", "xǐng", "jiàn", "shū", "hán"],
+      "translation": "深宫里的他，谁来理会大臣递上的谏书？",
+      "noteIds": ["n-jiuchong", "n-sheng"]
+    },
+    {
+      "text": "春风举国裁宫锦，",
+      "pinyin": ["chūn", "fēng", "jǔ", "guó", "cái", "gōng", "jǐn"],
+      "translation": "春风里，全国上下都在裁剪华美的宫锦。",
+      "noteIds": []
+    },
+    {
+      "text": "半作障泥半作帆。",
+      "pinyin": ["bàn", "zuò", "zhàng", "ní", "bàn", "zuò", "fān"],
+      "translation": "一半做了马身上的障泥，一半做了船上的风帆。",
+      "noteIds": ["n-zhangni"]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-jieyan",
+      "word": "戒严",
+      "pinyin": "jiè yán",
+      "meaning": "指天子出行时沿途设防戒备。炀帝自恃天下太平，南游竟不加戒备。"
+    },
+    {
+      "id": "n-jiuchong",
+      "word": "九重",
+      "pinyin": "jiǔ chóng",
+      "meaning": "指皇帝居住的深宫，代指皇帝。"
+    },
+    {
+      "id": "n-sheng",
+      "word": "省",
+      "pinyin": "xǐng",
+      "meaning": "察看，理会。"
+    },
+    {
+      "id": "n-zhangni",
+      "word": "障泥",
+      "pinyin": "zhàng ní",
+      "meaning": "垫在马鞍下垂在马腹两侧、用来挡泥的马具。"
+    }
+  ],
+  "translation": "隋炀帝乘着兴致南下游玩，沿途竟不加戒备；深宫里的他，谁来理会大臣递上的谏书？春风里，全国上下都在裁剪华美的宫锦，一半做了马身上的障泥，一半做了船上的风帆。",
+  "appreciation": "隋炀帝兴师动众南游江都，沿途竟不加戒备，宫中的谏书他也看也不看。诗人不忙着责骂，只摆出一幅最奢侈的画面：全国都在春风里裁剪宫锦，一半做了马身上的障泥，一半做了船上的风帆。“半作”连说两遍，锦缎裁剪的声音里全是民脂民膏。亡国之君的荒唐，就这样写在一个轻巧的画面里，讽刺的分量反而更重。",
+  "background": "隋炀帝杨广多次率巨大船队南游江都，耗尽民力，最终身死国灭。李商隐晚年游历江东，面对隋炀帝留下的行宫遗迹写下此诗，借古讽今，提醒晚唐统治者不要重蹈覆辙。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "兴师南游",
+      "text": "隋炀帝乘兴南下游江都，沿途竟不加戒备。"
+    },
+    {
+      "step": 2,
+      "title": "谏书不理",
+      "text": "深宫里的他，谁来理会大臣递上的谏书？"
+    },
+    {
+      "step": 3,
+      "title": "举国裁锦",
+      "text": "春风里，全国上下都在裁剪华美的宫锦。"
+    },
+    {
+      "step": 4,
+      "title": "半泥半帆",
+      "text": "一半做了马上的障泥，一半做了船上的锦帆。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "省",
+      "reading": "xǐng",
+      "reason": "“省”是察看、理会之意，读 xǐng。",
+      "standard": "不要读成 shěng"
+    },
+    {
+      "char": "障泥",
+      "reading": "zhàng ní",
+      "reason": "指马鞍下垂挡泥巴的马具，读 zhàng ní。"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26"
+}

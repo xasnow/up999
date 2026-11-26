@@ -1,0 +1,82 @@
+{
+  "id": "tang-zhongtang-yuanzhen-xinggong",
+  "slug": "xinggong",
+  "title": "行宫",
+  "titlePinyin": "xíng gōng",
+  "dynasty": "tangshi",
+  "era": "zhongtang",
+  "genre": "shi",
+  "form": "五言绝句",
+  "authorId": "yuanzhen",
+  "gradeBand": "ext",
+  "difficulty": 3,
+  "tags": ["怀古", "五言绝句", "宫苑", "春天"],
+  "writtenYear": 809,
+  "writtenLabel": "约公元 809 年（元稹 31 岁，元和年间所作，具体年份说法不一）",
+  "orderInAuthor": 4,
+  "famousLines": [
+    "白头宫女在，闲坐说玄宗。"
+  ],
+  "lines": [
+    {
+      "text": "寥落古行宫，",
+      "pinyin": ["liáo", "luò", "gǔ", "xíng", "gōng"],
+      "translation": "一座旧行宫冷冷清清，",
+      "noteIds": ["n-xinggong", "n-liaoluo"]
+    },
+    {
+      "text": "宫花寂寞红。",
+      "pinyin": ["gōng", "huā", "jì", "mò", "hóng"],
+      "translation": "宫里的花寂寞地开着，红得没有人看。",
+      "noteIds": []
+    },
+    {
+      "text": "白头宫女在，",
+      "pinyin": ["bái", "tóu", "gōng", "nǚ", "zài"],
+      "translation": "几个白头宫女还留在这里，",
+      "noteIds": []
+    },
+    {
+      "text": "闲坐说玄宗。",
+      "pinyin": ["xián", "zuò", "shuō", "xuán", "zōng"],
+      "translation": "闲坐着谈论当年的唐玄宗。",
+      "noteIds": ["n-xuanzong"]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-xinggong",
+      "word": "行宫",
+      "pinyin": "xíng gōng",
+      "meaning": "皇帝外出时居住的宫殿，这里指洛阳的上阳宫。"
+    },
+    {
+      "id": "n-liaoluo",
+      "word": "寥落",
+      "pinyin": "liáo luò",
+      "meaning": "冷清，冷落。"
+    },
+    {
+      "id": "n-xuanzong",
+      "word": "玄宗",
+      "pinyin": "xuán zōng",
+      "meaning": "唐玄宗李隆基，开元盛世的皇帝，安史之乱后宫女们还常说起他。"
+    }
+  ],
+  "translation": "一座旧行宫冷冷清清，宫里的花寂寞地开着，红得没有人看。几个白头宫女还留在这里，闲坐着谈论当年的唐玄宗。",
+  "appreciation": "二十个字里藏着一百多年的时光。行宫还是当年的行宫，花还照旧开着，可是当年进宫的少女，如今都已白发苍苍。她们闲坐在一起，说起玄宗年间的旧事，语气越平淡，越让人心里发酸。诗人不写一句感叹，沧桑之感全都藏在“寂寞”和“闲坐”里。",
+  "background": "这首诗写的是洛阳的上阳宫。安史之乱以后，宫殿冷落，许多宫女一辈子被留在宫里，头发都白了。元和年间，元稹路过行宫，看见白头宫女闲坐说旧事，写下这首小诗。具体创作年份说法不一，一般认为是元稹三十多岁时所作。",
+  "storyline": [
+    { "step": 1, "title": "行宫冷落", "text": "昔日热闹的行宫早已冷落，宫墙边只有花儿在风中寂寞地开。" },
+    { "step": 2, "title": "白发宫女", "text": "几个进宫多年的宫女还住在里面，头发已经全白了。" },
+    { "step": 3, "title": "闲坐谈旧", "text": "她们坐在廊下晒太阳，有一句没一句地聊着往事。" },
+    { "step": 4, "title": "话说玄宗", "text": "说到当年的唐玄宗，她们都轻轻叹了一口气。" }
+  ],
+  "pinyinNotes": [
+    { "char": "寥", "reading": "liáo", "reason": "“寥落”是冷清、冷落的意思，读 liáo。", "standard": "不要读成 liǎo" }
+  ],
+  "sources": ["《全唐诗》", "《唐诗三百首》", "《元氏长庆集》"],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1001
+}

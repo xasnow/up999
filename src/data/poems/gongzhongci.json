@@ -1,0 +1,114 @@
+{
+  "id": "tang-wantang-zhuqingyu-gongzhongci",
+  "slug": "gongzhongci",
+  "title": "宫中词",
+  "titlePinyin": "gōng zhōng cí",
+  "dynasty": "tangshi",
+  "era": "wantang",
+  "genre": "shi",
+  "form": "七言绝句",
+  "authorId": "zhuqingyu",
+  "gradeBand": "ext",
+  "tags": ["宫怨", "七言绝句", "鹦鹉", "庭院"],
+  "difficulty": 3,
+  "writtenYear": 826,
+  "writtenLabel": "约公元 826 年（朱庆馀 30 岁，进士及第前后，观察宫廷生活有感而作）",
+  "orderInAuthor": 2,
+  "famousLines": [
+    "含情欲说宫中事，鹦鹉前头不敢言。"
+  ],
+  "lines": [
+    {
+      "text": "寂寂花时闭院门，",
+      "pinyin": ["jì", "jì", "huā", "shí", "bì", "yuàn", "mén"],
+      "translation": "花开的时节，宫门却紧紧关着，四周冷冷清清。",
+      "noteIds": ["n-jijing"]
+    },
+    {
+      "text": "美人相并立琼轩。",
+      "pinyin": ["měi", "rén", "xiāng", "bìng", "lì", "qióng", "xuān"],
+      "translation": "几位宫女并排站在华美的长廊边。",
+      "noteIds": ["n-xiangbing", "n-qiongxuan"]
+    },
+    {
+      "text": "含情欲说宫中事，",
+      "pinyin": ["hán", "qíng", "yù", "shuō", "gōng", "zhōng", "shì"],
+      "translation": "她们满含心事，想说说宫里的苦闷。",
+      "noteIds": []
+    },
+    {
+      "text": "鹦鹉前头不敢言。",
+      "pinyin": ["yīng", "wǔ", "qián", "tóu", "bù", "gǎn", "yán"],
+      "translation": "可是在鹦鹉面前，怕被它学舌传出去，谁也不敢开口。",
+      "noteIds": ["n-yingwu"]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-jijing",
+      "word": "寂寂",
+      "pinyin": "jì jì",
+      "meaning": "寂静冷清的样子。"
+    },
+    {
+      "id": "n-xiangbing",
+      "word": "相并",
+      "pinyin": "xiāng bìng",
+      "meaning": "并排站在一起。"
+    },
+    {
+      "id": "n-qiongxuan",
+      "word": "琼轩",
+      "pinyin": "qióng xuān",
+      "meaning": "华美的长廊，轩指有窗的长廊。"
+    },
+    {
+      "id": "n-yingwu",
+      "word": "鹦鹉",
+      "pinyin": "yīng wǔ",
+      "meaning": "会学人说话的鸟，诗中暗指宫中告密的耳目。"
+    }
+  ],
+  "translation": "花开的时节，宫门却紧紧关着，四周冷冷清清。几位宫女并排站在华美的长廊边。她们满含心事，想说说宫里的苦闷，可是在鹦鹉面前，怕被它学舌传出去，谁也不敢开口。",
+  "appreciation": "这首诗不写哭，也不写骂，只抓住“不敢言”三个字。花开时节本该热闹，宫门却关得紧紧的；宫女们想说心里话，偏偏站在会学舌的鹦鹉前。越是有满腹心事，越只能沉默，深宫的冷清和压抑一下子全出来了。诗人不说破，让读者自己去体会，这正是它的高明之处。",
+  "background": "唐代皇宫里有大批宫女，一进宫门就很难出来，有苦也没处说。朱庆馀中进士前后住在长安，见识过宫廷生活的压抑。他选取宫女想在鹦鹉前说话又不敢说的细节，写成这首《宫中词》，也有人认为诗里暗含着当时朝臣有话不敢说的感慨。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "花时闭门",
+      "text": "春天花开，宫门却紧紧关闭，院子里静悄悄的。"
+    },
+    {
+      "step": 2,
+      "title": "并立廊边",
+      "text": "几位宫女并排站在华美的长廊边，望着彼此。"
+    },
+    {
+      "step": 3,
+      "title": "欲言又止",
+      "text": "她们含着心事，想说说宫里的苦闷。"
+    },
+    {
+      "step": 4,
+      "title": "鹦鹉在前",
+      "text": "怕鹦鹉学舌传出去，大家只好把话咽了回去。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "并",
+      "reading": "bìng",
+      "reason": "“相并”是并排的意思，“并”读 bìng。",
+      "standard": "不要读成 bīng"
+    },
+    {
+      "char": "琼轩",
+      "reading": "qióng xuān",
+      "reason": "琼是美玉，轩是有窗的长廊，两字合指华美的廊子。"
+    }
+  ],
+  "sources": ["《全唐诗》", "《唐诗三百首》"],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1015
+}

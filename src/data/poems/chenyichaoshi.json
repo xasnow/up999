@@ -1,0 +1,130 @@
+{
+  "id": "tang-zhongtang-liuzongyuan-chenyichaoshi",
+  "slug": "chenyichaoshi",
+  "title": "晨诣超师院读禅经",
+  "titlePinyin": "chén yì chāo shī yuàn dú chán jīng",
+  "dynasty": "tangshi",
+  "era": "zhongtang",
+  "genre": "shi",
+  "form": "五言古诗",
+  "authorId": "liuzongyuan",
+  "gradeBand": "ext",
+  "tags": ["哲理", "五言古诗", "青松", "晨光"],
+  "difficulty": 3,
+  "writtenYear": 812,
+  "writtenLabel": "约公元 812 年（柳宗元 39 岁，贬居永州，清晨到超师院读佛经后所作）",
+  "orderInAuthor": 1,
+  "famousLines": ["日出雾露馀，青松如膏沐。"],
+  "lines": [
+    {
+      "text": "汲井漱寒齿，",
+      "pinyin": ["jí", "jǐng", "shù", "hán", "chǐ"],
+      "translation": "清晨打来井水漱口，寒气沁到牙齿里，",
+      "noteIds": ["n-ji"]
+    },
+    {
+      "text": "清心拂尘服。",
+      "pinyin": ["qīng", "xīn", "fú", "chén", "fú"],
+      "translation": "擦去衣上的尘埃，让心也安静干净下来。",
+      "noteIds": []
+    },
+    {
+      "text": "闲持贝叶书，",
+      "pinyin": ["xián", "chí", "bèi", "yè", "shū"],
+      "translation": "悠闲地捧起一卷佛经，",
+      "noteIds": ["n-beiye"]
+    },
+    {
+      "text": "步出东斋读。",
+      "pinyin": ["bù", "chū", "dōng", "zhāi", "dú"],
+      "translation": "走出东边的书斋慢慢诵读。",
+      "noteIds": []
+    },
+    {
+      "text": "真源了无取，",
+      "pinyin": ["zhēn", "yuán", "liǎo", "wú", "qǔ"],
+      "translation": "世上的人对真正的道理全然不去领会，",
+      "noteIds": ["n-liao"]
+    },
+    {
+      "text": "妄迹世所逐。",
+      "pinyin": ["wàng", "jì", "shì", "suǒ", "zhú"],
+      "translation": "只追逐那些虚妄的表面东西。",
+      "noteIds": []
+    },
+    {
+      "text": "遗言冀可冥，",
+      "pinyin": ["yí", "yán", "jì", "kě", "míng"],
+      "translation": "佛祖留下的话，我希望它能与我心中所想暗暗相合，",
+      "noteIds": []
+    },
+    {
+      "text": "缮性何由熟。",
+      "pinyin": ["shàn", "xìng", "hé", "yóu", "shú"],
+      "translation": "可修养本性的功夫，又怎能在短时间内纯熟呢？",
+      "noteIds": ["n-shanxing"]
+    },
+    {
+      "text": "道人庭宇静，",
+      "pinyin": ["dào", "rén", "tíng", "yǔ", "jìng"],
+      "translation": "超师和尚的庭院安静极了，",
+      "noteIds": []
+    },
+    {
+      "text": "苔色连深竹。",
+      "pinyin": ["tái", "sè", "lián", "shēn", "zhú"],
+      "translation": "青苔的颜色一直连到深深的竹林。",
+      "noteIds": []
+    },
+    {
+      "text": "日出雾露馀，",
+      "pinyin": ["rì", "chū", "wù", "lù", "yú"],
+      "translation": "太阳升起，雾气和露水还没有散尽，",
+      "noteIds": []
+    },
+    {
+      "text": "青松如膏沐。",
+      "pinyin": ["qīng", "sōng", "rú", "gào", "mù"],
+      "translation": "青松像刚涂了润发油一样润泽鲜亮。",
+      "noteIds": ["n-gaomu"]
+    },
+    {
+      "text": "澹然离言说，",
+      "pinyin": ["dàn", "rán", "lí", "yán", "shuō"],
+      "translation": "这样宁静安适，一切妙处都说不出口，",
+      "noteIds": ["n-danran"]
+    },
+    {
+      "text": "悟悦心自足。",
+      "pinyin": ["wù", "yuè", "xīn", "zì", "zú"],
+      "translation": "心里已经明白、喜悦，自己觉得圆满充足。",
+      "noteIds": []
+    }
+  ],
+  "notes": [
+    { "id": "n-ji", "word": "汲", "pinyin": "jí", "meaning": "从井里打水。" },
+    { "id": "n-beiye", "word": "贝叶书", "pinyin": "bèi yè shū", "meaning": "写在贝多罗树叶上的佛经，泛指佛经。" },
+    { "id": "n-liao", "word": "了", "pinyin": "liǎo", "meaning": "完全、全然。" },
+    { "id": "n-shanxing", "word": "缮性", "pinyin": "shàn xìng", "meaning": "修养本性。" },
+    { "id": "n-gaomu", "word": "膏沐", "pinyin": "gào mù", "meaning": "润发油脂，比喻青松被露水润得发亮。" },
+    { "id": "n-danran", "word": "澹然", "pinyin": "dàn rán", "meaning": "宁静安适的样子。" }
+  ],
+  "translation": "清晨打来井水漱口，寒气沁到牙齿里；擦去衣上尘埃，让心也安静下来。悠闲地捧起佛经，走出东斋慢慢诵读。世上的人全然不去领会真正的道理，只追逐虚妄的表面。佛祖的遗言，我希望与自己心中所想暗合，可修养本性的功夫又怎能一时纯熟？超师的庭院安静极了，青苔一直连到深竹。太阳升起，雾露未干，青松像涂了油一样润泽。这样宁静安适，妙处说不出口，心中明白喜悦，自然觉得充足。",
+  "appreciation": "清晨打水漱口、拂去尘埃，诗人把读经当成一次安静的心灵清扫。他说世人只追虚妄的表面，真正的道理没人肯取，自己的修养也还远远不够。可走出书斋，庭院安静，青苔连着深竹，日出后雾露未干，青松像抹了油一样发亮。不必多说，喜悦自然从心里长出来。诗把道理写得清清爽爽，最后落在一片青松晨光里。",
+  "background": "柳宗元被贬永州，心里苦闷，常常借读佛经寻找安静。这首诗写他一天清晨到超师和尚的禅院读经，从院中安静的景色里得到了一点轻松和欢喜。",
+  "storyline": [
+    { "step": 1, "title": "晨起读经", "text": "打井水漱口，拂净衣尘，捧着佛经走出书斋。" },
+    { "step": 2, "title": "心有疑问", "text": "真正的道理世人不去取，自己修养也难纯熟。" },
+    { "step": 3, "title": "庭院幽静", "text": "超师的庭院安静，青苔一直连到深竹深处。" },
+    { "step": 4, "title": "悟悦自足", "text": "日出雾散，青松明亮，诗人心里说不出的满足。" }
+  ],
+  "pinyinNotes": [
+    { "char": "汲", "reading": "jí", "reason": "“汲井”是从井里打水，读 jí。", "standard": "不要读成 xī" },
+    { "char": "缮", "reading": "shàn", "reason": "“缮性”是修养本性，读 shàn。" },
+    { "char": "澹", "reading": "dàn", "reason": "“澹然”是安静的样子，读 dàn。", "standard": "不要读成 zhān 或 tán" }
+  ],
+  "sources": ["《全唐诗》", "《唐诗三百首》"],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1185
+}

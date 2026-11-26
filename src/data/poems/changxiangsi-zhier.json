@@ -1,0 +1,138 @@
+{
+  "id": "tang-shengtang-libai-changxiangsi-zhier",
+  "slug": "changxiangsi-zhier",
+  "title": "长相思·其二",
+  "titlePinyin": "cháng xiāng sī · qí èr",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "七言乐府",
+  "authorId": "libai",
+  "gradeBand": "ext",
+  "difficulty": 3,
+  "tags": ["思念", "七言乐府", "明月", "春风"],
+  "writtenYear": 744,
+  "writtenLabel": "约公元 744 年（李白 44 岁，离开长安后所作，与第一首同为追忆远人之作）",
+  "orderInAuthor": 8,
+  "famousLines": [
+    "昔日横波目，今作流泪泉。"
+  ],
+  "lines": [
+    {
+      "text": "日色欲尽花含烟，",
+      "pinyin": ["rì", "sè", "yù", "jìn", "huā", "hán", "yān"],
+      "translation": "夕阳西沉，暮色里花像含着轻烟，",
+      "noteIds": []
+    },
+    {
+      "text": "月明欲素愁不眠。",
+      "pinyin": ["yuè", "míng", "yù", "sù", "chóu", "bù", "mián"],
+      "translation": "月光皎洁得像白绢，她愁得睡不着。",
+      "noteIds": []
+    },
+    {
+      "text": "赵瑟初停凤凰柱，",
+      "pinyin": ["zhào", "sè", "chū", "tíng", "fèng", "huáng", "zhù"],
+      "translation": "刚弹完赵地的瑟，瑟柱上雕着凤凰，",
+      "noteIds": ["n-fenghuangzhu"]
+    },
+    {
+      "text": "蜀琴欲奏鸳鸯弦。",
+      "pinyin": ["shǔ", "qín", "yù", "zòu", "yuān", "yāng", "xián"],
+      "translation": "又想弹蜀地的琴，琴上配着鸳鸯弦。",
+      "noteIds": ["n-yuanyangxian"]
+    },
+    {
+      "text": "此曲有意无人传，",
+      "pinyin": ["cǐ", "qǔ", "yǒu", "yì", "wú", "rén", "chuán"],
+      "translation": "这支曲子满含情意，却无人传递，",
+      "noteIds": []
+    },
+    {
+      "text": "愿随春风寄燕然。",
+      "pinyin": ["yuàn", "suí", "chūn", "fēng", "jì", "yān", "rán"],
+      "translation": "愿它随着春风，寄到遥远的燕然。",
+      "noteIds": ["n-yanran"]
+    },
+    {
+      "text": "忆君迢迢隔青天。",
+      "pinyin": ["yì", "jūn", "tiáo", "tiáo", "gé", "qīng", "tiān"],
+      "translation": "思念的人啊，迢迢远隔在青天之外。",
+      "noteIds": []
+    },
+    {
+      "text": "昔日横波目，",
+      "pinyin": ["xī", "rì", "héng", "bō", "mù"],
+      "translation": "从前那双含情流动的眼睛，",
+      "noteIds": ["n-hengbo"]
+    },
+    {
+      "text": "今作流泪泉。",
+      "pinyin": ["jīn", "zuò", "liú", "lèi", "quán"],
+      "translation": "如今变成了流不完的泪泉。",
+      "noteIds": []
+    },
+    {
+      "text": "不信妾肠断，",
+      "pinyin": ["bú", "xìn", "qiè", "cháng", "duàn"],
+      "translation": "如果你不信我为你想断了肠，",
+      "noteIds": []
+    },
+    {
+      "text": "归来看取明镜前。",
+      "pinyin": ["guī", "lái", "kàn", "qǔ", "míng", "jìng", "qián"],
+      "translation": "回来时到明镜前看一看我吧。",
+      "noteIds": ["n-kanqu"]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-fenghuangzhu",
+      "word": "凤凰柱",
+      "pinyin": "fèng huáng zhù",
+      "meaning": "瑟上雕成凤凰形状的柱，形容乐器精美。"
+    },
+    {
+      "id": "n-yuanyangxian",
+      "word": "鸳鸯弦",
+      "pinyin": "yuān yāng xián",
+      "meaning": "琴上成对的弦，像鸳鸯成双，象征夫妻。"
+    },
+    {
+      "id": "n-yanran",
+      "word": "燕然",
+      "pinyin": "yān rán",
+      "meaning": "山名，即今蒙古国的杭爱山，这里借指丈夫远戍的边地。"
+    },
+    {
+      "id": "n-hengbo",
+      "word": "横波目",
+      "pinyin": "héng bō mù",
+      "meaning": "形容眼波像水波一样流动含情。"
+    },
+    {
+      "id": "n-kanqu",
+      "word": "看取",
+      "pinyin": "kàn qǔ",
+      "meaning": "看一看。取，是助词。"
+    }
+  ],
+  "translation": "夕阳西沉，暮色里花像含着轻烟，月光皎洁得像白绢，她愁得睡不着。刚弹完赵地的瑟，瑟柱上雕着凤凰；又想弹蜀地的琴，琴上配着鸳鸯弦。这支曲子满含情意，却无人传递，愿它随着春风，寄到遥远的燕然。思念的人啊，迢迢远隔在青天之外。从前那双含情流动的眼睛，如今变成了流不完的泪泉。如果你不信我为你想断了肠，回来时到明镜前看一看我吧。",
+  "appreciation": "日尽月出，时间在诗里慢慢流过。瑟上有凤凰，琴上有鸳鸯，成双成对的图案反衬出人的孤单；一曲弹罢，情意无人可传，只能托给春风寄往燕然。最后忽然换成女子的口吻：不信我愁断了肠，归来请到明镜前看一看。以镜子作证，痴得可爱，也哀得动人。",
+  "background": "这是《长相思》的第二首，约作于公元 744 年李白离开长安之后，与第一首同为追忆远人之作。诗借一位女子的口吻，写丈夫远在燕然、自己日夜思念的愁绪，也是诗人身在江湖、心念长安的写照。",
+  "storyline": [
+    { "step": 1, "title": "日暮月升", "text": "夕阳落尽花含轻烟，月光皎洁，她却愁得难以入眠。" },
+    { "step": 2, "title": "弹瑟寄情", "text": "凤凰柱的瑟、鸳鸯弦的琴，曲中情意无人可传。" },
+    { "step": 3, "title": "春风寄燕", "text": "她把满腹思念托付春风，吹向遥远的燕然山。" },
+    { "step": 4, "title": "明镜为证", "text": "昔日含情的眼睛已成泪泉，归来请到镜前看她憔悴的容颜。" }
+  ],
+  "pinyinNotes": [
+    { "char": "赵瑟", "reading": "zhào sè", "reason": "瑟是古代弦乐器，赵国人善鼓瑟，故称赵瑟。", "standard": "“瑟”不要读成 bì" },
+    { "char": "燕然", "reading": "yān rán", "reason": "山名，即杭爱山。“燕”在山名里读 yān。", "standard": "不要读成 yàn" },
+    { "char": "迢迢", "reading": "tiáo tiáo", "reason": "形容路途遥远。" }
+  ],
+  "sources": ["《全唐诗》", "《唐诗三百首》", "《李太白集》"],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1242
+}

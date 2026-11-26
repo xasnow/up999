@@ -1,0 +1,114 @@
+{
+  "id": "tang-zhongtang-qianqi-gu-kou-shu-zhai-ji-yang-bu-que",
+  "slug": "gu-kou-shu-zhai-ji-yang-bu-que",
+  "title": "谷口书斋寄杨补阙",
+  "titlePinyin": "gǔ kǒu shū zhāi jì yáng bǔ quē",
+  "dynasty": "tangshi",
+  "era": "zhongtang",
+  "genre": "shi",
+  "form": "五言律诗",
+  "authorId": "qianqi",
+  "gradeBand": "ext",
+  "tags": ["友情", "五言律诗", "山泉", "夕阳"],
+  "difficulty": 3,
+  "writtenYear": 759,
+  "writtenLabel": "约公元 759 年（钱起 37 岁，任蓝田县尉，闲居谷口书斋）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "竹怜新雨后，山爱夕阳时。"
+  ],
+  "lines": [
+    {
+      "text": "泉壑带茅茨，",
+      "pinyin": ["quán", "hè", "dài", "máo", "cí"],
+      "translation": "山泉和沟壑环绕着我的茅屋，",
+      "noteIds": ["n-maoci"]
+    },
+    {
+      "text": "云霞生薜帷。",
+      "pinyin": ["yún", "xiá", "shēng", "bì", "wéi"],
+      "translation": "云霞从薜荔做的帘帷边升起。",
+      "noteIds": ["n-biwei"]
+    },
+    {
+      "text": "竹怜新雨后，",
+      "pinyin": ["zhú", "lián", "xīn", "yǔ", "hòu"],
+      "translation": "竹子在新雨过后最惹人喜爱，",
+      "noteIds": []
+    },
+    {
+      "text": "山爱夕阳时。",
+      "pinyin": ["shān", "ài", "xī", "yáng", "shí"],
+      "translation": "山峦在夕阳斜照时最美丽。",
+      "noteIds": []
+    },
+    {
+      "text": "闲鹭栖常早，",
+      "pinyin": ["xián", "lù", "qī", "cháng", "zǎo"],
+      "translation": "悠闲的白鹭总是早早栖息，",
+      "noteIds": []
+    },
+    {
+      "text": "秋花落更迟。",
+      "pinyin": ["qiū", "huā", "luò", "gèng", "chí"],
+      "translation": "秋天的花开得很久才凋落。",
+      "noteIds": []
+    },
+    {
+      "text": "家童扫萝径，",
+      "pinyin": ["jiā", "tóng", "sǎo", "luó", "jìng"],
+      "translation": "家童已扫好了长满女萝的小路，",
+      "noteIds": ["n-luojing"]
+    },
+    {
+      "text": "昨与故人期。",
+      "pinyin": ["zuó", "yǔ", "gù", "rén", "qī"],
+      "translation": "因为昨天已经和您约好相见。",
+      "noteIds": ["n-qi"]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-maoci",
+      "word": "茅茨",
+      "pinyin": "máo cí",
+      "meaning": "茅草屋。"
+    },
+    {
+      "id": "n-biwei",
+      "word": "薜帷",
+      "pinyin": "bì wéi",
+      "meaning": "用薜荔做的帘幕。薜荔是一种常绿藤蔓植物。"
+    },
+    {
+      "id": "n-luojing",
+      "word": "萝径",
+      "pinyin": "luó jìng",
+      "meaning": "长满女萝的小路。"
+    },
+    {
+      "id": "n-qi",
+      "word": "期",
+      "pinyin": "qī",
+      "meaning": "约定。"
+    }
+  ],
+  "translation": "山泉和沟壑环绕着我的茅屋，云霞从薜荔帘边升起。新雨后的竹子最惹人喜爱，夕阳下的山峦最动人。悠闲的白鹭早早栖息，秋天的花开得很久才谢。家童已经扫好了长满女萝的小路——因为昨天我已和您约好前来。",
+  "appreciation": "这是一封用诗写的邀请信。诗人把书斋周围写得又清又美：泉水绕屋、云霞升起、新竹可爱、夕阳山色正好，连白鹭都早早回巢，秋花也迟迟不肯凋谢。最后轻轻点出“昨与故人期”——原来一切美景都是为等你来准备的。画面安静而热情，友情就藏在字句背后。",
+  "background": "钱起在蓝田县做县尉时，住在谷口的书斋里，那里有山泉和竹林。他和补阙（在朝中向皇帝提建议的官员）杨某是好友，便写下这首诗寄给他，描绘书斋四周的美景，盼他早日前来做客。",
+  "storyline": [
+    { "step": 1, "title": "泉绕茅斋", "text": "山泉沟壑环绕茅屋，云霞在帘帷边升起。" },
+    { "step": 2, "title": "雨后新竹", "text": "新雨过后竹子青翠，夕阳把山染成金色。" },
+    { "step": 3, "title": "鹭宿花迟", "text": "白鹭早早归巢歇息，秋花久久不肯凋谢。" },
+    { "step": 4, "title": "扫径待友", "text": "家童扫净女萝小路，只等故人来赴约。" }
+  ],
+  "pinyinNotes": [
+    { "char": "壑", "reading": "hè", "reason": "“泉壑”指山泉和沟谷，“壑”读 hè。" },
+    { "char": "薜", "reading": "bì", "reason": "“薜帷”的“薜”指薜荔（一种藤蔓植物），读 bì。" },
+    { "char": "茨", "reading": "cí", "reason": "“茅茨”是茅草屋，“茨”读 cí。" }
+  ],
+  "sources": ["《全唐诗》", "《唐诗三百首》"],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1115
+}

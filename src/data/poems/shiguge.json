@@ -1,0 +1,616 @@
+{
+  "id": "tang-zhongtang-hanyu-shiguge",
+  "slug": "shiguge",
+  "title": "石鼓歌",
+  "titlePinyin": "shí gǔ gē",
+  "dynasty": "tangshi",
+  "era": "zhongtang",
+  "genre": "shi",
+  "form": "七言古诗",
+  "authorId": "hanyu",
+  "gradeBand": "ext",
+  "tags": [
+    "怀古",
+    "七言古诗",
+    "石鼓",
+    "文字"
+  ],
+  "difficulty": 3,
+  "writtenYear": 811,
+  "writtenLabel": "约公元811年（韩愈44岁，任河南令，想起六年前护石鼓未成，愤而作歌）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "张生手持石鼓文，劝我试作石鼓歌。",
+    "呜呼吾意其蹉跎。"
+  ],
+  "lines": [
+    {
+      "text": "张生手持石鼓文，",
+      "pinyin": ["zhāng", "shēng", "shǒu", "chí", "shí", "gǔ", "wén"],
+      "translation": "张生手里拿着石鼓文的拓片，",
+      "noteIds": []
+    },
+    {
+      "text": "劝我试作石鼓歌。",
+      "pinyin": ["quàn", "wǒ", "shì", "zuò", "shí", "gǔ", "gē"],
+      "translation": "劝我为它试写一首石鼓歌。",
+      "noteIds": []
+    },
+    {
+      "text": "少陵无人谪仙死，",
+      "pinyin": ["shào", "líng", "wú", "rén", "zhé", "xiān", "sǐ"],
+      "translation": "杜甫已经不在，李白也已去世，",
+      "noteIds": ["n-shaoling"]
+    },
+    {
+      "text": "才薄将奈石鼓何！",
+      "pinyin": ["cái", "bó", "jiāng", "nài", "shí", "gǔ", "hé"],
+      "translation": "我才力单薄，拿这石鼓文怎么办呢！",
+      "noteIds": []
+    },
+    {
+      "text": "周纲陵迟四海沸，",
+      "pinyin": ["zhōu", "gāng", "líng", "chí", "sì", "hǎi", "fèi"],
+      "translation": "周朝纲纪衰败，天下像煮沸了一样动荡，",
+      "noteIds": ["n-lingchi"]
+    },
+    {
+      "text": "宣王愤起挥天戈。",
+      "pinyin": ["xuān", "wáng", "fèn", "qǐ", "huī", "tiān", "gē"],
+      "translation": "周宣王愤然而起，挥动天子的战戈。",
+      "noteIds": []
+    },
+    {
+      "text": "大开明堂受朝贺，",
+      "pinyin": ["dà", "kāi", "míng", "táng", "shòu", "cháo", "hè"],
+      "translation": "他大开明堂接受诸侯朝拜庆贺，",
+      "noteIds": []
+    },
+    {
+      "text": "诸侯剑佩鸣相磨。",
+      "pinyin": ["zhū", "hóu", "jiàn", "pèi", "míng", "xiāng", "mó"],
+      "translation": "诸侯们的剑佩碰来碰去，叮当作响。",
+      "noteIds": []
+    },
+    {
+      "text": "搜于岐阳骋雄俊，",
+      "pinyin": ["sōu", "yú", "qí", "yáng", "chěng", "xióng", "jùn"],
+      "translation": "宣王在岐阳打猎，尽显英雄豪俊之气，",
+      "noteIds": ["n-sou"]
+    },
+    {
+      "text": "万里禽兽皆遮罗。",
+      "pinyin": ["wàn", "lǐ", "qín", "shòu", "jiē", "zhē", "luó"],
+      "translation": "万里之内的飞禽走兽都被围了起来。",
+      "noteIds": []
+    },
+    {
+      "text": "镌功勒成告万世，",
+      "pinyin": ["juān", "gōng", "lè", "chéng", "gào", "wàn", "shì"],
+      "translation": "为了刻下功业、传告万代，",
+      "noteIds": ["n-juan"]
+    },
+    {
+      "text": "凿石作鼓隳嵯峨。",
+      "pinyin": ["záo", "shí", "zuò", "gǔ", "huī", "cuó", "é"],
+      "translation": "凿山石做成十面鼓，把高耸的山峰都削平了。",
+      "noteIds": ["n-hui"]
+    },
+    {
+      "text": "从臣才艺咸第一，",
+      "pinyin": ["cóng", "chén", "cái", "yì", "xián", "dì", "yī"],
+      "translation": "随行的大臣个个才艺出众，",
+      "noteIds": []
+    },
+    {
+      "text": "拣选撰刻留山阿。",
+      "pinyin": ["jiǎn", "xuǎn", "zhuàn", "kè", "liú", "shān", "ē"],
+      "translation": "精选文辞撰写刻写，留在了山弯里。",
+      "noteIds": ["n-shan-e"]
+    },
+    {
+      "text": "雨淋日炙野火燎，",
+      "pinyin": ["yǔ", "lín", "rì", "zhì", "yě", "huǒ", "liáo"],
+      "translation": "雨淋、日晒、野火烧，",
+      "noteIds": []
+    },
+    {
+      "text": "鬼物守护烦撝呵。",
+      "pinyin": ["guǐ", "wù", "shǒu", "hù", "fán", "huī", "hē"],
+      "translation": "幸亏有神鬼守护，代代操心看护它们。",
+      "noteIds": ["n-hui-he"]
+    },
+    {
+      "text": "公从何处得纸本，",
+      "pinyin": ["gōng", "cóng", "hé", "chù", "dé", "zhǐ", "běn"],
+      "translation": "张生您从哪里得到这拓片，",
+      "noteIds": []
+    },
+    {
+      "text": "毫发尽备无差讹。",
+      "pinyin": ["háo", "fà", "jìn", "bèi", "wú", "chā", "é"],
+      "translation": "上面的笔画一点不缺，毫无差错。",
+      "noteIds": []
+    },
+    {
+      "text": "辞严义密读难晓，",
+      "pinyin": ["cí", "yán", "yì", "mì", "dú", "nán", "xiǎo"],
+      "translation": "文辞庄重、含意深密，很难读懂，",
+      "noteIds": []
+    },
+    {
+      "text": "字体不类隶与蝌。",
+      "pinyin": ["zì", "tǐ", "bú", "lèi", "lì", "yǔ", "kē"],
+      "translation": "字体既不像隶书，也不像蝌蚪文。",
+      "noteIds": []
+    },
+    {
+      "text": "年深岂免有缺画，",
+      "pinyin": ["nián", "shēn", "qǐ", "miǎn", "yǒu", "quē", "huà"],
+      "translation": "年代太久，笔画难免有残缺，",
+      "noteIds": []
+    },
+    {
+      "text": "快剑斫断生蛟鼍。",
+      "pinyin": ["kuài", "jiàn", "zhuó", "duàn", "shēng", "jiāo", "tuó"],
+      "translation": "那残缺的痕迹，像快剑砍断了生蛟活鼍。",
+      "noteIds": ["n-tuo"]
+    },
+    {
+      "text": "鸾翔凤翥众仙下，",
+      "pinyin": ["luán", "xiáng", "fèng", "zhù", "zhòng", "xiān", "xià"],
+      "translation": "字势像鸾鸟飞翔、凤凰高飞，又像群仙飘然而下，",
+      "noteIds": ["n-zhu"]
+    },
+    {
+      "text": "珊瑚碧树交枝柯。",
+      "pinyin": ["shān", "hú", "bì", "shù", "jiāo", "zhī", "kē"],
+      "translation": "又像珊瑚碧树，枝干交错。",
+      "noteIds": []
+    },
+    {
+      "text": "金绳铁索锁钮壮，",
+      "pinyin": ["jīn", "shéng", "tiě", "suǒ", "suǒ", "niǔ", "zhuàng"],
+      "translation": "笔画有的像金绳铁索，锁环粗壮有力，",
+      "noteIds": []
+    },
+    {
+      "text": "古鼎跃水龙腾梭。",
+      "pinyin": ["gǔ", "dǐng", "yuè", "shuǐ", "lóng", "téng", "suō"],
+      "translation": "有的像古鼎跃出水面、织梭化作飞龙。",
+      "noteIds": []
+    },
+    {
+      "text": "陋儒编诗不收入，",
+      "pinyin": ["lòu", "rú", "biān", "shī", "bù", "shōu", "rù"],
+      "translation": "见识浅陋的儒生编《诗经》，竟不收这些诗，",
+      "noteIds": []
+    },
+    {
+      "text": "二雅褊迫无委蛇。",
+      "pinyin": ["èr", "yǎ", "biǎn", "pò", "wú", "wēi", "yí"],
+      "translation": "《大雅》《小雅》太狭小局促，容不下这样从容宏大的诗篇。",
+      "noteIds": ["n-bian", "n-weiyi"]
+    },
+    {
+      "text": "孔子西行不到秦，",
+      "pinyin": ["kǒng", "zǐ", "xī", "xíng", "bú", "dào", "qín"],
+      "translation": "孔子周游列国向西走，却没到过秦国，",
+      "noteIds": []
+    },
+    {
+      "text": "掎摭星宿遗羲娥。",
+      "pinyin": ["jǐ", "zhí", "xīng", "xiù", "yí", "xī", "é"],
+      "translation": "摘取了点点星宿，却漏掉了太阳和月亮。",
+      "noteIds": ["n-jizhi"]
+    },
+    {
+      "text": "嗟余好古生苦晚，",
+      "pinyin": ["jiē", "yú", "hào", "gǔ", "shēng", "kǔ", "wǎn"],
+      "translation": "叹我喜爱古物，偏偏生得太晚，",
+      "noteIds": []
+    },
+    {
+      "text": "对此涕泪双滂沱。",
+      "pinyin": ["duì", "cǐ", "tì", "lèi", "shuāng", "pāng", "tuó"],
+      "translation": "对着石鼓文，眼泪像下雨一样落下来。",
+      "noteIds": []
+    },
+    {
+      "text": "忆昔初蒙博士征，",
+      "pinyin": ["yì", "xī", "chū", "méng", "bó", "shì", "zhēng"],
+      "translation": "回想当年刚被征召做国子博士，",
+      "noteIds": []
+    },
+    {
+      "text": "其年始改称元和。",
+      "pinyin": ["qí", "nián", "shǐ", "gǎi", "chēng", "yuán", "hé"],
+      "translation": "那一年年号刚改为元和。",
+      "noteIds": []
+    },
+    {
+      "text": "故人从军在右辅，",
+      "pinyin": ["gù", "rén", "cóng", "jūn", "zài", "yòu", "fǔ"],
+      "translation": "老朋友在右辅从军任职，",
+      "noteIds": []
+    },
+    {
+      "text": "为我度量掘臼科。",
+      "pinyin": ["wèi", "wǒ", "dù", "liàng", "jué", "jiù", "kē"],
+      "translation": "为我量好尺寸，挖出埋石鼓的坑穴。",
+      "noteIds": ["n-jiuke"]
+    },
+    {
+      "text": "濯冠沐浴告祭酒，",
+      "pinyin": ["zhuó", "guān", "mù", "yù", "gào", "jì", "jiǔ"],
+      "translation": "我洗冠沐浴，郑重地禀告国子祭酒，",
+      "noteIds": ["n-jijiu"]
+    },
+    {
+      "text": "如此至宝存岂多。",
+      "pinyin": ["rú", "cǐ", "zhì", "bǎo", "cún", "qǐ", "duō"],
+      "translation": "这样珍贵的宝物，世上哪还有多少呢？",
+      "noteIds": []
+    },
+    {
+      "text": "毡包席裹可立致，",
+      "pinyin": ["zhān", "bāo", "xí", "guǒ", "kě", "lì", "zhì"],
+      "translation": "用毡子包、用席子裹，马上就能运到，",
+      "noteIds": []
+    },
+    {
+      "text": "十鼓只载数骆驼。",
+      "pinyin": ["shí", "gǔ", "zhǐ", "tuó", "shù", "luò", "tuó"],
+      "translation": "十面鼓，几匹骆驼就驮来了。",
+      "noteIds": []
+    },
+    {
+      "text": "荐诸太庙比郜鼎，",
+      "pinyin": ["jiàn", "zhū", "tài", "miào", "bǐ", "gào", "dǐng"],
+      "translation": "把它们献进太庙，同郜国大鼎相媲美，",
+      "noteIds": ["n-gao"]
+    },
+    {
+      "text": "光价岂止百倍过。",
+      "pinyin": ["guāng", "jià", "qǐ", "zhǐ", "bǎi", "bèi", "guò"],
+      "translation": "它的光彩身价，何止超过百倍。",
+      "noteIds": []
+    },
+    {
+      "text": "圣恩若许留太学，",
+      "pinyin": ["shèng", "ēn", "ruò", "xǔ", "liú", "tài", "xué"],
+      "translation": "若蒙朝廷恩准把它们留在太学，",
+      "noteIds": []
+    },
+    {
+      "text": "诸生讲解得切磋。",
+      "pinyin": ["zhū", "shēng", "jiǎng", "jiě", "dé", "qiē", "cuō"],
+      "translation": "学生们讲解研究，正好可以切磋学问。",
+      "noteIds": []
+    },
+    {
+      "text": "观经鸿都尚填咽，",
+      "pinyin": ["guān", "jīng", "hóng", "dū", "shàng", "tián", "yè"],
+      "translation": "当年人们去看鸿都门的经书碑刻，已经挤得水泄不通，",
+      "noteIds": ["n-tianye"]
+    },
+    {
+      "text": "坐见举国来奔波。",
+      "pinyin": ["zuò", "jiàn", "jǔ", "guó", "lái", "bēn", "bō"],
+      "translation": "定会看到全国的人都跑来观看。",
+      "noteIds": []
+    },
+    {
+      "text": "剜苔剔藓露节角，",
+      "pinyin": ["wān", "tái", "tī", "xiǎn", "lù", "jié", "jiǎo"],
+      "translation": "剜去青苔、剔除藓衣，露出字迹棱角，",
+      "noteIds": []
+    },
+    {
+      "text": "安置妥帖平不颇。",
+      "pinyin": ["ān", "zhì", "tuǒ", "tiē", "píng", "bù", "pō"],
+      "translation": "把石鼓安置得稳稳当当，端端正正不歪斜。",
+      "noteIds": []
+    },
+    {
+      "text": "大厦深檐与盖覆，",
+      "pinyin": ["dà", "shà", "shēn", "yán", "yǔ", "gài", "fù"],
+      "translation": "再盖上深广的屋檐，好好遮护，",
+      "noteIds": []
+    },
+    {
+      "text": "经历久远期无佗。",
+      "pinyin": ["jīng", "lì", "jiǔ", "yuǎn", "qī", "wú", "tuō"],
+      "translation": "但愿经历再久，也不出什么意外。",
+      "noteIds": ["n-tuo2"]
+    },
+    {
+      "text": "中朝大官老于事，",
+      "pinyin": ["zhōng", "cháo", "dà", "guān", "lǎo", "yú", "shì"],
+      "translation": "朝廷里的大官们办事老成世故，",
+      "noteIds": []
+    },
+    {
+      "text": "讵肯感激徒媕婀。",
+      "pinyin": ["jù", "kěn", "gǎn", "jī", "tú", "ān", "ē"],
+      "translation": "哪肯为此动心出力，只会犹犹豫豫。",
+      "noteIds": ["n-ana"]
+    },
+    {
+      "text": "牧童敲火牛砺角，",
+      "pinyin": ["mù", "tóng", "qiāo", "huǒ", "niú", "lì", "jiǎo"],
+      "translation": "如今牧童在鼓上敲火，老牛在鼓边磨角，",
+      "noteIds": []
+    },
+    {
+      "text": "谁复著手为摩挲。",
+      "pinyin": ["shuí", "fù", "zhuó", "shǒu", "wéi", "mó", "suō"],
+      "translation": "还有谁肯伸手来抚一抚这些宝物呢。",
+      "noteIds": ["n-zhuo"]
+    },
+    {
+      "text": "日销月铄就埋没，",
+      "pinyin": ["rì", "xiāo", "yuè", "shuò", "jiù", "mái", "mò"],
+      "translation": "日晒月蚀，石鼓一天天销蚀，就要被埋没了，",
+      "noteIds": ["n-shuo"]
+    },
+    {
+      "text": "六年西顾空吟哦。",
+      "pinyin": ["liù", "nián", "xī", "gù", "kōng", "yín", "é"],
+      "translation": "六年了，我朝西遥望，只能空自叹惜。",
+      "noteIds": []
+    },
+    {
+      "text": "羲之俗书趁姿媚，",
+      "pinyin": ["xī", "zhī", "sú", "shū", "chèn", "zī", "mèi"],
+      "translation": "王羲之的书法追求姿态妩媚，",
+      "noteIds": []
+    },
+    {
+      "text": "数纸尚可博白鹅。",
+      "pinyin": ["shù", "zhǐ", "shàng", "kě", "bó", "bái", "é"],
+      "translation": "几张字帖还能换来一群白鹅，",
+      "noteIds": []
+    },
+    {
+      "text": "继周八代争战罢，",
+      "pinyin": ["jì", "zhōu", "bā", "dài", "zhēng", "zhàn", "bà"],
+      "translation": "周朝以后八个朝代争战不休，",
+      "noteIds": []
+    },
+    {
+      "text": "无人收拾理则那。",
+      "pinyin": ["wú", "rén", "shōu", "shí", "lǐ", "zé", "nuó"],
+      "translation": "没人收拾保护，这道理怎么说得过去呢。",
+      "noteIds": ["n-na"]
+    },
+    {
+      "text": "方今太平日无事，",
+      "pinyin": ["fāng", "jīn", "tài", "píng", "rì", "wú", "shì"],
+      "translation": "如今正是太平无事的日子，",
+      "noteIds": []
+    },
+    {
+      "text": "柄任儒术崇丘轲。",
+      "pinyin": ["bǐng", "rèn", "rú", "shù", "chóng", "qiū", "kē"],
+      "translation": "朝廷重用儒学，尊崇孔子和孟子，",
+      "noteIds": ["n-ke"]
+    },
+    {
+      "text": "安能以此上论列，",
+      "pinyin": ["ān", "néng", "yǐ", "cǐ", "shàng", "lùn", "liè"],
+      "translation": "我怎么能把这事提出来议论一番，",
+      "noteIds": []
+    },
+    {
+      "text": "愿借辩口如悬河。",
+      "pinyin": ["yuàn", "jiè", "biàn", "kǒu", "rú", "xuán", "hé"],
+      "translation": "但愿借一张悬河般的辩口，把道理说清。",
+      "noteIds": []
+    },
+    {
+      "text": "石鼓之歌止于此，",
+      "pinyin": ["shí", "gǔ", "zhī", "gē", "zhǐ", "yú", "cǐ"],
+      "translation": "石鼓歌就写到这里吧，",
+      "noteIds": []
+    },
+    {
+      "text": "呜呼吾意其蹉跎。",
+      "pinyin": ["wū", "hū", "wú", "yì", "qí", "cuō", "tuó"],
+      "translation": "唉，我的心愿怕是要落空了。",
+      "noteIds": ["n-cuotuo"]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-shaoling",
+      "word": "少陵",
+      "pinyin": "shào líng",
+      "meaning": "指杜甫，他自称少陵野老；谪仙指李白。"
+    },
+    {
+      "id": "n-lingchi",
+      "word": "陵迟",
+      "pinyin": "líng chí",
+      "meaning": "衰败、败坏。"
+    },
+    {
+      "id": "n-sou",
+      "word": "搜",
+      "pinyin": "sōu",
+      "meaning": "春天打猎，这里指周宣王在岐阳举行狩猎。"
+    },
+    {
+      "id": "n-juan",
+      "word": "镌功勒成",
+      "pinyin": "juān gōng lè chéng",
+      "meaning": "把功业刻在石头上，镌、勒都是雕刻的意思。"
+    },
+    {
+      "id": "n-hui",
+      "word": "隳",
+      "pinyin": "huī",
+      "meaning": "毁坏、削平，指削平高山的顶部来凿石鼓。"
+    },
+    {
+      "id": "n-shan-e",
+      "word": "山阿",
+      "pinyin": "shān ē",
+      "meaning": "山的曲折处、山坳。"
+    },
+    {
+      "id": "n-hui-he",
+      "word": "撝呵",
+      "pinyin": "huī hē",
+      "meaning": "守护、呵卫。"
+    },
+    {
+      "id": "n-tuo",
+      "word": "鼍",
+      "pinyin": "tuó",
+      "meaning": "扬子鳄，一种爬行动物。"
+    },
+    {
+      "id": "n-zhu",
+      "word": "翥",
+      "pinyin": "zhù",
+      "meaning": "向上飞。"
+    },
+    {
+      "id": "n-bian",
+      "word": "褊迫",
+      "pinyin": "biǎn pò",
+      "meaning": "狭窄局促。"
+    },
+    {
+      "id": "n-weiyi",
+      "word": "委蛇",
+      "pinyin": "wēi yí",
+      "meaning": "从容宏大的样子。"
+    },
+    {
+      "id": "n-jizhi",
+      "word": "掎摭",
+      "pinyin": "jǐ zhí",
+      "meaning": "摘取、选取。"
+    },
+    {
+      "id": "n-jiuke",
+      "word": "臼科",
+      "pinyin": "jiù kē",
+      "meaning": "坑穴，指安放石鼓挖的坑。"
+    },
+    {
+      "id": "n-jijiu",
+      "word": "祭酒",
+      "pinyin": "jì jiǔ",
+      "meaning": "太学的最高长官。"
+    },
+    {
+      "id": "n-gao",
+      "word": "郜鼎",
+      "pinyin": "gào dǐng",
+      "meaning": "春秋时郜国铸造的著名宝鼎。"
+    },
+    {
+      "id": "n-tianye",
+      "word": "填咽",
+      "pinyin": "tián yè",
+      "meaning": "拥挤堵塞，人挤得满满的。"
+    },
+    {
+      "id": "n-tuo2",
+      "word": "佗",
+      "pinyin": "tuō",
+      "meaning": "同“他”，指别的变故。"
+    },
+    {
+      "id": "n-ana",
+      "word": "媕婀",
+      "pinyin": "ān ē",
+      "meaning": "没有主见、犹犹豫豫的样子。"
+    },
+    {
+      "id": "n-zhuo",
+      "word": "著手",
+      "pinyin": "zhuó shǒu",
+      "meaning": "动手、伸手。"
+    },
+    {
+      "id": "n-shuo",
+      "word": "铄",
+      "pinyin": "shuò",
+      "meaning": "销蚀、磨损。"
+    },
+    {
+      "id": "n-na",
+      "word": "那",
+      "pinyin": "nuó",
+      "meaning": "同“哪”，怎么，表反问。"
+    },
+    {
+      "id": "n-ke",
+      "word": "丘轲",
+      "pinyin": "qiū kē",
+      "meaning": "孔子（名丘）和孟子（名轲）。"
+    },
+    {
+      "id": "n-cuotuo",
+      "word": "蹉跎",
+      "pinyin": "cuō tuó",
+      "meaning": "白白错过、落空。"
+    }
+  ],
+  "translation": "张生手里拿着石鼓文的拓片，劝我为它试写一首石鼓歌。杜甫已经不在，李白也已去世，我才力单薄，拿这石鼓文怎么办呢！周朝纲纪衰败，天下像煮沸了一样动荡，周宣王愤然而起，挥动天子的战戈。他大开明堂接受诸侯朝拜庆贺，诸侯们的剑佩碰来碰去，叮当作响。宣王在岐阳打猎，尽显英雄豪俊之气，万里之内的飞禽走兽都被围了起来。为了刻下功业、传告万代，凿山石做成十面鼓，把高耸的山峰都削平了。随行的大臣个个才艺出众，精选文辞撰写刻写，留在了山弯里。雨淋、日晒、野火烧，幸亏有神鬼守护，代代操心看护它们。张生您从哪里得到这拓片，上面的笔画一点不缺，毫无差错。文辞庄重、含意深密，很难读懂，字体既不像隶书，也不像蝌蚪文。年代太久，笔画难免有残缺，那残缺的痕迹，像快剑砍断了生蛟活鼍。字势像鸾鸟飞翔、凤凰高飞，又像群仙飘然而下，又像珊瑚碧树，枝干交错。笔画有的像金绳铁索，锁环粗壮有力，有的像古鼎跃出水面、织梭化作飞龙。见识浅陋的儒生编《诗经》，竟不收这些诗，《大雅》《小雅》太狭小局促，容不下这样从容宏大的诗篇。孔子周游列国向西走，却没到过秦国，摘取了点点星宿，却漏掉了太阳和月亮。叹我喜爱古物，偏偏生得太晚，对着石鼓文，眼泪像下雨一样落下来。回想当年刚被征召做国子博士，那一年年号刚改为元和。老朋友在右辅从军任职，为我量好尺寸，挖出埋石鼓的坑穴。我洗冠沐浴，郑重地禀告国子祭酒，这样珍贵的宝物，世上哪还有多少呢？用毡子包、用席子裹，马上就能运到，十面鼓，几匹骆驼就驮来了。把它们献进太庙，同郜国大鼎相媲美，它的光彩身价，何止超过百倍。若蒙朝廷恩准把它们留在太学，学生们讲解研究，正好可以切磋学问。当年人们去看鸿都门的经书碑刻，已经挤得水泄不通，定会看到全国的人都跑来观看。剜去青苔、剔除藓衣，露出字迹棱角，把石鼓安置得稳稳当当，端端正正不歪斜。再盖上深广的屋檐，好好遮护，但愿经历再久，也不出什么意外。朝廷里的大官们办事老成世故，哪肯为此动心出力，只会犹犹豫豫。如今牧童在鼓上敲火，老牛在鼓边磨角，还有谁肯伸手来抚一抚这些宝物呢。日晒月蚀，石鼓一天天销蚀，就要被埋没了，六年了，我朝西遥望，只能空自叹惜。王羲之的书法追求姿态妩媚，几张字帖还能换来一群白鹅，周朝以后八个朝代争战不休，没人收拾保护，这道理怎么说得过去呢。如今正是太平无事的日子，朝廷重用儒学，尊崇孔子和孟子，我怎么能把这事提出来议论一番，但愿借一张悬河般的辩口，把道理说清。石鼓歌就写到这里吧，唉，我的心愿怕是要落空了。",
+  "appreciation": "石鼓是刻着中国最早石刻文字的十面大石。韩愈为它写的这首歌，先追想周宣王狩猎刻石的来历，再用一连串奇妙比喻描摹古字之美，又叹息《诗经》不收、孔子未见，最后大声疾呼请朝廷把石鼓移进太学保护。全诗一气奔涌，爱古护宝的心意滚烫，可惜大官们不理不睬，结尾的“吾意其蹉跎”，是文人最沉重的叹息。",
+  "background": "元和元年，韩愈任国子博士，曾请求把在凤翔荒野中被毁损的石鼓移到太学保存，无人理会。元和六年，他想起六年来石鼓仍被牧童敲火、牛角磨砺，愤而写下这首长歌，为保护文物奔走呼号。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "拓片赠诗",
+      "text": "张生送来石鼓文拓片，劝韩愈为这千年古字写一首歌。"
+    },
+    {
+      "step": 2,
+      "title": "追想宣王",
+      "text": "周宣王岐阳狩猎大胜，凿石作鼓，刻下功业传万世。"
+    },
+    {
+      "step": 3,
+      "title": "奔走护鼓",
+      "text": "韩愈洗冠沐浴禀告祭酒，请求把石鼓移进太学保护。"
+    },
+    {
+      "step": 4,
+      "title": "空叹蹉跎",
+      "text": "大官犹豫不理，石鼓遭牧童敲火牛磨角，心愿落空。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "撝",
+      "reading": "huī",
+      "reason": "“烦撝呵”的“撝”是守护、呵卫的意思，读 huī。",
+      "standard": "生僻字，不要读成 wéi"
+    },
+    {
+      "char": "隳",
+      "reading": "huī",
+      "reason": "“隳嵯峨”的“隳”是毁坏、削平的意思，读 huī。",
+      "standard": "生僻字，不要读成 suí"
+    },
+    {
+      "char": "媕婀",
+      "reading": "ān ē",
+      "reason": "“媕婀”形容没有主见、犹豫不决，两个都是生僻字。",
+      "standard": "不要读成 yǎn ē"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1222
+}

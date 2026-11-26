@@ -1,0 +1,170 @@
+{
+  "id": "tang-wantang-lishangyin-wuti-fengweixiangluo",
+  "slug": "wuti-fengweixiangluo",
+  "title": "无题·凤尾香罗薄几重",
+  "titlePinyin": "wú tí·fèng wěi xiāng luó báo jǐ chóng",
+  "dynasty": "tangshi",
+  "era": "wantang",
+  "genre": "shi",
+  "form": "七言律诗",
+  "authorId": "lishangyin",
+  "gradeBand": "ext",
+  "tags": [
+    "思念",
+    "七言律诗",
+    "垂杨",
+    "香罗"
+  ],
+  "difficulty": 3,
+  "writtenYear": 853,
+  "writtenLabel": "作年不详，约公元 853 年（大中年间，写少女相思之情）",
+  "orderInAuthor": 2,
+  "no": 1129,
+  "famousLines": [
+    "斑骓只系垂杨岸，何处西南待好风。"
+  ],
+  "lines": [
+    {
+      "text": "凤尾香罗薄几重，",
+      "pinyin": ["fèng", "wěi", "xiāng", "luó", "bó", "jǐ", "chóng"],
+      "translation": "绣着凤尾纹的香罗帐薄薄几层，",
+      "noteIds": ["n-fengwei"]
+    },
+    {
+      "text": "碧文圆顶夜深缝。",
+      "pinyin": ["bì", "wén", "yuán", "dǐng", "yè", "shēn", "féng"],
+      "translation": "她连夜赶缝碧纹圆顶的车帐。",
+      "noteIds": ["n-biwen"]
+    },
+    {
+      "text": "扇裁月魄羞难掩，",
+      "pinyin": ["shàn", "cái", "yuè", "pò", "xiū", "nán", "yǎn"],
+      "translation": "团扇裁得像圆月，却难掩脸上的羞意，",
+      "noteIds": ["n-yuepo"]
+    },
+    {
+      "text": "车走雷声语未通。",
+      "pinyin": ["chē", "zǒu", "léi", "shēng", "yǔ", "wèi", "tōng"],
+      "translation": "对方的车子如雷声驶过，一句话也没能说上。",
+      "noteIds": ["n-leisheng"]
+    },
+    {
+      "text": "曾是寂寥金烬暗，",
+      "pinyin": ["céng", "shì", "jì", "liáo", "jīn", "jìn", "àn"],
+      "translation": "多少个寂寞长夜，灯芯烧成了暗淡的金烬，",
+      "noteIds": ["n-jinjin"]
+    },
+    {
+      "text": "断无消息石榴红。",
+      "pinyin": ["duàn", "wú", "xiāo", "xī", "shí", "liú", "hóng"],
+      "translation": "盼到石榴花又红了，依然杳无音信。",
+      "noteIds": ["n-shiliuhong"]
+    },
+    {
+      "text": "斑骓只系垂杨岸，",
+      "pinyin": ["bān", "zhuī", "zhǐ", "xì", "chuí", "yáng", "àn"],
+      "translation": "斑骓马只拴在垂柳岸边，",
+      "noteIds": ["n-banzhui"]
+    },
+    {
+      "text": "何处西南待好风。",
+      "pinyin": ["hé", "chù", "xī", "nán", "dài", "hǎo", "fēng"],
+      "translation": "哪里能让西南好风，把他吹送到这里？",
+      "noteIds": ["n-haofeng"]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-fengwei",
+      "word": "凤尾香罗",
+      "pinyin": "fèng wěi xiāng luó",
+      "meaning": "织有凤尾花纹的薄纱罗帐，少女备嫁之物。"
+    },
+    {
+      "id": "n-biwen",
+      "word": "碧文圆顶",
+      "pinyin": "bì wén yuán dǐng",
+      "meaning": "有青碧花纹的圆顶车帐。"
+    },
+    {
+      "id": "n-yuepo",
+      "word": "月魄",
+      "pinyin": "yuè pò",
+      "meaning": "本指月的暗处，这里形容团扇像圆月一样。"
+    },
+    {
+      "id": "n-leisheng",
+      "word": "雷声",
+      "pinyin": "léi shēng",
+      "meaning": "形容车马驶过的声音。"
+    },
+    {
+      "id": "n-jinjin",
+      "word": "金烬",
+      "pinyin": "jīn jìn",
+      "meaning": "灯烛烧残的金色余烬，形容长夜独守。"
+    },
+    {
+      "id": "n-shiliuhong",
+      "word": "石榴红",
+      "pinyin": "shí liú hóng",
+      "meaning": "石榴花开的时节，指夏季又到。"
+    },
+    {
+      "id": "n-banzhui",
+      "word": "斑骓",
+      "pinyin": "bān zhuī",
+      "meaning": "毛色青白相间的骏马。"
+    },
+    {
+      "id": "n-haofeng",
+      "word": "好风",
+      "pinyin": "hǎo fēng",
+      "meaning": "顺风。用宋玉《风赋》典故，盼西南风把所思之人送来。"
+    }
+  ],
+  "translation": "绣着凤尾纹的香罗帐薄薄几层，她连夜赶缝碧纹圆顶的车帐。团扇裁得像圆月，却难掩脸上的羞意；对方的车子如雷声驶过，一句话也没能说上。多少个寂寞长夜，灯芯烧成了暗淡的金烬；盼到石榴花又红了，依然杳无音信。斑骓马只拴在垂柳岸边，哪里能让西南好风，把他吹送到这里？",
+  "appreciation": "诗从一针一线写起：少女深夜缝制香罗车帐，一针一线都是对婚姻的期盼。可相处的机会只有一次——她羞得用圆扇遮脸，对方的车已经像雷声一样远去，连一句话都没来得及说。此后便是漫长的等待：灯芯烧尽成灰烬，石榴花开了又一年，仍然没有消息。结尾她只能痴痴地想：马儿拴在垂杨岸，谁能借一阵西南好风，把那个人送到面前？全诗把少女从憧憬、羞怯到守望的心情写得细密如织。",
+  "background": "这是李商隐《无题》诗中写少女相思的名篇。诗中的女子深夜缝制嫁帐，暗慕一位青年，却因一次错身而过再无音讯，只能岁岁等待。诗人借女子心事，也寄托着自己求索而不得的怅惘。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "夜缝罗帐",
+      "text": "少女深夜赶缝凤尾香罗的车帐。"
+    },
+    {
+      "step": 2,
+      "title": "扇掩羞颜",
+      "text": "扇如圆月难掩羞意，车声远去语未通。"
+    },
+    {
+      "step": 3,
+      "title": "灯烬无信",
+      "text": "长夜灯烧成烬，石榴花红仍无音信。"
+    },
+    {
+      "step": 4,
+      "title": "待风送君",
+      "text": "斑骓系于垂杨岸，盼西南好风送人来。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "骓",
+      "reading": "zhuī",
+      "reason": "“斑骓”指青白相间的骏马，读 zhuī。"
+    },
+    {
+      "char": "重",
+      "reading": "chóng",
+      "reason": "“薄几重”指几层，量词读 chóng。",
+      "standard": "不要读成 zhòng"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26"
+}

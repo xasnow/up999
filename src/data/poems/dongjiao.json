@@ -1,0 +1,187 @@
+{
+  "id": "tang-zhongtang-weiyingwu-dongjiao",
+  "slug": "dongjiao",
+  "title": "东郊",
+  "titlePinyin": "dōng jiāo",
+  "dynasty": "tangshi",
+  "era": "zhongtang",
+  "genre": "shi",
+  "form": "五言古诗",
+  "authorId": "weiyingwu",
+  "gradeBand": "ext",
+  "tags": ["田园", "五言古诗", "春天", "杨柳"],
+  "difficulty": 3,
+  "writtenYear": 784,
+  "writtenLabel": "约公元 784 年春（韦应物 47 岁，任滁州刺史，公务之余游城东郊外）",
+  "orderInAuthor": 4,
+  "no": 1190,
+  "famousLines": [
+    "杨柳散和风，青山澹吾虑。"
+  ],
+  "lines": [
+    {
+      "text": "吏舍跼终年，",
+      "pinyin": ["lì", "shè", "jú", "zhōng", "nián"],
+      "translation": "在官舍里拘束地待了一整年，",
+      "noteIds": ["n-ju"]
+    },
+    {
+      "text": "出郊旷清曙。",
+      "pinyin": ["chū", "jiāo", "kuàng", "qīng", "shǔ"],
+      "translation": "清早走出城郊，顿时觉得开阔舒畅。",
+      "noteIds": ["n-shu"]
+    },
+    {
+      "text": "杨柳散和风，",
+      "pinyin": ["yáng", "liǔ", "sàn", "hé", "fēng"],
+      "translation": "杨柳在和风里轻轻舒展，",
+      "noteIds": []
+    },
+    {
+      "text": "青山澹吾虑。",
+      "pinyin": ["qīng", "shān", "dàn", "wú", "lǜ"],
+      "translation": "青山的颜色让我心中的思虑安静下来。",
+      "noteIds": ["n-dan"]
+    },
+    {
+      "text": "依丛适自憩，",
+      "pinyin": ["yī", "cóng", "shì", "zì", "qì"],
+      "translation": "靠着树丛歇一歇，",
+      "noteIds": ["n-qi"]
+    },
+    {
+      "text": "缘涧还复去。",
+      "pinyin": ["yuán", "jiàn", "huán", "fù", "qù"],
+      "translation": "又沿着山涧走，走了还想去。",
+      "noteIds": []
+    },
+    {
+      "text": "微雨霭芳原，",
+      "pinyin": ["wēi", "yǔ", "ǎi", "fāng", "yuán"],
+      "translation": "细雨的雾气笼罩着芬芳的原野，",
+      "noteIds": ["n-ai"]
+    },
+    {
+      "text": "春鸠鸣何处。",
+      "pinyin": ["chūn", "jiū", "míng", "hé", "chù"],
+      "translation": "不知从哪里传来斑鸠的鸣叫。",
+      "noteIds": []
+    },
+    {
+      "text": "乐幽心屡止，",
+      "pinyin": ["lè", "yōu", "xīn", "lǚ", "zhǐ"],
+      "translation": "喜欢这清幽的地方，心思几次想留下，",
+      "noteIds": []
+    },
+    {
+      "text": "遵事迹犹遽。",
+      "pinyin": ["zūn", "shì", "jì", "yóu", "jù"],
+      "translation": "可公务在身，脚步还是匆匆。",
+      "noteIds": ["n-ju2"]
+    },
+    {
+      "text": "终罢斯结庐，",
+      "pinyin": ["zhōng", "bà", "sī", "jié", "lú"],
+      "translation": "等最终辞了官，就在这里盖间小屋，",
+      "noteIds": []
+    },
+    {
+      "text": "慕陶直可庶。",
+      "pinyin": ["mù", "táo", "zhí", "kě", "shù"],
+      "translation": "学陶渊明归隐田园，这个愿望差不多能实现。",
+      "noteIds": ["n-shu2"]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-ju",
+      "word": "跼",
+      "pinyin": "jú",
+      "meaning": "局促、拘束。"
+    },
+    {
+      "id": "n-shu",
+      "word": "清曙",
+      "pinyin": "qīng shǔ",
+      "meaning": "清爽的清晨。"
+    },
+    {
+      "id": "n-dan",
+      "word": "澹",
+      "pinyin": "dàn",
+      "meaning": "安静、澄净，这里指青山让心思平静。"
+    },
+    {
+      "id": "n-qi",
+      "word": "憩",
+      "pinyin": "qì",
+      "meaning": "休息。"
+    },
+    {
+      "id": "n-ai",
+      "word": "霭",
+      "pinyin": "ǎi",
+      "meaning": "云气弥漫、笼罩。"
+    },
+    {
+      "id": "n-ju2",
+      "word": "遽",
+      "pinyin": "jù",
+      "meaning": "匆忙、急促。"
+    },
+    {
+      "id": "n-shu2",
+      "word": "庶",
+      "pinyin": "shù",
+      "meaning": "差不多、接近，指愿望可能实现。"
+    }
+  ],
+  "translation": "在官舍里拘束地待了一整年，清早走出城郊，顿时觉得开阔舒畅。杨柳在和风里轻轻舒展，青山的颜色让我心中的思虑安静下来。靠着树丛歇一歇，又沿着山涧走，走了还想去。细雨的雾气笼罩着芬芳的原野，不知从哪里传来斑鸠的鸣叫。喜欢这清幽的地方，心思几次想留下，可公务在身，脚步还是匆匆。等最终辞了官，就在这里盖间小屋，学陶渊明归隐田园，这个愿望差不多能实现。",
+  "appreciation": "诗人写的是一次很普通的郊游，却写出了久困官署的人见到春天的欢喜。杨柳、青山、微雨、鸣鸠，处处清爽干净，“青山澹吾虑”一句让山来替人洗去烦恼。结尾说要学陶渊明在此结庐，是公务烦忙中发出的真心愿，清淡的笔墨里见出真性情。",
+  "background": "韦应物在滁州做刺史，一年到头困在官署里。春天的一个清晨，他趁公务清闲到城东郊外散心，看杨柳和风、青山安静，雨后原野传来斑鸠叫声，萌生了归隐田园的念头，写下这首诗。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "走出官舍",
+      "text": "在官舍里拘束了一整年，清早走出城郊透透气。"
+    },
+    {
+      "step": 2,
+      "title": "风柳青山",
+      "text": "杨柳在和风里摆动，青山让人的心思安静下来。"
+    },
+    {
+      "step": 3,
+      "title": "雨润芳原",
+      "text": "靠着树丛歇脚，沿溪散步；微雨里春鸠声声鸣叫。"
+    },
+    {
+      "step": 4,
+      "title": "梦想结庐",
+      "text": "喜欢清幽却公务缠身，盼着辞官后在此盖屋归隐。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "跼",
+      "reading": "jú",
+      "reason": "“吏舍跼终年”的“跼”是局促、拘束的意思，读 jú。",
+      "standard": "不要读成 jù 或 qū"
+    },
+    {
+      "char": "澹",
+      "reading": "dàn",
+      "reason": "“澹”通“淡”，安静的意思，读 dàn。",
+      "standard": "不要读成 tán"
+    },
+    {
+      "char": "憩",
+      "reading": "qì",
+      "reason": "“自憩”的“憩”是休息的意思，读 qì。",
+      "standard": "生僻字，注意读音"
+    }
+  ],
+  "sources": ["《全唐诗》", "《唐诗三百首》"],
+  "status": "published",
+  "updatedAt": "2026-11-26"
+}

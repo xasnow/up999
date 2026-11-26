@@ -1,0 +1,734 @@
+{
+  "id": "tang-shengtang-dufu-danqingyin",
+  "slug": "danqingyin",
+  "title": "丹青引赠曹霸将军",
+  "titlePinyin": "dān qīng yǐn zèng cáo bà jiāng jūn",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "七言古诗",
+  "authorId": "dufu",
+  "gradeBand": "ext",
+  "tags": [
+    "咏物",
+    "骏马",
+    "丹青",
+    "七言古诗"
+  ],
+  "difficulty": 3,
+  "writtenYear": 764,
+  "writtenLabel": "公元 764 年（杜甫 52 岁，在成都与流落的宫廷画家曹霸重逢）",
+  "orderInAuthor": 12,
+  "famousLines": [
+    "斯须九重真龙出，一洗万古凡马空。"
+  ],
+  "lines": [
+    {
+      "text": "将军魏武之子孙，",
+      "pinyin": [
+        "jiāng",
+        "jūn",
+        "wèi",
+        "wǔ",
+        "zhī",
+        "zǐ",
+        "sūn"
+      ],
+      "translation": "曹将军是魏武帝曹操的后代，",
+      "noteIds": [
+        "n-weiwu"
+      ]
+    },
+    {
+      "text": "于今为庶为清门。",
+      "pinyin": [
+        "yú",
+        "jīn",
+        "wéi",
+        "shù",
+        "wéi",
+        "qīng",
+        "mén"
+      ],
+      "translation": "如今却沦为平民，成了清寒的门第。",
+      "noteIds": []
+    },
+    {
+      "text": "英雄割据虽已矣，",
+      "pinyin": [
+        "yīng",
+        "xióng",
+        "gē",
+        "jù",
+        "suī",
+        "yǐ",
+        "yǐ"
+      ],
+      "translation": "英雄割据的霸业虽然早已过去，",
+      "noteIds": []
+    },
+    {
+      "text": "文彩风流今尚存。",
+      "pinyin": [
+        "wén",
+        "cǎi",
+        "fēng",
+        "liú",
+        "jīn",
+        "shàng",
+        "cún"
+      ],
+      "translation": "但文采风流到今天仍然保存。",
+      "noteIds": []
+    },
+    {
+      "text": "学书初学卫夫人，",
+      "pinyin": [
+        "xué",
+        "shū",
+        "chū",
+        "xué",
+        "wèi",
+        "fū",
+        "rén"
+      ],
+      "translation": "他学书法起初学卫夫人，",
+      "noteIds": [
+        "n-weifuren"
+      ]
+    },
+    {
+      "text": "但恨无过王右军。",
+      "pinyin": [
+        "dàn",
+        "hèn",
+        "wú",
+        "guò",
+        "wáng",
+        "yòu",
+        "jūn"
+      ],
+      "translation": "只遗憾没能超过王羲之。",
+      "noteIds": []
+    },
+    {
+      "text": "丹青不知老将至，",
+      "pinyin": [
+        "dān",
+        "qīng",
+        "bù",
+        "zhī",
+        "lǎo",
+        "jiāng",
+        "zhì"
+      ],
+      "translation": "他专心绘画，连衰老来临都不觉得，",
+      "noteIds": []
+    },
+    {
+      "text": "富贵于我如浮云。",
+      "pinyin": [
+        "fù",
+        "guì",
+        "yú",
+        "wǒ",
+        "rú",
+        "fú",
+        "yún"
+      ],
+      "translation": "把富贵看作天上的浮云。",
+      "noteIds": []
+    },
+    {
+      "text": "开元之中常引见，",
+      "pinyin": [
+        "kāi",
+        "yuán",
+        "zhī",
+        "zhōng",
+        "cháng",
+        "yǐn",
+        "jiàn"
+      ],
+      "translation": "开元年间他常被皇帝引见，",
+      "noteIds": []
+    },
+    {
+      "text": "承恩数上南熏殿。",
+      "pinyin": [
+        "chéng",
+        "ēn",
+        "shuò",
+        "shàng",
+        "nán",
+        "xūn",
+        "diàn"
+      ],
+      "translation": "多次蒙恩登上南熏殿作画。",
+      "noteIds": []
+    },
+    {
+      "text": "凌烟功臣少颜色，",
+      "pinyin": [
+        "líng",
+        "yān",
+        "gōng",
+        "chén",
+        "shǎo",
+        "yán",
+        "sè"
+      ],
+      "translation": "凌烟阁上功臣的画像褪了颜色，",
+      "noteIds": [
+        "n-lingyan"
+      ]
+    },
+    {
+      "text": "将军下笔开生面。",
+      "pinyin": [
+        "jiāng",
+        "jūn",
+        "xià",
+        "bǐ",
+        "kāi",
+        "shēng",
+        "miàn"
+      ],
+      "translation": "将军下笔重画，让功臣像别开生面。",
+      "noteIds": []
+    },
+    {
+      "text": "良相头上进贤冠，",
+      "pinyin": [
+        "liáng",
+        "xiàng",
+        "tóu",
+        "shàng",
+        "jìn",
+        "xián",
+        "guān"
+      ],
+      "translation": "良相头上戴着进贤冠，",
+      "noteIds": [
+        "n-jinxian"
+      ]
+    },
+    {
+      "text": "猛将腰间大羽箭。",
+      "pinyin": [
+        "měng",
+        "jiàng",
+        "yāo",
+        "jiān",
+        "dà",
+        "yǔ",
+        "jiàn"
+      ],
+      "translation": "猛将腰间插着大羽箭。",
+      "noteIds": []
+    },
+    {
+      "text": "褒公鄂公毛发动，",
+      "pinyin": [
+        "bāo",
+        "gōng",
+        "è",
+        "gōng",
+        "máo",
+        "fà",
+        "dòng"
+      ],
+      "translation": "褒国公、鄂国公的毛发仿佛都在飘动，",
+      "noteIds": [
+        "n-baoe"
+      ]
+    },
+    {
+      "text": "英姿飒爽来酣战。",
+      "pinyin": [
+        "yīng",
+        "zī",
+        "sà",
+        "shuǎng",
+        "lái",
+        "hān",
+        "zhàn"
+      ],
+      "translation": "英姿飒爽，好像正要投入酣战。",
+      "noteIds": []
+    },
+    {
+      "text": "先帝天马玉花骢，",
+      "pinyin": [
+        "xiān",
+        "dì",
+        "tiān",
+        "mǎ",
+        "yù",
+        "huā",
+        "cōng"
+      ],
+      "translation": "先帝有天马玉花骢，",
+      "noteIds": [
+        "n-yuhuacong"
+      ]
+    },
+    {
+      "text": "画工如山貌不同。",
+      "pinyin": [
+        "huà",
+        "gōng",
+        "rú",
+        "shān",
+        "mào",
+        "bù",
+        "tóng"
+      ],
+      "translation": "画工众多如山，画的却都不像。",
+      "noteIds": []
+    },
+    {
+      "text": "是日牵来赤墀下，",
+      "pinyin": [
+        "shì",
+        "rì",
+        "qiān",
+        "lái",
+        "chì",
+        "chí",
+        "xià"
+      ],
+      "translation": "这一天马被牵到宫殿的红台阶下，",
+      "noteIds": [
+        "n-chichi"
+      ]
+    },
+    {
+      "text": "迥立阊阖生长风。",
+      "pinyin": [
+        "jiǒng",
+        "lì",
+        "chāng",
+        "hé",
+        "shēng",
+        "cháng",
+        "fēng"
+      ],
+      "translation": "昂然立在宫门前，仿佛生出一阵长风。",
+      "noteIds": [
+        "n-changhe"
+      ]
+    },
+    {
+      "text": "诏谓将军拂绢素，",
+      "pinyin": [
+        "zhào",
+        "wèi",
+        "jiāng",
+        "jūn",
+        "fú",
+        "juàn",
+        "sù"
+      ],
+      "translation": "皇帝下诏让将军展开画绢，",
+      "noteIds": []
+    },
+    {
+      "text": "意匠惨淡经营中。",
+      "pinyin": [
+        "yì",
+        "jiàng",
+        "cǎn",
+        "dàn",
+        "jīng",
+        "yíng",
+        "zhōng"
+      ],
+      "translation": "他匠心经营，苦苦构思。",
+      "noteIds": [
+        "n-yijiang"
+      ]
+    },
+    {
+      "text": "斯须九重真龙出，",
+      "pinyin": [
+        "sī",
+        "xū",
+        "jiǔ",
+        "chóng",
+        "zhēn",
+        "lóng",
+        "chū"
+      ],
+      "translation": "不一会儿，深宫里出现了一匹真龙般的骏马，",
+      "noteIds": []
+    },
+    {
+      "text": "一洗万古凡马空。",
+      "pinyin": [
+        "yī",
+        "xǐ",
+        "wàn",
+        "gǔ",
+        "fán",
+        "mǎ",
+        "kōng"
+      ],
+      "translation": "一下子让万古以来的凡马都黯然失色。",
+      "noteIds": []
+    },
+    {
+      "text": "玉花却在御榻上，",
+      "pinyin": [
+        "yù",
+        "huā",
+        "què",
+        "zài",
+        "yù",
+        "tà",
+        "shàng"
+      ],
+      "translation": "画上的玉花骢立在皇帝的坐榻上，",
+      "noteIds": []
+    },
+    {
+      "text": "榻上庭前屹相向。",
+      "pinyin": [
+        "tà",
+        "shàng",
+        "tíng",
+        "qián",
+        "yì",
+        "xiāng",
+        "xiàng"
+      ],
+      "translation": "榻上画马与庭前真马昂然相对。",
+      "noteIds": []
+    },
+    {
+      "text": "至尊含笑催赐金，",
+      "pinyin": [
+        "zhì",
+        "zūn",
+        "hán",
+        "xiào",
+        "cuī",
+        "cì",
+        "jīn"
+      ],
+      "translation": "皇帝含笑催促赏赐金钱，",
+      "noteIds": []
+    },
+    {
+      "text": "圉人太仆皆惆怅。",
+      "pinyin": [
+        "yǔ",
+        "rén",
+        "tài",
+        "pú",
+        "jiē",
+        "chóu",
+        "chàng"
+      ],
+      "translation": "马倌和马官都惆怅：画马比真马还要神骏。",
+      "noteIds": [
+        "n-yuren"
+      ]
+    },
+    {
+      "text": "弟子韩干早入室，",
+      "pinyin": [
+        "dì",
+        "zǐ",
+        "hán",
+        "gān",
+        "zǎo",
+        "rù",
+        "shì"
+      ],
+      "translation": "弟子韩干早已学得他的真传，",
+      "noteIds": []
+    },
+    {
+      "text": "亦能画马穷殊相。",
+      "pinyin": [
+        "yì",
+        "néng",
+        "huà",
+        "mǎ",
+        "qióng",
+        "shū",
+        "xiàng"
+      ],
+      "translation": "也能画尽马的种种姿态。",
+      "noteIds": []
+    },
+    {
+      "text": "干惟画肉不画骨，",
+      "pinyin": [
+        "gān",
+        "wéi",
+        "huà",
+        "ròu",
+        "bù",
+        "huà",
+        "gǔ"
+      ],
+      "translation": "可韩干只画出马的肥肉，画不出马的筋骨，",
+      "noteIds": []
+    },
+    {
+      "text": "忍使骅骝气凋丧。",
+      "pinyin": [
+        "rěn",
+        "shǐ",
+        "huá",
+        "liú",
+        "qì",
+        "diāo",
+        "sàng"
+      ],
+      "translation": "忍心让名马的气概荡然无存。",
+      "noteIds": [
+        "n-hualiu"
+      ]
+    },
+    {
+      "text": "将军善画盖有神，",
+      "pinyin": [
+        "jiāng",
+        "jūn",
+        "shàn",
+        "huà",
+        "gài",
+        "yǒu",
+        "shén"
+      ],
+      "translation": "将军擅长绘画，笔下自有神韵，",
+      "noteIds": []
+    },
+    {
+      "text": "必逢佳士亦写真。",
+      "pinyin": [
+        "bì",
+        "féng",
+        "jiā",
+        "shì",
+        "yì",
+        "xiě",
+        "zhēn"
+      ],
+      "translation": "遇到品德好的人才肯画像写真。",
+      "noteIds": []
+    },
+    {
+      "text": "即今漂泊干戈际，",
+      "pinyin": [
+        "jí",
+        "jīn",
+        "piāo",
+        "bó",
+        "gān",
+        "gē",
+        "jì"
+      ],
+      "translation": "如今在战乱中漂泊流离，",
+      "noteIds": []
+    },
+    {
+      "text": "屡貌寻常行路人。",
+      "pinyin": [
+        "lǚ",
+        "mào",
+        "xún",
+        "cháng",
+        "xíng",
+        "lù",
+        "rén"
+      ],
+      "translation": "只好一次次为普通的过路人画像谋生。",
+      "noteIds": []
+    },
+    {
+      "text": "途穷反遭俗眼白，",
+      "pinyin": [
+        "tú",
+        "qióng",
+        "fǎn",
+        "zāo",
+        "sú",
+        "yǎn",
+        "bái"
+      ],
+      "translation": "穷困潦倒，反而遭俗人白眼相待，",
+      "noteIds": []
+    },
+    {
+      "text": "世上未有如公贫。",
+      "pinyin": [
+        "shì",
+        "shàng",
+        "wèi",
+        "yǒu",
+        "rú",
+        "gōng",
+        "pín"
+      ],
+      "translation": "世上还没有像您这样穷困的大画家。",
+      "noteIds": []
+    },
+    {
+      "text": "但看古来盛名下，",
+      "pinyin": [
+        "dàn",
+        "kàn",
+        "gǔ",
+        "lái",
+        "shèng",
+        "míng",
+        "xià"
+      ],
+      "translation": "看看自古以来背负盛名的人，",
+      "noteIds": []
+    },
+    {
+      "text": "终日坎壈缠其身。",
+      "pinyin": [
+        "zhōng",
+        "rì",
+        "kǎn",
+        "lǎn",
+        "chán",
+        "qí",
+        "shēn"
+      ],
+      "translation": "终日被困顿失意缠绕着一生。",
+      "noteIds": [
+        "n-kanlan"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-weiwu",
+      "word": "魏武",
+      "pinyin": "wèi wǔ",
+      "meaning": "魏武帝曹操，曹霸是他的后人。"
+    },
+    {
+      "id": "n-weifuren",
+      "word": "卫夫人",
+      "pinyin": "wèi fū rén",
+      "meaning": "东晋女书法家，曾教王羲之写字。"
+    },
+    {
+      "id": "n-lingyan",
+      "word": "凌烟",
+      "pinyin": "líng yān",
+      "meaning": "凌烟阁，唐太宗为开国功臣画像的地方。"
+    },
+    {
+      "id": "n-jinxian",
+      "word": "进贤冠",
+      "pinyin": "jìn xián guān",
+      "meaning": "古代文官戴的礼帽。"
+    },
+    {
+      "id": "n-baoe",
+      "word": "褒公鄂公",
+      "pinyin": "bāo gōng è gōng",
+      "meaning": "褒国公段志玄和鄂国公尉迟敬德，都是凌烟阁功臣。"
+    },
+    {
+      "id": "n-yuhuacong",
+      "word": "玉花骢",
+      "pinyin": "yù huā cōng",
+      "meaning": "唐玄宗的名马。"
+    },
+    {
+      "id": "n-chichi",
+      "word": "赤墀",
+      "pinyin": "chì chí",
+      "meaning": "宫殿中朱红色的台阶。"
+    },
+    {
+      "id": "n-changhe",
+      "word": "阊阖",
+      "pinyin": "chāng hé",
+      "meaning": "神话中的天门，这里指宫门。"
+    },
+    {
+      "id": "n-yijiang",
+      "word": "意匠",
+      "pinyin": "yì jiàng",
+      "meaning": "指绘画作文的构思布局。"
+    },
+    {
+      "id": "n-yuren",
+      "word": "圉人",
+      "pinyin": "yǔ rén",
+      "meaning": "掌管养马的官吏。"
+    },
+    {
+      "id": "n-hualiu",
+      "word": "骅骝",
+      "pinyin": "huá liú",
+      "meaning": "周穆王八骏之一，泛指骏马。"
+    },
+    {
+      "id": "n-kanlan",
+      "word": "坎壈",
+      "pinyin": "kǎn lǎn",
+      "meaning": "不顺利，困顿不得志。"
+    }
+  ],
+  "translation": "曹将军是魏武帝曹操的后代，如今却沦为平民，成了清寒的门第。英雄割据的霸业虽然早已过去，但文采风流到今天仍然保存。他学书法起初学卫夫人，只遗憾没能超过王羲之。他专心绘画，连衰老来临都不觉得，把富贵看作天上的浮云。开元年间他常被皇帝引见，多次蒙恩登上南熏殿作画。凌烟阁上功臣的画像褪了颜色，将军下笔重画，别开生面：良相头上戴着进贤冠，猛将腰间插着大羽箭，褒国公、鄂国公的毛发仿佛都在飘动，英姿飒爽，好像正要投入酣战。先帝有天马玉花骢，画工众多如山，画的却都不像。这一天马被牵到红台阶下，昂然立在宫门前，仿佛生出一阵长风。皇帝下诏让将军展开画绢，他匠心经营，苦苦构思。不一会儿，深宫里出现一匹真龙般的骏马，让万古以来的凡马都黯然失色。画上的玉花骢立在御榻上，与庭前的真马昂然相对。皇帝含笑催促赏赐金钱，马倌和马官都惆怅不已。弟子韩干早已学得真传，也能画尽马的种种姿态，可他只画出马的肥肉，画不出马的筋骨，忍心让名马的气概荡然无存。将军善画，笔下有神，遇到品德好的人才肯写真。如今在战乱中漂泊，只好一次次为寻常路人画像谋生。穷困潦倒反遭俗人白眼，世上还没有像您这样穷困的大画家。看看古来背负盛名的人，终日被困顿失意缠绕一生。",
+  "appreciation": "这是给一位画家写的传记。曹霸出身帝王之后，画人画出飒爽英姿，画马画出“一洗万古凡马空”，何等风光；可诗人偏偏记得他是曹操的子孙，又亲眼看他流落街头为人画像。风光与落魄对照着写，一位技艺超群却不逢时的老人便立在纸上。结尾“盛名之下，坎壈缠身”，是安慰，更是为天下才士叫屈。",
+  "background": "公元764年，杜甫在成都与曹霸重逢。曹霸曾是开元、天宝年间最受尊崇的画家，安史之乱后流落民间。杜甫感念他当年的荣耀与如今的落魄，作这首《丹青引》相赠，为一代画师立传。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "将门清门",
+      "text": "曹霸是曹操后人，如今沦为清寒平民。"
+    },
+    {
+      "step": 2,
+      "title": "重开生面",
+      "text": "他重画凌烟阁功臣像，笔下英姿飒爽。"
+    },
+    {
+      "step": 3,
+      "title": "真龙出世",
+      "text": "玉花骢牵到宫前，他画出的真龙一洗凡马空。"
+    },
+    {
+      "step": 4,
+      "title": "漂泊写真",
+      "text": "战乱中他流落民间，为路人画像，终日坎壈。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "骢",
+      "reading": "cōng",
+      "reason": "“玉花骢”是名马的名字，读 cōng。"
+    },
+    {
+      "char": "墀",
+      "reading": "chí",
+      "reason": "“赤墀”指宫殿的红色台阶，读 chí。"
+    },
+    {
+      "char": "壈",
+      "reading": "lǎn",
+      "reason": "“坎壈”指困顿不得志，读 lǎn。"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1218
+}

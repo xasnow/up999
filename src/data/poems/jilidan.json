@@ -1,0 +1,145 @@
+{
+  "id": "tang-zhongtang-weiyingwu-jilidan",
+  "slug": "jilidan",
+  "title": "寄李儋元锡",
+  "titlePinyin": "jì lǐ dān yuán xī",
+  "dynasty": "tangshi",
+  "era": "zhongtang",
+  "genre": "shi",
+  "form": "七言律诗",
+  "authorId": "weiyingwu",
+  "gradeBand": "ext",
+  "tags": ["友情", "七言律诗", "春天", "月亮"],
+  "difficulty": 3,
+  "writtenYear": 784,
+  "writtenLabel": "公元 784 年春（韦应物 47 岁，任滁州刺史，写诗回复好友李儋、元锡）",
+  "orderInAuthor": 1,
+  "no": 1151,
+  "famousLines": [
+    "身多疾病思田里，邑有流亡愧俸钱。"
+  ],
+  "lines": [
+    {
+      "text": "去年花里逢君别，",
+      "pinyin": ["qù", "nián", "huā", "lǐ", "féng", "jūn", "bié"],
+      "translation": "去年花开的时候和你分别，",
+      "noteIds": []
+    },
+    {
+      "text": "今日花开又一年。",
+      "pinyin": ["jīn", "rì", "huā", "kāi", "yòu", "yī", "nián"],
+      "translation": "今天花又开了，不知不觉已过了一年。",
+      "noteIds": []
+    },
+    {
+      "text": "世事茫茫难自料，",
+      "pinyin": ["shì", "shì", "máng", "máng", "nán", "zì", "liào"],
+      "translation": "世事茫茫，自己将来的处境难以预料，",
+      "noteIds": []
+    },
+    {
+      "text": "春愁黯黯独成眠。",
+      "pinyin": ["chūn", "chóu", "àn", "àn", "dú", "chéng", "mián"],
+      "translation": "春愁暗淡，夜里独自难以入睡。",
+      "noteIds": ["n-danan"]
+    },
+    {
+      "text": "身多疾病思田里，",
+      "pinyin": ["shēn", "duō", "jí", "bìng", "sī", "tián", "lǐ"],
+      "translation": "身上疾病很多，想去田园家乡休养，",
+      "noteIds": ["n-tianli"]
+    },
+    {
+      "text": "邑有流亡愧俸钱。",
+      "pinyin": ["yì", "yǒu", "liú", "wáng", "kuì", "fèng", "qián"],
+      "translation": "可城里还有流离失所的百姓，实在愧对这份俸钱。",
+      "noteIds": ["n-liuwang", "n-fengqian"]
+    },
+    {
+      "text": "闻道欲来相问讯，",
+      "pinyin": ["wén", "dào", "yù", "lái", "xiāng", "wèn", "xùn"],
+      "translation": "听说你们想来这里探望我，",
+      "noteIds": ["n-wenxun"]
+    },
+    {
+      "text": "西楼望月几回圆。",
+      "pinyin": ["xī", "lóu", "wàng", "yuè", "jǐ", "huí", "yuán"],
+      "translation": "我在西楼上望月，月亮已经圆过几回了。",
+      "noteIds": []
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-danan",
+      "word": "黯黯",
+      "pinyin": "àn àn",
+      "meaning": "心情暗淡、忧愁低落的样子。"
+    },
+    {
+      "id": "n-tianli",
+      "word": "田里",
+      "pinyin": "tián lǐ",
+      "meaning": "田园家乡，指想辞官回乡。"
+    },
+    {
+      "id": "n-liuwang",
+      "word": "流亡",
+      "pinyin": "liú wáng",
+      "meaning": "指流离失所、逃难的百姓。"
+    },
+    {
+      "id": "n-fengqian",
+      "word": "俸钱",
+      "pinyin": "fèng qián",
+      "meaning": "官员领的薪水。"
+    },
+    {
+      "id": "n-wenxun",
+      "word": "问讯",
+      "pinyin": "wèn xùn",
+      "meaning": "探望、问候。"
+    }
+  ],
+  "translation": "去年花开的时候和你分别，今天花又开了，不知不觉已过了一年。世事茫茫，自己将来的处境难以预料；春愁暗淡，夜里独自难以入睡。身上疾病很多，想去田园家乡休养，可城里还有流离失所的百姓，实在愧对这份俸钱。听说你们想来这里探望我，我在西楼上望月，月亮已经圆过几回了。",
+  "appreciation": "诗从花开花落写起，不知不觉一年又过去了。最打动人的是“邑有流亡愧俸钱”一句：自己吃着俸禄，百姓却流离失所，诗人感到深深的惭愧。这种自责出于真心爱民，被后人反复称道。结尾在西楼望着月亮，盼朋友快来相见，忧愁里满是真诚的情谊。",
+  "background": "兴元元年（784）春，韦应物在滁州刺史任上。好友李儋、元锡从长安捎话说想来看他。当时他身多疾病，州里又有百姓流离失所，心里忧愧不安，于是写下这首诗答复两位朋友。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "花开忆别",
+      "text": "又是花开的季节，想起去年花下与你分别，转眼一年。"
+    },
+    {
+      "step": 2,
+      "title": "春愁难眠",
+      "text": "世事茫茫难以预料，春愁暗淡，夜里独自难以入睡。"
+    },
+    {
+      "step": 3,
+      "title": "愧对俸钱",
+      "text": "自己多病想回乡，可百姓还在流亡，实在愧对俸钱。"
+    },
+    {
+      "step": 4,
+      "title": "望月盼友",
+      "text": "听说你要来探望，我在西楼望月，月亮已圆过几回了。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "儋",
+      "reading": "dān",
+      "reason": "人名用字，“李儋”的“儋”读 dān。",
+      "standard": "不要读成 dàn"
+    },
+    {
+      "char": "俸",
+      "reading": "fèng",
+      "reason": "“俸钱”是官员的薪水，“俸”读 fèng。",
+      "standard": "不要读成 féng"
+    }
+  ],
+  "sources": ["《全唐诗》", "《唐诗三百首》"],
+  "status": "published",
+  "updatedAt": "2026-11-26"
+}

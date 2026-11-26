@@ -1,0 +1,697 @@
+{
+  "id": "tang-shengtang-wangwei-laojiangxing",
+  "slug": "laojiangxing",
+  "title": "老将行",
+  "titlePinyin": "lǎo jiàng xíng",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "七言乐府",
+  "authorId": "wangwei",
+  "gradeBand": "ext",
+  "tags": [
+    "边塞",
+    "七言乐府",
+    "宝剑",
+    "白首"
+  ],
+  "difficulty": 3,
+  "writtenYear": 737,
+  "writtenLabel": "约公元 737 年（王维 36 岁，借老将军遭遇讽刺朝廷刻薄功臣）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "莫嫌旧日云中守，犹堪一战取功勋。"
+  ],
+  "lines": [
+    {
+      "text": "少年十五二十时，",
+      "pinyin": [
+        "shào",
+        "nián",
+        "shí",
+        "wǔ",
+        "èr",
+        "shí",
+        "shí"
+      ],
+      "translation": "这位老将军少年十五二十岁的时候，",
+      "noteIds": []
+    },
+    {
+      "text": "步行夺得胡马骑。",
+      "pinyin": [
+        "bù",
+        "xíng",
+        "duó",
+        "dé",
+        "hú",
+        "mǎ",
+        "qí"
+      ],
+      "translation": "徒步上阵也能夺得胡人的战马来骑。",
+      "noteIds": []
+    },
+    {
+      "text": "射杀山中白额虎，",
+      "pinyin": [
+        "shè",
+        "shā",
+        "shān",
+        "zhōng",
+        "bái",
+        "é",
+        "hǔ"
+      ],
+      "translation": "他射死过山中的白额猛虎，",
+      "noteIds": []
+    },
+    {
+      "text": "肯数邺下黄须儿。",
+      "pinyin": [
+        "kěn",
+        "shǔ",
+        "yè",
+        "xià",
+        "huáng",
+        "xū",
+        "ér"
+      ],
+      "translation": "哪里还会数着邺下的黄须儿称英雄。",
+      "noteIds": [
+        "n-huangxuer"
+      ]
+    },
+    {
+      "text": "一身转战三千里，",
+      "pinyin": [
+        "yī",
+        "shēn",
+        "zhuǎn",
+        "zhàn",
+        "sān",
+        "qiān",
+        "lǐ"
+      ],
+      "translation": "他一个人转战三千里疆场，",
+      "noteIds": []
+    },
+    {
+      "text": "一剑曾当百万师。",
+      "pinyin": [
+        "yī",
+        "jiàn",
+        "céng",
+        "dāng",
+        "bǎi",
+        "wàn",
+        "shī"
+      ],
+      "translation": "一把剑曾抵挡过百万大军。",
+      "noteIds": []
+    },
+    {
+      "text": "汉兵奋迅如霹雳，",
+      "pinyin": [
+        "hàn",
+        "bīng",
+        "fèn",
+        "xùn",
+        "rú",
+        "pī",
+        "lì"
+      ],
+      "translation": "汉军迅猛得像霹雳一样，",
+      "noteIds": [
+        "n-pili"
+      ]
+    },
+    {
+      "text": "虏骑崩腾畏蒺藜。",
+      "pinyin": [
+        "lǔ",
+        "qì",
+        "bēng",
+        "téng",
+        "wèi",
+        "jí",
+        "lí"
+      ],
+      "translation": "敌人的骑兵溃逃奔散，害怕铁蒺藜。",
+      "noteIds": [
+        "n-luqi",
+        "n-jili"
+      ]
+    },
+    {
+      "text": "卫青不败由天幸，",
+      "pinyin": [
+        "wèi",
+        "qīng",
+        "bù",
+        "bài",
+        "yóu",
+        "tiān",
+        "xìng"
+      ],
+      "translation": "卫青总打胜仗，靠的是天大的运气，",
+      "noteIds": [
+        "n-weiqing"
+      ]
+    },
+    {
+      "text": "李广无功缘数奇。",
+      "pinyin": [
+        "lǐ",
+        "guǎng",
+        "wú",
+        "gōng",
+        "yuán",
+        "shù",
+        "jī"
+      ],
+      "translation": "李广立不了功，是因为命运不好。",
+      "noteIds": [
+        "n-liguang",
+        "n-shuqi"
+      ]
+    },
+    {
+      "text": "自从弃置便衰朽，",
+      "pinyin": [
+        "zì",
+        "cóng",
+        "qì",
+        "zhì",
+        "biàn",
+        "shuāi",
+        "xiǔ"
+      ],
+      "translation": "自从被朝廷弃置不用，他就衰老了，",
+      "noteIds": [
+        "n-qizhi"
+      ]
+    },
+    {
+      "text": "世事蹉跎成白首。",
+      "pinyin": [
+        "shì",
+        "shì",
+        "cuō",
+        "tuó",
+        "chéng",
+        "bái",
+        "shǒu"
+      ],
+      "translation": "岁月蹉跎，头发全都白了。",
+      "noteIds": [
+        "n-cuotuo"
+      ]
+    },
+    {
+      "text": "昔时飞箭无全目，",
+      "pinyin": [
+        "xī",
+        "shí",
+        "fēi",
+        "jiàn",
+        "wú",
+        "quán",
+        "mù"
+      ],
+      "translation": "从前箭法高明，射出去的箭没有一只眼睛能保全，",
+      "noteIds": [
+        "n-quanmu"
+      ]
+    },
+    {
+      "text": "今日垂杨生左肘。",
+      "pinyin": [
+        "jīn",
+        "rì",
+        "chuí",
+        "yáng",
+        "shēng",
+        "zuǒ",
+        "zhǒu"
+      ],
+      "translation": "如今却衰老多病，肘上像生了瘤子。",
+      "noteIds": [
+        "n-zuozhou"
+      ]
+    },
+    {
+      "text": "路旁时卖故侯瓜，",
+      "pinyin": [
+        "lù",
+        "páng",
+        "shí",
+        "mài",
+        "gù",
+        "hóu",
+        "guā"
+      ],
+      "translation": "他路旁有时卖着故侯的甜瓜，",
+      "noteIds": [
+        "n-guhougua"
+      ]
+    },
+    {
+      "text": "门前学种先生柳。",
+      "pinyin": [
+        "mén",
+        "qián",
+        "xué",
+        "zhòng",
+        "xiān",
+        "shēng",
+        "liǔ"
+      ],
+      "translation": "门前学着五柳先生种起柳树。",
+      "noteIds": [
+        "n-xianshengliu"
+      ]
+    },
+    {
+      "text": "苍茫古木连穷巷，",
+      "pinyin": [
+        "cāng",
+        "máng",
+        "gǔ",
+        "mù",
+        "lián",
+        "qióng",
+        "xiàng"
+      ],
+      "translation": "苍茫的古树连着冷落的深巷，",
+      "noteIds": [
+        "n-qiongxiang"
+      ]
+    },
+    {
+      "text": "寥落寒山对虚牖。",
+      "pinyin": [
+        "liáo",
+        "luò",
+        "hán",
+        "shān",
+        "duì",
+        "xū",
+        "yǒu"
+      ],
+      "translation": "寂寥的寒山正对着空空的窗户。",
+      "noteIds": [
+        "n-you"
+      ]
+    },
+    {
+      "text": "誓令疏勒出飞泉，",
+      "pinyin": [
+        "shì",
+        "lìng",
+        "shū",
+        "lè",
+        "chū",
+        "fēi",
+        "quán"
+      ],
+      "translation": "他发誓要像耿恭那样让疏勒城涌出飞泉，",
+      "noteIds": [
+        "n-shule"
+      ]
+    },
+    {
+      "text": "不似颍川空使酒。",
+      "pinyin": [
+        "bù",
+        "sì",
+        "yǐng",
+        "chuān",
+        "kōng",
+        "shǐ",
+        "jiǔ"
+      ],
+      "translation": "不像颍川的灌夫，只会借酒撒气。",
+      "noteIds": [
+        "n-yingchuan"
+      ]
+    },
+    {
+      "text": "贺兰山下阵如云，",
+      "pinyin": [
+        "hè",
+        "lán",
+        "shān",
+        "xià",
+        "zhèn",
+        "rú",
+        "yún"
+      ],
+      "translation": "如今贺兰山下军阵如云，",
+      "noteIds": []
+    },
+    {
+      "text": "羽檄交驰日夕闻。",
+      "pinyin": [
+        "yǔ",
+        "xí",
+        "jiāo",
+        "chí",
+        "rì",
+        "xī",
+        "wén"
+      ],
+      "translation": "紧急的军书日夜奔驰，不断传来。",
+      "noteIds": [
+        "n-yuxi"
+      ]
+    },
+    {
+      "text": "节使三河募年少，",
+      "pinyin": [
+        "jié",
+        "shǐ",
+        "sān",
+        "hé",
+        "mù",
+        "nián",
+        "shào"
+      ],
+      "translation": "持节的使者在三河一带招募年轻人，",
+      "noteIds": [
+        "n-jieshi",
+        "n-sanhe"
+      ]
+    },
+    {
+      "text": "诏书五道出将军。",
+      "pinyin": [
+        "zhào",
+        "shū",
+        "wǔ",
+        "dào",
+        "chū",
+        "jiāng",
+        "jūn"
+      ],
+      "translation": "皇帝下诏书，从五条路线派出将军。",
+      "noteIds": []
+    },
+    {
+      "text": "试拂铁衣如雪色，",
+      "pinyin": [
+        "shì",
+        "fú",
+        "tiě",
+        "yī",
+        "rú",
+        "xuě",
+        "sè"
+      ],
+      "translation": "老将军擦亮铁甲，白亮得像雪一样，",
+      "noteIds": []
+    },
+    {
+      "text": "聊持宝剑动星文。",
+      "pinyin": [
+        "liáo",
+        "chí",
+        "bǎo",
+        "jiàn",
+        "dòng",
+        "xīng",
+        "wén"
+      ],
+      "translation": "又拿起宝剑，剑上七星花纹闪闪发亮。",
+      "noteIds": [
+        "n-xingwen"
+      ]
+    },
+    {
+      "text": "愿得燕弓射天骄，",
+      "pinyin": [
+        "yuàn",
+        "dé",
+        "yān",
+        "gōng",
+        "shè",
+        "tiān",
+        "jiāo"
+      ],
+      "translation": "他愿得到燕地的强弓，去射敌人的首领，",
+      "noteIds": [
+        "n-yangong",
+        "n-tianjiao"
+      ]
+    },
+    {
+      "text": "耻令越甲鸣吾君。",
+      "pinyin": [
+        "chǐ",
+        "lìng",
+        "yuè",
+        "jiǎ",
+        "míng",
+        "wú",
+        "jūn"
+      ],
+      "translation": "绝不能让敌兵惊扰自己的君主，那是耻辱。",
+      "noteIds": [
+        "n-yuejia"
+      ]
+    },
+    {
+      "text": "莫嫌旧日云中守，",
+      "pinyin": [
+        "mò",
+        "xián",
+        "jiù",
+        "rì",
+        "yún",
+        "zhōng",
+        "shǒu"
+      ],
+      "translation": "不要嫌弃昔日的云中太守，",
+      "noteIds": [
+        "n-yunzhongshou"
+      ]
+    },
+    {
+      "text": "犹堪一战取功勋。",
+      "pinyin": [
+        "yóu",
+        "kān",
+        "yī",
+        "zhàn",
+        "qǔ",
+        "gōng",
+        "xūn"
+      ],
+      "translation": "他还能上战场，再立一场大功呢。",
+      "noteIds": []
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-huangxuer",
+      "word": "黄须儿",
+      "pinyin": "huáng xū ér",
+      "meaning": "曹操的次子曹彰，黄色胡须，勇猛善战，立功邺下。"
+    },
+    {
+      "id": "n-pili",
+      "word": "霹雳",
+      "pinyin": "pī lì",
+      "meaning": "响声极大的炸雷。"
+    },
+    {
+      "id": "n-luqi",
+      "word": "虏骑",
+      "pinyin": "lǔ jì",
+      "meaning": "敌人的骑兵。骑作名词指骑兵时读 jì。"
+    },
+    {
+      "id": "n-jili",
+      "word": "蒺藜",
+      "pinyin": "jí lí",
+      "meaning": "这里指撒在地上阻挡骑兵的铁刺，叫铁蒺藜。"
+    },
+    {
+      "id": "n-weiqing",
+      "word": "卫青",
+      "pinyin": "wèi qīng",
+      "meaning": "汉代名将，七次出击匈奴，屡建大功。"
+    },
+    {
+      "id": "n-liguang",
+      "word": "李广",
+      "pinyin": "lǐ guǎng",
+      "meaning": "汉代名将，作战英勇，却始终没有封侯。"
+    },
+    {
+      "id": "n-shuqi",
+      "word": "数奇",
+      "pinyin": "shù jī",
+      "meaning": "命运不好。古人以偶数为吉、单数为凶，奇读 jī。"
+    },
+    {
+      "id": "n-qizhi",
+      "word": "弃置",
+      "pinyin": "qì zhì",
+      "meaning": "被抛弃、闲置不用。"
+    },
+    {
+      "id": "n-cuotuo",
+      "word": "蹉跎",
+      "pinyin": "cuō tuó",
+      "meaning": "光阴白白地过去，虚度岁月。"
+    },
+    {
+      "id": "n-quanmu",
+      "word": "无全目",
+      "pinyin": "wú quán mù",
+      "meaning": "形容箭法极准，被射的目标没有一只眼睛能保全。"
+    },
+    {
+      "id": "n-zuozhou",
+      "word": "垂杨生左肘",
+      "pinyin": "chuí yáng shēng zuǒ zhǒu",
+      "meaning": "典出《庄子》：柳通瘤，指肘上生了瘤子，形容衰老多病。"
+    },
+    {
+      "id": "n-guhougua",
+      "word": "故侯瓜",
+      "pinyin": "gù hóu guā",
+      "meaning": "秦朝的东陵侯召平，亡国后在长安种瓜为生，瓜很甜美。"
+    },
+    {
+      "id": "n-xianshengliu",
+      "word": "先生柳",
+      "pinyin": "xiān shēng liǔ",
+      "meaning": "陶渊明自号五柳先生，在门前种柳树。"
+    },
+    {
+      "id": "n-qiongxiang",
+      "word": "穷巷",
+      "pinyin": "qióng xiàng",
+      "meaning": "偏僻冷落的深巷。"
+    },
+    {
+      "id": "n-you",
+      "word": "牖",
+      "pinyin": "yǒu",
+      "meaning": "窗户。"
+    },
+    {
+      "id": "n-shule",
+      "word": "疏勒出飞泉",
+      "pinyin": "shū lè chū fēi quán",
+      "meaning": "东汉耿恭守疏勒城，敌人断了水源，他掘井祈祷，井里涌出泉水。"
+    },
+    {
+      "id": "n-yingchuan",
+      "word": "颍川空使酒",
+      "pinyin": "yǐng chuān kōng shǐ jiǔ",
+      "meaning": "汉代将军灌夫是颍川人，失意后好借酒发脾气骂人。"
+    },
+    {
+      "id": "n-yuxi",
+      "word": "羽檄",
+      "pinyin": "yǔ xí",
+      "meaning": "插着羽毛的紧急军事文书。"
+    },
+    {
+      "id": "n-jieshi",
+      "word": "节使",
+      "pinyin": "jié shǐ",
+      "meaning": "持有符节、奉命办事的使者。"
+    },
+    {
+      "id": "n-sanhe",
+      "word": "三河",
+      "pinyin": "sān hé",
+      "meaning": "河东、河内、河南三郡，泛指中原地区。"
+    },
+    {
+      "id": "n-xingwen",
+      "word": "星文",
+      "pinyin": "xīng wén",
+      "meaning": "宝剑上镶嵌的七星花纹。"
+    },
+    {
+      "id": "n-yangong",
+      "word": "燕弓",
+      "pinyin": "yān gōng",
+      "meaning": "燕地出产的强弓。燕作地名时读 yān。"
+    },
+    {
+      "id": "n-tianjiao",
+      "word": "天骄",
+      "pinyin": "tiān jiāo",
+      "meaning": "原指匈奴，古人称他们为天之骄子，这里指敌方首领。"
+    },
+    {
+      "id": "n-yuejia",
+      "word": "越甲鸣吾君",
+      "pinyin": "yuè jiǎ míng wú jūn",
+      "meaning": "齐人雍门子狄认为敌兵惊扰国君是自己失职，自刎谢罪。这里指不能让敌兵惊动君王。"
+    },
+    {
+      "id": "n-yunzhongshou",
+      "word": "云中守",
+      "pinyin": "yún zhōng shǒu",
+      "meaning": "汉文帝时的魏尚，任云中太守抵御匈奴有功，一度被罚，后经冯唐进言恢复官职。"
+    }
+  ],
+  "translation": "这位老将军少年十五二十岁的时候，徒步上阵也能夺得胡人的战马来骑。他射死过山中的白额猛虎，哪里还会数着邺下的黄须儿称英雄。他一个人转战三千里疆场，一把剑曾抵挡过百万大军。汉军迅猛得像霹雳一样，敌人的骑兵溃逃奔散，害怕铁蒺藜。卫青总打胜仗，靠的是天大的运气，李广立不了功，是因为命运不好。自从被朝廷弃置不用，他就衰老了，岁月蹉跎，头发全都白了。从前箭法高明，射出去的箭没有一只眼睛能保全，如今却衰老多病，肘上像生了瘤子。他路旁有时卖着故侯的甜瓜，门前学着五柳先生种起柳树。苍茫的古树连着冷落的深巷，寂寥的寒山正对着空空的窗户。他发誓要像耿恭那样让疏勒城涌出飞泉，不像颍川的灌夫，只会借酒撒气。如今贺兰山下军阵如云，紧急的军书日夜奔驰，不断传来。持节的使者在三河一带招募年轻人，皇帝下诏书，从五条路线派出将军。老将军擦亮铁甲，白亮得像雪一样，又拿起宝剑，剑上七星花纹闪闪发亮。他愿得到燕地的强弓，去射敌人的首领，绝不能让敌兵惊扰自己的君主，那是耻辱。不要嫌弃昔日的云中太守，他还能上战场，再立一场大功呢。",
+  "appreciation": "全诗分三段：先写老将军少年英武，夺马、射虎、转战千里；再写他被弃置后的落魄，头发白了，只好卖瓜种柳，住在冷巷寒山之中；最后边关告急，他擦亮铁甲、拿起宝剑，愿再上战场立功。诗写得慷慨悲壮，既替老将军鸣不平，也讽刺了朝廷赏罚不公、刻薄功臣，结尾更是雄心不减、掷地有声。",
+  "background": "这首乐府诗约作于开元后期。当时边镇战事频繁，一些屡立战功的老将领，因为朝廷偏爱新人、赏罚不公，被闲置冷落。王维借这位老将军的遭遇，写出功臣被弃的悲凉，也表达希望人尽其才、不要埋没忠勇之士的想法。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "少年虎将",
+      "text": "十五二十岁时夺马射虎，转战千里抗百万师。"
+    },
+    {
+      "step": 2,
+      "title": "弃置白首",
+      "text": "被弃用后衰老蹉跎，卖瓜种柳，住进穷巷寒山。"
+    },
+    {
+      "step": 3,
+      "title": "边关告急",
+      "text": "贺兰山下战阵如云，羽檄日夜飞驰募兵。"
+    },
+    {
+      "step": 4,
+      "title": "请缨杀敌",
+      "text": "老将擦亮铁甲，愿持燕弓一战再取功勋。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "骑",
+      "reading": "jì",
+      "reason": "“虏骑”指敌人的骑兵，“骑”作名词时旧读 jì。",
+      "standard": "不要读成 qí"
+    },
+    {
+      "char": "奇",
+      "reading": "jī",
+      "reason": "“数奇”是说命运不好，古人以单数为凶，“奇”读 jī。",
+      "standard": "不要读成 qí"
+    },
+    {
+      "char": "燕",
+      "reading": "yān",
+      "reason": "“燕弓”的燕是地名，指燕地出产的强弓，读 yān。",
+      "standard": "不要读成 yàn"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1231
+}

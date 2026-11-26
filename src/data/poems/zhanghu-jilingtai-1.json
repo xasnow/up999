@@ -1,0 +1,156 @@
+{
+  "id": "tang-zhongtang-zhanghu-zhanghu-jilingtai-1",
+  "slug": "zhanghu-jilingtai-1",
+  "title": "集灵台·其一",
+  "titlePinyin": "jí líng tái · qí yī",
+  "dynasty": "tangshi",
+  "era": "zhongtang",
+  "genre": "shi",
+  "form": "七言绝句",
+  "authorId": "zhanghu",
+  "gradeBand": "ext",
+  "tags": [
+    "讽喻",
+    "七言绝句",
+    "晓露",
+    "宫门"
+  ],
+  "difficulty": 3,
+  "writtenYear": 827,
+  "writtenLabel": "约公元 827 年（张祜 42 岁，游览骊山华清宫旧址，想起天宝旧事而作）",
+  "orderInAuthor": 3,
+  "famousLines": [
+    "昨夜上皇新授箓，太真含笑入帘来。"
+  ],
+  "lines": [
+    {
+      "text": "日光斜照集灵台，",
+      "pinyin": [
+        "rì",
+        "guāng",
+        "xié",
+        "zhào",
+        "jí",
+        "líng",
+        "tái"
+      ],
+      "translation": "早晨的阳光斜斜照在集灵台上，",
+      "noteIds": [
+        "n-jilingtai"
+      ]
+    },
+    {
+      "text": "红树花迎晓露开。",
+      "pinyin": [
+        "hóng",
+        "shù",
+        "huā",
+        "yíng",
+        "xiǎo",
+        "lù",
+        "kāi"
+      ],
+      "translation": "红色的树、盛开的花迎着晨露开放。",
+      "noteIds": []
+    },
+    {
+      "text": "昨夜上皇新授箓，",
+      "pinyin": [
+        "zuó",
+        "yè",
+        "shàng",
+        "huáng",
+        "xīn",
+        "shòu",
+        "lù"
+      ],
+      "translation": "昨天夜里，太上皇唐玄宗刚为贵妃举行了授箓仪式，",
+      "noteIds": [
+        "n-shanghuang",
+        "n-shoulu"
+      ]
+    },
+    {
+      "text": "太真含笑入帘来。",
+      "pinyin": [
+        "tài",
+        "zhēn",
+        "hán",
+        "xiào",
+        "rù",
+        "lián",
+        "lái"
+      ],
+      "translation": "太真杨玉环就满面含笑地掀帘走了进来。",
+      "noteIds": [
+        "n-taizhen"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-jilingtai",
+      "word": "集灵台",
+      "pinyin": "jí líng tái",
+      "meaning": "骊山华清宫中的道台，唐玄宗常在这里祭祀神灵、受道箓。"
+    },
+    {
+      "id": "n-shanghuang",
+      "word": "上皇",
+      "pinyin": "shàng huáng",
+      "meaning": "太上皇，指唐玄宗。"
+    },
+    {
+      "id": "n-shoulu",
+      "word": "授箓",
+      "pinyin": "shòu lù",
+      "meaning": "道教的一种仪式，授予写有教规名号的箓文，表示正式入道修行。"
+    },
+    {
+      "id": "n-taizhen",
+      "word": "太真",
+      "pinyin": "tài zhēn",
+      "meaning": "杨贵妃做女道士时的道号。"
+    }
+  ],
+  "translation": "早晨的阳光斜斜照在集灵台上，红色的树、盛开的花迎着晨露开放。昨天夜里，太上皇唐玄宗刚为贵妃举行了授箓仪式，太真杨玉环就满面含笑地掀帘走了进来。",
+  "appreciation": "这首诗表面写景，其实句句带着讽刺。晨光、红树、晓露，看起来明丽热闹，可帘子里含笑走出来的，是刚“入道”的杨贵妃。皇帝和贵妃一个装模作样地受道箓，一个笑盈盈地入宫门，把庄严的道教仪式变成了私下相会的道具。诗人不说一句重话，冷眼旁观，讽意全在画面里。",
+  "background": "唐玄宗宠爱杨玉环，为了把她接进宫，先安排她出家做女道士，取道号“太真”，又亲自为她授箓，随后册封为贵妃。张祜后来游览骊山华清宫旧址，想到这段往事，写下两首《集灵台》，这一首讽刺玄宗的做作。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "晨照灵台",
+      "text": "朝阳斜照骊山上的集灵台，晨露映着红花。"
+    },
+    {
+      "step": 2,
+      "title": "夜授道箓",
+      "text": "昨夜太上皇玄宗为杨玉环举行了入道的授箓仪式。"
+    },
+    {
+      "step": 3,
+      "title": "含笑入帘",
+      "text": "道号太真的杨玉环满面含笑，掀帘走了进来。"
+    },
+    {
+      "step": 4,
+      "title": "冷眼讽喻",
+      "text": "庄严的仪式成了好戏，诗人的讽刺藏在景中。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "箓",
+      "reading": "lù",
+      "reason": "“授箓”是道教仪式的名称，“箓”读 lù。",
+      "standard": "生僻字，注意不要读错"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1035
+}

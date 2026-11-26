@@ -1,0 +1,190 @@
+{
+  "id": "tang-wantang-dumu-qianhuai",
+  "slug": "qianhuai",
+  "title": "遣怀",
+  "titlePinyin": "qiǎn huái",
+  "dynasty": "tangshi",
+  "era": "wantang",
+  "genre": "shi",
+  "form": "七言绝句",
+  "authorId": "dumu",
+  "gradeBand": "ext",
+  "tags": [
+    "哲理",
+    "七言绝句",
+    "梦",
+    "江湖"
+  ],
+  "difficulty": 3,
+  "writtenYear": 835,
+  "writtenLabel": "约公元 835 年（杜牧 33 岁，离开扬州后追忆这段生活）",
+  "orderInAuthor": 5,
+  "no": 1026,
+  "famousLines": [
+    "十年一觉扬州梦，赢得青楼薄幸名。"
+  ],
+  "lines": [
+    {
+      "text": "落魄江湖载酒行，",
+      "pinyin": [
+        "luò",
+        "pò",
+        "jiāng",
+        "hú",
+        "zài",
+        "jiǔ",
+        "xíng"
+      ],
+      "translation": "失意落魄，带着酒在江湖上漂泊，",
+      "noteIds": [
+        "n-luopo",
+        "n-zai"
+      ]
+    },
+    {
+      "text": "楚腰纤细掌中轻。",
+      "pinyin": [
+        "chǔ",
+        "yāo",
+        "xiān",
+        "xì",
+        "zhǎng",
+        "zhōng",
+        "qīng"
+      ],
+      "translation": "身边是腰身纤细、体态轻盈的美人。",
+      "noteIds": [
+        "n-chuyao",
+        "n-zhangzhongqing"
+      ]
+    },
+    {
+      "text": "十年一觉扬州梦，",
+      "pinyin": [
+        "shí",
+        "nián",
+        "yī",
+        "jué",
+        "yáng",
+        "zhōu",
+        "mèng"
+      ],
+      "translation": "十年的扬州生活像一场梦，如今一觉醒来，",
+      "noteIds": [
+        "n-yijue"
+      ]
+    },
+    {
+      "text": "赢得青楼薄幸名。",
+      "pinyin": [
+        "yíng",
+        "dé",
+        "qīng",
+        "lóu",
+        "bó",
+        "xìng",
+        "míng"
+      ],
+      "translation": "只落得个歌楼里薄情的名声。",
+      "noteIds": [
+        "n-qinglou",
+        "n-bouxing"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-luopo",
+      "word": "落魄",
+      "pinyin": "luò pò",
+      "meaning": "穷困潦倒、不得意的样子。"
+    },
+    {
+      "id": "n-zai",
+      "word": "载",
+      "pinyin": "zài",
+      "meaning": "装载，带着。"
+    },
+    {
+      "id": "n-chuyao",
+      "word": "楚腰",
+      "pinyin": "chǔ yāo",
+      "meaning": "楚灵王喜欢细腰女子，后来用“楚腰”指美人纤细的腰身。"
+    },
+    {
+      "id": "n-zhangzhongqing",
+      "word": "掌中轻",
+      "pinyin": "zhǎng zhōng qīng",
+      "meaning": "相传汉代赵飞燕体态轻盈，能在掌上起舞，这里形容扬州歌女体轻。"
+    },
+    {
+      "id": "n-yijue",
+      "word": "一觉",
+      "pinyin": "yī jué",
+      "meaning": "一觉醒来，指十年岁月恍如一梦。"
+    },
+    {
+      "id": "n-qinglou",
+      "word": "青楼",
+      "pinyin": "qīng lóu",
+      "meaning": "歌妓居住的楼馆。"
+    },
+    {
+      "id": "n-bouxing",
+      "word": "薄幸",
+      "pinyin": "bó xìng",
+      "meaning": "薄情，负心。"
+    }
+  ],
+  "translation": "失意落魄，带着酒在江湖上漂泊，身边是腰身纤细、体态轻盈的美人。十年的扬州生活像一场梦，如今一觉醒来，只落得个歌楼里薄情的名声。",
+  "appreciation": "这首诗像酒后的一次自嘲。前半回想扬州岁月：带酒漂泊、美人相伴，看似快活；后半突然清醒——十年不过一场大梦，醒来只赚下一个薄情的坏名声。一个“赢得”说得又痛又苦。诗人不辩解、不诉苦，把理想落空的失意轻轻包在玩笑里，反而更让人同情。",
+  "background": "杜牧从833年起在扬州做幕僚两年多。他抱负很大，官职却只是幕僚，于是常出入歌楼酒馆。835年离开扬州后，回想这段日子写下这首诗，既是忏悔，也是失意中的自嘲。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "载酒江湖",
+      "text": "失意的诗人带着酒，在江南江湖之间漂泊流浪。"
+    },
+    {
+      "step": 2,
+      "title": "美人相伴",
+      "text": "酒席上尽是细腰轻盈的歌女，宴乐一场接着一场。"
+    },
+    {
+      "step": 3,
+      "title": "梦醒十年",
+      "text": "十年扬州生活像一场大梦，忽然一觉醒来全都空了。"
+    },
+    {
+      "step": 4,
+      "title": "自嘲留名",
+      "text": "什么都没有留下，只赢得歌楼里一个薄情的名声。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "载",
+      "reading": "zài",
+      "reason": "“载酒行”是带着酒到处走，“载”是装载的意思，读 zài。",
+      "standard": "不要读成 zǎi"
+    },
+    {
+      "char": "觉",
+      "reading": "jué",
+      "reason": "“一觉”是一觉醒来，读 jué。",
+      "standard": "不要读成 jiào"
+    },
+    {
+      "char": "薄",
+      "reading": "bó",
+      "reason": "“薄幸”是薄情的意思，读 bó。",
+      "standard": "不要读成 báo"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26"
+}

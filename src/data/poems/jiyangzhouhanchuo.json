@@ -1,0 +1,175 @@
+{
+  "id": "tang-wantang-dumu-jiyangzhouhanchuo",
+  "slug": "jiyangzhouhanchuo",
+  "title": "寄扬州韩绰判官",
+  "titlePinyin": "jì yáng zhōu hán chuò pàn guān",
+  "dynasty": "tangshi",
+  "era": "wantang",
+  "genre": "shi",
+  "form": "七言绝句",
+  "authorId": "dumu",
+  "gradeBand": "ext",
+  "tags": [
+    "友情",
+    "七言绝句",
+    "月夜",
+    "秋天"
+  ],
+  "difficulty": 3,
+  "writtenYear": 836,
+  "writtenLabel": "约公元 836 年（杜牧 34 岁，离开扬州回长安后寄给同僚韩绰）",
+  "orderInAuthor": 4,
+  "no": 1025,
+  "famousLines": [
+    "二十四桥明月夜，玉人何处教吹箫。"
+  ],
+  "lines": [
+    {
+      "text": "青山隐隐水迢迢，",
+      "pinyin": [
+        "qīng",
+        "shān",
+        "yǐn",
+        "yǐn",
+        "shuǐ",
+        "tiáo",
+        "tiáo"
+      ],
+      "translation": "青山隐隐约约，江水悠悠远去，",
+      "noteIds": [
+        "n-tiaotiao"
+      ]
+    },
+    {
+      "text": "秋尽江南草未凋。",
+      "pinyin": [
+        "qiū",
+        "jìn",
+        "jiāng",
+        "nán",
+        "cǎo",
+        "wèi",
+        "diāo"
+      ],
+      "translation": "秋天将尽，江南的草木还没有凋枯。",
+      "noteIds": [
+        "n-diao"
+      ]
+    },
+    {
+      "text": "二十四桥明月夜，",
+      "pinyin": [
+        "èr",
+        "shí",
+        "sì",
+        "qiáo",
+        "míng",
+        "yuè",
+        "yè"
+      ],
+      "translation": "明月映照二十四桥的夜晚，",
+      "noteIds": [
+        "n-ershisiqiao"
+      ]
+    },
+    {
+      "text": "玉人何处教吹箫。",
+      "pinyin": [
+        "yù",
+        "rén",
+        "hé",
+        "chù",
+        "jiāo",
+        "chuī",
+        "xiāo"
+      ],
+      "translation": "老朋友，你在什么地方教人吹箫呢？",
+      "noteIds": [
+        "n-yuren",
+        "n-jiao"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-tiaotiao",
+      "word": "迢迢",
+      "pinyin": "tiáo tiáo",
+      "meaning": "形容路途遥远、江水绵长。"
+    },
+    {
+      "id": "n-diao",
+      "word": "凋",
+      "pinyin": "diāo",
+      "meaning": "草木枯萎、凋谢。"
+    },
+    {
+      "id": "n-ershisiqiao",
+      "word": "二十四桥",
+      "pinyin": "èr shí sì qiáo",
+      "meaning": "扬州的一座名桥（一说扬州当时共有二十四座桥）。"
+    },
+    {
+      "id": "n-yuren",
+      "word": "玉人",
+      "pinyin": "yù rén",
+      "meaning": "美貌的人，这里既可指歌女，也可指风流的韩绰。"
+    },
+    {
+      "id": "n-jiao",
+      "word": "教",
+      "pinyin": "jiāo",
+      "meaning": "教导、教人做某事。"
+    }
+  ],
+  "translation": "青山隐隐约约，江水悠悠远去，秋天将尽，江南的草木还没有凋枯。明月映照二十四桥的夜晚，老朋友，你在什么地方教人吹箫呢？",
+  "appreciation": "这是杜牧寄给扬州同僚的一首既深情又带着玩笑的诗。前两句远远望着江南：青山淡淡，江水迢迢，秋已深草还绿，江南的温润全在里面。后两句故意打趣：月夜里二十四桥上，你在哪儿教玉人吹箫？一问之间，扬州的月色、旧日的同僚情谊和当年的风流回忆全都活了过来，又美又亲切。",
+  "background": "杜牧835年秋离开扬州回长安，第二年写诗寄给仍在扬州任职的判官韩绰。两人曾同在淮南节度使幕府共事。诗中问的吹箫趣事，正是当年扬州生活的回忆，也带着对江南秋色的想念。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "遥望江南",
+      "text": "杜牧在长安遥望江南，青山隐隐，江水迢迢。"
+    },
+    {
+      "step": 2,
+      "title": "秋草未凋",
+      "text": "江南的秋天将尽，草还没有凋黄，一片温润景色。"
+    },
+    {
+      "step": 3,
+      "title": "月照名桥",
+      "text": "明月升起，照着扬州二十四桥的美丽夜晚。"
+    },
+    {
+      "step": 4,
+      "title": "笑问吹箫",
+      "text": "他笑着问老朋友：你在何处教玉人吹箫呢？"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "迢",
+      "reading": "tiáo",
+      "reason": "“迢迢”形容遥远绵长，读 tiáo。"
+    },
+    {
+      "char": "凋",
+      "reading": "diāo",
+      "reason": "“草未凋”是草还没有枯黄凋谢，读 diāo。",
+      "standard": "不要读成 zhōu"
+    },
+    {
+      "char": "教",
+      "reading": "jiāo",
+      "reason": "“教吹箫”是教人吹箫，“教”是教导的意思，读 jiāo。",
+      "standard": "不要读成 jiào"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26"
+}

@@ -1,0 +1,207 @@
+{
+  "id": "tang-wantang-wendingyun-songrendongyou",
+  "slug": "songrendongyou",
+  "title": "送人东游",
+  "titlePinyin": "sòng rén dōng yóu",
+  "dynasty": "tangshi",
+  "era": "wantang",
+  "genre": "shi",
+  "form": "五言律诗",
+  "authorId": "wendingyun",
+  "gradeBand": "ext",
+  "tags": [
+    "送别",
+    "五言律诗",
+    "秋天",
+    "长江"
+  ],
+  "difficulty": 3,
+  "writtenYear": 853,
+  "writtenLabel": "约公元 853 年（温庭筠 42 岁前后，在江汉一带漂泊送友）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "高风汉阳渡，初日郢门山。"
+  ],
+  "lines": [
+    {
+      "text": "荒戍落黄叶，",
+      "pinyin": [
+        "huāng",
+        "shù",
+        "luò",
+        "huáng",
+        "yè"
+      ],
+      "translation": "荒凉的营垒边，黄叶纷纷飘落。",
+      "noteIds": [
+        "n-shu"
+      ]
+    },
+    {
+      "text": "浩然离故关。",
+      "pinyin": [
+        "hào",
+        "rán",
+        "lí",
+        "gù",
+        "guān"
+      ],
+      "translation": "你怀着豪迈的心情，离开熟悉的关城。",
+      "noteIds": []
+    },
+    {
+      "text": "高风汉阳渡，",
+      "pinyin": [
+        "gāo",
+        "fēng",
+        "hàn",
+        "yáng",
+        "dù"
+      ],
+      "translation": "汉阳渡口秋风高急，",
+      "noteIds": []
+    },
+    {
+      "text": "初日郢门山。",
+      "pinyin": [
+        "chū",
+        "rì",
+        "yǐng",
+        "mén",
+        "shān"
+      ],
+      "translation": "初升的太阳照着郢门山。",
+      "noteIds": [
+        "n-ying"
+      ]
+    },
+    {
+      "text": "江上几人在，",
+      "pinyin": [
+        "jiāng",
+        "shàng",
+        "jǐ",
+        "rén",
+        "zài"
+      ],
+      "translation": "这一走，江边还有几个旧朋友在呢？",
+      "noteIds": []
+    },
+    {
+      "text": "天涯孤棹还。",
+      "pinyin": [
+        "tiān",
+        "yá",
+        "gū",
+        "zhào",
+        "huán"
+      ],
+      "translation": "你远到天涯，将独自驾着小船回来。",
+      "noteIds": [
+        "n-zhao"
+      ]
+    },
+    {
+      "text": "何当重相见，",
+      "pinyin": [
+        "hé",
+        "dāng",
+        "chóng",
+        "xiāng",
+        "jiàn"
+      ],
+      "translation": "什么时候才能再相见？",
+      "noteIds": []
+    },
+    {
+      "text": "樽酒慰离颜。",
+      "pinyin": [
+        "zūn",
+        "jiǔ",
+        "wèi",
+        "lí",
+        "yán"
+      ],
+      "translation": "到那时捧上一杯酒，安慰离别的愁颜。",
+      "noteIds": [
+        "n-zun"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-shu",
+      "word": "戍",
+      "pinyin": "shù",
+      "meaning": "守边的哨所，这里指边地的营垒。"
+    },
+    {
+      "id": "n-ying",
+      "word": "郢",
+      "pinyin": "yǐng",
+      "meaning": "古楚国的都城，郢门山在今湖北荆门附近。"
+    },
+    {
+      "id": "n-zhao",
+      "word": "棹",
+      "pinyin": "zhào",
+      "meaning": "船桨，这里代指船。"
+    },
+    {
+      "id": "n-zun",
+      "word": "樽",
+      "pinyin": "zūn",
+      "meaning": "盛酒的器皿，樽酒即一杯酒。"
+    }
+  ],
+  "translation": "荒凉的营垒边，黄叶纷纷飘落。你怀着豪迈的心情，离开熟悉的关城。汉阳渡口秋风高急，初升的太阳照着郢门山。这一走，江边还有几个旧朋友在呢？你远到天涯，将独自驾着小船回来。什么时候才能再相见？到那时捧上一杯酒，安慰离别的愁颜。",
+  "appreciation": "这是一首送别诗，却写得开阔有力。黄叶飘落的秋天，朋友豪气地登船东去；汉阳渡口风高浪急，郢门山上朝日初升，一路的景色都很壮阔。诗人不说依依不舍，只问江边还剩几个旧人，惦记的是朋友往后的孤单；最后把盼望重逢放在一杯酒里，情意深厚，又很爽朗。",
+  "background": "这首诗写于秋天，温庭筠在江汉一带送朋友东行。作诗年份已难确考，大约是他中年漂泊的时候。朋友要走很远的水路，诗人一路目送，把风、日、渡口、青山都写进诗里，送别也送得大气。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "黄叶荒戍",
+      "text": "秋天，荒凉的营垒旁黄叶飘落。"
+    },
+    {
+      "step": 2,
+      "title": "登船远去",
+      "text": "朋友怀着豪情，离开旧关城乘船东行。"
+    },
+    {
+      "step": 3,
+      "title": "渡口风高",
+      "text": "汉阳渡秋风正紧，郢门山朝阳初升。"
+    },
+    {
+      "step": 4,
+      "title": "酒盼重逢",
+      "text": "诗人盼望再相见，备一杯酒为他接风。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "戍",
+      "reading": "shù",
+      "reason": "“荒戍”的“戍”是驻守边地的意思，读 shù。",
+      "standard": "不要读成 xū 或 wù"
+    },
+    {
+      "char": "郢",
+      "reading": "yǐng",
+      "reason": "“郢”是古楚国的都城名，读 yǐng。"
+    },
+    {
+      "char": "棹",
+      "reading": "zhào",
+      "reason": "“棹”是划船的桨，读 zhào。"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1104
+}

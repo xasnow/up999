@@ -1,0 +1,165 @@
+{
+  "id": "tang-shengtang-zhangjiuling-ganyu-1",
+  "slug": "ganyu-1",
+  "title": "感遇·其一",
+  "titlePinyin": "gǎn yù qí yī",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "五言古诗",
+  "authorId": "zhangjiuling",
+  "gradeBand": "ext",
+  "tags": [
+    "哲理",
+    "五言古诗",
+    "孤鸿",
+    "翠鸟"
+  ],
+  "difficulty": 3,
+  "writtenYear": 737,
+  "writtenLabel": "约公元737年（张九龄59岁，被贬荆州长史，作《感遇》组诗寄托心事）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "今我游冥冥，弋者何所慕。"
+  ],
+  "lines": [
+    {
+      "text": "孤鸿海上来，",
+      "pinyin": ["gū", "hóng", "hǎi", "shàng", "lái"],
+      "translation": "一只孤雁从大海那边飞来，",
+      "noteIds": []
+    },
+    {
+      "text": "池潢不敢顾。",
+      "pinyin": ["chí", "huáng", "bù", "gǎn", "gù"],
+      "translation": "连小小的池塘都不敢看一眼。",
+      "noteIds": ["n-huang"]
+    },
+    {
+      "text": "侧见双翠鸟，",
+      "pinyin": ["cè", "jiàn", "shuāng", "cuì", "niǎo"],
+      "translation": "侧眼看见一对翠鸟，",
+      "noteIds": []
+    },
+    {
+      "text": "巢在三珠树。",
+      "pinyin": ["cháo", "zài", "sān", "zhū", "shù"],
+      "translation": "把巢筑在华贵的三珠树上。",
+      "noteIds": []
+    },
+    {
+      "text": "矫矫珍木巅，",
+      "pinyin": ["jiǎo", "jiǎo", "zhēn", "mù", "diān"],
+      "translation": "它们高高地站在珍贵树木的顶端，",
+      "noteIds": ["n-jiao"]
+    },
+    {
+      "text": "得无金丸惧？",
+      "pinyin": ["dé", "wú", "jīn", "wán", "jù"],
+      "translation": "难道不怕猎人的弹丸打过来吗？",
+      "noteIds": []
+    },
+    {
+      "text": "美服患人指，",
+      "pinyin": ["měi", "fú", "huàn", "rén", "zhǐ"],
+      "translation": "穿太漂亮的衣服，会招人指指点点；",
+      "noteIds": []
+    },
+    {
+      "text": "高明逼神恶。",
+      "pinyin": ["gāo", "míng", "bī", "shén", "wù"],
+      "translation": "地位太高，连神明也会厌恨。",
+      "noteIds": ["n-wu"]
+    },
+    {
+      "text": "今我游冥冥，",
+      "pinyin": ["jīn", "wǒ", "yóu", "míng", "míng"],
+      "translation": "如今我翱翔在高远的天空，",
+      "noteIds": []
+    },
+    {
+      "text": "弋者何所慕。",
+      "pinyin": ["yì", "zhě", "hé", "suǒ", "mù"],
+      "translation": "射鸟的人又能把我怎样呢。",
+      "noteIds": ["n-yi"]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-huang",
+      "word": "池潢",
+      "pinyin": "chí huáng",
+      "meaning": "积水的小池塘，这里指安稳却狭小的地方。"
+    },
+    {
+      "id": "n-jiao",
+      "word": "矫矫",
+      "pinyin": "jiǎo jiǎo",
+      "meaning": "高高耸立、得意扬扬的样子。"
+    },
+    {
+      "id": "n-wu",
+      "word": "恶",
+      "pinyin": "wù",
+      "meaning": "厌恶、憎恨。"
+    },
+    {
+      "id": "n-yi",
+      "word": "弋者",
+      "pinyin": "yì zhě",
+      "meaning": "用带绳的箭射鸟的人，暗指专会陷害人的权贵。"
+    }
+  ],
+  "translation": "一只孤雁从大海那边飞来，连小小的池塘都不敢看一眼。它侧眼看见一对翠鸟，把巢筑在华贵的三珠树上。它们高高地站在珍贵树木的顶端，难道不怕猎人的弹丸打过来吗？穿太漂亮的衣服，会招人指指点点；地位太高，连神明也会厌恨。如今我翱翔在高远的天空，射鸟的人又能把我怎样呢。",
+  "appreciation": "诗人把自己比作从海上飞来的孤雁，把得宠的新贵比作站在树顶的翠鸟。翠鸟站得高、住得华美，却时时担心弹丸飞来；孤雁不贪图安逸，飞在高远的天空，猎人的箭再长也够不着。全诗用两只鸟说了一个道理：站得越高越招人嫉妒，只有胸怀高远，才能保住自己的安全与尊严。",
+  "background": "开元二十五年，张九龄被罢去宰相之职，贬为荆州长史。眼看阿谀奉承的小人一个个爬上高位，他满心不平，又不愿低头。于是借海边孤雁的口吻写下这首诗，既提醒别人，也安慰自己。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "孤雁远来",
+      "text": "一只孤雁从茫茫大海那边飞来，不肯在狭小的池塘落脚。"
+    },
+    {
+      "step": 2,
+      "title": "翠鸟高巢",
+      "text": "它侧头看见一对翠鸟，把巢筑在华贵的三珠树顶上。"
+    },
+    {
+      "step": 3,
+      "title": "高枝心惊",
+      "text": "翠鸟站得再高，也怕猎人的弹丸，时时提心吊胆。"
+    },
+    {
+      "step": 4,
+      "title": "长空无惧",
+      "text": "孤雁飞向高远的天空，射鸟的人再也够不着它。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "潢",
+      "reading": "huáng",
+      "reason": "“池潢”指积水的小池塘，读 huáng。",
+      "standard": "不要读成 huāng 或 huàng"
+    },
+    {
+      "char": "恶",
+      "reading": "wù",
+      "reason": "“高明逼神恶”的“恶”是厌恶的意思，读 wù。",
+      "standard": "不要读成 è"
+    },
+    {
+      "char": "弋",
+      "reading": "yì",
+      "reason": "“弋者”指射鸟的人，读 yì。",
+      "standard": "不要读成 gē"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《曲江集》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1195
+}

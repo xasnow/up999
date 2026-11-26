@@ -1,0 +1,82 @@
+{
+  "id": "tang-shengtang-cuihao-changganqu-2",
+  "slug": "changganqu-2",
+  "title": "长干曲·家临九江水",
+  "titlePinyin": "cháng gān qǔ · jiā lín jiǔ jiāng shuǐ",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "五言乐府",
+  "authorId": "cuihao",
+  "gradeBand": "ext",
+  "tags": ["思乡", "五言乐府", "九江", "同乡"],
+  "difficulty": 3,
+  "writtenYear": 732,
+  "writtenLabel": "约公元 732 年（崔颢 28 岁，游历江南，与《长干曲·君家何处住》作于同时）",
+  "orderInAuthor": 2,
+  "famousLines": [
+    "同是长干人，生小不相识。"
+  ],
+  "lines": [
+    {
+      "text": "家临九江水，",
+      "pinyin": ["jiā", "lín", "jiǔ", "jiāng", "shuǐ"],
+      "translation": "我家紧挨着九江水，",
+      "noteIds": ["n-jiujiang"]
+    },
+    {
+      "text": "来去九江侧。",
+      "pinyin": ["lái", "qù", "jiǔ", "jiāng", "cè"],
+      "translation": "来来往往都在九江边上。",
+      "noteIds": []
+    },
+    {
+      "text": "同是长干人，",
+      "pinyin": ["tóng", "shì", "cháng", "gān", "rén"],
+      "translation": "原来我们都是长干人，",
+      "noteIds": ["n-changgan"]
+    },
+    {
+      "text": "生小不相识。",
+      "pinyin": ["shēng", "xiǎo", "bù", "xiāng", "shí"],
+      "translation": "只是从小互不相识。",
+      "noteIds": ["n-shengxiao"]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-jiujiang",
+      "word": "九江",
+      "pinyin": "jiǔ jiāng",
+      "meaning": "泛指长江下游一带的江面。"
+    },
+    {
+      "id": "n-changgan",
+      "word": "长干",
+      "pinyin": "cháng gān",
+      "meaning": "长干里，在今江苏南京城南，是船民聚居的地方。"
+    },
+    {
+      "id": "n-shengxiao",
+      "word": "生小",
+      "pinyin": "shēng xiǎo",
+      "meaning": "自小，从小。"
+    }
+  ],
+  "translation": "我家紧挨着九江水，来来往往都在九江边上。原来我们都是长干人，只是从小互不相识。",
+  "appreciation": "上一首是姑娘问，这一首是郎君答。他说自己家就在九江边上，行船来去都在那条江里；听说对方也是长干人，他轻轻叹了一句：咱们从小都长在这里，怎么就不认识呢？“生小不相识”带着一点遗憾，也带着一点欢喜。一问一答四句诗，像一场没有结尾的水上对话。",
+  "background": "这是《长干曲》组诗的第二首，接着第一首姑娘的发问来写。约公元 732 年崔颢游历江南时所作。他借船家男女一问一答，写出水上人家漂泊来去、同乡相遇却素不相识的寻常日子。",
+  "storyline": [
+    { "step": 1, "title": "自报家门", "text": "听到问话，郎君回答姑娘：我家就在九江水边。" },
+    { "step": 2, "title": "来去江上", "text": "他驾着小船来来去去，行船一直都在九江一带。" },
+    { "step": 3, "title": "认出同乡", "text": "听说对方原来也是长干人，他心里一下子高兴起来。" },
+    { "step": 4, "title": "叹不相识", "text": "他感叹两人从小都在这里，却偏偏互不相识。" }
+  ],
+  "pinyinNotes": [
+    { "char": "长干", "reading": "cháng gān", "reason": "“长干”是南京地名长干里的“干”，读 gān。", "standard": "不要读成 gàn" }
+  ],
+  "sources": ["《全唐诗》", "《唐诗三百首》"],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1259
+}

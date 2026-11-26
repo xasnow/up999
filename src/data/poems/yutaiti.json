@@ -1,0 +1,161 @@
+{
+  "id": "tang-zhongtang-quandeyu-yutaiti",
+  "slug": "yutaiti",
+  "title": "玉台体",
+  "titlePinyin": "yù tái tǐ",
+  "dynasty": "tangshi",
+  "era": "zhongtang",
+  "genre": "shi",
+  "form": "五言绝句",
+  "authorId": "quandeyu",
+  "gradeBand": "ext",
+  "tags": [
+    "思念",
+    "五言绝句",
+    "蟢子",
+    "盼归"
+  ],
+  "difficulty": 3,
+  "writtenYear": 790,
+  "writtenLabel": "约公元 790 年（权德舆 31 岁，仿南朝《玉台新咏》体式写下这首轻巧小诗）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "昨夜裙带解，今朝蟢子飞。"
+  ],
+  "lines": [
+    {
+      "text": "昨夜裙带解，",
+      "pinyin": [
+        "zuó",
+        "yè",
+        "qún",
+        "dài",
+        "jiě"
+      ],
+      "translation": "昨天夜里裙带自己松开了，",
+      "noteIds": [
+        "n-qundaixie"
+      ]
+    },
+    {
+      "text": "今朝蟢子飞。",
+      "pinyin": [
+        "jīn",
+        "zhāo",
+        "xǐ",
+        "zǐ",
+        "fēi"
+      ],
+      "translation": "今天早晨喜蛛又飞来盘旋。",
+      "noteIds": [
+        "n-xizi"
+      ]
+    },
+    {
+      "text": "铅华不可弃，",
+      "pinyin": [
+        "qiān",
+        "huá",
+        "bù",
+        "kě",
+        "qì"
+      ],
+      "translation": "脸上的妆可不能再省了，",
+      "noteIds": [
+        "n-qianhua"
+      ]
+    },
+    {
+      "text": "莫是藁砧归。",
+      "pinyin": [
+        "mò",
+        "shì",
+        "gǎo",
+        "zhēn",
+        "guī"
+      ],
+      "translation": "莫不是丈夫就要回来了？",
+      "noteIds": [
+        "n-gaozhen"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-qundaixie",
+      "word": "裙带解",
+      "pinyin": "qún dài jiě",
+      "meaning": "裙子的带子自己松开了，古人认为这是丈夫要回家的好兆头。"
+    },
+    {
+      "id": "n-xizi",
+      "word": "蟢子",
+      "pinyin": "xǐ zǐ",
+      "meaning": "一种长脚的小蜘蛛，又叫喜蛛；古人认为它飞到家里是喜事将近的兆头。"
+    },
+    {
+      "id": "n-qianhua",
+      "word": "铅华",
+      "pinyin": "qiān huá",
+      "meaning": "妇女搽脸的白粉，这里指梳妆打扮。"
+    },
+    {
+      "id": "n-gaozhen",
+      "word": "藁砧",
+      "pinyin": "gǎo zhēn",
+      "meaning": "古代民歌里对丈夫的隐语称呼，指丈夫。"
+    }
+  ],
+  "translation": "昨天夜里裙带自己松开了，今天早晨喜蛛又飞来盘旋。脸上的妆可不能再省了，莫不是丈夫就要回来了？",
+  "appreciation": "诗只写两个小兆头和一个小心思。裙带松开、喜蛛飞来，都是民间说的“喜事将到”，诗人立刻接一句：妆可不能省——原来她盼望丈夫回家已经很久了。十二个字，写足了古代女子盼归的忐忑与欢喜，像一首俏皮的民间小调。标题叫“玉台体”，正是学南朝艳体小诗的样子，轻盈又动人。",
+  "background": "“玉台体”是模仿南朝《玉台新咏》风格的艳体小诗。权德舆仿写古题，用民间“裙带解”“蟢子飞”两个吉祥兆头，写出思妇盼丈夫回家的心情。诗写得轻巧活泼，是他诗集中别具一格的小品。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "夜兆初现",
+      "text": "昨夜裙带无故松开，好像有什么喜事要来。"
+    },
+    {
+      "step": 2,
+      "title": "喜蛛晨飞",
+      "text": "今早一只喜蛛飞进屋里，绕着人打转。"
+    },
+    {
+      "step": 3,
+      "title": "重理妆容",
+      "text": "她想：脸上的妆可不能再省了。"
+    },
+    {
+      "step": 4,
+      "title": "盼君归来",
+      "text": "莫不是远行的丈夫，就要回家了？"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "蟢",
+      "reading": "xǐ",
+      "reason": "“蟢子”就是喜蛛，读 xǐ，与“喜”同音。",
+      "standard": "生僻字，不要读成 xī 以外的音"
+    },
+    {
+      "char": "藁砧",
+      "reading": "gǎo zhēn",
+      "reason": "“藁砧”是古代隐语，指丈夫，读 gǎo zhēn。",
+      "standard": "两个都是生僻字，注意读音"
+    },
+    {
+      "char": "朝",
+      "reading": "zhāo",
+      "reason": "“今朝”指今天早晨，读 zhāo。",
+      "standard": "不要读成 cháo"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1011
+}

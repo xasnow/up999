@@ -1,0 +1,271 @@
+{
+  "id": "tang-shengtang-canshen-dengciensifutu",
+  "slug": "dengciensifutu",
+  "title": "与高适薛据同登慈恩寺浮图",
+  "titlePinyin": "yǔ gāo shì xuē jù tóng dēng cí ēn sì fú tú",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "五言古诗",
+  "authorId": "canshen",
+  "gradeBand": "ext",
+  "tags": ["山水", "五言古诗", "秋天", "古塔"],
+  "difficulty": 3,
+  "writtenYear": 752,
+  "writtenLabel": "公元 752 年秋（岑参 38 岁左右，与高适、薛据同登长安慈恩寺大雁塔）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "塔势如涌出，孤高耸天宫。",
+    "下窥指高鸟，俯听闻惊风。"
+  ],
+  "lines": [
+    {
+      "text": "塔势如涌出，",
+      "pinyin": ["tǎ", "shì", "rú", "yǒng", "chū"],
+      "translation": "宝塔的气势像从地下涌出来一样，",
+      "noteIds": []
+    },
+    {
+      "text": "孤高耸天宫。",
+      "pinyin": ["gū", "gāo", "sǒng", "tiān", "gōng"],
+      "translation": "孤零零地高耸在天上宫殿之间。",
+      "noteIds": []
+    },
+    {
+      "text": "登临出世界，",
+      "pinyin": ["dēng", "lín", "chū", "shì", "jiè"],
+      "translation": "登上塔顶，就像走出了人间世界。",
+      "noteIds": []
+    },
+    {
+      "text": "磴道盘虚空。",
+      "pinyin": ["dèng", "dào", "pán", "xū", "kōng"],
+      "translation": "石阶在虚空里盘旋而上。",
+      "noteIds": ["n-dengdao"]
+    },
+    {
+      "text": "突兀压神州，",
+      "pinyin": ["tū", "wù", "yā", "shén", "zhōu"],
+      "translation": "塔高耸突出，像压住了神州大地。",
+      "noteIds": ["n-tuwu"]
+    },
+    {
+      "text": "峥嵘如鬼工。",
+      "pinyin": ["zhēng", "róng", "rú", "guǐ", "gōng"],
+      "translation": "雄伟高峻，像是鬼斧神工。",
+      "noteIds": ["n-zhengrong"]
+    },
+    {
+      "text": "四角碍白日，",
+      "pinyin": ["sì", "jiǎo", "ài", "bái", "rì"],
+      "translation": "塔的四角能挡住太阳。",
+      "noteIds": []
+    },
+    {
+      "text": "七层摩苍穹。",
+      "pinyin": ["qī", "céng", "mó", "cāng", "qióng"],
+      "translation": "七层塔顶几乎碰到天空。",
+      "noteIds": ["n-cangqiong"]
+    },
+    {
+      "text": "下窥指高鸟，",
+      "pinyin": ["xià", "kuī", "zhǐ", "gāo", "niǎo"],
+      "translation": "往下一看，能指认出高飞的鸟。",
+      "noteIds": ["n-kui"]
+    },
+    {
+      "text": "俯听闻惊风。",
+      "pinyin": ["fǔ", "tīng", "wén", "jīng", "fēng"],
+      "translation": "侧耳一听，能听到猛烈的风声。",
+      "noteIds": []
+    },
+    {
+      "text": "连山若波涛，",
+      "pinyin": ["lián", "shān", "ruò", "bō", "tāo"],
+      "translation": "连绵的群山像波涛一样，",
+      "noteIds": []
+    },
+    {
+      "text": "奔凑似朝东。",
+      "pinyin": ["bēn", "còu", "sì", "cháo", "dōng"],
+      "translation": "奔流着好像一起涌向东方。",
+      "noteIds": ["n-bencou"]
+    },
+    {
+      "text": "青槐夹驰道，",
+      "pinyin": ["qīng", "huái", "jiā", "chí", "dào"],
+      "translation": "青青的槐树夹着皇帝的御道。",
+      "noteIds": ["n-chidao"]
+    },
+    {
+      "text": "宫馆何玲珑。",
+      "pinyin": ["gōng", "guǎn", "hé", "líng", "lóng"],
+      "translation": "宫殿楼馆多么精巧玲珑。",
+      "noteIds": []
+    },
+    {
+      "text": "秋色从西来，",
+      "pinyin": ["qiū", "sè", "cóng", "xī", "lái"],
+      "translation": "秋色从西边吹来，",
+      "noteIds": []
+    },
+    {
+      "text": "苍然满关中。",
+      "pinyin": ["cāng", "rán", "mǎn", "guān", "zhōng"],
+      "translation": "苍苍茫茫铺满了关中平原。",
+      "noteIds": []
+    },
+    {
+      "text": "五陵北原上，",
+      "pinyin": ["wǔ", "líng", "běi", "yuán", "shàng"],
+      "translation": "北面原野上的五座汉朝皇陵，",
+      "noteIds": ["n-wuling"]
+    },
+    {
+      "text": "万古青濛濛。",
+      "pinyin": ["wàn", "gǔ", "qīng", "méng", "méng"],
+      "translation": "千万年来都是一片青濛濛。",
+      "noteIds": ["n-mengmeng"]
+    },
+    {
+      "text": "净理了可悟，",
+      "pinyin": ["jìng", "lǐ", "liǎo", "kě", "wù"],
+      "translation": "佛家清净的道理，现在完全能够领悟，",
+      "noteIds": ["n-jingli"]
+    },
+    {
+      "text": "胜因夙所宗。",
+      "pinyin": ["shèng", "yīn", "sù", "suǒ", "zōng"],
+      "translation": "佛家的善因是我素来尊崇的。",
+      "noteIds": ["n-shengyin", "n-su"]
+    },
+    {
+      "text": "誓将挂冠去，",
+      "pinyin": ["shì", "jiāng", "guà", "guān", "qù"],
+      "translation": "我发誓要摘下官帽离去，",
+      "noteIds": ["n-guaguan"]
+    },
+    {
+      "text": "觉道资无穷。",
+      "pinyin": ["jué", "dào", "zī", "wú", "qióng"],
+      "translation": "觉悟之道会给我无穷的力量。",
+      "noteIds": ["n-juedao"]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-dengdao",
+      "word": "磴道",
+      "pinyin": "dèng dào",
+      "meaning": "塔里盘旋而上的石台阶。"
+    },
+    {
+      "id": "n-tuwu",
+      "word": "突兀",
+      "pinyin": "tū wù",
+      "meaning": "高耸突出的样子。"
+    },
+    {
+      "id": "n-zhengrong",
+      "word": "峥嵘",
+      "pinyin": "zhēng róng",
+      "meaning": "高峻的样子。"
+    },
+    {
+      "id": "n-cangqiong",
+      "word": "苍穹",
+      "pinyin": "cāng qióng",
+      "meaning": "天空。"
+    },
+    {
+      "id": "n-kui",
+      "word": "窥",
+      "pinyin": "kuī",
+      "meaning": "从上往下看。"
+    },
+    {
+      "id": "n-bencou",
+      "word": "奔凑",
+      "pinyin": "bēn còu",
+      "meaning": "奔跑着聚集过来。"
+    },
+    {
+      "id": "n-chidao",
+      "word": "驰道",
+      "pinyin": "chí dào",
+      "meaning": "皇帝专用的御道。"
+    },
+    {
+      "id": "n-wuling",
+      "word": "五陵",
+      "pinyin": "wǔ líng",
+      "meaning": "长安城北五位汉朝皇帝的陵墓。"
+    },
+    {
+      "id": "n-mengmeng",
+      "word": "濛濛",
+      "pinyin": "méng méng",
+      "meaning": "模糊迷茫的样子。"
+    },
+    {
+      "id": "n-jingli",
+      "word": "净理",
+      "pinyin": "jìng lǐ",
+      "meaning": "佛家的清净之理。"
+    },
+    {
+      "id": "n-shengyin",
+      "word": "胜因",
+      "pinyin": "shèng yīn",
+      "meaning": "佛家说的善因善缘。"
+    },
+    {
+      "id": "n-su",
+      "word": "夙",
+      "pinyin": "sù",
+      "meaning": "一向、从来。"
+    },
+    {
+      "id": "n-guaguan",
+      "word": "挂冠",
+      "pinyin": "guà guān",
+      "meaning": "摘下官帽，指辞官。"
+    },
+    {
+      "id": "n-juedao",
+      "word": "觉道",
+      "pinyin": "jué dào",
+      "meaning": "佛家觉悟的道理。"
+    }
+  ],
+  "translation": "宝塔的气势像从地下涌出来一样，孤零零地高耸在天上宫殿之间。登上塔顶，就像走出了人间世界；石阶在虚空里盘旋而上。塔高耸突出，像压住了神州大地，雄伟高峻，像是鬼斧神工。塔的四角能挡住太阳，七层塔顶几乎碰到天空。往下一看，能指认出高飞的鸟；侧耳一听，能听到猛烈的风声。连绵的群山像波涛一样，奔流着好像一起涌向东方。青青的槐树夹着皇帝的御道，宫殿楼馆多么精巧玲珑。秋色从西边吹来，苍苍茫茫铺满了关中平原。北面原野上的五座汉朝皇陵，千万年来都是一片青濛濛。佛家清净的道理，现在完全能够领悟；佛家的善因是我素来尊崇的。我发誓要摘下官帽离去，觉悟之道会给我无穷的力量。",
+  "appreciation": "诗人先写塔的高，再写登塔所见的远。塔高得像压住大地、碰着天穹；往下看鸟、听风，真像飞到了天外。远望群山如波涛、秋色满关中，境界一下子打开了。结尾由看景转向悟理，想挂冠学佛，把登高的痛快和做官的疲惫都写了出来。",
+  "background": "公元752年秋天，岑参约高适、薛据一起登上长安慈恩寺的大雁塔，三人各自写诗记胜。这时岑参做官不顺，眼看壮志难酬，所以在诗末流露出辞官学佛的念头。",
+  "storyline": [
+    { "step": 1, "title": "宝塔涌出", "text": "大雁塔像从地下涌出来，孤零零地直插天空。" },
+    { "step": 2, "title": "盘旋登顶", "text": "登塔的石阶盘旋而上，仿佛走出了人间世界。" },
+    { "step": 3, "title": "俯听惊风", "text": "低头能指认高飞的鸟，侧耳听见猛烈的风声。" },
+    { "step": 4, "title": "远望辞官", "text": "秋色苍茫铺满关中，诗人立志辞官，皈依佛门。" }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "磴",
+      "reading": "dèng",
+      "reason": "“磴道”指石台阶，读 dèng。"
+    },
+    {
+      "char": "兀",
+      "reading": "wù",
+      "reason": "“突兀”形容高耸突出，读 tū wù。"
+    },
+    {
+      "char": "濛",
+      "reading": "méng",
+      "reason": "“青濛濛”形容模糊迷茫，读 méng。"
+    }
+  ],
+  "sources": ["《全唐诗》", "《唐诗三百首》"],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1174
+}

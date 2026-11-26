@@ -1,0 +1,119 @@
+{
+  "id": "tang-zhongtang-qianqi-zeng-que-xia-pei-she-ren",
+  "slug": "zeng-que-xia-pei-she-ren",
+  "title": "赠阙下裴舍人",
+  "titlePinyin": "zèng què xià péi shè rén",
+  "dynasty": "tangshi",
+  "era": "zhongtang",
+  "genre": "shi",
+  "form": "七言律诗",
+  "authorId": "qianqi",
+  "gradeBand": "ext",
+  "tags": ["友情", "七言律诗", "黄鹂", "春柳"],
+  "difficulty": 3,
+  "writtenYear": 764,
+  "writtenLabel": "约公元 764 年（钱起 42 岁，在长安向裴舍人献诗求引荐）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "长乐钟声花外尽，龙池柳色雨中深。"
+  ],
+  "lines": [
+    {
+      "text": "二月黄鹂飞上林，",
+      "pinyin": ["èr", "yuè", "huáng", "lí", "fēi", "shàng", "lín"],
+      "translation": "二月里黄鹂飞过皇家林苑，",
+      "noteIds": ["n-shanglin"]
+    },
+    {
+      "text": "春城紫禁晓阴阴。",
+      "pinyin": ["chūn", "chéng", "zǐ", "jìn", "xiǎo", "yīn", "yīn"],
+      "translation": "春天的京城紫禁城拂晓时树影浓密。",
+      "noteIds": []
+    },
+    {
+      "text": "长乐钟声花外尽，",
+      "pinyin": ["cháng", "lè", "zhōng", "shēng", "huā", "wài", "jìn"],
+      "translation": "长乐宫的钟声在花丛外渐渐消散，",
+      "noteIds": ["n-changle"]
+    },
+    {
+      "text": "龙池柳色雨中深。",
+      "pinyin": ["lóng", "chí", "liǔ", "sè", "yǔ", "zhōng", "shēn"],
+      "translation": "龙池边的柳色在春雨里愈显深浓。",
+      "noteIds": ["n-longchi"]
+    },
+    {
+      "text": "阳和不散穷途恨，",
+      "pinyin": ["yáng", "hé", "bù", "sàn", "qióng", "tú", "hèn"],
+      "translation": "温暖的春光驱不散我穷途失意的愁恨，",
+      "noteIds": ["n-yanghe"]
+    },
+    {
+      "text": "霄汉常悬捧日心。",
+      "pinyin": ["xiāo", "hàn", "cháng", "xuán", "pěng", "rì", "xīn"],
+      "translation": "高高的天上却常悬着我捧日向主的忠心。",
+      "noteIds": []
+    },
+    {
+      "text": "献赋十年犹未遇，",
+      "pinyin": ["xiàn", "fù", "shí", "nián", "yóu", "wèi", "yù"],
+      "translation": "我献赋十年仍未遇到被赏识的机会，",
+      "noteIds": []
+    },
+    {
+      "text": "羞将白发对华簪。",
+      "pinyin": ["xiū", "jiāng", "bái", "fà", "duì", "huá", "zān"],
+      "translation": "只好羞愧地拿自己的白发，面对您头上高贵的冠簪。",
+      "noteIds": ["n-huazan"]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-shanglin",
+      "word": "上林",
+      "pinyin": "shàng lín",
+      "meaning": "上林苑，皇家园林，这里借指唐代宫苑。"
+    },
+    {
+      "id": "n-changle",
+      "word": "长乐",
+      "pinyin": "cháng lè",
+      "meaning": "长乐宫，汉代宫殿名，这里借指唐代的宫殿。"
+    },
+    {
+      "id": "n-longchi",
+      "word": "龙池",
+      "pinyin": "lóng chí",
+      "meaning": "长安兴庆宫内的池塘名。"
+    },
+    {
+      "id": "n-yanghe",
+      "word": "阳和",
+      "pinyin": "yáng hé",
+      "meaning": "春天温暖的气候。"
+    },
+    {
+      "id": "n-huazan",
+      "word": "华簪",
+      "pinyin": "huá zān",
+      "meaning": "华贵的冠簪，高官帽子上的装饰，这里代指裴舍人。"
+    }
+  ],
+  "translation": "二月里黄鹂飞过皇家林苑，春天的紫禁城在拂晓树影浓密。长乐宫的钟声飘散在花丛之外，龙池边的柳色在春雨中更加深浓。和暖的春光驱不散我穷途失意的愁恨，高高的天空却永远悬着我捧日向主的忠心。我献赋十年还没有被赏识，只能羞愧地用白发面对您头上华贵的冠簪。",
+  "appreciation": "这是向高官求引荐的诗，却写得一点也不低声下气。前四句写皇宫春色：黄鹂、钟声、柳色、细雨，画面华美安静，全是借裴舍人眼前的景色说话。后四句才说出心事：十年献赋无人赏识，白发渐渐上头，但捧日之心从不改变。求人帮助，却写得体面大气，这正是钱起的高明之处。",
+  "background": "钱起考中进士后，长期没有得到正式官职，只能向朝中权贵献诗请求引荐。裴舍人是他在宫中任职的友人。这首诗大约写在长安的春天，诗人借宫苑春色开头，委婉说出自己求官多年未遇的苦闷和一片忠心。",
+  "storyline": [
+    { "step": 1, "title": "宫苑春晓", "text": "二月黄鹂飞过林苑，紫禁城晓色阴阴。" },
+    { "step": 2, "title": "钟柳深处", "text": "长乐钟声散入花外，龙池柳色雨中更深。" },
+    { "step": 3, "title": "春晖难解", "text": "春光虽暖，却驱不散穷途失意的愁恨。" },
+    { "step": 4, "title": "白发对簪", "text": "献赋十年未遇知己，白发人对华冠心生羞愧。" }
+  ],
+  "pinyinNotes": [
+    { "char": "簪", "reading": "zān", "reason": "“华簪”是官员帽子上的簪子，“簪”读 zān。" },
+    { "char": "鹂", "reading": "lí", "reason": "“黄鹂”是一种黄色鸣鸟，“鹂”读 lí。" }
+  ],
+  "sources": ["《全唐诗》", "《唐诗三百首》"],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1164
+}

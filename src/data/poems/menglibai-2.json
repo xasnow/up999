@@ -1,0 +1,343 @@
+{
+  "id": "tang-shengtang-dufu-menglibai-2",
+  "slug": "menglibai-2",
+  "title": "梦李白·其二",
+  "titlePinyin": "mèng lǐ bái · qí èr",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "五言古诗",
+  "authorId": "dufu",
+  "gradeBand": "ext",
+  "tags": [
+    "思念",
+    "友情",
+    "梦境",
+    "五言古诗"
+  ],
+  "difficulty": 3,
+  "writtenYear": 759,
+  "writtenLabel": "公元 759 年（杜甫 47 岁，流寓秦州，一连三夜梦见李白而作）",
+  "orderInAuthor": 4,
+  "famousLines": [
+    "冠盖满京华，斯人独憔悴。"
+  ],
+  "lines": [
+    {
+      "text": "浮云终日行，",
+      "pinyin": [
+        "fú",
+        "yún",
+        "zhōng",
+        "rì",
+        "xíng"
+      ],
+      "translation": "浮云整天在天空飘动，",
+      "noteIds": []
+    },
+    {
+      "text": "游子久不至。",
+      "pinyin": [
+        "yóu",
+        "zǐ",
+        "jiǔ",
+        "bù",
+        "zhì"
+      ],
+      "translation": "远游的人却迟迟没有到来。",
+      "noteIds": [
+        "n-youzi"
+      ]
+    },
+    {
+      "text": "三夜频梦君，",
+      "pinyin": [
+        "sān",
+        "yè",
+        "pín",
+        "mèng",
+        "jūn"
+      ],
+      "translation": "一连三个夜里频频梦见你，",
+      "noteIds": []
+    },
+    {
+      "text": "情亲见君意。",
+      "pinyin": [
+        "qíng",
+        "qīn",
+        "jiàn",
+        "jūn",
+        "yì"
+      ],
+      "translation": "梦里那份亲近平切，看得出你的一片心意。",
+      "noteIds": [
+        "n-qingqin"
+      ]
+    },
+    {
+      "text": "告归常局促，",
+      "pinyin": [
+        "gào",
+        "guī",
+        "cháng",
+        "jú",
+        "cù"
+      ],
+      "translation": "你每次告别回去总是匆忙不安，",
+      "noteIds": [
+        "n-gaogui",
+        "n-juju"
+      ]
+    },
+    {
+      "text": "苦道来不易。",
+      "pinyin": [
+        "kǔ",
+        "dào",
+        "lái",
+        "bù",
+        "yì"
+      ],
+      "translation": "诉说来一趟多么不容易。",
+      "noteIds": []
+    },
+    {
+      "text": "江湖多风波，",
+      "pinyin": [
+        "jiāng",
+        "hú",
+        "duō",
+        "fēng",
+        "bō"
+      ],
+      "translation": "江湖上风浪那么多，",
+      "noteIds": []
+    },
+    {
+      "text": "舟楫恐失坠。",
+      "pinyin": [
+        "zhōu",
+        "jí",
+        "kǒng",
+        "shī",
+        "zhuì"
+      ],
+      "translation": "怕小船会翻落水中。",
+      "noteIds": [
+        "n-zhouji"
+      ]
+    },
+    {
+      "text": "出门搔白首，",
+      "pinyin": [
+        "chū",
+        "mén",
+        "sāo",
+        "bái",
+        "shǒu"
+      ],
+      "translation": "梦里的你出门时搔着满头白发，",
+      "noteIds": []
+    },
+    {
+      "text": "若负平生志。",
+      "pinyin": [
+        "ruò",
+        "fù",
+        "píng",
+        "shēng",
+        "zhì"
+      ],
+      "translation": "好像辜负了平生的志向。",
+      "noteIds": []
+    },
+    {
+      "text": "冠盖满京华，",
+      "pinyin": [
+        "guān",
+        "gài",
+        "mǎn",
+        "jīng",
+        "huá"
+      ],
+      "translation": "京城里满是达官贵人，",
+      "noteIds": [
+        "n-guangai"
+      ]
+    },
+    {
+      "text": "斯人独憔悴。",
+      "pinyin": [
+        "sī",
+        "rén",
+        "dú",
+        "qiáo",
+        "cuì"
+      ],
+      "translation": "偏偏你这样的人才憔悴失意。",
+      "noteIds": [
+        "n-siren"
+      ]
+    },
+    {
+      "text": "孰云网恢恢，",
+      "pinyin": [
+        "shú",
+        "yún",
+        "wǎng",
+        "huī",
+        "huī"
+      ],
+      "translation": "谁说天网宽广，无所遗漏？",
+      "noteIds": [
+        "n-huihui"
+      ]
+    },
+    {
+      "text": "将老身反累。",
+      "pinyin": [
+        "jiāng",
+        "lǎo",
+        "shēn",
+        "fǎn",
+        "lèi"
+      ],
+      "translation": "快到老年了，你反而受到牵连。",
+      "noteIds": []
+    },
+    {
+      "text": "千秋万岁名，",
+      "pinyin": [
+        "qiān",
+        "qiū",
+        "wàn",
+        "suì",
+        "míng"
+      ],
+      "translation": "千秋万代流传的美名，",
+      "noteIds": []
+    },
+    {
+      "text": "寂寞身后事。",
+      "pinyin": [
+        "jì",
+        "mò",
+        "shēn",
+        "hòu",
+        "shì"
+      ],
+      "translation": "那都是死后寂寞的事情啊。",
+      "noteIds": [
+        "n-shenhou"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-youzi",
+      "word": "游子",
+      "pinyin": "yóu zǐ",
+      "meaning": "漂泊在外的人，指李白。"
+    },
+    {
+      "id": "n-qingqin",
+      "word": "情亲",
+      "pinyin": "qíng qīn",
+      "meaning": "情意恳切，像亲人一样。"
+    },
+    {
+      "id": "n-gaogui",
+      "word": "告归",
+      "pinyin": "gào guī",
+      "meaning": "告别回去，指梦中李白辞别。"
+    },
+    {
+      "id": "n-juju",
+      "word": "局促",
+      "pinyin": "jú cù",
+      "meaning": "不安、匆忙的样子。"
+    },
+    {
+      "id": "n-zhouji",
+      "word": "舟楫",
+      "pinyin": "zhōu jí",
+      "meaning": "船和桨，这里指乘船渡江。"
+    },
+    {
+      "id": "n-guangai",
+      "word": "冠盖",
+      "pinyin": "guān gài",
+      "meaning": "官员的帽子和车盖，指京城里的达官贵人。"
+    },
+    {
+      "id": "n-siren",
+      "word": "斯人",
+      "pinyin": "sī rén",
+      "meaning": "这个人，指李白。"
+    },
+    {
+      "id": "n-huihui",
+      "word": "恢恢",
+      "pinyin": "huī huī",
+      "meaning": "广大无边的样子，指天网。"
+    },
+    {
+      "id": "n-shenhou",
+      "word": "身后",
+      "pinyin": "shēn hòu",
+      "meaning": "死后的名声和事情。"
+    }
+  ],
+  "translation": "浮云整天在天空飘动，远游的人却迟迟没有到来。一连三个夜里频频梦见你，梦里那份亲近平切，看得出你的一片心意。你每次告别回去总是匆忙不安，诉说来一趟多么不容易。江湖上风浪那么多，怕小船会翻落水中。梦里的你出门时搔着满头白发，好像辜负了平生的志向。京城里满是达官贵人，偏偏你这样的人才憔悴失意。谁说天网宽广、无所遗漏？快到老年了，你反而受到牵连。千秋万代流传的美名，那都是死后寂寞的事情啊。",
+  "appreciation": "第一首写担心朋友的安危，这一首写痛惜朋友的命运。杜甫梦见李白来告别，说江湖风波大、小船怕翻，出门时还搔着白发。醒来一想：满京城都是冠盖，偏偏是李白憔悴。诗的最后把话拉开：千古留名，也是身后寂寞的事。梦中细节写得那样真切，这份友情让人心疼，这份不平也让人叹息。",
+  "background": "这首诗与《梦李白·其一》同时作于公元759年。当时李白被流放，杜甫一连三夜梦见他，又写了这一首。诗中记下梦中李白的言语和神情，也为他蒙冤受屈、晚境凄凉感到不平。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "浮云游子",
+      "text": "浮云整天飘动，远行的李白迟迟没有消息。"
+    },
+    {
+      "step": 2,
+      "title": "三夜梦君",
+      "text": "接连三夜梦见李白，梦里情意真切。"
+    },
+    {
+      "step": 3,
+      "title": "白首辞去",
+      "text": "他告辞时搔着白发，叹息来一趟不容易。"
+    },
+    {
+      "step": 4,
+      "title": "身后之名",
+      "text": "冠盖满京城，斯人独憔悴，千古名也只是身后事。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "楫",
+      "reading": "jí",
+      "reason": "“舟楫”指船和桨，读 jí。",
+      "standard": "不要读成 jì"
+    },
+    {
+      "char": "搔",
+      "reading": "sāo",
+      "reason": "“搔白首”是用手指挠头，读 sāo。"
+    },
+    {
+      "char": "累",
+      "reading": "lèi",
+      "reason": "“身反累”是自身反而受牵累，读 lèi。",
+      "standard": "不要读成 lěi"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1178
+}

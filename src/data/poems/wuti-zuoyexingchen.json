@@ -1,0 +1,182 @@
+{
+  "id": "tang-wantang-lishangyin-wuti-zuoyexingchen",
+  "slug": "wuti-zuoyexingchen",
+  "title": "无题·昨夜星辰昨夜风",
+  "titlePinyin": "wú tí·zuó yè xīng chén zuó yè fēng",
+  "dynasty": "tangshi",
+  "era": "wantang",
+  "genre": "shi",
+  "form": "七言律诗",
+  "authorId": "lishangyin",
+  "gradeBand": "ext",
+  "tags": [
+    "思念",
+    "七言律诗",
+    "星辰",
+    "夜风"
+  ],
+  "difficulty": 3,
+  "writtenYear": 839,
+  "writtenLabel": "约公元 839 年（李商隐 27 岁，任职秘书省前后，忆一夜相逢而作）",
+  "orderInAuthor": 1,
+  "no": 1133,
+  "famousLines": [
+    "身无彩凤双飞翼，心有灵犀一点通。"
+  ],
+  "lines": [
+    {
+      "text": "昨夜星辰昨夜风，",
+      "pinyin": ["zuó", "yè", "xīng", "chén", "zuó", "yè", "fēng"],
+      "translation": "昨夜星光灿烂，昨夜和风轻拂，",
+      "noteIds": []
+    },
+    {
+      "text": "画楼西畔桂堂东。",
+      "pinyin": ["huà", "lóu", "xī", "pàn", "guì", "táng", "dōng"],
+      "translation": "相聚的地点在画楼西畔、桂堂之东。",
+      "noteIds": ["n-hualou", "n-guitang"]
+    },
+    {
+      "text": "身无彩凤双飞翼，",
+      "pinyin": ["shēn", "wú", "cǎi", "fèng", "shuāng", "fēi", "yì"],
+      "translation": "身上虽没有彩凤那样的双翅飞到你身边，",
+      "noteIds": ["n-caifeng"]
+    },
+    {
+      "text": "心有灵犀一点通。",
+      "pinyin": ["xīn", "yǒu", "líng", "xī", "yī", "diǎn", "tōng"],
+      "translation": "两颗心却像灵犀一角，一点就相通。",
+      "noteIds": ["n-lingxi"]
+    },
+    {
+      "text": "隔座送钩春酒暖，",
+      "pinyin": ["gé", "zuò", "sòng", "gōu", "chūn", "jiǔ", "nuǎn"],
+      "translation": "隔着座位玩藏钩游戏，春酒暖暖地传饮，",
+      "noteIds": ["n-songgou"]
+    },
+    {
+      "text": "分曹射覆蜡灯红。",
+      "pinyin": ["fēn", "cáo", "shè", "fù", "là", "dēng", "hóng"],
+      "translation": "分组比赛猜物，蜡烛的火光红红地映照。",
+      "noteIds": ["n-fencao", "n-shefu"]
+    },
+    {
+      "text": "嗟余听鼓应官去，",
+      "pinyin": ["jiē", "yú", "tīng", "gǔ", "yìng", "guān", "qù"],
+      "translation": "可叹我一听更鼓，就得赶去官署应差，",
+      "noteIds": ["n-yinguan"]
+    },
+    {
+      "text": "走马兰台类转蓬。",
+      "pinyin": ["zǒu", "mǎ", "lán", "tái", "lèi", "zhuǎn", "péng"],
+      "translation": "骑马奔赴秘书省，像风中飘转的蓬草。",
+      "noteIds": ["n-lantai", "n-zhuanpeng"]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-hualou",
+      "word": "画楼",
+      "pinyin": "huà lóu",
+      "meaning": "雕饰华美的楼阁。"
+    },
+    {
+      "id": "n-guitang",
+      "word": "桂堂",
+      "pinyin": "guì táng",
+      "meaning": "用香桂建成的厅堂，形容华贵。"
+    },
+    {
+      "id": "n-caifeng",
+      "word": "彩凤",
+      "pinyin": "cǎi fèng",
+      "meaning": "五彩的凤凰，能双双齐飞的灵鸟。"
+    },
+    {
+      "id": "n-lingxi",
+      "word": "灵犀",
+      "pinyin": "líng xī",
+      "meaning": "犀牛角中有白纹直通两端，古人视为灵异之物，比喻两心相通。"
+    },
+    {
+      "id": "n-songgou",
+      "word": "送钩",
+      "pinyin": "sòng gōu",
+      "meaning": "古代宴席上的游戏，把钩藏在手中让对方猜。"
+    },
+    {
+      "id": "n-fencao",
+      "word": "分曹",
+      "pinyin": "fēn cáo",
+      "meaning": "分成若干组、两队。"
+    },
+    {
+      "id": "n-shefu",
+      "word": "射覆",
+      "pinyin": "shè fù",
+      "meaning": "器物下面覆盖东西让人猜的酒令游戏。"
+    },
+    {
+      "id": "n-yinguan",
+      "word": "应官",
+      "pinyin": "yìng guān",
+      "meaning": "到官署报到当差，犹言应卯。"
+    },
+    {
+      "id": "n-lantai",
+      "word": "兰台",
+      "pinyin": "lán tái",
+      "meaning": "即秘书省，李商隐曾任秘书省校书郎。"
+    },
+    {
+      "id": "n-zhuanpeng",
+      "word": "转蓬",
+      "pinyin": "zhuǎn péng",
+      "meaning": "随风飘转的蓬草，比喻身不由己的漂泊。"
+    }
+  ],
+  "translation": "昨夜星光灿烂，昨夜和风轻拂，相聚的地点在画楼西畔、桂堂之东。身上虽没有彩凤那样的双翅飞到你身边，两颗心却像灵犀一角，一点就相通。隔着座位玩藏钩游戏，春酒暖暖地传饮；分组比赛猜物，蜡烛的火光红红地映照。可叹我一听更鼓，就得赶去官署应差，骑马奔赴秘书省，像风中飘转的蓬草。",
+  "appreciation": "昨夜的星辰与风还记在心头，人却已经天各一方。诗人先写相遇的甜美：宴席上藏钩猜物，灯红酒暖，两人隔着人群暗暗传情。中间两句是千古名对——身上没有彩凤的双翅，心里却有灵犀一点，不能相守，却能相知。最后笔锋一转：更鼓一响，自己还得骑马去兰台应差，像蓬草一样身不由己。甜与苦只隔一夜，情意与拘束同在，这正是李商隐爱情诗最动人的地方。",
+  "background": "李商隐年轻时曾在长安任职秘书省。此诗追忆一次宴会上与意中人的相逢：宴散鼓响，他仍须按部就班去官署当值。有人认为诗中也暗含诗人对仕途身不由己的感慨。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "昨夜星辰",
+      "text": "昨夜星光灿烂、晚风轻拂，画楼旁相逢。"
+    },
+    {
+      "step": 2,
+      "title": "灵犀相通",
+      "text": "身无双翼不能相随，两心却一点即通。"
+    },
+    {
+      "step": 3,
+      "title": "宴上嬉乐",
+      "text": "隔座藏钩、分曹猜物，春酒暖、蜡灯红。"
+    },
+    {
+      "step": 4,
+      "title": "听鼓应官",
+      "text": "更鼓催人去兰台，身似转蓬不由己。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "嗟",
+      "reading": "jiē",
+      "reason": "叹息之意，读 jiē。"
+    },
+    {
+      "char": "应",
+      "reading": "yìng",
+      "reason": "“应官”指应卯当差，读 yìng。",
+      "standard": "不要读成 yīng"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26"
+}

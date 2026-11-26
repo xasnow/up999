@@ -1,0 +1,242 @@
+{
+  "id": "tang-zhongtang-weiyingwu-junzhaiyuzhong",
+  "slug": "junzhaiyuzhong",
+  "title": "郡斋雨中与诸文士燕集",
+  "titlePinyin": "jùn zhāi yǔ zhōng yǔ zhū wén shì yàn jí",
+  "dynasty": "tangshi",
+  "era": "zhongtang",
+  "genre": "shi",
+  "form": "五言古诗",
+  "authorId": "weiyingwu",
+  "gradeBand": "ext",
+  "tags": ["友情", "五言古诗", "风雨", "清香"],
+  "difficulty": 3,
+  "writtenYear": 789,
+  "writtenLabel": "公元 789 年（韦应物 52 岁，任苏州刺史，雨中在郡斋宴请顾况等文士）",
+  "orderInAuthor": 1,
+  "no": 1191,
+  "famousLines": [
+    "兵卫森画戟，燕寝凝清香。",
+    "自惭居处崇，未睹斯民康。"
+  ],
+  "lines": [
+    {
+      "text": "兵卫森画戟，",
+      "pinyin": ["bīng", "wèi", "sēn", "huà", "jǐ"],
+      "translation": "卫兵持着画戟，排列得又密又整齐，",
+      "noteIds": ["n-huaji"]
+    },
+    {
+      "text": "燕寝凝清香。",
+      "pinyin": ["yàn", "qǐn", "níng", "qīng", "xiāng"],
+      "translation": "休息的房舍里凝聚着淡淡的清香。",
+      "noteIds": ["n-yanqin"]
+    },
+    {
+      "text": "海上风雨至，",
+      "pinyin": ["hǎi", "shàng", "fēng", "yǔ", "zhì"],
+      "translation": "海上刮来的风雨到了，",
+      "noteIds": []
+    },
+    {
+      "text": "逍遥池阁凉。",
+      "pinyin": ["xiāo", "yáo", "chí", "gé", "liáng"],
+      "translation": "池边楼阁里一片逍遥凉爽。",
+      "noteIds": []
+    },
+    {
+      "text": "烦疴近消散，",
+      "pinyin": ["fán", "kē", "jìn", "xiāo", "sàn"],
+      "translation": "近来的烦闷和疾病渐渐消散，",
+      "noteIds": ["n-fanke"]
+    },
+    {
+      "text": "嘉宾复满堂。",
+      "pinyin": ["jiā", "bīn", "fù", "mǎn", "táng"],
+      "translation": "尊贵的客人又坐满了厅堂。",
+      "noteIds": []
+    },
+    {
+      "text": "自惭居处崇，",
+      "pinyin": ["zì", "cán", "jū", "chù", "chóng"],
+      "translation": "我惭愧自己住得这么高敞，",
+      "noteIds": []
+    },
+    {
+      "text": "未睹斯民康。",
+      "pinyin": ["wèi", "dǔ", "sī", "mín", "kāng"],
+      "translation": "却还没有见到这里的百姓都安居乐业。",
+      "noteIds": []
+    },
+    {
+      "text": "理会是非遣，",
+      "pinyin": ["lǐ", "huì", "shì", "fēi", "qiǎn"],
+      "translation": "道理通了，是非自然排遣消散，",
+      "noteIds": ["n-qian"]
+    },
+    {
+      "text": "性达形迹忘。",
+      "pinyin": ["xìng", "dá", "xíng", "jì", "wàng"],
+      "translation": "性情通达，客套礼节也就忘了。",
+      "noteIds": []
+    },
+    {
+      "text": "鲜肥属时禁，",
+      "pinyin": ["xiān", "féi", "zhǔ", "shí", "jìn"],
+      "translation": "鲜鱼肥肉正赶上时令禁食，",
+      "noteIds": ["n-shijin"]
+    },
+    {
+      "text": "蔬果幸见尝。",
+      "pinyin": ["shū", "guǒ", "xìng", "jiàn", "cháng"],
+      "translation": "请大家尝尝蔬菜水果吧。",
+      "noteIds": []
+    },
+    {
+      "text": "俯饮一杯酒，",
+      "pinyin": ["fǔ", "yǐn", "yī", "bēi", "jiǔ"],
+      "translation": "低头喝下一杯酒，",
+      "noteIds": []
+    },
+    {
+      "text": "仰聆金玉章。",
+      "pinyin": ["yǎng", "líng", "jīn", "yù", "zhāng"],
+      "translation": "抬头聆听诸位像金玉一样的好诗。",
+      "noteIds": ["n-jinyuzhang"]
+    },
+    {
+      "text": "神欢体自轻，",
+      "pinyin": ["shén", "huān", "tǐ", "zì", "qīng"],
+      "translation": "精神欢畅，身体自然轻快，",
+      "noteIds": []
+    },
+    {
+      "text": "意欲凌风翔。",
+      "pinyin": ["yì", "yù", "líng", "fēng", "xiáng"],
+      "translation": "真想乘风飞起来。",
+      "noteIds": []
+    },
+    {
+      "text": "吴中盛文史，",
+      "pinyin": ["wú", "zhōng", "shèng", "wén", "shǐ"],
+      "translation": "吴中的学问文章向来兴盛，",
+      "noteIds": []
+    },
+    {
+      "text": "群彦今汪洋。",
+      "pinyin": ["qún", "yàn", "jīn", "wāng", "yáng"],
+      "translation": "今天满座才俊，真像大海一样汪洋。",
+      "noteIds": ["n-yan"]
+    },
+    {
+      "text": "方知大藩地，",
+      "pinyin": ["fāng", "zhī", "dà", "fān", "dì"],
+      "translation": "这才知道一个大州的地方，",
+      "noteIds": ["n-fan"]
+    },
+    {
+      "text": "岂曰财赋强。",
+      "pinyin": ["qǐ", "yuē", "cái", "fù", "qiáng"],
+      "translation": "哪里只是靠财赋多才算强呢！",
+      "noteIds": []
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-huaji",
+      "word": "画戟",
+      "pinyin": "huà jǐ",
+      "meaning": "有彩饰的长戟，官署门前仪仗用的兵器。"
+    },
+    {
+      "id": "n-yanqin",
+      "word": "燕寝",
+      "pinyin": "yàn qǐn",
+      "meaning": "官员休息安寝的地方。燕，通“宴”。"
+    },
+    {
+      "id": "n-fanke",
+      "word": "烦疴",
+      "pinyin": "fán kē",
+      "meaning": "烦闷和疾病。"
+    },
+    {
+      "id": "n-qian",
+      "word": "遣",
+      "pinyin": "qiǎn",
+      "meaning": "排遣、消解。"
+    },
+    {
+      "id": "n-shijin",
+      "word": "时禁",
+      "pinyin": "shí jìn",
+      "meaning": "古时盛夏禁止杀生食荤的规定。"
+    },
+    {
+      "id": "n-jinyuzhang",
+      "word": "金玉章",
+      "pinyin": "jīn yù zhāng",
+      "meaning": "指宾客们像金玉一样美好的诗篇。"
+    },
+    {
+      "id": "n-yan",
+      "word": "彦",
+      "pinyin": "yàn",
+      "meaning": "有才德的人。"
+    },
+    {
+      "id": "n-fan",
+      "word": "藩",
+      "pinyin": "fān",
+      "meaning": "指大的州郡。"
+    }
+  ],
+  "translation": "卫兵持着画戟，排列得又密又整齐，休息的房舍里凝聚着淡淡的清香。海上刮来的风雨到了，池边楼阁里一片逍遥凉爽。近来的烦闷和疾病渐渐消散，尊贵的客人又坐满了厅堂。我惭愧自己住得这么高敞，却还没有见到这里的百姓都安居乐业。道理通了，是非自然排遣消散；性情通达，客套礼节也就忘了。鲜鱼肥肉正赶上时令禁食，请大家尝尝蔬菜水果吧。低头喝下一杯酒，抬头聆听诸位像金玉一样的好诗。精神欢畅，身体自然轻快，真想乘风飞起来。吴中的学问文章向来兴盛，今天满座才俊，真像大海一样汪洋。这才知道一个大州的地方，哪里只是靠财赋多才算强呢！",
+  "appreciation": "这首宴集诗写得很大气。前半写雨凉郡斋、嘉宾满堂，饮酒听诗，逍遥自在；忽然转到“自惭居处崇，未睹斯民康”，欢喜里带着对百姓的愧疚。结尾赞美吴中人文昌盛，说大郡的强盛不在财赋。有排场、有自省、有胸襟，难怪当时人们争相传诵这首诗。",
+  "background": "贞元五年（789），诗人顾况被贬饶州，途经苏州，刺史韦应物在郡斋设宴招待他和当地文士。那天海上来了一场风雨，暑气顿消，宾主饮酒赋诗。韦应物写下此诗，当时广为传诵，顾况也作诗相和。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "雨凉郡斋",
+      "text": "画戟森列的郡斋里，海上风雨带来了清凉。"
+    },
+    {
+      "step": 2,
+      "title": "宾客满堂",
+      "text": "烦闷消散，满堂宾客在池阁间自在相聚。"
+    },
+    {
+      "step": 3,
+      "title": "举杯听诗",
+      "text": "喝一杯淡酒，抬头听文士们朗诵金玉般的诗章。"
+    },
+    {
+      "step": 4,
+      "title": "自愧民康",
+      "text": "诗人自愧未见百姓安康，盛赞吴中才俊如汪洋。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "属",
+      "reading": "zhǔ",
+      "reason": "“鲜肥属时禁”的“属”是“正赶上”的意思，读 zhǔ。",
+      "standard": "不要读成 shǔ"
+    },
+    {
+      "char": "疴",
+      "reading": "kē",
+      "reason": "“烦疴”指烦闷和疾病，“疴”是病，读 kē。",
+      "standard": "生僻字，注意读音"
+    },
+    {
+      "char": "彦",
+      "reading": "yàn",
+      "reason": "“群彦”指众多的才俊，“彦”读 yàn。",
+      "standard": "生僻字，注意读音"
+    }
+  ],
+  "sources": ["《全唐诗》", "《唐诗三百首》"],
+  "status": "published",
+  "updatedAt": "2026-11-26"
+}

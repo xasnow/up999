@@ -1,0 +1,139 @@
+{
+  "id": "tang-wantang-madai-chujianghuaigu-zhiyi",
+  "slug": "chujianghuaigu-zhiyi",
+  "title": "楚江怀古三首·其一",
+  "titlePinyin": "chǔ jiāng huái gǔ sān shǒu · qí yī",
+  "dynasty": "tangshi",
+  "era": "wantang",
+  "genre": "shi",
+  "form": "五言律诗",
+  "authorId": "madai",
+  "gradeBand": "ext",
+  "difficulty": 3,
+  "tags": ["怀古", "五言律诗", "洞庭", "明月"],
+  "writtenYear": 852,
+  "writtenLabel": "约公元 852 年（马戴 54 岁，贬龙阳尉，南下经洞庭湖）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "猿啼洞庭树，人在木兰舟。"
+  ],
+  "lines": [
+    {
+      "text": "露气寒光集，",
+      "pinyin": ["lù", "qì", "hán", "guāng", "jí"],
+      "translation": "露水之气带着寒光凝集，",
+      "noteIds": []
+    },
+    {
+      "text": "微阳下楚丘。",
+      "pinyin": ["wēi", "yáng", "xià", "chǔ", "qiū"],
+      "translation": "微弱的夕阳落向楚地的山丘。",
+      "noteIds": ["n-chuqiu"]
+    },
+    {
+      "text": "猿啼洞庭树，",
+      "pinyin": ["yuán", "tí", "dòng", "tíng", "shù"],
+      "translation": "猿猴在洞庭湖边的树上啼叫，",
+      "noteIds": []
+    },
+    {
+      "text": "人在木兰舟。",
+      "pinyin": ["rén", "zài", "mù", "lán", "zhōu"],
+      "translation": "我正坐在木兰舟里漂流。",
+      "noteIds": ["n-mulan"]
+    },
+    {
+      "text": "广泽生明月，",
+      "pinyin": ["guǎng", "zé", "shēng", "míng", "yuè"],
+      "translation": "广阔的湖泽上升起一轮明月，",
+      "noteIds": []
+    },
+    {
+      "text": "苍山夹乱流。",
+      "pinyin": ["cāng", "shān", "jiā", "luàn", "liú"],
+      "translation": "苍翠的山岭夹着奔涌的乱流。",
+      "noteIds": []
+    },
+    {
+      "text": "云中君不见，",
+      "pinyin": ["yún", "zhōng", "jūn", "bù", "jiàn"],
+      "translation": "云中的神灵终究看不见，",
+      "noteIds": ["n-yunzhong"]
+    },
+    {
+      "text": "竟夕自悲秋。",
+      "pinyin": ["jìng", "xī", "zì", "bēi", "qiū"],
+      "translation": "我整夜对着秋色独自悲愁。",
+      "noteIds": ["n-jingxi"]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-chuqiu",
+      "word": "楚丘",
+      "pinyin": "chǔ qiū",
+      "meaning": "楚地的山丘。长江中游古属楚国，所以称楚江。"
+    },
+    {
+      "id": "n-mulan",
+      "word": "木兰舟",
+      "pinyin": "mù lán zhōu",
+      "meaning": "木兰是香木，古人用它造船，“木兰舟”是对船的美称。"
+    },
+    {
+      "id": "n-yunzhong",
+      "word": "云中君",
+      "pinyin": "yún zhōng jūn",
+      "meaning": "云神。屈原《九歌》里有《云中君》一篇，这里指诗人怀想的神灵或古人。"
+    },
+    {
+      "id": "n-jingxi",
+      "word": "竟夕",
+      "pinyin": "jìng xī",
+      "meaning": "整夜、通宵。"
+    }
+  ],
+  "translation": "露水之气带着寒光凝集，微弱的夕阳落向楚地的山丘。猿猴在洞庭湖边的树上啼叫，我正坐在木兰舟里漂流。广阔的湖泽上升起一轮明月，苍翠的山岭夹着奔涌的乱流。云中的神灵终究看不见，我整夜对着秋色独自悲愁。",
+  "appreciation": "诗人泛舟楚江，把秋天的洞庭写得清冷又开阔。露气、寒光、微阳，先铺出一层暮色；猿啼、明月、乱流，再添几分苍茫。“广泽生明月”一句最妙，月从水泽尽头升起，天地忽然亮了，愁思却更长。结尾借《九歌》里的云中君，把怀古之情藏在云雾深处，余味无穷。",
+  "background": "马戴曾在太原幕府做掌书记，因直言被贬为龙阳尉。南下途经洞庭湖一带时，他泛舟江上，面对楚地秋色，想起屈原等古人，写下《楚江怀古》三首，这是第一首，约作于公元850年前后。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "暮色楚江",
+      "text": "露气凝着寒光，夕阳慢慢落进楚地的山丘。"
+    },
+    {
+      "step": 2,
+      "title": "猿啼舟行",
+      "text": "洞庭湖边的树上猿猴啼叫，小船载着诗人缓缓前行。"
+    },
+    {
+      "step": 3,
+      "title": "月出泽畔",
+      "text": "宽阔的湖面上升起明月，青山夹着奔涌的乱流。"
+    },
+    {
+      "step": 4,
+      "title": "悲秋怀古",
+      "text": "云中君终究见不到，诗人整夜对着秋江暗自悲愁。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "木兰舟",
+      "reading": "mù lán zhōu",
+      "reason": "木兰是一种香木，古人用它造船，“木兰舟”是对船的美称。"
+    },
+    {
+      "char": "竟夕",
+      "reading": "jìng xī",
+      "reason": "竟夕就是整夜，“竟”有从头到尾的意思。"
+      ,
+      "standard": "不要读成 jìn"
+    }
+  ],
+  "sources": ["《全唐诗》", "《唐诗三百首》"],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1096
+}

@@ -1,0 +1,91 @@
+{
+  "id": "tang-shengtang-cuishu-jiuridengwangxiantai",
+  "slug": "jiuridengwangxiantai",
+  "title": "九日登望仙台呈刘明府",
+  "titlePinyin": "jiǔ rì dēng wàng xiān tái chéng liú míng fǔ",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "七言律诗",
+  "authorId": "cuishu",
+  "gradeBand": "ext",
+  "tags": ["怀古", "七言律诗", "菊花", "云山"],
+  "difficulty": 3,
+  "writtenYear": 738,
+  "writtenLabel": "约公元 738 年（崔曙 34 岁，重阳日与刘明府同登陕州望仙台，写诗相赠）",
+  "orderInAuthor": 1,
+  "famousLines": ["三晋云山皆北向，二陵风雨自东来。"],
+  "lines": [
+    {
+      "text": "汉文皇帝有高台，",
+      "pinyin": ["hàn", "wén", "huáng", "dì", "yǒu", "gāo", "tái"],
+      "translation": "汉文帝当年在这里留下了一座高台，",
+      "noteIds": []
+    },
+    {
+      "text": "此日登临曙色开。",
+      "pinyin": ["cǐ", "rì", "dēng", "lín", "shǔ", "sè", "kāi"],
+      "translation": "重阳这天我来登临，晨光正把天色打开。",
+      "noteIds": []
+    },
+    {
+      "text": "三晋云山皆北向，",
+      "pinyin": ["sān", "jìn", "yún", "shān", "jiē", "běi", "xiàng"],
+      "translation": "三晋的云和山全都向北排开，",
+      "noteIds": ["n-sanjin"]
+    },
+    {
+      "text": "二陵风雨自东来。",
+      "pinyin": ["èr", "líng", "fēng", "yǔ", "zì", "dōng", "lái"],
+      "translation": "崤山二陵的风雨自东面滚滚而来。",
+      "noteIds": ["n-erling"]
+    },
+    {
+      "text": "关门令尹谁能识，",
+      "pinyin": ["guān", "mén", "lìng", "yǐn", "shuí", "néng", "shí"],
+      "translation": "把老子留住写书的关令尹喜，世上又有谁能识出这样的奇人？",
+      "noteIds": ["n-lingyin"]
+    },
+    {
+      "text": "河上仙翁去不回。",
+      "pinyin": ["hé", "shàng", "xiān", "wēng", "qù", "bù", "huí"],
+      "translation": "河上的仙人河上公一去就再也没回来。",
+      "noteIds": ["n-heshangweng"]
+    },
+    {
+      "text": "且欲近寻彭泽宰，",
+      "pinyin": ["qiě", "yù", "jìn", "xún", "péng", "zé", "zǎi"],
+      "translation": "不如就近去找像陶渊明那样的县令朋友，",
+      "noteIds": ["n-pengzezai"]
+    },
+    {
+      "text": "陶然共醉菊花杯。",
+      "pinyin": ["táo", "rán", "gòng", "zuì", "jú", "huā", "bēi"],
+      "translation": "我们对着菊花酒杯，一起痛痛快快喝醉吧！",
+      "noteIds": []
+    }
+  ],
+  "notes": [
+    { "id": "n-sanjin", "word": "三晋", "pinyin": "sān jìn", "meaning": "战国时韩、赵、魏三国之地，泛指今山西一带。" },
+    { "id": "n-erling", "word": "二陵", "pinyin": "èr líng", "meaning": "崤山的南陵、北陵两座山，在今河南西部。" },
+    { "id": "n-lingyin", "word": "令尹", "pinyin": "lìng yǐn", "meaning": "守关的官吏，用函谷关令尹喜留老子著书的典故。" },
+    { "id": "n-heshangweng", "word": "河上仙翁", "pinyin": "hé shàng xiān wēng", "meaning": "仙人河上公，相传汉文帝曾在望仙台向他问道。" },
+    { "id": "n-pengzezai", "word": "彭泽宰", "pinyin": "péng zé zǎi", "meaning": "做过彭泽县令的陶渊明，借指刘明府。" }
+  ],
+  "translation": "汉文帝当年在这里留下一座高台，重阳这天我来登临，晨光正把天色打开。三晋的云山全都向北排开，崤山二陵的风雨自东面滚滚而来。留老子著书的关令尹喜，又有谁能识出这样的奇人？河上的仙人河上公一去再没回来。不如就近去找像陶渊明那样的县令朋友，对着菊花酒杯，一起痛痛快快喝醉吧！",
+  "appreciation": "重阳登高，诗人在望仙台上看见的既是风景，也是历史：三晋云山向北，二陵风雨东来，天地开阔；可当年遇见仙人的关令尹、台上的河上公，都一去不回。仙人寻不到，不如珍惜眼前人——就近找一位像陶渊明那样的好县令，一起举杯醉倒在菊花香里。怀古的苍茫最后落在酒杯上，豪爽又亲切。",
+  "background": "望仙台在今河南三门峡一带，相传汉文帝在这里遇见仙人河上公。重阳节这天，崔曙和做县令的朋友刘明府一同登台怀古，写下这首诗相赠。",
+  "storyline": [
+    { "step": 1, "title": "九日登台", "text": "重阳清早，诗人与朋友登上望仙高台。" },
+    { "step": 2, "title": "云山风雨", "text": "三晋云山向北排开，二陵风雨扑面而来。" },
+    { "step": 3, "title": "仙踪难觅", "text": "守关奇人和河上公都已一去不回。" },
+    { "step": 4, "title": "菊酒陶然", "text": "不如邀好友同醉菊花杯，痛快乐一场。" }
+  ],
+  "pinyinNotes": [
+    { "char": "令尹", "reading": "lìng yǐn", "reason": "“令尹”指守关的官吏，读 lìng yǐn。" }
+  ],
+  "sources": ["《全唐诗》", "《唐诗三百首》"],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1155
+}

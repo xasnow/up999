@@ -1,0 +1,79 @@
+{
+  "id": "tang-zhongtang-liuzongyuan-yuweng",
+  "slug": "yuweng",
+  "title": "渔翁",
+  "titlePinyin": "yú wēng",
+  "dynasty": "tangshi",
+  "era": "zhongtang",
+  "genre": "shi",
+  "form": "七言古诗",
+  "authorId": "liuzongyuan",
+  "gradeBand": "ext",
+  "tags": ["山水", "七言古诗", "渔翁", "云"],
+  "difficulty": 3,
+  "writtenYear": 811,
+  "writtenLabel": "约公元 811 年（柳宗元 38 岁，贬居永州，写西山下夜宿晨行的渔翁）",
+  "orderInAuthor": 1,
+  "famousLines": ["烟销日出不见人，欸乃一声山水绿。"],
+  "lines": [
+    {
+      "text": "渔翁夜傍西岩宿，",
+      "pinyin": ["yú", "wēng", "yè", "bàng", "xī", "yán", "sù"],
+      "translation": "渔翁夜里靠着西山岩石停船过夜，",
+      "noteIds": []
+    },
+    {
+      "text": "晓汲清湘燃楚竹。",
+      "pinyin": ["xiǎo", "jí", "qīng", "xiāng", "rán", "chǔ", "zhú"],
+      "translation": "清晨打起清澈的湘江水，烧起楚地的竹子做饭。",
+      "noteIds": ["n-ji"]
+    },
+    {
+      "text": "烟销日出不见人，",
+      "pinyin": ["yān", "xiāo", "rì", "chū", "bù", "jiàn", "rén"],
+      "translation": "烟散了，太阳出来，却看不见人影，",
+      "noteIds": ["n-xiao"]
+    },
+    {
+      "text": "欸乃一声山水绿。",
+      "pinyin": ["ǎi", "nǎi", "yī", "shēng", "shān", "shuǐ", "lǜ"],
+      "translation": "只听“欸乃”一声摇橹响，满眼山水都绿了。",
+      "noteIds": ["n-ainai"]
+    },
+    {
+      "text": "回看天际下中流，",
+      "pinyin": ["huí", "kàn", "tiān", "jì", "xià", "zhōng", "liú"],
+      "translation": "回头望去，船已行到江心，天边远远的，",
+      "noteIds": []
+    },
+    {
+      "text": "岩上无心云相逐。",
+      "pinyin": ["yán", "shàng", "wú", "xīn", "yún", "xiāng", "zhú"],
+      "translation": "只有西山岩上无心的白云，互相追逐着。",
+      "noteIds": []
+    }
+  ],
+  "notes": [
+    { "id": "n-ji", "word": "汲", "pinyin": "jí", "meaning": "从江里打水。" },
+    { "id": "n-xiao", "word": "销", "pinyin": "xiāo", "meaning": "同“消”，指烟雾消散。" },
+    { "id": "n-ainai", "word": "欸乃", "pinyin": "ǎi nǎi", "meaning": "象声词，指摇橹的声音或渔歌。" }
+  ],
+  "translation": "渔翁夜里靠着西山岩石停船过夜，清晨打起清澈的湘江水，烧起楚地的竹子做饭。烟散了，太阳出来，却看不见人影，只听“欸乃”一声摇橹响，满眼山水都绿了。回头望去，船已行到江心，天边远远的，只有西山岩上无心的白云，互相追逐着。",
+  "appreciation": "这首诗像一组慢慢展开的画面：夜里渔船靠着山石，清晨竹火烧水，烟散日出，人却不见了，只听一声摇橹，整片山水忽然全绿。最后回望天边，岩上的白云自由自在地互相追逐。渔翁来去无踪，像是不被任何人管束的自由人，诗人在他身上寄托了自己想要摆脱烦恼、求得轻松的愿望。",
+  "background": "柳宗元贬居永州，常在湘江、西山一带游赏。他见过夜宿晨行的渔翁，写下这首诗。诗里的渔翁自由自在，正是他心里向往的样子。",
+  "storyline": [
+    { "step": 1, "title": "夜宿西岩", "text": "渔翁夜里把船靠在西山岩石边睡觉。" },
+    { "step": 2, "title": "晨起烧竹", "text": "清早打来清清的江水，点燃竹子烧火做饭。" },
+    { "step": 3, "title": "橹声绿山", "text": "烟散日出，人影不见，一声橹响满山绿水。" },
+    { "step": 4, "title": "云自相逐", "text": "船到江心回望，岩上白云无心自在追逐。" }
+  ],
+  "pinyinNotes": [
+    { "char": "傍", "reading": "bàng", "reason": "“夜傍西岩”的“傍”是靠近，读 bàng。", "standard": "不要读成 páng" },
+    { "char": "汲", "reading": "jí", "reason": "“晓汲清湘”的“汲”是打水，读 jí。" },
+    { "char": "欸乃", "reading": "ǎi nǎi", "reason": "摇橹的象声词，两个字都读第三声。" }
+  ],
+  "sources": ["《全唐诗》", "《唐诗三百首》"],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1221
+}

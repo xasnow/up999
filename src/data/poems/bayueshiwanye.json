@@ -1,0 +1,322 @@
+{
+  "id": "tang-zhongtang-hanyu-bayueshiwanye",
+  "slug": "bayueshiwanye",
+  "title": "八月十五夜赠张功曹",
+  "titlePinyin": "bā yuè shí wǔ yè zèng zhāng gōng cáo",
+  "dynasty": "tangshi",
+  "era": "zhongtang",
+  "genre": "shi",
+  "form": "七言古诗",
+  "authorId": "hanyu",
+  "gradeBand": "ext",
+  "tags": [
+    "月亮",
+    "七言古诗",
+    "明月",
+    "中秋"
+  ],
+  "difficulty": 3,
+  "writtenYear": 805,
+  "writtenLabel": "公元805年中秋（韩愈38岁，遇赦待命郴州，夜赠同僚张署）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "纤云四卷天无河，清风吹空月舒波。",
+    "一年明月今宵多，人生由命非由他。"
+  ],
+  "lines": [
+    {
+      "text": "纤云四卷天无河，",
+      "pinyin": ["xiān", "yún", "sì", "juǎn", "tiān", "wú", "hé"],
+      "translation": "细细的云彩向四方卷去，天上看不见银河，",
+      "noteIds": []
+    },
+    {
+      "text": "清风吹空月舒波。",
+      "pinyin": ["qīng", "fēng", "chuī", "kōng", "yuè", "shū", "bō"],
+      "translation": "清风吹过夜空，月光像水波一样铺展开来。",
+      "noteIds": []
+    },
+    {
+      "text": "沙平水息声影绝，",
+      "pinyin": ["shā", "píng", "shuǐ", "xī", "shēng", "yǐng", "jué"],
+      "translation": "沙岸平平，水声停息，连一点声响和人影都没有，",
+      "noteIds": []
+    },
+    {
+      "text": "一杯相属君当歌。",
+      "pinyin": ["yì", "bēi", "xiāng", "zhǔ", "jūn", "dāng", "gē"],
+      "translation": "我举杯向你敬酒，请你放声唱歌。",
+      "noteIds": ["n-xiangshu"]
+    },
+    {
+      "text": "君歌声酸辞且苦，",
+      "pinyin": ["jūn", "gē", "shēng", "suān", "cí", "qiě", "kǔ"],
+      "translation": "你的歌声酸楚，歌词也很悲苦，",
+      "noteIds": []
+    },
+    {
+      "text": "不能听终泪如雨。",
+      "pinyin": ["bù", "néng", "tīng", "zhōng", "lèi", "rú", "yǔ"],
+      "translation": "我听不完，眼泪就像雨一样落下来。",
+      "noteIds": []
+    },
+    {
+      "text": "洞庭连天九疑高，",
+      "pinyin": ["dòng", "tíng", "lián", "tiān", "jiǔ", "yí", "gāo"],
+      "translation": "洞庭湖连着天，九疑山高得望不到顶，",
+      "noteIds": ["n-jiuyi"]
+    },
+    {
+      "text": "蛟龙出没猩鼯号。",
+      "pinyin": ["jiāo", "lóng", "chū", "mò", "xīng", "wú", "háo"],
+      "translation": "蛟龙在水中出没，猿猴和鼯鼠在林里哀号。",
+      "noteIds": ["n-wu", "n-hao"]
+    },
+    {
+      "text": "十生九死到官所，",
+      "pinyin": ["shí", "shēng", "jiǔ", "sǐ", "dào", "guān", "suǒ"],
+      "translation": "我们九死一生，才赶到贬谪的任所，",
+      "noteIds": []
+    },
+    {
+      "text": "幽居默默如藏逃。",
+      "pinyin": ["yōu", "jū", "mò", "mò", "rú", "cáng", "táo"],
+      "translation": "躲在僻远的地方，默默无言，像躲藏的逃犯。",
+      "noteIds": []
+    },
+    {
+      "text": "下床畏蛇食畏药，",
+      "pinyin": ["xià", "chuáng", "wèi", "shé", "shí", "wèi", "yào"],
+      "translation": "下床怕踩到毒蛇，吃东西怕中了毒药，",
+      "noteIds": []
+    },
+    {
+      "text": "海气湿蛰熏腥臊。",
+      "pinyin": ["hǎi", "qì", "shī", "zhé", "xūn", "xīng", "sāo"],
+      "translation": "南方湿地的毒气蒸腾，到处一股腥臊味。",
+      "noteIds": ["n-shizhe"]
+    },
+    {
+      "text": "昨者州前捶大鼓，",
+      "pinyin": ["zuó", "zhě", "zhōu", "qián", "chuí", "dà", "gǔ"],
+      "translation": "前些天州府门前擂响了大鼓，",
+      "noteIds": ["n-chui"]
+    },
+    {
+      "text": "嗣皇继圣登夔皋。",
+      "pinyin": ["sì", "huáng", "jì", "shèng", "dēng", "kuí", "gāo"],
+      "translation": "新继位的皇帝启用贤臣，像尧用夔和皋陶一样。",
+      "noteIds": ["n-kuigao"]
+    },
+    {
+      "text": "赦书一日行万里，",
+      "pinyin": ["shè", "shū", "yí", "rì", "xíng", "wàn", "lǐ"],
+      "translation": "大赦的文书一天传遍万里，",
+      "noteIds": []
+    },
+    {
+      "text": "罪从大辟皆除死。",
+      "pinyin": ["zuì", "cóng", "dà", "pì", "jiē", "chú", "sǐ"],
+      "translation": "连判死刑的罪人也能免死，",
+      "noteIds": ["n-dapi"]
+    },
+    {
+      "text": "迁者追回流者还，",
+      "pinyin": ["qiān", "zhě", "zhuī", "huí", "liú", "zhě", "huán"],
+      "translation": "被贬官的被召回，被流放的被放还，",
+      "noteIds": []
+    },
+    {
+      "text": "涤瑕荡垢清朝班。",
+      "pinyin": ["dí", "xiá", "dàng", "gòu", "qīng", "cháo", "bān"],
+      "translation": "洗去污点，朝廷百官焕然一新。",
+      "noteIds": []
+    },
+    {
+      "text": "州家申名使家抑，",
+      "pinyin": ["zhōu", "jiā", "shēn", "míng", "shǐ", "jiā", "yì"],
+      "translation": "州官申报了我们的名字，却被观察使压了下来，",
+      "noteIds": ["n-shijia"]
+    },
+    {
+      "text": "坎坷只得移荆蛮。",
+      "pinyin": ["kǎn", "kě", "zhǐ", "dé", "yí", "jīng", "mán"],
+      "translation": "命运坎坷，只得到荆蛮之地的江陵做个小官。",
+      "noteIds": []
+    },
+    {
+      "text": "判司卑官不堪说，",
+      "pinyin": ["pàn", "sī", "bēi", "guān", "bù", "kān", "shuō"],
+      "translation": "判司这样的卑小官职，苦处说也说不完，",
+      "noteIds": []
+    },
+    {
+      "text": "未免捶楚尘埃间。",
+      "pinyin": ["wèi", "miǎn", "chuí", "chǔ", "chén", "āi", "jiān"],
+      "translation": "难免要在尘土中挨鞭子受刑。",
+      "noteIds": ["n-chuichu"]
+    },
+    {
+      "text": "同时辈流多上道，",
+      "pinyin": ["tóng", "shí", "bèi", "liú", "duō", "shàng", "dào"],
+      "translation": "同时被贬的人大多已动身回京，",
+      "noteIds": []
+    },
+    {
+      "text": "天路幽险难追攀。",
+      "pinyin": ["tiān", "lù", "yōu", "xiǎn", "nán", "zhuī", "pān"],
+      "translation": "回京的路幽暗艰险，我们难以追上。",
+      "noteIds": []
+    },
+    {
+      "text": "君歌且休听我歌，",
+      "pinyin": ["jūn", "gē", "qiě", "xiū", "tīng", "wǒ", "gē"],
+      "translation": "你的歌先停一停，听我唱一支，",
+      "noteIds": []
+    },
+    {
+      "text": "我歌今与君殊科。",
+      "pinyin": ["wǒ", "gē", "jīn", "yǔ", "jūn", "shū", "kē"],
+      "translation": "我的歌和你的完全不一样。",
+      "noteIds": []
+    },
+    {
+      "text": "一年明月今宵多，",
+      "pinyin": ["yì", "nián", "míng", "yuè", "jīn", "xiāo", "duō"],
+      "translation": "一年的明月，属今夜的最圆最美，",
+      "noteIds": []
+    },
+    {
+      "text": "人生由命非由他。",
+      "pinyin": ["rén", "shēng", "yóu", "mìng", "fēi", "yóu", "tā"],
+      "translation": "人生的际遇由命运安排，不由别的什么。",
+      "noteIds": ["n-ta"]
+    },
+    {
+      "text": "有酒不饮奈明何。",
+      "pinyin": ["yǒu", "jiǔ", "bù", "yǐn", "nài", "míng", "hé"],
+      "translation": "有酒不喝，怎么对得起这轮明月呢。",
+      "noteIds": []
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-xiangshu",
+      "word": "相属",
+      "pinyin": "xiāng zhǔ",
+      "meaning": "互相敬酒，“属”是劝酒的意思。"
+    },
+    {
+      "id": "n-jiuyi",
+      "word": "九疑",
+      "pinyin": "jiǔ yí",
+      "meaning": "即九嶷山，在今湖南，山势高峻。"
+    },
+    {
+      "id": "n-wu",
+      "word": "鼯",
+      "pinyin": "wú",
+      "meaning": "鼯鼠，能滑翔飞行的松鼠类动物。"
+    },
+    {
+      "id": "n-hao",
+      "word": "号",
+      "pinyin": "háo",
+      "meaning": "大声啼叫哀号。"
+    },
+    {
+      "id": "n-shizhe",
+      "word": "湿蛰",
+      "pinyin": "shī zhé",
+      "meaning": "潜伏在潮湿泥土中的虫蛇散发的毒气。"
+    },
+    {
+      "id": "n-chui",
+      "word": "捶大鼓",
+      "pinyin": "chuí dà gǔ",
+      "meaning": "擂响大鼓，宣布皇帝改元大赦的消息。"
+    },
+    {
+      "id": "n-kuigao",
+      "word": "夔皋",
+      "pinyin": "kuí gāo",
+      "meaning": "夔和皋陶，尧舜时代的贤臣，这里指新任用的官员。"
+    },
+    {
+      "id": "n-dapi",
+      "word": "大辟",
+      "pinyin": "dà pì",
+      "meaning": "死刑。"
+    },
+    {
+      "id": "n-shijia",
+      "word": "使家",
+      "pinyin": "shǐ jiā",
+      "meaning": "观察使，管辖州府的大官，这里指压下申报的上司。"
+    },
+    {
+      "id": "n-chuichu",
+      "word": "捶楚",
+      "pinyin": "chuí chǔ",
+      "meaning": "杖刑鞭打，古代小官犯错要受的刑罚。"
+    },
+    {
+      "id": "n-ta",
+      "word": "他",
+      "pinyin": "tā",
+      "meaning": "别的、其他的原因，古音读 tuō 以押韵。"
+    }
+  ],
+  "translation": "细细的云彩向四方卷去，天上看不见银河，清风吹过夜空，月光像水波一样铺展开来。沙岸平平，水声停息，连一点声响和人影都没有，我举杯向你敬酒，请你放声唱歌。你的歌声酸楚，歌词也很悲苦，我听不完，眼泪就像雨一样落下来。洞庭湖连着天，九疑山高得望不到顶，蛟龙在水中出没，猿猴和鼯鼠在林里哀号。我们九死一生，才赶到贬谪的任所，躲在僻远的地方，默默无言，像躲藏的逃犯。下床怕踩到毒蛇，吃东西怕中了毒药，南方湿地的毒气蒸腾，到处一股腥臊味。前些天州府门前擂响了大鼓，新继位的皇帝启用贤臣，像尧用夔和皋陶一样。大赦的文书一天传遍万里，连判死刑的罪人也能免死，被贬官的被召回，被流放的被放还，洗去污点，朝廷百官焕然一新。州官申报了我们的名字，却被观察使压了下来，命运坎坷，只得到荆蛮之地的江陵做个小官。判司这样的卑小官职，苦处说也说不完，难免要在尘土中挨鞭子受刑。同时被贬的人大多已动身回京，回京的路幽暗艰险，我们难以追上。你的歌先停一停，听我唱一支，我的歌和你的完全不一样。一年的明月，属今夜的最圆最美，人生的际遇由命运安排，不由别的什么。有酒不喝，怎么对得起这轮明月呢。",
+  "appreciation": "中秋月夜，两位被贬的诗人对月饮酒。张署的歌写尽南贬的九死一生、赦还时的层层阻隔，唱得韩愈泪落如雨；韩愈的和歌却故意把愁绪收住，只说“一年明月今宵多”。表面旷达，心里全是委屈。月圆人不得圆，一首诗里有两种哭法：一哭出来，一咽下去，这正是它动人的地方。",
+  "background": "贞元十九年，韩愈和张署同被贬往南方。贞元二十一年顺宗即位，大赦天下，两人本可回京，却被观察使压下，只改派到江陵做小官。八月十五中秋夜，两人同在郴州等候调令，月下对饮，韩愈写下这首诗赠给张署。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "月夜举杯",
+      "text": "中秋之夜，云散风清，两位贬官举杯对饮，请歌当酒。"
+    },
+    {
+      "step": 2,
+      "title": "悲歌诉贬",
+      "text": "张署唱出南贬的九死一生、毒蛇湿气，歌声酸苦。"
+    },
+    {
+      "step": 3,
+      "title": "赦书受阻",
+      "text": "大赦文书传万里，他们的名字却被观察使压下。"
+    },
+    {
+      "step": 4,
+      "title": "对月自宽",
+      "text": "韩愈接过歌，只说今夜月色最好，人生由命不由人。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "属",
+      "reading": "zhǔ",
+      "reason": "“相属”是互相劝酒的意思，读 zhǔ。",
+      "standard": "不要读成 shǔ"
+    },
+    {
+      "char": "鼯",
+      "reading": "wú",
+      "reason": "“猩鼯号”的“鼯”指鼯鼠，读 wú。",
+      "standard": "生僻字，不要读成 wǔ"
+    },
+    {
+      "char": "辟",
+      "reading": "pì",
+      "reason": "“大辟”指死刑，读 pì。",
+      "standard": "不要读成 bì"
+    }
+  ],
+  "sources": [
+    "《全唐诗》",
+    "《唐诗三百首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26",
+  "no": 1224
+}

@@ -1,0 +1,170 @@
+{
+  "id": "songci-nansong-yeshaoweng-yeshusuojian",
+  "slug": "yeshusuojian",
+  "title": "夜书所见",
+  "titlePinyin": "yè shū suǒ jiàn",
+  "dynasty": "songci",
+  "era": "nansong",
+  "genre": "shi",
+  "form": "七言绝句",
+  "authorId": "yeshaoweng",
+  "gradeBand": "g3-4",
+  "textbook": "部编版语文三年级上册",
+  "tags": [
+    "秋天",
+    "思乡",
+    "儿童生活",
+    "七言绝句"
+  ],
+  "difficulty": 2,
+  "writtenYear": 1192,
+  "writtenLabel": "创作年份不详（约南宋中期）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "知有儿童挑促织，夜深篱落一灯明。"
+  ],
+  "lines": [
+    {
+      "text": "萧萧梧叶送寒声，",
+      "pinyin": [
+        "xiāo",
+        "xiāo",
+        "wú",
+        "yè",
+        "sòng",
+        "hán",
+        "shēng"
+      ],
+      "translation": "秋风吹动梧桐叶，发出萧萧的声音，送来阵阵寒意，",
+      "noteIds": [
+        "n-xiaoxiao",
+        "n-wuye"
+      ]
+    },
+    {
+      "text": "江上秋风动客情。",
+      "pinyin": [
+        "jiāng",
+        "shàng",
+        "qiū",
+        "fēng",
+        "dòng",
+        "kè",
+        "qíng"
+      ],
+      "translation": "江上的秋风，吹动了漂泊在外的人的思乡之情。",
+      "noteIds": [
+        "n-ke"
+      ]
+    },
+    {
+      "text": "知有儿童挑促织，",
+      "pinyin": [
+        "zhī",
+        "yǒu",
+        "ér",
+        "tóng",
+        "tiǎo",
+        "cù",
+        "zhī"
+      ],
+      "translation": "猜想是孩子们在捉蟋蟀，",
+      "noteIds": [
+        "n-tiaocuzhi"
+      ]
+    },
+    {
+      "text": "夜深篱落一灯明。",
+      "pinyin": [
+        "yè",
+        "shēn",
+        "lí",
+        "luò",
+        "yī",
+        "dēng",
+        "míng"
+      ],
+      "translation": "夜深了，篱笆边还亮着一盏小小的灯。",
+      "noteIds": [
+        "n-liluo"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-xiaoxiao",
+      "word": "萧萧",
+      "pinyin": "xiāo xiāo",
+      "meaning": "风声或树叶被风吹动的声音。"
+    },
+    {
+      "id": "n-wuye",
+      "word": "梧叶",
+      "pinyin": "wú yè",
+      "meaning": "梧桐树的叶子。秋天梧桐叶落，常让人感到寒意。"
+    },
+    {
+      "id": "n-ke",
+      "word": "客",
+      "pinyin": "kè",
+      "meaning": "漂泊在外的人，这里指诗人自己。"
+    },
+    {
+      "id": "n-tiaocuzhi",
+      "word": "挑促织",
+      "pinyin": "tiǎo cù zhī",
+      "meaning": "“挑”是用细树枝轻轻拨动；“促织”就是蟋蟀。孩子提着灯到篱笆边捉蟋蟀。"
+    },
+    {
+      "id": "n-liluo",
+      "word": "篱落",
+      "pinyin": "lí luò",
+      "meaning": "篱笆，用竹子或树枝围起来的墙。"
+    }
+  ],
+  "translation": "萧萧的秋风吹落梧桐叶，送来阵阵寒意；江上的秋风，勾起了游子的思乡之情。忽然看见篱笆边亮着一盏灯——知道一定是孩子们在捉蟋蟀呢，夜都深了还不肯睡。",
+  "appreciation": "这首诗妙在“冷”和“暖”的对比。前两句写深秋的寒：风吹叶落，寒声阵阵，漂泊的人心里更凉了。后两句忽然一暖：篱笆边一盏小灯，灯下是捉蟋蟀的孩子。孩子在别处是别人家的热闹，在诗人眼里却像极了童年的自己——想家的滋味，一下子变得具体又柔软。一盏灯，让整首诗从“寒”变成了“暖”。",
+  "background": "叶绍翁常年客居他乡。一个深秋的夜晚，他在江边听见风吹梧桐叶的萧萧声，寒意和思念一起涌上心头。抬头看见不远处篱笆下一盏灯火，猜想是孩子们趁夜捉蟋蟀，便把这一幕写了下来。标题“夜书所见”，意思就是“夜里把看见的景象写成诗”。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "秋风吹叶",
+      "text": "深夜的江边，梧桐叶被风吹得萧萧作响，一阵阵寒意扑面而来。"
+    },
+    {
+      "step": 2,
+      "title": "秋风勾起乡愁",
+      "text": "诗人独自在外，秋风一吹，心里又凉又想家。"
+    },
+    {
+      "step": 3,
+      "title": "篱边一点灯光",
+      "text": "忽然，篱笆边亮起一盏小灯，在黑夜里格外显眼。"
+    },
+    {
+      "step": 4,
+      "title": "孩子在捉蟋蟀",
+      "text": "诗人猜到：是孩子们提着灯在捉蟋蟀呢！这热闹让他想起了自己的童年和家乡。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "挑",
+      "reading": "tiǎo",
+      "reason": "“挑促织”指用细枝拨动、逗引蟋蟀，是挑动的意思。",
+      "standard": "不读 tiāo（挑水的挑）"
+    },
+    {
+      "char": "促织",
+      "reading": "cù zhī",
+      "reason": "“促织”是蟋蟀的别名，因秋夜鸣叫催人纺织而得名。",
+      "standard": "口语里通常直接叫蟋蟀"
+    }
+  ],
+  "sources": [
+    "部编版语文三年级上册",
+    "《靖逸小集》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26"
+}

@@ -1,0 +1,164 @@
+{
+  "id": "songci-nansong-zhuxi-guanshuyougan-qier",
+  "slug": "guanshuyougan-qier",
+  "title": "观书有感（其二）",
+  "titlePinyin": "guān shū yǒu gǎn（qí èr）",
+  "dynasty": "songci",
+  "era": "nansong",
+  "genre": "shi",
+  "form": "七言绝句",
+  "authorId": "zhuxi",
+  "gradeBand": "g5-6",
+  "textbook": "部编版语文五年级上册",
+  "tags": [
+    "读书",
+    "说理",
+    "比喻",
+    "七言绝句"
+  ],
+  "difficulty": 3,
+  "writtenYear": 1167,
+  "writtenLabel": "约公元 1167 年（朱熹读书时偶有所感）",
+  "orderInAuthor": 2,
+  "famousLines": [
+    "向来枉费推移力，此日中流自在行。"
+  ],
+  "lines": [
+    {
+      "text": "昨夜江边春水生，",
+      "pinyin": [
+        "zuó",
+        "yè",
+        "jiāng",
+        "biān",
+        "chūn",
+        "shuǐ",
+        "shēng"
+      ],
+      "translation": "昨天夜里江边的春水暴涨，",
+      "noteIds": [
+        "n-chunshui"
+      ]
+    },
+    {
+      "text": "艨艟巨舰一毛轻。",
+      "pinyin": [
+        "méng",
+        "chōng",
+        "jù",
+        "jiàn",
+        "yī",
+        "máo",
+        "qīng"
+      ],
+      "translation": "大船像一根羽毛那样轻巧。",
+      "noteIds": [
+        "n-mengchong",
+        "n-yimao"
+      ]
+    },
+    {
+      "text": "向来枉费推移力，",
+      "pinyin": [
+        "xiàng",
+        "lái",
+        "wǎng",
+        "fèi",
+        "tuī",
+        "yí",
+        "lì"
+      ],
+      "translation": "从前水浅时，人们白白花费力气推它拉它，",
+      "noteIds": [
+        "n-wangfei"
+      ]
+    },
+    {
+      "text": "此日中流自在行。",
+      "pinyin": [
+        "cǐ",
+        "rì",
+        "zhōng",
+        "liú",
+        "zì",
+        "zài",
+        "xíng"
+      ],
+      "translation": "如今江水满涨，大船在江心自在地航行。",
+      "noteIds": [
+        "n-zhongliu"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-chunshui",
+      "word": "春水生",
+      "pinyin": "chūn shuǐ shēng",
+      "meaning": "春天江水上涨。“生”是涨起来的意思。"
+    },
+    {
+      "id": "n-mengchong",
+      "word": "艨艟",
+      "pinyin": "méng chōng",
+      "meaning": "古代一种又高又大的战船，这里泛指大船。"
+    },
+    {
+      "id": "n-yimao",
+      "word": "一毛轻",
+      "pinyin": "yī máo qīng",
+      "meaning": "像一根羽毛一样轻。"
+    },
+    {
+      "id": "n-wangfei",
+      "word": "枉费",
+      "pinyin": "wǎng fèi",
+      "meaning": "白白地浪费。"
+    },
+    {
+      "id": "n-zhongliu",
+      "word": "中流",
+      "pinyin": "zhōng liú",
+      "meaning": "河流的中央。"
+    }
+  ],
+  "translation": "昨天夜里，江边的春水猛涨起来；今天大船像羽毛一样轻快。从前水浅的时候，人们费尽力气也推不动它；如今春水满江，大船在江心自在航行。",
+  "appreciation": "朱熹表面写船，其实在讲读书的道理。前一首都用“方塘”作比，这首换成大船：水浅时怎么推都推不动，春水一涨，巨舰轻如羽毛、自在航行——“水”就是学问的积累。功夫没到时，硬啃书本又累又慢；积累到了一定境界，理解问题就轻松自如。这告诉我们：学习没有捷径，先把“水”蓄够，船自然走得又快又稳。",
+  "background": "朱熹是南宋著名思想家、教育家，一生酷爱读书，也最会教人读书。他写《观书有感》两首，借景物讲读书心得。这首写于春江水涨之时：他看到大船因水位上涨而轻快前行，联想到读书积累的道理，便有了这首“借船说书”的哲理诗。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "昨夜春水涨",
+      "text": "夜里一场春汛，江水猛涨，水位高了许多。"
+    },
+    {
+      "step": 2,
+      "title": "巨舰轻如毛",
+      "text": "昨天还笨重的大船，今天浮得高高的，像羽毛一样轻巧。"
+    },
+    {
+      "step": 3,
+      "title": "想起从前推船",
+      "text": "水浅时，人们又推又拉，累得满头大汗，船还是不动。"
+    },
+    {
+      "step": 4,
+      "title": "水满船自快",
+      "text": "如今江水充足，船在江心自在航行——读书也一样：积累够了，自然学得轻松。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "艨艟",
+      "reading": "méng chōng",
+      "reason": "古代大战船的名字，两个都是生僻字。",
+      "standard": "船字旁（舟）相关字多与船有关"
+    }
+  ],
+  "sources": [
+    "部编版语文五年级上册",
+    "《朱熹集》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26"
+}

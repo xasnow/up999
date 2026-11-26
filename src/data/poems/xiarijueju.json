@@ -9,7 +9,7 @@
   "form": "五言绝句",
   "authorId": "liqingzhao",
   "gradeBand": "ext",
-  "textbook": "课外拓展篇目",
+  "textbook": "部编版语文四年级上册",
   "tags": [
     "气节",
     "英雄",
@@ -144,7 +144,7 @@
     "《宋诗选》"
   ],
   "status": "published",
-  "updatedAt": "2026-11-24",
+  "updatedAt": "2026-11-26",
   "images": {
     "cover": {
       "src": "/assets/img/poems/xiarijueju-cover.jpg",

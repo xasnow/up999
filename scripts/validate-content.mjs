@@ -141,7 +141,7 @@ for (const { file, data: p } of poemFiles) {
         err(file, `status=published 缺少 ${key}`);
       }
     }
-    if (IMAGES_ENABLED && !p.images?.cover) err(file, 'status=published 缺少 images.cover');
+    // 封面按首可选：新增作品可暂不配图，保留后续补图能力；有 cover 时由规则 8 校验字段与文件
   }
 
   // 规则 7：writtenYear / orderInAuthor 为数字且同作者不重复

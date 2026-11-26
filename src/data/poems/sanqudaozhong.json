@@ -1,0 +1,163 @@
+{
+  "id": "songci-nansong-zengji-sanqudaozhong",
+  "slug": "sanqudaozhong",
+  "title": "三衢道中",
+  "titlePinyin": "sān qú dào zhōng",
+  "dynasty": "songci",
+  "era": "nansong",
+  "genre": "shi",
+  "form": "七言绝句",
+  "authorId": "zengji",
+  "gradeBand": "g3-4",
+  "textbook": "部编版语文三年级下册",
+  "tags": [
+    "初夏",
+    "旅行",
+    "黄鹂",
+    "七言绝句"
+  ],
+  "difficulty": 2,
+  "writtenYear": 1160,
+  "writtenLabel": "约公元 1160 年（曾几晚年游三衢山时）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "绿阴不减来时路，添得黄鹂四五声。"
+  ],
+  "lines": [
+    {
+      "text": "梅子黄时日日晴，",
+      "pinyin": [
+        "méi",
+        "zǐ",
+        "huáng",
+        "shí",
+        "rì",
+        "rì",
+        "qíng"
+      ],
+      "translation": "梅子成熟的季节，天天都是大晴天，",
+      "noteIds": [
+        "n-meizi"
+      ]
+    },
+    {
+      "text": "小溪泛尽却山行。",
+      "pinyin": [
+        "xiǎo",
+        "xī",
+        "fàn",
+        "jìn",
+        "què",
+        "shān",
+        "xíng"
+      ],
+      "translation": "乘小船到小溪的尽头，再改走山路。",
+      "noteIds": [
+        "n-fanjin"
+      ]
+    },
+    {
+      "text": "绿阴不减来时路，",
+      "pinyin": [
+        "lǜ",
+        "yīn",
+        "bù",
+        "jiǎn",
+        "lái",
+        "shí",
+        "lù"
+      ],
+      "translation": "山路两旁绿树成荫，不比来时的路上少，",
+      "noteIds": [
+        "n-lvyin"
+      ]
+    },
+    {
+      "text": "添得黄鹂四五声。",
+      "pinyin": [
+        "tiān",
+        "dé",
+        "huáng",
+        "lí",
+        "sì",
+        "wǔ",
+        "shēng"
+      ],
+      "translation": "还多了几声黄鹂清脆的鸣叫。",
+      "noteIds": [
+        "n-huangli"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-meizi",
+      "word": "梅子黄时",
+      "pinyin": "méi zǐ huáng shí",
+      "meaning": "五六月间梅子成熟的时节，江南这时常阴雨绵绵，俗称“梅雨”。"
+    },
+    {
+      "id": "n-fanjin",
+      "word": "泛尽",
+      "pinyin": "fàn jìn",
+      "meaning": "泛指乘船，“泛尽”就是坐船到了小溪的尽头。"
+    },
+    {
+      "id": "n-lvyin",
+      "word": "绿阴",
+      "pinyin": "lǜ yīn",
+      "meaning": "绿色的树荫，“阴”同“荫”。"
+    },
+    {
+      "id": "n-huangli",
+      "word": "黄鹂",
+      "pinyin": "huáng lí",
+      "meaning": "黄莺，一种叫声清脆好听的鸟。"
+    }
+  ],
+  "translation": "梅子黄熟的时节，难得天天放晴；我乘小船到溪水尽头，又改走山路继续前行。山路两边绿树成荫，一点儿不比来时逊色，还添了几声黄鹂清脆的歌唱。",
+  "appreciation": "这是一首“开心日记”式的小诗。第一句先报喜：梅雨季节竟天天放晴——光是这句，古人就能读出满满的幸运感。接着写行程：坐船、走路，轻轻松松。后两句是全诗最妙的地方：回去的路不但绿荫不减，还多了黄鹂的歌声——一个“添”字，把旅行的快乐越写越多。整首诗没有一个“喜”字，快乐却从字缝里往外冒。",
+  "background": "曾几晚年游历浙江衢州的三衢山。去时和回来走的是同一条路，但他在返程时发现了新的惊喜：天气晴好、绿荫更浓、黄鹂啼鸣。于是他把这段愉快的旅程写成《三衢道中》，题目意思就是“在三衢山路上的所见所感”。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "难得的好天气",
+      "text": "梅子黄时本该阴雨连绵，今年却天天放晴，出游的心情一下就亮了。"
+    },
+    {
+      "step": 2,
+      "title": "坐船再走山路",
+      "text": "小船慢悠悠划到小溪尽头，诗人跳上岸，改走山路继续游玩。"
+    },
+    {
+      "step": 3,
+      "title": "绿荫一路相送",
+      "text": "山路两旁绿树成荫，凉快又好看，一点也不比来时的路差。"
+    },
+    {
+      "step": 4,
+      "title": "黄鹂来伴奏",
+      "text": "忽然传来四五声黄鹂的清唱——这份意外的歌声，让旅途更快乐了。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "泛",
+      "reading": "fàn",
+      "reason": "“泛尽”的“泛”指乘船漂浮而行。",
+      "standard": "不读 fá，注意与“贬”区分"
+    },
+    {
+      "char": "却",
+      "reading": "què",
+      "reason": "诗中“却山行”的“却”是“再、又”的意思。",
+      "standard": "不是转折词“但是”"
+    }
+  ],
+  "sources": [
+    "部编版语文三年级下册",
+    "《茶山集》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26"
+}

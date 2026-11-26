@@ -9,7 +9,7 @@
   "form": "七言绝句",
   "authorId": "wanghan",
   "gradeBand": "ext",
-  "textbook": "课外拓展篇目",
+  "textbook": "部编版语文四年级上册",
   "tags": [
     "边塞",
     "将士",
@@ -145,7 +145,7 @@
     "《唐诗鉴赏辞典》"
   ],
   "status": "published",
-  "updatedAt": "2026-11-24",
+  "updatedAt": "2026-11-26",
   "images": {
     "cover": {
       "src": "/assets/img/poems/liangzhouci-putao-cover.jpg",

@@ -9,7 +9,7 @@
   "form": "五言绝句",
   "authorId": "liqiao",
   "gradeBand": "g1-2",
-  "textbook": "课外经典诵读篇目",
+  "textbook": "部编版语文一年级上册",
   "tags": [
     "咏物",
     "风",
@@ -129,7 +129,7 @@
     "《唐诗鉴赏辞典》"
   ],
   "status": "published",
-  "updatedAt": "2026-11-24",
+  "updatedAt": "2026-11-26",
   "images": {
     "cover": {
       "src": "/assets/img/poems/feng-cover.jpg",

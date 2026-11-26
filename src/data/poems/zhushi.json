@@ -9,7 +9,7 @@
   "form": "七言绝句",
   "authorId": "zhengxie",
   "gradeBand": "g3-4",
-  "textbook": "部编版六年级下册",
+  "textbook": "部编版语文六年级下册",
   "tags": [
     "咏物",
     "坚强",
@@ -145,7 +145,7 @@
     "《郑板桥集》"
   ],
   "status": "published",
-  "updatedAt": "2026-11-24",
+  "updatedAt": "2026-11-26",
   "images": {
     "cover": {
       "src": "/assets/img/poems/zhushi-cover.jpg",

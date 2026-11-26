@@ -150,7 +150,7 @@
     "《云溪友议》"
   ],
   "status": "published",
-  "updatedAt": "2026-11-24",
+  "updatedAt": "2026-11-26",
   "images": {
     "cover": {
       "src": "/assets/img/poems/minnong-qiyi-cover.jpg",
@@ -160,5 +160,6 @@
       "credit": "AI 辅助生成 · up999.cn",
       "aiGenerated": true
     }
-  }
+  },
+  "textbook": "部编版语文二年级下册"
 }

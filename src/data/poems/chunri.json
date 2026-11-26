@@ -1,0 +1,141 @@
+{
+  "id": "songci-nansong-zhuxi-chunri",
+  "slug": "chunri",
+  "title": "春日",
+  "titlePinyin": "chūn rì",
+  "dynasty": "songci",
+  "era": "nansong",
+  "genre": "shi",
+  "form": "七言绝句",
+  "authorId": "zhuxi",
+  "gradeBand": "g5-6",
+  "textbook": "部编版语文六年级上册",
+  "tags": [
+    "春天",
+    "说理",
+    "万紫千红",
+    "七言绝句"
+  ],
+  "difficulty": 2,
+  "writtenYear": 1167,
+  "writtenLabel": "约公元 1167 年（朱熹治学之余游春有感）",
+  "orderInAuthor": 3,
+  "famousLines": [
+    "等闲识得东风面，万紫千红总是春。"
+  ],
+  "lines": [
+    {
+      "text": "胜日寻芳泗水滨，",
+      "pinyin": [
+        "shèng",
+        "rì",
+        "xún",
+        "fāng",
+        "sì",
+        "shuǐ",
+        "bīn"
+      ],
+      "translation": "风和日丽的好日子，到泗水边赏花寻春，",
+      "noteIds": [
+        "n-shengri",
+        "n-sishui"
+      ]
+    },
+    {
+      "text": "无边光景一时新。",
+      "pinyin": [
+        "wú",
+        "biān",
+        "guāng",
+        "jǐng",
+        "yī",
+        "shí",
+        "xīn"
+      ],
+      "translation": "无边无际的风光一下子焕然一新。",
+      "noteIds": []
+    },
+    {
+      "text": "等闲识得东风面，",
+      "pinyin": [
+        "děng",
+        "xián",
+        "shí",
+        "dé",
+        "dōng",
+        "fēng",
+        "miàn"
+      ],
+      "translation": "随随便便就能认出东风的面孔，",
+      "noteIds": [
+        "n-dengxian"
+      ]
+    },
+    {
+      "text": "万紫千红总是春。",
+      "pinyin": [
+        "wàn",
+        "zǐ",
+        "qiān",
+        "hóng",
+        "zǒng",
+        "shì",
+        "chūn"
+      ],
+      "translation": "万紫千红的景象，处处都是春的杰作。",
+      "noteIds": []
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-shengri",
+      "word": "胜日",
+      "pinyin": "shèng rì",
+      "meaning": "风和日丽的好天气。"
+    },
+    {
+      "id": "n-sishui",
+      "word": "泗水",
+      "pinyin": "sì shuǐ",
+      "meaning": "河流名，在今山东省。孔子曾在此讲学，这里暗指圣人之道。"
+    },
+    {
+      "id": "n-dengxian",
+      "word": "等闲",
+      "pinyin": "děng xián",
+      "meaning": "轻易、随随便便。"
+    }
+  ],
+  "translation": "风和日丽的好日子，我到泗水边去踏青寻花；无边无际的春光，转眼间焕然一新。谁都能轻易认出东风的模样——眼前万紫千红的花朵，处处都是春天的杰作。",
+  "appreciation": "表面看，这是一首欢快的踏青诗：好天气、寻芳草、百花争艳。但藏着一个秘密：诗中的泗水在山东，当时已被金人占领，朱熹根本去不了！原来“泗水”暗指孔子讲学之地，“寻芳”是追寻圣人之道，“东风”是教化的春风，“万紫千红”是学问让人焕然一新。读诗有两层：第一层看春色，第二层悟道理——只要肯学习，人人都能“等闲识得东风面”，看见万紫千红的新天地。",
+  "background": "朱熹是南宋大思想家，一生追求学问之道。北宋末年北方沦陷后，泗水一带已在金国境内。朱熹写这首诗时，借“泗水寻芳”表达自己追随圣贤之道、探索学问的心愿。诗题“春日”，写的是春天，说的是治学，一语双关。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "好日踏春",
+      "text": "风和日丽的日子，诗人来到“泗水”边，兴致勃勃地寻花问柳。"
+    },
+    {
+      "step": 2,
+      "title": "眼前焕然一新",
+      "text": "放眼望去，天地间无边无际的景色，一夜之间全换了新装。"
+    },
+    {
+      "step": 3,
+      "title": "认出春风的面孔",
+      "text": "春风吹过，人人都认得它的样子——它就藏在每一朵盛开的花里。"
+    },
+    {
+      "step": 4,
+      "title": "万紫千红总是春",
+      "text": "紫的、红的，千花万朵，全是春风点染而成——学问滋养的人，也像春天一样焕然一新。"
+    }
+  ],
+  "pinyinNotes": [],
+  "sources": [
+    "部编版语文六年级上册",
+    "《朱熹集》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26"
+}

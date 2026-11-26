@@ -9,7 +9,7 @@
   "form": "五言古诗",
   "authorId": "lishen",
   "gradeBand": "g1-2",
-  "textbook": "部编版二年级上册",
+  "textbook": "部编版语文一年级上册",
   "tags": [
     "农民",
     "劳动",
@@ -136,7 +136,7 @@
     "《全唐诗》李绅卷"
   ],
   "status": "published",
-  "updatedAt": "2026-11-24",
+  "updatedAt": "2026-11-26",
   "images": {
     "cover": {
       "src": "/assets/img/poems/minnong-qier-story.jpg",

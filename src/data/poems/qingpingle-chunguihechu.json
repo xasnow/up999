@@ -1,0 +1,230 @@
+{
+  "id": "songci-beisong-huangtingjian-qingpingle-chunguihechu",
+  "slug": "qingpingle-chunguihechu",
+  "title": "清平乐·春归何处",
+  "titlePinyin": "qīng píng yuè · chūn guī hé chù",
+  "dynasty": "songci",
+  "era": "beisong",
+  "genre": "ci",
+  "form": "词·清平乐",
+  "authorId": "huangtingjian",
+  "gradeBand": "g5-6",
+  "textbook": "部编版语文六年级下册",
+  "tags": [
+    "春天",
+    "惜春",
+    "黄鹂",
+    "词"
+  ],
+  "difficulty": 3,
+  "writtenYear": 1103,
+  "writtenLabel": "约公元 1103 年（黄庭坚贬官途中）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "百啭无人能解，因风飞过蔷薇。"
+  ],
+  "lines": [
+    {
+      "text": "春归何处？",
+      "pinyin": [
+        "chūn",
+        "guī",
+        "hé",
+        "chù"
+      ],
+      "translation": "春天回到了哪里？",
+      "noteIds": []
+    },
+    {
+      "text": "寂寞无行路。",
+      "pinyin": [
+        "jì",
+        "mò",
+        "wú",
+        "xíng",
+        "lù"
+      ],
+      "translation": "四处寂静，找不到它走过的路。",
+      "noteIds": [
+        "n-xinglu"
+      ]
+    },
+    {
+      "text": "若有人知春去处，",
+      "pinyin": [
+        "ruò",
+        "yǒu",
+        "rén",
+        "zhī",
+        "chūn",
+        "qù",
+        "chù"
+      ],
+      "translation": "如果有人知道春天的去处，",
+      "noteIds": []
+    },
+    {
+      "text": "唤取归来同住。",
+      "pinyin": [
+        "huàn",
+        "qǔ",
+        "guī",
+        "lái",
+        "tóng",
+        "zhù"
+      ],
+      "translation": "请把它唤回来，与我同住。",
+      "noteIds": [
+        "n-huanqu"
+      ]
+    },
+    {
+      "text": "春无踪迹谁知？",
+      "pinyin": [
+        "chūn",
+        "wú",
+        "zōng",
+        "jì",
+        "shéi",
+        "zhī"
+      ],
+      "translation": "春天没有留下踪迹，谁知道它去了哪里？",
+      "noteIds": [
+        "n-zongji"
+      ]
+    },
+    {
+      "text": "除非问取黄鹂。",
+      "pinyin": [
+        "chú",
+        "fēi",
+        "wèn",
+        "qǔ",
+        "huáng",
+        "lí"
+      ],
+      "translation": "除非去问问黄鹂鸟。",
+      "noteIds": [
+        "n-wenqu"
+      ]
+    },
+    {
+      "text": "百啭无人能解，",
+      "pinyin": [
+        "bǎi",
+        "zhuàn",
+        "wú",
+        "rén",
+        "néng",
+        "jiě"
+      ],
+      "translation": "黄鹂婉转啼叫，可谁听得懂它在说什么？",
+      "noteIds": [
+        "n-baizhuan"
+      ]
+    },
+    {
+      "text": "因风飞过蔷薇。",
+      "pinyin": [
+        "yīn",
+        "fēng",
+        "fēi",
+        "guò",
+        "qiáng",
+        "wēi"
+      ],
+      "translation": "它乘着风，飞过了盛开的蔷薇。",
+      "noteIds": [
+        "n-yinfeng"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-xinglu",
+      "word": "行路",
+      "pinyin": "xíng lù",
+      "meaning": "走过的路径，这里指春天离去留下的踪迹。"
+    },
+    {
+      "id": "n-huanqu",
+      "word": "唤取",
+      "pinyin": "huàn qǔ",
+      "meaning": "唤来、叫回。“取”是助词，没有实义。"
+    },
+    {
+      "id": "n-zongji",
+      "word": "踪迹",
+      "pinyin": "zōng jì",
+      "meaning": "留下的脚印、痕迹。"
+    },
+    {
+      "id": "n-wenqu",
+      "word": "问取",
+      "pinyin": "wèn qǔ",
+      "meaning": "询问。“取”同样是助词。"
+    },
+    {
+      "id": "n-baizhuan",
+      "word": "百啭",
+      "pinyin": "bǎi zhuàn",
+      "meaning": "形容鸟鸣声婉转多样。“啭”是鸟婉转地叫。"
+    },
+    {
+      "id": "n-yinfeng",
+      "word": "因风",
+      "pinyin": "yīn fēng",
+      "meaning": "借着风势。“因”是凭借的意思。"
+    }
+  ],
+  "translation": "春天回到哪里去了？四下里静悄悄，找不到它走过的路。要是有人知道春天去了哪儿，请把它唤回来与我同住。春天不留踪迹，谁知道它去了哪儿？除非去问问黄鹂。可黄鹂婉转啼叫了一百声，也没人听得懂它在说什么；它乘着风，飞过了盛开的蔷薇。",
+  "appreciation": "这是一场天真又深情的“寻春问案”：春天失踪了，诗人像孩子一样认真——有人知道它去哪儿吗？快把它叫回来和我一起住！查不到线索怎么办？“除非问取黄鹂”——鸟儿和春天最熟呀。可黄鹂叫了百啭，无人能懂，最后拍拍翅膀飞过蔷薇，扬长而去。全词把抽象的“春天”写成了一位可以寻找、可以对话的朋友，惜春之情写得妙趣横生。结尾“飞过蔷薇”还藏着一个秘密：蔷薇开花已是初夏——原来春天真的走了。",
+  "background": "黄庭坚晚年接连被贬，仕途坎坷。春末夏初，他眼看春天匆匆离去，心中既有惜春之情，也暗含身世之叹——春天就像他向往的美好像事，留也留不住。于是他写下这首《清平乐》，用孩子般天真的追问，把惜春写出了别样的趣味。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "春天不见了",
+      "text": "春末时节，诗人发现春天不见了，忍不住问：它回哪里去了？"
+    },
+    {
+      "step": 2,
+      "title": "四处寻找无果",
+      "text": "他找来找去，四周静悄悄的，连春天走过的路都找不到。"
+    },
+    {
+      "step": 3,
+      "title": "想唤春同住",
+      "text": "他许下一个心愿：谁要是知道春的下落，请把它叫回来，我们同住！"
+    },
+    {
+      "step": 4,
+      "title": "去问黄鹂",
+      "text": "没了线索，只好去问黄鹂——它和春天最熟，一定知道春的去处。"
+    },
+    {
+      "step": 5,
+      "title": "鸟语不解飞过蔷薇",
+      "text": "黄鹂百啭千声，无人能懂；它乘着风飞过蔷薇——蔷薇开花，夏天已经来了。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "啭",
+      "reading": "zhuàn",
+      "reason": "形容鸟儿婉转鸣叫，生僻字。",
+      "standard": "口字旁，与鸟鸣有关"
+    },
+    {
+      "char": "乐",
+      "reading": "yuè",
+      "reason": "词牌名“清平乐”的“乐”读 yuè。",
+      "standard": "不读 lè"
+    }
+  ],
+  "sources": [
+    "部编版语文六年级下册",
+    "《山谷词》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26"
+}

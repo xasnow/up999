@@ -9,7 +9,7 @@
   "form": "七言绝句",
   "authorId": "liuyuxi",
   "gradeBand": "g3-4",
-  "textbook": "部编版四年级下册",
+  "textbook": "部编版语文六年级上册",
   "tags": [
     "黄河",
     "想象",
@@ -158,7 +158,7 @@
     "《刘禹锡集》"
   ],
   "status": "published",
-  "updatedAt": "2026-11-24",
+  "updatedAt": "2026-11-26",
   "images": {
     "cover": {
       "src": "/assets/img/poems/langtaosha-cover.jpg",

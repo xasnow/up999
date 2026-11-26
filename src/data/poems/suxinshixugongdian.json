@@ -1,0 +1,156 @@
+{
+  "id": "songci-nansong-yangwanli-suxinshixugongdian",
+  "slug": "suxinshixugongdian",
+  "title": "宿新市徐公店",
+  "titlePinyin": "sù xīn shì xú gōng diàn",
+  "dynasty": "songci",
+  "era": "nansong",
+  "genre": "shi",
+  "form": "七言绝句",
+  "authorId": "yangwanli",
+  "gradeBand": "g3-4",
+  "textbook": "部编版语文四年级下册",
+  "tags": [
+    "春天",
+    "儿童生活",
+    "田园",
+    "七言绝句"
+  ],
+  "difficulty": 2,
+  "writtenYear": 1179,
+  "writtenLabel": "约公元 1179 年（杨万里旅途中夜宿新市）",
+  "orderInAuthor": 3,
+  "famousLines": [
+    "儿童急走追黄蝶，飞入菜花无处寻。"
+  ],
+  "lines": [
+    {
+      "text": "篱落疏疏一径深，",
+      "pinyin": [
+        "lí",
+        "luò",
+        "shū",
+        "shū",
+        "yī",
+        "jìng",
+        "shēn"
+      ],
+      "translation": "篱笆稀稀落落，一条小路伸向远处，",
+      "noteIds": [
+        "n-shushu",
+        "n-jing"
+      ]
+    },
+    {
+      "text": "树头新绿未成阴。",
+      "pinyin": [
+        "shù",
+        "tóu",
+        "xīn",
+        "lǜ",
+        "wèi",
+        "chéng",
+        "yīn"
+      ],
+      "translation": "树枝上新长出的嫩叶，还没有形成树荫。",
+      "noteIds": [
+        "n-yin"
+      ]
+    },
+    {
+      "text": "儿童急走追黄蝶，",
+      "pinyin": [
+        "ér",
+        "tóng",
+        "jí",
+        "zǒu",
+        "zhuī",
+        "huáng",
+        "dié"
+      ],
+      "translation": "孩子飞快地奔跑着，追赶黄色的蝴蝶，",
+      "noteIds": [
+        "n-jizou"
+      ]
+    },
+    {
+      "text": "飞入菜花无处寻。",
+      "pinyin": [
+        "fēi",
+        "rù",
+        "cài",
+        "huā",
+        "wú",
+        "chù",
+        "xún"
+      ],
+      "translation": "蝴蝶飞进金黄的菜花丛里，再也找不到了。",
+      "noteIds": []
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-shushu",
+      "word": "疏疏",
+      "pinyin": "shū shū",
+      "meaning": "稀稀疏疏、稀稀落落的样子。"
+    },
+    {
+      "id": "n-jing",
+      "word": "径",
+      "pinyin": "jìng",
+      "meaning": "小路。"
+    },
+    {
+      "id": "n-yin",
+      "word": "阴",
+      "pinyin": "yīn",
+      "meaning": "树荫。“未成阴”指嫩叶还小，遮不住阳光。"
+    },
+    {
+      "id": "n-jizou",
+      "word": "急走",
+      "pinyin": "jí zǒu",
+      "meaning": "快跑。“走”在古文里是“跑”的意思。"
+    }
+  ],
+  "translation": "稀疏的篱笆旁，一条小路伸向远方；枝头的新叶嫩嫩绿绿，还遮不成树荫。一个孩子飞快地跑着，去追一只黄蝴蝶——蝴蝶一头飞进金黄的菜花丛，孩子找来找去，再也找不到了。",
+  "appreciation": "这首诗是一幅会动的春天动画。前两句是安静的背景画：稀疏篱笆、幽深小路、嫩绿新叶，处处透着“春天刚来”的新鲜感。后两句画面突然动起来：孩子追蝶，蝶飞进菜花——“无处寻”是全诗的笑点：黄蝶落进黄花丛，颜色一模一样，孩子站在花田里干瞪眼。静与动、找不到的懊恼与扑面的春色，让这首诗成了写童趣的千古名篇。",
+  "background": "杨万里外出旅行，路过湖南攸县（一说浙江德清）一个叫新市的地方，晚上住在一位姓徐的人开的客店里。第二天清晨，他看到店外田园春色和追蝶的孩子，写下这首诗。“徐公店”就是姓徐的老人开的客店，“宿”是住宿的意思。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "篱笆小路",
+      "text": "客店外的菜园边，篱笆稀稀落落，一条小路伸向田野深处。"
+    },
+    {
+      "step": 2,
+      "title": "新叶初生",
+      "text": "树上刚冒出嫩绿的新叶，还小得很，连一点树荫都遮不住。"
+    },
+    {
+      "step": 3,
+      "title": "孩子追蝶",
+      "text": "一只黄蝴蝶飞过，孩子撒腿就追，跑得飞快。"
+    },
+    {
+      "step": 4,
+      "title": "蝶入花丛",
+      "text": "蝴蝶飞进金黄的菜花田，黄色落在黄色里——孩子站在花丛边，怎么也找不到它了。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "走",
+      "reading": "zǒu",
+      "reason": "古诗中“急走”的“走”是古义“跑”，不是“走路”。",
+      "standard": "与现代汉语“行走”义不同"
+    }
+  ],
+  "sources": [
+    "部编版语文四年级下册",
+    "《诚斋集》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26"
+}

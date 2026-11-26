@@ -9,7 +9,7 @@
   "form": "四言诗",
   "authorId": "shijing",
   "gradeBand": "g5-6",
-  "textbook": "部编版语文八年级下册（课外古诗词诵读）",
+  "textbook": "部编版语文六年级下册（古诗词诵读）",
   "tags": [
     "岁月",
     "杨柳",
@@ -132,7 +132,7 @@
     "程俊英《诗经译注》"
   ],
   "status": "published",
-  "updatedAt": "2026-11-24",
+  "updatedAt": "2026-11-26",
   "images": {
     "cover": {
       "src": "/assets/img/poems/caiwei-cover.jpg",

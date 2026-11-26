@@ -1,0 +1,218 @@
+{
+  "id": "tangshi-shengtang-wangwei-shanjuquming",
+  "slug": "shanjuquming",
+  "title": "山居秋暝",
+  "titlePinyin": "shān jū qiū míng",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "五言律诗",
+  "authorId": "wangwei",
+  "gradeBand": "g5-6",
+  "textbook": "部编版语文五年级上册",
+  "tags": [
+    "秋天",
+    "山水",
+    "隐居",
+    "五言律诗"
+  ],
+  "difficulty": 3,
+  "writtenYear": 751,
+  "writtenLabel": "约公元 751 年（王维隐居辋川时期）",
+  "orderInAuthor": 10,
+  "famousLines": [
+    "明月松间照，清泉石上流。"
+  ],
+  "lines": [
+    {
+      "text": "空山新雨后，",
+      "pinyin": [
+        "kōng",
+        "shān",
+        "xīn",
+        "yǔ",
+        "hòu"
+      ],
+      "translation": "空旷的山林刚下过一场新雨，",
+      "noteIds": [
+        "n-kongshan"
+      ]
+    },
+    {
+      "text": "天气晚来秋。",
+      "pinyin": [
+        "tiān",
+        "qì",
+        "wǎn",
+        "lái",
+        "qiū"
+      ],
+      "translation": "傍晚的天气带来了初秋的凉爽。",
+      "noteIds": []
+    },
+    {
+      "text": "明月松间照，",
+      "pinyin": [
+        "míng",
+        "yuè",
+        "sōng",
+        "jiān",
+        "zhào"
+      ],
+      "translation": "皎洁的月光透过松林洒落下来，",
+      "noteIds": []
+    },
+    {
+      "text": "清泉石上流。",
+      "pinyin": [
+        "qīng",
+        "quán",
+        "shí",
+        "shàng",
+        "liú"
+      ],
+      "translation": "清澈的泉水在山石上淙淙流淌。",
+      "noteIds": []
+    },
+    {
+      "text": "竹喧归浣女，",
+      "pinyin": [
+        "zhú",
+        "xuān",
+        "guī",
+        "huàn",
+        "nǚ"
+      ],
+      "translation": "竹林里传来欢声笑语，是洗衣归来的姑娘们，",
+      "noteIds": [
+        "n-xuan",
+        "n-huannv"
+      ]
+    },
+    {
+      "text": "莲动下渔舟。",
+      "pinyin": [
+        "lián",
+        "dòng",
+        "xià",
+        "yú",
+        "zhōu"
+      ],
+      "translation": "莲叶晃动，是渔船顺流而下。",
+      "noteIds": [
+        "n-xia"
+      ]
+    },
+    {
+      "text": "随意春芳歇，",
+      "pinyin": [
+        "suí",
+        "yì",
+        "chūn",
+        "fāng",
+        "xiē"
+      ],
+      "translation": "任凭春天的花草凋谢吧，",
+      "noteIds": [
+        "n-xie"
+      ]
+    },
+    {
+      "text": "王孙自可留。",
+      "pinyin": [
+        "wáng",
+        "sūn",
+        "zì",
+        "kě",
+        "liú"
+      ],
+      "translation": "诗人自己愿意永远留在这山里。",
+      "noteIds": [
+        "n-wangsun"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-kongshan",
+      "word": "空山",
+      "pinyin": "kōng shān",
+      "meaning": "空旷幽静的山林。山里有人有树，说“空”是形容安静开阔。"
+    },
+    {
+      "id": "n-xuan",
+      "word": "喧",
+      "pinyin": "xuān",
+      "meaning": "喧哗、说话笑闹的声音。"
+    },
+    {
+      "id": "n-huannv",
+      "word": "浣女",
+      "pinyin": "huàn nǚ",
+      "meaning": "在水边洗衣服的女子。“浣”就是洗。"
+    },
+    {
+      "id": "n-xia",
+      "word": "下",
+      "pinyin": "xià",
+      "meaning": "顺流而下，指渔船沿着水流往下游去。"
+    },
+    {
+      "id": "n-xie",
+      "word": "歇",
+      "pinyin": "xiē",
+      "meaning": "凋谢、消散。“春芳歇”指春天的花草枯萎凋零。"
+    },
+    {
+      "id": "n-wangsun",
+      "word": "王孙",
+      "pinyin": "wáng sūn",
+      "meaning": "贵族子弟的统称，这里诗人借来指自己。"
+    }
+  ],
+  "translation": "空旷的山林刚下过一场新雨，傍晚的凉意带来了秋天的气息。明月透过松林洒下清辉，清泉在山石上淙淙流淌。竹林里一阵欢笑声，是洗衣的姑娘们回来了；莲叶轻轻摇动，是渔船顺水而下。任凭春天的花草凋谢吧，秋天的山中这样美，我自然愿意留在这里。",
+  "appreciation": "这是王维“诗中有画”的代表作。画面一层层展开：雨后的空山是全景，月照松间、泉流石上是两个特写——一个“照”是静的光，一个“流”是动的声，幽静里有生机。接着听见竹喧、看见莲动，人还没露面，先闻其声——“归浣女”“下渔舟”写得像捉迷藏。最后一句翻出新意：别人留恋春天，诗人却说“秋天的山更好，我要留下”。一场雨、一轮月、一弘泉、一群人，拼成了一幅比春景还动人的秋日山居图。",
+  "background": "王维中年以后半官半隐，在长安附近的辋川买下别墅，过起了“白天做官、闲时归山”的生活。一个初秋傍晚，一场新雨刚停，他漫步山间：月照松林，泉响石上，浣女归来，渔舟下水。他写下一首五言律诗《山居秋暝》——“暝”是日落黄昏时分。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "雨后空山",
+      "text": "傍晚，一场新雨刚刚停歇，空气清爽，整座山林空旷又安静。"
+    },
+    {
+      "step": 2,
+      "title": "月照松泉",
+      "text": "月亮升起来，月光穿过松林洒下来；清泉在石头上流淌，叮咚作响。"
+    },
+    {
+      "step": 3,
+      "title": "竹喧莲动",
+      "text": "竹林里传来笑语——浣衣的姑娘们回来了；莲叶晃动——渔船正顺流而下。"
+    },
+    {
+      "step": 4,
+      "title": "愿留山中",
+      "text": "诗人看着这一切心想：春天就算过去了又怎样？这秋天的山里，正是我想住下的地方。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "暝",
+      "reading": "míng",
+      "reason": "标题“秋暝”指秋天的傍晚，日字旁表示与时间、日光有关。",
+      "standard": "不读 míng（冥）以外读音，注意与“瞑”区分"
+    },
+    {
+      "char": "浣",
+      "reading": "huàn",
+      "reason": "“浣女”指洗衣的女子，“浣”就是洗。",
+      "standard": "“浣熊”的浣"
+    }
+  ],
+  "sources": [
+    "部编版语文五年级上册",
+    "《王维全集》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26"
+}

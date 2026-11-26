@@ -9,7 +9,7 @@
   "form": "五言绝句",
   "authorId": "zhashenxing",
   "gradeBand": "g1-2",
-  "textbook": "课外经典诵读篇目",
+  "textbook": "部编版语文二年级下册",
   "tags": [
     "夜景",
     "观察",
@@ -137,7 +137,7 @@
     "《敬业堂诗集》"
   ],
   "status": "published",
-  "updatedAt": "2026-11-24",
+  "updatedAt": "2026-11-26",
   "images": {
     "cover": {
       "src": "/assets/img/poems/zhouyeshujian-cover.jpg",

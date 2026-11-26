@@ -9,7 +9,7 @@
   "form": "五言绝句",
   "authorId": "yuanmei",
   "gradeBand": "g1-2",
-  "textbook": "课外拓展篇目",
+  "textbook": "部编版语文三年级上册",
   "tags": [
     "夏天",
     "童趣",
@@ -135,7 +135,7 @@
     "《小仓山房诗文集》"
   ],
   "status": "published",
-  "updatedAt": "2026-11-24",
+  "updatedAt": "2026-11-26",
   "images": {
     "cover": {
       "src": "/assets/img/poems/suojian-cover.jpg",

@@ -1,0 +1,163 @@
+{
+  "id": "songci-beisong-wanganshi-yuanri",
+  "slug": "yuanri",
+  "title": "元日",
+  "titlePinyin": "yuán rì",
+  "dynasty": "songci",
+  "era": "beisong",
+  "genre": "shi",
+  "form": "七言绝句",
+  "authorId": "wanganshi",
+  "gradeBand": "g3-4",
+  "textbook": "部编版语文三年级下册",
+  "tags": [
+    "春节",
+    "新年",
+    "民俗",
+    "七言绝句"
+  ],
+  "difficulty": 2,
+  "writtenYear": 1069,
+  "writtenLabel": "公元 1069 年（王安石主持变法之初）",
+  "orderInAuthor": 2,
+  "famousLines": [
+    "千门万户曈曈日，总把新桃换旧符。"
+  ],
+  "lines": [
+    {
+      "text": "爆竹声中一岁除，",
+      "pinyin": [
+        "bào",
+        "zhú",
+        "shēng",
+        "zhōng",
+        "yī",
+        "suì",
+        "chú"
+      ],
+      "translation": "在阵阵爆竹声中，旧的一年过去了，",
+      "noteIds": [
+        "n-baozhu"
+      ]
+    },
+    {
+      "text": "春风送暖入屠苏。",
+      "pinyin": [
+        "chūn",
+        "fēng",
+        "sòng",
+        "nuǎn",
+        "rù",
+        "tú",
+        "sū"
+      ],
+      "translation": "和暖的春风吹来，人们畅饮着屠苏酒。",
+      "noteIds": [
+        "n-tusu"
+      ]
+    },
+    {
+      "text": "千门万户曈曈日，",
+      "pinyin": [
+        "qiān",
+        "mén",
+        "wàn",
+        "hù",
+        "tóng",
+        "tóng",
+        "rì"
+      ],
+      "translation": "初升的太阳照耀着千家万户，",
+      "noteIds": [
+        "n-tongtong"
+      ]
+    },
+    {
+      "text": "总把新桃换旧符。",
+      "pinyin": [
+        "zǒng",
+        "bǎ",
+        "xīn",
+        "táo",
+        "huàn",
+        "jiù",
+        "fú"
+      ],
+      "translation": "人们总用新的桃符换下旧的桃符。",
+      "noteIds": [
+        "n-taofu"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-baozhu",
+      "word": "爆竹",
+      "pinyin": "bào zhú",
+      "meaning": "古人烧竹子发出爆裂声驱鬼避邪，后来用纸卷火药做成鞭炮。"
+    },
+    {
+      "id": "n-tusu",
+      "word": "屠苏",
+      "pinyin": "tú sū",
+      "meaning": "屠苏酒，用草药泡的酒，元日全家按幼长顺序饮用，据说能避瘟疫。"
+    },
+    {
+      "id": "n-tongtong",
+      "word": "曈曈",
+      "pinyin": "tóng tóng",
+      "meaning": "太阳初升时明亮温暖的样子。"
+    },
+    {
+      "id": "n-taofu",
+      "word": "新桃旧符",
+      "pinyin": "xīn táo jiù fú",
+      "meaning": "桃符是画着门神或写吉祥话的桃木板，挂门上辟邪，后来演变成春联。元日要取下旧桃符、换上新桃符。"
+    }
+  ],
+  "translation": "在噼里啪啦的爆竹声中，旧的一年过去了；和暖的春风吹进千家万户，人们举起屠苏酒迎接新年。初升的太阳照亮了家家户户的大门，人们都忙着取下旧桃符，换上崭新的桃符。",
+  "appreciation": "这首诗像一幅“宋朝春节”的风俗画：放爆竹、喝屠苏酒、换桃符，四句诗写了三件年俗，热闹扑面而来。最亮的是“曈曈日”——新年的太阳照着千门万户，暖洋洋，亮堂堂。更深一层：王安石正在推行变法，“新桃换旧符”又何尝不是他“除旧布新”的宣言？过年的喜气和新政的雄心，在这首诗里合成了一件事。",
+  "background": "公元 1069 年，王安石被宋神宗任命为参知政事，主持变法。这一年春节，他看着家家户户放爆竹、换桃符的热闹景象，联想到国家正要除旧布新，便写下《元日》。“元日”指农历正月初一，也就是春节。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "爆竹声声辞旧岁",
+      "text": "大年初一，爆竹声响成一片，旧的一年在响声中过去了。"
+    },
+    {
+      "step": 2,
+      "title": "春风里喝屠苏酒",
+      "text": "春风送来暖意，全家人按长幼次序举杯畅饮屠苏酒。"
+    },
+    {
+      "step": 3,
+      "title": "朝阳照亮千门万户",
+      "text": "新年的太阳升起来，把家家户户的大门照得亮堂堂。"
+    },
+    {
+      "step": 4,
+      "title": "换上新桃符",
+      "text": "人们取下旧桃符，换上画着新门神的桃木板，迎接崭新的一年。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "屠苏",
+      "reading": "tú sū",
+      "reason": "一种用草药浸泡的酒名，两个都是生僻字。",
+      "standard": "记住是古代元日喝的酒即可"
+    },
+    {
+      "char": "曈",
+      "reading": "tóng",
+      "reason": "“曈曈”形容初升的太阳明亮，是生僻字。",
+      "standard": "日字旁，与太阳有关"
+    }
+  ],
+  "sources": [
+    "部编版语文三年级下册",
+    "《王安石诗文选》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26"
+}

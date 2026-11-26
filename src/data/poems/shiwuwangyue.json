@@ -152,7 +152,7 @@
     "《王建诗集》"
   ],
   "status": "published",
-  "updatedAt": "2026-11-24",
+  "updatedAt": "2026-11-26",
   "images": {
     "cover": {
       "src": "/assets/img/poems/shiwuwangyue-cover.jpg",
@@ -162,5 +162,6 @@
       "credit": "AI 辅助生成 · up999.cn",
       "aiGenerated": true
     }
-  }
+  },
+  "textbook": "部编版语文六年级下册"
 }

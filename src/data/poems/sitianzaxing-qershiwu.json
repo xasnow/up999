@@ -1,0 +1,162 @@
+{
+  "id": "songci-nansong-fanchengda-sitianzaxing-qershiwu",
+  "slug": "sitianzaxing-qershiwu",
+  "title": "四时田园杂兴（其二十五）",
+  "titlePinyin": "sì shí tián yuán zá xìng（qí èr shí wǔ）",
+  "dynasty": "songci",
+  "era": "nansong",
+  "genre": "shi",
+  "form": "七言绝句",
+  "authorId": "fanchengda",
+  "gradeBand": "g3-4",
+  "textbook": "部编版语文四年级下册",
+  "tags": [
+    "田园",
+    "初夏",
+    "丰收",
+    "七言绝句"
+  ],
+  "difficulty": 2,
+  "writtenYear": 1186,
+  "writtenLabel": "约公元 1186 年（范成大 60 岁左右）",
+  "orderInAuthor": 2,
+  "famousLines": [
+    "日长篱落无人过，惟有蜻蜓蛱蝶飞。"
+  ],
+  "lines": [
+    {
+      "text": "梅子金黄杏子肥，",
+      "pinyin": [
+        "méi",
+        "zǐ",
+        "jīn",
+        "huáng",
+        "xìng",
+        "zǐ",
+        "féi"
+      ],
+      "translation": "梅子变得金黄，杏子长得肥大，",
+      "noteIds": []
+    },
+    {
+      "text": "麦花雪白菜花稀。",
+      "pinyin": [
+        "mài",
+        "huā",
+        "xuě",
+        "bái",
+        "cài",
+        "huā",
+        "xī"
+      ],
+      "translation": "荞麦花一片雪白，油菜花却已经稀稀落落。",
+      "noteIds": [
+        "n-maihua"
+      ]
+    },
+    {
+      "text": "日长篱落无人过，",
+      "pinyin": [
+        "rì",
+        "cháng",
+        "lí",
+        "luò",
+        "wú",
+        "rén",
+        "guò"
+      ],
+      "translation": "夏天白昼越来越长，篱笆边却没有人经过，",
+      "noteIds": [
+        "n-liluo"
+      ]
+    },
+    {
+      "text": "惟有蜻蜓蛱蝶飞。",
+      "pinyin": [
+        "wéi",
+        "yǒu",
+        "qīng",
+        "tíng",
+        "jiá",
+        "dié",
+        "fēi"
+      ],
+      "translation": "只有蜻蜓和蝴蝶绕着篱笆飞来飞去。",
+      "noteIds": [
+        "n-wei",
+        "n-jiadie"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-maihua",
+      "word": "麦花",
+      "pinyin": "mài huā",
+      "meaning": "这里指荞麦花，白色的小花，开在初夏。"
+    },
+    {
+      "id": "n-liluo",
+      "word": "篱落",
+      "pinyin": "lí luò",
+      "meaning": "篱笆，用竹子或树枝围成的围墙。"
+    },
+    {
+      "id": "n-wei",
+      "word": "惟有",
+      "pinyin": "wéi yǒu",
+      "meaning": "只有。"
+    },
+    {
+      "id": "n-jiadie",
+      "word": "蛱蝶",
+      "pinyin": "jiá dié",
+      "meaning": "蝴蝶的一种，翅膀色彩鲜艳。"
+    }
+  ],
+  "translation": "初夏时节，梅子成熟变得金黄，杏子越长越肥大；荞麦花开得雪白一片，油菜花却已谢得稀稀落落。白天渐渐变长，篱笆边静悄悄的没有人经过——原来大家都下田干活去了，只有蜻蜓和蝴蝶在篱笆边飞来飞去。",
+  "appreciation": "这首诗前两句用四种农作物摆出“初夏全家福”：梅黄、杏肥、麦白、菜花稀——一个“稀”字悄悄点明油菜花谢了、果实快成熟了，季节就在这四个画面里流动。后两句更妙：篱笆边为什么没人？不是村庄空了，而是男女老少都忙着干农活去了（这正是组诗其三十一里“村庄儿女各当家”的景象）。诗人不说“人们很忙”，只说篱边无人、蜻蜓乱飞，让读者自己猜出答案，越读越有味道。",
+  "background": "公元 1186 年，六十岁的范成大退居苏州石湖，把乡村四季的见闻写成《四时田园杂兴》六十首，分为春日、晚春、夏日、秋日、冬日五组。这首是“夏日”组中的名篇，写初夏农忙时节的田园风光。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "果子熟了",
+      "text": "初夏到了，梅子挂满枝头泛着金黄，杏子也一颗颗长得饱满肥大。"
+    },
+    {
+      "step": 2,
+      "title": "花开花谢",
+      "text": "田里荞麦开花，白得像雪；而春天金灿灿的油菜花，已经谢得稀稀拉拉。"
+    },
+    {
+      "step": 3,
+      "title": "篱边静悄悄",
+      "text": "夏日白天变长，篱笆边却一直没有人走过——人都去哪儿了？"
+    },
+    {
+      "step": 4,
+      "title": "蜻蜓蝴蝶做伴",
+      "text": "只有蜻蜓和蝴蝶绕着篱笆飞舞——原来大人们都在田里忙农活呢！"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "蛱",
+      "reading": "jiá",
+      "reason": "“蛱蝶”是蝴蝶的一种，生僻字。",
+      "standard": "虫字旁，与昆虫有关"
+    },
+    {
+      "char": "兴",
+      "reading": "xìng",
+      "reason": "“杂兴”指随兴而写的诗，读第四声。",
+      "standard": "不读 xīng"
+    }
+  ],
+  "sources": [
+    "部编版语文四年级下册",
+    "《石湖诗集》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26"
+}

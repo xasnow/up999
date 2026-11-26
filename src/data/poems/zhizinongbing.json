@@ -1,0 +1,176 @@
+{
+  "id": "songci-nansong-yangwanli-zhizinongbing",
+  "slug": "zhizinongbing",
+  "title": "稚子弄冰",
+  "titlePinyin": "zhì zǐ nòng bīng",
+  "dynasty": "songci",
+  "era": "nansong",
+  "genre": "shi",
+  "form": "七言绝句",
+  "authorId": "yangwanli",
+  "gradeBand": "g3-4",
+  "textbook": "部编版语文五年级下册",
+  "tags": [
+    "冬天",
+    "儿童生活",
+    "童趣",
+    "七言绝句"
+  ],
+  "difficulty": 2,
+  "writtenYear": 1181,
+  "writtenLabel": "约公元 1181 年（杨万里居乡闲居时）",
+  "orderInAuthor": 4,
+  "famousLines": [
+    "敲成玉磬穿林响，忽作玻璃碎地声。"
+  ],
+  "lines": [
+    {
+      "text": "稚子金盆脱晓冰，",
+      "pinyin": [
+        "zhì",
+        "zǐ",
+        "jīn",
+        "pén",
+        "tuō",
+        "xiǎo",
+        "bīng"
+      ],
+      "translation": "清晨，小孩子从金属盆里把冻好的冰块取出来，",
+      "noteIds": [
+        "n-zhizi",
+        "n-tuo"
+      ]
+    },
+    {
+      "text": "彩丝穿取当银钲。",
+      "pinyin": [
+        "cǎi",
+        "sī",
+        "chuān",
+        "qǔ",
+        "dàng",
+        "yín",
+        "zhēng"
+      ],
+      "translation": "用彩线穿起来提在手里，当成一面银锣敲着玩。",
+      "noteIds": [
+        "n-zheng"
+      ]
+    },
+    {
+      "text": "敲成玉磬穿林响，",
+      "pinyin": [
+        "qiāo",
+        "chéng",
+        "yù",
+        "qìng",
+        "chuān",
+        "lín",
+        "xiǎng"
+      ],
+      "translation": "轻轻敲打，声音像玉磬一样清脆，穿林而过，",
+      "noteIds": [
+        "n-qing"
+      ]
+    },
+    {
+      "text": "忽作玻璃碎地声。",
+      "pinyin": [
+        "hū",
+        "zuò",
+        "bō",
+        "lí",
+        "suì",
+        "dì",
+        "shēng"
+      ],
+      "translation": "忽然冰块落地，发出像玻璃摔碎的声音。",
+      "noteIds": [
+        "n-boli"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-zhizi",
+      "word": "稚子",
+      "pinyin": "zhì zǐ",
+      "meaning": "幼小的孩子。“稚”是幼小的意思。"
+    },
+    {
+      "id": "n-tuo",
+      "word": "脱",
+      "pinyin": "tuō",
+      "meaning": "把冰从盆里取出来。夜里冻在盆里的冰整块脱出，像倒出一个“冰碗”。"
+    },
+    {
+      "id": "n-zheng",
+      "word": "银钲",
+      "pinyin": "yín zhēng",
+      "meaning": "古代一种银色的打击乐器，像小铜锣。孩子把冰块当作银钲来敲。"
+    },
+    {
+      "id": "n-qing",
+      "word": "磬",
+      "pinyin": "qìng",
+      "meaning": "古代玉石做的打击乐器，声音清脆悠扬。"
+    },
+    {
+      "id": "n-boli",
+      "word": "玻璃",
+      "pinyin": "bō lí",
+      "meaning": "古时候指一种天然玉石，也叫水玉，这里形容冰块碎裂的声音清脆。"
+    }
+  ],
+  "translation": "清晨，小孩子从金属盆里取出整块冻好的冰，用彩色丝线穿起来提着，当成一面银锣来敲。敲出的声音像玉磬一样清脆，穿林而过；忽然冰块摔到地上，发出玻璃碎裂般的声响。",
+  "appreciation": "这是一首四句的“儿童短片”：取冰、穿线、敲响、摔碎，四个镜头一气呵成。最好听的是两种声音的对比——敲冰时“玉磬穿林响”，多美多得意；冰落时“玻璃碎地声”，脆生生的一响，得意变成了懊恼。孩子没哭没闹，诗人也不写结局，戛然而止在“碎地声”上，留下一片会心的笑。把日常小事写得又新鲜又好玩，这正是杨万里“诚斋体”的看家本领。",
+  "background": "杨万里晚年住在故乡江西吉水。一个冬日清晨，他看见邻家小孩把夜里冻在铜盆里的冰整块取出，穿上彩线当锣敲着玩，冰一落地摔碎了，声音清脆悦耳。他觉得又有趣又可爱，便写下这首《稚子弄冰》。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "清晨取冰",
+      "text": "天刚亮，小孩跑去看昨晚放在屋外的金属盆——里面冻出一块圆滚滚的冰！"
+    },
+    {
+      "step": 2,
+      "title": "穿线提冰",
+      "text": "他把冰块倒出来，用彩线穿过冰块，提在手里像提着一面小锣。"
+    },
+    {
+      "step": 3,
+      "title": "敲出清脆声",
+      "text": "他拿小棍轻轻敲，冰块发出玉磬般清脆的声音，穿过树林传出好远。"
+    },
+    {
+      "step": 4,
+      "title": "啪！冰碎了",
+      "text": "一不小心，冰块掉在地上——像玻璃落地一样“啪”的一声，碎成了一片片。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "钲",
+      "reading": "zhēng",
+      "reason": "古代打击乐器的名字，生僻字。",
+      "standard": "金字旁，与金属乐器有关"
+    },
+    {
+      "char": "磬",
+      "reading": "qìng",
+      "reason": "古代玉制打击乐器，注意与“罄”区分。",
+      "standard": "石字底，与石头乐器有关"
+    },
+    {
+      "char": "当",
+      "reading": "dàng",
+      "reason": "“当银钲”是“当作银钲”的意思。",
+      "standard": "不读 dāng"
+    }
+  ],
+  "sources": [
+    "部编版语文五年级下册",
+    "《诚斋集》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26"
+}

@@ -1,0 +1,291 @@
+{
+  "id": "qita-hanwei-gushishijiu-tiaotiaoqiannvxing",
+  "slug": "tiaotiaoqiannvxing",
+  "title": "迢迢牵牛星",
+  "titlePinyin": "tiáo tiáo qiān niú xīng",
+  "dynasty": "qita",
+  "era": "hanwei",
+  "genre": "shi",
+  "form": "五言古诗",
+  "authorId": "gushishijiu",
+  "gradeBand": "g5-6",
+  "textbook": "部编版语文六年级下册",
+  "tags": [
+    "七夕",
+    "思念",
+    "五言古诗"
+  ],
+  "difficulty": 3,
+  "writtenYear": 180,
+  "writtenLabel": "东汉末年（《古诗十九首》之一）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "盈盈一水间，脉脉不得语。"
+  ],
+  "lines": [
+    {
+      "text": "迢迢牵牛星，",
+      "pinyin": [
+        "tiáo",
+        "tiáo",
+        "qiān",
+        "niú",
+        "xīng"
+      ],
+      "translation": "遥远的牵牛星隔河相望，",
+      "noteIds": [
+        "n-tiaotiao"
+      ]
+    },
+    {
+      "text": "皎皎河汉女。",
+      "pinyin": [
+        "jiǎo",
+        "jiǎo",
+        "hé",
+        "hàn",
+        "nǚ"
+      ],
+      "translation": "皎洁明亮的织女星闪烁在银河边。",
+      "noteIds": [
+        "n-jiaojiao",
+        "n-hehan"
+      ]
+    },
+    {
+      "text": "纤纤擢素手，",
+      "pinyin": [
+        "xiān",
+        "xiān",
+        "zhuó",
+        "sù",
+        "shǒu"
+      ],
+      "translation": "织女伸出细长白嫩的手，",
+      "noteIds": [
+        "n-xianxian",
+        "n-zhuo"
+      ]
+    },
+    {
+      "text": "札札弄机杼。",
+      "pinyin": [
+        "zhá",
+        "zhá",
+        "nòng",
+        "jī",
+        "zhù"
+      ],
+      "translation": "织布机札札作响，她整天忙着织布。",
+      "noteIds": [
+        "n-jizhu"
+      ]
+    },
+    {
+      "text": "终日不成章，",
+      "pinyin": [
+        "zhōng",
+        "rì",
+        "bù",
+        "chéng",
+        "zhāng"
+      ],
+      "translation": "可她一整天也织不出一段布纹，",
+      "noteIds": [
+        "n-zhang"
+      ]
+    },
+    {
+      "text": "泣涕零如雨。",
+      "pinyin": [
+        "qì",
+        "tì",
+        "líng",
+        "rú",
+        "yǔ"
+      ],
+      "translation": "眼泪像雨水一样纷纷落下。",
+      "noteIds": [
+        "n-ling"
+      ]
+    },
+    {
+      "text": "河汉清且浅，",
+      "pinyin": [
+        "hé",
+        "hàn",
+        "qīng",
+        "qiě",
+        "qiǎn"
+      ],
+      "translation": "银河又清又浅，",
+      "noteIds": []
+    },
+    {
+      "text": "相去复几许。",
+      "pinyin": [
+        "xiāng",
+        "qù",
+        "fù",
+        "jǐ",
+        "xǔ"
+      ],
+      "translation": "两人相隔又能有多远呢？",
+      "noteIds": [
+        "n-xiangqu"
+      ]
+    },
+    {
+      "text": "盈盈一水间，",
+      "pinyin": [
+        "yíng",
+        "yíng",
+        "yī",
+        "shuǐ",
+        "jiān"
+      ],
+      "translation": "只隔着一条清清浅浅的河水，",
+      "noteIds": [
+        "n-yingying"
+      ]
+    },
+    {
+      "text": "脉脉不得语。",
+      "pinyin": [
+        "mò",
+        "mò",
+        "bù",
+        "dé",
+        "yǔ"
+      ],
+      "translation": "两人只能含情凝望，却一句知心话也说不出口。",
+      "noteIds": [
+        "n-maimai"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-tiaotiao",
+      "word": "迢迢",
+      "pinyin": "tiáo tiáo",
+      "meaning": "遥远的样子。"
+    },
+    {
+      "id": "n-jiaojiao",
+      "word": "皎皎",
+      "pinyin": "jiǎo jiǎo",
+      "meaning": "明亮洁白的样子。"
+    },
+    {
+      "id": "n-hehan",
+      "word": "河汉女",
+      "pinyin": "hé hàn nǚ",
+      "meaning": "指织女星。“河汉”是银河，织女星在银河边，与牵牛星隔河相对。"
+    },
+    {
+      "id": "n-xianxian",
+      "word": "纤纤",
+      "pinyin": "xiān xiān",
+      "meaning": "形容手指细而柔美。"
+    },
+    {
+      "id": "n-zhuo",
+      "word": "擢",
+      "pinyin": "zhuó",
+      "meaning": "伸出、抽出。"
+    },
+    {
+      "id": "n-jizhu",
+      "word": "机杼",
+      "pinyin": "jī zhù",
+      "meaning": "织布机。“杼”是织布机上的梭子。"
+    },
+    {
+      "id": "n-zhang",
+      "word": "章",
+      "pinyin": "zhāng",
+      "meaning": "布匹上的花纹图案。“不成章”指织不出成纹样的布。"
+    },
+    {
+      "id": "n-ling",
+      "word": "零",
+      "pinyin": "líng",
+      "meaning": "落下。“零如雨”指眼泪像雨点一样落下。"
+    },
+    {
+      "id": "n-xiangqu",
+      "word": "相去",
+      "pinyin": "xiāng qù",
+      "meaning": "相隔、相距。“几许”是“有多少”。"
+    },
+    {
+      "id": "n-yingying",
+      "word": "盈盈",
+      "pinyin": "yíng yíng",
+      "meaning": "形容河水清澈、晶莹的样子。"
+    },
+    {
+      "id": "n-maimai",
+      "word": "脉脉",
+      "pinyin": "mò mò",
+      "meaning": "含情脉脉、默默用眼神表达情意。"
+    }
+  ],
+  "translation": "遥远的牵牛星，与皎洁明亮的织女星隔银河相望。织女伸出纤细白皙的手，札札地摆弄着织布机。可她一整天也织不出一匹有花纹的布，眼泪像雨水一样簌簌落下。银河又清又浅，两人相隔又能有多远呢？只隔着一条清浅的河水，彼此含情凝望，却终究说不出一句心里话。",
+  "appreciation": "这首诗十句有六句用叠词开头——迢迢、皎皎、纤纤、札札、盈盈、脉脉，像一串音符，读起来又美又伤心。最动人的是“终日不成章”：织女整天织布，却织不出花纹，不是手不巧，是心里装满了思念。结尾更是千古绝唱：银河又清又浅，距离明明不远，偏偏“脉脉不得语”——看得见、够不着、说不出，世上最远的距离原来不是山水，而是近在咫尺却无法相拥。借牛郎织女的神话，写尽了天下分离之人的心事。",
+  "background": "本诗出自《古诗十九首》，写于东汉末年。当时社会动荡，无数人被迫离乡，夫妻、亲人天各一方。诗人借牛郎织女被银河阻隔的传说，写出了那个时代普通人的离愁别恨。这首诗也让“七夕”的故事更加深入人心。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "隔河相望",
+      "text": "夜空里，牵牛星与织女星隔着银河遥遥相对，一望就是一年。"
+    },
+    {
+      "step": 2,
+      "title": "札札织布",
+      "text": "织女伸出纤细的手，织机札札响着，她机械地织着布。"
+    },
+    {
+      "step": 3,
+      "title": "织不成布",
+      "text": "整整一天，布上织不出花纹——满心思念，哪有心思织布？眼泪落得像下雨。"
+    },
+    {
+      "step": 4,
+      "title": "清浅的银河",
+      "text": "抬头看，银河又清又浅，两人相隔其实并不远。"
+    },
+    {
+      "step": 5,
+      "title": "脉脉不得语",
+      "text": "可是只能隔着河默默相望，一句心里话也说不出口——思念到了极点，反而说不出话。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "擢",
+      "reading": "zhuó",
+      "reason": "“擢”是伸出、抽出的意思，生僻字。",
+      "standard": "提手旁，与手部动作有关"
+    },
+    {
+      "char": "杼",
+      "reading": "zhù",
+      "reason": "“机杼”的“杼”指织布机的梭子。",
+      "standard": "木字旁，与织布工具有关"
+    },
+    {
+      "char": "脉脉",
+      "reading": "mò mò",
+      "reason": "“脉脉”形容含情相视的样子。",
+      "standard": "不读 mài mài"
+    }
+  ],
+  "sources": [
+    "部编版语文六年级下册",
+    "《古诗十九首》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26"
+}

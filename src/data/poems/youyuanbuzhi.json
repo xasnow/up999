@@ -1,0 +1,167 @@
+{
+  "id": "songci-nansong-yeshaoweng-youyuanbuzhi",
+  "slug": "youyuanbuzhi",
+  "title": "游园不值",
+  "titlePinyin": "yóu yuán bù zhí",
+  "dynasty": "songci",
+  "era": "nansong",
+  "genre": "shi",
+  "form": "七言绝句",
+  "authorId": "yeshaoweng",
+  "gradeBand": "g5-6",
+  "textbook": "部编版语文六年级下册",
+  "tags": [
+    "春天",
+    "红杏",
+    "惊喜",
+    "七言绝句"
+  ],
+  "difficulty": 2,
+  "writtenYear": 1200,
+  "writtenLabel": "创作年份不详（约南宋中期）",
+  "orderInAuthor": 2,
+  "famousLines": [
+    "春色满园关不住，一枝红杏出墙来。"
+  ],
+  "lines": [
+    {
+      "text": "应怜屐齿印苍苔，",
+      "pinyin": [
+        "yìng",
+        "lián",
+        "jī",
+        "chǐ",
+        "yìn",
+        "cāng",
+        "tái"
+      ],
+      "translation": "大概是主人怕我的木屐踩坏园里的青苔吧，",
+      "noteIds": [
+        "n-ying",
+        "n-jichi"
+      ]
+    },
+    {
+      "text": "小扣柴扉久不开。",
+      "pinyin": [
+        "xiǎo",
+        "kòu",
+        "chái",
+        "fēi",
+        "jiǔ",
+        "bù",
+        "kāi"
+      ],
+      "translation": "我轻轻敲了很久的柴门，却一直没有人来开。",
+      "noteIds": [
+        "n-xiaokou",
+        "n-chaifei"
+      ]
+    },
+    {
+      "text": "春色满园关不住，",
+      "pinyin": [
+        "chūn",
+        "sè",
+        "mǎn",
+        "yuán",
+        "guān",
+        "bù",
+        "zhù"
+      ],
+      "translation": "满园的春色是关不住的，",
+      "noteIds": []
+    },
+    {
+      "text": "一枝红杏出墙来。",
+      "pinyin": [
+        "yī",
+        "zhī",
+        "hóng",
+        "xìng",
+        "chū",
+        "qiáng",
+        "lái"
+      ],
+      "translation": "瞧，一枝红杏已经探出墙头来了。",
+      "noteIds": []
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-ying",
+      "word": "应",
+      "pinyin": "yìng",
+      "meaning": "大概、可能，表示猜测。"
+    },
+    {
+      "id": "n-jichi",
+      "word": "屐齿",
+      "pinyin": "jī chǐ",
+      "meaning": "木屐底下两排像牙齿一样的凸起，走泥地时防止打滑。"
+    },
+    {
+      "id": "n-xiaokou",
+      "word": "小扣",
+      "pinyin": "xiǎo kòu",
+      "meaning": "轻轻地敲。“扣”是敲门的意思。"
+    },
+    {
+      "id": "n-chaifei",
+      "word": "柴扉",
+      "pinyin": "chái fēi",
+      "meaning": "用树枝、柴草编成的简陋的门。"
+    }
+  ],
+  "translation": "大概是园主人爱惜青苔，怕我的木屐在上面留下印痕吧；我轻轻敲了好久的柴门，却始终没人来开。不过没关系——满园的春色是关不住的，你看，一枝红杏已经探出墙头来报春了。",
+  "appreciation": "这首诗妙在“白跑一趟”变成了“意外的礼物”。诗人兴致勃勃游园，柴门却敲不开，多少有点扫兴。可就在失望时，一枝红杏探出墙来——园子虽然进不去，春天却自己跑出来了！后两句因此成了千古名句：一切有生命力的美好事物，是关不住、压抑不了的。从“不值”（没遇上主人）到“值”（遇见春天），一次普通的扑空被写成了惊喜，这就是诗人化遗憾为神奇的本领。",
+  "background": "一个春天的日子，叶绍翁去拜访一位住在园子里的朋友，想进园赏花。谁知敲了半天门，主人不在家，门也没开。他正准备离开，忽然看见一枝红杏伸出墙头，满园春色仿佛扑面而来。他于是把这趟“不值”的游园写成诗，“不值”就是“没有遇上”的意思。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "兴冲冲游园",
+      "text": "诗人穿着木屐，兴冲冲地去朋友家的园子赏春。"
+    },
+    {
+      "step": 2,
+      "title": "敲不开的柴门",
+      "text": "他轻轻敲柴门，敲了又敲，一直没人应——大概是主人怕他踩坏了青苔吧。"
+    },
+    {
+      "step": 3,
+      "title": "墙头探出一枝红杏",
+      "text": "正要离开时，他忽然发现：一枝红杏悄悄探出了墙头！"
+    },
+    {
+      "step": 4,
+      "title": "满园春色关不住",
+      "text": "诗人立刻明白了：园子关得住，春色关不住——这趟没进园，却遇见了整个春天。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "应",
+      "reading": "yìng",
+      "reason": "“应怜”表示大概、可能，是猜测的语气。",
+      "standard": "课本注音 yìng"
+    },
+    {
+      "char": "屐",
+      "reading": "jī",
+      "reason": "木屐是一种底下有齿的木头鞋，生僻字。",
+      "standard": "尸字头，与鞋履有关"
+    },
+    {
+      "char": "扉",
+      "reading": "fēi",
+      "reason": "“柴扉”的门“扉”，户字头，与门有关。",
+      "standard": "注意与“非”区分"
+    }
+  ],
+  "sources": [
+    "部编版语文六年级下册",
+    "《靖逸小集》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26"
+}

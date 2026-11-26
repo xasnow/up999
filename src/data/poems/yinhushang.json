@@ -1,0 +1,163 @@
+{
+  "id": "songci-beisong-sushi-yinhushang",
+  "slug": "yinhushang",
+  "title": "饮湖上初晴后雨",
+  "titlePinyin": "yǐn hú shàng chū qíng hòu yǔ",
+  "dynasty": "songci",
+  "era": "beisong",
+  "genre": "shi",
+  "form": "七言绝句",
+  "authorId": "sushi",
+  "gradeBand": "g3-4",
+  "textbook": "部编版语文三年级上册",
+  "tags": [
+    "西湖",
+    "比喻",
+    "山水",
+    "七言绝句"
+  ],
+  "difficulty": 2,
+  "writtenYear": 1073,
+  "writtenLabel": "公元 1073 年（苏轼任杭州通判时）",
+  "orderInAuthor": 7,
+  "famousLines": [
+    "欲把西湖比西子，淡妆浓抹总相宜。"
+  ],
+  "lines": [
+    {
+      "text": "水光潋滟晴方好，",
+      "pinyin": [
+        "shuǐ",
+        "guāng",
+        "liàn",
+        "yàn",
+        "qíng",
+        "fāng",
+        "hǎo"
+      ],
+      "translation": "阳光下湖面波光闪动，晴天真美，",
+      "noteIds": [
+        "n-liaoyan"
+      ]
+    },
+    {
+      "text": "山色空蒙雨亦奇。",
+      "pinyin": [
+        "shān",
+        "sè",
+        "kōng",
+        "méng",
+        "yǔ",
+        "yì",
+        "qí"
+      ],
+      "translation": "雨雾中山色迷迷蒙蒙，雨天也很奇妙。",
+      "noteIds": [
+        "n-kongmeng"
+      ]
+    },
+    {
+      "text": "欲把西湖比西子，",
+      "pinyin": [
+        "yù",
+        "bǎ",
+        "xī",
+        "hú",
+        "bǐ",
+        "xī",
+        "zǐ"
+      ],
+      "translation": "要是把西湖比作美女西施，",
+      "noteIds": [
+        "n-xizi"
+      ]
+    },
+    {
+      "text": "淡妆浓抹总相宜。",
+      "pinyin": [
+        "dàn",
+        "zhuāng",
+        "nóng",
+        "mǒ",
+        "zǒng",
+        "xiāng",
+        "yí"
+      ],
+      "translation": "不管是淡妆还是浓妆，她都一样好看。",
+      "noteIds": [
+        "n-mo"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-liaoyan",
+      "word": "潋滟",
+      "pinyin": "liàn yàn",
+      "meaning": "水面上波光闪动的样子。"
+    },
+    {
+      "id": "n-kongmeng",
+      "word": "空蒙",
+      "pinyin": "kōng méng",
+      "meaning": "迷迷蒙蒙、若有若无的样子，形容雨雾中的山。"
+    },
+    {
+      "id": "n-xizi",
+      "word": "西子",
+      "pinyin": "xī zǐ",
+      "meaning": "即西施，春秋时期越国的美女，后人常以她形容绝色。"
+    },
+    {
+      "id": "n-mo",
+      "word": "抹",
+      "pinyin": "mǒ",
+      "meaning": "涂抹。浓抹指浓艳的妆打扮。"
+    }
+  ],
+  "translation": "晴天里，阳光洒在湖面上，波光闪闪，真好看；下雨时，远山笼罩在雨雾中，若隐若现，也很奇妙。如果把西湖比作美女西施，那么无论淡妆还是浓妆，她都那么合适、那么美。",
+  "appreciation": "写西湖的诗成千上万，这首是最有名的。妙就妙在诗人不写西湖像什么风景，而说她像美女西施：晴天是“淡妆”，阳光清清爽爽；雨天是“浓抹”，云雾浓浓淡淡——不管怎么打扮，西湖都好看。从此西湖有了个雅号“西子湖”。用一个人来比喻一个湖，前无古人，后面两千年都跟着叫好。",
+  "background": "公元 1073 年，苏轼在杭州做通判（相当于副州官）。一天，他陪朋友在西湖游船饮酒，恰好碰上天气多变：上午阳光灿烂，下午下起了雨。别人可能觉得扫兴，苏轼却看出两种天气各有各的美，于是举杯写下这首《饮湖上初晴后雨》。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "晴天：波光闪闪",
+      "text": "游船在西湖上，阳光洒满湖面，水波亮闪闪的，像撒了一层碎金。"
+    },
+    {
+      "step": 2,
+      "title": "忽然下起了雨",
+      "text": "天色一变，细雨蒙蒙，远处的山影变得若有若无，像盖了层轻纱。"
+    },
+    {
+      "step": 3,
+      "title": "诗人举杯感叹",
+      "text": "苏轼端起酒杯：晴也好，雨也好，西湖怎么都这么美？"
+    },
+    {
+      "step": 4,
+      "title": "西湖就是西施",
+      "text": "他灵机一动：把西湖比作西施吧——淡妆浓抹，总是一样动人！"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "潋滟",
+      "reading": "liàn yàn",
+      "reason": "形容水波流动闪光，两个都是生僻字。",
+      "standard": "口语不常用，记住表示“波光闪闪”即可"
+    },
+    {
+      "char": "抹",
+      "reading": "mǒ",
+      "reason": "“浓抹”指涂抹浓妆，动词读 mǒ。",
+      "standard": "不读 mò（抹墙）或 mā（抹布）"
+    }
+  ],
+  "sources": [
+    "部编版语文三年级上册",
+    "《苏轼诗集》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26"
+}

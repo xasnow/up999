@@ -1,0 +1,169 @@
+{
+  "id": "songci-beisong-wanganshi-shuhuyinxianshengbi",
+  "slug": "shuhuyinxianshengbi",
+  "title": "书湖阴先生壁",
+  "titlePinyin": "shū hú yīn xiān shēng bì",
+  "dynasty": "songci",
+  "era": "beisong",
+  "genre": "shi",
+  "form": "七言绝句",
+  "authorId": "wanganshi",
+  "gradeBand": "g5-6",
+  "textbook": "部编版语文六年级上册",
+  "tags": [
+    "田园",
+    "友情",
+    "比喻",
+    "七言绝句"
+  ],
+  "difficulty": 2,
+  "writtenYear": 1080,
+  "writtenLabel": "约公元 1080 年（王安石罢相后退居金陵时）",
+  "orderInAuthor": 4,
+  "famousLines": [
+    "一水护田将绿绕，两山排闼送青来。"
+  ],
+  "lines": [
+    {
+      "text": "茅檐长扫净无苔，",
+      "pinyin": [
+        "máo",
+        "yán",
+        "cháng",
+        "sǎo",
+        "jìng",
+        "wú",
+        "tái"
+      ],
+      "translation": "茅草房的屋檐下经常打扫，干净得连青苔都没有，",
+      "noteIds": [
+        "n-chang"
+      ]
+    },
+    {
+      "text": "花木成畦手自栽。",
+      "pinyin": [
+        "huā",
+        "mù",
+        "chéng",
+        "qí",
+        "shǒu",
+        "zì",
+        "zāi"
+      ],
+      "translation": "花草树木一畦一畦整整齐齐，都是主人亲手栽种的。",
+      "noteIds": [
+        "n-qi"
+      ]
+    },
+    {
+      "text": "一水护田将绿绕，",
+      "pinyin": [
+        "yī",
+        "shuǐ",
+        "hù",
+        "tián",
+        "jiāng",
+        "lǜ",
+        "rào"
+      ],
+      "translation": "一条溪水像卫兵一样环抱着田地，把绿色团团围绕，",
+      "noteIds": [
+        "n-hu"
+      ]
+    },
+    {
+      "text": "两山排闼送青来。",
+      "pinyin": [
+        "liǎng",
+        "shān",
+        "pái",
+        "tà",
+        "sòng",
+        "qīng",
+        "lái"
+      ],
+      "translation": "两座青山好像推开门，把青翠的山色送到眼前。",
+      "noteIds": [
+        "n-paita"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-chang",
+      "word": "长",
+      "pinyin": "cháng",
+      "meaning": "同“常”，经常的意思。"
+    },
+    {
+      "id": "n-qi",
+      "word": "畦",
+      "pinyin": "qí",
+      "meaning": "田间分成的一块块小区域，这里指花木栽得整齐成行成块。"
+    },
+    {
+      "id": "n-hu",
+      "word": "护",
+      "pinyin": "hù",
+      "meaning": "护卫、环绕保护，把溪水写成了田地的卫士。"
+    },
+    {
+      "id": "n-paita",
+      "word": "排闼",
+      "pinyin": "pái tà",
+      "meaning": "推门而入。“闼”指小门。"
+    }
+  ],
+  "translation": "茅屋的檐下经常打扫，干净得见不到一丝青苔；花草树木成行成畦，都是主人亲手栽种。一条溪水像卫士一样护着田地，把绿意团团围住；两座青山仿佛推开院门，把满眼青翠送到屋里来。",
+  "appreciation": "前两句写院子，夸的是主人：屋檐无苔、花木成畦，“手自栽”三个字让一位勤劳爱洁的隐士站到了我们面前。后两句是全诗最惊人的想象：溪水会“护田”，青山会“推门送青”——山水不再是风景，而成了有感情的朋友，争着来陪伴这位爱干净的主人。这种把山水写活的拟人手法叫“化静为动”，被后人评为“奇绝妙绝”。主人品格有多高洁，山水就有多亲近，景与人互相成就。",
+  "background": "王安石晚年罢相后，退居南京钟山脚下。他的邻居兼好友杨德逢，别号“湖阴先生”，是一位隐居的读书人。王安石常去他家做客，见他院落洁净、山水环绕，便写下两首诗题在他家墙壁上，“书……壁”就是把诗写在墙上。这是第一首。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "洁净的院子",
+      "text": "走进湖阴先生家：茅屋檐下常扫常净，连一片青苔都找不到。"
+    },
+    {
+      "step": 2,
+      "title": "亲手栽的花木",
+      "text": "园里花木一畦一畦，整整齐齐——都是主人一株株亲手栽下的。"
+    },
+    {
+      "step": 3,
+      "title": "溪水护田",
+      "text": "一条溪水绕着田地流，像忠诚的卫兵，把一片绿色紧紧护卫。"
+    },
+    {
+      "step": 4,
+      "title": "青山送翠",
+      "text": "对面的两座青山仿佛等不及了，推开门把满山青翠送到客人眼前。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "畦",
+      "reading": "qí",
+      "reason": "指田地里分成的一块块小区域。",
+      "standard": "田字旁"
+    },
+    {
+      "char": "闼",
+      "reading": "tà",
+      "reason": "“排闼”指推门而入，“闼”是门。",
+      "standard": "门字框，与门有关"
+    },
+    {
+      "char": "长",
+      "reading": "cháng",
+      "reason": "诗中通“常”，表示“经常”打扫。",
+      "standard": "不读 zhǎng"
+    }
+  ],
+  "sources": [
+    "部编版语文六年级上册",
+    "《王安石诗文选》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26"
+}

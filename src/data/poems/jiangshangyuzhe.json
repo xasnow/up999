@@ -1,0 +1,154 @@
+{
+  "id": "songci-beisong-fanzhongyan-jiangshangyuzhe",
+  "slug": "jiangshangyuzhe",
+  "title": "江上渔者",
+  "titlePinyin": "jiāng shàng yú zhě",
+  "dynasty": "songci",
+  "era": "beisong",
+  "genre": "shi",
+  "form": "五言绝句",
+  "authorId": "fanzhongyan",
+  "gradeBand": "g5-6",
+  "textbook": "部编版语文六年级下册",
+  "tags": [
+    "劳动",
+    "同情",
+    "五言绝句"
+  ],
+  "difficulty": 2,
+  "writtenYear": 1036,
+  "writtenLabel": "约公元 1036 年（范仲淹任地方官时）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "君看一叶舟，出没风波里。"
+  ],
+  "lines": [
+    {
+      "text": "江上往来人，",
+      "pinyin": [
+        "jiāng",
+        "shàng",
+        "wǎng",
+        "lái",
+        "rén"
+      ],
+      "translation": "江岸上来来往往的行人，",
+      "noteIds": []
+    },
+    {
+      "text": "但爱鲈鱼美。",
+      "pinyin": [
+        "dàn",
+        "ài",
+        "lú",
+        "yú",
+        "měi"
+      ],
+      "translation": "只知道喜爱鲈鱼味道的鲜美。",
+      "noteIds": [
+        "n-dan",
+        "n-luyu"
+      ]
+    },
+    {
+      "text": "君看一叶舟，",
+      "pinyin": [
+        "jūn",
+        "kàn",
+        "yī",
+        "yè",
+        "zhōu"
+      ],
+      "translation": "你看江中那只小小的渔船，",
+      "noteIds": [
+        "n-jun",
+        "n-yiye"
+      ]
+    },
+    {
+      "text": "出没风波里。",
+      "pinyin": [
+        "chū",
+        "mò",
+        "fēng",
+        "bō",
+        "lǐ"
+      ],
+      "translation": "在风浪中一会儿出现，一会儿被浪头淹没。",
+      "noteIds": [
+        "n-chumo"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-dan",
+      "word": "但",
+      "pinyin": "dàn",
+      "meaning": "只、只是。"
+    },
+    {
+      "id": "n-luyu",
+      "word": "鲈鱼",
+      "pinyin": "lú yú",
+      "meaning": "一种味道鲜美的鱼，生活在近海和江河里。"
+    },
+    {
+      "id": "n-jun",
+      "word": "君",
+      "pinyin": "jūn",
+      "meaning": "你，是对别人的尊称。"
+    },
+    {
+      "id": "n-yiye",
+      "word": "一叶舟",
+      "pinyin": "yī yè zhōu",
+      "meaning": "像一片树叶一样的小船，形容船又小又轻。"
+    },
+    {
+      "id": "n-chumo",
+      "word": "出没",
+      "pinyin": "chū mò",
+      "meaning": "一会儿露出水面，一会儿被风浪淹没。"
+    }
+  ],
+  "translation": "江岸上来来往往的人，只贪爱鲈鱼的鲜美味道。请你看一看江面上那只小小的渔船吧——它正随着风浪一会儿浮出，一会儿沉没，渔人正冒着生命危险打鱼呢。",
+  "appreciation": "短短二十个字，两组画面放在一起对比：岸上人悠闲地品尝鲈鱼，江中渔船却在风浪里忽隐忽现。“但爱”两个字轻轻一点——人们只知道鱼好吃，谁想过打鱼人的风险？结尾“出没风波里”五个字最惊心：小船像一片树叶，在浪涛里浮浮沉沉。诗人没有喊一句“要珍惜”，同情心却在对比里自然流露，和《悯农》一样，都是“看见劳动者”的伟大小诗。",
+  "background": "范仲淹做地方官时常到江边巡视。他看见酒楼里人们争相品尝鲈鱼，而江面上打鱼的船只在大风大浪里艰难出没，深有感触，写下这首《江上渔者》，提醒人们：每一道美食背后，都有劳动者冒着风险换来的辛苦。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "岸上人来人往",
+      "text": "江边人来人往，酒楼里热闹非凡，人人都夸鲈鱼味道鲜美。"
+    },
+    {
+      "step": 2,
+      "title": "只爱鱼的美味",
+      "text": "大家只知道鱼好吃，没人多想这鱼是从哪儿来的。"
+    },
+    {
+      "step": 3,
+      "title": "江心一叶舟",
+      "text": "远处江面上，一条小得像树叶的渔船正迎着风浪打鱼。"
+    },
+    {
+      "step": 4,
+      "title": "出没风波里",
+      "text": "大浪打来，小船一会儿浮上来，一会儿被埋进浪里——鱼就是这样冒着命换来的。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "没",
+      "reading": "mò",
+      "reason": "“出没”的“没”是“沉没”的意思。",
+      "standard": "不读 méi"
+    }
+  ],
+  "sources": [
+    "部编版语文六年级下册",
+    "《范文正公集》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26"
+}

@@ -1,0 +1,164 @@
+{
+  "id": "tangshi-shengtang-wangchangling-congjunxing",
+  "slug": "congjunxing",
+  "title": "从军行（其四）",
+  "titlePinyin": "cóng jūn xíng",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "七言绝句",
+  "authorId": "wangchangling",
+  "gradeBand": "g5-6",
+  "textbook": "部编版语文五年级下册",
+  "tags": [
+    "边塞",
+    "战争",
+    "壮志",
+    "七言绝句"
+  ],
+  "difficulty": 2,
+  "writtenYear": 737,
+  "writtenLabel": "约公元 737 年（王昌龄游历西北边塞时期）",
+  "orderInAuthor": 4,
+  "famousLines": [
+    "黄沙百战穿金甲，不破楼兰终不还。"
+  ],
+  "lines": [
+    {
+      "text": "青海长云暗雪山，",
+      "pinyin": [
+        "qīng",
+        "hǎi",
+        "cháng",
+        "yún",
+        "àn",
+        "xuě",
+        "shān"
+      ],
+      "translation": "青海湖上空乌云连绵，连雪山也显得昏暗，",
+      "noteIds": [
+        "n-an"
+      ]
+    },
+    {
+      "text": "孤城遥望玉门关。",
+      "pinyin": [
+        "gū",
+        "chéng",
+        "yáo",
+        "wàng",
+        "yù",
+        "mén",
+        "guān"
+      ],
+      "translation": "戍边将士在孤城里远远地望着玉门关。",
+      "noteIds": [
+        "n-yumenguan"
+      ]
+    },
+    {
+      "text": "黄沙百战穿金甲，",
+      "pinyin": [
+        "huáng",
+        "shā",
+        "bǎi",
+        "zhàn",
+        "chuān",
+        "jīn",
+        "jiǎ"
+      ],
+      "translation": "身经百战，黄沙磨破了身上的铁甲，",
+      "noteIds": [
+        "n-chuan"
+      ]
+    },
+    {
+      "text": "不破楼兰终不还。",
+      "pinyin": [
+        "bù",
+        "pò",
+        "lóu",
+        "lán",
+        "zhōng",
+        "bù",
+        "huán"
+      ],
+      "translation": "不打败敌人，绝不回家。",
+      "noteIds": [
+        "n-loulan",
+        "n-zhong"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-an",
+      "word": "暗",
+      "pinyin": "àn",
+      "meaning": "使……昏暗。乌云密布，把雪山都遮暗了。"
+    },
+    {
+      "id": "n-yumenguan",
+      "word": "玉门关",
+      "pinyin": "yù mén guān",
+      "meaning": "通往西域的重要关隘，在今甘肃敦煌西北，是边塞的象征。"
+    },
+    {
+      "id": "n-chuan",
+      "word": "穿",
+      "pinyin": "chuān",
+      "meaning": "磨穿、磨破。铁甲被风沙和战斗磨破了。"
+    },
+    {
+      "id": "n-loulan",
+      "word": "楼兰",
+      "pinyin": "lóu lán",
+      "meaning": "西汉时西域的古国，常袭扰边境，这里代指侵扰边疆的敌人。"
+    },
+    {
+      "id": "n-zhong",
+      "word": "终",
+      "pinyin": "zhōng",
+      "meaning": "始终、绝不。"
+    }
+  ],
+  "translation": "青海湖上阴云绵延千里，遮暗了终年积雪的祁连山；将士们守卫孤城，遥遥望着家乡方向的玉门关。他们身经百战，连铁甲都被黄沙磨穿了，但心中只有一个信念：不彻底打败敌人，就绝不回家！",
+  "appreciation": "这首诗前两句像一幅苍凉的边塞长卷：长云、雪山、孤城、玉门关，一下就把人带到荒远的战场。后两句陡然一振：“百战”写经历的艰苦，“穿金甲”写战斗的激烈，而这一切都是为了那句掷地有声的誓言——“不破楼兰终不还”。环境写得越艰苦，誓言就越响亮。没有一句喊口号，豪情却冲破纸面，这就是盛唐边塞诗的气魄。",
+  "background": "公元 737 年前后，王昌龄曾到西北边塞考察军情。他看到将士们常年驻守在远离家乡的孤城，在风沙中身经百战，依然斗志昂扬，深受感动。《从军行》是一组七首的组诗，这是第四首，也是最有名的一首。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "云暗雪山",
+      "text": "青海湖上空乌云绵延，把远处皑皑的雪山都遮得昏暗了。"
+    },
+    {
+      "step": 2,
+      "title": "孤城远望",
+      "text": "驻守孤城的将士极目远望玉门关——那是回家的大门，却遥远得望不到边。"
+    },
+    {
+      "step": 3,
+      "title": "百战穿甲",
+      "text": "风沙里身经百战，坚硬的铁甲都被磨穿了，可见战斗多么艰苦。"
+    },
+    {
+      "step": 4,
+      "title": "立下誓言",
+      "text": "将士们发出誓言：不彻底打败敌人，誓不回还——声音在黄沙中格外响亮。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "还",
+      "reading": "huán",
+      "reason": "“终不还”的“还”是“回家、返回”的意思。",
+      "standard": "不读 hái"
+    }
+  ],
+  "sources": [
+    "部编版语文五年级下册",
+    "《王昌龄集》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26"
+}

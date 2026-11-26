@@ -103,6 +103,14 @@
         "range": "1368—1912",
         "intro": "诗歌依然在生长。",
         "status": "live"
+      },
+      {
+        "id": "xiandai",
+        "label": "现代",
+        "sortOrder": 5,
+        "range": "1912—今",
+        "intro": "近现代人用旧体诗词记录新的时代。",
+        "status": "live"
       }
     ]
   }

@@ -1,0 +1,164 @@
+{
+  "id": "tangshi-zhongtang-hanhong-hanshi",
+  "slug": "hanshi",
+  "title": "寒食",
+  "titlePinyin": "hán shí",
+  "dynasty": "tangshi",
+  "era": "zhongtang",
+  "genre": "shi",
+  "form": "七言绝句",
+  "authorId": "hanhong",
+  "gradeBand": "g5-6",
+  "textbook": "部编版语文六年级下册",
+  "tags": [
+    "节日",
+    "长安",
+    "民俗",
+    "七言绝句"
+  ],
+  "difficulty": 2,
+  "writtenYear": 770,
+  "writtenLabel": "创作年份不详（约中唐）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "春城无处不飞花，寒食东风御柳斜。"
+  ],
+  "lines": [
+    {
+      "text": "春城无处不飞花，",
+      "pinyin": [
+        "chūn",
+        "chéng",
+        "wú",
+        "chù",
+        "bù",
+        "fēi",
+        "huā"
+      ],
+      "translation": "暮春的长安城，到处都是飞舞的落花，",
+      "noteIds": [
+        "n-chuncheng"
+      ]
+    },
+    {
+      "text": "寒食东风御柳斜。",
+      "pinyin": [
+        "hán",
+        "shí",
+        "dōng",
+        "fēng",
+        "yù",
+        "liǔ",
+        "xié"
+      ],
+      "translation": "寒食节的东风吹拂着皇城里的柳树。",
+      "noteIds": [
+        "n-hanshi",
+        "n-yuliu"
+      ]
+    },
+    {
+      "text": "日暮汉宫传蜡烛，",
+      "pinyin": [
+        "rì",
+        "mù",
+        "hàn",
+        "gōng",
+        "chuán",
+        "là",
+        "zhú"
+      ],
+      "translation": "傍晚时分，汉宫里传出赏赐新火的蜡烛，",
+      "noteIds": [
+        "n-chuan"
+      ]
+    },
+    {
+      "text": "轻烟散入五侯家。",
+      "pinyin": [
+        "qīng",
+        "yān",
+        "sàn",
+        "rù",
+        "wǔ",
+        "hóu",
+        "jiā"
+      ],
+      "translation": "袅袅的轻烟飘进了权贵大臣的家里。",
+      "noteIds": [
+        "n-wuhou"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-chuncheng",
+      "word": "春城",
+      "pinyin": "chūn chéng",
+      "meaning": "指春天的长安城。"
+    },
+    {
+      "id": "n-hanshi",
+      "word": "寒食",
+      "pinyin": "hán shí",
+      "meaning": "清明前一两天，为纪念介子推，这天禁火，只能吃冷食，叫“寒食节”。"
+    },
+    {
+      "id": "n-yuliu",
+      "word": "御柳",
+      "pinyin": "yù liǔ",
+      "meaning": "皇城中的柳树。皇帝宫苑里的柳树。"
+    },
+    {
+      "id": "n-chuan",
+      "word": "传",
+      "pinyin": "chuán",
+      "meaning": "逐家赐给。寒食禁火，节后皇帝把新火用蜡烛赐给近臣。"
+    },
+    {
+      "id": "n-wuhou",
+      "word": "五侯",
+      "pinyin": "wǔ hóu",
+      "meaning": "泛指受皇帝宠信的权贵大臣。"
+    }
+  ],
+  "translation": "暮春的长安城里，处处飘飞着落花；寒食节的东风吹拂着宫苑里的柳枝。天色渐晚，皇宫里传出御赐的蜡烛，袅袅轻烟飘进了权贵大臣们的家中。",
+  "appreciation": "前两句是一幅“长安飞花图”：落花飞舞、东风拂柳，白天的长安又美又热闹，“无处不飞花”用双重否定写出花开得漫天都是。后两句笔锋轻轻一转：寒食节全民禁火，偏偏宫里烛火通明，轻烟只往“五侯家”飘——不着一字批评，特权的画面却让人一眼看懂。这首诗表面写节日，实际藏着讽喻，但画面实在太美，连皇帝读了都连连称赞，这正是“温柔敦厚”的高明写法。",
+  "background": "寒食节在清明节前一两日，相传是为纪念春秋时被火烧死的忠臣介子推，人们在这天禁火、吃冷食，节后重新取火。唐代寒食是重要节日。韩翃写这首诗时，正值权贵势力强大，他在描绘节日风光的同时，含蓄点出了特权现象。据说唐德宗读到这首诗大为欣赏，还因此专门提拔了他。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "满城飞花",
+      "text": "暮春的长安，落花随风飞舞，哪条街巷都是花的海洋。"
+    },
+    {
+      "step": 2,
+      "title": "风吹御柳",
+      "text": "寒食节的东风吹拂着宫墙内外，翠柳斜斜地飘着枝条。"
+    },
+    {
+      "step": 3,
+      "title": "宫中传烛",
+      "text": "傍晚，禁火了一天的人们盼来新火——皇宫里开始赐蜡烛了。"
+    },
+    {
+      "step": 4,
+      "title": "烟入侯门",
+      "text": "烛火一支支传下去，袅袅轻烟，一路飘进权贵大臣的宅院。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "斜",
+      "reading": "xié",
+      "reason": "课本按现代普通话读 xié；旧时诗中也可读 xiá 押韵。",
+      "standard": "按教材读 xié"
+    }
+  ],
+  "sources": [
+    "部编版语文六年级下册",
+    "《全唐诗》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26"
+}

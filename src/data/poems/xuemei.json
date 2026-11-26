@@ -1,0 +1,162 @@
+{
+  "id": "songci-nansong-lumeipo-xuemei",
+  "slug": "xuemei",
+  "title": "雪梅（其一）",
+  "titlePinyin": "xuě méi",
+  "dynasty": "songci",
+  "era": "nansong",
+  "genre": "shi",
+  "form": "七言绝句",
+  "authorId": "lumeipo",
+  "gradeBand": "g3-4",
+  "textbook": "部编版语文四年级上册",
+  "tags": [
+    "梅花",
+    "雪",
+    "说理",
+    "七言绝句"
+  ],
+  "difficulty": 2,
+  "writtenYear": 1200,
+  "writtenLabel": "创作年份不详（约南宋后期）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "梅须逊雪三分白，雪却输梅一段香。"
+  ],
+  "lines": [
+    {
+      "text": "梅雪争春未肯降，",
+      "pinyin": [
+        "méi",
+        "xuě",
+        "zhēng",
+        "chūn",
+        "wèi",
+        "kěn",
+        "xiáng"
+      ],
+      "translation": "梅花和雪花都认为自己占尽了春色，谁也不肯服输，",
+      "noteIds": [
+        "n-xiang"
+      ]
+    },
+    {
+      "text": "骚人搁笔费评章。",
+      "pinyin": [
+        "sāo",
+        "rén",
+        "gē",
+        "bǐ",
+        "fèi",
+        "píng",
+        "zhāng"
+      ],
+      "translation": "难坏了诗人，放下笔不知道该怎么评判高下。",
+      "noteIds": [
+        "n-saoren",
+        "n-pingzhang"
+      ]
+    },
+    {
+      "text": "梅须逊雪三分白，",
+      "pinyin": [
+        "méi",
+        "xū",
+        "xùn",
+        "xuě",
+        "sān",
+        "fēn",
+        "bái"
+      ],
+      "translation": "说句公道话：梅花比雪花少了三分洁白，",
+      "noteIds": [
+        "n-xun"
+      ]
+    },
+    {
+      "text": "雪却输梅一段香。",
+      "pinyin": [
+        "xuě",
+        "què",
+        "shū",
+        "méi",
+        "yī",
+        "duàn",
+        "xiāng"
+      ],
+      "translation": "雪花却输给梅花一段清香。",
+      "noteIds": []
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-xiang",
+      "word": "降",
+      "pinyin": "xiáng",
+      "meaning": "服输、认输。梅和雪谁也不肯认输。"
+    },
+    {
+      "id": "n-saoren",
+      "word": "骚人",
+      "pinyin": "sāo rén",
+      "meaning": "诗人。屈原作《离骚》，后人便用“骚人”称呼诗人。"
+    },
+    {
+      "id": "n-pingzhang",
+      "word": "评章",
+      "pinyin": "píng zhāng",
+      "meaning": "评议、评判，这里指评判梅和雪的高下。"
+    },
+    {
+      "id": "n-xun",
+      "word": "逊",
+      "pinyin": "xùn",
+      "meaning": "不及、比不上。"
+    }
+  ],
+  "translation": "梅花和雪花都觉得自己才是春天的代表，争来争去谁也不肯服输，害得诗人放下笔，不知怎么评判才好。其实各有胜负：梅花比雪花少了三分洁白，雪花却比不上梅花那一段清香。",
+  "appreciation": "这是一场别开生面的“比赛”：梅花和雪花比美，比得难解难分。诗人先故意为难得搁笔，再当一回裁判——“梅须逊雪三分白，雪却输梅一段香”，一句让雪赢三分，一句让梅扳回一局。妙就妙在这不是和稀泥，而是准确的观察：雪白而无香，梅香而不及雪白。各有所长，也各有所短——小朋友读完自然明白：不要只盯着自己的优点，也要学会欣赏别人的长处。",
+  "background": "卢梅坡一生爱梅，写下多首咏梅诗。古人赏梅常在雪后，“踏雪寻梅”是文人的雅趣。梅与雪常同时出现，难免让人比较：到底谁更美？卢梅坡用一首《雪梅》给出了绝妙的答案，成为咏梅诗中的经典说理小品。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "梅和雪吵起来了",
+      "text": "冬末春初，梅花开了，雪花也来了。它们都说自己才是春的使者，谁也不认输。"
+    },
+    {
+      "step": 2,
+      "title": "诗人也犯难",
+      "text": "诗人想写诗评个高下，想来想去放下了笔——这可怎么评？"
+    },
+    {
+      "step": 3,
+      "title": "雪赢了白",
+      "text": "比洁白：雪一尘不染，梅花要逊色三分。"
+    },
+    {
+      "step": 4,
+      "title": "梅赢了香",
+      "text": "比香气：梅花暗香浮动，雪花一点香味也没有——原来各有各的厉害！"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "降",
+      "reading": "xiáng",
+      "reason": "“未肯降”指不肯服输、投降。",
+      "standard": "不读 jiàng（下降）"
+    },
+    {
+      "char": "骚",
+      "reading": "sāo",
+      "reason": "“骚人”指诗人，源自屈原的《离骚》。",
+      "standard": "不是“骚扰”的骚"
+    }
+  ],
+  "sources": [
+    "部编版语文四年级上册",
+    "《全宋诗》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26"
+}

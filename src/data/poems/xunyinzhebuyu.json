@@ -9,7 +9,7 @@
   "form": "五言绝句",
   "authorId": "jiadao",
   "gradeBand": "g1-2",
-  "textbook": "课外经典诵读篇目",
+  "textbook": "部编版语文一年级下册",
   "tags": [
     "问答",
     "隐士",
@@ -130,7 +130,7 @@
     "《唐诗鉴赏辞典》"
   ],
   "status": "published",
-  "updatedAt": "2026-11-24",
+  "updatedAt": "2026-11-26",
   "images": {
     "cover": {
       "src": "/assets/img/poems/xunyinzhebuyu-cover.jpg",

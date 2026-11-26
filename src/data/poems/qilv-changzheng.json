@@ -1,0 +1,276 @@
+{
+  "id": "qita-xiandai-maozedong-qilv-changzheng",
+  "slug": "qilv-changzheng",
+  "title": "七律·长征",
+  "titlePinyin": "qī lǜ · cháng zhēng",
+  "dynasty": "qita",
+  "era": "xiandai",
+  "genre": "shi",
+  "form": "七言律诗",
+  "authorId": "maozedong",
+  "gradeBand": "g5-6",
+  "textbook": "部编版语文六年级上册",
+  "tags": [
+    "长征",
+    "革命",
+    "豪情",
+    "七言律诗"
+  ],
+  "difficulty": 3,
+  "writtenYear": 1935,
+  "writtenLabel": "1935 年 10 月（长征即将胜利之际）",
+  "orderInAuthor": 1,
+  "famousLines": [
+    "红军不怕远征难，万水千山只等闲。"
+  ],
+  "lines": [
+    {
+      "text": "红军不怕远征难，",
+      "pinyin": [
+        "hóng",
+        "jūn",
+        "bù",
+        "pà",
+        "yuǎn",
+        "zhēng",
+        "nán"
+      ],
+      "translation": "红军不怕长征路上的千难万险，",
+      "noteIds": [
+        "n-yuanzheng"
+      ]
+    },
+    {
+      "text": "万水千山只等闲。",
+      "pinyin": [
+        "wàn",
+        "shuǐ",
+        "qiān",
+        "shān",
+        "zhǐ",
+        "děng",
+        "xián"
+      ],
+      "translation": "把跨越万水千山只当作平常小事。",
+      "noteIds": [
+        "n-dengxian"
+      ]
+    },
+    {
+      "text": "五岭逶迤腾细浪，",
+      "pinyin": [
+        "wǔ",
+        "lǐng",
+        "wēi",
+        "yí",
+        "téng",
+        "xì",
+        "làng"
+      ],
+      "translation": "绵延起伏的五岭，在红军眼里不过像翻腾的细浪，",
+      "noteIds": [
+        "n-wuling",
+        "n-weiyi"
+      ]
+    },
+    {
+      "text": "乌蒙磅礴走泥丸。",
+      "pinyin": [
+        "wū",
+        "méng",
+        "páng",
+        "bó",
+        "zǒu",
+        "ní",
+        "wán"
+      ],
+      "translation": "气势磅礴的乌蒙山，也不过像脚下滚动的泥丸。",
+      "noteIds": [
+        "n-wumeng",
+        "n-pangbo"
+      ]
+    },
+    {
+      "text": "金沙水拍云崖暖，",
+      "pinyin": [
+        "jīn",
+        "shā",
+        "shuǐ",
+        "pāi",
+        "yún",
+        "yá",
+        "nuǎn"
+      ],
+      "translation": "金沙江的浪拍打着悬崖，让人心里暖洋洋的，",
+      "noteIds": [
+        "n-jinsha"
+      ]
+    },
+    {
+      "text": "大渡桥横铁索寒。",
+      "pinyin": [
+        "dà",
+        "dù",
+        "qiáo",
+        "héng",
+        "tiě",
+        "suǒ",
+        "hán"
+      ],
+      "translation": "大渡河上的铁索桥高高横悬，透着阵阵寒意。",
+      "noteIds": [
+        "n-dadu"
+      ]
+    },
+    {
+      "text": "更喜岷山千里雪，",
+      "pinyin": [
+        "gèng",
+        "xǐ",
+        "mín",
+        "shān",
+        "qiān",
+        "lǐ",
+        "xuě"
+      ],
+      "translation": "更让人高兴的是翻过千里积雪的岷山，",
+      "noteIds": [
+        "n-minshan"
+      ]
+    },
+    {
+      "text": "三军过后尽开颜。",
+      "pinyin": [
+        "sān",
+        "jūn",
+        "guò",
+        "hòu",
+        "jìn",
+        "kāi",
+        "yán"
+      ],
+      "translation": "全军将士都露出了灿烂的笑容。",
+      "noteIds": [
+        "n-sanjun"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-yuanzheng",
+      "word": "远征",
+      "pinyin": "yuǎn zhēng",
+      "meaning": "指红军二万五千里长征。"
+    },
+    {
+      "id": "n-dengxian",
+      "word": "等闲",
+      "pinyin": "děng xián",
+      "meaning": "平常、普通，不放在眼里。"
+    },
+    {
+      "id": "n-wuling",
+      "word": "五岭",
+      "pinyin": "wǔ lǐng",
+      "meaning": "大庾岭、骑田岭、萌渚岭、都庞岭、越城岭，位于江西、湖南、广东、广西交界处。"
+    },
+    {
+      "id": "n-weiyi",
+      "word": "逶迤",
+      "pinyin": "wēi yí",
+      "meaning": "弯弯曲曲、连绵不断的样子。"
+    },
+    {
+      "id": "n-wumeng",
+      "word": "乌蒙",
+      "pinyin": "wū méng",
+      "meaning": "乌蒙山，在贵州与云南交界处，山势雄伟高大。"
+    },
+    {
+      "id": "n-pangbo",
+      "word": "磅礴",
+      "pinyin": "páng bó",
+      "meaning": "气势雄伟浩大的样子。"
+    },
+    {
+      "id": "n-jinsha",
+      "word": "金沙",
+      "pinyin": "jīn shā",
+      "meaning": "金沙江，长江上游的一段，水流湍急。红军曾巧妙渡过金沙江。"
+    },
+    {
+      "id": "n-dadu",
+      "word": "大渡桥",
+      "pinyin": "dà dù qiáo",
+      "meaning": "大渡河上的泸定桥，桥面由十三根铁索组成。红军曾冒着枪林弹雨强渡。"
+    },
+    {
+      "id": "n-minshan",
+      "word": "岷山",
+      "pinyin": "mín shān",
+      "meaning": "在四川、甘肃交界处，山顶终年积雪，是长征翻越的最后一座大雪山。"
+    },
+    {
+      "id": "n-sanjun",
+      "word": "三军",
+      "pinyin": "sān jūn",
+      "meaning": "这里指红军全军。"
+    }
+  ],
+  "translation": "红军不怕长征路上的艰难险阻，万水千山在他们眼里不过是平常事。绵延的五岭山，翻腾起来不过像细小的浪花；雄伟的乌蒙山，也不过像脚下滚动的泥丸。金沙江的浪头拍打着悬崖，让人心里暖暖的；大渡河上铁索桥横悬，寒气逼人。最令人欣喜的是翻过千里白雪的岷山，全军将士个个笑逐颜开。",
+  "appreciation": "二万五千里的千难万险，被浓缩成五十六个字，而且通篇不见一个“苦”字。诗人先立起“不怕”二字定下基调，然后连用夸张把大山“变小”：五岭成了细浪，乌蒙成了泥丸——不是山真的小了，而是红军的气概比山更高。接着一“暖”一“寒”：渡金沙江的喜悦是暖，飞夺泸定桥的惊险是寒，两种滋味都是胜利的注脚。结尾“更喜”翻上高潮：别人望而生畏的千里雪，红军翻过去就“尽开颜”。把最艰苦的长征写成胜利的凯歌，这就是这首诗最了不起的地方。",
+  "background": "1934 年 10 月，中央红军从江西出发开始长征，一路翻山过河、突破围追堵截。1935 年 10 月，红军翻越岷山，长征眼看就要胜利结束。毛泽东回顾这一路走过的万水千山，心潮澎湃，写下了这首《七律·长征》。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "不怕远征难",
+      "text": "面对二万五千里长征的艰难险阻，红军的回答只有两个字：不怕！"
+    },
+    {
+      "step": 2,
+      "title": "大山变小了",
+      "text": "连绵的五岭像细浪起伏，雄伟的乌蒙山像滚动的泥丸——红军的豪气比山还高。"
+    },
+    {
+      "step": 3,
+      "title": "一暖一寒",
+      "text": "巧渡金沙江，浪花拍岸心里暖；飞夺泸定桥，铁索横江寒气逼人。"
+    },
+    {
+      "step": 4,
+      "title": "翻过千里雪",
+      "text": "翻越终年积雪的岷山，长征的最后一大难关被踩在了脚下。"
+    },
+    {
+      "step": 5,
+      "title": "尽开颜",
+      "text": "长征即将胜利，全军将士个个笑逐颜开，凯歌高奏。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "逶迤",
+      "reading": "wēi yí",
+      "reason": "形容山峦弯弯曲曲、连绵不断，两个都是生僻字。",
+      "standard": "注意“逶”不读 wěi"
+    },
+    {
+      "char": "磅礴",
+      "reading": "páng bó",
+      "reason": "形容气势雄伟广大，两个都是生僻字。",
+      "standard": "石字旁的“磅”"
+    },
+    {
+      "char": "岷",
+      "reading": "mín",
+      "reason": "岷山、岷江的“岷”，山字旁。",
+      "standard": "不读 mǐn"
+    }
+  ],
+  "sources": [
+    "部编版语文六年级上册",
+    "《毛泽东诗词集》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26"
+}

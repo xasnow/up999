@@ -1,0 +1,213 @@
+{
+  "id": "qita-xiandai-maozedong-busuanzi-yongmei",
+  "slug": "busuanzi-yongmei",
+  "title": "卜算子·咏梅",
+  "titlePinyin": "bǔ suàn zǐ · yǒng méi",
+  "dynasty": "qita",
+  "era": "xiandai",
+  "genre": "ci",
+  "form": "词·卜算子",
+  "authorId": "maozedong",
+  "gradeBand": "g3-4",
+  "textbook": "部编版语文四年级下册",
+  "tags": [
+    "梅花",
+    "乐观",
+    "品格",
+    "词"
+  ],
+  "difficulty": 2,
+  "writtenYear": 1961,
+  "writtenLabel": "1961 年 12 月（读陆游咏梅词，反其意而用之）",
+  "orderInAuthor": 2,
+  "famousLines": [
+    "待到山花烂漫时，她在丛中笑。"
+  ],
+  "lines": [
+    {
+      "text": "风雨送春归，",
+      "pinyin": [
+        "fēng",
+        "yǔ",
+        "sòng",
+        "chūn",
+        "guī"
+      ],
+      "translation": "风雨把春天送走了，",
+      "noteIds": []
+    },
+    {
+      "text": "飞雪迎春到。",
+      "pinyin": [
+        "fēi",
+        "xuě",
+        "yíng",
+        "chūn",
+        "dào"
+      ],
+      "translation": "漫天飞雪又把春天迎了回来。",
+      "noteIds": []
+    },
+    {
+      "text": "已是悬崖百丈冰，",
+      "pinyin": [
+        "yǐ",
+        "shì",
+        "xuán",
+        "yá",
+        "bǎi",
+        "zhàng",
+        "bīng"
+      ],
+      "translation": "悬崖上已结起百丈冰凌，",
+      "noteIds": [
+        "n-xuanya"
+      ]
+    },
+    {
+      "text": "犹有花枝俏。",
+      "pinyin": [
+        "yóu",
+        "yǒu",
+        "huā",
+        "zhī",
+        "qiào"
+      ],
+      "translation": "梅花却依然开得俏丽动人。",
+      "noteIds": [
+        "n-you",
+        "n-qiao"
+      ]
+    },
+    {
+      "text": "俏也不争春，",
+      "pinyin": [
+        "qiào",
+        "yě",
+        "bù",
+        "zhēng",
+        "chūn"
+      ],
+      "translation": "梅花虽然开得娇艳，却不与百花争抢春光，",
+      "noteIds": []
+    },
+    {
+      "text": "只把春来报。",
+      "pinyin": [
+        "zhǐ",
+        "bǎ",
+        "chūn",
+        "lái",
+        "bào"
+      ],
+      "translation": "只是把春天到来的消息报告给大家。",
+      "noteIds": []
+    },
+    {
+      "text": "待到山花烂漫时，",
+      "pinyin": [
+        "dài",
+        "dào",
+        "shān",
+        "huā",
+        "làn",
+        "màn",
+        "shí"
+      ],
+      "translation": "等到满山遍野的山花都开烂漫了，",
+      "noteIds": [
+        "n-lanman"
+      ]
+    },
+    {
+      "text": "她在丛中笑。",
+      "pinyin": [
+        "tā",
+        "zài",
+        "cóng",
+        "zhōng",
+        "xiào"
+      ],
+      "translation": "梅花就在花丛中欣慰地微笑。",
+      "noteIds": [
+        "n-cong"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-xuanya",
+      "word": "悬崖",
+      "pinyin": "xuán yá",
+      "meaning": "高而陡的山崖。"
+    },
+    {
+      "id": "n-you",
+      "word": "犹",
+      "pinyin": "yóu",
+      "meaning": "还、仍然。"
+    },
+    {
+      "id": "n-qiao",
+      "word": "俏",
+      "pinyin": "qiào",
+      "meaning": "俊俏、俏丽，形容梅花开得好看而有精神。"
+    },
+    {
+      "id": "n-lanman",
+      "word": "烂漫",
+      "pinyin": "làn màn",
+      "meaning": "颜色鲜明而美丽，形容花开得繁盛灿烂。"
+    },
+    {
+      "id": "n-cong",
+      "word": "丛",
+      "pinyin": "cóng",
+      "meaning": "聚集在一起的花丛。"
+    }
+  ],
+  "translation": "风雨把春天送走了，漫天飞雪又迎来了新的春天。悬崖上已经结起百丈坚冰，梅花却照样开得俏丽精神。她俏丽却不争抢春光，只把春天来临的消息报告给大家。等到满山山花开得灿烂烂漫时，她就在百花丛中开心地笑着。",
+  "appreciation": "同样是咏梅，毛泽东笔下的梅花完全变了模样：别的诗写梅花孤独、清高、无人怜惜，这首里的梅花却迎着冰雪俏皮地“笑”。上阕写环境有多险——风雨、飞雪、百丈冰，衬托“犹有花枝俏”有多勇敢；下阕写品格有多高——“不争春”三个字，把梅花的谦逊写活了。最美的结尾是“她在丛中笑”：自己先开花报春，等百花都开了，她躲在花丛里欣慰地笑。勇敢、乐观、不居功，这就是新中国建设者们的精神写照。",
+  "background": "1961 年，国家正处在困难时期：国际上遭遇封锁压力，国内经历严重自然灾害。这年 12 月，毛泽东读了南宋陆游的《卜算子·咏梅》，觉得陆游笔下的梅花太消极，于是“反其意而用之”——同样咏梅，写出勇敢乐观的新气象，鼓舞人们在困难中保持信心。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "风雪迎春",
+      "text": "旧的一年随着风雨过去，新的春天在漫天飞雪中被迎了回来。"
+    },
+    {
+      "step": 2,
+      "title": "冰封悬崖",
+      "text": "悬崖上挂满百丈冰凌，天气冷得让人打哆嗦。"
+    },
+    {
+      "step": 3,
+      "title": "梅花偏偏开了",
+      "text": "就在这样的严寒里，一枝梅花迎风怒放，开得俏丽有精神。"
+    },
+    {
+      "step": 4,
+      "title": "报春不争春",
+      "text": "她不跟百花抢功劳，只把春天来了的消息告诉大家。"
+    },
+    {
+      "step": 5,
+      "title": "丛中笑",
+      "text": "等满山山花全部盛开，梅花就藏在花丛中，满足地笑了。"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "犹",
+      "reading": "yóu",
+      "reason": "“犹有”是“还有”的意思，文言词。",
+      "standard": "注意与“优”“忧”区分"
+    }
+  ],
+  "sources": [
+    "部编版语文四年级下册",
+    "《毛泽东诗词集》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26"
+}

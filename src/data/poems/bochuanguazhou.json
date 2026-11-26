@@ -1,0 +1,175 @@
+{
+  "id": "songci-beisong-wanganshi-bochuanguazhou",
+  "slug": "bochuanguazhou",
+  "title": "泊船瓜洲",
+  "titlePinyin": "bó chuán guā zhōu",
+  "dynasty": "songci",
+  "era": "beisong",
+  "genre": "shi",
+  "form": "七言绝句",
+  "authorId": "wanganshi",
+  "gradeBand": "g5-6",
+  "textbook": "部编版语文六年级下册",
+  "tags": [
+    "思乡",
+    "春天",
+    "七言绝句"
+  ],
+  "difficulty": 2,
+  "writtenYear": 1075,
+  "writtenLabel": "公元 1075 年（王安石再度进京途中）",
+  "orderInAuthor": 3,
+  "famousLines": [
+    "春风又绿江南岸，明月何时照我还。"
+  ],
+  "lines": [
+    {
+      "text": "京口瓜洲一水间，",
+      "pinyin": [
+        "jīng",
+        "kǒu",
+        "guā",
+        "zhōu",
+        "yī",
+        "shuǐ",
+        "jiān"
+      ],
+      "translation": "京口和瓜洲只隔着一条长江，",
+      "noteIds": [
+        "n-jingkou",
+        "n-guazhou"
+      ]
+    },
+    {
+      "text": "钟山只隔数重山。",
+      "pinyin": [
+        "zhōng",
+        "shān",
+        "zhǐ",
+        "gé",
+        "shù",
+        "chóng",
+        "shān"
+      ],
+      "translation": "钟山也只隔着几层山峦。",
+      "noteIds": [
+        "n-zhongshan"
+      ]
+    },
+    {
+      "text": "春风又绿江南岸，",
+      "pinyin": [
+        "chūn",
+        "fēng",
+        "yòu",
+        "lǜ",
+        "jiāng",
+        "nán",
+        "àn"
+      ],
+      "translation": "春风又一次吹绿了江南的两岸，",
+      "noteIds": [
+        "n-lv"
+      ]
+    },
+    {
+      "text": "明月何时照我还。",
+      "pinyin": [
+        "míng",
+        "yuè",
+        "hé",
+        "shí",
+        "zhào",
+        "wǒ",
+        "huán"
+      ],
+      "translation": "明月什么时候才能照着我回家呢？",
+      "noteIds": [
+        "n-huan"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-jingkou",
+      "word": "京口",
+      "pinyin": "jīng kǒu",
+      "meaning": "今江苏镇江，在长江南岸。"
+    },
+    {
+      "id": "n-guazhou",
+      "word": "瓜洲",
+      "pinyin": "guā zhōu",
+      "meaning": "在长江北岸，与京口隔江相对，是渡口名。"
+    },
+    {
+      "id": "n-zhongshan",
+      "word": "钟山",
+      "pinyin": "zhōng shān",
+      "meaning": "今南京紫金山，王安石退居时住在钟山脚下。"
+    },
+    {
+      "id": "n-lv",
+      "word": "绿",
+      "pinyin": "lǜ",
+      "meaning": "吹绿，用作动词，指春风把江南岸的草木都吹绿了。"
+    },
+    {
+      "id": "n-huan",
+      "word": "还",
+      "pinyin": "huán",
+      "meaning": "回家、归来。"
+    }
+  ],
+  "translation": "京口和瓜洲之间只隔着一条长江，我从京口回望家乡钟山，也不过隔着几重青山。春风又一次吹绿了江南两岸的田野，明月啊，你什么时候才能照着我回到家乡？",
+  "appreciation": "这首诗最出名的就是“绿”字。据说王安石先后换了“到”“过”“入”“满”等十多个字，最后才定下“绿”——把颜色当动词用，春风一来，整个江南岸“绿”了，一字千钧。前三句都在写“近”：一水间、数重山，离家那么近，可诗人偏偏回不去。近而不得，才让最后一句的盼望格外动人：春风能年年吹绿江南，明月却不知何时才能照他回家。短短二十八字，把“离家近、归家难”的滋味写到了极致。",
+  "background": "公元 1075 年，王安石第二次被任命为宰相，从家乡钟山出发进京。船停靠在瓜洲渡口时，他回望家乡：长江对岸是京口，再翻几重山就是钟山。离家近在咫尺，此去却前途难料，他望着江南的春色写下这首《泊船瓜洲》。“泊”是停船的意思。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "船泊瓜洲",
+      "text": "船停在瓜洲渡口，抬头一望，对岸就是京口，中间只隔着一条江。"
+    },
+    {
+      "step": 2,
+      "title": "回望钟山",
+      "text": "再往家乡的方向看，钟山只隔着几重山——家离得这么近啊！"
+    },
+    {
+      "step": 3,
+      "title": "春风又绿江南",
+      "text": "春风又一次吹过，江南岸的田野山川一片新绿。"
+    },
+    {
+      "step": 4,
+      "title": "明月何时照我还",
+      "text": "诗人望着升起的新月发问：明月啊，什么时候你能照着我回家呢？"
+    }
+  ],
+  "pinyinNotes": [
+    {
+      "char": "重",
+      "reading": "chóng",
+      "reason": "“数重山”指几层山，“重”是量词。",
+      "standard": "不读 zhòng"
+    },
+    {
+      "char": "还",
+      "reading": "huán",
+      "reason": "“照我还”的“还”是“回家”的意思。",
+      "standard": "不读 hái"
+    },
+    {
+      "char": "绿",
+      "reading": "lǜ",
+      "reason": "诗中“绿”用作动词“吹绿”，是全诗的诗眼。",
+      "standard": "颜色名词活用为动词"
+    }
+  ],
+  "sources": [
+    "部编版语文六年级下册",
+    "《王安石诗文选》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26"
+}

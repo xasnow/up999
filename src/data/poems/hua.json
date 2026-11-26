@@ -1,0 +1,133 @@
+{
+  "id": "tangshi-shengtang-wangwei-hua",
+  "slug": "hua",
+  "title": "画",
+  "titlePinyin": "huà",
+  "dynasty": "tangshi",
+  "era": "shengtang",
+  "genre": "shi",
+  "form": "五言绝句",
+  "authorId": "wangwei",
+  "gradeBand": "g1-2",
+  "textbook": "部编版语文一年级上册",
+  "tags": [
+    "题画诗",
+    "谜语",
+    "五言绝句"
+  ],
+  "difficulty": 1,
+  "writtenYear": 715,
+  "writtenLabel": "创作年份不详（传为王维少年时所作）",
+  "orderInAuthor": 9,
+  "famousLines": [
+    "春去花还在，人来鸟不惊。"
+  ],
+  "lines": [
+    {
+      "text": "远看山有色，",
+      "pinyin": [
+        "yuǎn",
+        "kàn",
+        "shān",
+        "yǒu",
+        "sè"
+      ],
+      "translation": "远远看去，山是有颜色的，",
+      "noteIds": [
+        "n-se"
+      ]
+    },
+    {
+      "text": "近听水无声。",
+      "pinyin": [
+        "jìn",
+        "tīng",
+        "shuǐ",
+        "wú",
+        "shēng"
+      ],
+      "translation": "走近了听，流水却没有声音。",
+      "noteIds": [
+        "n-sheng"
+      ]
+    },
+    {
+      "text": "春去花还在，",
+      "pinyin": [
+        "chūn",
+        "qù",
+        "huā",
+        "hái",
+        "zài"
+      ],
+      "translation": "春天过去了，花还开着，",
+      "noteIds": []
+    },
+    {
+      "text": "人来鸟不惊。",
+      "pinyin": [
+        "rén",
+        "lái",
+        "niǎo",
+        "bù",
+        "jīng"
+      ],
+      "translation": "人走近了，鸟也不害怕飞走。",
+      "noteIds": [
+        "n-jing"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "n-se",
+      "word": "色",
+      "pinyin": "sè",
+      "meaning": "颜色，这里指画上青绿的山色。"
+    },
+    {
+      "id": "n-sheng",
+      "word": "声",
+      "pinyin": "shēng",
+      "meaning": "声音。真的流水哗哗响，画上的水却安安静静。"
+    },
+    {
+      "id": "n-jing",
+      "word": "惊",
+      "pinyin": "jīng",
+      "meaning": "受惊、害怕。真的鸟见人会飞走，画上的鸟不会。"
+    }
+  ],
+  "translation": "远远看去，山画得青翠有颜色；走近了听，水却听不到一点声音。春天已经过去，画上的花还开着；人走到跟前，画上的鸟也不受惊飞走。",
+  "appreciation": "这首诗其实是四句有趣的话，谜底就藏在“画”里。诗人不直接说“这是一幅画”，而是说：这山看得见颜色，水却没有声音；花四季常开，鸟从不飞走——自然界没有这样的东西，只有画里有。一句一个“不可能”，把画的特点说得清清楚楚。小朋友读着读着，自己就能猜出答案，这就是谜语诗的巧妙。",
+  "background": "相传这首诗是王维少年时为一幅画题写的诗，像一位小讲解员站在画前，把画里的秘密一条条讲给大家听。因为写得太妙，一千多年来一直被当作谜语诗流传，现在也是小朋友入学后最早接触的古诗之一。",
+  "storyline": [
+    {
+      "step": 1,
+      "title": "远看山有色",
+      "text": "远远望去，画面上的青山绿油油的，颜色好看极了。"
+    },
+    {
+      "step": 2,
+      "title": "近听水无声",
+      "text": "凑近了竖起耳朵听——奇怪，瀑布和流水怎么一点声音都没有？"
+    },
+    {
+      "step": 3,
+      "title": "花还在开",
+      "text": "春天早就过去了，可画上的花儿一朵朵还开得正艳。"
+    },
+    {
+      "step": 4,
+      "title": "鸟也不怕人",
+      "text": "人走近了，画上的小鸟一动不动：原来这不是真山真水，是一幅画呀！"
+    }
+  ],
+  "pinyinNotes": [],
+  "sources": [
+    "部编版语文一年级上册",
+    "《王维诗选》"
+  ],
+  "status": "published",
+  "updatedAt": "2026-11-26"
+}

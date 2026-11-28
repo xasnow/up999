@@ -1,0 +1,292 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+
+<BaseLayout
+  title="搜索 · 每天一首小古诗"
+  description="按标题或作者名搜索古诗词，支持只输入一两个字，结果按教材、学段与匹配位置排序。"
+  keywords="古诗词搜索,古诗查询,唐诗宋词搜索,按作者找诗"
+>
+  <div class="container">
+    <div class="page-head">
+      <p class="breadcrumb"><a href="/">首页</a> / 搜索</p>
+      <h1>找一首诗</h1>
+      <p class="page-desc">输入标题或作者名即可，支持只输入一两个字。</p>
+    </div>
+
+    <div class="search-box">
+      <input
+        id="search-input"
+        class="search-input"
+        type="search"
+        placeholder="试试「静夜思」「李白」「月」"
+        aria-label="搜索诗词"
+        aria-describedby="search-status"
+        autocomplete="off"
+        autocapitalize="off"
+        spellcheck="false"
+        enterkeyhint="search"
+      />
+    </div>
+
+    <p id="search-status" class="search-status" aria-live="polite"></p>
+
+    <div id="search-default" class="search-default">
+      <p class="search-hint">标题和作者名都能搜；只输入一个字也可以。输入框为空时不会展示结果。</p>
+      <div class="search-chips">
+        <button type="button" class="search-chip" data-q="静夜思">静夜思</button>
+        <button type="button" class="search-chip" data-q="李白">李白</button>
+        <button type="button" class="search-chip" data-q="月">月</button>
+        <button type="button" class="search-chip" data-q="悯农">悯农</button>
+        <button type="button" class="search-chip" data-q="送别">送别</button>
+      </div>
+    </div>
+
+    <div id="search-result" class="search-result" hidden></div>
+  </div>
+</BaseLayout>
+
+<script>
+  import { search, escapeHtml, highlightHtml, gradeLabel } from '../lib/hanzi-search';
+  import type { SearchIndex, SearchOutcome } from '../lib/hanzi-search';
+
+  const input = document.getElementById('search-input') as HTMLInputElement | null;
+  const resultEl = document.getElementById('search-result');
+  const statusEl = document.getElementById('search-status');
+  const defaultEl = document.getElementById('search-default');
+
+  if (input && resultEl && statusEl && defaultEl) {
+    // 单字输入时最多展示的条数，避免「其」50 条这类低区分度结果占满整页
+    const SINGLE_POEM_LIMIT = 10;
+    const SINGLE_AUTHOR_LIMIT = 6;
+    // 防抖：本地检索只要 0.01ms，这里只为避免每次按键都重绘导致闪烁
+    const DEBOUNCE_MS = 140;
+
+    let indexPromise: Promise<SearchIndex> | null = null;
+    let timer = 0;
+    let composing = false;
+    let seq = 0;
+    let expanded = false;
+    let outcome: SearchOutcome | null = null;
+
+    /** 索引按需加载：只在 focus / 首次真正查询时才请求，不阻塞页面加载 */
+    const loadIndex = (): Promise<SearchIndex> => {
+      if (!indexPromise) {
+        indexPromise = fetch('/search-index.json')
+          .then((res) => {
+            if (!res.ok) throw new Error(`index ${res.status}`);
+            return res.json() as Promise<SearchIndex>;
+          })
+          .catch((err) => {
+            indexPromise = null;
+            throw err;
+          });
+      }
+      return indexPromise;
+    };
+
+    /** 回到默认状态：清空结果，且不渲染任何列表 */
+    const reset = () => {
+      window.clearTimeout(timer);
+      seq += 1;
+      outcome = null;
+      expanded = false;
+      resultEl.hidden = true;
+      resultEl.innerHTML = '';
+      statusEl.textContent = '';
+      defaultEl.hidden = false;
+    };
+
+    const setStatus = (text: string) => {
+      statusEl.textContent = text;
+    };
+
+    const render = () => {
+      if (!outcome) return;
+
+      const single = outcome.q.length === 1;
+      const poemLimit = single && !expanded ? SINGLE_POEM_LIMIT : outcome.poems.length;
+      const authorLimit = single && !expanded ? SINGLE_AUTHOR_LIMIT : outcome.authors.length;
+      const shownPoems = outcome.poems.slice(0, poemLimit);
+      const shownAuthors = outcome.authors.slice(0, authorLimit);
+      const total = outcome.poems.length + outcome.authors.length;
+      const hiddenCount = total - shownPoems.length - shownAuthors.length;
+      const crossField = outcome.authors.length > 0 && outcome.poems.length > 0;
+
+      defaultEl.hidden = true;
+      resultEl.hidden = false;
+
+      if (total === 0) {
+        resultEl.innerHTML = `<p class="search-empty">没有找到「${escapeHtml(outcome.q)}」。可以少输入几个字，或换一个字试试。</p>`;
+        setStatus('没有找到结果');
+        return;
+      }
+
+      const parts: string[] = [];
+
+      if (shownAuthors.length) {
+        parts.push(
+          '<div class="search-authors">' +
+            shownAuthors
+              .map((hit) => {
+                const doc = hit.doc;
+                const years = doc.y ? ` · ${escapeHtml(doc.y)}` : '';
+                return `<a class="search-author" href="${doc.au}">
+                  <span class="search-author-name">${highlightHtml(doc.a, outcome!.q)}</span>
+                  <span class="search-author-meta">${escapeHtml(doc.e)}${years} · ${doc.c} 首作品</span>
+                  ${crossField ? '<span class="search-hit-tag">作者命中</span>' : ''}
+                </a>`;
+              })
+              .join('') +
+            '</div>'
+        );
+      }
+
+      if (shownPoems.length) {
+        parts.push(
+          '<div class="search-poems">' +
+            shownPoems
+              .map((hit) => {
+                const doc = hit.doc;
+                return `<a class="search-poem" href="${doc.u}">
+                  <span class="search-poem-title">${highlightHtml(doc.t, outcome!.titleQ)}</span>
+                  <span class="search-poem-meta">${escapeHtml(doc.a)} · ${escapeHtml(doc.e)} · ${escapeHtml(doc.f)} · ${gradeLabel(doc.g)}</span>
+                  ${doc.q ? `<span class="search-poem-famous">${escapeHtml(doc.q)}</span>` : ''}
+                  ${doc.tb ? `<span class="search-poem-tb">${escapeHtml(doc.tb)}</span>` : ''}
+                  ${crossField ? '<span class="search-hit-tag">标题命中</span>' : ''}
+                </a>`;
+              })
+              .join('') +
+            '</div>'
+        );
+      }
+
+      if (hiddenCount > 0) {
+        parts.push(`<button type="button" class="search-more" id="search-more">查看全部（共 ${total} 条）</button>`);
+      }
+
+      resultEl.innerHTML = parts.join('');
+
+      const moreBtn = document.getElementById('search-more');
+      if (moreBtn) {
+        moreBtn.addEventListener('click', () => {
+          expanded = true;
+          render();
+        });
+      }
+
+      // 结果数量播报：读屏用户也能知道命中了多少
+      const summary: string[] = [];
+      if (outcome.authors.length) summary.push(`作者 ${outcome.authors.length} 位`);
+      if (outcome.poems.length) summary.push(`作品 ${outcome.poems.length} 首`);
+      let text = summary.join(' · ');
+      if (hiddenCount > 0) {
+        const shownParts: string[] = [];
+        if (shownAuthors.length) shownParts.push(`${shownAuthors.length} 位作者`);
+        if (shownPoems.length) shownParts.push(`${shownPoems.length} 首作品`);
+        text += `（已显示 ${shownParts.join(' + ')}）`;
+      }
+      if (single && total > 20) text += '，输入更多字可精确查找';
+      setStatus(text);
+    };
+
+    /** 一次真正的查询：空输入/纯标点直接回到默认状态，不做任何搜索 */
+    const run = async () => {
+      const raw = input.value;
+      if (!raw.trim()) {
+        reset();
+        return;
+      }
+
+      const q = raw.trim();
+      const mySeq = ++seq;
+
+      let index: SearchIndex;
+      try {
+        index = await loadIndex();
+      } catch (err) {
+        if (mySeq === seq) setStatus('索引加载失败，请刷新页面重试');
+        return;
+      }
+      if (mySeq !== seq) return;
+
+      const next = search(index, q);
+
+      if (next.mode === 'empty') {
+        reset();
+        return;
+      }
+
+      // 拼音组合中的拉丁串：不渲染结果，也不显示"无结果"
+      if (next.mode === 'latin') {
+        outcome = null;
+        expanded = false;
+        resultEl.hidden = true;
+        resultEl.innerHTML = '';
+        defaultEl.hidden = true;
+        setStatus('正在输入拼音？请用汉字搜索，例如「李白」。');
+        return;
+      }
+
+      outcome = next;
+      expanded = false;
+      render();
+    };
+
+    const schedule = (delay = DEBOUNCE_MS) => {
+      window.clearTimeout(timer);
+      timer = window.setTimeout(() => {
+        void run();
+      }, delay);
+    };
+
+    // 中文输入法：组词阶段（拼音预编辑）不搜索，候选上屏后立刻搜一次
+    input.addEventListener('compositionstart', () => {
+      composing = true;
+      window.clearTimeout(timer);
+    });
+    input.addEventListener('compositionend', () => {
+      composing = false;
+      schedule(10);
+    });
+    input.addEventListener('input', (event) => {
+      if (composing || (event as InputEvent).isComposing) return;
+      // 空输入立即回到默认状态，不等防抖
+      if (!input.value.trim()) {
+        reset();
+        return;
+      }
+      schedule();
+    });
+    input.addEventListener('keydown', (event) => {
+      if (event.key === 'Enter') {
+        event.preventDefault();
+        window.clearTimeout(timer);
+        void run();
+      }
+    });
+    // 原生清空按钮、移动端键盘的"搜索"键都会触发 search 事件
+    input.addEventListener('search', () => {
+      window.clearTimeout(timer);
+      void run();
+    });
+    // 索引预取：聚焦时拉取一次，敲第一个字时通常已经就绪
+    input.addEventListener(
+      'focus',
+      () => {
+        void loadIndex().catch(() => {});
+      },
+      { once: true }
+    );
+
+    // 默认状态里的示例词：只是把文字填进输入框，不属于结果列表
+    document.querySelectorAll<HTMLButtonElement>('.search-chip').forEach((chip) => {
+      chip.addEventListener('click', () => {
+        input.value = chip.dataset.q ?? '';
+        input.focus();
+        window.clearTimeout(timer);
+        void run();
+      });
+    });
+  }
+</script>

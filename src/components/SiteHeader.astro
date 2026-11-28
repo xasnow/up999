@@ -6,7 +6,8 @@ const links = [
   { href: '/tangshi/', label: '唐诗' },
   { href: '/songci/', label: '宋词' },
   { href: '/qita/', label: '其他朝代' },
-  { href: '/topics/', label: '专题' }
+  { href: '/topics/', label: '专题' },
+  { href: '/search/', label: '搜索' }
 ];
 const current = links.find((l) => (l.href === '/' ? path === '/' : path.startsWith(l.href)))?.href;
 ---

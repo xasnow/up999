@@ -1555,3 +1555,212 @@ html {
   }
 }
 
+
+/* ========= 汉字搜索页 ========= */
+.search-box {
+  margin: 10px 0 6px;
+}
+
+.search-input {
+  width: 100%;
+  min-height: 48px;
+  padding: 10px 16px;
+  font-size: 16px;
+  font-family: inherit;
+  color: var(--ink);
+  background: var(--card);
+  border: 1.5px solid var(--line);
+  border-radius: 999px;
+  box-shadow: var(--shadow);
+  -webkit-appearance: none;
+  appearance: none;
+}
+
+.search-input::placeholder {
+  color: var(--pinyin-color);
+}
+
+.search-input:focus {
+  outline: none;
+  border-color: var(--moon-deep);
+  box-shadow: 0 0 0 3px rgba(245, 196, 81, 0.18);
+}
+
+.search-status {
+  min-height: 1.4em;
+  margin: 8px 0 12px;
+  font-size: 13px;
+  color: var(--ink-soft);
+}
+
+.search-default {
+  padding: 6px 0 12px;
+}
+
+.search-hint {
+  margin: 0 0 10px;
+  font-size: 14px;
+  color: var(--ink-soft);
+}
+
+.search-chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.search-chip {
+  padding: 6px 14px;
+  font-size: 14px;
+  font-family: inherit;
+  color: var(--ink);
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  cursor: pointer;
+}
+
+.search-chip:hover {
+  border-color: var(--moon-deep);
+  color: var(--moon-deep);
+}
+
+.search-result[hidden] {
+  display: none;
+}
+
+.search-authors {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+  gap: 10px;
+  margin-bottom: 16px;
+}
+
+.search-author {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  padding: 10px 14px;
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+}
+
+.search-author:hover {
+  border-color: var(--moon-deep);
+}
+
+.search-author-name {
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.search-author-meta {
+  font-size: 12px;
+  color: var(--ink-soft);
+}
+
+.search-poems {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.search-poem {
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+  padding: 12px 14px;
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+}
+
+.search-poem:hover {
+  border-color: var(--moon-deep);
+}
+
+.search-poem-title {
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.search-poem-meta {
+  font-size: 12px;
+  color: var(--ink-soft);
+}
+
+.search-poem-famous {
+  font-size: 13px;
+  color: var(--ink);
+  opacity: 0.82;
+}
+
+.search-poem-tb {
+  font-size: 12px;
+  color: var(--moon-deep);
+}
+
+.search-hit-tag {
+  align-self: flex-start;
+  padding: 0 6px;
+  font-size: 11px;
+  color: var(--moon-deep);
+  border: 1px solid var(--moon-deep);
+  border-radius: 999px;
+}
+
+.search-author mark,
+.search-poem mark {
+  padding: 0 1px;
+  color: inherit;
+  background: rgba(245, 196, 81, 0.45);
+  border-radius: 3px;
+}
+
+.search-more {
+  width: 100%;
+  margin-top: 14px;
+  padding: 10px 16px;
+  font-size: 14px;
+  font-family: inherit;
+  color: var(--ink);
+  background: transparent;
+  border: 1px dashed var(--line);
+  border-radius: var(--radius);
+  cursor: pointer;
+}
+
+.search-more:hover {
+  border-color: var(--moon-deep);
+  color: var(--moon-deep);
+}
+
+.search-empty {
+  padding: 20px 0;
+  font-size: 14px;
+  color: var(--ink-soft);
+}
+
+.drawer-search-link {
+  display: block;
+  margin: 0 0 10px;
+  padding: 10px 12px;
+  font-size: 14px;
+  color: var(--ink-soft);
+  border: 1px dashed var(--line);
+  border-radius: 10px;
+}
+
+.drawer-search-link:hover {
+  color: var(--moon-deep);
+  border-color: var(--moon-deep);
+}
+
+@media (max-width: 720px) {
+  .search-authors {
+    grid-template-columns: 1fr 1fr;
+  }
+}
